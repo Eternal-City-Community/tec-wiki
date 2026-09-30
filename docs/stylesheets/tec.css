@@ -386,3 +386,89 @@ body::before {
     padding-left: 0;
   }
 }
+
+
+/* TEC/Wikidot-style thin utility navigation beneath the masthead */
+.tec-topnav {
+  position: sticky;
+  top: 80px;
+  z-index: 9;
+  height: 23px;
+  background: #183500;
+  border-top: 1px solid #0d2000;
+  border-bottom: 1px solid #071500;
+  color: #f1e7c1;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.tec-topnav__inner {
+  display: flex;
+  align-items: flex-start;
+  gap: .35rem;
+  height: 100%;
+  padding-left: calc(var(--tec-sidebar-width) + .7rem);
+}
+
+.tec-topnav__item {
+  position: relative;
+  height: 100%;
+}
+
+.tec-topnav__button {
+  display: block;
+  min-width: 3.5rem;
+  height: 20px;
+  margin-top: 1px;
+  padding: 0 .6rem;
+  border: 1px solid #d9c98f;
+  border-radius: 2px;
+  background: #173200;
+  color: #f5e9bd;
+  font: 600 .58rem/18px Georgia, "Times New Roman", serif;
+  cursor: pointer;
+}
+
+.tec-topnav__button:hover,
+.tec-topnav__item.is-open > .tec-topnav__button,
+.tec-topnav__item:hover > .tec-topnav__button {
+  background: #284b08;
+  color: #fff5d5;
+}
+
+.tec-topnav__menu {
+  display: none;
+  position: absolute;
+  top: 21px;
+  left: 0;
+  width: 12.5rem;
+  padding: .25rem 0 .35rem;
+  background: #183500;
+  border: 1px solid #0b2100;
+  box-shadow: 0 3px 7px rgba(0,0,0,.35);
+}
+
+.tec-topnav__item:hover > .tec-topnav__menu,
+.tec-topnav__item.is-open > .tec-topnav__menu {
+  display: block;
+}
+
+.tec-topnav__menu a {
+  display: block;
+  padding: .16rem .65rem;
+  color: #fff4c8;
+  font-size: .62rem;
+  line-height: 1.2;
+  text-decoration: none;
+  white-space: normal;
+}
+
+.tec-topnav__menu a:hover {
+  background: #2f550d;
+  color: white;
+}
+
+@media screen and (max-width: 76.234375em) {
+  .tec-topnav {
+    display: none;
+  }
+}
