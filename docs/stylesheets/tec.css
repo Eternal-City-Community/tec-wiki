@@ -1,23 +1,336 @@
 /*
- * The Eternal City Wiki
- * Initial theme overrides.
- *
- * This is intentionally light for the first build. Once deployment is
- * verified, this file will become the full parchment-style TEC theme.
+ * The Eternal City Wiki — TEC parchment skin
+ * Built for Zensical's classic Material-compatible markup.
  */
 
 :root {
-  --tec-parchment: #ead9b7;
-  --tec-ink: #2b2118;
-  --tec-brown: #5b3a22;
+  --tec-olive: #234707;
+  --tec-olive-dark: #173104;
+  --tec-olive-soft: #48652c;
+  --tec-parchment: #e8ddb7;
+  --tec-parchment-light: #f2e9cb;
+  --tec-parchment-deep: #d9c894;
+  --tec-ink: #2b271d;
+  --tec-muted: #665f49;
+  --tec-bronze: #9c6a3b;
+  --tec-line: #8d8659;
+  --tec-table: #404040;
+  --tec-table-alt: #363636;
+  --tec-table-head: #e4e2da;
 }
 
+/* Page background: subdued so the parchment remains readable. */
+html {
+  background:
+    radial-gradient(circle at 72% 28%, rgba(255,255,255,.12), transparent 24rem),
+    linear-gradient(rgba(22,34,16,.18), rgba(22,34,16,.38)),
+    #505d43;
+}
+
+body {
+  color: var(--tec-ink);
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+/* Greek-key inspired top ornament. */
+body::before {
+  content: "";
+  display: block;
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 12px;
+  z-index: 1000;
+  background:
+    linear-gradient(90deg,
+      transparent 0 5px,
+      var(--tec-bronze) 5px 8px,
+      transparent 8px 13px,
+      var(--tec-bronze) 13px 16px,
+      transparent 16px 21px);
+  background-size: 21px 12px;
+  border-top: 2px solid var(--tec-bronze);
+  border-bottom: 2px solid var(--tec-bronze);
+  background-color: #efe7c7;
+}
+
+/* Masthead */
+.md-header {
+  top: 12px;
+  background: rgba(239,231,199,.97);
+  color: var(--tec-ink);
+  box-shadow: none;
+  border-bottom: 4px solid var(--tec-olive-dark);
+}
+
+.md-header__inner {
+  min-height: 76px;
+  align-items: center;
+}
+
+.md-header__title {
+  margin-left: .4rem;
+}
+
+.md-header__topic:first-child {
+  font-family: Georgia, "Times New Roman", serif;
+  text-transform: uppercase;
+  letter-spacing: .24em;
+  font-size: 1.22rem;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+.md-header__topic:first-child::after {
+  content: "UNOFFICIAL WIKI FOR THE ETERNAL CITY MUD";
+  display: block;
+  margin-top: .35rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: .46rem;
+  font-weight: 600;
+  letter-spacing: .18em;
+  color: #4d4a36;
+}
+
+.md-header__button,
+.md-search__icon {
+  color: var(--tec-olive-dark);
+}
+
+/* Dark olive horizontal tabs beneath masthead. */
+.md-tabs {
+  top: 88px;
+  background: var(--tec-olive-dark);
+  color: #f4edcf;
+  border-bottom: 1px solid #091801;
+}
+
+.md-tabs__link {
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: .04em;
+  font-size: .63rem;
+}
+
+/* Main page shell */
 .md-main {
+  background: transparent;
+}
+
+.md-main__inner {
+  margin-top: 2.1rem;
+}
+
+.md-content {
+  background:
+    linear-gradient(rgba(235,222,178,.90), rgba(235,222,178,.90)),
+    radial-gradient(circle at 50% 18%, rgba(255,255,255,.24), transparent 34rem);
+  border-left: 1px solid rgba(109,100,60,.55);
+  border-right: 1px solid rgba(109,100,60,.55);
+  min-height: calc(100vh - 8rem);
+}
+
+.md-content__inner {
+  margin: 0;
+  padding: 1rem 1.35rem 3rem;
+}
+
+/* Left navigation: compact old-school wiki feel. */
+.md-sidebar--primary {
+  background: rgba(226,216,179,.94);
+  border: 1px solid #4f5037;
+  box-shadow: inset 0 0 18px rgba(73,65,40,.18);
+}
+
+.md-sidebar--primary .md-nav__title {
+  background: linear-gradient(#727463, #464838);
+  color: #f4efd9;
+  border: 1px solid #343629;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  padding: .38rem .5rem;
+}
+
+.md-sidebar--primary .md-nav__link {
+  margin-top: .2rem;
+  font-size: .65rem;
+  line-height: 1.25;
+  color: #3b3a2c;
+}
+
+.md-sidebar--primary .md-nav__link:hover,
+.md-sidebar--primary .md-nav__link--active {
+  color: var(--tec-olive);
+  font-weight: 700;
+}
+
+/* Main article typography */
+.md-typeset {
+  font-size: .69rem;
+  line-height: 1.55;
   color: var(--tec-ink);
 }
 
-.md-typeset h1,
-.md-typeset h2,
+.md-typeset h1 {
+  margin: 0 0 .65rem;
+  padding: 0 0 .25rem 1.35rem;
+  color: var(--tec-olive);
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 400;
+  font-size: 1.23rem;
+  border-bottom: 1px solid rgba(108,119,61,.42);
+}
+
+.md-typeset h2 {
+  margin: 1rem 0 .65rem;
+  padding: .14rem .65rem;
+  background: var(--tec-olive);
+  color: #f0e7bf;
+  font-family: Georgia, "Times New Roman", serif;
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  font-size: .82rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
 .md-typeset h3 {
-  color: var(--tec-brown);
+  margin: 1.1rem 0 .55rem;
+  padding: 0 0 .18rem 1.3rem;
+  color: var(--tec-olive-soft);
+  border-bottom: 1px solid var(--tec-line);
+  font-family: Georgia, "Times New Roman", serif;
+  text-transform: uppercase;
+  letter-spacing: .16em;
+  font-size: .78rem;
+  font-weight: 400;
+}
+
+.md-typeset h4 {
+  color: var(--tec-olive);
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.md-typeset a {
+  color: #28550d;
+  text-decoration: underline;
+  text-decoration-thickness: .05em;
+  text-underline-offset: .08em;
+}
+
+.md-typeset a:hover {
+  color: #4f771f;
+}
+
+/* Tables intentionally resemble current TEC wiki tables. */
+.md-typeset table:not([class]) {
+  border-collapse: collapse;
+  background: var(--tec-table);
+  color: #f2f2f2;
+  border: 1px solid #2b2b2b;
+  box-shadow: none;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--tec-table-head);
+  color: #242424;
+  border: 1px solid #777;
+  text-align: center;
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) td {
+  border: 1px solid #575757;
+  padding: .36rem .55rem;
+}
+
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background: var(--tec-table-alt);
+}
+
+/* Notes/callouts */
+.md-typeset .admonition,
+.md-typeset details {
+  border: 1px solid #818052;
+  border-left-width: 4px;
+  background: rgba(245,237,202,.72);
+  box-shadow: none;
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  background: rgba(77,103,37,.14);
+  color: var(--tec-olive-dark);
+}
+
+/* TOC/right rail quieter than stock docs themes. */
+.md-sidebar--secondary {
+  opacity: .82;
+}
+
+.md-sidebar--secondary .md-nav__title {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--tec-olive-dark);
+}
+
+/* Search */
+.md-search__form {
+  background: rgba(255,255,255,.62);
+  border: 1px solid rgba(55,65,35,.45);
+}
+
+.md-search__input {
+  color: var(--tec-ink);
+}
+
+/* Footer */
+.md-footer {
+  background: var(--tec-olive-dark);
+}
+
+/* Mobile keeps the identity while prioritizing readability. */
+@media screen and (max-width: 76.234375em) {
+  .md-header__inner {
+    min-height: 64px;
+  }
+
+  .md-header__topic:first-child {
+    font-size: .9rem;
+    letter-spacing: .16em;
+  }
+
+  .md-header__topic:first-child::after {
+    font-size: .4rem;
+    letter-spacing: .1em;
+  }
+
+  .md-content {
+    border: 0;
+  }
+}
+
+@media screen and (max-width: 44.984375em) {
+  body::before {
+    height: 8px;
+  }
+
+  .md-header {
+    top: 8px;
+  }
+
+  .md-header__topic:first-child::after {
+    display: none;
+  }
+
+  .md-content__inner {
+    padding: .85rem .75rem 2rem;
+  }
+
+  .md-typeset {
+    font-size: .76rem;
+  }
+
+  .md-typeset h1 {
+    padding-left: 0;
+  }
 }
