@@ -1,6 +1,6 @@
 /*
  * The Eternal City Wiki — TEC parchment skin
- * Built for Zensical's classic Material-compatible markup.
+ * Sidebar pass based on the current Wikidot visual language.
  */
 
 :root {
@@ -17,78 +17,90 @@
   --tec-table: #404040;
   --tec-table-alt: #363636;
   --tec-table-head: #e4e2da;
+  --tec-sidebar-width: 12.2rem;
 }
 
-/* Page background: subdued so the parchment remains readable. */
-html {
+html,
+body {
+  min-height: 100%;
   background:
-    radial-gradient(circle at 72% 28%, rgba(255,255,255,.12), transparent 24rem),
-    linear-gradient(rgba(22,34,16,.18), rgba(22,34,16,.38)),
-    #505d43;
+    radial-gradient(circle at 78% 34%, rgba(167,143,91,.35), transparent 27rem),
+    radial-gradient(circle at 68% 68%, rgba(55,73,35,.35), transparent 35rem),
+    linear-gradient(115deg, #536044 0%, #72725b 38%, #384735 100%);
+  background-attachment: fixed;
 }
 
 body {
   color: var(--tec-ink);
-  font-family: "Trebuchet MS", Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Greek-key inspired top ornament. */
 body::before {
   content: "";
-  display: block;
   position: fixed;
   inset: 0 0 auto 0;
-  height: 12px;
+  height: 10px;
   z-index: 1000;
   background:
     linear-gradient(90deg,
-      transparent 0 5px,
-      var(--tec-bronze) 5px 8px,
-      transparent 8px 13px,
-      var(--tec-bronze) 13px 16px,
-      transparent 16px 21px);
-  background-size: 21px 12px;
-  border-top: 2px solid var(--tec-bronze);
-  border-bottom: 2px solid var(--tec-bronze);
-  background-color: #efe7c7;
+      #9c6a3b 0 3px,
+      #efe7c7 3px 8px,
+      #9c6a3b 8px 11px,
+      #efe7c7 11px 16px);
+  background-size: 16px 10px;
+  border-top: 2px solid #9c6a3b;
+  border-bottom: 2px solid #9c6a3b;
 }
 
-/* Masthead */
+/* Header */
 .md-header {
-  top: 12px;
-  background: rgba(239,231,199,.97);
+  top: 10px;
+  background: rgba(239,231,199,.98);
   color: var(--tec-ink);
   box-shadow: none;
   border-bottom: 4px solid var(--tec-olive-dark);
 }
 
 .md-header__inner {
-  min-height: 76px;
-  align-items: center;
+  max-width: none;
+  min-height: 70px;
+  padding-left: 2.2rem;
+  padding-right: 1.2rem;
 }
 
 .md-header__title {
-  margin-left: .4rem;
+  min-width: 0;
+  flex: 1 1 auto;
+  margin-left: .35rem;
+  overflow: visible;
+}
+
+.md-header__topic {
+  overflow: visible;
+  white-space: normal;
 }
 
 .md-header__topic:first-child {
   font-family: Georgia, "Times New Roman", serif;
   text-transform: uppercase;
-  letter-spacing: .24em;
+  letter-spacing: .23em;
   font-size: 1.22rem;
   font-weight: 400;
-  line-height: 1.1;
+  line-height: 1.08;
+  overflow: visible;
+  text-overflow: clip;
+  white-space: nowrap;
 }
 
 .md-header__topic:first-child::after {
   content: "UNOFFICIAL WIKI FOR THE ETERNAL CITY MUD";
   display: block;
-  margin-top: .35rem;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: .46rem;
+  margin-top: .28rem;
+  font-size: .45rem;
   font-weight: 600;
-  letter-spacing: .18em;
+  letter-spacing: .17em;
   color: #4d4a36;
+  white-space: nowrap;
 }
 
 .md-header__button,
@@ -96,133 +108,189 @@ body::before {
   color: var(--tec-olive-dark);
 }
 
-/* Dark olive horizontal tabs beneath masthead. */
-.md-tabs {
-  top: 88px;
-  background: var(--tec-olive-dark);
-  color: #f4edcf;
-  border-bottom: 1px solid #091801;
-}
-
-.md-tabs__link {
-  font-family: Georgia, "Times New Roman", serif;
-  letter-spacing: .04em;
-  font-size: .63rem;
-}
-
-/* Main page shell */
+/* Main layout: wide like Wikidot, not centered like docs software. */
 .md-main {
   background: transparent;
 }
 
 .md-main__inner {
-  margin-top: 2.1rem;
+  max-width: none;
+  width: 100%;
+  margin: 0;
+  padding: 1rem .8rem 0;
+  display: grid;
+  grid-template-columns: var(--tec-sidebar-width) minmax(0, 1fr);
+  gap: .55rem;
+}
+
+/* Remove documentation-style right rail completely on desktop. */
+.md-sidebar--secondary {
+  display: none !important;
 }
 
 .md-content {
+  min-width: 0;
+  max-width: none;
   background:
     linear-gradient(rgba(235,222,178,.90), rgba(235,222,178,.90)),
-    radial-gradient(circle at 50% 18%, rgba(255,255,255,.24), transparent 34rem);
+    radial-gradient(circle at 50% 18%, rgba(255,255,255,.20), transparent 34rem);
   border-left: 1px solid rgba(109,100,60,.55);
   border-right: 1px solid rgba(109,100,60,.55);
-  min-height: calc(100vh - 8rem);
+  min-height: calc(100vh - 7rem);
 }
 
 .md-content__inner {
+  max-width: none;
   margin: 0;
-  padding: 1rem 1.35rem 3rem;
+  padding: .85rem 1.55rem 3rem;
 }
 
-/* Left navigation: compact old-school wiki feel. */
+/* PRIMARY SIDEBAR — styled to resemble the Wikidot menu blocks. */
 .md-sidebar--primary {
-  background: rgba(226,216,179,.94);
-  border: 1px solid #4f5037;
-  box-shadow: inset 0 0 18px rgba(73,65,40,.18);
+  position: relative;
+  width: var(--tec-sidebar-width);
+  min-width: var(--tec-sidebar-width);
+  height: auto;
+  align-self: start;
+  padding: .45rem .42rem .7rem;
+  background:
+    linear-gradient(rgba(225,216,180,.96), rgba(216,205,166,.96));
+  border: 1px solid #494a36;
+  border-radius: 3px;
+  box-shadow:
+    inset 0 0 18px rgba(75,66,39,.18),
+    0 1px 2px rgba(0,0,0,.25);
 }
 
-.md-sidebar--primary .md-nav__title {
-  background: linear-gradient(#727463, #464838);
-  color: #f4efd9;
-  border: 1px solid #343629;
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  margin: 0;
+}
+
+.md-sidebar--primary .md-sidebar__inner {
+  padding: 0;
+}
+
+/* Hide the generic big wiki title plaque. */
+.md-sidebar--primary > .md-sidebar__scrollwrap > .md-sidebar__inner > .md-nav > .md-nav__title {
+  display: none;
+}
+
+.md-sidebar--primary .md-nav {
+  font-size: .62rem;
+}
+
+/* Top-level section labels become the beveled plaques from Wikidot. */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section {
+  margin: 0 0 .72rem;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link {
+  display: block;
+  margin: 0 0 .18rem;
+  padding: .33rem .35rem;
   text-align: center;
+  color: #f3eed8;
   font-family: Georgia, "Times New Roman", serif;
-  letter-spacing: .06em;
-  text-transform: uppercase;
-  padding: .38rem .5rem;
+  font-size: .64rem;
+  font-weight: 700;
+  letter-spacing: .025em;
+  text-transform: none;
+  text-shadow: 0 1px 1px #222;
+  border: 1px solid #4b4d3d;
+  border-radius: 2px;
+  background:
+    linear-gradient(#8d8f7a 0%, #676956 45%, #444638 100%);
+  box-shadow:
+    inset 0 1px rgba(255,255,255,.38),
+    inset 0 -1px rgba(0,0,0,.25),
+    0 1px 2px rgba(0,0,0,.25);
+}
+
+/* Nested links are the compact ruled rows in the screenshots. */
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav {
+  margin: 0;
+}
+
+.md-sidebar--primary .md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav > .md-nav__list {
+  padding: 0 .18rem;
+}
+
+.md-sidebar--primary .md-nav__item {
+  padding: 0;
 }
 
 .md-sidebar--primary .md-nav__link {
-  margin-top: .2rem;
-  font-size: .65rem;
-  line-height: 1.25;
-  color: #3b3a2c;
+  min-height: 0;
+  margin: 0;
+  padding: .17rem .18rem .15rem;
+  color: #35362a;
+  font-size: .59rem;
+  line-height: 1.18;
+  border-bottom: 1px solid rgba(117,107,68,.33);
 }
 
-.md-sidebar--primary .md-nav__link:hover,
+.md-sidebar--primary .md-nav__link:hover {
+  color: #244e0a;
+  background: rgba(255,255,255,.18);
+}
+
 .md-sidebar--primary .md-nav__link--active {
-  color: var(--tec-olive);
+  color: #1d4308;
   font-weight: 700;
 }
 
-/* Main article typography */
+/* Keep nested caret controls tiny and old-school. */
+.md-sidebar--primary .md-nav__icon {
+  width: .8rem;
+  height: .8rem;
+}
+
+/* Article typography */
 .md-typeset {
   font-size: .69rem;
-  line-height: 1.55;
+  line-height: 1.52;
   color: var(--tec-ink);
 }
 
 .md-typeset h1 {
-  margin: 0 0 .65rem;
-  padding: 0 0 .25rem 1.35rem;
+  margin: 0 0 .6rem;
+  padding: 0 0 .22rem 1.2rem;
   color: var(--tec-olive);
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 400;
-  font-size: 1.23rem;
+  font-size: 1.2rem;
   border-bottom: 1px solid rgba(108,119,61,.42);
 }
 
 .md-typeset h2 {
-  margin: 1rem 0 .65rem;
-  padding: .14rem .65rem;
+  margin: .95rem 0 .6rem;
+  padding: .12rem .65rem;
   background: var(--tec-olive);
   color: #f0e7bf;
   font-family: Georgia, "Times New Roman", serif;
   text-transform: uppercase;
   letter-spacing: .18em;
-  font-size: .82rem;
+  font-size: .8rem;
   font-weight: 600;
   line-height: 1.35;
 }
 
 .md-typeset h3 {
-  margin: 1.1rem 0 .55rem;
-  padding: 0 0 .18rem 1.3rem;
+  margin: 1rem 0 .5rem;
+  padding: 0 0 .16rem 1.15rem;
   color: var(--tec-olive-soft);
   border-bottom: 1px solid var(--tec-line);
   font-family: Georgia, "Times New Roman", serif;
   text-transform: uppercase;
-  letter-spacing: .16em;
-  font-size: .78rem;
+  letter-spacing: .15em;
+  font-size: .76rem;
   font-weight: 400;
-}
-
-.md-typeset h4 {
-  color: var(--tec-olive);
-  font-family: Georgia, "Times New Roman", serif;
 }
 
 .md-typeset a {
   color: #28550d;
-  text-decoration: underline;
-  text-decoration-thickness: .05em;
-  text-underline-offset: .08em;
 }
 
-.md-typeset a:hover {
-  color: #4f771f;
-}
-
-/* Tables intentionally resemble current TEC wiki tables. */
 .md-typeset table:not([class]) {
   border-collapse: collapse;
   background: var(--tec-table);
@@ -236,23 +304,21 @@ body::before {
   color: #242424;
   border: 1px solid #777;
   text-align: center;
-  font-weight: 700;
 }
 
 .md-typeset table:not([class]) td {
   border: 1px solid #575757;
-  padding: .36rem .55rem;
+  padding: .32rem .5rem;
 }
 
 .md-typeset table:not([class]) tbody tr:nth-child(even) {
   background: var(--tec-table-alt);
 }
 
-/* Notes/callouts */
 .md-typeset .admonition,
 .md-typeset details {
   border: 1px solid #818052;
-  border-left-width: 4px;
+  border-left-width: 3px;
   background: rgba(245,237,202,.72);
   box-shadow: none;
 }
@@ -263,67 +329,53 @@ body::before {
   color: var(--tec-olive-dark);
 }
 
-/* TOC/right rail quieter than stock docs themes. */
-.md-sidebar--secondary {
-  opacity: .82;
-}
-
-.md-sidebar--secondary .md-nav__title {
-  font-family: Georgia, "Times New Roman", serif;
-  color: var(--tec-olive-dark);
-}
-
-/* Search */
 .md-search__form {
-  background: rgba(255,255,255,.62);
-  border: 1px solid rgba(55,65,35,.45);
+  background: rgba(117,111,82,.48);
+  border: 1px solid rgba(55,65,35,.35);
 }
 
-.md-search__input {
-  color: var(--tec-ink);
-}
-
-/* Footer */
 .md-footer {
   background: var(--tec-olive-dark);
 }
 
-/* Mobile keeps the identity while prioritizing readability. */
+/* On desktop the old wiki had almost no wasted outer whitespace. */
+@media screen and (min-width: 76.25em) {
+  .md-grid {
+    max-width: none;
+  }
+}
+
+/* Mobile: revert to a normal single-column layout. */
 @media screen and (max-width: 76.234375em) {
-  .md-header__inner {
-    min-height: 64px;
+  .md-main__inner {
+    display: block;
+    padding: 0;
   }
 
-  .md-header__topic:first-child {
-    font-size: .9rem;
-    letter-spacing: .16em;
-  }
-
-  .md-header__topic:first-child::after {
-    font-size: .4rem;
-    letter-spacing: .1em;
+  .md-sidebar--primary {
+    width: auto;
+    min-width: 0;
+    border: 0;
+    border-radius: 0;
   }
 
   .md-content {
     border: 0;
   }
-}
 
-@media screen and (max-width: 44.984375em) {
-  body::before {
-    height: 8px;
-  }
-
-  .md-header {
-    top: 8px;
+  .md-header__topic:first-child {
+    font-size: .88rem;
+    letter-spacing: .13em;
   }
 
   .md-header__topic:first-child::after {
     display: none;
   }
+}
 
+@media screen and (max-width: 44.984375em) {
   .md-content__inner {
-    padding: .85rem .75rem 2rem;
+    padding: .8rem .72rem 2rem;
   }
 
   .md-typeset {
