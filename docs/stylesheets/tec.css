@@ -1,0 +1,23 @@
+/*
+ * The Eternal City Wiki
+ * Initial theme overrides.
+ *
+ * This is intentionally light for the first build. Once deployment is
+ * verified, this file will become the full parchment-style TEC theme.
+ */
+
+:root {
+  --tec-parchment: #ead9b7;
+  --tec-ink: #2b2118;
+  --tec-brown: #5b3a22;
+}
+
+.md-main {
+  color: var(--tec-ink);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--tec-brown);
+}
