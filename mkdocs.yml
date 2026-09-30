@@ -4,6 +4,9 @@ site_url: ""
 
 theme:
   name: material
+  # Zensical's classic variant preserves Material for MkDocs structure and
+  # styling compatibility while we build the custom TEC parchment theme.
+  variant: classic
   features:
     - navigation.sections
     - navigation.top
