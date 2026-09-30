@@ -7,23 +7,27 @@ theme:
   variant: classic
   features:
     - navigation.sections
-    - navigation.tabs
     - navigation.top
     - search.suggest
     - search.highlight
     - content.action.edit
 
 nav:
-  - Home: index.md
-  - Game World:
+  - Play Now:
+      - Home: index.md
+  - Community:
+      - About the Wiki: about.md
+  - Getting Started:
       - Armor: armor.md
+  - The Game World:
+      - Combat: mechanics/combat.md
   - Crafting:
       - Jewelry Crafting: crafting/jewelry.md
       - Leatherworking: crafting/leatherworking.md
-  - Mechanics:
-      - Combat: mechanics/combat.md
-  - Wiki:
-      - About: about.md
+  - Roleplaying:
+      - About the Wiki: about.md
+  - Getting Around:
+      - Home: index.md
 
 plugins:
   - search
