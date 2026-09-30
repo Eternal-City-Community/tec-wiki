@@ -41,3 +41,6 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/tec.css
+
+extra_javascript:
+  - javascripts/tec-nav.js
