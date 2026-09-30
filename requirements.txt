@@ -1,2 +1,7 @@
+# Keep MkDocs 1.x as a fallback while we validate Zensical.
 mkdocs>=1.6,<2
 mkdocs-material>=9.5,<10
+
+# Pin the current Zensical release during the pre-0.1 transition so
+# an upstream alpha update cannot unexpectedly change production builds.
+zensical==0.0.66
