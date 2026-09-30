@@ -1,0 +1,28 @@
+site_name: The Eternal City Wiki
+site_description: Community-maintained wiki for The Eternal City MUD
+site_url: ""
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+
+nav:
+  - Home: index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/tec.css
