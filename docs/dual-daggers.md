@@ -198,7 +198,7 @@ none
 
 <div class="skill-template">
 
-none
+In a blinding staccato rhythm, you drive a flurry of rapid jabs into a grungy Kelestian tunneler with your bronze dagger with a lacquered tilock hilt and alanti dagger!  Critical Hit! Your thrust swiftly grazes a grungy Kelestian tunneler's side inflicting a painful red gash. 
 
 </div>
 
