@@ -9,7 +9,8 @@
     "run_worker_first": [
       "/auth",
       "/callback",
-      "/api/*"
+      "/api/*",
+      "/admin/config.yml"
     ]
   }
 }
