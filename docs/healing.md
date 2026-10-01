@@ -320,10 +320,13 @@ Removing splints is very similar to removing bandages and stitches. When you suc
 
 To attempt to stem the flow of blood from a wound you must ensure your patient is laying still in a position which gives you easy access to the wounded area. Kneel down and apply direct pressure to the wound, ensuring it is pressed closed.
 
-Applying pressure to a wound on your own body is more difficult. Lay down and do your best to pressure the wound with both hands where possible. To stop applying pressure, just type .
+Applying pressure to a wound on your own body is more difficult. Lay down and do your best to pressure the wound with both hands where possible. To stop applying pressure, just type remove.
 
-|  EXAMPLE=
- > *pressure waist*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *pressure waist*
  [Success: 18, Roll: 99] Carefully positioning your hands you apply pressure to the wound on your waist.
 
-]]
+</div>

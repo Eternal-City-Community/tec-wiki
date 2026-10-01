@@ -184,14 +184,17 @@ recipe-recall <text>*
 
 Before casting, cold-working a finished form, assembling chain, or cutting a stone, you need a recipe **recalled** so the work follows the correct steps.
 
-Use **** to search the recipes you know. The command lists every known recipe whose name matches the word or fragment you typed. Choose a number from the list to recall that recipe. Use **recall <recipe>** when you already know the full name.
+Use **recipe-recall <text>** to search the recipes you know. The command lists every known recipe whose name matches the word or fragment you typed. Choose a number from the list to recall that recipe. Use **recall <recipe>** when you already know the full name.
 
 A recalled recipe shows materials, yield, and the order of work. Type **recipes** to review known recipes once the skill is learned.
 
 **Engraving patterns** are lores: use **learn lore** / **learn lore <name> from <trainer>**, then engrave the piece.
 
-|  EXAMPLE=
- > *recipe-recall necklace*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *recipe-recall necklace*
  Matching Recipes
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
   [1] Fine Chain Necklace Recipe
@@ -230,17 +233,20 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
   * heat <mold> over a low flame until baked
   * cast <baked mold> (molten metal in the crucible)
 
-]]
+</div>
 
 
 <a id="Restyle"></a>
 
 ### Restyle  *restyle <jewelry>*
 
-Once player-crafted jewelry is complete, it can be altered slightly through the restyle menu. No skill training is required beyond owning the piece. Simply **** and you will be shown a menu of short names based on what has actually been done to the piece (metal, engraving, set stones, and similar features).
+Once player-crafted jewelry is complete, it can be altered slightly through the restyle menu. No skill training is required beyond owning the piece. Simply **restyle <jewelry>** and you will be shown a menu of short names based on what has actually been done to the piece (metal, engraving, set stones, and similar features).
 
-|  EXAMPLE=
- > *restyle ring*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *restyle ring*
  Restyle
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
   [1] silver ring
@@ -250,7 +256,7 @@ Once player-crafted jewelry is complete, it can be altered slightly through the 
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
  How should this piece be named?>
 
-]]
+</div>
 
 
 ### Skill Details

@@ -1,6 +1,6 @@
 # Town Hall Meeting 03 27 2020
 
-## March 27^^th^^, 2020 - Town Hall Meeting
+## March 27<sup>th</sup>, 2020 - Town Hall Meeting
 
 You ask Senses, "On a scale of 1 to 10, how tired are you of hearing about the lag?"
 Senses says to you, "100000000"

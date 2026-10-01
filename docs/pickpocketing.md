@@ -10,7 +10,7 @@ This skill set is best **complemented by knowledge of [Setups](/setups/).**
 
 |  |  | Skill Info |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Prerequisite | *Hidden Iridine Trainer ^^1^^* | *Hidden RV Trainer ^^2^^* |
+| Skills/Actions | Difficulty | Prerequisite | *Hidden Iridine Trainer <sup>1</sup>* | *Hidden RV Trainer <sup>2</sup>* |
 | Pickpocketing | Easy | - | 50 | 200 |
 | [Quick Grab](#Quick-Grab) | Easy | - | 50 | 150 |
 | [Coin Sharpening](#Coin-Sharpening) | Easy | - | 50 | 150 |
@@ -25,8 +25,8 @@ This skill set is best **complemented by knowledge of [Setups](/setups/).**
 | [Silent Slip](#Silent-Slip) | Average | - | - | 10 |
 | [Silent Draw](#Silent-Draw) | Average | - | - | 10 |
 
-***^^1^^ Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
-***^^2^^ Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast area of town.*
+***<sup>1</sup> Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
+***<sup>2</sup> Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast area of town.*
 
 
 #### Notes on Learning
@@ -54,17 +54,18 @@ A simple, but highly visible move that just about every thief knows from the sta
 
 **Useful Targets**
 * **A Servant** - Good for a meal if you're hungry, usually they'll carry bags or baskets of food in their hands and can be found in a variety of places.
-* **A Worker** - Workers generally carry iron tools for use in their trade, if you're hard up for coin starting out, you can grab these and sell them to **Cadmus** at [[[Bronze Lane
-
-].
+* **A Worker** - Workers generally carry iron tools for use in their trade, if you're hard up for coin starting out, you can grab these and sell them to **Cadmus** at [Bronze Lane](/bronze-lane/).
 * **A Miner** - Mostly found in Monlon, they carry a variety of tools in their hands, including lanterns.
 * **A Fisherman** - Hungry, know how to fish, and don't want to pay for a pole? Problem solved. Also known to carry fresh caught fish, lantern oil, and other useful bits.
 
-|  EXAMPLE=
- > *grab shovel from worker*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *grab shovel from worker*
 TBC
 
-]]
+</div>
 
 
 <a id="Coin-Sharpening"></a>
@@ -115,9 +116,7 @@ TBC
 
 ### Cut and Lift  *lift <pouch> from <target>*
 
-Ahh, now here is the bread and butter of a decently trained thief. Lifting a pouch from an unsuspecting mark is by far the easiest and quickest way to getting the coin you need for all your little roguish dreams. Combined with a few useful skills in [[[Setups
-
-], you can make very good money utilizing this particular maneuver. And the best part is, once you're skilled enough in it, the mark will never notice their pouch is missing til you're long gone and moving on to your next target. Learn this, master it, use it wisely, and you'll never go hungry again.
+Ahh, now here is the bread and butter of a decently trained thief. Lifting a pouch from an unsuspecting mark is by far the easiest and quickest way to getting the coin you need for all your little roguish dreams. Combined with a few useful skills in [Setups](/setups/), you can make very good money utilizing this particular maneuver. And the best part is, once you're skilled enough in it, the mark will never notice their pouch is missing til you're long gone and moving on to your next target. Learn this, master it, use it wisely, and you'll never go hungry again.
 
 
 **Visibility**
@@ -132,12 +131,14 @@ Ahh, now here is the bread and butter of a decently trained thief. Lifting a pou
 * **A Prostitute** - While I myself would frown upon taking from a working girl, their pouches do tend to be overflowing with coin if you find them at the right time of day.
 * **A Trader** - While lifting won't be able to get a hold of their gem pouches, you can still lift their coin purse with ease.
 
+**When you see this in use you see:**
 
-|  EXAMPLE=
- > *lift pouch from Lorican*
+<div class="skill-template">
+
+> *lift pouch from Lorican*
 TBC
 
-]]
+</div>
 
 
 <a id="Handoff"></a>

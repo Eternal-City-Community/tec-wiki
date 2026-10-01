@@ -38,12 +38,12 @@ To view the current organization leaders, use the **officials** command.
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Legio I |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | 1^^st^^ Cohort<br><br>**Rearing Stallion** | 2^^nd^^ Cohort<br><br>**Wild Dog** | 3^^rd^^ Cohort<br><br>**Snarling Wildcat** | 4^^th^^ Cohort<br><br>**Charging Bull** | 5^^th^^ Cohort<br><br>**Leaping Dolphin** | 6^^th^^ Cohort<br><br>**Rampant Lion** | 7^^th^^ Cohort<br><br>**Snarling Badger** | 8^^th^^ Cohort<br><br>**Howling Wolf** | 9^^th^^ Cohort<br><br>**Diving Falcon** | 10^^th^^ Cohort<br><br>**Striking Snake** |  |  |  |  |
-|  | 1^^st^^ Century (**Eagle**) | ... | 6^^th^^ Century |  |  |  |  |  |  |  |  | 1^^st^^ - 6^^th^^ Centuries *(per Cohort)* |  |  |  |  |
+|  |  |  | 1<sup>st</sup> Cohort<br><br>**Rearing Stallion** | 2<sup>nd</sup> Cohort<br><br>**Wild Dog** | 3<sup>rd</sup> Cohort<br><br>**Snarling Wildcat** | 4<sup>th</sup> Cohort<br><br>**Charging Bull** | 5<sup>th</sup> Cohort<br><br>**Leaping Dolphin** | 6<sup>th</sup> Cohort<br><br>**Rampant Lion** | 7<sup>th</sup> Cohort<br><br>**Snarling Badger** | 8<sup>th</sup> Cohort<br><br>**Howling Wolf** | 9<sup>th</sup> Cohort<br><br>**Diving Falcon** | 10<sup>th</sup> Cohort<br><br>**Striking Snake** |  |  |  |  |
+|  | 1<sup>st</sup> Century (**Eagle**) | ... | 6<sup>th</sup> Century |  |  |  |  |  |  |  |  | 1<sup>st</sup> - 6<sup>th</sup> Centuries *(per Cohort)* |  |  |  |  |
 | Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |  |  |  |  |
 
 
-[[f<image https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg]]
+![image](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg)
 
 #### Hierarchy
 Legions are carefully organized, efficient fighting forces. When carefully trained, they present a truly awesome and frightening aspect on the field of battle. Tales have been told from Iridine's history of entire legions wheeling and advancing as one man, mowing enemies beneath their flashing blades like so many stalks of wheat, a many-armed spectre of Death himself.

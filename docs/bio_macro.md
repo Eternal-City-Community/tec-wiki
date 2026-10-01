@@ -1,5 +1,8 @@
 # Bio Macro
 
+>
+
+
 Life in general has been pretty easy for me. So far I have had none of the suffering I hear of others. I thank Ereal for that. I feel sorry for those others, however, and have dedicated my life to prevent the deaths of others to the best of my ability.
 Coming to an understanding of my true nature took a while for me. As with most Altenes I was trained in the use of weapons at an early age. I never saw the same level of passion in me for the arts of war, however necessary they may be.
 I cam to this pass at the age of 16, with the realisation that I must dedicate my life to the healing arts. My cousin Cadek and I would spend hours practicing our bandaging on my fathers stock of pigs *grin*.

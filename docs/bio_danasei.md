@@ -1,5 +1,8 @@
 # Bio Danasei
 
+>
+
+
 > **It will make you laugh. It will make you cry. It just might change your life.**
 
 **A robed woman kneels** on the worn marble steps leading up to the Temple of Illumination. Rag in hand, and a bucket of water nearby, she scrubs half-heartedly at them for a moment before pausing to wipe the sweat from her brow. Expression sullen, she returns to scrubbing, only to have her hair fall in front of her eyes. Pushing it back behind her ears, she takes her time in adjusting the daisy that is weaved within her dark locks.  All of this gives her another excuse to steal a respite from her work. She takes this opportunity to turn to her gaze to the boy standing idly next to her. "What is even the point? They're just gonna need to be scrubbed again tomorrow." 

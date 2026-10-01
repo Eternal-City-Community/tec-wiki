@@ -72,7 +72,7 @@ You can **put an unconscious person into a [coma](/character-condition/#Coma)** 
 * **How to achieve**: Use the kill <target> command on an unconscious victim OR continuing to attack an unconscious victim until they pass their [coma HP threshold](/character-condition/#Coma).
 * **When**: While approaching the unconscious victim.
 * **Role Point Cost**: (Compounding) 250 RPs per coma. 
- *  Example: **250 RPs** for the **1^^st^^** coma, **500 RPs** for the **2^^nd^^** coma, **750 RPs** for the **3^^rd^^** coma, etc. This resets after (1-3?) months.
+ *  Example: **250 RPs** for the **1<sup>st</sup>** coma, **500 RPs** for the **2<sup>nd</sup>** coma, **750 RPs** for the **3<sup>rd</sup>** coma, etc. This resets after (1-3?) months.
 
 If you are put into a coma, you may use a !luck point to be transported to the nearest coma ward for your safety. Your belongings will also be given to the coma ward attendant. Those in comas can also be checked into a coma ward by another player. 
 

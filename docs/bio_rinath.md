@@ -1,5 +1,8 @@
 # Bio Rinath
 
+>
+
+
 Born in the small town of Monlon, Rinath grew up as a normal child. His parents both loved him greatly and would do anything for him. As Rinath grew up and became a teenager he began to argue with his parents, especially his dad. Always very much like his Father head smart and stubborn, they butted heads often. His father serving in the Legions prepared to go out on patrol to remove a few Cinerans from the Iridinian border. Rinath yelled at his father and told him he wished he would just die. His father did die that very night, as one of his patrolmen betrayed him to the Cinerans. Rinath was devastated the most and began to hate himself. He awoke one night and grabbed the spear his father had made for him and walked out the door.
 
 He traveled for along time never really sure where he was going. He soon found himself in Cinera, and a nice man took him in. He made friends with a few of his neighbours and even fell in love with a very attractive girl his age. It was about this time the Second Iridinian-Cineran War was being planned. Cineran Soldiers began to hunt for any Iridinian born people to excute them. Rinath wasn't afraid because he really trusted his friends. He even had started to feel better about his father, when he heart once again was ripped from his chest. His girlfriend and future wife betrayed him to a young Cineran Commander. Rinath managed to evade the Cinerans and once again was wandering alone with only his spear.

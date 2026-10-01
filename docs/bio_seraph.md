@@ -1,5 +1,8 @@
 # Bio Seraph
 
+>
+
+
 Born on the 11th Day of Invex, Year of the Republic 199, to Domus Ceris and Lilly (Terryon) Ceris. Current age is 18. My father is a trader and my mother comes of the Terryon fisherfolk trading family. Both come from Windward and moved to Iridine the year before my sister Angelic was born, to take advantage of the trading in its harbor area.
 
 I had a happy childhood, filled with love. My father made a modest living from the trading, as some people say he is as honest as the day is long, so we never were rich. Our family house is on the sea, northwest of the Northside Carcass Buyers.

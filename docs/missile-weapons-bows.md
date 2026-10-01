@@ -289,9 +289,7 @@ Firing in the wind is tough. This helps you.
 * This is a **passive skill** which is automatically applied.
 * **Every 2 ranks** of this skill **offsets 1 point of penalty** associated with firing from a windy position.
 * This skill reaches **maximum effectiveness @ rank 100**.
-* Use the **** command to gauge how much wind there is from your position. Stronger winds increase the penalty to shoot.
-
-]]
+* Use the **weather** command to gauge how much wind there is from your position. Stronger winds increase the penalty to shoot.
 
 
 <a id="Slope"></a>

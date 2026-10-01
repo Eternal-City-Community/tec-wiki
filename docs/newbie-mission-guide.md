@@ -1,6 +1,6 @@
 # Newbie Mission Guide
 
-## Mission Guides *(UNDER CONSTRUCTION)*
+## Mission Guides *size 85%(UNDER CONSTRUCTION)*
 
 
 <a id="JunkDiver"></a>

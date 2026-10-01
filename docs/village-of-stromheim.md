@@ -56,7 +56,7 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 
 ### Points of Interest
 * **[Tokens](/wealth/#Nehal)** are the local **currency** of this village. 
-* **Directions to Stromheim** from [Town of Rock Valley](/town-of-rock-valley/) *(outside east gate)*: walk ne 19 e 98 ne 12 *(to return: walk sw 12 w 98 sw 19 )*
+* **Directions to Stromheim** from [Town of Rock Valley](/town-of-rock-valley/) *(outside east gate)*: walk ne 19 e 98 ne 12 size 90%*(to return: walk sw 12 w 98 sw 19 )*
 
 
 #### Entering

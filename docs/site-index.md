@@ -4,22 +4,28 @@ page for site index... work in progress...
 
 
 testing tabs:
-[[tabview]]
-[[tab Character Creation]]
+
+
+#### Character Creation
+
 [Character Generator](/character-generator/) 
 [Veteran Characters](/veteran-characters/) 
 [Traits](/traits/) 
 [National Lores](/national-lores/) 
 [National Advantages](/national-advantages/) 
 [Stats](/stats/)
-[[/tab]]
-[[tab Account]]
+
+
+#### Account
+
 [Account](/account/) 
 [Account - RolePoints](/account/#RolePoints) 
 [Account - StoryPoints](/account/#Storypoints) 
 [Account - Perks](/account/#Perks)
-[[/tab]]
-[[tab Guides]]
+
+
+#### Guides
+
 [All Guides](/guides/)
 [Mission Guide](/newbie-mission-guide/) 
 [Money Guide](/newbie-money-guide/) 
@@ -28,8 +34,10 @@ testing tabs:
 [Officium de Humanitas (New Character office)](/newbie-office/) 
 [Hunting Guide](/aoden-hunting-guide/) 
 [Customization guide](/customization-guide/)
-[[/tab]]
-[[tab Game world]]
+
+
+#### Game world
+
 [Game world](/game-world/) 
 [Iridine's History](/history/) 
 [Legal System](/legal-system/) 
@@ -69,20 +77,26 @@ X: [Debt](/debt/) XI: [Punishment](/punishment/) XII: [Building and Civic Mainte
 [Religion](/religion/) 
 [Reputation](/reputation/) 
 [Shops](/shops/)
-[[/tab]]
-[[tab Roleplaying]]
+
+
+#### Roleplaying
+
 [Advanced Commands](/advanced-commands/) 
 [Advanced Speech](/advanced-speech/) 
 [Commands](/commands/) [Horology](/dates-and-time/) 
 [Macros](/macros/)
-[[/tab]]
-[[tab Getting Around]]
+
+
+#### Getting Around
+
 [Navigation Overview](/nav-overview/)
 [Hunting Grounds](/hunting-grounds/) 
 [Maps](/maps/) 
 [Services](/services/)
-[[/tab]]
-[[tab Skillsets & Lores]]
+
+
+#### Skillsets & Lores
+
 [Archery](/missile-weapons-bows/) 
 [Brawling](/brawling/) [Cestus](/cestus/) 
 [Knives](/knives/) 
@@ -111,8 +125,10 @@ X: [Debt](/debt/) XI: [Punishment](/punishment/) XII: [Building and Civic Mainte
 [Street Smarts](/street-smarts/) 
 [Languages](/languages/) 
 [Acolyte Skills](/magic/)
-[[/tab]]
-[[tab Combat]]
+
+
+#### Combat
+
 [Combat Overview](/combat-overview/) 
 [Macros and Targeting](/macros-and-targeting/) 
 [Fighting Areas](/hunting-grounds/) 
@@ -120,13 +136,14 @@ X: [Debt](/debt/) XI: [Punishment](/punishment/) XII: [Building and Civic Mainte
 [Enemy Guide](/enemy-guide/) 
 [PvP](/pvp/) 
 [Critical Hits](/critical-hits/)
-[[/tab]]
-[[tab Player Submissions]]
+
+
+#### Player Submissions
+
 [Character Bios](/character-bios/) 
 [Fiction](/fiction/) 
 [Player Stories](/player-stories/)
-[[/tab]]
-[[/tabview]]
+
 
 ##### Character Creation
 [Character Generator](/character-generator/) [Veteran Characters](/veteran-characters/) [Traits](/traits/) [National Lores](/national-lores/) [National Advantages](/national-advantages/) [Stats](/stats/)

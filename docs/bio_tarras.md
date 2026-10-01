@@ -1,5 +1,8 @@
 # Bio Tarras
 
+>
+
+
 "Quick of wit and hand, mind in prime condition, devout in belief. All these things are the hallmark of a soldier. The ultimate soldier, that ideal which any man of sword and shield accepts as his goal. There is no room for anything less than your best, there is no tolerance for failure, hesitation and uncertainty can only bring on Death."
 
 This mantra was literally etched into a bronze placard at the home of the Soen clan. A tangible reminder of what the family believed with every fiber of their being.

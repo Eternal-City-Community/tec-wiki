@@ -1,5 +1,8 @@
 # Bio Razlin
 
+>
+
+
 One day, as Razlin was working on his farm, he saw something that glittered from the suns rays. He walked towards it and saw that it was a sword. When he reached the sword, he heard screaming and yelling coming from behind him. He turned and looked, from his house ran three hoods and two bandits. One of the hoods, threw a torch on his house, and instantly it went up in flames. The hood pointed to Razlin, as if to say "You're Next!"
 
 Razlin could do nothing, as he was young, and only knew how to take care of the animals and such on the farm. The hood grinned and turn from Razlin and left with the group. Razlin fell, for his legs were getting weak, and heard screaming from inside the house. Razlin just watched as his whole life burned in front of him. The flames had become lower, and everything was turning to ash, when his brother walked in from his visit to the forest. His brother ran to his brother, and asked him what had happened. Razlin could only mutter, for he disgraced his family by doing nothing. His brother slapped him until Razlin came back into the real world. Razlin told his brother, Ramuh, that three hoods and two bandits burned their house, and fled like cowards, and now he was the coward for doing nothing.

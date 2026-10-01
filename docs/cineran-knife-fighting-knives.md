@@ -178,17 +178,24 @@ Vitrus steps towards a thug with his retalq dagger held high and brings it acros
 
 ### CKF Wrist Slash  *wslash <target>*
 
-Having spent countless hours blocking your opponents eventually gives you ideas for possible areas to strike at next. --CKF Wrist Slash is an attack which **must follow the wielder's successful [Slashing Block](#Slashing) within  of blocking**.--  The attack itself is light, but normally causes a light bleed to the opponent in the wrist of their attacking hand. There is a chance the attack may disarm the opponent.
+Having spent countless hours blocking your opponents eventually gives you ideas for possible areas to strike at next. --CKF Wrist Slash is an attack which **must follow the wielder's successful [Slashing Block](#Slashing) within 5 seconds of blocking**.--  The attack itself is light, but normally causes a light bleed to the opponent in the wrist of their attacking hand. There is a chance the attack may disarm the opponent.
 
 * Their maneuver has a chance to automatically create a bleeding wound. This chance is increased based on the attacker's ranks.
 * Their maneuver has a chance to disarm the target. This chance is increased based on the attacker's ranks.
 
+> Maerodus says to you, "Once you've become used to stopping attacks with slashing block, you'll notice that it leaves the target's wrist conveniently exposed."
 
-|  FLAVORTEXT=Maerodus says to you, "Once you've become used to stopping attacks with slashing block, you'll notice that it leaves the target's wrist conveniently exposed."
-> Maerodus says, "Wrist slash capitalizes on this opening and allows you to draw blood easily. You might also get lucky enough to hit a nerve and disarm them. Fights don't last long after that."
-> Maerodus smirks.
-|  EXAMPLE=Following through with his block, Maerodus draws the blade of his retalq dagger down across a thug's wrist in a quick slashing motion. A thug suffers a cut to his right arm.
-]]
+> > Maerodus says, "Wrist slash capitalizes on this opening and allows you to draw blood easily. You might also get lucky enough to hit a nerve and disarm them. Fights don't last long after that."
+
+> > Maerodus smirks.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Following through with his block, Maerodus draws the blade of his retalq dagger down across a thug's wrist in a quick slashing motion. A thug suffers a cut to his right arm.
+
+</div>
 
 
 <a id="Backhand"></a>

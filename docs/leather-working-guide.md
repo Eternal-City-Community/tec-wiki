@@ -6,7 +6,7 @@ Leatherworking is a non-combat crafting skillset concerned with cutting, shaping
 
 Unlike crafts built around a single repeated action, most leatherworking projects are assembled from a number of separately prepared components. A finished item may require the leatherworker to measure and lay out material, cut it, thin or shape its edges, punch holes, mold pieces, and finally lace, rivet, or sew the components together.
 
-Leatherworking is closely related to [[tanning]], although tanning is not required to practice the craft. Leatherworkers capable of tanning their own hides have a ready source of material, while others will need to obtain leather or rawhide from another player.
+Leatherworking is closely related to [tanning](/tanning/), although tanning is not required to practice the craft. Leatherworkers capable of tanning their own hides have a ready source of material, while others will need to obtain leather or rawhide from another player.
 
 
 ### Getting Started

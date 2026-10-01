@@ -121,12 +121,16 @@ Hidden Thrust is a mid-aiming stabbing attack, used by Pardelians to particularl
 
 For decisive damage, a Pardelian can attempt this devastatingly heavy thrust. The user must be wary of many factors - including that only fallen foes may be struck in this way, and that an improperly prepared Pardelian will find her or himself vulnerable, too.
 
-* This attack will **leave the **. This can be negated by others in a Pardelian Turtle Stance surrounding *(approached)* to the same target.
+* This attack will **leave the attacker prone**. This can be negated by others in a Pardelian Turtle Stance surrounding *(approached)* to the same target.
 * This attack can only be performed on a prone target.
 
+**When you see this in use you see:**
 
-|  EXAMPLE=[Success: 95, Roll: 87] Flipping the tip of your retalq gladius and forcing your bodyweight downwards, you stab a man with a vicious overhand thrust, but miss. 
-]]
+<div class="skill-template">
+
+[Success: 95, Roll: 87] Flipping the tip of your retalq gladius and forcing your bodyweight downwards, you stab a man with a vicious overhand thrust, but miss.
+
+</div>
 
 
 <a id="LG"></a>

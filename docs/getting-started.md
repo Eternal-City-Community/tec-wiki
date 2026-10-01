@@ -3,15 +3,15 @@
 ## Getting Started
 
 
-[[embedvideo]] 
+ 
 <iframe width="444" height="240" src="https://www.youtube.com/embed/z2WpvB8jFUk?start=87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[[/embedvideo]] 
+ 
 
 
 Welcome to **The Eternal City**(TEC)! Here you will find a starters guide for getting familiarized with the world of Midlight. This guide is meant to get you on your feet and familiar with the game world, basic mechanics, and role-play environment within The Eternal City. There are numerous in-depth sources on the wiki, in the in-game library, and elsewhere to aid you as you continue to progress in the game world.
 
 
-For a quick*(-ish)* overview and to get a sense for TEC, feel free to watch this player-made **"Let's Play TEC!"** tutorial from our very own [[*user livak]].
+For a quick*(-ish)* overview and to get a sense for TEC, feel free to watch this player-made **"Let's Play TEC!"** tutorial from our very own livak.
 
 
 ### Basic Speech

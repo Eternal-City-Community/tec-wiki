@@ -34,8 +34,10 @@ A healer's kit should include, the following items:
 **************************************** TRAINING PLAN / START **********************************************
 ***********************************************************************************************************
 -->
-[[tabview]]
-[[tab Phase 1 (~182 SP)]]
+
+
+#### Phase 1 (~182 SP)
+
 
 Name: **<u>Starting Off</u>**
 Required SP: *~182 SP*
@@ -59,8 +61,8 @@ Required SP: *~182 SP*
 * Purchase [Sunburn Salve](/shops/) in [the Steps](/the-steps-central/) as the cheapest option for training with the [Application](/healing/#Application) skill.
 
 
-[[/tab]]
-[[tab Phase 2 (~506 SP)]]
+#### Phase 2 (~506 SP)
+
 
 Name: **<u>Reliable Stitcher</u>** 
 Required SP: *~506 SP*
@@ -73,8 +75,8 @@ Required SP: *~506 SP*
 * Stitching is fundamental and at the core of many dangerous wounds. It should be a focus early on.
 
 
-[[/tab]]
-[[tab Phase 3 (~1,128+ SP)]]
+#### Phase 3 (~1,128+ SP)
+
 
 Name: **<u>Advanced Healing</u>** 
 Required SP: *~1,128+ SP*
@@ -91,8 +93,8 @@ Required SP: *~1,128+ SP*
 * If 40 ranks in [Stitch Wound](/healing/#Stitch-Wound) is not enough to have a Success of 1, after Basics is 100, continue training to get 1 success.
 
 
-[[/tab]]
-[[tab Phase 4 (~537 SP)]]
+#### Phase 4 (~537 SP)
+
 
 Name: **<u>Accomplished Healer</u>**
 Required SP: *~537 SP*
@@ -109,8 +111,6 @@ Required SP: *~537 SP*
 * Finish Set Bone to get 1 success, if necessary.
 
 
-[[/tab]]
-[[/tabview]]
 <!--
 ***********************************************************************************************************
 ***************************************** TRAINING PLAN / END ***********************************************

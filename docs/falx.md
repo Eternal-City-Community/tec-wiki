@@ -13,7 +13,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | *<u>Falx Combat</u>* | Easy | - | - | - | - | 200 | 500 |
 | [Falx Kelestian Siege Stance](#siege) | Easy | 2 | - | - | - | 100 | 175 |
 | [Falx Extending Jab](#jab) | Easy | Either | Either | Cut | - | 200 | 500 |
-| [Falx Wild Strike](#wstrike) | Easy | 2 | Short | *<random>* ^^AoE^^ | - | 200 | 500 |
+| [Falx Wild Strike](#wstrike) | Easy | 2 | Short | *<random>* <sup>AoE</sup> | - | 200 | 500 |
 | [Falx Narrow Slash](#slash) | Easy | Either | Either | Cut | - | 200 | 500 |
 | [Falx Overhead Chop](#chop) | Easy | Either | Either | Cut | - | 200 | 500 |
 | [Falx Pommel Strike](#strike) | Easy | 2 | Short | Bruise | - | 200 | 500 |
@@ -22,9 +22,9 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Eviscerate](#eviscerate) | Difficult | 2 | Short | Pierce | - | 200 | 500 |
 | [Falx Formation Breaker](#break) | Average | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 175 |
 | [Falx Ankle Drag](#ankle) | Difficult | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 500 |
-| [Falx Whirlwind Slash](#wslash) | Average | 2 | Short | Cut ^^AoE^^ | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
-| [Falx Spinning Backhand](#spin) | Average | 2 | Short | Bruise ^^AoE^^ | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
-| [Falx Wide Hook Rake](#rake) | Difficult | 2 | Short | Pierce ^^AoE^^ | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike)<br><br>20 Ranks in [Falx Whirlwind Slash](#wslash)<br><br>20 Ranks in [Falx Spinning Backhand](#spin) | 200 | 500 |
+| [Falx Whirlwind Slash](#wslash) | Average | 2 | Short | Cut <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
+| [Falx Spinning Backhand](#spin) | Average | 2 | Short | Bruise <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
+| [Falx Wide Hook Rake](#rake) | Difficult | 2 | Short | Pierce <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike)<br><br>20 Ranks in [Falx Whirlwind Slash](#wslash)<br><br>20 Ranks in [Falx Spinning Backhand](#spin) | 200 | 500 |
 | [Falx Final Slash](#fslash) | Difficult | 2 | Either | Cut **or** *Kill* | [Falx Kelestian Siege Stance](#siege)<br><br>40 Ranks in [Falx Narrow Slash](#slash)<br><br>40 Ranks in [Falx Whirlwind Slash](#wslash) | 200 | 500 |
 | [Falx Chopping Block](#cblock) | Easy | 2 | - | - | - | 200 | 500 |
 | [Falx High Parry](#hparry) | Easy | Either | - | - | - | 200 | 500 |
@@ -34,7 +34,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Feint](#feint) | Average | Either | Either | - | - | 200 | 500 |
 | [Falx Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
 | [Falx Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
-*<wound type>* ^^**AoE**^^ denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
+size 80%*<wound type>* <sup>**AoE**</sup> denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
@@ -79,22 +79,24 @@ A robust Kelestian raider twists her torso and extends the blade of her worn tin
 
 <a id="wstrike"></a>
 
-### Falx Wild Strike
+### Falx Wild Strike  *wstrike <target>*
 
 This maneuver attempts to hit ALL targets surrounding you.
 
 * This is an **Area of Effect** attack, striking at all approached opponents.
 * This attack can be aimed at the following regions: **mid** *(default)*.
-* This attack **** be **aimed at** specific **body parts**.
+* This attack **cannot** be **aimed at** specific **body parts**.
 * This attack randomly decides whether it does bruising, slashing, or piercing damage and can vary on each opponent. Leads to some very interesting critical hits.
 
+**When you see this in use you see:**
 
-| USAGE= wstrike <target>
-|  EXAMPLE= You grip your polished tin falx tight and swing wildly, bringing the blade across in a broad arc in front of you! A fully-armored practice dummy suffers a minor hit to its right hand. 
+<div class="skill-template">
 
-[Success: 38, 38, 5, Roll: 75] You grip your polished tin falx tight and swing wildly, bringing the blade across in a broad arc in front of you! A **tall Kelestian scout** suffers a small bruise to his waist. A **lithe Kelestian scout** suffers a small bruise to her left thigh. A **statorus** suffers a puncture to its left fin. 
+You grip your polished tin falx tight and swing wildly, bringing the blade across in a broad arc in front of you! A fully-armored practice dummy suffers a minor hit to its right hand. 
 
-]]
+[Success: 38, 38, 5, Roll: 75] You grip your polished tin falx tight and swing wildly, bringing the blade across in a broad arc in front of you! A **tall Kelestian scout** suffers a small bruise to his waist. A **lithe Kelestian scout** suffers a small bruise to her left thigh. A **statorus** suffers a puncture to its left fin.
+
+</div>
 
 
 <a id="slash"></a>
@@ -243,11 +245,15 @@ A livid Kelestian ravager crouches low, swinging his bronze falx with a sharpene
 
 * This is an **Area of Effect** attack, striking at all approached opponents.
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
-* This attack **** be **aimed at** specific **body parts**.
+* This attack **cannot** be **aimed at** specific **body parts**.
 
+**When you see this in use you see:**
 
-| EXAMPLE= You raise your retalq falx high then bring it swiftly down while spinning in place, slashing in a complete circle around you! A gladiator suffers a severe cut to her neck.
-]]
+<div class="skill-template">
+
+You raise your retalq falx high then bring it swiftly down while spinning in place, slashing in a complete circle around you! A gladiator suffers a severe cut to her neck.
+
+</div>
 
 
 <a id="spin"></a>
@@ -258,11 +264,15 @@ Attempts to hit multiple targets in the same room.
 
 * This is an **Area of Effect** attack, striking at all approached opponents.
 * This attack can be aimed at the following regions: **high**, **mid***(default)*.
-* This attack **** be **aimed at** specific **body parts**.
+* This attack **cannot** be **aimed at** specific **body parts**.
 
+**When you see this in use you see:**
 
-| EXAMPLE= A livid Kelestian ravager slides his rear foot to the side and adjust his grip before spinning in place, lashing out with the dull spine of his long bronze falx with a dull finish! 
-]]
+<div class="skill-template">
+
+A livid Kelestian ravager slides his rear foot to the side and adjust his grip before spinning in place, lashing out with the dull spine of his long bronze falx with a dull finish!
+
+</div>
 
 
 <a id="rake"></a>
@@ -273,11 +283,15 @@ Attempts to hit multiple targets in the same room.
 
 * This is an **Area of Effect** attack, striking at all approached opponents.
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
-* This attack **** be **aimed at** specific **body parts**.
+* This attack **cannot** be **aimed at** specific **body parts**.
 
+**When you see this in use you see:**
 
-|  EXAMPLE= A livid Kelestian ravager thrusts his long bronze falx with a dull finish behind him then twists his body, raking the hook across in a wide horizontal arc! You sway to one side to avoid a livid Kelestian ravager's attack. 
-]]
+<div class="skill-template">
+
+A livid Kelestian ravager thrusts his long bronze falx with a dull finish behind him then twists his body, raking the hook across in a wide horizontal arc! You sway to one side to avoid a livid Kelestian ravager's attack.
+
+</div>
 
 
 <a id="fslash"></a>

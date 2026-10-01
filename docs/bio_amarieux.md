@@ -1,5 +1,8 @@
 # Bio Amarieux
 
+>
+
+
 ### History
 Born "Atecvndvs" to a Parcine family in the Blackroot mountains, Amarieux spent his youth as a member of a nomadic tribe in roaming the forests and plaints between Parcines and the Aestivan League. Even by Parcine standards, Atecvndvs was exceptionally strong, often performing the duties normally reserved for the adult men of the tribe in his early teens. He developed a particular knack for tree felling, finding the work of swinging an axe with all his strength to be a peaceful way to spend his time in his own head. It was not uncommon to find Atecvndvs far from earshot of his tribesmen, hacking away at a tree as he took in the sights and sounds around him; it was one of these lone ventures that Atecvndvs met the man that would forever change the course of his life.
 

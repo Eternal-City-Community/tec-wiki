@@ -1,5 +1,8 @@
 # Bio Grier
 
+>
+
+
 I grew up in [Parcines](/parcines/) with my uncle. He owned a small tin shop in a small town at the bottom of the Blackroot mountains. He never spoke much about my parents (unless he was berating my father). All my uncle ever told me about them was that they were gypsies. They traveled around city to city, country to country, entertaining people. I don't where my mother was from. I must get my looks from her, after all how many tall blue-eyed [Parcines](/parcines/) do you see…
 
 My uncle was funny. He never married and was a meticulous man. He often went on about how bad of a person my father was and how bad the [Republic](/republic-of-iridine/) was. We didn't get much business in his shop. But the little we made was enough for us.

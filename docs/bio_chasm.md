@@ -1,5 +1,8 @@
 # Bio Chasm
 
+>
+
+
 Chasm was born in Altene. She was born into a rich family of warriors, all with high prestige. The Brightwind family was renowed throughout Altene's cities for it's patriarch, Darius Josephus, a former General. 
 
 Chasm grew up sheltered behind the guarded gates of her family villa. Around the age of ten, Chasm began to take an interest in weapons and warfare. She would spend long hours in the family library reading manuscripts about warfare. She would watch her father train with his assistants and her brother attack the practice dummy in the training hall. Her mother disapproved of this life and began to train her as a proper young lady. Chasm rebelled against this oppression and began to make plans to run away. 

@@ -3,9 +3,9 @@
 ### Skill Overview
 
 
-[[embedvideo]] 
+ 
 <iframe width="444" height="240" src="https://www.youtube.com/embed/NnYU24xhsCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[[/embedvideo]] 
+ 
 
 
 Knowledge of Combat Maneuvers is essential, for everyone from the most passive resident to the most seasoned warrior. Understanding how to fall back could well save your life as you escape an attack, and the ability to leap to your feet is critical for a thief wanting to make a quick getaway.
@@ -201,13 +201,18 @@ Uiseann thrusts his spear through a thug's heart.
 
 This brings you to your feet, only slightly dazed after being swept, or doing a maneuver that causes you to fall. Every rank in Rolling Rise gives you a 1% chance at succeeding, plus a bonus for your agility, making it easier to succeed for those with high natural agility. There is also, of course, a penalty if you are carrying a heavy load. It is not affected by basic CM's. 
 
-**Rising  be perfected when being attacked by other characters (PCs).** There will always be a chance to fail at rising or even succeed at rising while leaving openings.
+**Rising cannot be perfected when being attacked by other characters (PCs).** There will always be a chance to fail at rising or even succeed at rising while leaving openings.
 
-You can toggle your preferred rise, between Simple & Backwards with the **toggle-rise** command. 
+You can toggle your preferred rise, between Simple & Backwards with the **toggle-rise** command.
 
-|  EXAMPLE=Leda deftly rolls onto her back and leaps forward onto her feet!
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Leda deftly rolls onto her back and leaps forward onto her feet!
 Leda rolls forward as she lands, springing back up to her feet!
-]]
+
+</div>
 
 
 <a id="BRise"></a>
@@ -216,14 +221,19 @@ Leda rolls forward as she lands, springing back up to her feet!
 
 This maneuver brings you to your feet, retreated and with a bonus to the next attack when you are swept. Every rank in Backwards Rolling Rise gives you a 1% chance at succeeding, plus a bonus for your agility, making it easier to succeed for those with high natural agility. There is also, of course, a penalty if you are carrying a heavy load. It is not affected by basic CMs. 
 
-**Rising  be perfected when being attacked by other characters (PCs).** There will always be a chance to fail at rising or even succeed at rising while leaving openings.
+**Rising cannot be perfected when being attacked by other characters (PCs).** There will always be a chance to fail at rising or even succeed at rising while leaving openings.
 
 You can toggle your preferred rise, between Simple & Backwards with the **toggle-rise** command. 
 
 *Usually this maneuver activates automatically when you are hit. However, you can also activate it manually after being knocked prone in battle by using the **brise** command.
 
-|  EXAMPLE=Gracefully controlling his movements, Hroth turns the momentum of his fall into a backwards somersault, landing a safe distance away!
-]]
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Gracefully controlling his movements, Hroth turns the momentum of his fall into a backwards somersault, landing a safe distance away!
+
+</div>
 
 
 <a id="Roll"></a>
@@ -264,12 +274,17 @@ Pelias has left high, middle, and low openings.
 
 This maneuver will assist with the rather annoying fumble. Eventually, you can not only stop a complete fumble, but still attempt an attack, gaining a bonus to the next. Every rank in Recovery gives you a roughly 2% chance at succeeding in not fumbling your weapon, so around rank 50, you fumble no more (base Dexterity stat can decrease/increase the rank requirement range for 100% successful recovery to be between 40 and 60). This of course is based upon the wielder's natural dexterity and it is not affected by basic CM's. 
 
-**Recovery  be perfected when attacking other player characters (PCs).** You will always have a slight chance to fumble when fighting against other PCs, no change has been made to fighting NPC's however. Also the bonus gained from your next attack after a fumble is increased depending on your rank with recovery up to more or less 100 ranks depending on your dexterity. Additionally, each rank of Recovery provides a small chance of successfully following through on a recovered attack.
+**Recovery cannot be perfected when attacking other player characters (PCs).** You will always have a slight chance to fumble when fighting against other PCs, no change has been made to fighting NPC's however. Also the bonus gained from your next attack after a fumble is increased depending on your rank with recovery up to more or less 100 ranks depending on your dexterity. Additionally, each rank of Recovery provides a small chance of successfully following through on a recovered attack.
 
-|  EXAMPLE=Leda bobbles her grip on an oak quarterstave, but manages to hold on.
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Leda bobbles her grip on an oak quarterstave, but manages to hold on.
 Leda bobbles his grip on n oak quarterstave, but manages to hold on and execute his attack. 
 With quarterstave held at the horizontal, Leda lets loose a quick sidestrike at a thug, but misses.
-]]
+
+</div>
 
 
 <a id="Missile"></a>
@@ -342,10 +357,6 @@ With enough training in Reflexes, you are able to raise your **[speed](/stats/#S
 
 ### Offensive Guarding  *detain <target>*
 
-This skill has been .
+This skill has been disabled.
 
 This skill allows a character to move into a position to detain a subject from leaving the area. Multiple people can attempt to detain one subject. When a subject that is being detained tries to leave the area, they are required to make a roll against EACH person that is detaining them. This can be countered with knowledge of [guard evasion](/street-smarts/#Guard-Evasion).
-
-|  EXAMPLE=
-
-]]

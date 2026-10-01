@@ -1,5 +1,8 @@
 # Bio Ashen
 
+>
+
+
 There weren't any storms, high winds, or other natural pyrotechnics on the night of the birth of Ashen Grae. All seemed calm in his Altene village on that night, to some extent even for his mother. After seven other births, this one seemed almost routine, and would have been wholly unremarkable, except for his father's haste in providing a name - so many siblings had tried his imagination, and, well, the boy's eyes were grey, weren't they? And so Ashen was born into a large warrior family, well-regarded for strength and ability by even the high standards of his countrymen. Unfortunately, Ashen didn't completely fit the mold that his elder siblings had established.
 
 Ashen lacked the hulking strength and size that seemed so normal for his family. During his many scraps with the larger boys, he learned to take advantage of other talents: an impressive natural agility, and a love for battle. This latter may not have strictly been an advantage, as he found it difficult to resist a challenging fight. His mother soon learned to keep her stock of salves and bandages full, as beating followed brutal beating. However, even the lost contests brought further wisdom, and the boy grew into a deadly warrior.

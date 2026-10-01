@@ -1,5 +1,8 @@
 # Bio Auril
 
+>
+
+
 I would love to tell you all about my most illustrious life and my struggle of bravery, adventure, and heroism from innocence to experience, but you'd probably fall asleep right now. Because of this, I'll tell you what you need to know.
 
 I'm Auril Riien, son of Rendium Riien and Allustra Sesten. Our family has close ties to the house of Condaia and yada yada yada.

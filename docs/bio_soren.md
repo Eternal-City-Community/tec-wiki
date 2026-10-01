@@ -1,5 +1,8 @@
 # Bio Soren
 
+>
+
+
 Soren and the Family Morgana.
 
 Born Soren Tonnrud Shortshot. His parents are Isorn & Femke Shortshot. His older brother Isbeorn make up this little family. The Shortshot family live in the edge of the city-state of Altene. His childhood was a happy one. Raised by his mother and brother while his father worked in his workshop/forge and selling his weapons. Tragedy struck him at an early age with the death of his brother Isbeorn. He was killed while hunting deer in northern Tuchea, by a raiding party of unknown origin.

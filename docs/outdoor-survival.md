@@ -126,12 +126,16 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
-With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using '' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
+With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light <group of wooden items>' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
 
-|  EXAMPLE=
- > *build fire with twigs*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *build fire with twigs*
  [Success: 1, Roll: 96] You place the tinder on the ground and bring it to flame after a little effort.
-]]
+
+</div>
 
 
 <a id="Firewood"></a>
@@ -205,7 +209,7 @@ As an outdoorsman you might encounter terrain which seems impassible to the norm
 
 ### Shelter Building  *build shelter*
 
-There are times, either because of weather, dangerous predators, or simply to better mark your outdoor territory, that you'll wish to build a small temporary home for yourself. With this skill, you can use saplings, rope or cordage, grass, and twigs to build yourself a lean-to, which you can access by using the  and leave commands. 
+There are times, either because of weather, dangerous predators, or simply to better mark your outdoor territory, that you'll wish to build a small temporary home for yourself. With this skill, you can use saplings, rope or cordage, grass, and twigs to build yourself a lean-to, which you can access by using the go <shelter> and leave commands. 
 
 These makeshift shelters will **degrade over time**, with their lifespans dependent upon how skilled you are at building shelters. After being built, lean-tos are mentioned as part of the area description of the location they are built. Someone who is not looking carefully for the lean-to might easily pass it by if they are not reading each room's description.
 
@@ -224,10 +228,14 @@ Notes:
 * From the outside, you can look <shelter> to view the inside of the shelter. From the inside, you can peek to view the outside of the shelter.
 * You can pull a wagon or drag an item into a shelter with the pull wagon <shelter> or drag <item> <shelter> command. You can pull a wagon or drag an item out of a shelter with the pull wagon out or drag <item> out command.
 
-|  EXAMPLE=
- > *build shelter*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *build shelter*
  [Success: 1, Roll: 88] Your shelter is finished. You stand back to admire your masterfully crafted lean-to.
-]]
+
+</div>
 
 
 <a id="Rope"></a>
@@ -312,7 +320,7 @@ The types of things you'll find while foraging for resources varies widely depen
 
 The difficulty of this skill varies depending on the environment where you are trying to use it. It is more difficult to forage in inhospitable terrain, such as mountains or underwater.
 
-Foraging can be affected by tools your character is holding, depending on the type of resource foraged. For example, if you forage in a swamp and are holding a knife, it will increase the amount of reeds that you forage during each attempt. Similarly, if you hold a **woven net bag** (made with [Survival Weaving](/outdoor-survival/#Weaving)) while **foraging underwater**, you'll be able to find a **greater variety of resources** and the items you find are automatically stowed in the bag **^^[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/79385-minor-changes?p=1502240#post1502240)^^**.
+Foraging can be affected by tools your character is holding, depending on the type of resource foraged. For example, if you forage in a swamp and are holding a knife, it will increase the amount of reeds that you forage during each attempt. Similarly, if you hold a **woven net bag** (made with [Survival Weaving](/outdoor-survival/#Weaving)) while **foraging underwater**, you'll be able to find a **greater variety of resources** and the items you find are automatically stowed in the bag **<sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/79385-minor-changes?p=1502240#post1502240)</sup>**.
 
 **When you see this in use you see:**
 

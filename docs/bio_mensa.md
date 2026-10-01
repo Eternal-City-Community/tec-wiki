@@ -1,5 +1,8 @@
 # Bio Mensa
 
+>
+
+
 You see a short, lank woman sit down in a chair beside you. You strike up a casual conversation over wine, and get to telling her your life story. You ask for hers in return, and she smiles to herself, and replies.
 'It's dead.' I clearly remember my father telling me those were his first words he said about me. Maybe that is why I am under height, but continuing with the story...
 'No, she flexes her hands. See?' my mother referred, exhausted.

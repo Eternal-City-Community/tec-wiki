@@ -1,5 +1,8 @@
 # Bio Retalq
 
+>
+
+
 Retalq was born in Altene and was the son of Setharic and Lorna Blade. His father was a blacksmith and worked with many metals. Setharic decided to name his son after the metal retalq.
 
 Over the years, Retalq began an interest with the gladius. His father taught him how to use the gladius effectively. Although Setharic wasn't the best of swordsmen, he knew how to swing it very well. His father continued training him over the course of Retalq's childhood, only allowing him to hunt in the easier areas, not wanting Retalq to get hurt. Anyways, when Retalq became around the age of 14, his father started showing him to the more difficult places to train. One of which, was a forest filled with bandits. Hunting the forest became Retalq's most favorite thing to do. Killing bandits left and right, and collecting money from the loot.

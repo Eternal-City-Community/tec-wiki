@@ -3,9 +3,9 @@
 ### Skill Overview
 
 
-[[embedvideo]] 
+ 
 <iframe width="444" height="240" src="https://www.youtube.com/embed/jL9mpqLvv7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[[/embedvideo]] 
+ 
 
 
 The usage of a shield is a must for one-handed weapon combatants if they wish to be on even field with those who make use of two-handed weapons. This additional layer of defence will change the tides of battle into your favor. Shields can also be used to inflict damage to an opponent or even push them back. They will also sometimes protect you from incoming blows that will take you by surprise.

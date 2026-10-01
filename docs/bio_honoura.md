@@ -1,5 +1,8 @@
 # Bio Honoura
 
+>
+
+
 > **From the Journals of Honoura**
 > 
 > My mothers first word to my infant ears was Y'onorai, an Altene way to say honour me... and thus my name was born. I was a child of war, born in small encampment of a division of the Lioness Company located in Northern Altene along the Yatai River. My mother was a foot soilder in the Company... my father was another story. From as young as I can remember his name was never mentioned, but she showed clear disgust for him all the same. It would not be until much later, when I became a junior officer of the Company, that the older sifaras that raised me told me the full story. The sifaras were my early education, from the deadly grace of the quarterstave to prose that cut down even the strongest man. They couldn't teach me about death though.

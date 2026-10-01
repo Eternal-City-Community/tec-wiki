@@ -3,14 +3,14 @@
 Various stones & ores are available throughout the game world. Stones & ores can be sold to shopkeepers or used in [custom item requests](/customization-guide/). Mined ore can be handed in for [reputation#Seld](/reputation/#Seld).
 
 One great non-combat way to get stones & ores is by [mining](/mining/) them. Some stones & ores are only available by this method.
-[[=image gems.png]]
+![image](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/stones-ores/gems.png)
 ### Stones
 
 #### Common Stones
 Stones may be found in a variety of sizes: **tiny**, **small**, *'normal'* (no descriptor), **large** & **enormous**. Selling prices vary for each size, and prices can also vary (by a smaller amount) among stones of the same size.
 
 
-| Name | Short Description *(sorted ↑)* | Commonly found |
+| Name | Short Description *size 85%(sorted ↑)* | Commonly found |
 | --- | --- | --- |
 | Diamond | a clear crystal-like stone | Ravanite Tunnels |
 | Bloodstone | a dark green stone with deep red spots | [Old City](/hg-old-city/), [Franlius Docks](/hg-franlius/), [Aralex stomachs](/hg-aralex-pit/), [BHC](/hg-black-hand-caverns/), [Traevant Woods](/the-west-grasslands/), Ravanite Tunnels, Bandit Complex, [Treehouse](/hg-brigand-treehouse/), [Franlius](/hg-franlius/) |

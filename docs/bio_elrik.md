@@ -1,5 +1,8 @@
 # Bio Elrik
 
+>
+
+
 Elrik sits down on a comfortable padded chair in the Stone Toga Inn across the Table from you. He nods at you, then orders a tall glass of wine from Constantine. As he sips quietly on his wine; he notices your look of interest on him.
 
 Elrik looks up at you and says, 'Anything I can do fer you friend?'

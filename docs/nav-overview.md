@@ -96,7 +96,7 @@ Travel wagons exist in the game world. For paid wagons, only 1 ticket must be pu
 #### Franlius <-> Seld
 
 
-The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
+size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 For the cost of [A pale blue ticket](/shops/), you can take a wagon from Seld to Franlius and vice versa. Estimated travel times are listed below.
@@ -121,7 +121,7 @@ There is 1 ship and 2 ferries located within the game world to help transport yo
 #### Iridine <-> Franlius (Ship)
 
 
-The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
+size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 | Trip | Duration |

@@ -1,5 +1,8 @@
 # Bio Capwinius
 
+>
+
+
 Born to the house wife, Diane, and Mercenary warrior, Arthur, Capwinius *("Cap" for short)* was raised in Altene where he learned the art of staves as a young child. Slowly improving in staves as he grew he also started to grow tired and dreamed of being a swordsman like the ones in the stories he hears from Iridine. 
 
 At the age of fifteen his father was killed helping the legions fight against the Cinerans. He was devastated by the news and vowed to go to Iridine and help the legions defeat the Cineran bastards. On his 16th birthday his uncle had heard of his vow and decided to help. Over the next two years his uncle trained him in the art of swordsmanship. When he was seventeen Capwinius set out to go to Iridine. He brought both the stave his father had given him and the tin gladius his uncle had still not sure which one he'd rather use. 

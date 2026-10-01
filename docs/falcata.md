@@ -86,12 +86,15 @@ A gruff-looking mercenary slashes diagonally at you with the edge of his worn ti
 ### Falcata Chop  *chop <target>*
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
-* This attack **can** be **aimed at** specific **body parts**, **** hands, arms & waist.
+* This attack **can** be **aimed at** specific **body parts**, **except** hands, arms & waist.
 
+**When you see this in use you see:**
 
-| EXAMPLE= 
+<div class="skill-template">
+
 A gruff-looking mercenary swings his worn tin falcata overhead, chopping downward at you, but misses. You sway to one side to avoid a gruff-looking mercenary's attack.
-]]
+
+</div>
 
 
 <a id="stab"></a>

@@ -1,5 +1,8 @@
 # Bio Rodrigo
 
+>
+
+
 On a night many years ago, in the far-off land of Altene, a baby boy was born to proud parents. His father was an accountant in one of Altene's larger cities and his mother, Tuchean by birth, was descended from a great explorer. And as the sun rose that day, the baby boy was given his name: Rodrigo or 'Spirit of the Great Justice' in Altenian tongue.
 
 As the years passed, so the boy grew. He was a young boy who had been blessed with a family that could afford to send him to school, and so he attended regularly. A quiet young man, he spent a lot of time doing work and was praised by his teachers, but his friends knew him for being a likeable playful lad who always had good ideas. When he wasn't learning figures, verbs, or adjectives, he was playing with his friends out in the fields. As time passed, he became a tall figure and was called 'handsome' by many of the local girls. This didn't affect his personality one bit, and he remained a quiet boy.

@@ -1,5 +1,8 @@
 # Bio Kain
 
+>
+
+
 Just over the Cineran- Iridine border, barely 19 years ago, a small child was born into a middle class family. I was named Kain, born into the family of Snake. My father was a commander in the Cineran army, a role that he took on with great enthusiasm not only on the battlefield but also at home. He often came home and beat my mother when the war effort was going badly. Although I tried to keep her and my younger sister, Kichi, from the violence, I was often beaten aside for being insolent. My older half brother, Raine, did nothing too help. He longed to be in the Cineran army, and did not want to lose my influential fathers favour. I too longed to be in the army when I was young, practising many hours with my tin dagger.
 
 However, as I grew older, I noticed how the army was changing the older brother. He too was becoming increasing angry with the world. I began to question if I too wanted to turn towards the army if I was to become more like my father. I dreamt of breaking away from Cinera, and making it across the border to Iridine.

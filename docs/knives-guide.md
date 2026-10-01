@@ -55,8 +55,10 @@ Below you'll find everything important to know about the [Knives](/knives/) skil
 **************************************** TRAINING PLAN / START **********************************************
 ***********************************************************************************************************
 -->
-[[tabview]]
-[[tab Phase 1 (~60 SP)]]
+
+
+#### Phase 1 (~60 SP)
+
 
 Name: **<u>5-Move Rotation</u>**
 Required SP: *~60 SP*
@@ -76,8 +78,8 @@ Required SP: *~60 SP*
 Note: Learn as much as possible from the instructor at Ludus Valerius, since he teaches at 50% of Gilven's price.
 
 
-[[/tab]]
-[[tab Phase 2 (~300 SP)]]
+#### Phase 2 (~300 SP)
+
 
 Name: **<u>Leaving a Mark</u>** 
 Required SP: *~300 SP*
@@ -102,8 +104,8 @@ Required SP: *~300 SP*
 Note: Learn as much as possible from the instructor at Ludus Valerius, since he teaches at 50% of Gilven's price.
 
 
-[[/tab]]
-[[tab Phase 3 (~558 SP)]]
+#### Phase 3 (~558 SP)
+
 
 Name: **<u>Well-Rounded Fighter</u>** 
 Required SP: *~558 SP*
@@ -128,8 +130,6 @@ Required SP: *~558 SP*
 * Save up as much SPs as you can before you are forced to spend them.
 
 
-[[/tab]]
-[[/tabview]]
 <!--
 ***********************************************************************************************************
 ***************************************** TRAINING PLAN / END ***********************************************

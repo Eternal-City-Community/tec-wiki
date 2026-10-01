@@ -145,242 +145,50 @@ The following tables list known finished jewelry recipes according to whether th
 
 #### Metal Requirements by Recipe
 
-
-[[hcell]]Slag Needed[[/hcell]]
-[[hcell]]Recipes[[/hcell]]
-
-
-1
-Cast Stud Earrings, Broad Cast Ring, Broad Cast Bracelet, Cast Simple Band, Cast Charm, Ornate Forged Ring, Forged Bangle, Forged Anklet, Cast Bangle, Cast Pendant, Simple Band Ring, Drop Earrings, Eyebrow Ring, Nose Ring, Nose Stud, Septum Ring, Lip Ring, Lip Stud, Forged Tiara, Wire Ring
-
-
-1 2/3
-Charm Bracelet (10 tiny links)
-
-
-2
-Wire Earrings, Wire Bracelet, Wire Anklet, Hoop Earrings
-
-
-3
-Wire Necklace
-
-
-3 1/3
-Fine Chain Necklace (20 tiny links)
-
-
-4 1/3
-Pendant Necklace (20 tiny links + 1 casting)
-
-
-5 1/6
-Waist Chain (31 tiny links)
-
-
-6 1/3
-Locket (20 tiny links + body + lid + hinge pin)
-
-
-10
-Heavy Chain Necklace (10 thick links)
-
+| Slag Needed | Recipes |
+| --- | --- |
+| 1 | Cast Stud Earrings, Broad Cast Ring, Broad Cast Bracelet, Cast Simple Band, Cast Charm, Ornate Forged Ring, Forged Bangle, Forged Anklet, Cast Bangle, Cast Pendant, Simple Band Ring, Drop Earrings, Eyebrow Ring, Nose Ring, Nose Stud, Septum Ring, Lip Ring, Lip Stud, Forged Tiara, Wire Ring |
+| 1 2/3 | Charm Bracelet (10 tiny links) |
+| 2 | Wire Earrings, Wire Bracelet, Wire Anklet, Hoop Earrings |
+| 3 | Wire Necklace |
+| 3 1/3 | Fine Chain Necklace (20 tiny links) |
+| 4 1/3 | Pendant Necklace (20 tiny links + 1 casting) |
+| 5 1/6 | Waist Chain (31 tiny links) |
+| 6 1/3 | Locket (20 tiny links + body + lid + hinge pin) |
+| 10 | Heavy Chain Necklace (10 thick links) |
 
 *Tiny-link costs are amortized based on six tiny links being produced from one wire. Actual up-front material requirements may be higher when crafting a single item due to leftover links.*
 ### Material Costs
 
 #### Common Metal Material Costs
 
-
-[[hcell]]Lumps[[/hcell]]
-[[hcell]]Tin[[/hcell]]
-[[hcell]]Copper[[/hcell]]
-[[hcell]]Brass[[/hcell]]
-[[hcell]]Bronze[[/hcell]]
-[[hcell]]Iron[[/hcell]]
-[[hcell]]Silver[[/hcell]]
-[[hcell]]Gold[[/hcell]]
-
-
-1
-1c 4d 1s
-2c 8d 2s
-3c 12d 1st
-4c 16d 1st 1s
-6c 24d 2st 1s
-9c 7d 3st
-19c 10d
-
-
-2
-2c 8d 2s
-4c 16d 1st 1s
-6c 24d 2st
-9c 7d 2st 2s
-13c 24d 2s
-18c 15d 2st
-38c 20d
-
-
-3
-3c 12d 1st
-6c 24d 2st
-10c 11d 3st
-13c 24d
-20c 23d 3st
-27c 23d 1st
-58c 5d
-
-
-4
-4c 16d 1st 1s
-9c 7d 2st 2s
-13c 24d
-18c 15d 1st 1s
-27c 23d 1st 1s
-37c 6d
-1t 15c 2d 2st
-
-
-5
-5c 20d 1st 2s
-11c 15d 3st 1s
-17c 11d 1st
-23c 6d 2st 2s
-34c 22d 3st 2s
-46c 13d 3st
-1t 34c 12d 2st
-
-
-6
-6c 24d 2st
-13c 24d
-20c 23d 2st
-27c 23d
-41c 22d 2st
-55c 21d 2st
-1t 53c 22d 2st
-
-
-7
-8c 3d 2st 1s
-16c 7d 2s
-24c 10d 3st
-32c 14d 1st 1s
-48c 22d 1s
-1t 2c 16d 3st
-2t 10c 20d
-
-
-8
-9c 7d 2st 2s
-18c 15d 1st 1s
-27c 23d
-37c 5d 2st 2s
-55c 21d 2st 2s
-1t 11c 24d 2st
-2t 30c 5d
-
-
-9
-10c 11d 3st
-20c 23d 2st
-31c 10d 1st
-41c 22d
-1t 8d 3st
-1t 21c 7d 1st
-2t 49c 15d
-
-
-10
-11c 15d 3st 1s
-23c 6d 2st 2s
-34c 22d 2st
-46c 13d 1st 1s
-1t 7c 8d 1st 1s
-1t 30c 15d
-3t 6c 12d 2st
-
+| Lumps | Tin | Copper | Brass | Bronze | Iron | Silver | Gold |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 1c 4d 1s | 2c 8d 2s | 3c 12d 1st | 4c 16d 1st 1s | 6c 24d 2st 1s | 9c 7d 3st | 19c 10d |
+| 2 | 2c 8d 2s | 4c 16d 1st 1s | 6c 24d 2st | 9c 7d 2st 2s | 13c 24d 2s | 18c 15d 2st | 38c 20d |
+| 3 | 3c 12d 1st | 6c 24d 2st | 10c 11d 3st | 13c 24d | 20c 23d 3st | 27c 23d 1st | 58c 5d |
+| 4 | 4c 16d 1st 1s | 9c 7d 2st 2s | 13c 24d | 18c 15d 1st 1s | 27c 23d 1st 1s | 37c 6d | 1t 15c 2d 2st |
+| 5 | 5c 20d 1st 2s | 11c 15d 3st 1s | 17c 11d 1st | 23c 6d 2st 2s | 34c 22d 3st 2s | 46c 13d 3st | 1t 34c 12d 2st |
+| 6 | 6c 24d 2st | 13c 24d | 20c 23d 2st | 27c 23d | 41c 22d 2st | 55c 21d 2st | 1t 53c 22d 2st |
+| 7 | 8c 3d 2st 1s | 16c 7d 2s | 24c 10d 3st | 32c 14d 1st 1s | 48c 22d 1s | 1t 2c 16d 3st | 2t 10c 20d |
+| 8 | 9c 7d 2st 2s | 18c 15d 1st 1s | 27c 23d | 37c 5d 2st 2s | 55c 21d 2st 2s | 1t 11c 24d 2st | 2t 30c 5d |
+| 9 | 10c 11d 3st | 20c 23d 2st | 31c 10d 1st | 41c 22d | 1t 8d 3st | 1t 21c 7d 1st | 2t 49c 15d |
+| 10 | 11c 15d 3st 1s | 23c 6d 2st 2s | 34c 22d 2st | 46c 13d 1st 1s | 1t 7c 8d 1st 1s | 1t 30c 15d | 3t 6c 12d 2st |
 
 #### Exotic Metal Material Costs
 
-
-[[hcell]]Lumps[[/hcell]]
-[[hcell]]Alanti[[/hcell]]
-[[hcell]]Seelan[[/hcell]]
-[[hcell]]Caon[[/hcell]]
-[[hcell]]Boison[[/hcell]]
-
-
-1
-9t 43c 18d 3st
-14t 34c 9d 1st 1s
-19t 25c
-24t 15c 15d 2st 1s
-
-
-2
-19t 25c
-29t 6c 6d 2s
-38t 50c
-48t 31c 6d 2s
-
-
-3
-29t 6c 6d 1st
-43t 40c 15d 2st
-58t 12c 12d 2st
-72t 46c 21d 3st
-
-
-4
-38t 50c
-58t 12c 12d 1st 1s
-77t 37c 12d 2st
-96t 62c 12d 1st 1s
-
-
-5
-48t 31c 6d 1st
-72t 46c 21d 2st 2s
-97t
-121t 15c 15d 1st 2s
-
-
-6
-58t 12c 12d 2st
-87t 18c 18d 2st
-116t 25c
-145t 31c 6d
-
-
-7
-67t 56c 6d 1st
-101t 53c 2d 3st 1s
-135t 50c
-169t 46c 21d 2st 1s
-
-
-8
-77t 37c 12d 2st
-116t 24c 24d 2st 2s
-155t 12c 12d 2st
-193t 62c 12d 2s
-
-
-9
-87t 18c 18d 3st
-130t 59c 9d
-174t 37c 12d 2st
-218t 15c 15d 1st
-
-
-10
-97t
-145t 31c 5d 3st 1s
-194t
-242t 31c 5d 3st 1s
-
+| Lumps | Alanti | Seelan | Caon | Boison |
+| --- | --- | --- | --- | --- |
+| 1 | 9t 43c 18d 3st | 14t 34c 9d 1st 1s | 19t 25c | 24t 15c 15d 2st 1s |
+| 2 | 19t 25c | 29t 6c 6d 2s | 38t 50c | 48t 31c 6d 2s |
+| 3 | 29t 6c 6d 1st | 43t 40c 15d 2st | 58t 12c 12d 2st | 72t 46c 21d 3st |
+| 4 | 38t 50c | 58t 12c 12d 1st 1s | 77t 37c 12d 2st | 96t 62c 12d 1st 1s |
+| 5 | 48t 31c 6d 1st | 72t 46c 21d 2st 2s | 97t | 121t 15c 15d 1st 2s |
+| 6 | 58t 12c 12d 2st | 87t 18c 18d 2st | 116t 25c | 145t 31c 6d |
+| 7 | 67t 56c 6d 1st | 101t 53c 2d 3st 1s | 135t 50c | 169t 46c 21d 2st 1s |
+| 8 | 77t 37c 12d 2st | 116t 24c 24d 2st 2s | 155t 12c 12d 2st | 193t 62c 12d 2s |
+| 9 | 87t 18c 18d 3st | 130t 59c 9d | 174t 37c 12d 2st | 218t 15c 15d 1st |
+| 10 | 97t | 145t 31c 5d 3st 1s | 194t | 242t 31c 5d 3st 1s |
 
 ### Gem Cutting
 

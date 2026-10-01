@@ -4,7 +4,7 @@
 ### [#](#Franlius)Franlius
 
 
-The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
+size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 <a id="Fran-Combat"></a>
@@ -144,7 +144,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 
 | Item | Warrior | Mountaineer | Ravager | Naturalist | Falconer | Overseer | Ascetic | Contemplative | Tuneller |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  | Armor |
+|  |  |  |  |  |  |  |  |  | size 80%Armor |
 | Stone Katitra | 2 | 4-5 | 8 | 8 | - | 8 | 8 | - | - |
 | Bronze Katitra | 4? | 5? | 8? | 8? | - | 8? | 8? | - | - |
 | Iron Katitra | - | - | ? | - | - | - | ? | - | - |
@@ -160,7 +160,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 | Iron Helmet | 2 | - | - | - | - | - | - | - | - |
 | Triangle Shield | 4 | - | - | - | - | - | - | - | - |
 | Towering Shield | 2 | - | - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |  |  | Weapons |
+|  |  |  |  |  |  |  |  |  | size 80%Weapons |
 | Iron Falcata | 2 | - | - | - | - | 9 | - | - | - |
 | Alanti Falcata | 10 | - | - | - | - | 10 | - | - | - |
 | Boison Falcata | 33 | - | - | - | - | 33 | - | - | - |
@@ -366,7 +366,7 @@ Lucio & Lexa (Black Centurions, [The Steps North](/the-steps-north/))
 #### Donations
 You can donate [stones](/stones-ores/) or [money](/wealth/#Iridine) to the [Cult of Ereal](/cult-of-ereal/) for reputation. Stones not commonly found around the area are typically considered more appreciated.
 
-**Stone Donation**
+size 110%**Stone Donation**
 Acolytes are interested in [stones](/stones-ores/) required for [magic rituals](/magic/#Reagents), these stones are: **Sun Stone**, **Sardonyx**, **Amber**, **Topaz**, **Coral**, **Garnet** & **Quartz**.
 
 * **Ellyndel** ([Stone](/stones-ores/) Donations, [Gardens and Hospice](/gardens-and-hospice/))

@@ -1,3 +1,6 @@
 # Bio Kleg
 
+>
+
+
 My child-hood was not a happy one. My parents never took notice of me since they lost their jobs as carpenters and we became destitute. I was a beggar, alone on the streets for seven years and then I moved to Iridine where I am still looking for work and a place to stay. I am weak and vulnerbale to thieves and muggers. Because of my struggle in life I turned to stealing. I stole simple, small things, things that I could sell in order to make money. Unfortunetley, I did not realise the law was tight in Iridine. I have not yet been to jail but the way I'm going I soon will. So please, if you encounter me in the street, don't hesitate to spare some change for a poor man. I am desperate!

@@ -1,5 +1,8 @@
 # Bio Grazen
 
+>
+
+
 I was born in Altene to a scout in the Altene army. I was trained to kill rabbits and such with a short bow from a very young age. My father was Iridinian and my mother Altene, knowing that the bow was not the weapon most commonly associated with and Altene Warrior my mother ensured that I had been trained in the use of a stave as well. My childhood was filled with happy memories. My father would come home as often as he could from scouting at the front. I remember listening to his stories of the great battles with the Cinerians and how on one occasion he had killed a cinner officer with an arrow to the neck. He told me of the high arcs that the seas of arrows made as they fired over the swordsman's heads deep into the enemy ranks and how much the men of the Altene army appreciated the bowsmen that they did have. His stories never failed to fill me with the desire to join him. As I grew up I trained harder and harder, however I was impatient and still not yet old enough to join him in the field of battle.
 
 It was the summer before my 16th year that I decided to go out and see the world and what it was about before I joined the Army with my father to learn the ways of tracking. I packed a sack and quiver one night, sat down with my parents over dinner and began to explain to them how I felt. ? I need to see the world, travel and train. You both have taught me to be honorable and just I began. My father only nodded and watched me with interest as he chewed. I'll come back and join the army as soon as I am old enough? I offered.

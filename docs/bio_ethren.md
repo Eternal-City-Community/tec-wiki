@@ -1,5 +1,8 @@
 # Bio Ethren
 
+>
+
+
 Ethren had lived in Iridine since as long as he can remember.His family was of little wealth but had always struggled to live comfortably no matter where they were. His mother was a tailor who was favored by a senator who had admired her works,while his father who was a skilled man but resented his wife's success.This resentment made him bitter to any employer that would take him in and he found it hard to hold a steady job.
 
 Ethren's mother was visiting the senator more and more often.Not only did she bring back what she was paid for the clothing but extravagant gifts from the senators vast wealth.His father,Aldaulth, became suspicious of his wife and demanded to know for what reason she had accepted such gifts, she gave no answer. After that a heated argument broke out and Aldauth left the house with the slam of the door.

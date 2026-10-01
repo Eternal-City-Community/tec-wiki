@@ -1,5 +1,8 @@
 # Bio Umbran Arxaeth
 
+>
+
+
 **Umbran Arxaeth**
 The sea was never a Cineran strength. The Cineran kings of Iridine did not establish more than a token navy force, and as the sea became more and more important for purposes of trade this vulnerability only became more pronounced. Umbran Arxaeth, the Seahound, was among the first to recognize this. House Arxaeth has never been very large, though it was old and distinguished, having first been established during the reign of Tulca II. Arxaeth had been raised by a severe father that insisted his son learn practical skills before joining the military; Umbran was drilled on ropemaking, carpentry, and the basics of sailing before any of his peers began thinking of the sea as more than a source of fish.
 

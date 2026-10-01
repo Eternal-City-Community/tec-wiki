@@ -1,5 +1,8 @@
 # Bio Cyanicus
 
+>
+
+
 Born in the southern part of Iridine, Cyanicus lived as part of a trader family in The Eternal City. He learned the trades while he was young and even some literature. When he was young, his parents intended for Cyanicus to become a scribe and a merchant. He was the youngest of two sons and one daughter, now deceased. Cyanicus never realized his career of a writer and poet, instead he lived through the worst of the Cineran occupation of Iridine, taking odd jobs to help feed the starving family and to help end the occupation.
 
 His family was killed by Cinerans on several separate occasions. His father, Pleio Ulyssia and Ulita Ulyssia were killed by Cineran soldiers in a short lived rebellion. Janeus Ulyssia, the middle sister died during Calsuan's rebellion, finally, Irea Synea died from beheading as a result of being accused of treason.

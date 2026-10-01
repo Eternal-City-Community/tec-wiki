@@ -1,5 +1,8 @@
 # Bio Drusus Rustius
 
+>
+
+
 **Drusus Rustius - Member of the Council of Elders and leader of the Nuturing Light Sect** 
 
 He holds the current position as **Heart of Ereal** within the [Cult of Ereal](/cult-of-ereal/).

@@ -25,9 +25,9 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 
 ### Hierarchy
 
-|  |  |  |  |  | Cult of Ereal |
+|  |  |  |  |  | size 125%Cult of Ereal |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | High Priest Tharius |
+|  |  |  |  |  | size 125%High Priest Tharius |
 | ***High Priest’s Proxy***<br><br>Darie Allende | ***Sword of Ereal***<br><br>Junia Gracious<br><br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br><br>i. Titus Ahala<br><br>ii. Albius Anande<br><br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br><br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br><br>v. Sartor Mithus<br><br>vi. Spurius Ravilla<br><br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
 |  | i. Fist of Ereal<br><br>ii. Firm of Ereal<br><br>iii. Shield of Ereal |  |  |  |  |
 

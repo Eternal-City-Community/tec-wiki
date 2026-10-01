@@ -1,5 +1,8 @@
 # Bio Alurea
 
+>
+
+
 Alurea Balasarre was born Alurea Dwaerithell in the outskirts of the village of [Cinera](/cinera/) on the 7th day of the Festival of the Evening. Her mother was a Cineran woman who was known for her fierce temper. She fell in love with an Iridinian man who had claimed to no longer want to fight in the war and had fled to the Cineran side of the border.
 
 Alurea was the middle child of three. Her older sister, Henna, was born 3 years before her and had left to establish herself in Iridine a full year ahead of Alurea. Her younger brother, Irelex, was 6 years her junior. She was heartbroken when Henna left, but had no desire to leave her home, no matter how much her brother annoyed her. She lived what she felt was a fairly idyllic childhood until a local warlord discovered that her father was of Iridinian heritage and, despite what he had told his wife, was actively working for Iridine as an embedded spy. As a result of his transgressions, soldiers came to their cottage to put the entire family to death. Alurea only managed to survive this fate because she had been away from the house playing in the woods on her own, as she especially enjoyed doing in the early evening. She returned home just in time to find her mother being questioned about Alurea's whereabouts. Her father had already been bound and slain. Alurea hid nearby out of sight as the soldiers put her mother and brother to death as well, before burning down her home. Knowing she had no home to return to and with soldiers searching for her, she slipped out of Cinera under the cover of darkness to reunite with the only family she had left.

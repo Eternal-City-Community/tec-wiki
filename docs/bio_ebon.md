@@ -1,5 +1,8 @@
 # Bio Ebon
 
+>
+
+
 The BlackOre Clan within the Blackroot mountains is one of the many clans charged with a solemn duty.  Its duty is to serve the [Parcine](/parcines/) lands, and to defend its holdings.  All bearing the name BlackOre have been warriors stout of heart and body.  For generations those within Clan BlackOre have stood beside the other various clans within the mountains they call home, and defended their lands from those seeking to tear it from them. 
 
 Ebon BlackOre is the latest warrior to come from the Clan.  It is practice in his clan that you cannot become a Seteal (Roughly translated a Defender), until you have went upon a Jestyn.  A Jestyn is journey that through it you test your inner mettle.  Most young Parcines from the clan embark on this trip around their eighteenth year.  Ebon, always one up for an adventure, started his on his fourteenth year.  For one year he wandered the plains that had belonged to his forefathers before they were claimed by the legions of Iridine.  He liked the plains, but felt he had more of a journey ahead of him.  As he travelled he encountered, a group of merchants.  The leader of the group, a man named Glaycin, asked Ebon if he would like to travel with them and help guard the wagons from the bandits that sometimes ventured from the forest.  Ebon, no stranger to battle, agreed with a hearty laugh and a contagious grin.

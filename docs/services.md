@@ -15,7 +15,7 @@ Those marked with ??? at the end need to be verified.
 * **Brantax** - pelts and hides ([Seld](/village-of-seld/))
 
 
-### Container Buyers (chests, coffers, etc.)
+### Container Buyers size 75%(chests, coffers, etc.)
 * Apula ([Bronze Lane](/bronze-lane/))
 * Ititia ([Blackvine](/village-of-blackvine/))
 * Admina ([Rock Valley](/town-of-rock-valley/))

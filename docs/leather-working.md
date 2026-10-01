@@ -228,21 +228,6 @@ TBD
 </div>
 
 
-<a id="Layout-Leather"></a>
-
-### Layout Leather  *TBD*
-
-TBD
-
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-[Success: 1, Roll: 21] You reach for a piece of chalk and a measuring cord. You slowly mark out a half length of rawhide with a piece of chalk and a measuring cord, making smudges and small errors as you go. Finished, you set a piece of chalk and a measuring cord aside.
-
-</div>
-
-
 <a id="Punch-Leather"></a>
 
 ### Punch Leather  *TBD*

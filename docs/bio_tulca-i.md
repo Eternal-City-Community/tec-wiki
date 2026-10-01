@@ -1,6 +1,9 @@
 # Bio Tulca I
 
-## Tulca - 1^^st^^ King of Iridine
+>
+
+
+## Tulca - 1<sup>st</sup> King of Iridine
 
 **Tulca: (1-48)**
 Tulca, chieftain and champion of his clan, called a festival to celebrate the return of Ereal to Midlight following the dark times and declared that a city would be built upon Basran Hill in honor of the priestess' sacrifice, and that it would be called after the priestess - Iridine. Although the Tulcas were Cineran - the chieftain was brother to a Cineran warlord - the gathered elders selected him as the Chieftain of Chieftains, and Tulca I became the first King of Iridine.

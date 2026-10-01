@@ -1,5 +1,8 @@
 # Bio Amorine
 
+>
+
+
 Amorine lived a fairly normal life, with a fairly normal family in Altene. Her mother was kind, and obedient. Her father was stern, and gentle when needed. Her older brother was, older.
 
 Amorine was perfectly content with the life she lived. Training with her father, teasing her brother. Everything was as she would like it to be.

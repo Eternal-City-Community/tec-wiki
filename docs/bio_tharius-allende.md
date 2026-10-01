@@ -1,5 +1,8 @@
 # Bio Tharius Allende
 
+>
+
+
 **Tharius Allende - Current High Priest of Ereal** 
 
 Member of the Allende Clan he was once estranged from them but has since rebuilt his ties. 

@@ -1,7 +1,9 @@
 # Bio Baylii
 
-Baylii let the ship rock him back and forth as he stood on deck. He loved sea travel, but he always preferred to be in the forest, his own element. Still from Altene to Iridine the sea was the best way to go, and he needed to get away quickly. He didn't know why he had left his teacher's Domus, he didn't really know why he was going to Iridine either. The one thing he knew for sure, is he would survive there, he always survived somehow.
+>
 
+
+Baylii let the ship rock him back and forth as he stood on deck. He loved sea travel, but he always preferred to be in the forest, his own element. Still from Altene to Iridine the sea was the best way to go, and he needed to get away quickly. He didn't know why he had left his teacher's Domus, he didn't really know why he was going to Iridine either. The one thing he knew for sure, is he would survive there, he always survived somehow.
 
 *******
 

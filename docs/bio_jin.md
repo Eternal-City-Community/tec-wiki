@@ -1,5 +1,8 @@
 # Bio Jin
 
+>
+
+
 Jin has lived in Iridine all his life. Until his seventeenth year Jin lived a relaxed lifestyle, his parents were relatively wealthy and everything he needed he recieved.
 
 A few weeks before he would turn eighteen he was travelling through town with a few of his servants when he saw an innocent man mugged ruthlessly by a thief. Jin started forward to help but the thief was too quick for him and ran off down a back alley. Jin instructed his servants to carry the man to the nearest inn, the Stone Toga. In a few hours and after a few drinks the man thanked Jin and left to return to his family. Buying himself another glass of wine Jin dismissed his servants so he could think. He realised that all was not as it seemed, outside the white-washed door of the Toga a evil blackness lurked, eating away at the fabric which held society together. He realised that this side of life was what he had been protected from. Worst of all he realised that he alone could not do anything about it.

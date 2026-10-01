@@ -1,5 +1,8 @@
 # Bio Arinu
 
+>
+
+
 Morning.
 
 The sun had not broken through the land to brighten up our world. I stumbled out of my room, almost cutting myself on my wooden gladius. It was yet another day, 12 winters after I was born. My father, the delight of my eyes, waited outside, barking instructions at me in Aestivan.

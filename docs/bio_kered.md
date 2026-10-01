@@ -1,5 +1,8 @@
 # Bio Kered
 
+>
+
+
 **First Speaker of the Traevant, Champion of Helia, Father to Quail. Defender of the Republic.**
 
 The Traevant Bear, long time spokesperson for the betterment of [Vet](/town-of-vetallun/). Kered is well known to all, he most likely saved you at least once or twice. Warden of the woods, Kered has brought his Traevant to battle against the many clans of the bandit plague. 

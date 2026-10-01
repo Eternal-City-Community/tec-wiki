@@ -132,7 +132,7 @@ If no teacher is available for the ran you want to progress to, you will need to
 | +7,002 | 1,200% SP | 1,150% SP |
 
 
-Example: Assuming an **Easy** skill in **1^^st^^ slot** that normally requires **5 SP** to learn from a teacher (if possible).
+Example: Assuming an **Easy** skill in **1<sup>st</sup> slot** that normally requires **5 SP** to learn from a teacher (if possible).
 
 | Scenario | Calculation | SP Cost |
 | --- | --- | --- |

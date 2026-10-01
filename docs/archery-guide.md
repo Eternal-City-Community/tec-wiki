@@ -18,7 +18,7 @@ Below you'll find everything important to know about using Missile Bows.
 
 ### Advice & Tips
 * Archery **damage scales with increased ranks** in [Basic Shot](/missile-weapons-bows/#Basic). All shot damage reaches its **maximum potential at rank 151** in [Basic Shot](/missile-weapons-bows/#Basic).
-* Archery **skill effectiveness scales with increased ranks** in each skill. Each skill reaches its maximum effective potential *(e.g. stuns, pins, etc.)* at **rank 151**, as has been confirmed by GM Tale. ^^[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/84501-bug-fixes?p=1733694#post1733694)  [2](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1730989-footshot?p=1733709#post1733709)^^
+* Archery **skill effectiveness scales with increased ranks** in each skill. Each skill reaches its maximum effective potential *(e.g. stuns, pins, etc.)* at **rank 151**, as has been confirmed by GM Tale. <sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/84501-bug-fixes?p=1733694#post1733694)  [2](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1730989-footshot?p=1733709#post1733709)</sup>
 * Use the get arrow from target command to retrieve arrows from an **archery target**.
 * Use the pull arrow from <corpse> command to retrieve your arrows from an individual corpse.
 * Use the retrieve arrows or recover arrows command to retrieve re-usable arrows from all of the corpses in the current area.
@@ -56,8 +56,10 @@ You load a short bow with an arrow.
 **************************************** TRAINING PLAN / START **********************************************
 ***********************************************************************************************************
 -->
-[[tabview]]
-[[tab Phase 1 (~650 SP)]]
+
+
+#### Phase 1 (~650 SP)
+
 
 Name: **<u>2-Shot Rotation</u>**
 Required SP: *~650 SP*
@@ -78,8 +80,8 @@ Required SP: *~650 SP*
 * Getting [Hand Shot](/missile-weapons-bows/#Hand) makes it so you get a solid **2-shots rotation**.
 
 
-[[/tab]]
-[[tab Phase 2 (~398 SP)]]
+#### Phase 2 (~398 SP)
+
 
 Name: **<u>3-Shot Rotation</u>** 
 Required SP: *~398 SP*
@@ -94,8 +96,8 @@ Required SP: *~398 SP*
 * Getting Archery to 40 is working on your **3-shot rotation** & increasing your time on the target and learning the second shot.
 
 
-[[/tab]]
-[[tab Phase 3 (~558 SP)]]
+#### Phase 3 (~558 SP)
+
 
 Name: **<u>Final rotation</u>** 
 Required SP: *~558 SP*
@@ -111,8 +113,9 @@ Required SP: *~558 SP*
 * All the passives till later on only need to be at 1 for you to gain some benefits.
 * You should now get the best sp-gain from here on out.
 
-[[/tab]]
-[[tab Phase 4 (~2,260+ SP)]]
+
+#### Phase 4 (~2,260+ SP)
+
 
 Name: **<u>Level Grinding</u>** 
 Required SP: *~2,260+ SP*
@@ -139,8 +142,8 @@ Required SP: *~2,260+ SP*
 * Rank **43 in [Quick Draw](/missile-weapons-bows/#Draw)** typically means a success of 1.
 
 
-[[/tab]]
-[[tab Phase 5 (~1,970 SP)]]
+#### Phase 5 (~1,970 SP)
+
 
 Name: **<u>To The Moon</u>**
 Required SP: *~1,970 SP*
@@ -158,8 +161,6 @@ Required SP: *~1,970 SP*
 | 9 | [Foot Shot](/missile-weapons-bows/#Foot) | 151+ |
 
 
-[[/tab]]
-[[/tabview]]
 <!--
 ***********************************************************************************************************
 ***************************************** TRAINING PLAN / END ***********************************************

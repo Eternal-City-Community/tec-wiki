@@ -2,7 +2,6 @@
 
 As the Twelve Tables of Iridinian law make clear, those who commit a crime must be punished. The Senate has defined a thorough list of recognized crimes, along with associated penalties and forfeitures.
 
-[[toc folded="yes" unfolded="no" class=""]]
 
 ### <a id="warrantList"></a> Warrant List
 | Warrant | **Real-Life** Time | In-Game Fine | Type of Crime |

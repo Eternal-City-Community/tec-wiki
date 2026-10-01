@@ -7,7 +7,7 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 
 |  | Skill Info |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | *Hidden Iridine Trainer ^^1^^* | *Hidden RV Trainer ^^2^^* |
+| Skills/Actions | Difficulty | *Hidden Iridine Trainer <sup>1</sup>* | *Hidden RV Trainer <sup>2</sup>* |
 | *<u>Setups</u>* | Easy | 25 | 200 |
 | [Draw Attention](#Draw-Attention) | Easy | 25 | 150 |
 | [Ground Approach](#Ground-Approach) | Average | 25 | 150 |
@@ -21,8 +21,8 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 | [Street Approach](#StreetApproach) | Average | - | 10 |
 | [Gentleman's Touch](#GentTouch) | Difficult | - | 10 |
 | [Eavesdrop](#eavesdrop) | Difficult | - | 10 |
-***^^1^^ Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
-***^^2^^ Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast part of town.*
+***<sup>1</sup> Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
+***<sup>2</sup> Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast part of town.*
 
 
 #### Notes on Learning

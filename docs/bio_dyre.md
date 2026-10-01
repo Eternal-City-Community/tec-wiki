@@ -1,5 +1,8 @@
 # Bio Dyre
 
+>
+
+
 Dyre Black was born in the 216th Year of the Republic in Altene to a young mother and an older man. Her mother, striving to be the best she could be with what little their family had, shunned Dyre's father from her life, believing him to be a bad influence. However, for the sake of a love for Dyre's father which would never leave her, Dyre's mother named her Dyre Black. The name Dyre reminded her of the flowers she left on her dead brothers' graves--outcasts as they were among their Altene people, they had died fighting for the Republic, where they had come to find a better life from Altene. The name Black, however, was Dyre's father's, and so even as he was gone from her life, his name was always with her.
 
 Dyre's mother, Lucia, struggled to keep their small family of two alive. On Dyre's 15th birthday, they had naught but hard black bread and a bit of milk for the two of them. Lucia threw herself into the river that night.

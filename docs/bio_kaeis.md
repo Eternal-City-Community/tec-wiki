@@ -1,5 +1,8 @@
 # Bio Kaeis
 
+>
+
+
 In [Altene](/altene/) there lived an adventuresome boy named Kaeis Knight. He was an excitable lad who had a turbulent childhood. He followed his youth with a trip to the city of Rome that landed him in a world of wonder. After a short stay in Rome the young man went to find his lost sister, he came back as the changed man you know today.
 
 I was just beginning to walk when my father, Graffin, taught me the first lesson on trapping game and surviving in the lush wild surrounding our house. He showed me these things during the two-day break that he took at the end of each month. I really loved my father for teaching me the ways of our family and being an admirable dad, but I despised that he was always away from home. I understood that he had to make a living for us but we were one of the few, two to three, middle class families in the city. I think he could have spent a little more time with us but I loved him none the less for it.

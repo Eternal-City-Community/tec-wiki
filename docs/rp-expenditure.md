@@ -53,10 +53,10 @@ Purchase 1 Luck points per 100 role points.
 
 #### [3] Skill Slot Purchase
 This option has a variable cost, based on the number of skill slots already known by your character.
-* Purchasing a **3^^rd^^** skill slot on a character is **250** RPs.
-* Purchasing a **4^^th^^** skill slot on a character is **500** RPs.
-* Purchasing a **5^^th^^** skill slot on a character is **1,000** RPs.
-* Purchasing a **6^^th^^ or above** skill slot on a character is **1,250** RPs.
+* Purchasing a **3<sup>rd</sup>** skill slot on a character is **250** RPs.
+* Purchasing a **4<sup>th</sup>** skill slot on a character is **500** RPs.
+* Purchasing a **5<sup>th</sup>** skill slot on a character is **1,000** RPs.
+* Purchasing a **6<sup>th</sup> or above** skill slot on a character is **1,250** RPs.
 
 
 #### [4] Rearrange Skill Slots
@@ -67,7 +67,7 @@ This role-point expenditure allows you to move any known skill up one slot on a 
 #### [#](#moveCharacter)[5] Exchange Character Order on Playlist
 Allows you to **move a character up 1 slot per purchase**. Meaning if you want to bring your character in slot 3 up to slot 1, you would need to purchase this twice.
 
-For accounts with more than one character, the @number-one command has a **one-time use** to change which character is in the 1^^st^^ character slot.
+For accounts with more than one character, the @number-one command has a **one-time use** to change which character is in the 1<sup>st</sup> character slot.
 
 #### [6] Increase Markable Destinations
 Increase the capacity of your [personal markable destinations](/nav-overview/#Mark) by 1.
@@ -165,7 +165,7 @@ Message will automatically start with your username. For example, if you want it
 
 <a id="superior"></a>
 #### [#](#superior)[15] Superior Weapon Upgrade
-Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.^^[[source](https://www.eternalcitygame.com/community/postid/1070/)]^^
+Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
 
 
 ---

@@ -1,5 +1,8 @@
 # Bio Aeryll
 
+>
+
+
 I was born in a village in Remath, the second born son to a reasonably prosperous fabric merchant. My childhood was largely unremarkable. As the second born, I was expected to take care of my share of the everyday chores around our shop, but was mostly left to my own devices. My brother, Kieran, was the family's pride. Tall, strong, handsome, clever and popular, Kieran was everyone's favourite and the apple of our father's eye. 
 
 I could never have asked for a better big brother and my fondest memories are the times my brother spent with me, taking me on hunting trips or showing me skills he was learning from our father. Everyone understood that Kieran would apprentice in our shop and someday inherit our family's business and our father spent many hours with my brother passing along the knowledge of the trade. I had no aptitude for the fabric trade, and even less interest, and was content to live in my brother's shadow, since I, like everyone else, loved him dearly. Everything changed the night my brother was killed in a drunken brawl in the local tavern. He had gotten into an argument with some other patrons, an argument about nothing of any significance, and was left stabbed to death. My family was shattered by Kieran's senseless death, particularly my father. He seemed to have died along with Kieran and became a cold and empty shell of his former self. Over the next few months, I tried to take over more responsibilites in my family's business and my father tried to teach me. 

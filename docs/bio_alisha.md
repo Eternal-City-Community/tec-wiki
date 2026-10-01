@@ -1,5 +1,8 @@
 # Bio Alisha
 
+>
+
+
 I was born in Iridine when my parents were passing through on a trip to Blackvine. My parents were both natives of Altene. We were coming to Blackvine to visit an uncle of mine, My uncle Zack. He was an armorer who worked on a type of dagger that thieves could use because most of his customers at the times were thieves. He put an eagle symbol on the handle of all the weapons he made. 
 
 Whenever I turned three, my parents left to go back to Altene and left me with my uncle zack to live in blackvine. Three years later, They came back to find that I was enrolled in a locksmith training program and I was ahead of the rest of the people in my class. My parents wanted my locksmithing skills to improve so they moved me to an apartment near the bronze lane regions. My mother was familiar with locksmithing while my dad was a hunter. Apula's Riverside locks was the place where I met many of my future friends and got to spend lots of time with my mom. Although I liked locksmithing, I didn't think It was going to be my future job. 

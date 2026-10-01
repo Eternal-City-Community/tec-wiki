@@ -287,44 +287,44 @@ To find where the appropriate fabric is sold, you can search for *'**length of c
 
 | Item | Length(s) | Wool | Linen | Doeskin | Muslin | Madras | Cotton | Silk | Suede | Velvet | Fur | Leather |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Apron | **1 ^^1/4^^** | Y | Y | N | N | N | Y | N | N | N | N | N |
+| Apron | **1 <sup>1/4</sup>** | Y | Y | N | N | N | Y | N | N | N | N | N |
 | Blanket | **2** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
 | Breeches | **1** | Y | Y | Y | N | N | Y | Y | Y | N | Y | Y |
-| Cap | **^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Cap | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
 | Cape | **2** | Y | Y | N | N | Y | Y | Y | N | Y | N | N |
-| Chiton | **2 ^^3/4^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Chiton | **2 <sup>3/4</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
 | Cloak | **2** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Fingerless Gloves | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Gloves | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Hair Ribbon | **^^1/8^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Hat | **^^1/2^^ + ^^1/8^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | N |
-| Headband | **^^1/8^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Headscarf | **^^1/2^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Loincloth | **^^3/4^^** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Neckpouch | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Fingerless Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Hair Ribbon | **<sup>1/8</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Hat | **<sup>1/2</sup> + <sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | N |
+| Headband | **<sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Headscarf | **<sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Loincloth | **<sup>3/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
+| Neckpouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
 | Paenula | **2** | Y | N | Y | N | N | Y | N | Y | N | N | N |
 | Pants | **1** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
-| Pouch | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Pouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
 | Robe | **2** | Y | Y | Y | Y | N | Y | Y | N | N | N | N |
 | Sack | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | Y | N | N |
-| Scarf | **^^1/4^^** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Shirt | **1 ^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Simple Belt | **^^1/4^^** | Y | Y | Y | N | Y | Y | Y* | Y | N | N | N |
-| Skullcap | **^^1/2^^** | Y | Y | Y | Y | N | Y | N | Y | N | Y | Y |
+| Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | Y | N | N |
+| Scarf | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
+| Shirt | **1 <sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Simple Belt | **<sup>1/4</sup>** | Y | Y | Y | N | Y | Y | Y* | Y | N | N | N |
+| Skullcap | **<sup>1/2</sup>** | Y | Y | Y | Y | N | Y | N | Y | N | Y | Y |
 | Sleeveless Tunic | **1** | Y | Y | N | Y | N | Y | Y | N | N | N | N |
-| Slippers *(upper)* | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Slippers *(sole)* | **^^1/8^^** | N | N | Y | N | N | N | N | N | N | N | Y |
-| Socks | **^^1/4^^** | Y | Y | N | N | N | Y | Y | N | N | Y | N |
-| Stola | **1 ^^1/2^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Strophium | **^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| Subligar | **^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| Slippers *(upper)* | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Slippers *(sole)* | **<sup>1/8</sup>** | N | N | Y | N | N | N | N | N | N | N | Y |
+| Socks | **<sup>1/4</sup>** | Y | Y | N | N | N | Y | Y | N | N | Y | N |
+| Stola | **1 <sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Strophium | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| Subligar | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | Toga | **4** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
 | Towel | **1** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Tunic | **1 ^^1/2^^** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
-| Tunica | **1 ^^1/2^^** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
+| Tunic | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
+| Tunica | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
 | Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Waist Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
+| Waist Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
 
 
 </details>
@@ -338,14 +338,17 @@ Related commands are commands that require no skill or training to use, but are 
 
 ### Recall  *recall <lore>*
 
-To [stitch a pattern](#Stitch-Pattern) or [sew a patch](#Basic-sew), you first need to **** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
+To [stitch a pattern](#Stitch-Pattern) or [sew a patch](#Basic-sew), you first need to **recall <lore>** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
 
 **Maker's mark** is a special **lore**, in that it allows someone to identify the maker of an item by inspecting it.
 
 **Each asterisk (*)** in the recall gives you an idea of how many **attempts you'll need to complete your item**. Example: **Maker's Mark** requires only **1 stitch**, while **zigzag edging** will require **9 stitches**.
 
-|  EXAMPLE=
- > *recall maker's mark*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *recall maker's mark*
  The maker's mark allows someone to identify the maker of an item by inspecting it.
  To add a maker's mark:
  * Stitch your Maker's Mark onto the garment.
@@ -362,7 +365,7 @@ To [stitch a pattern](#Stitch-Pattern) or [sew a patch](#Basic-sew), you first n
  * Continue stitching a zigzag onto the edge of the garment.
  * Finish stitching the zigzag onto the edge of the garment.
 
-]]
+</div>
 
 
 <a id="Threading"></a>
@@ -525,7 +528,7 @@ Most garments must be hemmed to complete the garment and prevent fraying. When u
 
 The practice of stitching a design into a garment. There are a wide variety of designs, and some will require that you complete the action multiple times. The color of the thread used will be reflected in the completed stitching.
 
-To stitch a pattern, you first need to **[recall a lore](#Recall)** before you stitch your garment. The **details of the lore** will give you an idea of **how many stitches** are needed. You can type **** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
+To stitch a pattern, you first need to **[recall a lore](#Recall)** before you stitch your garment. The **details of the lore** will give you an idea of **how many stitches** are needed. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
 
 Once the lore is recalled, repeat the stitch as many times as is required.
 
@@ -533,8 +536,11 @@ Once the lore is recalled, repeat the stitch as many times as is required.
 
 **Required Tools:** [Threaded needle](#Threading), a thimble.
 
-|  EXAMPLE=
- > *recall zigzag edging stitch*
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+> *recall zigzag edging stitch*
  * Begin stitching a zigzag line onto the edge of the garment.
  * Continue stitching a zigzag onto the edge of the garment.
  * Continue stitching a zigzag onto the edge of the garment.
@@ -568,7 +574,7 @@ You finish sewing a zigzag as an edging onto an undyed homespun wool hair ribbon
 You complete the accessory.
 [Success: 1, Roll: 97]
 
-]]
+</div>
 
 
 <a id="Basic-Mending"></a>

@@ -1,5 +1,8 @@
 # Bio Tralius Allende
 
+>
+
+
 ## Tralius Allende
 [House Allende](/political-factions/#Allende) was a minor noble family that raised in status during the purges of Parsos Emrial. Tralius himself quietly opposed Emrial, and he worked tirelessly in the city during the days after Emrial's abdication for peace and unity. Valstaron Martius recognized this, and took Allende under his wing, giving him command over the city's defenses. Recognizing that the Cineran kings had never adequately prepared all of Iridine for attack, only their own holdings in the Steps, Tralius immediately and persistently worked to fortify Iridine, beginning with the natural point of attack--[Vetallun](/town-of-vetallun/). He recognized more than just the obvious vulnerability, however. The turmoil in Iridine became known to the Cinerans, who in short order organized for an attack. Less than a year after deposing Emrial, the faction that had produced Quintus the Marauder attacked, driving south from its fortifications at Franlius. Martius himself led the Legio that held off a two-pronged attack towards Monlon, while Tralius Allende was tasked with the defense of Iridine.
 

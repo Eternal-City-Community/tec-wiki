@@ -1,5 +1,8 @@
 # Bio Vania
 
+>
+
+
 The name's Vania, put people like to call me with my last name, Wraith. I hate it actually, it makes you sound like you're a thief. But I have to live with it *sigh*.
 
 I was born in Gadaene, but when I was only 3 years old my parents and I moved to Iridine. My father was an outdoorsman, he didn't like the city much but my mother was a healer, and in the village where we had lived, people didn't get wounded very much. In Iridine, my mom could work at the hospice and earn some money. So my father didn't like the city, and he went to the forest when he had the time. Sometimes, I went with him, it is at those moments, watching my father, that I learned the basics of surviving in the outdoors. Finding firewood and building fires, making torches,…

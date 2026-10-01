@@ -1,5 +1,8 @@
 # Bio Shadicus
 
+>
+
+
 An excerpt from Shadicus Kavien’s journal:
 
 I was born and raised in the city of Cair Coradon. My father is a high ranking member of the War Party. I have always been a lot smaller then the rest of my country men. Something my hulking brute of a father has always despised me for. He has felt humiliated that he should produce such a small child. My father made sure I didn’t ever forget his displeasure with me.

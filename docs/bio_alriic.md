@@ -1,5 +1,8 @@
 # Bio Alriic
 
+>
+
+
 'Dad,' a shy eight year old Alriic slowly walked into his fathers shop. His father's slight frown turned to a smile as he looked up from his work. He turned to face his gangly son and put down his tools. Daslin reached over and ruffled his sons hair,
 'Hey kid, what ya' want?'
 'Well, I want'ed to know,...um, well,'struggled to let out his words as he shuffled his feet, head down. His father smiled again and listened. Alriic had a hard time sptitting out his words, for his father was a hard man when it came to his trade, but he looked up, hope in his bright grey eyes, 'Well, I want, to help you, in here, help with the carpentry.' His father's smile turned flat,

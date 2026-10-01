@@ -1,5 +1,8 @@
 # Bio Chitsa
 
+>
+
+
 ## Chitsa's Biography
 
 Chitsa grew up in one of the rougher sides of Altene. Her parents were members of a small gang, which dominated their area and were ruthless in there killings. Her parents were experienced Staves fighters and everyday they would come home with bruises but also with lots of money, which unfortunately they spent, on Ale and more weapons and armour. Chitsa's father often beat Chitsa for stealing money to buy things for her self. Chitsa's father also beat her mother.

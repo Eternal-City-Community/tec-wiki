@@ -1,5 +1,8 @@
 # Bio Dacanor
 
+>
+
+
 My early childhood was quite unhappy, shortly after my Mother, an Altene woman, who cooked for the bodyguards of the king of Tuchea, became pregnant with me, my Father, an Altene Bodyguard of the King of Tuchea, died, while foiling an assassination attempt on the King. They met, of course, while doing their daily jobs, and fell in 'love' as they say..
 
 But it would'nt last, as, soon after I was born, my Mother remarried, a dock worker from Iridine, during the first few months, everything went fine, but then, once he became comfortable with us, and knew he had a place, firm in the family, he would get drunk and attack myself, my 2 siblings, and my Mother, I wish not to mention those names now, those were the worst of times…

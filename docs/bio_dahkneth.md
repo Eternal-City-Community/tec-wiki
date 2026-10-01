@@ -1,5 +1,8 @@
 # Bio Dahkneth
 
+>
+
+
 Dahkneth was born to Kalonis and Catherine Shilmenah, in what would be about the 196th year of the Republic. Kalonis, a native of the kingdom of Aestiva, was a tribune in the League's armies. His wife, Catherine, a native of the city of Iridine, was a medic in the army as well. Dahkneth was the first of their children, but a second son and a daughter were born a few years later.
 The Shilmenah family prospered in the city of Aestiva for many years, although not quite of patrician standing, they were considered some of the higher commoners. Their ancestry was filled with military officers and soldiers, some of great prestige, while others remained fairly unknown.
 From about the age of five, Dahkneth was constantly in training. During the early mornings, he would do his chores, then spend the next couple of hours in weapon training. After training, he ate a short breakfast, then he would go to the academy until late evening with his brother and sister. At the age of twelve, he began attending a military academy, by order of his father. He excelled in his training, never resenting the life that had been decided upon for him at his birth, and all went well, until one fateful day...
@@ -30,4 +33,4 @@ Two years had passed, Dahkneth's class was finally graduating from the recruit p
 Currently he is a Sergeant in Wolf squad of Legio I, he has yet to find the man who murdered his father, but he has heard reports that the man is now one of the main war-lords of the League... He still vows to avenge his father, no matter how long it may take, and how much blood must be shed to do so....
 
 
-**Note to site staff: Just wanted to tell yall to replace the old biography with this new biography of Dahkneth. Decided the other one wasn't very good and that I needed to write up another one. Thanks.
+size 90%**Note to site staff: Just wanted to tell yall to replace the old biography with this new biography of Dahkneth. Decided the other one wasn't very good and that I needed to write up another one. Thanks.

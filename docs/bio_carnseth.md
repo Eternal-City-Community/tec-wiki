@@ -1,5 +1,8 @@
 # Bio Carnseth
 
+>
+
+
 It was a dark day the day Carnseth was born. His matro cries in pain as she dies in labor. His patro removes a small runt of a child and sneers in disgust as the child is extremely small.
 
 *'You killed your matro!'* His patro growls as he gives the child to a mid-wife. *'This child will be named Carnseth.'* His patro slumps over the now dead woman and cries.

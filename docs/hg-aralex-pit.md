@@ -1,9 +1,6 @@
 # Hg Aralex Pit
 
 ## The Aralex Pit
-
- 
-
 ### Introduction
 > **~ Taken from 'A "relaxing" guide to Aralex By Veridio Dimori'**
 > The aralex are not native to the city of Iridine. As far as we know, the aralex that now infest the depths of the lime quarries are in fact from Cullaiden Island. A shipment of boxes, one would assume benign, was sent back to the mainland and the aralex were on board. Whether this was malicious or unintentional still remains to be seen. For several days, maybe even a week or two, they sprouted up across the Forum Axonus, the Bronze lane, near the Hospice of Morning Light, and found their final dwelling place under the Colosseum. 
@@ -52,7 +49,7 @@ A single aralex nest is on this floor. Be wary when attempting to steal the eggs
 This floor is home to several aralex nests. Even the smartest, fattest, and cunning rat knows better to venture this far into the pits and you will only find aralex here.
 
 #### Tier 3: The breeding grounds
-Hundreds, if not thousands of aralex lie sleeping in this area guarding their massive nests and possibly more. Push forward through the hoards of aralex to find out. *[[This is a world event raid mechanic.]]* 
+Hundreds, if not thousands of aralex lie sleeping in this area guarding their massive nests and possibly more. Push forward through the hoards of aralex to find out. *This is a world event raid mechanic.* 
 
 **Notes about T3:**
 * Each room has a threshold of aralex that must be defeated in order to push further into the cavern. 

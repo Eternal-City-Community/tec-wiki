@@ -1,5 +1,8 @@
 # Bio Lotivus
 
+>
+
+
 Lotivus was born in Gadaene to a somewhat rich family. His family did not have a history of being great or even skilled warriors. They were mainly a family of builders. But, Lotivus loved hunting and the adventure of exploring and learning. At the age of 4 he would hunt down and kill the field mice in his yard with his dog Feslone. He never got along with many of the neighbor kids because they liked juggeling, and dancing, and singing.
 
 At the age of 8 out of a search for friends he ran away to the city of Sostaeran where he tricked a gladsman master into believing he was a poor Iridian boy. This gladsmaster named Solvius trained him in the principles and teachings of the Sostaerani. Thus he became a very serious and polite as compared to those in Gadaene.

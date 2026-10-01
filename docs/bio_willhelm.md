@@ -1,5 +1,8 @@
 # Bio Willhelm
 
+>
+
+
 Heh. Why hello there. Glad to see you made it to the shop. Not a theif are ya? *Laughs* Glad to hear it, have a seat.
 
 Know anything about the art of 'smithing? Ah.. then yer better off then I thought. If ya need training or advice, just let me know. I'm always around, even if it's not in here with ole Apula.

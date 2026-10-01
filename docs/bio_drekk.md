@@ -1,5 +1,8 @@
 # Bio Drekk
 
+>
+
+
 Drekk and Drykk were born to a Blackvine merchant and his beautiful weaver wife. Their mother died shortly after the twins were born, and their father was left to care for them. 8 years passed.
 One day as the boys were walking to their favorite playing spot, some Cineran warriors attacked their father's estate. The boys arrived home to find their house burning, and their father and all of his servants dead. They wept.
 

@@ -1,5 +1,8 @@
 # Bio Metiades
 
+>
+
+
 Metiades Orbe was born in the village of Haksworth in Altene. Since he was just a child his family had always tried to convince Met (how they called him) to be a warrior. At the age of 15, his parents, members of the Altenean aristocracy, were killed in a farmers riot. Fortunately, he scaped from Haksworth, but he had nowhere to go. Metiades wandered begging all trough Altene to survive until he met Maritia. She was a nice, peaceful elder woman who had passed all her long life healing the most important Altenean celebrities. Maritia adopted Met when he was 17 and took him everywhere she went. Metiades was fascinated with her. He was amazed of how this small, weak woman had the ability to cure even the most dangerous and mortal illnesses. So one day his young pupil told Maritia: "I've discovered how I want to spend the rest of my life. I want to be like you. I love what you do, Ma. I've discovered I don't care money as much as helping the others. I want to heal."
 Maritia started to teach Metiades all the healing secrets she knew. He was a great apprentice. Everything the old woman told him, was perfectly learned by that brilliant brain. But unfortunately, his teacher died before Met had reached a high level in the art of healing. Nothing at all was making him to stay in Altene, so he went to Iridine to continue his apprenticeship about Medicine.
 

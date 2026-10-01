@@ -1,5 +1,8 @@
 # Bio Jarin Seneda
 
+>
+
+
 **Jarin Seneda - Unofficial head of the Council of Elders and leader of the Revealing Light sect.** 
 
 He holds the current position as **Eye of Ereal** within the [Cult of Ereal](/cult-of-ereal/).

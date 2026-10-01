@@ -1,5 +1,8 @@
 # Bio Appolus
 
+>
+
+
 I grew up in a large village in the beautiful hills of Gadaene, my childhood was full of adventures: following my father into battle against the Sosterans, wandering in the hills, making mischief in town. Early in my life it was decided that I would marry a beautiful merchants daughter, Lucana. Together, Lucana and I had many adventures. When I reached 12, I was eligible for conscription, because we were in a desperate war with the Sosterans and a mercenary army of Alteanes and all able men were to join the army.
 
 During my service, I befriended a foreigner from Cinerea, his name was Nimon. With Nimon I became renouned in my Legion for bravery, skill, and cleverness. I served for 4 years in the army, until I was 16. Nimon returned home with me, and stayed in my home.

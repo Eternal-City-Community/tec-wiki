@@ -79,44 +79,44 @@ The below chart columns reference the base materials, but includes all variants 
 
 | Item | Length(s) | Wool | Linen | Doeskin | Muslin | Madras | Cotton | Silk | Suede | Velvet | Fur | Leather |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Apron | **1 ^^1/4^^** | Y | Y | N | N | N | Y | N | N | N | N | N |
+| Apron | **1 <sup>1/4</sup>** | Y | Y | N | N | N | Y | N | N | N | N | N |
 | Blanket | **2** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
 | Breeches | **1** | Y | Y | Y | N | N | Y | Y | Y | N | Y | Y |
-| Cap | **^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Cap | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
 | Cape | **2** | Y | Y | N | N | Y | Y | Y | N | Y | N | N |
-| Chiton | **2 ^^3/4^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Chiton | **2 <sup>3/4</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
 | Cloak | **2** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Fingerless Gloves | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Gloves | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Hair Ribbon | **^^1/8^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Hat | **^^1/2^^ + ^^1/8^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | N |
-| Headband | **^^1/8^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Headscarf | **^^1/2^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Loincloth | **^^3/4^^** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Neckpouch | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Fingerless Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Hair Ribbon | **<sup>1/8</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Hat | **<sup>1/2</sup> + <sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | N |
+| Headband | **<sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
+| Headscarf | **<sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Loincloth | **<sup>3/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
+| Neckpouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
 | Paenula | **2** | Y | N | Y | N | N | Y | N | Y | N | N | N |
 | Pants | **1** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
-| Pouch | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Pouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
 | Robe | **2** | Y | Y | Y | Y | N | Y | Y | N | N | N | N |
 | Sack | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | Y | N | N |
-| Scarf | **^^1/4^^** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Shirt | **1 ^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Simple Belt | **^^1/4^^** | Y | Y | Y | N | Y | Y | Y* | Y | N | N | N |
-| Skullcap | **^^1/2^^** | Y | Y | Y | Y | N | Y | N | Y | N | Y | Y |
+| Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | Y | N | N |
+| Scarf | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
+| Shirt | **1 <sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Simple Belt | **<sup>1/4</sup>** | Y | Y | Y | N | Y | Y | Y* | Y | N | N | N |
+| Skullcap | **<sup>1/2</sup>** | Y | Y | Y | Y | N | Y | N | Y | N | Y | Y |
 | Sleeveless Tunic | **1** | Y | Y | N | Y | N | Y | Y | N | N | N | N |
-| Slippers *(upper)* | **^^1/4^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Slippers *(sole)* | **^^1/8^^** | N | N | Y | N | N | N | N | N | N | N | Y |
-| Socks | **^^1/4^^** | Y | Y | N | N | N | Y | Y | N | N | Y | N |
-| Stola | **1 ^^1/2^^** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Strophium | **^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| Subligar | **^^1/2^^** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| Slippers *(upper)* | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
+| Slippers *(sole)* | **<sup>1/8</sup>** | N | N | Y | N | N | N | N | N | N | N | Y |
+| Socks | **<sup>1/4</sup>** | Y | Y | N | N | N | Y | Y | N | N | Y | N |
+| Stola | **1 <sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| Strophium | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| Subligar | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | Toga | **4** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
 | Towel | **1** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Tunic | **1 ^^1/2^^** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
-| Tunica | **1 ^^1/2^^** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
+| Tunic | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
+| Tunica | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
 | Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Waist Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
+| Waist Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
 
 
 **Note:** Fur, Leather, Rawhide & Suede are listed various recipes but are not readily available for purchase. There materials are available via @request.
@@ -160,7 +160,7 @@ The below **step-by-step** guide explain how to create a clothing item, using **
 <a id="HandlingCloth"></a>
 #### [#](#HandlingCloth)Handling Cloth
 
-[Lengths of  cloth](#Cloth) can be [sewn together](/tailoring/#Basic-Sewing) to fashion larges pieces or can be [cut](/tailoring/#Tailors-Shears) into halves (^^1/2^^), quarters (^^1/4^^), and eighths (^^1/8^^) when smaller pieces are necessary.
+[Lengths of  cloth](#Cloth) can be [sewn together](/tailoring/#Basic-Sewing) to fashion larges pieces or can be [cut](/tailoring/#Tailors-Shears) into halves (<sup>1/2</sup>), quarters (<sup>1/4</sup>), and eighths (<sup>1/8</sup>) when smaller pieces are necessary.
 
 Each recipe of a tailoring item will require a certain size of cloth. **Sew or cut the cloth as needed to obtain the appropriately sized piece**. This type of work can be done at any time to prepare for an upcoming item or even while you're in the middle of creating a new item.
 

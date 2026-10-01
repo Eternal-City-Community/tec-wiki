@@ -1,5 +1,8 @@
 # Bio Seranthus
 
+>
+
+
 The day is cold and windy.......Rain begins to pour down upon the heads of The Legion of Gadaene Spearman as they await orders to charge into battle against a small Sostaeron force. Two young spearmen begin to feel the butterflies in their stomach as their commanding officers begin to give out the final orders and plan for the attack.The two cousins turn to each other and say a few words to the other....
 
 Vradimirr: Cousin this could be it one of us may not be going home, please tell my parents if I die that I love them and will take their memory with me to the after life.... Seranthus: Do not speak of such things cousin, we have prepared all our lives for this day. My father your uncle has been training us to fight side by side for the last sixteen years. Today cousin is our time to show that our strength and skill will be the difference.

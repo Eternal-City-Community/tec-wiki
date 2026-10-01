@@ -1,5 +1,8 @@
 # Bio Reharl
 
+>
+
+
 I had no idea why we had moved here in the first place. These people were strangers to us, and my father wasn't exactly the friendly type. I would approach my nieghbors regularly and try to initiate conversation, and though I had no fear of them, they would spurn me aside with taunts and a general cold attitude towards me. I hated it, not fitting in, even at home I was ridiculed for my lacking work ethics.
 
 My father was a suspicious man, he didn't trust anyone he met in our new home. If I wasn't at home all day he would make accusations. He would hit me sometimes if he'd been drinking. I never saw him hit my mother, but the steady mental degrading she faced every day was enough to make you sick. I didn't know how long I could stand this.

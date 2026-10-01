@@ -1,7 +1,9 @@
 # Bio Kry
 
-Kry Ni was born into the Remathen House Tuvalis on a warm summer afternoon. Kry's parents loved him about as much as there other children, until he grew to be 9 years-old. Like his other brothers and sisters he was expected to be a merchant and diplomat, but that was not destiny's choice for him...
+>
 
+
+Kry Ni was born into the Remathen House Tuvalis on a warm summer afternoon. Kry's parents loved him about as much as there other children, until he grew to be 9 years-old. Like his other brothers and sisters he was expected to be a merchant and diplomat, but that was not destiny's choice for him...
 
 ********
 

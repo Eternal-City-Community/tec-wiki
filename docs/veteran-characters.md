@@ -2,9 +2,9 @@
 
 <a id="Top"></a>
 
-[[embedvideo]] 
+ 
 <iframe width="444" height="240" src="https://www.youtube.com/embed/Mr4O37X1QpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[[/embedvideo]] 
+ 
 
 
 <a id="Overview"></a>
@@ -330,9 +330,9 @@ The is currently **no limit** to the amount of **GSP** you can **leave the VC Lo
 
 A **gruff old man** teaches the following skills, actions and recipes:
 
-[[tabview]]
 
-[[tab Archery]]
+#### Archery
+
 
 ~~~
 Skill Point Cost
@@ -363,10 +363,9 @@ Parting Shot                       average     300       18 / 8
 Quick Shot                         difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Pankration
 
-[[tab Pankration]]
 
 ~~~
 Skill Point Cost
@@ -400,10 +399,9 @@ Pankration Focus                   impossible  300       22 / 12
 Pankration Feint                   average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Tridents
 
-[[tab Tridents]]
 
 ~~~
 Skill Point Cost
@@ -436,10 +434,9 @@ Trident Defensive Bash             average     300       18 / 8
 Trident Parting Gouge              average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Short Whip
 
-[[tab Short Whip]]
 
 ~~~
 Skill Point Cost
@@ -468,10 +465,9 @@ Whip Grip                          impossible  300       22 / 12
 Whip Forward Snap                  average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Cestus
 
-[[tab Cestus]]
 
 ~~~
 Skill Point Cost
@@ -502,10 +498,9 @@ Cestus Accuracy                    difficult   300       20 / 10
 Cestus Form                        impossible  300       22 / 12
 ~~~
 
-[[/tab]]
 
+#### 2H Axes
 
-[[tab 2H Axes]]
 
 ~~~
 Skill Point Cost
@@ -539,10 +534,9 @@ Two-Handed Axes                                300       13 / 6
 2H Axe Haft Sap                    difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### 1H Axes
 
-[[tab 1H Axes]]
 
 ~~~
 Skill Point Cost
@@ -573,10 +567,9 @@ Axe Parcine Raider Stance          easy        300       13 / 6
 Axe Leg Strike                     difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Clubs
 
-[[tab Clubs]]
 
 ~~~
 Skill Point Cost
@@ -605,10 +598,9 @@ Club Iunius' Stance                easy        300       13 / 6
 Club Stepping Crush                average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Staves
 
-[[tab Staves]]
 
 ~~~
 Skill Point Cost
@@ -642,10 +634,9 @@ Staves Snap Strike                 average     300       18 / 8
 Staves Altene Skirmish Stance      easy        300       13 / 6
 ~~~
 
-[[/tab]]
 
+#### Spears
 
-[[tab Spears]]
 
 ~~~
 Skill Point Cost
@@ -678,10 +669,9 @@ Spear Parting Slash                average     300       18 / 8
 Spear Rotation Block               difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Swords
 
-[[tab Swords]]
 
 ~~~
 Skill Point Cost
@@ -708,10 +698,9 @@ Sword Accuracy                     difficult   300       20 / 10
 Sword Grip                         impossible  300       22 / 12
 ~~~
 
-[[/tab]]
 
+#### Shields
 
-[[tab Shields]]
 
 ~~~
 Skill Point Cost
@@ -729,10 +718,9 @@ Shield Upward Bash                 average     300       18 / 8
 Shield Edge Bash                   difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Knives
 
-[[tab Knives]]
 
 ~~~
 Skill Point Cost
@@ -760,10 +748,9 @@ Knives Grip                        impossible  300       22 / 12
 Knives Accuracy                    difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Combat Maneuvers
 
-[[tab Combat Maneuvers]]
 
 ~~~
 Skill Point Cost
@@ -791,10 +778,9 @@ Simple Rolling Rise                difficult   300       20 / 10
 Melee Advance                      difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Brawling
 
-[[tab Brawling]]
 
 ~~~
 Skill Point Cost
@@ -826,10 +812,9 @@ Brawler's Instinct                 impossible  300       19 / 11
 Brawling Feint                     average     300       15 / 7
 ~~~
 
-[[/tab]]
 
+#### Avros
 
-[[tab Avros]]
 
 ~~~
 Skill Point Cost
@@ -849,10 +834,9 @@ Avros Sunrise Block                average     300       18 / 8
 Avros Whirling Strike              average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Nelsor
 
-[[tab Nelsor]]
 
 ~~~
 Skill Point Cost
@@ -873,10 +857,9 @@ Reverse Sky Arch                   average     300       18 / 8
 Tiger Slash                        difficult   300       20 / 10
 ~~~
 
-[[/tab]]
 
+#### Cineran Knife Fighting
 
-[[tab Cineran Knife Fighting]]
 
 ~~~
 Skill Point Cost
@@ -895,10 +878,9 @@ CKF Quick Draw                     difficult   300       20 / 10
 CKF Markad Slash                   average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Falcata
 
-[[tab Falcata]]
 
 ~~~
 Skill Point Cost
@@ -932,10 +914,9 @@ Falcata Sudden Stab                average     200       18 / 8
 Falcata Leg Strike                 average     200       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Sling
 
-[[tab Sling]]
 
 ~~~
 Skill Point Cost
@@ -960,10 +941,9 @@ Long Range Throwing                average     200       18 / 8
 Wind Compensation                  average     200       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Chainblade
 
-[[tab Chainblade]]
 
 ~~~
 Skill Point Cost
@@ -993,10 +973,9 @@ Chainblade Kneeling Spin           difficult   200       20 / 10
 Chainblade No Mind Strike          impossible  200       22 / 12
 ~~~
 
-[[/tab]]
 
+#### Falx
 
-[[tab Falx]]
 
 ~~~
 Skill Point Cost
@@ -1028,16 +1007,12 @@ Falx Final Slash                   difficult   200       20 / 10
 Falx Wild Strike                   easy        200       13 / 6
 ~~~
 
-[[/tab]]
-[[/tabview]]
-
 
 A **young man** teaches the following skills, actions and recipes:
 
-[[tabview]]
 
+#### Pickpocketing
 
-[[tab Pickpocketing]]
 
 ~~~
 Skill Point Cost
@@ -1051,10 +1026,9 @@ Cut and Lift                       average     300       18 / 8
 Handoff                            average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Outdoors
 
-[[tab Outdoors]]
 
 ~~~
 Skill Point Cost
@@ -1081,10 +1055,9 @@ Whittling                          difficult   300       20 / 10
 Survival Weaving                   average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Hunting
 
-[[tab Hunting]]
 
 ~~~
 Skill Point Cost
@@ -1117,10 +1090,9 @@ Craft Basic Knife                  average     300       18 / 8
 Craft Basic Club                   easy        300       13 / 6
 ~~~
 
-[[/tab]]
 
+#### Tailoring
 
-[[tab Tailoring]]
 
 ~~~
 Skill Point Cost
@@ -1135,10 +1107,9 @@ Stitch Pattern                     average     300       18 / 8
 Basic Mending                      average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Healing
 
-[[tab Healing]]
 
 ~~~
 Skill Point Cost
@@ -1162,10 +1133,9 @@ Apply Tourniquet                   average     300       23 / 13
 Remove Tourniquet                  easy        300       18 / 11
 ~~~
 
-[[/tab]]
 
+#### Locksmithing
 
-[[tab Locksmithing]]
 
 ~~~
 Skill Point Cost
@@ -1188,10 +1158,9 @@ Fashion Keyring                    difficult   300       20 / 10
 Wax Letter Etching                 average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Setups
 
-[[tab Setups]]
 
 ~~~
 Skill Point Cost
@@ -1204,10 +1173,9 @@ Assess Target                      average     300       18 / 8
 Ear for Coin                       easy        300       13 / 6
 ~~~
 
-[[/tab]]
 
+#### Street Smarts
 
-[[tab Street Smarts]]
 
 ~~~
 Skill Point Cost
@@ -1221,10 +1189,9 @@ Graffiti                           easy        300       13 / 6
 Mimic Signpost                     average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Herbalism
 
-[[tab Herbalism]]
 
 ~~~
 Skill Point Cost
@@ -1245,10 +1212,9 @@ Craft Vessel                       average     300       18 / 8
 Label Container                    average     300       18 / 8
 ~~~
 
-[[/tab]]
 
+#### Tailoring
 
-[[tab Tailoring]]
 
 ~~~
 Skill Point Cost
@@ -1355,10 +1321,6 @@ Vest Recipe                        easy        300       7 / 4
 Waist Sash Recipe                  easy        300       7 / 4
  Sash Length Recipe               easy        300       7 / 4
 ~~~
-
-[[/tab]]
-
-[[/tabview]]
 
 
 [Back to Top](#Top)

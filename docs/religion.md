@@ -25,6 +25,8 @@ Worship of Ereal in one form or another is common throughout most civilized nati
 * [Sostaera](/sostaera/)
 
 
+size 110%
+
 <details>
 <summary>+ Daily worship of Ereal</summary>
 

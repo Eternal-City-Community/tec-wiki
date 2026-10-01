@@ -1,5 +1,8 @@
 # Bio Ruttiger
 
+>
+
+
 The shadows stirred slightly in the darkened alley. If one closely, he would see the figure of a young man clutching a small knife.
 The boy waited, his eyes narrowed toward the entrance of the alley. It was cold. The cobblestones made his bare feet numb, and the wind stung his face. His impassive face changed slightly, his lips curving into a smirk as two larger figures began to walk down the small alley. Instantly, he recognized their faces.
 As he heard the clank of their boots, he clutched the small blade in his hand. The knife was short, the blade made of simple tin. Hemp rope was wrapped around the simple wood hilt for a better grip. Noticing the figures had their backs turned, he slowly stepped forward from the shadows.

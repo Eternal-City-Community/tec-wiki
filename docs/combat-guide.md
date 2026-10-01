@@ -332,29 +332,9 @@ While the healing skillset will allow you to recover from injury faster, it also
 Source 1: http://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/42426-the-new-change-to-defense?p=793473#post793473
 
  
-  
-| Stat Description | Numeric Value |
-| --- | --- |
-| Abysmal | 0 - 60 |
-| Very Poor | 61 - 70 |
-| Poor | 71 - 80 |
-| Below Average | 81 - 90 |
-| Slightly Below Average | 91 - 100 |
-| Average | 101 - 110 |
-| Slightly Above Average | 111 - 120 |
-| Above Average | 121 - 130 |
-| Fairly Good | 131 - 140 |
-| Good | 141 - 150 |
-| Very Good | 151 - 165 |
-| Great | 166 - 180 |
-| Exceptional | 181 - 190 |
-| Outstanding | 191 - 200 |
-| Remarkable | 201 - 210 |
-| Extraordinary | 211 - 220 |
-| Phenomenal | 221 - 230 |
-| Incredible | 231 - 240 |
-| Inhuman | 241 - 250 |
-| Superhuman | 251 - oo |
+|  |
+| --- |
+| \|\|~ Stat Description \|\|~ Numeric Value \|\|<br>\|\| Abysmal \|\|= 0 - 60 \|\|<br>\|\| Very Poor \|\|= 61 - 70 \|\|<br>\|\| Poor \|\|= 71 - 80 \|\|<br>\|\| Below Average \|\|= 81 - 90 \|\|<br>\|\| Slightly Below Average \|\|= 91 - 100 \|\|<br>\|\| Average \|\|= 101 - 110 \|\|<br>\|\| Slightly Above Average \|\|= 111 - 120 \|\|<br>\|\| Above Average \|\|= 121 - 130 \|\|<br>\|\| Fairly Good \|\|= 131 - 140 \|\|<br>\|\| Good \|\|= 141 - 150 \|\|<br>\|\| Very Good \|\|= 151 - 165 \|\|<br>\|\| Great \|\|= 166 - 180 \|\|<br>\|\| Exceptional \|\|= 181 - 190 \|\|<br>\|\| Outstanding \|\|= 191 - 200 \|\|<br>\|\| Remarkable \|\|= 201 - 210 \|\|<br>\|\| Extraordinary \|\|= 211 - 220 \|\|<br>\|\| Phenomenal \|\|= 221 - 230 \|\|<br>\|\| Incredible \|\|= 231 - 240 \|\|<br>\|\| Inhuman \|\|= 241 - 250 \|\|<br>\|\| Superhuman \|\|= 251 - oo \|\| |
 
 
 | Aiming | Body Parts | Aiming Penalty |

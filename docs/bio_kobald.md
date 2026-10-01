@@ -1,5 +1,8 @@
 # Bio Kobald
 
+>
+
+
 Kobald Stelion is a young, hopeful child who was originally born in Aestiva. In his early years (between the age of 10 -15), he was an Elite Member of the Aestivan League, nearly unmatched by all. Even the mightiest of weapon masters were brought down, due to the fact that Kobald fought with skill and knowledge, instead of strength and brawn. He was admired by many of his peers, and even though he enjoyed the popularity, he enjoyed time alone even more. He was a person that was constantly thinking, and would never quit until he was cleared of his doubts about something.
 
 Kobald had a good life in Aestiva; his Mother had a vast knowledge of the terrain, and tought him about how to use the knowledge of the land to help him in battle. His father, who was the hunter of the family, taught him never to jump to conclusions, and to never rush into something that he was not ready for. It's said that he also had a little brother, Amalgam, but ever since the great tragedy for Kobald and his family, this has not yet been proven.

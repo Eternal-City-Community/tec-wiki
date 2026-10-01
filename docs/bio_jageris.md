@@ -1,5 +1,8 @@
 # Bio Jageris
 
+>
+
+
 Jageris was born in the Quartz Heights to Vitus and Domitia Aurilius. The family
 business, Stella Celer, is an international maritime shipping company. Jageris
 spent his early life almost exclusively with his mother. At 8, Jageris began 

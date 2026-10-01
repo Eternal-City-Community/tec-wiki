@@ -4,7 +4,7 @@ NEW! As of Spring 2024, most NPC trainers teach above rank 200 and training cost
 
 Use this tool to calculate the cost of training your skill from its current rank to a desired (higher) rank. 
 
- The calculator displays how much in-game currency it costs to learn the indicated number of ranks from an NPC trainer (in talents, denars, sens or tokens). It also calculates the amount of Skill Points (SP) requires based on skill slot position.
+size 90% The calculator displays how much in-game currency it costs to learn the indicated number of ranks from an NPC trainer (in talents, denars, sens or tokens). It also calculates the amount of Skill Points (SP) requires based on skill slot position.
 
 **Token calculation** is more related to current rank than desired rank. Meaning learning from rank 10 to 20, then from rank 20 to 30 is more expensive than learning from rank 10 to 30 directly. 
 The displayed cost also assumes # is always used in LEARN command. When # is not present, there is a 5 token minimum. 

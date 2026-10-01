@@ -1,6 +1,6 @@
 # Gmmeeting01102021
 
-## GM Meeting - October 1^^st^^, 2021
+## GM Meeting - October 1<sup>st</sup>, 2021
 
 Siddhe says, "I wanted to thank you all for taking time out of your lives and playtime to join us tonight. Some of you all make us side-eye now and then, but truly, we do appreciate each and every one of you for bringing a little spark to your corner of the gameworld."
 Siddhe says, "Also."

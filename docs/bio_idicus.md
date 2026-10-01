@@ -1,5 +1,8 @@
 # Bio Idicus
 
+>
+
+
 *the sounds of a door being opened hard* *A older man stares at a young man sitting at a desk drawing on a piece of parchment with care* *the sounds of the Parchment being snatched from the desk and a ink well being thrown across the room to crash against the wall*
 
 "What's this!!??" the older man gestures at the parchment while holding it into the light to get a better look at it. "Another Drawing of your my son?" sneers the father at the young man.

@@ -1,5 +1,8 @@
 # Bio Dice
 
+>
+
+
 It was twilight, and the sky had turned that ugly grayish color that reminded one of drowsiness, the kind that obscured the sun from direct vision, the kind that was often accompanied by drifting fog and high humidity. Indeed, fog there was, clinging, binding fog, so thick you could swear it tried to reach out and snag you to be its eternal companion, frozen in the same moment of time. The fog slowed my travel considerably, but no nearly as much as the snow underfoot. It was cold, but it was not as cold as it could be. All I saw around me was my cloak, lightly dusted with snow and hanging loosely over my own frame. The path lay before me, worn and beaten and snow-covered. I noticed the only tracks in the snow were my own. I was alone, so alone.
 
 He walked between the trees, metal coif concealing his face. Ahead were twin towers; soldiers spotted him and hailed him. He smiled and lengthened his stride. Onward went the man in dark armor towards the city.

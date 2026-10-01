@@ -132,30 +132,9 @@ For example, the numeric value for **Endurance** directly corresponds to your ch
 
 
  
-  
-| Stat Description | Numeric Value |
-| --- | --- |
-| Abysmal | 0 - 50 |
-| Very Poor | 51 - 60 |
-| Poor | 61 - 70 |
-| Below Average | 71 - 90 |
-| Slightly Below Average | 91 - 100 |
-| Average | 101 - 110 |
-| Slightly Above Average | 111 - 120 |
-| Above Average | 121 - 130 |
-| Fairly Good | 131 - 140 |
-| Good | 141 - 150 |
-| Very Good | 151 - 165 |
-| Great | 166 - 180 |
-| Exceptional | 181 - 190 |
-| Outstanding | 191 - 200 |
-| Remarkable | 201 - 210 |
-| Extraordinary | 211 - 220 |
-| Phenomenal | 221 - 230 |
-| Incredible | 231 - 240 |
-| Inhuman | 241 - 250 |
-| Superhuman | 251 - ∞ |
-
+|  |
+| --- |
+| \|\|~ Stat Description \|\|~ Numeric Value \|\|<br>\|\| Abysmal \|\|= 0 - 50 \|\|<br>\|\| Very Poor \|\|= 51 - 60 \|\|<br>\|\| Poor \|\|= 61 - 70 \|\|<br>\|\| Below Average \|\|= 71 - 90 \|\|<br>\|\| Slightly Below Average \|\|= 91 - 100 \|\|<br>\|\| Average \|\|= 101 - 110 \|\|<br>\|\| Slightly Above Average \|\|= 111 - 120 \|\|<br>\|\| Above Average \|\|= 121 - 130 \|\|<br>\|\| Fairly Good \|\|= 131 - 140 \|\|<br>\|\| Good \|\|= 141 - 150 \|\|<br>\|\| Very Good \|\|= 151 - 165 \|\|<br>\|\| Great \|\|= 166 - 180 \|\|<br>\|\| Exceptional \|\|= 181 - 190 \|\|<br>\|\| Outstanding \|\|= 191 - 200 \|\|<br>\|\| Remarkable \|\|= 201 - 210 \|\|<br>\|\| Extraordinary \|\|= 211 - 220 \|\|<br>\|\| Phenomenal \|\|= 221 - 230 \|\|<br>\|\| Incredible \|\|= 231 - 240 \|\|<br>\|\| Inhuman \|\|= 241 - 250 \|\|<br>\|\| Superhuman \|\|= 251 - ∞ \|\| |
 
 ---
 <a id="improvingattributes"></a>
@@ -203,7 +182,7 @@ Certain skills supplement your character's attributes, allowing you to save on R
 * Each combat skillset has access to two skills: one that supplements Dexterity and one that supplements Perception.
 * The Combat Maneuvers skillset has two skills: one that supplements Agility and one that supplements Speed. 
 
-Learning statskills, however, has its limitations.  A statskill's bonus will cap at rank 90 (grandmaster), and will provide the equivalent of being low-end Great in the relevant attribute. However, this bonus applies only to combat situations - stat skills do not increase your attributes for any other purpose. ^^[1](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1720813-attribute-caps?p=1721016#post1721016)^^
+Learning statskills, however, has its limitations.  A statskill's bonus will cap at rank 90 (grandmaster), and will provide the equivalent of being low-end Great in the relevant attribute. However, this bonus applies only to combat situations - stat skills do not increase your attributes for any other purpose. <sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1720813-attribute-caps?p=1721016#post1721016)</sup>
 
 [Back to Top](#Top)
 

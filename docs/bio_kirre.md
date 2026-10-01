@@ -1,5 +1,8 @@
 # Bio Kirre
 
+>
+
+
 *Looking up from his book as he sits in the padded cushion chair in Stone Toga Inn*
 Hello, I'm Kirre, my name's pronounced Kir-re just incase you thought otherwise.
 I'm new to the city streets, only been in it a few months before I had to leave on a journey by sea but I'm

@@ -1,5 +1,8 @@
 # Bio Isamu
 
+>
+
+
 ## Memoirs of an Altene Ronin
 
 ### Part I: The Longing for Adventure

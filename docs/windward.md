@@ -35,7 +35,7 @@ their true religion.
 * *"Windward is a **territory of the Republic**, although **its people are still fairly independent**."*
 * *"My wife is from Windward. **Nice place**. Horrible woman."*
 * *"A small nation of **peaceful people**."*
-* *"Windward was **acquired by the [[Republic of Iridine]]** from [Tuchea](/tuchea/) **in the 31st Year of the Republic**."*
+* *"Windward was **acquired by the [Republic of Iridine](/republic-of-iridine/)** from [Tuchea](/tuchea/) **in the 31st Year of the Republic**."*
 
 
 ### History

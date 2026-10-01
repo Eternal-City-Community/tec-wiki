@@ -5,16 +5,9 @@ Armor is what protects the people who protect the republic. Whether it be a scra
 Variations may exist of each armor type listed below. For example, some bronze helmets have neck protection while others do not. To see what a piece of armor covers and how well it protects use the INSPECT command.
 
 Armor protections range from no protection to excellent as follows:
-  
-| Protection Levels | Comments |
-| --- | --- |
-| Excellent | Best protection |
-| Very Good |  |
-| Good |  |
-| Fairly Good |  |
-| Little Protection |  |
-| No Protection | Worst Protection |
- 
+|  |
+| --- |
+| \|\|~ Protection Levels \|\|~ Comments \|\|<br>\|\| Excellent \|\| Best protection \|\|<br>\|\| Very Good \|\|  \|\|<br>\|\| Good \|\|   \|\|<br>\|\| Fairly Good \|\|  \|\|<br>\|\| Little Protection \|\|  \|\|<br>\|\| No Protection \|\| Worst Protection \|\| |
 
 **For locations to buy armor visit the [shops](/shops/) page.**
 
@@ -79,16 +72,9 @@ Note: Material and Protection information is provided for relevant items only.
 | A boison helmet with a faceplate | 17.0 lbs. | Head, neck, and face | Excellent |
 
 #### Helmet Types
-  
-| Material | Available Types** |
-| --- | --- |
-| Leather | - Regular<br><br>- Face Covering |
-| Tin | - Regular<br><br>- Regular + Neckguard<br><br>- Caged* |
-| Bronze | - Regular<br><br>- Faceplate<br><br>- Hidden Faceplate<br><br>- Caged* |
-| Alanti | - Faceplate<br><br>- Hidden Faceplate |
-| Iron | - Regular<br><br>- Faceplate<br><br>- Caged (covers face but does not conceal identity) |
-| Boison | - Faceplate<br><br>- Hidden Faceplate<br><br>- Caged* |
- 
+|  |
+| --- |
+| \|\|~ Material \|\|~ Available Types** \|\|<br>\|\| Leather \|\| - Regular _<br>- Face Covering\|\|<br>\|\| Tin \|\| - Regular _<br>- Regular + Neckguard _<br>- Caged* \|\|<br>\|\| Bronze \|\| - Regular _<br>- Faceplate _<br>- Hidden Faceplate _<br>- Caged* \|\|<br>\|\| Alanti \|\| - Faceplate _<br>- Hidden Faceplate \|\|<br>\|\| Iron \|\| - Regular _<br>- Faceplate _<br>- Caged (covers face but does not conceal identity)\|\|<br>\|\| Boison \|\| - Faceplate _<br>- Hidden Faceplate _<br>- Caged* \|\| |
 
  ***Caged faceplates** can be pulled down to protect the face, but do not conceal your identity.
 
