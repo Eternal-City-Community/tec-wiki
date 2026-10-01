@@ -580,7 +580,25 @@ body::before {
 
 @media screen and (max-width: 76.234375em) {
   .tec-topnav {
-    display: none;
+    display: block;
+    top: 48px;
+    z-index: 19;
+  }
+
+  .tec-topnav__inner {
+    padding-left: .25rem;
+    gap: .12rem;
+    flex-wrap: nowrap;
+  }
+
+  .tec-topnav__button {
+    min-width: 0;
+    padding: 0 .35rem;
+    font-size: .52rem;
+  }
+
+  .tec-topnav__menu {
+    width: min(12.5rem, 88vw);
   }
 }
 
@@ -1952,4 +1970,41 @@ html, body {
   .md-typeset table.tec-skill-overview-table {
     font-size: .69rem;
   }
+}
+
+
+/* Make fifth-level headings visually distinct from body copy. */
+.md-typeset h5 {
+  margin: .78rem 0 .32rem;
+  padding-bottom: .1rem;
+  color: #465032;
+  border-bottom: 1px dotted rgba(85, 122, 46, .55);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: .76rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+/* Character biography pages use the original quote-style presentation. */
+.tec-bio-page .tec-bio-quote {
+  margin: .55rem 0 1.2rem;
+  padding: .8rem 1rem;
+}
+.tec-bio-page .tec-bio-quote > :first-child { margin-top: 0; }
+.tec-bio-page .tec-bio-quote > :last-child { margin-bottom: 0; }
+
+/* Map images may use the full article column rather than prose width. */
+.md-typeset p:has(> a.tec-map-image-link),
+.md-typeset p:has(> a > img) {
+  max-width: none;
+}
+.md-typeset a.tec-map-image-link {
+  display: block;
+  width: 100%;
+}
+.md-typeset a.tec-map-image-link img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
 }
