@@ -3,14 +3,14 @@ backend:
   repo: herdias/tec-wiki
   branch: main
   open_authoring: true
-  base_url: https://tec-wiki.tecwiki.workers.dev
+  base_url: https://tec-wiki.com
   auth_endpoint: /auth
 
 publish_mode: editorial_workflow
 
-site_url: https://tec-wiki.tecwiki.workers.dev
-display_url: https://tec-wiki.tecwiki.workers.dev
-logo_url: https://tec-wiki.tecwiki.workers.dev/favicon.ico
+site_url: https://tec-wiki.com
+display_url: https://tec-wiki.com
+logo_url: https://tec-wiki.com/favicon.ico
 
 media_folder: docs/assets/uploads
 public_folder: /assets/uploads
