@@ -27,7 +27,7 @@ As the Twelve Tables of Iridinian law make clear, those who commit a crime must 
 Related Topics: [Warrants](/warrants/) & [Contraband](/contraband/).
 
 <a id="Lawkeepers"></a>
-### [#](#Lawkeepers)Lawkeepers
+### Lawkeepers
 The [Republic of Iridine](/republic-of-iridine/) and it's cities must maintain law and order to protect the interests of its government and citizens. As such, the Republic and its many cities and towns each have their own police forces, ranging from organized military units to citizen led militias and vigiles.
 
 Below is a list of recognized lawkeepers with the ability to enforce the laws and arrest criminals. This list can also be found under the appropriate category of [Organizations](/orgs/).

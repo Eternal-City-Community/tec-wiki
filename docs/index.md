@@ -52,7 +52,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 ---
 <a id="LatestUpdates"></a>
-### [#](#LatestUpdates)Latest Updates
+### Latest Updates
 <!--* To add new updates, please use the "Latest Updates" page included below. *--> 
 
 
@@ -265,7 +265,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 ---
 <a id="WhatsNew"></a>
-### [#](#WhatsNew)What's New In-Game
+### What's New In-Game
 
 > **Archive note:** Wikidot module frontforum was not portable and has been omitted.
 

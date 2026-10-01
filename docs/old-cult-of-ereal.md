@@ -25,15 +25,15 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 
 ### Hierarchy
 
-|  |  |  |  |  | size 125%Cult of Ereal |
+|  |  |  |  |  | Cult of Ereal |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | size 125%High Priest Tharius |
+|  |  |  |  |  | High Priest Tharius |
 | ***High Priest’s Proxy***<br><br>Darie Allende | ***Sword of Ereal***<br><br>Junia Gracious<br><br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br><br>i. Titus Ahala<br><br>ii. Albius Anande<br><br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br><br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br><br>v. Sartor Mithus<br><br>vi. Spurius Ravilla<br><br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
 |  | i. Fist of Ereal<br><br>ii. Firm of Ereal<br><br>iii. Shield of Ereal |  |  |  |  |
 
 
 <a id="High-Priest"></a>
-#### [#](#High-Priest)High Priest
+#### High Priest
 
 The cult of Ereal is led by a High Priest who must be elected by unanimous decision by a Council of Elders. Once elected, the High Priest receives full powers and is expected to maintain his seat until his death or until he deems it is time to retire. There are provisions for the removal of a High Priest by an extraordinary session of the cult where a three-quarters vote is needed to oust the leader.
 
@@ -41,7 +41,7 @@ The cult of Ereal is led by a High Priest who must be elected by unanimous decis
 
 
 <a id="High-Priest-Proxy"></a>
-#### [#](#High-Priest-Proxy)High Priest’s Proxy
+#### High Priest’s Proxy
 Second to the High Priest is the High Priest's Proxy, named by the former, his task is to serve as a liason to the Iridine Senate and oversee the cult's political efforts and maneuverings. Having the status of a senator (indeed the Proxy often is an ex-senator), the Proxy has the task of being Ereal's voice in the Senate.
 
 **[bio:Darius Allende](/bio_darius-allende/)** is the **High Priest's Proxy** and brother to [Tharius](/bio_tharius-allende/).
@@ -73,15 +73,15 @@ While rank titles may differ across sects, their structures remain very similar.
 |  |  |  | Temple Hierarchy |
 | --- | --- | --- | --- |
 | Sect Name: | **Revealing Light** | **Nurturing Light** | **Bright Hope** |
-| Highest Ranking Priest:<br><br>size 90%*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
-| Oversees ~5 Temples:<br><br>size 90%*(Reports to rank directly above)* | Glass | Mist | Gentle |
-| Head of 1 Temple:<br><br>size 90%*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
-| Temple Department:<br><br>size 90%*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
-| Universal Rank<br><br>size 90%*(Reports to rank directly above)* |  |  | Focus |
+| Highest Ranking Priest:<br><br>*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
+| Oversees ~5 Temples:<br><br>*(Reports to rank directly above)* | Glass | Mist | Gentle |
+| Head of 1 Temple:<br><br>*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
+| Temple Department:<br><br>*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
+| Universal Rank<br><br>*(Reports to rank directly above)* |  |  | Focus |
 
 
 <a id="NurturingLight"></a>
-#### [#](#NurturingLight)The Nurturing Light
+#### The Nurturing Light
 The sect of the Nurturing Light represents **Ereal of the Evening**. To them, Ereal is a strong, steady light which is the ultimate source of all light within the world. They value **gentleness, peace and harmony** above all else. Their most active members are often seen as **negotiators** trying to maintain peace in troubled areas. Others of the sect work tirelessly among the poor, offering them what little hope they can. Their voices are often the more discreet but also the most soothing.
  
 
@@ -117,7 +117,7 @@ The Seed is considered **on par with the Mist**, in terms of ranking. They are r
 
 ---
 <a id="RevealingLight"></a>
-#### [#](#RevealingLight)The Revealing Light
+#### The Revealing Light
 **Ereal of the Noon** finds his incarnation in the sect of the Revealing Light. They have taken as their charter the duties of divining and auguries in an attempt to **guide mankind out of the darkness of its ignorance**. Their priests often walk the streets in the guise of **teachers**, others have become counselors, others again librarians as they are all keepers of vast knowledge. Though they are periodically challenged in their claims to see signs in the world surrounding them, their altars are never empty and they are more often right than wrong.
  
 
@@ -152,7 +152,7 @@ The Pool is considered **on par with the Glass**, in terms of ranking. They are 
 
 ---
 <a id="BrightHope"></a>
-#### [#](#BrightHope)Bright Hope
+#### Bright Hope
 The Sect of the Bright Hope *(aka Sect of the Morning Light)* is the most numerous and most revered among the population of Iridine, representing **Ereal of the Morning**. Its goal is **healing and the physical well-being** of all who come to their doors. They combine their **healing** talents with the special gifts Ereal has bestowed among some of them to heal the sick and wounded. Priests of the Bright Hope are welcomed everywhere in the Republic and are as **common a sight in cities** as on the Republic's dusty roads.
  
 
@@ -190,13 +190,13 @@ The Gather is considered **on par with the Gentle**, in terms of ranking. They a
 Beneath the rank of Shephard, Guide & Comforter are the Foci. A **Focus** has **no single responsibility**. As the name suggests, they provide a focus for others. They will **lead groups** if several priests are needed to perform a spell, for example. Foci is a **universal rank, regardless of sect**.
 
 <a id="Walker"></a>
-#### [#](#Walker)Walker
+#### Walker
 All priests not assigned to any given temple are given the rank of Walker, regardless of their Sect. They are guided by the Pool, Seed & Gather.
 
 *'Brother'/'Sister'* is the general term for priests with no affiliation or title. It is also appropriate to use between friends.
 
 <a id="Acolyte"></a>
-#### [#](#Acolyte)Acolyte
+#### Acolyte
 Acolytes are members of the different sects who have not yet qualified to become a full priest/ess.
 
 **Acolyte ranks**
@@ -245,7 +245,7 @@ The religious obligations are not the same as social obligations. To an upper-cl
 Please note that as easy as this circumstance may seem to be entered in upon, it is not lightly broken. The Cult must sanction the sundering of the marital chains, and only if good cause is presented.
 
 <a id="Festivals"></a>
-### [#](#Festivals)Festivals
+### Festivals
 Ereal's priests are well-known for a variety of week and two-week long festivals held [throughout the year](/dates-and-time/) celebrating different aspects of the God and to the passing of seasons.
 
 They are the **Festival for Ereal of the Morning** which begins at the start of spring, the **Festival for Ereal the Conqueror** which begins at the start of summer, the **Festival for Ereal of the Evening** which begins at the start of autumn and the **Festival for Ereal the Wanderer** which begins at the start of winter.
@@ -257,7 +257,7 @@ They are the **Festival for Ereal of the Morning** which begins at the start of 
 
 
 <a id="Palilia"></a>
-#### [#](#Palilia)Palilia
+#### Palilia
 
 Palilia is a **Festival for Ereal of the Morning**. Festival **honoring the founding of the city of Iridine**. As the advent of the city coincided with a rebirth of the land and the people, this celebration is held in [spring](/dates-and-time/) in between the months of Rindak and Ereal. The festival **lasts two weeks** and culminates with a great theatrical performance re-enacting the myth of creation.
 
@@ -267,7 +267,7 @@ Palilia represents **Compassion & Hope**.
 
 
 <a id="Armilustrium"></a>
-#### [#](#Armilustrium)Armilustrium
+#### Armilustrium
 
 Armilustrium is a **Festival for Ereal the Conqueror**. In the hot days of summer this celebration has for its purpose **the purification of weapons for the legions** and the demands for blessings and protection against death. It is a week-long affair between the months of Tulcas and Aera. This is also a traditional time for Iridine military leaders to embark upon campaigns.
 
@@ -279,7 +279,7 @@ Armilistrum represents **Noon-Sun, War & Vengeance**.
 
 
 <a id="Lupercalia"></a>
-#### [#](#Lupercalia)Lupercalia
+#### Lupercalia
 
 Lupercalia is a **Festival for Ereal of the Evening**. One week after the month of Palut. Feast of the harvest and abundance where the soil is blessed and the territory of **the Republic of Iridine is ritually purified**. A **birth** during this week is perceived as a **very good omen** and proof that Ereal is smiling on the parents.
 
@@ -289,7 +289,7 @@ Lupercalia represents **Harvest & Abundance**.
 
 
 <a id="Feralia"></a>
-#### [#](#Feralia)Feralia
+#### Feralia
 
 Feralia is a **Festival for Ereal the Wanderer**. Traditionally this festival falls on the **coldest week of the year**. Legend and popular belief state that **the dead walk freely at this period of the year** and can interact with the living. This week-long celebration between the months of Allinius and Lucifal, has for purpose to **appease the souls of the dead** so that they won't harm those who are still living. A certain prayer is started on the first day by the priest of Ereal and lasts for the duration of the week.
 

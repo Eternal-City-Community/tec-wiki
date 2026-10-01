@@ -11,7 +11,7 @@ category: "Reference"
 Those marked with ??? at the end need to be verified.
 
 <a id="Buyers"></a>
-## [#](#Buyers)Buyers
+## Buyers
 ### Carcass Buyers
 * **Caprarius** ([Transinvexium](/transinvexium/))
 * **Jalgris** ([Vetallun](/town-of-vetallun/))
@@ -20,7 +20,7 @@ Those marked with ??? at the end need to be verified.
 * **Brantax** - pelts and hides ([Seld](/village-of-seld/))
 
 
-### Container Buyers size 75%(chests, coffers, etc.)
+### Container Buyers (chests, coffers, etc.)
 * Apula ([Bronze Lane](/bronze-lane/))
 * Ititia ([Blackvine](/village-of-blackvine/))
 * Admina ([Rock Valley](/town-of-rock-valley/))
@@ -35,7 +35,7 @@ Those marked with ??? at the end need to be verified.
 
 
 <a id="Gem-Buyer"></a>
-### [#](#Gem-Buyer)Gem Buyers
+### Gem Buyers
 * Mondan ([Forum](/forum/))
 * Orphilius ([Quartz Heights](/quartz-heights/))
 * Corthina ([City of Monlon](/city-of-monlon/))
@@ -78,7 +78,7 @@ Those marked with ??? at the end need to be verified.
 
 
 <a id="Inns"></a>
-## [#](#Inns)Innkeepers
+## Innkeepers
 * Julian (Stone Toga Inn, [Riverside](/riverside/))
 * Volucer (Step Back Inn, [Riverside](/riverside/))
 * Battulus (Anlea's Rest, [Forum](/forum/))
@@ -140,7 +140,7 @@ Those marked with ??? at the end need to be verified.
 * Hathrus ([Vetallun](/town-of-vetallun/))
 
 <a id="Healers"></a>
-### [#](#Healers)Healers
+### Healers
 * Melilia ([Gardens and Hospice](/gardens-and-hospice/))
 * Sinon ([Town of Rock Valley](/town-of-rock-valley/))
 * Cipus ([City of Monlon](/city-of-monlon/))
@@ -149,7 +149,7 @@ Those marked with ??? at the end need to be verified.
 * Vai'Ran ([Blackvine](/village-of-blackvine/))
 
 <a id="Vendors"></a>
-## [#](#Vendors)Vendors
+## Vendors
 ### Reputation
 * Fama ([Vetallun](/town-of-vetallun/))
 * Romulus ([Monlon](/monlon/))
@@ -175,7 +175,7 @@ Those marked with ??? at the end need to be verified.
 
 
 <a id="property"></a>
-## [#](#property)Property
+## Property
 * Elus (Transfer of Property, [Forum](/forum/))
  * See [Property Transfers](/property/#transfers)
 

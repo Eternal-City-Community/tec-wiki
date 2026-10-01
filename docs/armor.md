@@ -11,9 +11,14 @@ Variations may exist of each armor type listed below. For example, some bronze h
 
 Armor protections range from no protection to excellent as follows:
 
-|  |
-| --- |
-| \|\|~ Protection Levels \|\|~ Comments \|\|<br>\|\| Excellent \|\| Best protection \|\|<br>\|\| Very Good \|\|  \|\|<br>\|\| Good \|\|   \|\|<br>\|\| Fairly Good \|\|  \|\|<br>\|\| Little Protection \|\|  \|\|<br>\|\| No Protection \|\| Worst Protection \|\| |
+| Protection Levels | Comments |
+| --- | --- |
+| Excellent | Best protection |
+| Very Good |  |
+| Good |  |
+| Fairly Good |  |
+| Little Protection |  |
+| No Protection | Worst Protection |
 
 **For locations to buy armor visit the [shops](/shops/) page.**
 

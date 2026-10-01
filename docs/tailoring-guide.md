@@ -34,7 +34,7 @@ Below you'll find everything important to know about [Tailoring](/tailoring/).
 
 
 <a id="Tools"></a>
-### [#](#Tools)Tools
+### Tools
 
 Below is a list of the various tools of the trade necessary for tailoring. 
 
@@ -49,7 +49,7 @@ Below is a list of the various tools of the trade necessary for tailoring.
 
 
 <a id="Cloth"></a><a id="Fabric"></a>
-#### [#](#Fabric)Fabric
+#### Fabric
 
 Working with fabric is the lifeblood of a tailor. Different fabrics require a different level of skill to manipulate. Fabrics can be categorized into the below types. As a rule of thumb, the **lower the fabric type is on the below list, the more difficult it is to work with**.
 
@@ -74,7 +74,7 @@ To manipulate pieces of cloth, see [Handling Cloth](#HandlingCloth).
 
 
 <a id="FabricChart"></a>
-##### [#](#Fabric)Fabric Chart
+##### Fabric Chart
 The below chart columns reference the base materials, but includes all variants of that type of fabric. 
 
 
@@ -130,7 +130,7 @@ The below chart columns reference the base materials, but includes all variants 
 </details>
 
 
-#### [#](#Thread)Thread
+#### Thread
 
 * Thread comes in the the following types: **undyed thread**, **natural thread** and **coloured thread**.
 * If you [knot](/tailoring/#Knot) **natural thread with undyed thread** it becomes **motley thread**.
@@ -140,7 +140,7 @@ The below chart columns reference the base materials, but includes all variants 
 ### Tasks
 
 <a id="Garments"></a><a id="Clothing"></a>
-#### [#](#Clothing)Create Clothing
+#### Create Clothing
 
 At the core of tailoring is creating new and unique, oftentimes matching, outfits for those to wear. Creating garments and clothing is where a tailor typically spends the majority of their time.
 
@@ -163,7 +163,7 @@ The below **step-by-step** guide explain how to create a clothing item, using **
 
 
 <a id="HandlingCloth"></a>
-#### [#](#HandlingCloth)Handling Cloth
+#### Handling Cloth
 
 [Lengths of  cloth](#Cloth) can be [sewn together](/tailoring/#Basic-Sewing) to fashion larges pieces or can be [cut](/tailoring/#Tailors-Shears) into halves (<sup>1/2</sup>), quarters (<sup>1/4</sup>), and eighths (<sup>1/8</sup>) when smaller pieces are necessary.
 
@@ -181,7 +181,7 @@ To cut cloth into pieces, simply '**cut cloth**'.
 
 
 <a id="Stitching"></a>
-#### [#](#Stitching)Stitching (Patterns | Edging)
+#### Stitching (Patterns | Edging)
 
 Stitching can be added to completed items. 
 
@@ -199,7 +199,7 @@ Add something about mending...
 
 
 <a id="Jobs"></a>
-### [#](#Jobs)Jobs
+### Jobs
 
 
 There are various consignment board jobs for **skilled tailors** to earn work. Consignment boards have a rotating list of requested items. Complete the order and offer it to the NPC to receive payment. In addition to the below, player-characters may also request you to perform specific jobs.

@@ -29,13 +29,13 @@ During character creation, players select their Primary Skill, which is the skil
 Character progress within a skill or action is measured in ranks. Each rank a character earns in a skill or action contributes incrementally to their overall chance of success when attempting the related action.
 
 <a id="SP"></a>
-### [#](#SP)Skill Points (SP)
+### Skill Points (SP)
 Every successful action you perform grants you Skill Points (SP) in the related skill or action. For example, successfully executing a Sword Lunge earns you SP in the One-Handed Swords skill. The Eternal City now operates on a training cycle system where a pool of skill points is available to earn each real-life week (in-game month). The number of skill points you've used from the pool, repeated actions, hunting grounds, and stats all influence the number of points you gain per action. To optimize your gains, it's recommended to rotate through at least five actions and hunting grounds if it's a combat skill set. Any unused skill points in a cycle roll over to the next cycle, with a bonus to help utilize them.
 
 You can spend Skill Points to purchase ranks in the related skill or action. The cost of a rank in an action or skill varies based on factors such as its difficulty, how similar it is to your character's Primary Skill, and whether it's the initial rank. The first rank of a skill or action always costs more than subsequent ranks, reflecting the investment required to learn something new.
 
 <a id="EarningSP"></a>
-#### [#](#EarningSP)Earning SP
+#### Earning SP
 Skill points are earned by successfully performing known skill actions or by cracking tears. As you earn more skill points throughout the week, your SP earn rate will steadily reduce. The SP earn rate is determined by a formula that takes into account the total SP earned, with higher totals resulting in lower rates. Additionally, a bonus is applied based on the total SP earned, with higher totals resulting in lower bonuses. There is also an SP threshold based on the total SP earned, with higher totals resulting in higher thresholds. The exact formula is as follows:
 
 New skill point gains are as follows:
@@ -68,7 +68,7 @@ Finally, there is an SP threshold based on total skill points earned:
 The base threshold SP is 500.
 
 <a id="rollover"></a>
-##### [#](#rollover) Rollover SP
+##### Rollover SP
 Based on the formulas mentioned above, you can determine the amount of SP you are allowed to earn each week *before* beginning to use your rollover SP. Keeping your rollover SP maxed at 900 can be beneficial if you want to maximize the amount of SP earned each week in a limited amount of time. You will have a bonus to gaining SP faster as long as you have rollover banked. 
 
 Type @cycle to see your weekly "Rollover SP" for the current training cycle. This is a snapshot from the beginning of the week. It will not show any rollover you have consumed this week - you need to keep track of that yourself.
@@ -90,17 +90,17 @@ If you earn more SP than indicated, and begin using your rollover, that is fine 
 
 
 <a id="glean"></a>
-##### [#](#glean) Gleaning
+##### Gleaning
 One way to earn SP is through gleaning. If someone near you is performing a skill set that you know, and they are much more skilled than you, there is a chance you will gain SP just by observing them. This can apply to all types of skills, including combat, non-combat, and language skills. However, automatic skills such as dodging do not apply, and only skills with explicit actions can be gleaned.
 
 <a id="dummy"></a>
-##### [#](#dummy) Practice Dummy
+##### Practice Dummy
 Practice dummies exist throughout the gameworld in various dojos.
 
 Characters **under** a certain threshold (**250 combat ranks and 1,000 skill points gained** total) can **use practice dummies and archery targets** to gain SP whenever the target is struck, at the same rate as hitting a normal opponent.
 
 <a id="GSP"></a>
-#### [#](#GSP) General Skill Points (GSP)
+#### General Skill Points (GSP)
 General Skill Points, or GSP, are skill points that can be used to train in any skill set.
 
 There are several ways to obtain GSPs:
@@ -114,13 +114,13 @@ You can also convert GSP to a specific skillset using the @gsp command. For exam
 
 
 <a id="Learning"></a>
-#### [#](#Learning) Learning Skills
+#### Learning Skills
 Learning new skills or additional ranks in a skill requires you to **spend skill points**. You can learn from both Player Characters (PCs) or Non-Player Characters (NPCs). Learning from either will require the same amount of skill points, but NPCs typically have a standard cost associated to learning which can be calculated using the [training cost calculator](/training-cost-calculator/).
 
 When you learn an initial non-combat skill set with [GSP](#GSP), you will receive a few subskills to start with. However, if you unlearned a skill set and have saved SP that you use to relearn it, you will not receive any subskills. On the other hand, when you learn a weapon or defense skill with GSP or banked SP, you will not receive any subskills, but you will have access to the "Attack" (ATT) command.
 
 <a id="SelfTraining"></a>
-##### [#](#SelfTraining)Self-Training
+##### Self-Training
 If no teacher is available for the ran you want to progress to, you will need to self-train ranks to advance further. There is currently a restriction that **all ranks above 1,150 must be self-trained**. No teachers, including other players, can teach above rank 1,150.
 
 * Self-Training requires that you know at least 1 existing rank in the desired skill.
@@ -161,7 +161,7 @@ Performing most skills, with the exception of automatic actions such as dodging,
 Each character starts with a certain number of skill slots (between 2 and 4) determined by their ability to reason. Most characters begin with only one skill and can increase their knowledge until they have filled all their skill slots. After this point, they must pay an additional 250 RPs for each extra skill slot. This cost applies only to the ability to purchase skills, not to the skills themselves. The cost to learn the first rank of a skill increases by 3 skill points per skill, and the cost to rank up in each skill increases by one point. There is no limit to the number of skills a character can have, but it becomes increasingly impractical to continue adding skills.
 
 <a id="RB"></a>
-### [#](#RB) Rank Bonus (RB)
+### Rank Bonus (RB)
 
 **Rank Bonus (RB)** is a bonus applied to a character's skills based on their rank in a particular skill set. The higher the rank, the greater the bonus. The **[Rank Bonus Calculator](/rank-bonus-calculator/)** can be used to determine a character's current RB.
 
@@ -190,7 +190,7 @@ Sub-skills are the individual actions or pieces of knowledge within a skill set.
 Lore refers to the background information and knowledge associated with a skill set. It is possible to learn a skill set's lores without having any practical knowledge of the associated skill set.
 
 <a id="Combat"></a>
-### [#](#Combat)Combat Skill Sets
+### Combat Skill Sets
 Combat skills can be used to fight opponents in the game world.
 
 #### Offensive Skill Sets
@@ -222,7 +222,7 @@ Combat skills can be used to fight opponents in the game world.
 
 
 <a id="NonCom"></a>
-### [#](#NonCom)Non-Combat Skill Sets
+### Non-Combat Skill Sets
 Non-combat skills cannot directly inflict damage on another character, but they can be used as stand-alone skills or in support of combat skills.
 
 #### Service Skill Sets

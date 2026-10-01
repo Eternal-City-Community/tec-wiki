@@ -20,7 +20,7 @@ Collectors of rocks and vegan-friendly fungus leather.
 
 
 <a id="combat"></a>
-#### [#](#combat)Combat & Martial Arts
+#### Combat & Martial Arts
 The Kelestian people have developed new methods of fighting, not previously seen to the Iridinian people. Their armies are trained in the following weapon styles:
 * [Chainblade](/chainblade/)
 * [Falcata](/falcata/) 

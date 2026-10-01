@@ -34,7 +34,7 @@ Everything you need to know about the Falcata Sword Fighting skill set.
 
 
 <a id="Weapons"></a>
-### [#](#Weapons)Weapons
+### Weapons
 This is the list of weapons that can be used by the Falcata Sword Fighting skill set.
 
 | Weapons | How to get it | Cost |

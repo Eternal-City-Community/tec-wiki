@@ -34,7 +34,7 @@ When filled, the following vessels yield the noted number of sips.
 
 
 <a id="Tools"></a>
-### [#](#Tools)Tools
+### Tools
 Below are the types of tools possibly needed for brewing. Tools **do not have to be in the character's hands** when brewing *(with the exception of water)* as long as they are in your inventory or in the area with you, they are available for use.
 
 For **recipes that require water**, the easiest way to make it available is to hold an **open container of water in one hand**.
@@ -60,7 +60,7 @@ Herbalism **tools**, including water, **are not consumed upon use** the way ingr
 
 
 <a id="Containers"></a>
-#### [#](#Containers)Containers
+#### Containers
 
 Containers are used in combination with **[Brewing](#Brewing)** and **determine how much of an ingredient you will need**.
 
@@ -118,7 +118,7 @@ The following can be used as containers for brewing.
 
 <a id="BrewingChart"></a>
 <a id="Brewing"></a>
-#### [#](#Brewing)Brewing - Fundamentals
+#### Brewing - Fundamentals
 The cornerstone Herbalism is the ability to make useful products from ingredients, either foraged or purchased.
 
 **Brewing Fundamentals** allows you to create drinks and such.
@@ -147,7 +147,7 @@ Characters use the brew <container> command. The **size of the [container](#Cont
 
 
 <a id="BrewingPaint"></a>
-#### [#](#BrewingPaint)Brewing - Paint
+#### Brewing - Paint
 Paints to paint... stuff.
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
@@ -170,7 +170,7 @@ Paints to paint... stuff.
 
 
 <a id="BrewingFlasks"></a>
-#### [#](#BrewingFlasks)Brewing - Flask
+#### Brewing - Flask
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
 | --- | --- | --- | --- |
@@ -185,7 +185,7 @@ Paints to paint... stuff.
 
 
 <a id="BrewingSalves"></a>
-#### [#](#BrewingSalves)Brewing - Salve
+#### Brewing - Salve
 
 Items to help with character general health. Often combined with [healing](/healing/).
 
@@ -199,7 +199,7 @@ Items to help with character general health. Often combined with [healing](/heal
 
 
 <a id="BrewingPotions"></a>
-#### [#](#BrewingPotions)Brewing - Potions
+#### Brewing - Potions
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
 | --- | --- | --- | --- |

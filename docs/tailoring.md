@@ -271,7 +271,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 
 <a id="FabricChart"></a>
-### [#](#FabricChart)Fabric Chart
+### Fabric Chart
 
 **This section will soon be moved to the tailoring guide page.**
 

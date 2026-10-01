@@ -8,7 +8,7 @@ category: "Reference"
 ## The Divortium Auxilii
 
 <a id="Charter"></a>
-### [#](#Charter)The Auxilii Charter
+### The Auxilii Charter
 
 #### 1. Charter
     The Divortium Auxilii's purpose is to greet those new to Iridine, assist citizens, and offer guidance to whomever requires it.

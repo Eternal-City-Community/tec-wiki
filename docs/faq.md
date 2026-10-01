@@ -6,7 +6,7 @@ category: "Wiki & Help"
 # FAQ
 
 <a id="about"></a>
-### [#](#about)About
+### About
 #### What is The Eternal City (TEC)?
 The Eternal City (TEC) is a Roman Based, Fantasy MUD connecting players in a world unlike any other available on the internet. The game world runs heavily on role-play (RP), players run the army ([Legio](/orgs/#Legio)), the police force ([Constables](/orgs/#Constables)) and participate in a government and legal system based off of early/mid-Republic Rome. Even with mandatory RP, it still manages to offer advanced combat and GM interaction to a level not seen since the glory days of MUDDing in the 90s. It is not without its issues, but those are eclipsed by the active, passionate, and dedicated players and GMs.
 
@@ -20,7 +20,7 @@ Four main factors separate The Eternal City from most other MUDs.
 
 
 <a id="account"></a>
-### [#](#account)Account
+### Account
 #### How do I sign up to Play?
 **Yahoo accounts seem to work best**.
 
@@ -44,7 +44,7 @@ There are multiple ways to stay up to date.
 
 
 <a id="buy"></a> <a id="IG"></a>
-### [#](#IG)In-Game
+### In-Game
 #### Help!! I'm stuck or blocked in-game and I don't know what to do!!
 If you're in-game, we'd suggest using the **proclaim** or **ooc** commands for real-time help. **Proclaiming** is just sent to the GameMasters (GMs) who may be online. **OOC** is for the entire community that's online. 
 

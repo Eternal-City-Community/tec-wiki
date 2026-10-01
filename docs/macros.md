@@ -33,7 +33,7 @@ This is menu driven in game. To start use the {{@macro}} command, which will pre
 #### Adding a Macro
 Selecting option {{A}} from the menu will present two prompts.
 > Enter the shorthand macro string:
-The text you enter will be the pattern to match against. Spaces, numbers and punctuation are allowed. ##yellow|Note: Using a punctuation character such as {{:}}, {{"}} or others used as internal shorthand will override that usage.##
+The text you enter will be the pattern to match against. Spaces, numbers and punctuation are allowed. Note: Using a punctuation character such as {{:}}, {{"}} or others used as internal shorthand will override that usage.
 > Enter the string you wish this macro to expand to:
 This is the command you wish sent to the game. There is is one special case. Any instance of {{<target>}} will be replaced by the value of {{@mtarg}}, which will be addressed later in this article.
 > New macro added.
@@ -46,14 +46,14 @@ Selecting option {{D}} will present a list of all the macros defined in the curr
 The {{L}} option simply lists all defined macros in the currently active set. These are listed in two columns. The first being the shorthand for the macro and the right being the complete expansion of the macro.
 
 #### Setting the Active Macro Set
-The poorly titled {{S}} option allows you to choose what macro set should be active. This will provide you with a list of the sets you have created and entering the **full name** of the desired set will make it active. ##yellow|Note: This is **not** how macros are defined, despite the title containing "set macro".##
+The poorly titled {{S}} option allows you to choose what macro set should be active. This will provide you with a list of the sets you have created and entering the **full name** of the desired set will make it active. Note: This is **not** how macros are defined, despite the title containing "set macro".
 Entering a non-existent set name at this point will provide you with the option to create a set with the given name.
 
 #### Creating New Sets
-The {{C}} option allows for the creation of new macro sets. Entering the desired name of the set is all that is required. ##yellow|Note: This does **not** activate the newly created set. Use {{S}} at the menu to do so.##
+The {{C}} option allows for the creation of new macro sets. Entering the desired name of the set is all that is required. Note: This does **not** activate the newly created set. Use {{S}} at the menu to do so.
 
 #### Removing a Set
-The {{R}} option will provide a list of all currently defined macro sets. Entering the **full name** of the set will prompt for confirmation of removal. ##red|Removing a set removes all macros defined in that set.##
+The {{R}} option will provide a list of all currently defined macro sets. Entering the **full name** of the set will prompt for confirmation of removal. Removing a set removes all macros defined in that set.
 
 #### Importing a Macro Set
 The {{I}} option allows copying a macro set from from character to another. Thus allowing the transfer of macros. This begins a new menu subset. The first requiring you to select from which character the set should be copied using the numeric value provided in the list. The second allows you to enter the name of the set you wish to import.

@@ -20,7 +20,7 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 [![](/assets/wikidot/files/rockvalley.gif)](/assets/wikidot/files/rockvalley.gif)
 
 ### Points of Interest
-* **Directions to Stromheim** from [Town of Rock Valley](/town-of-rock-valley/) *(outside east gate)*: walk ne 19 e 98 ne 12 size 90%*(to return: walk sw 12 w 98 sw 19 )*
+* **Directions to Stromheim** from [Town of Rock Valley](/town-of-rock-valley/) *(outside east gate)*: walk ne 19 e 98 ne 12 *(to return: walk sw 12 w 98 sw 19 )*
 
 
 **Related Maps**
@@ -49,7 +49,7 @@ For a recounting on Iridine major history with the tribes of Rock Valley, see [J
 There are 3 main tribes surrounding the town of Rock Valley.
 
 <a id="Aziri"></a>
-#### [#](#Aziri) The Aziri Tribe
+#### The Aziri Tribe
 
 The Aziri tribe are the most primitive of the 3 main tribes. The Aziri live in the mountains situated in the northeast region of Rock Valley. They 'disappear' during the day and they come out when the sun sets, which makes them quite the fearsome enemies. The Aziri seem to be affiliated with the Nehal since they both share a burial ground which is guarded by sacred fiery hounds and many other odd creatures.
 
@@ -61,7 +61,7 @@ From information gathered from non-official sources, the Aziri are said to make 
 
 
 <a id="Lokeen"></a>
-#### [#](#Lokeen) The Lokeen Tribe
+#### The Lokeen Tribe
 
 The Lokeen tribe has existed for a long time within the Rock Valley region, it is hard to estimate how long they have established themselves there. It is rumored that the Lokeen tribe only exists to cause problems and wars. The Lokeen tribe isn't associated with the other tribes in Rock Valley, both the Aziri and the Nehal seem to dislike the Lokeen due to their thirst for conflicts.
 
@@ -75,7 +75,7 @@ The Lokeen are supposedly causing so many conflicts because they wish to have po
 
 
 <a id="Nehal"></a>
-#### [#](#Nehal) The Nehal Tribe
+#### The Nehal Tribe
 
 The Nehal tribe are known for their **fearsome warriors**, but they are also the **most intellectual barbarians** that can be found in Rock Valley. They are currently **allied with the Republic**, but they are considering war with it due to some struggles and conflicts of various natures.
 
@@ -120,7 +120,7 @@ The place is now mostly safe, baring a few **blischa'ag** and **schtraffeg** her
 
 
 <a id="Resting-Place"></a>
-#### [#](#Resting-Place)The Resting Place
+#### The Resting Place
 
 From the Tower of Heavens, you will have to head a little ways to the southwest, but mostly to the south in order to find this place. It isn't very hard to find, the hole is big enough to be seen from far away.
 
@@ -136,7 +136,7 @@ Once you reach the end of this lower level, you will be able to go down to anoth
 
 
 <a id="Burial-Grounds"></a>
-#### [#](#Burial-Grounds)The Burial Grounds
+#### The Burial Grounds
 
 These grounds can be found within the Aziri territory, in the mountains to the northeast of the village of Rock Valley. These mountains are renown for being quite dangerous.
 
@@ -148,7 +148,7 @@ These burial grounds were built by the Aziri. You will find danger and odd creat
 
 
 <a id="Broken-Tower"></a>
-#### [#](#Broken-Tower)Broken Tower
+#### Broken Tower
 ...
 [Tears](/contraband/#Tears) can be found in this area.
 

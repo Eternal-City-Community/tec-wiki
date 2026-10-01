@@ -17,5 +17,5 @@ All magistracies are held for one-year terms, except for the censors, which are 
 The senate itself is a hot bed of controversy and intrigue within the city. Its meets within the Curia, a building that is home to the body that makes the laws which governs the entire republic.
 
 <a id="Cursus-Honorum"></a>
-### [#](#Cursus-Honorum)Cursus Honorum
+### Cursus Honorum
 The "Cursus Honorum", or 'Way of Honor' is the established, traditional political path to become 'consul', the most actively potent magistrate in the state.

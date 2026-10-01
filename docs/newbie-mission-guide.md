@@ -5,12 +5,12 @@ category: "Guides & Commands"
 
 # Newbie Mission Guide
 
-## Mission Guides *size 85%(UNDER CONSTRUCTION)*
+## Mission Guides *(UNDER CONSTRUCTION)*
 
 
 <a id="JunkDiver"></a>
 
-### [#](#JunkDiver)Dumpster Diving - Quartz Heights
+### Dumpster Diving - Quartz Heights
 
 * **Location**: [Quartz Heights](/quartz-heights/)' refuse piles.
 * **Directions**: Walk to temple, walk to emerald (orange Mark A on the map above), then choose your refuse heap from the map.
@@ -27,7 +27,7 @@ category: "Guides & Commands"
 
 <a id="RottenApples"></a>
 
-### [#](#RottenApples)Rotten Apples - Vetallun Orchard
+### Rotten Apples - Vetallun Orchard
 
 * **Location**: Apple Orchard ([Vetallun](/town-of-vetallun/))
 * **Directions**: walk to vetallun, walk to crossroads. From crossroads: w x 4, n x 4, nw x 1, n x 3, w x 1
@@ -49,7 +49,7 @@ category: "Guides & Commands"
 
 <a id="BarrelRepair"></a>
 
-### [#](#BarrelRepair)Barrel Repair - Vetallun Orchard
+### Barrel Repair - Vetallun Orchard
 
 * **Location**: Apple Orchard ([Vetallun](/town-of-vetallun/))
 * **Directions**: walk to vetallun, walk to crossroads. From crossroads: w x 4, n x 4, nw x 1, n x 3, e x 1, s x 1, e x 1, n x 1
@@ -72,7 +72,7 @@ category: "Guides & Commands"
 
 <a id="NetMending"></a>
 
-### [#](#NetMending)Net Mending - Iridine Harbor
+### Net Mending - Iridine Harbor
 
 * Location: Uvol's Net Mending Shop
 * Directions: walk to toga, n x 4
@@ -94,7 +94,7 @@ category: "Guides & Commands"
 
 <a id="Milling"></a>
 
-### [#](#Milling)Milling Flour - Iridine
+### Milling Flour - Iridine
 
 * **Location 1**: Novias' Produce at the crossroads near [Colosseum](/colosseum/).
 * **Directions**: walk to colosseum, e x 7, se x 8, go door
@@ -116,7 +116,7 @@ category: "Guides & Commands"
 
 <a id="Diving"></a>
 
-### [#](#Diving)Clams Diving - Signal Tower Island
+### Clams Diving - Signal Tower Island
 
 * **Location**: Keistos' Shack on [Signal Tower Island](/signal-tower-island/).
 * **Directions**: walk to toga, n x 2, w x 4, nw, go n (when ferry comes), go n (when ferry arrives to island), w x 2, nw x 2, n x 5.
@@ -144,9 +144,9 @@ category: "Guides & Commands"
 
 <a id="Salt"></a>
 
-### [#](#Salt)Salt Harvesting
+### Salt Harvesting
 
 
 <a id="Mining"></a>
 
-### [#](#Mining)Stone Mining
+### Stone Mining

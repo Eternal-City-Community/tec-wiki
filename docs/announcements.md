@@ -13,7 +13,7 @@ Below are a list of all major game announcements:
 
 
 <a id="promos"></a>
-### [#](#promos)Monthly Promotions
+### Monthly Promotions
 Below is a list of additional promotions the staff occasionally releases along with the last promo date.
 
 

@@ -17,7 +17,7 @@ A young world, of men and their armies, of emerging philosophies and beliefs, of
 
 
 <a id="countries"></a> <a id="realms"></a>
-### [#](#realms)Realms of Midlight
+### Realms of Midlight
 
 
 [![](/assets/wikidot/files/realms%20of%20midlight.jpg)](/assets/wikidot/files/realms%20of%20midlight.jpg)

@@ -11,7 +11,7 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
 
 ## By Location
 <a id="Iridine"></a>
-### [#](#Iridine)City of Iridine
+### City of Iridine
    [Signal Tower Island](/signal-tower-island-guide/) _
    [Ludus Valerius](/hg-ludus-valerius/) _
    [Under the Quartz Heights Boardwalk](/hg-quartz-heights-boardwalk/) _
@@ -30,7 +30,7 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
    [Shipwreck](/hg-shipwreck/)
 
 <a id="Rock-Valley"></a>
-### [#](#Rock-Valley)Rock Valley
+### Rock Valley
    [RV Attic](/hg-rock-valley-attic/) _
    [RV Critter Alley](/hg-rock-valley-critter-alley/) _
    [RV Well](/hg-rock-valley-well/) _
@@ -44,14 +44,14 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
    [RV Forests](/hg-rock-valley-forests/)
 
 <a id="Invex"></a>
-### [#](#Invex)Invex River Delta
+### Invex River Delta
    [Spider Caverns](/hg-spider-caverns/) _
    [Burnt Villa](/hg-burnt-villa/) _
    [Bandit Forest](/hg-bandit-forest/) _
    [Vetallun Apple Orchard](/hg-vetallun-apple-orchard/)
 
 <a id="East"></a>
-### [#](#East)East of Invex River
+### East of Invex River
     [Black Hand Caverns](/hg-black-hand-caverns/) _
     [Blackvine Forest](/hg-blackvine-forest/) _
     [Grey Sands](/grey-sands/) _
@@ -61,7 +61,7 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
     [Pirate Ship](/pirate-ship/)
 
 <a id="Swamps"></a>
-### [#](#Swamps)The Salinae Swamps
+### The Salinae Swamps
    [Bandit Complex](/hg-bandit-complex/) _
    [Salinae Swamp](/hg-the-salinae-swamp/) _
    [Swamp Mansion](/hg-swamp-mansion/) _
@@ -69,11 +69,11 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
    [Swamp Worm Temple](/worm-temple/)
 
 <a id="Franlius"></a>
-### [#](#Franlius)Franlius
+### Franlius
    [Franlius Battlegrounds](/hg-franlius/) 
 
 <a id="Monlon"></a>
-### [#](#Monlon)Monlon
+### Monlon
    [Monlon Mines](/hg-monlon-mines/) _
    [hg:Monlon Battlefields](/hg_monlon-battlefields/) _
    [hg:Monlon Catacombs](/hg_monlon-catacombs/) _

@@ -67,7 +67,7 @@ There are **3 Main Key Factors** that are a part of performing any ritual.
 * **Armor** (Attire)
 
 <a id="sanity"></a>
-### [#](#sanity)Sanity
+### Sanity
 
 Every player character has a [sanity](/character-condition/#Sanity) level. Channelling otherworldly powers is taxing on the mortal mind, and over-use of magic will lead to reduced sanity levels. Sanity gradually restores itself over time - in most cases.
 

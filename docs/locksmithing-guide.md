@@ -25,7 +25,7 @@ Below you'll find everything important to know about [Locksmithing](/locksmithin
 
 ### Tools
 <a id="Lockpicks"></a>
-#### [#](#Lockpicks)Lockpicks (& keys)
+#### Lockpicks (& keys)
 
 Lockpicks can be **made of** the following materials.
 
@@ -101,7 +101,7 @@ Note that keys which are added to a keyring become effectively weightless - the 
 ### Tasks
 
 <a id="Forging"></a>
-#### [#](#Forging)Forging *(Key | Lockpick)*
+#### Forging *(Key | Lockpick)*
 
 * To make the best lockpick requires the best mold *(good rolls)*.
 * To make the best mold requires the best wax imprint *(good rolls)*.
@@ -127,7 +127,7 @@ The below steps use the furnaces across from Apula's as the example.
 
 
 <a id="Etching"></a>
-##### [#](#Etching)Etching
+##### Etching
 You can inscribe a small amount of characters onto a lockpick using [Wax Letter Etching](/locksmithing/#Wax-Letter-Etching) which will show when you look at it. Your rank in **basics does not** seem to **help**.
 
 
@@ -195,7 +195,7 @@ Below is the list of **keyring sizes** that can be created.
 | ??? | Excellent | ? |
 
 <a id="Jobs"></a>
-### [#](#Jobs)Jobs
+### Jobs
 
 NPC jobs are available at specific locations in the game world. Below is a list of the locations and types of jobs you can find, along with their estimated profit margin at each location. In addition to the below, player-characters may also request you to perform specific jobs.
 

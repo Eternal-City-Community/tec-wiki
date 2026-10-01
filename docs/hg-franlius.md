@@ -8,7 +8,7 @@ category: "World & Maps"
 ## Franlius Battlegrounds
 
 
-size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
+The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 Franlius has a variety of hunting grounds, spanning from **strong novice** to **expert**.
@@ -33,7 +33,7 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
  --]
 
 
-size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
+The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 [![](/assets/wikidot/files/Franlius%202025-08.png)](/assets/wikidot/files/Franlius%202025-08.png)

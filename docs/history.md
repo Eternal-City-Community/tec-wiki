@@ -44,7 +44,7 @@ Martius served as the Republic’s first "interrex", maintaining martial law for
 
 ---
 <a id="timeline"></a>
-## [#](#timeline)Timeline
+## Timeline
 
 #### Era of Kings
 

@@ -332,6 +332,6 @@ I hope that this guide has been useful to you and wish you the best of luck in y
 * Macro Guide, coming soon
 * Hints and Tips, coming soon
 
-size 200%Happy Hunting!
+Happy Hunting!
 
 [Back to Top](#Top)

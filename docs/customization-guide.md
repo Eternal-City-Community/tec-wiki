@@ -29,7 +29,7 @@ These basic guidelines are applied to all request types in this guide, but item-
 
 
 <a id="Alterations"></a>
-### [#](#Alterations)Item Alterations
+### Item Alterations
 
 The Item Alteration request allows the requester to alter the name and description (a.k.a. the short/long description) of an item they own. 
 
@@ -72,7 +72,7 @@ Item alterations have both a role point (RP) and IG coin cost:
 
 
 <a id="Props"></a>
-### [#](#Props)Custom Roleplay Prop
+### Custom Roleplay Prop
 
 A custom prop is an **item for non-combat use**. If these items do not yet exist in the game world, they may be introduced  upon your request/creativity and on the condition of staff approval. Examples of past custom props include: **a painting easel**, **a musical instrument**, etc.
 
@@ -94,14 +94,14 @@ Examples of these types of requests include:
 
 
 <a id="gearAlteration"></a>
-### [#](#gearAlteration)Gear Alteration Package
+### Gear Alteration Package
 Staff now offers a "Themed gear alteration package" at a cost of 2,000 RPs (Basic account) or 1,000 RPs (Premium account).
 
 With this package, you will need to submit up to 5 pieces of armor and/or clothing at once for [alteration](#Alterations). These items must all share the same "theme" or overall look. IC costs still apply, and there is a limit of 1 package per calendar year.
 
 
 <a id="CustomItems"></a>
-### [#](#CustomItems)Custom Items (Armor, Weapon, Face covers)
+### Custom Items (Armor, Weapon, Face covers)
 
 The purpose of a Custom Item request is to modify an existing item to enhance a character's appearance, role play, and play style, not to be the primary way characters can effortlessly obtain rare or special items. 
 
@@ -171,7 +171,7 @@ This type of request is basically an Item Alteration, Superior Weapon Upgrade, a
 
 
 <a id="Makeovers"></a>
-### [#](#Makeovers)Character Makeovers / Custom Descriptions
+### Character Makeovers / Custom Descriptions
 The Makeover is an excellent way for a character to express themselves, deepen their roleplay, and craft memorable moments with their friends and fellow players. If you take the following tips into account when writing your custom description, it will have a high chance of being approved and quickly implemented by the staff. 
 
 Your character will exit the character generator with a description based on the physical characteristics you chose. However, this description can be customized in a variety of ways:

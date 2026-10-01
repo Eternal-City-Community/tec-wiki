@@ -5,7 +5,7 @@ category: "Reference"
 
 # Latest Updates
 
-### Latest Major Updates To The Game *size 85%(sorted chronologically↑)*
+### Latest Major Updates To The Game *(sorted chronologically↑)*
 
 
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off [Superior Weapon Upgrades](/account/#RolePointPurchases)**.
@@ -134,7 +134,7 @@ category: "Reference"
 * **June 15<sup>th</sup> 2021**: The current **role point rate** has been temporarily **doubled**. Enjoy! *(In-Game Only Announcement)*
 
 
-* size 110%**June 6<sup>th</sup>**: On behalf of the TEC Wiki editors, **Happy Pride Month!**
+* **June 6<sup>th</sup>**: On behalf of the TEC Wiki editors, **Happy Pride Month!**
 
 
 * **May 10<sup>th</sup> 2021**: **All shopkeepers** have been updated with the **"Balance"** feature and **various other minor updates**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/312/) for more details.
@@ -158,7 +158,7 @@ category: "Reference"
 * **April 1<sup>st</sup> 2021**: **Pushes of the Creature Button** in the Welcome Area are **Free** through tomorrow night. Enjoy a little fun to kick off the month of April! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/243/) for more details.
 
 
-* size 105%**March 27<sup>th</sup> 2021**: TEC Wikidot Submission Contest! **We want your help!** Contribute to this Wiki by **June 30, 2021** for a chance to win one of several prizes! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/239/) for more details.
+* **March 27<sup>th</sup> 2021**: TEC Wikidot Submission Contest! **We want your help!** Contribute to this Wiki by **June 30, 2021** for a chance to win one of several prizes! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/239/) for more details.
 
 
 * **March 14<sup>th</sup> 2021**: Recent Patch Notes address some confusion about how **grappling tweaks** affected archery, and some Nehal village adjustments. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/173/) for more details.

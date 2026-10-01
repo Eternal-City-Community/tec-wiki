@@ -32,7 +32,7 @@ Languages are closely linked and often derived from the various [countries of Mi
 *These are not the only languages within the world of Midlight, though **some are not so commonly known** due to their links to [religious heresy and false gods](/religion/)*.
 
 <a id="Learning"></a>
-### [#](#Learning)Learning Languages
+### Learning Languages
 
 #### Studying Languages
 
@@ -54,7 +54,7 @@ Learning a language is not *(mechanically)* difficult, but it can be a long and 
 
 
 <a id="Success"></a>
-#### [#](#Success)Mastering Languages
+#### Mastering Languages
 
 **Speaking languages requires** at least **50 ranks** in that language, but as you train you may be able to catch certain words of those around you speaking the language.
 
@@ -90,7 +90,7 @@ To **write** in a language, type 'write [ON] <what> [IN <language>]'.
 
 
 <a id="Blackroot"></a>
-### [#](#Blackroot)Rock Valley - Blackroot Teacher
+### Rock Valley - Blackroot Teacher
 Within the [Town of Rock Valley](/town-of-rock-valley/) lives the **Blackroot language** teacher. 
 
 Once outside the tutor's door:
@@ -103,7 +103,7 @@ Once outside the tutor's door:
 
 
 <a id="Kelestian"></a>
-### [#](#Kelestian)Monlon - Kelestian Healer
+### Monlon - Kelestian Healer
 Within the [Monlon Battlefield](/monlon-battlefield/) resides a happy [Kelestian](/kelestia/) healer who speaks the **Kelestian language** as she heals, allowing you to [glean](/skills/#glean) certain amounts each day. 
 
 TBC.
@@ -112,5 +112,5 @@ TBC.
 
 
 <a id="Lingo"></a>
-### [#](#Lingo)Steps - Steps Lingo Teacher
+### Steps - Steps Lingo Teacher
 The Steps lingo teacher is in the [Eastern Steps](/the-steps-east/). Be friendly and share a mug of thick mead with the right alcohol-loving person and you'll find the hidden teacher.

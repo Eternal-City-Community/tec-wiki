@@ -178,9 +178,14 @@ The syntax for using verbs is really quite simple. Once adverbs are thrown into 
 
    <!-- WRAPPER FOR TABLE -->
 
-|  |
-| --- |
-| \|\|~ Command Syntax \|\|~ Example \|\|~ Outcome \|\|<br>\|\| verb target <sup>†</sup> \|\| scoff man \|\| You scoff at a man. \|\|<br>\|\| verb preposition target \|\| purr toward man \|\| You purr toward a man. \|\|<br>\|\| verb preposition target "speech-text \|\| observe to man "I hate patricians. \|\| You observe to a man, "I hate patricians." \|\|<br>\|\| verb "speech-text \|\| declare "I am not wearing any breeches today! \|\| You declare, "I am not wearing any breeches today!" \|\|<br>\|\| verb adverb "speech-text <sup>‡</sup>  \|\| gurgle drunkenly "Tha's some tasy ale!" \|\| You gurgle drunkenly, "Tha's some tasy ale!" \|\|<br>\|\| verb adverb preposition target "speech-text <sup>‡</sup> \|\| sputter threateningly to man "Leave my pet fish alone. \|\| You sputter threateningly to a man, "Leave my pet fish alone." \|\| |
+| Command Syntax | Example | Outcome |
+| --- | --- | --- |
+| verb target <sup>†</sup> | scoff man | You scoff at a man. |
+| verb preposition target | purr toward man | You purr toward a man. |
+| verb preposition target "speech-text | observe to man "I hate patricians. | You observe to a man, "I hate patricians." |
+| verb "speech-text | declare "I am not wearing any breeches today! | You declare, "I am not wearing any breeches today!" |
+| verb adverb "speech-text <sup>‡</sup> | gurgle drunkenly "Tha's some tasy ale!" | You gurgle drunkenly, "Tha's some tasy ale!" |
+| verb adverb preposition target "speech-text <sup>‡</sup> | sputter threateningly to man "Leave my pet fish alone. | You sputter threateningly to a man, "Leave my pet fish alone." |
 
 <sup>†</sup>,,Most verbs use a certain default preposition if you do not specify it.,,
 <sup>‡</sup>,,You can swap the order of the verb and adverb.,,
@@ -189,9 +194,17 @@ The syntax for using verbs is really quite simple. Once adverbs are thrown into 
 
    <!-- WRAPPER FOR TABLE -->
 
-|  |
-| --- |
-| \|\|~ Example \|\|~ You See... \|\|~ Other Players See... \|\|<br>\|\| murmur "I hate collecting tunics for a living. \|\| You murmur, "I hate collecting tunics for a living" \|\| Phwoar murmurs, "I hate collecting tunics for a living." \|\|<br>\|\| chirp "My patrician pays me a talent a week. \|\| You chirp, "My patrician pays me a talent a week. \|\| Marnevel chirps, "My patrician pays me a talent a week." \|\|<br>\|\| screech "I hate patricians! \|\| You screech, "I hate patricians!" \|\| Phwoar screeches, "I hate patricians!" \|\|<br>\|\| groan marn \|\| You groan at Marnevel \|\| Phwoar groans at Marnevel \|\|<br>\|\| whoop phw \|\| You whoop at Phwoar \|\| Marvevel whoops at Phwoar \|\|<br>\|\| cheer marn \|\| You cheer for Marnevel \|\| Phwoar cheers for Marnevel \|\|<br>\|\| announce marn "You need a bath! \|\| You announce to Marnevel, "You need a bath!" \|\| Phwoar announces to Marnevel, "You need a bath!" \|\|<br>\|\| inform phw "You smell like raw sewage. \|\| You inform Phwoar, "You smell like raw sewage." \|\| Marnevel informs Phwoar, "You smell like raw sewage." \|\|<br>\|\| babble to marn "You smell worse.\|\| You babble to Marnevel, "You smell worse." \|\| Phwoar babbles to Marnevel, "You smell worse." \|\| |
+| Example | You See... | Other Players See... |
+| --- | --- | --- |
+| murmur "I hate collecting tunics for a living. | You murmur, "I hate collecting tunics for a living" | Phwoar murmurs, "I hate collecting tunics for a living." |
+| chirp "My patrician pays me a talent a week. | You chirp, "My patrician pays me a talent a week. | Marnevel chirps, "My patrician pays me a talent a week." |
+| screech "I hate patricians! | You screech, "I hate patricians!" | Phwoar screeches, "I hate patricians!" |
+| groan marn | You groan at Marnevel | Phwoar groans at Marnevel |
+| whoop phw | You whoop at Phwoar | Marvevel whoops at Phwoar |
+| cheer marn | You cheer for Marnevel | Phwoar cheers for Marnevel |
+| announce marn "You need a bath! | You announce to Marnevel, "You need a bath!" | Phwoar announces to Marnevel, "You need a bath!" |
+| inform phw "You smell like raw sewage. | You inform Phwoar, "You smell like raw sewage." | Marnevel informs Phwoar, "You smell like raw sewage." |
+| babble to marn "You smell worse. | You babble to Marnevel, "You smell worse." | Phwoar babbles to Marnevel, "You smell worse." |
 
 
 ### Preposition List

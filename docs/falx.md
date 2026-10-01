@@ -40,7 +40,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
 | [Falx Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
 
-size 80%*<wound type>* <sup>**AoE**</sup> denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
+*<wound type>* <sup>**AoE**</sup> denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.

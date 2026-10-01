@@ -38,4 +38,4 @@ Two years had passed, Dahkneth's class was finally graduating from the recruit p
 Currently he is a Sergeant in Wolf squad of Legio I, he has yet to find the man who murdered his father, but he has heard reports that the man is now one of the main war-lords of the League... He still vows to avenge his father, no matter how long it may take, and how much blood must be shed to do so....
 
 
-size 90%**Note to site staff: Just wanted to tell yall to replace the old biography with this new biography of Dahkneth. Decided the other one wasn't very good and that I needed to write up another one. Thanks.
+**Note to site staff: Just wanted to tell yall to replace the old biography with this new biography of Dahkneth. Decided the other one wasn't very good and that I needed to write up another one. Thanks.

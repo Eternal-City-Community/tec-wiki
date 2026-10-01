@@ -6,7 +6,7 @@ category: "Reference"
 # Contraband
 
 <a id="Tears"></a>
-### [#](#Tears)Tears
+### Tears
 Tears can be collected from various places in the [region of Rock Valley](/rock-valley-region/). Cracking a **tear** awards a character a varying amount of [skill points (SP)](/skills/#SP) or [general skill points (GSP)](/skills/#GSP).
 
 > **By order of the Senate, Barbarian Tears are now to be considered contraband.**
