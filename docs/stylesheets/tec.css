@@ -2472,3 +2472,72 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
   visibility: hidden;
   pointer-events: none;
 }
+
+
+/* Account page: distinct topic navigation and section hierarchy. */
+.tec-account-jump {
+  margin: .65rem 0 1.15rem;
+  padding: .65rem .8rem;
+  border: 1px solid #aaa38a;
+  border-radius: 7px;
+  background: rgba(226,219,186,.78);
+  font-size: .72rem;
+  line-height: 1.5;
+}
+
+.tec-account-jump p {
+  margin: 0;
+}
+
+.tec-account-jump a {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.md-typeset .tec-account-jump ~ h2 {
+  margin-top: 1.7rem;
+  padding: .42rem .62rem;
+  border-top: 1px solid #8f8969;
+  border-bottom: 2px solid #566126;
+  background: linear-gradient(90deg, rgba(104,109,55,.16), rgba(226,219,186,.28));
+  color: #39461f;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.02rem;
+}
+
+.md-typeset .tec-account-jump ~ h2 + p {
+  margin-top: .7rem;
+}
+
+.md-typeset .tec-account-jump ~ h3 {
+  margin-top: 1.1rem;
+  padding-bottom: .18rem;
+  border-bottom: 1px dotted rgba(86,97,38,.55);
+  color: #465032;
+}
+
+.md-typeset .tec-account-jump ~ h5 {
+  margin-top: 1rem;
+  padding: .32rem .48rem;
+  border-left: 3px solid #686d37;
+  border-bottom: 0;
+  background: rgba(104,109,55,.08);
+  font-size: .78rem;
+}
+
+@media screen and (max-width: 600px) {
+  .tec-account-jump {
+    padding: .55rem .65rem;
+    font-size: .76rem;
+  }
+
+  .tec-account-jump a {
+    display: inline-block;
+    margin: .15rem .2rem .15rem 0;
+  }
+
+  .md-typeset .tec-account-jump ~ h2 {
+    margin-top: 1.3rem;
+    font-size: .95rem;
+  }
+}
