@@ -30,11 +30,13 @@ function initTecTool() {
   }
 
   function calc(basics, sub, diffMod, stanceMod, basicOnly) {
+    var hasBasics = basics !== "" && basics != null;
+    var hasSub = sub !== "" && sub != null;
     if (basicOnly) {
-      if (!basics) return "";
+      if (!hasBasics) return "";
       return trunc(tierBonus(basics) * stanceMod);
     }
-    if (!sub) return "";
+    if (!hasBasics && !hasSub) return "";
     return trunc((Math.floor(tierBonus(basics)) * diffMod + tierBonus(sub)) * stanceMod);
   }
 
