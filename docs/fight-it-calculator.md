@@ -12,8 +12,10 @@ This calculator is a work in progress. Enter your stats and fill in the appropri
 Note: only Tridents, Staves, Whips and One-Handed Crushing have stance bonus values right now.
 
 
-<fieldset>
-   <legend>Values:</legend>
+<div id="fight-it-app">
+<div class="fight-it-grid">
+<fieldset class="fight-it-panel fight-it-values">
+   <legend>Character & Combat Values</legend>
 
 <label for="agility">Agility value:</label>
  <select id="agility" name="agility" style="width: 178px;">
@@ -227,8 +229,8 @@ Note: only Tridents, Staves, Whips and One-Handed Crushing have stance bonus val
 
 </fieldset>
 
-<fieldset>
-   <legend>Add traits:</legend>
+<fieldset class="fight-it-panel fight-it-traits">
+   <legend>Traits</legend>
    <label for="traits">Traits:</label>
    <label for="unpredictability">Unpredictability:</label>
    <input type="checkbox" id="unpredictability" value="5">
@@ -266,8 +268,8 @@ Note: only Tridents, Staves, Whips and One-Handed Crushing have stance bonus val
    </select>
 </fieldset>
 
-<fieldset>
-   <legend>Choose a creature:</legend>
+<fieldset class="fight-it-panel fight-it-creature">
+   <legend>Creature</legend>
       <label for="creatures">Creature value:</label>
          <select id="creatures" name="creatures">
          <option value="none" data-location="nowhere" data-offense=0 data-defense=0>none</option>
@@ -318,15 +320,23 @@ Note: only Tridents, Staves, Whips and One-Handed Crushing have stance bonus val
 </fieldset>
 
 
-<br>
-
-<button onclick="CalculateStats()">Calculate Stats and Update Creature Selection</button>
-<p id="yourSuccess"></p>
-<p id="theirSuccess"></p>
-<p id="RBrequired"></p>
-<p id="offensiveValues"></p>
-<p id="defensiveValues"></p>
-<p id="miscValues"></p>
+</div>
+<section class="fight-it-results">
+  <button type="button" class="fight-it-calc-button" onclick="CalculateStats()">Calculate Results</button>
+  <div class="fight-it-results-grid">
+    <div class="fight-it-result-primary">
+      <p id="yourSuccess"></p>
+      <p id="theirSuccess"></p>
+      <p id="RBrequired"></p>
+    </div>
+    <div class="fight-it-result-detail">
+      <p id="offensiveValues"></p>
+      <p id="defensiveValues"></p>
+      <p id="miscValues"></p>
+    </div>
+  </div>
+</section>
+</div>
 
 <script type="text/javascript">
 function CalculateStats() {
