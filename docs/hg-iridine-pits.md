@@ -57,4 +57,4 @@ Within the main area of the Rat Pits, you'll find a wide variety of rats. Most o
 
 ### Map
 
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)
+[![](https://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)](https://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)

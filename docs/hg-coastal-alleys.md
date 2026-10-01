@@ -21,6 +21,6 @@ walk to toga, w, sw x 2, s x 3, sw, s x 2, sw x 4, w x 2, sw, w x 3, nw, w (one 
 -Egidia's Flophouse
 -Door with a carving of a dagger
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/hg-coastal-alleys/harbsouth.gif)
+![](https://eternal-city.wdfiles.com/local--files/hg-coastal-alleys/harbsouth.gif)
 
 [Hunting Grounds](/hunting-grounds/) » Coastal Alleys

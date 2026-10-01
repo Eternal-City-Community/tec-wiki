@@ -1,6 +1,6 @@
 # Gardens And Hospice
 
-[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Iridine-Gardens.gif)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Iridine-Gardens.gif)
+[![](https://eternal-city.wdfiles.com/local--files/files/Iridine-Gardens.gif)](https://eternal-city.wdfiles.com/local--files/files/Iridine-Gardens.gif)
 
 **Related Maps**
 [Bronze Lane](/bronze-lane/)

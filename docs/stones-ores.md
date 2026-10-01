@@ -3,7 +3,7 @@
 Various stones & ores are available throughout the game world. Stones & ores can be sold to shopkeepers or used in [custom item requests](/customization-guide/). Mined ore can be handed in for [reputation#Seld](/reputation/#Seld).
 
 One great non-combat way to get stones & ores is by [mining](/mining/) them. Some stones & ores are only available by this method.
-![image](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/stones-ores/gems.png)
+![image](https://eternal-city.wdfiles.com/local--files/stones-ores/gems.png)
 ### Stones
 
 #### Common Stones

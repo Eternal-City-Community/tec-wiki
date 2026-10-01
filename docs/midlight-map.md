@@ -3,4 +3,4 @@
 ---
 Map taken from the [official player's guide](https://www.skotos.net/games/TECPGhirez.pdf).
 
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/midlight-map/Midlight.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/midlight-map/Midlight.gif)
+[![](https://eternal-city.wdfiles.com/local--files/midlight-map/Midlight.gif)](https://eternal-city.wdfiles.com/local--files/midlight-map/Midlight.gif)

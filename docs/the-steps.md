@@ -1,7 +1,7 @@
 # The Steps
 
 ---
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/the-steps/Steps-Master_new.gif)
+![](https://eternal-city.wdfiles.com/local--files/the-steps/Steps-Master_new.gif)
 
 **Related Maps**
 [The Steps North](/the-steps-north/)

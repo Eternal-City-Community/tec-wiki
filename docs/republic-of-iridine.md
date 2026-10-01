@@ -3,7 +3,7 @@
 ## The Republic
 
 
-[![Map of Iridine - The Eternal City MUD](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)
+[![Map of Iridine - The Eternal City MUD](https://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)](https://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)
 
 
 The Republic of Iridine, spanning from the boundless ocean in the west to the trading outpost of Astraea in the east, and from Cinera in the north to the Blackroot Mountains in the south, is one of the most civilized countries in the world of [Midlight](/game-world/).

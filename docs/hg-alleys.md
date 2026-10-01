@@ -18,6 +18,6 @@ walk to toga, w, sw, n, w x 2, s, sw
 **Points of interest:**
 -Septima's: the Gilded Cage
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/alleys/harbnorth.gif)
+![](https://eternal-city.wdfiles.com/local--files/alleys/harbnorth.gif)
 
 [Hunting Grounds](/hunting-grounds/) » Alleys

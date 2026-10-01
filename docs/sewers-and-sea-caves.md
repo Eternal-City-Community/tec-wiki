@@ -1,7 +1,7 @@
 # Sewers And Sea Caves
 
 **Click map to open in new window** *(Warning: Very Large)*
-[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-sewers-11-29-2022.png)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-sewers-11-29-2022.png)
+[![](https://eternal-city.wdfiles.com/local--files/files/iridine-sewers-11-29-2022.png)](https://eternal-city.wdfiles.com/local--files/files/iridine-sewers-11-29-2022.png)
 
 
 **Related Maps**

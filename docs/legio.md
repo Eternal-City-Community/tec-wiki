@@ -3,7 +3,7 @@
 ### Overview
 
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/symbol_Legio.png)
+![](https://eternal-city.wdfiles.com/local--files/files/symbol_Legio.png)
 
 
 The Legio is Iridine's military arm and has been a formal institution since the days of Kings. Historically, armed service was the duty of every citizen in the Republic (with the exception of the Head Count class), as the [Comitia Centuriata](/comitia-centuriata/) and property classes attest. It has been reorganized more recently to reflect the Republic's newest enemies and to allow for additional manpower as the wars with Iridine's neighbors and barbarian tribes continue. It now hosts a number of foreigners and citizens alike all striving to defend, and extend, the Republic's land and influence. Those who survive may find great rewards through either monetary gain or citizenship for their time served.
@@ -43,7 +43,7 @@ To view the current organization leaders, use the **officials** command.
 | Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |  |  |  |  |
 
 
-![image](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg)
+![image](https://eternal-city.wdfiles.com/local--files/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg)
 
 #### Hierarchy
 Legions are carefully organized, efficient fighting forces. When carefully trained, they present a truly awesome and frightening aspect on the field of battle. Tales have been told from Iridine's history of entire legions wheeling and advancing as one man, mowing enemies beneath their flashing blades like so many stalks of wheat, a many-armed spectre of Death himself.

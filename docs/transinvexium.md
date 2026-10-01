@@ -1,7 +1,7 @@
 # Transinvexium
 
 ---
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/transinvexium/iridine-transinvexium1.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/transinvexium/iridine-transinvexium1.gif)
+[![](https://eternal-city.wdfiles.com/local--files/transinvexium/iridine-transinvexium1.gif)](https://eternal-city.wdfiles.com/local--files/transinvexium/iridine-transinvexium1.gif)
 
 **Related Maps**
 [Riverside](/riverside/)

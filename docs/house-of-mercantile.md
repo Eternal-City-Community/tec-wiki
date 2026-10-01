@@ -29,7 +29,7 @@ Mystery boxes are sold at various levels.
 Mystery box purchases can be **returned for store credit** by putting them into the large opening in the hallway north of Sharonpa. This includes all items found within a mystery box as well as **the empty mystery box itself**.
  _
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Sharonpa%20Returns.jpg)
+![](https://eternal-city.wdfiles.com/local--files/files/Sharonpa%20Returns.jpg)
 
 Dropping an item, or a box of items, into the opening will **prompt you** something like the below:
 

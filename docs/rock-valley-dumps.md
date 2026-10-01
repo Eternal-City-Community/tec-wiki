@@ -1,6 +1,6 @@
 # Rock Valley Dumps
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/RockValley-Dumps.gif)
+![](https://eternal-city.wdfiles.com/local--files/files/RockValley-Dumps.gif)
 
 
 **Related Maps**

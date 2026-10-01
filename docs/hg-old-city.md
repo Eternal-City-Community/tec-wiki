@@ -18,4 +18,4 @@ walk to colosseum, e x 4, n x 2, w x 3, s x 2
 
 **Points of interest:**
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/moondeep.gif)
+![](https://eternal-city.wdfiles.com/local--files/files/moondeep.gif)
