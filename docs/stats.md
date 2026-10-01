@@ -5,7 +5,6 @@ category: "Reference"
 
 # Stats
 
-<div class="stats-page">
 
 <a id="Top"></a>
 Each character has 13 attributes that set the groundwork for his or her abilities. Most stats are intuitive. You need strength to carry large amounts of equipment. Others have underlying hidden benefits that aren't always apparent. Attributes are displayed on your character sheet (type stats).
@@ -139,9 +138,28 @@ For example, the numeric value for **Endurance** directly corresponds to your ch
 
 
  
-|  |
-| --- |
-| \|\|~ Stat Description \|\|~ Numeric Value \|\|<br>\|\| Abysmal \|\|= 0 - 50 \|\|<br>\|\| Very Poor \|\|= 51 - 60 \|\|<br>\|\| Poor \|\|= 61 - 70 \|\|<br>\|\| Below Average \|\|= 71 - 90 \|\|<br>\|\| Slightly Below Average \|\|= 91 - 100 \|\|<br>\|\| Average \|\|= 101 - 110 \|\|<br>\|\| Slightly Above Average \|\|= 111 - 120 \|\|<br>\|\| Above Average \|\|= 121 - 130 \|\|<br>\|\| Fairly Good \|\|= 131 - 140 \|\|<br>\|\| Good \|\|= 141 - 150 \|\|<br>\|\| Very Good \|\|= 151 - 165 \|\|<br>\|\| Great \|\|= 166 - 180 \|\|<br>\|\| Exceptional \|\|= 181 - 190 \|\|<br>\|\| Outstanding \|\|= 191 - 200 \|\|<br>\|\| Remarkable \|\|= 201 - 210 \|\|<br>\|\| Extraordinary \|\|= 211 - 220 \|\|<br>\|\| Phenomenal \|\|= 221 - 230 \|\|<br>\|\| Incredible \|\|= 231 - 240 \|\|<br>\|\| Inhuman \|\|= 241 - 250 \|\|<br>\|\| Superhuman \|\|= 251 - ∞ \|\| |
+| Stat Description | Numeric Value |
+| --- | ---: |
+| Abysmal | 0–50 |
+| Very Poor | 51–60 |
+| Poor | 61–70 |
+| Below Average | 71–90 |
+| Slightly Below Average | 91–100 |
+| Average | 101–110 |
+| Slightly Above Average | 111–120 |
+| Above Average | 121–130 |
+| Fairly Good | 131–140 |
+| Good | 141–150 |
+| Very Good | 151–165 |
+| Great | 166–180 |
+| Exceptional | 181–190 |
+| Outstanding | 191–200 |
+| Remarkable | 201–210 |
+| Extraordinary | 211–220 |
+| Phenomenal | 221–230 |
+| Incredible | 231–240 |
+| Inhuman | 241–250 |
+| Superhuman | 251–∞ |
 
 ---
 <a id="improvingattributes"></a>
@@ -200,5 +218,3 @@ Learning statskills, however, has its limitations.  A statskill's bonus will cap
 Your character's stats can be temporarily modified by certain substances (shh - they're a secret), prayers or blessings, [coma sickness](/character-condition/#Coma), [encumbrance](/character-condition/#Load), [sitting or lying](/character-condition/#Position), and other events. For example, being sprayed by a skunk will temporarily lower your Appearance, Charisma, and Perception. Positive modifiers have the potential to temporarily increase your character's attributes beyond her natural cap.
 
 [Back to Top](#Top)
-
-</div>
