@@ -501,8 +501,8 @@ body::before {
 
 /* TEC/Wikidot-style thin utility navigation beneath the masthead */
 .tec-topnav {
-  position: sticky;
-  top: 80px;
+  position: relative;
+  top: auto;
   z-index: 9;
   height: 23px;
   background: #183500;
@@ -581,8 +581,9 @@ body::before {
 @media screen and (max-width: 76.234375em) {
   .tec-topnav {
     display: block;
-    top: 48px;
-    z-index: 19;
+    position: relative;
+    top: auto;
+    z-index: 9;
   }
 
   .tec-topnav__inner {
