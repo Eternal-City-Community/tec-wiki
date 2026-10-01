@@ -1,0 +1,23 @@
+name: Revert unsafe anchor repair
+
+on:
+  push:
+    paths:
+      - ".github/workflows/revert-bad-anchor-pass.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  revert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Revert unsafe automated anchor rewrite
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git revert --no-edit 068f078217a603e6340625479533a6f69cdadc4b
+          git push origin main
