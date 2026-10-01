@@ -1,6 +1,6 @@
 # Salt Flats
 
-![](https://eternal-city.wdfiles.com/local--files/salt-flats/invexriverdelta-saltflats.gif)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/salt-flats/invexriverdelta-saltflats.gif)
 
 **Related Maps**
 [Blackvine](/village-of-blackvine/)

@@ -23,6 +23,6 @@ Level 3: Statorus, Kelestian Tunneler
 **Jobs:**
 -Mining
 
-![](https://eternal-city.wdfiles.com/local--files/files/monlon-mines_updated101217.gif)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/monlon-mines_updated101217.gif)
 
 [Hunting Grounds](/hunting-grounds/) » Monlon Mines

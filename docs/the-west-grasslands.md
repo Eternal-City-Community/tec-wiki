@@ -1,6 +1,6 @@
 # The West Grasslands
 
-[![](https://eternal-city.wdfiles.com/local--files/the-west-grasslands/invexriverdelta-westgrasslands2.gif)](https://eternal-city.wdfiles.com/local--files/the-west-grasslands/invexriverdelta-westgrasslands2.gif)
+[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/the-west-grasslands/invexriverdelta-westgrasslands2.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/the-west-grasslands/invexriverdelta-westgrasslands2.gif)
 
 #### Related Maps
 [Burnt Villa](/burnt-villa/)

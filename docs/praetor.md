@@ -4,7 +4,7 @@
 
 Praetor is a free, open-source desktop client for The Eternal City. It runs on Windows, macOS, and Linux.
 
-![](https://eternal-city.wdfiles.com/local--files/praetor/praetor-action-screen.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor/praetor-action-screen.png)
 
 
 ### Features at a glance
@@ -216,13 +216,13 @@ praetor_<version>_linux_arm64.tar.gz
 
 ### First login
 
-![](https://eternal-city.wdfiles.com/local--files/praetor/praetor-splash-screen.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor/praetor-splash-screen.png)
 
 Praetor opens with a splash screen. Press any key to continue.
 
 From there you'll see the **Sign in to The Eternal City** form:
 
-![](https://eternal-city.wdfiles.com/local--files/praetor/praetor-login-screen.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor/praetor-login-screen.png)
 
 Enter your TEC username and password.
 

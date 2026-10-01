@@ -1,6 +1,6 @@
 # The Steps North
 
-![](https://eternal-city.wdfiles.com/local--files/the-steps-north/Steps-North1.gif)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/the-steps-north/Steps-North1.gif)
 
 **Related Maps**
 [Ludus Quintus](/steps-ludus-quintus/)

@@ -1,6 +1,6 @@
 # The Steps Central
 
-![](https://eternal-city.wdfiles.com/local--files/the-steps-central/steps-central-n.gif)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/the-steps-central/steps-central-n.gif)
 
 **Related Maps**
 [The Steps North](/the-steps-north/)

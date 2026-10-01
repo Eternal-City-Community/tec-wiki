@@ -4,7 +4,7 @@
 
 [[/>]]
 
-![](/local--files/files/yuki.gif/)
+![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/yuki.gif)
 
 She was born in the famed city of Iridine.
 She lives in a shack on the Steps.

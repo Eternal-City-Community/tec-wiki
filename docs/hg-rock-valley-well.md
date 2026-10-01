@@ -19,7 +19,7 @@ Stones and pebbles can be sold at Larunda's jewelry shop. From the Rock Valley T
 When in the Rock Valley Town Square, `climb well` to enter or exit.
 
 #### Map
-![](https://eternal-city.wdfiles.com/local--files/hg-rock-valley-well/RockValleyWell.PNG)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/hg-rock-valley-well/RockValleyWell.PNG)
 
 #### Related maps:
 

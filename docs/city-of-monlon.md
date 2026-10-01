@@ -5,7 +5,7 @@
 > The [Kelestians](/kelestia/) have **invaded Monlon**! Assistant governor Vaestia Elavia Santum has been reported dead, and the governor Cascar Olgulan remains missing. Although Iridine's heroes continue to come to their aid, the people of Monlon live in apprehension and take shelter when the fighting spills into the streets. Many speculate as to the reason for this attack, but for now it remains a mystery.
 
 
-![](https://eternal-city.wdfiles.com/local--files/files/minimap_monlon.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/minimap_monlon.png)
 
 
 During the period of the monarchy, Iridine expanded, conquering Monlon and warring against both the Aestivan League and Cinera.
@@ -32,7 +32,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  --]
-[![](/local--files/files/Monlon_2022-11-25.png/)](/local--files/files/Monlon_2022-11-25.png/)
+[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Monlon_2022-11-25.png)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Monlon_2022-11-25.png)
 
 
 **Related Maps**

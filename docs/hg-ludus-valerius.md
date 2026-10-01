@@ -34,7 +34,7 @@ walk to bronze, w, w
 <summary>+ Show</summary>
 
 
-![](https://eternal-city.wdfiles.com/local--files/hg-ludus-valerius/hgludusvalerius.jpg)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/hg-ludus-valerius/hgludusvalerius.jpg)
 
 </details>
 

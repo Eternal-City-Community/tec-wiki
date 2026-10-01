@@ -1,6 +1,6 @@
 # Bronze Lane
 
-[![](https://eternal-city.wdfiles.com/local--files/bronze-lane/iridine-bronzelane.gif)](https://eternal-city.wdfiles.com/local--files/bronze-lane/iridine-bronzelane.gif)
+[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/bronze-lane/iridine-bronzelane.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/bronze-lane/iridine-bronzelane.gif)
 
 **Related Maps**
 [Riverside](/riverside/)

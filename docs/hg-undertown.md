@@ -19,7 +19,7 @@ This hunting ground consists over multiple levels. There are mechanics in place 
 #### Directions:
 **From [Rock Valley Town Square](/town-of-rock-valley/)**: W, N x 9, W, S, W, N x 2 *(walk W 1 N 9 W 1 S 1 W 1 N 2)*
 
-[![](https://eternal-city.wdfiles.com/local--files/files/Undertown.jpeg)](https://eternal-city.wdfiles.com/local--files/files/Undertown.jpeg)
+[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Undertown.jpeg)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Undertown.jpeg)
 
 
 ### Required Key Stones
