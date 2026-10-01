@@ -121,15 +121,19 @@ document.addEventListener("DOMContentLoaded", function () {
         link("Fight It!™ Calculator","fight-it-calculator") +
       '</div></div>' +
       '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Wiki Team</button><div class="tec-topnav__menu">' +
-        '<a href="' + repo + '">Become a Wiki Editor</a>' +
-        '<a href="#" data-tec-edit-current="true">Edit page</a>' +
-        '<a href="' + repo + '/blob/main/docs/javascripts/tec-nav.js">Edit this menu</a>' +
-        '<a href="' + repo + '/blob/main/docs/javascripts/tec-sidebar.js">Edit side menu</a>' +
-        '<a href="' + repo + '/issues">Troubleshooting</a>' +
+        '<a href="#" data-tec-edit-current="true">Edit this page</a>' +
+        '<a href="/admin/">Editor Dashboard</a>' +
+        '<a href="/admin/#/workflow">Review Workflow</a>' +
+        '<a href="/admin/#/media">Media Library</a>' +
+        link("Editing Help","browser-editing") +
         '<a href="' + repo + '/commits/main">Recent changes</a>' +
-        '<a href="' + repo + '/discussions">Editor Forum</a>' +
-        '<a href="' + repo + '/settings">Manage site</a>' +
-        '<a href="' + repo + '/tree/main/docs">Files</a>' +
+        '<a href="' + repo + '/issues">Report a problem</a>' +
+        fly("Maintainer Tools", "", [
+          '<a href="' + repo + '/blob/main/docs/javascripts/tec-nav.js">Edit top menu</a>',
+          '<a href="' + repo + '/blob/main/docs/javascripts/tec-sidebar.js">Edit side menu</a>',
+          '<a href="' + repo + '/tree/main/docs">Repository files</a>',
+          '<a href="' + repo + '/settings">Repository settings</a>'
+        ]) +
       '</div></div>' +
       '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Help</button><div class="tec-topnav__menu">' +
         link("FAQ","faq") +
@@ -143,8 +147,8 @@ document.addEventListener("DOMContentLoaded", function () {
     if (editCurrent) {
       event.preventDefault();
       var path = window.location.pathname.replace(/^\/+|\/+$/g, "");
-      var file = path ? "docs/" + path + ".md" : "docs/index.md";
-      window.location.href = repo + "/edit/main/" + file;
+      var slug = path || "index";
+      window.location.href = "/admin/#/collections/pages/entries/" + encodeURIComponent(slug);
       return;
     }
 
