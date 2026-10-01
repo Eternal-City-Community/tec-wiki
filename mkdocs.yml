@@ -1,6 +1,6 @@
 site_name: The Eternal City Wiki
 site_description: Community-maintained wiki for The Eternal City MUD
-site_url: ""
+site_url: "https://tec-wiki.tecwiki.workers.dev"
 
 theme:
   name: material
@@ -13,21 +13,32 @@ theme:
     - content.action.edit
 
 nav:
-  - Play Now:
-      - Home: index.md
-  - Community:
-      - About the Wiki: about.md
+  - Home: index.md
   - Getting Started:
+      - Getting Started: getting-started.md
+      - Account: account.md
+      - Character Creation: characters.md
+      - Traits: traits.md
+      - Stats: stats.md
+      - Newbie Guides: newbie-guides.md
+  - Game World:
+      - Game World: game-world.md
+      - Maps: maps.md
+      - Cities & Towns: cities-and-towns.md
+      - Shops: shops.md
+      - Organizations: orgs.md
+  - Skills:
+      - Skills Overview: skills.md
+      - Combat Overview: combat-overview.md
       - Armor: armor.md
-  - The Game World:
-      - Combat: mechanics/combat.md
-  - Crafting:
-      - Jewelry Crafting: crafting/jewelry.md
-      - Leatherworking: crafting/leatherworking.md
-  - Roleplaying:
+      - Weapons: weapons.md
+      - Jewelry: jewelry.md
+      - Leatherworking: leather-working.md
+  - Community:
+      - Character Bios: character-bios.md
+      - In-Game News: in-game-news.md
       - About the Wiki: about.md
-  - Getting Around:
-      - Home: index.md
+      - Browser Editing: browser-editing.md
 
 plugins:
   - search
