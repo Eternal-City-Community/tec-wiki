@@ -1,0 +1,35 @@
+name: Audit migrated wiki
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "docs/**"
+      - "tools/audit_migration.py"
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Audit migrated wiki
+        run: python tools/audit_migration.py
+      - name: Commit audit report
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add WIKI_AUDIT.md
+          if git diff --cached --quiet; then
+            echo "No audit changes."
+          else
+            git commit -m "Update migration audit"
+            git push
+          fi
