@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecTool() {
   var root = document.getElementById("tec-rb-calculator");
   if (!root) return;
 
@@ -148,4 +148,12 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   render();
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecTool, { once: true });
+} else {
+  initTecTool();
+}
+
+document.addEventListener("DOMContentSwitch", initTecTool);
