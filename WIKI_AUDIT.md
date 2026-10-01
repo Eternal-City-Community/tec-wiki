@@ -7,6 +7,11 @@
 - Other migration-note markers: **0**
 - Pages still containing direct eternal-city.wikidot.com links: **53**
 - Unique unresolved internal links: **60**
+- Pages still using WDFiles assets: **103**
+- Pages with leftover Wikidot table syntax: **6**
+- Pages with leftover Wikidot heading syntax: **0**
+- Pages with leftover Wikidot escape markers: **1**
+- Pages with leftover Wikidot markup blocks: **321**
 
 ## Unresolved internal links
 
