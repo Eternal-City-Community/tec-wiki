@@ -4,13 +4,9 @@ category: Wiki & Help
 ---
 # The Eternal City Wiki
 
-
-
 ## The Eternal City - A Text Based MUD
 
 **The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
-
-
 
 > Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
 
@@ -54,16 +50,13 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 ### Latest Updates
 
-<!--\* To add new updates, please use the "Latest Updates" page included below. \*--> 
+<!--\\* To add new updates, please use the "Latest Updates" page included below. \\*--> 
 
 ### Latest Major Updates To The Game *(sorted chronologically↑)*
 
-
-
 * **September 2026:** New weapon released - Dual Daggers are now available to learn
-
+* **August 2026:** New Noncom skillset released - Jewel crafting
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off Superior Weapon Upgrades**.
-
 * **February 23<sup>rd</sup> 2024**: **Combat trainers** have been updated. Some trainers now **teach up to 300/300 or 500/500** ranks. Visit the related [skills page](/skills/#Combat) for details.
 * **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#naturalatt) for details.
 * **February 1<sup>st</sup> 2024**: **50% off** **GSP purchases & Swapping Skill Slots** for the February Promotion! 
