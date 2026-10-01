@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "docs/**"
       - "tools/audit_migration.py"
+      - ".github/workflows/audit-wiki.yml"
 
 permissions:
   contents: write
