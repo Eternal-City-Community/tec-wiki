@@ -1,9 +1,5 @@
 # Bio Rockerus
 
-[[>]]
-
-[[/>]]
-
 > (Due to the fact that most of the characters in this story are Altene, this story had to be translated into Iridinian to fit your understanding. Thank you.)
 
 'Rocky, get 'way from dat rat! It's dangerous!' exclaimed my father, Jomius D'Mattius.

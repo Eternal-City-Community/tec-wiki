@@ -1,9 +1,5 @@
 # Bio Tarravus
 
-[[>]]
-
-[[/>]]
-
 Tarravus Tassius grew up in the town of Seld. His father was a merchant, traveling from town to town, around the world, buying and selling stuff. Tarravus didn't see him very much. His mother was a waitress in the Blue Breakwater Inn. She worked hard for little money.
 
 One day, Tarravus father came to town again. He told Tarravus and his mother to get all their stuff together and leave with him. He didn't want to answer the questions Tarravus and his mother had: 'Why? Where are we going?'. So in the afternoon, they departed on a ship, heading east.

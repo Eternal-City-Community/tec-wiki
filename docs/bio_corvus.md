@@ -1,9 +1,5 @@
 # Bio Corvus
 
-[[>]]
-
-[[/>]]
-
 Corvus Pius grew up in a close, happy family in the small timber town of Argosius, halfway between Monlon and the City of Iridine. His father was the town’s healer, his mother was a member of the local constabulary, and his younger brother Valerius was his constant companion. Early in life Corvus began assisting his father in his healing practice. He followed him around town, getting to know the ebb and flow of the small town and its citizens. Though at first horrified by some of the injuries and illnesses he saw at his father’s side, Corvus listened attentively to his father’s clinical descriptions of the various ailments, and gradually began to be able to understand and assist his father more and more. Eventually, his father began allowing him to diagnose and treat some of the simpler and more common cases.
 
 As in many towns that make their livelihood off of timber, many of the injuries were from accidents in the lumber camps around town. Sadly, almost as many were from the ravages of a lifestyle that attracts hard-working and hard-playing men: injuries from tavern fights, domestic violence, alcoholism, and the like. Though sometimes repelled by what he saw, Corvus learned to respect the many citizens of Argosius who were working hard to make a decent life for themselves and their families. As he grew older, he began to take over more and more of his father’s healing duties around town, leaving mostly the most complex cases for his father’s greater expertise.

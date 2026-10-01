@@ -1,9 +1,5 @@
 # Bio Commensus
 
-[[>]]
-
-[[/>]]
-
 Parradus and Adinna Livitus became the proud parents of Commensus in the 197th year of the Republic. Parradus, who died in 216, had held a number of important positions in the city, having eventually risen to the rank of Senator. Adinna, who died at the same time, was a kind mother and a well-known healer. They both perished in a fire that burned down their villa and left their son destitute and alone. His youngest sister and older brother are missing and are presumed to have died in the fire, as well, though their bodies have not been recovered. The cause of the fire was never discovered, although many have speculated that it was arson, perhaps committed by Ravanites or a member of the undone in retaliation for Parradus' well-known campaign to rid the city of the moon-worshippers.
 
 Commensus had grown up in moderate luxury, having been given opportunities to study and learn from the great philosophers of the age. He was diligent in his studies, but a few months before the fire, he had put aside his books and taken up weapons training. At the age of 17, he wrote in his diary that he had been having foreboding feelings of gloom and despair, and felt that some catastrophic event was approaching that would bring bloodshed and death to the inhabitants of Iridine. The feelings and premonitions did not go away as he grew up, and soon became the central issue in his life. He had discussed his concerns with his father, but he was largely ignored. When he brought them up to his mother, however, she took them very seriously and began asking questions of her own.

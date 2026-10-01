@@ -1,9 +1,5 @@
 # Bio Sylicus
 
-[[>]]
-
-[[/>]]
-
 Smack!!! That was all that could be heard as the bar maid flung her hand across Sylicus's face.
 
 "Oowww... What as that for?" Sylicus asked while rubbing his cheek.

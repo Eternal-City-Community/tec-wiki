@@ -1,9 +1,5 @@
 # Bio Niktoo
 
-[[>]]
-
-[[/>]]
-
 Niktoo was born In the city of Iridine, sometime nineteen years ago. No one really knows when he was born, His mother a Prostitute and his father , well you get the picture. His mother was around long enough to name him and see him out the door at the ripe age of 10. Very young and very afraid, Niktoo found himself in a world that was not suitable for most cutthroats, let alone a young boy. He came from the harbors and spent most of his time scouring the coastal alleys looking for food, and clothing he could sell to make a meager living. Many a time he found himself faced staring at some of the worlds most vile beings. 
 
 One day why sneaking out of his makeshift shack he came upon a small group of brutes drinking and brutalizing a young maiden. His eyes were fixated in shock and terror, he could not believe people could be like this. His little heart trembled as he grabbed hold of a small wooden club that was laying on the ground, with all his courage he rushed forward swinging his hardest at the first of the three Smelly men. He barley budged him as he turned angrily swatting Niktoo with his hand. With that the young boy went sprawling to the ground as the taste of blood soon found its way into his mouth. The man smiled and walked over coolly to the boy, and preceded to beat him near death. As Niktoo lay there bleeding his young eyes caught the glimpse of the maidens right before she passed on to Ereal finally at some kind of rest. The men just chuckled and walked away as if it was just another day.

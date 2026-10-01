@@ -1,9 +1,5 @@
 # Bio Echo
 
-[[>]]
-
-[[/>]]
-
 Echo looks at you with a mischievious smile and says "Ah, you think my name is unusual heh?"
 
 Echo smiles at you. "Well, Have a seat. Let me tell ya how my name came about while I tend your wounds."

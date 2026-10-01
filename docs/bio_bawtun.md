@@ -1,9 +1,5 @@
 # Bio Bawtun
 
-[[>]]
-
-[[/>]]
-
 The river behind Bawtun Gilsesh' cottage in the Parcine forest gurgled quietly. His brother, Farowt, was chopping wood for the winter. *CHOP* *CHOP* *CHOP* echoed through the quiet forest as the tin axe felled yet another tree. Farowt was a burly, heavy-set man in his early thirties, with thick eyebrows and unkempt brown hair. After he had chopped wood for almost an hour, he stopped for a minute for a drink of water.
 
 Farowt went down to the spring that bubbled behind the cottage and reached down, letting the clean, crystal clear water flow through his fingers before he brought his hand up and drank deeply. A few more sips and he was ready to begin chopping wood again. When he went to the next tree, his arms and axe seemed to flow together, and with only a few mighty strokes, the tree was cut in two and on the ground. Farowt, feeling strength such that he never had before, moved on to the next tree and struck into that, feeling the force of the blow and reveling in it. He went from tree to tree, knocking each down with two or three mighty blows.

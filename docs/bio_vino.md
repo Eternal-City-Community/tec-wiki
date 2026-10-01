@@ -1,9 +1,5 @@
 # Bio Vino
 
-[[>]]
-
-[[/>]]
-
 > **From the personal journal of Falstaff, the interviewer:**
 >
 > ...and when I asked Vino about the past events that he eluded to his face grew quite flat. I thought at first that I had angered him and feared the interview might be over already. Then he sighed, deeply, like a man suddenly fallen under some great burden.

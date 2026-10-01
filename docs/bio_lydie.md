@@ -1,9 +1,5 @@
 # Bio Lydie
 
-[[>]]
-
-[[/>]]
-
 Lydie yawned and glanced across the table at you.
 "Go ahead and sit, don't just stare it's rather rude" Lydie mumbles to you and you take a seat
 "So...Where from?" You ask Lydie

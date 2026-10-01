@@ -1,9 +1,5 @@
 # Bio Amarad
 
-[[>]]
-
-[[/>]]
-
 I awoke to screams for tha first time in my life. Burned into me mind like a scar is that day. I lept from my sleepin mat n' tha first thing I noticed was mother, she was gone. At first I thought she'd just gone fer water, then I 'eard that noise. I can r'member that scream as if it 'appened moments ago. The terror in it… I was but a lil' cub then, too young to know what was goin' on.
 
 Suddenly the far wall a' me 'ut burst into flames. Had the campfires burnt out of controll again? No, it was too early in the morning for fires, they'd never be able to catch the reeds when they're still wet with tha mornin dew. What was happening? I rushed to the openin, pulled the leather strap, and opened the entryway. Then I saw her, moth'r, my shelter, my protector, layin' face down not but twelve paces from where I stood. I 'eard noises I'd never 'eard b'fore. The sound a' clashin steel n' the cry a battle filled the air. I crept out towards the other huts to see what was happening.

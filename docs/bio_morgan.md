@@ -1,9 +1,5 @@
 # Bio Morgan
 
-[[>]]
-
-[[/>]]
-
 ### Morgan's Story
 
 > "Me life story eh? ye dinnae ask fer much now do ye? hehee, well lemme see if'n i kin boil it all down tae a broth fer ye..then ye can tell me how it sits in yer belly afterwards. " Morgan takes a long pull off his Mug o' ale and scratches his head while apparently lost in thought for a long while.. then slowly begins to furrow his brow as if the memories being drawn up were probably best left buried.

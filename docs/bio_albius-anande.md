@@ -1,9 +1,5 @@
 # Bio Albius Anande
 
-[[>]]
-
-[[/>]]
-
 **Albius Anande - Member of the Council of Elders**
 
 **Member of the [Sect of the Revealing Light](/cult-of-ereal/#RevealingLight)** 

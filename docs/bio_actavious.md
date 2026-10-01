@@ -1,9 +1,5 @@
 # Bio Actavious
 
-[[>]]
-
-[[/>]]
-
 **Name:** Actavious Cerrellus
 **Place of Birth:** Parcine
 **Age:** 19

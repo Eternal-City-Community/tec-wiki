@@ -1,9 +1,5 @@
 # Bio Amose
 
-[[>]]
-
-[[/>]]
-
 ## Amose and Sestus Fisthand
 
 

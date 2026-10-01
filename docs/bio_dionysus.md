@@ -1,9 +1,5 @@
 # Bio Dionysus
 
-[[>]]
-
-[[/>]]
-
 [Fade in, exterior, small farm]
 
 You see a small farm. In the distance, you see a large barn. A small house with a thatched roof sits on the bank of a wide river. Near the house is a dock with a two-mast sailboat tied to it. It bobs gently with the current of the water.

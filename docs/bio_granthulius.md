@@ -1,8 +1,5 @@
 # Bio Granthulius
 
-[[>]]
-
-[[/>]]
 ## Granthulius - 2^^nd^^ King of Iridine
 
 **Granthulius: (48-81)**

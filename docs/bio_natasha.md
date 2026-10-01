@@ -1,9 +1,5 @@
 # Bio Natasha
 
-[[>]]
-
-[[/>]]
-
 Natasha Cassadine was born to a powerful family in Remath.  Her father, Coban Cassadine is a Diplomat and one of Queen Alinissa Condaia's advisors.  Her mother, Maxima Cassadine is a well respected Herbalist who is well known for her prize winning roses. 
 
 The Cassadine family has been established in Remath for several generations.  They have always been closely allied with the House of Condaia and have gained quite a bit of power in their own right. 

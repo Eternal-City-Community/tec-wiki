@@ -1,9 +1,5 @@
 # Bio Bernard Tubero
 
-[[>]]
-
-[[/>]]
-
 **Bernard Tubero - Member of the Council of Elders and leader of the Bright Hope sect**
 
 He holds the current position as **Hand of Ereal** within the [Cult of Ereal](/cult-of-ereal/).

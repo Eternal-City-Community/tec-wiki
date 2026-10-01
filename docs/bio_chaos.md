@@ -1,9 +1,5 @@
 # Bio Chaos
 
-[[>]]
-
-[[/>]]
-
 A great storm raged of the shores of Windward, causing chaos to ships at sea and in port. Once the storm and dispensed and the chaos had returned to order, search party's began the search for wrecked ships and their survivors. On a beach on the eastern side of Windward was the remains of a ship lost at sea and brought in by the tide, only one sound could be heard coming from the remains and that sound at the dead of night was the sound of a baby's cry.
 
 One searching party was searching that same beach and found the remains under a now clear and starry night. By the light of the full moon and their lantern's they searched the remains of the ship for survivors and cargo. They followed the sound of the crying baby and found him nestled among the remains in a chest with golden bands. They opened the chest and found a small child with blonde hair and greens eyes, a combination no-one had ever seen. Wondering what the ship's origin was they began looking for clues. They only found wood of a tree unknown and a shield with a design now no one had seen before. The design was a circle with a white teardrop covering half of the circle and the other half an identical black teardrop upside down. The head of the search was a Priest of Ereal named Michael, he took the boy for is own on that very night. Michael named this boy Chaos from the storm that had brought him to Windward and Star for the starry night on which he was found.

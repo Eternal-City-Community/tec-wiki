@@ -1,9 +1,5 @@
 # Bio Siphon
 
-[[>]]
-
-[[/>]]
-
 I grew up in Remath. I spent many a day studying and learning. My mind grew with knowledge and I was smarter then most adults by the time I was 12. My uncle gave me a tin dagger to learn how to fight with incase I needed too. I used in occasionally, but wasn't good with in when I was young.
 When I reached the fine age of 16 I went off into the world and joined a mercenary group, our pay was alright, the good pay went to the Altene mercenaries. We were hired by a small nation, who was at war with another small nation. These nations were so far away and small that no one even knew there name, it didn't matter though, they paid us to go and fight for them, so we did. They led us to their nation by boat, we mapped the course, but we wary on if we mapped it right. The captain was sure our 6 ships would make it back.
 I improved my knives skill during the war, and received my share of scars. When the war ended I was about 18, we were heading back to Remath, and the known world, but the maps failed us and we got lost.

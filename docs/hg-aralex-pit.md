@@ -1,9 +1,9 @@
 # Hg Aralex Pit
 
 ## The Aralex Pit
-[[=]]
+
  
-[[/=]]
+
 ### Introduction
 > **~ Taken from 'A "relaxing" guide to Aralex By Veridio Dimori'**
 > The aralex are not native to the city of Iridine. As far as we know, the aralex that now infest the depths of the lime quarries are in fact from Cullaiden Island. A shipment of boxes, one would assume benign, was sent back to the mainland and the aralex were on board. Whether this was malicious or unintentional still remains to be seen. For several days, maybe even a week or two, they sprouted up across the Forum Axonus, the Bronze lane, near the Hospice of Morning Light, and found their final dwelling place under the Colosseum. 

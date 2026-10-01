@@ -1,9 +1,5 @@
 # Bio Janisinia
 
-[[>]]
-
-[[/>]]
-
 The rich merchant Joseph Kiljaro and his wife Meretta of Windward had already gave birth to three sons, and were expecting another one. They were a little more than surprised to discover that this "son" turned out to be a daughter. Despite this setback, Janisinia still grew up like her brothers did...they were allowed to choose what they wanted to do in their lives. At first, she tried working at the Windward Hospice, but wasn't very interested in healing, and got sick at the sight of blood and broken bones. She gave up working there and stayed around the house, doing sterotypical "boy" chores. Of all of her brothers, she was closest to her oldest, Pepper.
 One day, as a punishment, Pepper was sent out to cut firewood, and Janisinia went with him. Time passed, and Janisinia got bored and took a nap. She was awoken by Pepper, who sensed something was wrong. They got up immiediately and raced towards home, only to discover they were too late. The house had been burned to the ground, and their parents had died. Pepper than noticed their cousin, Fireball Sparkeedi, fleeing the scene. Angered and in a hunt for revenge, Pepper decided to follow him to Iridine. But first, he left Janisinia with their uncle Mortimer, who lived nearby.
 

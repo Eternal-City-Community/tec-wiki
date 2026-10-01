@@ -1,9 +1,5 @@
 # Bio Vladmir
 
-[[>]]
-
-[[/>]]
-
 Born seventeen years ago in the Territory of Altene, Vladmir Zhukov was the only son of a proud and loving couple. He had not lived long when his inquisitve, yet gentle nature and preference for solitude marked him as an unlikely warrior.
 
 Though his heart did not love violence, he was nevertheless an apt pupil in the arts of stave fighting, and was conscripted into the Heart of Altene at the customary fourteen years of age. It was during his sometimes brutal training that Vladmir discovered his talents in woodcraft and survival, and soon found a place as an apprentice in the Legion's scouting arm. His apprenticship served him in more than just education, however, as he soon found himself in love with his fellow scout and sifara, Alexandra Rostov. His love was returned, and, as Altene's marry early, the two were wed before his sixteenth birthday.

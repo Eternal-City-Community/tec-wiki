@@ -1,9 +1,5 @@
 # Bio Necros
 
-[[>]]
-
-[[/>]]
-
 When people ask me about my past, there is almost nothing I can tell them. And that's simply because I don't remember. How, you ask me? Lemme explain.
 
 About 11 months ago, I woke up in a dark, muddy place. I was afraid, not knowing where I was, who I was or what I was doing there. I was naked, and a strong wind was blowing. I had scratches and wounds all over my body, and when I tried to stand up I felt an inhuman pain in my legs preventing me to do it. I yelled for help a couple of times, but nobody came. I kept on yelling, and after a while I passed out from exhaustion.

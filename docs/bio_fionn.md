@@ -1,9 +1,5 @@
 # Bio Fionn
 
-[[>]]
-
-[[/>]]
-
 Fionn mac Cumhaill is 20 years of age.
 
 He was born to a working-class farm family on the isle of Windward.  Never good with authority, he came into conflict with his father at an early age. The details are, to say the least, unpleasant.  He tried and tried to earn his father's respect, but failed miserably.  Particularly distressing to old Conor (dad) was that Fionn was never much for farming, and that he dreamed of greatness, of fame and great love.  Da told him again and again to settle for what life offers you.  Fionn could never quite swallow that pill, believing in his heart a man can have whatever he's got the guts to take. 

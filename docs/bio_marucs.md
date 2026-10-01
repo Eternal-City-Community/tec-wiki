@@ -1,9 +1,5 @@
 # Bio Marucs
 
-[[>]]
-
-[[/>]]
-
 *The Story of Marucs Pompei (no relation to any other Pompei or Pompeii)*
 
     Nineteen years ago in a small village in Altene, a young girl of seventeen worked in the only inn, in the village. One night a group of travelers came to the village. They appeared to be a group of ‘a-wall’ soldiers, though they were not Altene. After many hours of drinking and joking one of the men grabbed the young waitress and took her out back. It was so busy and loud that no-one noticed. The man took the young girl beat her and then rapped her. A few months later I was born.

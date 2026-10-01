@@ -1,9 +1,5 @@
 # Bio Rusty
 
-[[>]]
-
-[[/>]]
-
 "Why do you have to be like that!? Why can't you be normal like the rest of the kids around here? What the hell is wrong with you!?"
 
 "Just because I choose not to live a normal life like everyone else in this depressing town means nothing! I chose what I wanted to do with my life, and that hurts you because all the other kids' parents chose their life for them! What is so wrong with me making my own decisions!?"

@@ -1,9 +1,5 @@
 # Bio Abicus
 
-[[>]]
-
-[[/>]]
-
 Abicus Simicus was born in a large fishing village just south of Iridine known as Viron on the 9th day of Rindak in the 191st year of the Republic. His father was a sailor who spent half his time asleep and the other half drinking. His mother was a prostitute who had commited suicide shortly after he turned three years old. Because of this Abicus was taken in by his uncle who was a well know scholar of the city. His uncle had sent him to a nearby academy which had taught Abicus, everything from the history of Midlight to ancient battlefield tactics. Among these skills which he was taught was the skill of locksmithing, which Abicus had taken a strong liking to and would later choose as a profession in his life.
 
 While walking back to his room one day after being let out at the academy Abicus now 16 had met a girl named Sharminia whom he had almost instantly fell in love with. Sharminia was everything Abicus had wanted, she was beautiful, she could cook, and above all had one of the most interesting personality Abicus had every seen in anyone. For the next year and a half Abicus and Sharminia had seen each other untill the one day when Abicus had asked Sharminia to marry him, of course her anwser was yes as she loved him as much as he did her. A short bit after the wedding day Abicus had found him and his wife running low on cash because Abicus' locksmithing business had little if any business. So Abicus, depressed but detirmined had joined one of the local fishing crews who worked the seas near the city. Abicus was now 20 and was very poor. He struggled with all his might to keep himself, his wife, and his baby daughter fed and clothed. This had made Sharminia very sad as she did not get to see her beloved husband much anymore. She did however have her daughter, whom she loved with all her heart and would willing die for.

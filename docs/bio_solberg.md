@@ -1,9 +1,5 @@
 # Bio Solberg
 
-[[>]]
-
-[[/>]]
-
 Solberg Von Troll was born into a happy family in Altene. His mother had died from shock after the news that the oldest son, Gonra had died in a pit in the Bandit Forests near the great city of Iridine. Solberg refused to learn the stave as did his brother Jenneke, who was quite skilled with an axe, Much to the anger of his father and uncle. Solberg ran away to seek learning from hermit in the forests who taught him the ways of the outdoorsmen. Before returning to Altene, Solberg arrived in Iridine and was amazed at the sight that met his eyes. A city, where people's skills are admired (well most skills).
 
 Solberg spent a few days in Iridine before returning to Altene to face the wrath of his father. Much to Solberg's horror, his father was killed in battle only four days before he returned. With the help of Jenneke, Adron, his younger brother and Adronia, Adron's twin sister, he buried their father in the family grave.

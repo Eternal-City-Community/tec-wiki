@@ -1,8 +1,5 @@
 # Bio Valstaron Martius
 
-[[>]]
-
-[[/>]]
 ## Valstaron Martius
 **<u>Valstaron Martius</u> ??-15 or 16 YP**
 Perhaps the bloodiest, and certainly the least stable, of the Cineran kings was [bio:Parsos Emrial](/bio_parsos-emrial/). In his thirteen year reign he slaughtered the elders who had guided each of the preceding reigns for two hundred years. Valstaron Martius served in the Legion with honor but little distinction for over ten years; while he was of a noble house, he had shown no interest in politics and preferred to serve Iridine in the field, against the Aestivan nobles. The Aestivans conducted a civilized war, completely unlike that which Martius' comrades told him about in the south, against the barbarians.

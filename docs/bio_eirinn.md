@@ -1,10 +1,5 @@
 # Bio Eirinn
 
-[[>]]
-
-[[/>]]
-
-
 It was a glorious day in [Markad](/cinera/), the sun shining bright and warm overhead. Out in the bay, a flock of gulls yelled rudely as they swooped down in vain attempts to steal fish from the many skiffs floating on the calm water. A few families were down on the beach taking advantage of the weather.
 
 Amongst the tall beach grasses my mother, heavy with child, walked hand in hand with my father. They strolled towards the beach, leaving me behind to do the chores. As a girl, especially a half-blood, I was considered no better than a slave and it would be unheard of to take me along for a day of fun. My father hoped that the child soon to be born would be a boy – an heir for my father’s farm and budding fishery. Confident and happy, he promised me that when his son was born, he would buy his right as a full citizen as well as mine.

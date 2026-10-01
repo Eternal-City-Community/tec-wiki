@@ -1,9 +1,5 @@
 # Bio Tulca I
 
-[[>]]
-
-[[/>]]
-
 ## Tulca - 1^^st^^ King of Iridine
 
 **Tulca: (1-48)**

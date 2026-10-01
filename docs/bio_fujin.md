@@ -1,8 +1,4 @@
 # Bio Fujin
 
-[[>]]
-
-[[/>]]
-
 Fujin, know for being the leader of the Black Dragon. Iridine has always had mixed feels of who and what the Black Dragon are. Fujin was born into the Black Dragon and raised by the High Elder. He took his place as leader of the Sons of Light when his mentor Hjkin died in battle. Fujin brought a different touch to leading the Black Dragon, after taking revenge on his Mentors killers[ the killers name has been lost through history, its been rumored from Kano all the way to the country of Altene, as the Altenians were forced from the original homes for some unknown reason] He turned the warriors of the Sons of Light into healers. The Black Dragon have attempted to spread their enlightenment in Iridine but have had little success. [It is rumored that the higher Black Dragon leaders have magic but it has never been proven.] It is believe Fujin may one day be an Elder.
 Fujin has one brother Kano and a half sister Calisto, both his parents were killed by Kano [who leads the Sons of Shadow] Fujin is in perfect health for a man his age, but he has to limp because as a child his brother Kano shoot an arrow through it and shattered the leg beyond repair, but this does not prevent his great healing powers, and his ability to use a spear.

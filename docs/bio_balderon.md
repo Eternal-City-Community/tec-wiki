@@ -1,9 +1,5 @@
 # Bio Balderon
 
-[[>]]
-
-[[/>]]
-
 > "The Parcines is no place for dreamers, son. You'd do well to keep that in mind."
 
 These are the words that the young man of eighteen had heard more often in his life than any others. Life in the mountains was hard, and it was generally accepted that it was best to keep your mind on the matters at hand, and your loyalties to your clan. 

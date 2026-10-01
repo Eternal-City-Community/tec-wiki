@@ -1,9 +1,5 @@
 # Bio Necephorus
 
-[[>]]
-
-[[/>]]
-
 Necephorus Livitus is the older brother of Commensus Livitus, who recently died under mysterious circumstances near the bandit forest. Necephorus' father and mother, Parradus and Adinna, were killed several years ago when their villa caught fire, also under mysterious circumstances.
 
 Necephorus left the city a few weeks after the fire, believing he had lost his whole family and unaware that his younger brother had survived. After living several months in Windward, he learned from a travelling Iridian that his brother was alive and had been recruited by the Iridine Legio I. He immediately set out for Iridine, but arrived to find his brother already dead. Given the circumstances of his death, Necephorus has decided to tell only a few people that he was related to the deceased, Commensus's former lover Angl Dawnfyre and his friend Vindictus, until he is able to solve the mystery of his death.

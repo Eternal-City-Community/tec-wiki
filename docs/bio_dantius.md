@@ -1,9 +1,5 @@
 # Bio Dantius
 
-[[>]]
-
-[[/>]]
-
 > My name is Dantius Malius, and I am a Cineran.
 > 
 > Some people hate me because of this fact. I don't blame them. I hate all Cinerans, including myself. The one exception is Irrikus, whom I met after I came to Iridine, and is my one friend.

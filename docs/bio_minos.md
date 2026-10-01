@@ -1,9 +1,5 @@
 # Bio Minos
 
-[[>]]
-
-[[/>]]
-
 Minos was found one night in the back alleys of Iridine when he was very young, covered in blood and passed out. Luckily for him, the people who found him were a kind hearted and took him into their own home. Upon reviving and cleaning the child up, the couple noticed that the boy had cuts and punctures all over his body, which they quickly tended to. When questioned about how he got the wounds, however, could not tell what fate had befallen him. His benefactors dismissed this as a result of shyness and a combination of fear and shock. But Minos never could remember what happened that night, the memory was blocked from his mind.
 
 Through a series of coincidences and blind luck, Minos ended up staying with distant relatives who recognized him. As it turned out, he led a fairly average childhood, always learning and trying to learn new things, as any child would in Iridine, except that for the fact that sometimes his relatives talked in hushed voices around him, then would glance in his direction everyone in a while.

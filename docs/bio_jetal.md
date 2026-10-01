@@ -1,9 +1,5 @@
 # Bio Jetal
 
-[[>]]
-
-[[/>]]
-
 The History of Jetal Tukasto.
 
 Born in Duvaen of the Safelands his parents were noted has the local healers.

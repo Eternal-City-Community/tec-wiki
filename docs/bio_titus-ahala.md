@@ -1,9 +1,5 @@
 # Bio Titus Ahala
 
-[[>]]
-
-[[/>]]
-
 **Titus Ahala - Member of the Council of Elders**
 
 **Member of the [Sect of the Bright Hope](/cult-of-ereal/#BrightHope)** 

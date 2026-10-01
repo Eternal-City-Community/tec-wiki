@@ -1,9 +1,5 @@
 # Bio Seraphus
 
-[[>]]
-
-[[/>]]
-
 I am thankful that I can still see their faces....they never fade from my memory, and I know without a shadow of doubt they never will...but their faces are a pleaure..the happenings on that faithful day, however, will plague me until the day I shuffle of this mortality....
 Imagine if you will a young girl upon her father's knee...he is teaching her about life by sitting upon a mountain top and watching the sun-set...he teaches her by the very face of heaven how all things work together...than as they walk hand in hand to the cozy place they called home, she is greeted by her dear mother, who will braid her hair and whisper in her ear about the woman she will become and of the pride she has given so many...
 Later in the day she would take a trip down a narrow dirt road to see Misela, the village healer, and learn what little she could from those old hands that worked wonders on the afflicted bodies of warriors and heros....

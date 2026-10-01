@@ -1,9 +1,5 @@
 # Bio Govan
 
-[[>]]
-
-[[/>]]
-
 Govan was a Daughter of Altene.
 
 Eldest child and only daughter of Celinia of Gadaene, and Aren of Altene, she grew up in a loving merchant environment.

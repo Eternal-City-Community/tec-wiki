@@ -1,9 +1,5 @@
 # Bio Meefan
 
-[[>]]
-
-[[/>]]
-
 In children, one may find a natural order. Some lead, some follow... and some march to the sound of the drums that no one is playing. Of these few, Meefan found himself counted. Meefan was a strange boy born into a normal-enough household: his mother a homemaker, his father a loyal member of the Legio.
 
 Growing up, he was not as strong, nor as fast, not as 'smart' - at least, as most people define smart, for his thoughts were not as most men think - as some of the other boys. Further, he was less ambitious than most boys - he was content to think his own thoughts, to ponder, until something happened that he felt warranted a response. He did talk - almost overmuch - when queried - it was simply that his words were... odd, somehow, as though the thoughts he expressed were produced by a mind founded on different principles.

@@ -1,9 +1,5 @@
 # Bio Methodios
 
-[[>]]
-
-[[/>]]
-
 ## Methodios Callias
 
 Born on the 15th day of Invex YR 245, Methodios Callias is, for lack of a better term, a bastard. Born out of a fling between an Iridinian emissary and his mother (a Lioness at the time) he was raised as a child of both worlds. Though he never knew his father, his mother, Enerta, gave him an Iridinian name and raised him under the finest principles of Altene society. His predicament resulted in few friends and a wanderlust to leave his island home and visit the nation he had heard so much about.

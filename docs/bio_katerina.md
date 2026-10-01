@@ -1,9 +1,5 @@
 # Bio Katerina
 
-[[>]]
-
-[[/>]]
-
 I grew up with my parents in the city of Iridine. My mother, Ranea, and my father, Lonel, were caring people who raised me the best they knew how. I grew up learning about Ereal, and fearing Ravan. Daily meditations and prayer were a part of my life.
 
 One cold evening, in the 201st year of the Republic, Lonel fell ill. Ranea stayed by his bedside constantly. One day a raven visited my home, cursing my mother with Ravan's touch. In a fit of rage Ranea killed my father, and accused me of being Ravan-spawned. Then she returned to herself, and told me to run. I ran, and never saw her again.

@@ -1,9 +1,5 @@
 # Bio Valtorn
 
-[[>]]
-
-[[/>]]
-
 My life has always been a hard one… I was born of a strange family; my mother was pure-blood Altene, and my father of equally-pure Iridinian blood. My mother's name was Tzigone Shilmarae, and she had come from a strong mercenary-soldering family. My father was Zaknafein Do'Urden, he was also of a strong soldering family, he was an officer in service of the Republic. I also had and Elder brother by the name of Gorgontis.
 
 While my Father would be off on his duties, me and my Elder brother would stay at home with our mother, and she would educate us in the ways of Altene that we lost anywhere else in the Republic. Me and my Elder brother were very close to our mother, and her loss from us was grievious. It happened when I was aged at 5 years old, still too young to get much understanding of the world around me and its principles. I had noticed that my mother was starting to get a bit larger then she was normally, and of course, my childish curiosity put itself into play, so I asked my Elder brother what it meant.. I remember the conversation that changed my life perfectly:

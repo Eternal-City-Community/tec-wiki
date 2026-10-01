@@ -1,9 +1,5 @@
 # Bio Robus
 
-[[>]]
-
-[[/>]]
-
 Robus Silli 
 Citizen of Iridine 20 years old 
 5' 5" in height 

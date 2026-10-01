@@ -1,9 +1,5 @@
 # Bio Malik
 
-[[>]]
-
-[[/>]]
-
 Born in the early morning before the sun could bear witness, his birth was too much for his already frail Cineran mother. She died with a sigh of relief on her lips. The only name given to him--Dukat--was an ancient one, his father's clan name. His father having been killed months earlier in a raid on the small town of Blackvine, he was raised by a cruel and selfish grandmother. As the smallest of the children, he quickly learned to avoid upsetting his overbearing elders. Years of hard labor and vigorous training shaped him into a slim but strong young man. He hid his intelligence and natural creativity, wisely avoiding being picked for combat duty. With little else to do, he was assigned the menial task of guarding prisoners. There he got his first real taste of the outside world. It was serving food one night that he met a small wrinkled man of the far east. He called himself Yumemiri Hito and his teachings would soon change young Dukat's life.
 
 Hito knew many things and rare was the night not spent talking late into the the darkness. Hito taught Dukat how to read and write in a variety of languages and also about nature, the stars, and meditation. Hito seemed to have a sense of the future, a prophetic vision. He called Dukate "Corvus," the crow, because his future was black with uncertainty. This he added to his name with another, Malik, which Hito explained meant "Guardian" in an ancient tongue.

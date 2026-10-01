@@ -1,9 +1,5 @@
 # Bio Illabrat
 
-[[>]]
-
-[[/>]]
-
 Spent eighteen years watching my father heal people so reckon it's no surprise I learnt the way as well. He travelled some before settling in Tuchea, originally from Iridine. Once there he set to moving around and healing folk in poorer areas, squalid fishing towns mainly. Was in one of these places he met my mother, and where I and my brother spent most our childhood and adolescence.
 
 Can't remember when it started, really. Began taking things from the patients. Small things. A child is easily overlooked and a child with a small trinket hidden in his bunched-up hand is just as easy to miss. Father's patients were poor, mainly, spending their savings for some procedure he could provide. I managed to collect whatever was shiny or ornamental, getting rid of it not long after so I wouldn't be found out.

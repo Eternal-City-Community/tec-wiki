@@ -1,9 +1,5 @@
 # Bio Dragaxus
 
-[[>]]
-
-[[/>]]
-
 ## Dragaxus
 
 ### Homeland

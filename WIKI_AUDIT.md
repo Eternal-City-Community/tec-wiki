@@ -11,4 +11,4 @@
 - Pages with leftover Wikidot table syntax: **0**
 - Pages with leftover Wikidot heading syntax: **0**
 - Pages with leftover Wikidot escape markers: **1**
-- Pages with leftover Wikidot markup blocks: **321**
+- Pages with leftover Wikidot markup blocks: **18**

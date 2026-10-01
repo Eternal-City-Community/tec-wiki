@@ -1,8 +1,5 @@
 # Bio Ielios Pardelian
 
-[[>]]
-
-[[/>]]
 ## Ielios Pardelian
 *(Taken from forum posting by Bactrian)*
 A centurion named Pardelian served for over a decade in the constant wars of King Quintus the Marauder (105-136 EK) against the Parcines barbarians. After watching for ten years the generally discipline-less conduct of both the barbarians and Legio, he took it upon himself to begin instilling a fresh sense of discipline in his men. His discipline was not attractive - he is rumored to have been the first to have decimated his own men, though that remains unsubstantiated - but effective, and despite his sterness and, perhaps, cruelty, men clamored to be assigned under him. The reason was simple - despite active duty against the Parcines, his men survived engagement after engagement at a rate unheard of in other centuries.

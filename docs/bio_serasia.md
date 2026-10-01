@@ -1,9 +1,5 @@
 # Bio Serasia
 
-[[>]]
-
-[[/>]]
-
 She pushes a strand of lazy ebony hair out of her eye as she looks up to the white stone balcony where her father, Ophanis Sans Lotus, and mother, Delrana Boes Lotus, reclined on delicately carved and embroidered chaise loungers. Squinting her eye against the sun she made out the form of the servant girl, Geras, handing her mother a bronze cup. 'Perhaps filled with fig wine' she thought to herself.
 'Serasia!....Child where are you? You know well that it is not nice to lead an old woman on so!'
 She blinked and chewed on her lower lip, the familiar voice of her nurse Resa disturbing her lost gaze.

@@ -1,9 +1,5 @@
 # Bio Grath
 
-[[>]]
-
-[[/>]]
-
 Grath was born in the year 202, and was the first and only child of Tarlu and Mourya Sethyel. He was born late - in fact, his parents were both in their early fifties when he was concieved and had never expected a child. They were overjoyed when they learned that Mourya was pregnant, and thought of it as the greatest possible gift from Ereal.
 
 However, there were difficulties associated with the birth and Mourya was so greatly weakened that she passed from the living within a few short weeks of giving birth. Tarlu was grief-stricken, but nevertheless managed to do a decent job in brining up Grath. His childhood was fairly average, although he was an extremely active and adventurous youth who often went off in search of new places to explore. However, in his tenth year, Grath's life took a drastic turn for the worse.

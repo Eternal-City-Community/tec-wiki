@@ -1,9 +1,5 @@
 # Bio Vanir
 
-[[>]]
-
-[[/>]]
-
 Vanir Veruna is the result of the marriage between Keyon Veruna, an Altene bodyguard of the Tuchean king and and Nina Ornak, an Iridinean healer, who worked in the court of the king. Vanir was born at the 3rd day of Scran in the 200th year of the Republic, in Altene, and he was raised there. His father retired not long after Vanirs birth, and taught him how to wield the stave when he got old enough. At the age of 12, Vanir found out a terrible secret, his father had been having an affair with another woman for 10 years, and he had another son. His name was Tarrim, and he was about the same age as Vanir. Keyon was given a choice: either Vanirs mother, or Tarrim's mother. He chose the second one.
 
 Vanir and his mother left Altene, and headed for Iridine. They were both sad and mad at the same time, but they got over it while travelling. 'Iridine is the best place to become someone,' Vanirs mother said. 'It's a place were different people of different countries and cultures meet.'

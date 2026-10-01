@@ -1,9 +1,5 @@
 # Bio Jacob
 
-[[>]]
-
-[[/>]]
-
 My life was a series of painful sorrows. From these sorrows, I developed a side of myself that few have seen . . . my insanity.
 
 When I was only 7 years old, my father, Sir Arthur Winks, was sent out on a very routine mission (for he was involved in the local militia) where he was to deliver some well needed supplies to a neighboring village. But he never returned. The Cinerans murdered him when they raided his caravan. After the loss of my father, I developed a sort of . . . disease . . . a disease of the mind . . . because of my unbearable hate for the Cinerans. I obsessed about the Cinerans for years; teaching myself the trade of my father, the stave, so that I may one day avenge my father's death. To this day, I have never found the most sacred item in my father's life that the Cineran's stole that dreadful night; his stave.

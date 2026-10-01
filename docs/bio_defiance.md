@@ -1,9 +1,5 @@
 # Bio Defiance
 
-[[>]]
-
-[[/>]]
-
 The middle child in a family of three Ofdeath youth, Defiance lived a typical Iridinian childhood. She was a curious child, always questioning the inner workings of her world.
 
 Her older sister died when Defiance was four, causing her mother endless grief, and Defiance was usually ignored because of it. Feeling pity for his remaining daugher, Defiance's father took the girl on as a student, teaching her from his small library of texts and his own knowledge. She turned out to be a willing and able student, and cherished the time with her patriarch and mentor.

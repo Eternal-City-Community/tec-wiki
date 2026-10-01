@@ -1,9 +1,5 @@
 # Bio Lana
 
-[[>]]
-
-[[/>]]
-
 > "You see a comely woman with a lush, curvaceous figure. She has alluring blue eyes set above a thin nose and full moist lips in a gental fair face. Her wavy red hair flows in a vibrant wave down to her waist."
 
 Lana grew up in the land of Parcines and was a very helpful little girl. She was very generous, kind, and flirtatious. She loves a challenge, but isn't really smart. Her parents, Lance and Ella Croft were upper-class members if the Parcine society and they always spoiled Lana. When she was 16, she was attacked and locked in a small shack by a hoodlum that was never identified. She was there for a whole week before some one finally heard her cries and called a locksmith to get her out. After that, she has always had much disdain toward those who hide their faces. But another consequence of her kidnapping was that she had found a trade she wanted to follow. She was soon apprenticed to the master locksmith and she spent long hours studying and becoming more and more familiar with the life of a locksmith. After a year of study, she had become a very basic locksmith, but soon learned that her business was not needed by many in her country, so she studied a few other occupations. Tired of life in the mountains, she decided to head for greener pastures, or at least, Iridine. She took a few of her things, and her parents gave her a talent to start off her life in the new land. She wandered Iridine as a nobody for the first year she was in the city, and then decided to again take up locksmithing. She studied hard and long into the night, and finally became proficient. She joined the Locksmiths Guild and subsequently became the first [as far as I know] to get her fingernails inked in Guild fashion. She has befriended many of the citizens of Iridine, and is Wirrut's "favorite locksmith ." She spends much of her time in Apula's or just wandering around looking for a little mischief.

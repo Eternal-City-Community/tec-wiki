@@ -1,9 +1,5 @@
 # Bio Fik
 
-[[>]]
-
-[[/>]]
-
 *"Wake up Fik! You've been sleeping WAY too long!"*
 *"Tuk?! I thought y--*
 *"Don't be silly! We're together FOREVER!"*

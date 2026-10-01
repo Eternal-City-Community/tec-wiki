@@ -1,9 +1,5 @@
 # Bio Carlos
 
-[[>]]
-
-[[/>]]
-
 **Thunder and lightning is heard outside the house…**
 *Inside and a discussion is held…*
 

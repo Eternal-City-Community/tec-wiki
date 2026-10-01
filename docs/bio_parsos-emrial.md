@@ -1,8 +1,5 @@
 # Bio Parsos Emrial
 
-[[>]]
-
-[[/>]]
 ## Parsos Emrial - 6^^th^^ King of Iridine
 
 **Parsos Emrial: (201-213)**
