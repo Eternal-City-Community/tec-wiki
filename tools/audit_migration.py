@@ -34,7 +34,6 @@ for rel, path in files.items():
     if "eternal-city.wikidot.com" in text:
         wikidot_links.append(rel)
     checks = {
-        "wikidot_table": r"\|\|",
         "wikidot_heading": r"^\+{1,6}\*?\s",
         "wikidot_escape": r"@@",
         "wikidot_markup": r"\[\[(?!/?(?:details|summary))",
@@ -43,6 +42,8 @@ for rel, path in files.items():
     for key, pat in checks.items():
         if re.search(pat, text, re.M):
             syntax_pages[key].append(rel)
+    if "||" in text and "<script" not in text.lower():
+        syntax_pages["wikidot_table"].append(rel)
 
     for href in link_re.findall(text):
         href = href.strip()
