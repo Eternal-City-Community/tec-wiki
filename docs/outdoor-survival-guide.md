@@ -5,7 +5,6 @@ category: "Guides & Commands"
 
 # Outdoor Survival Guide
 
-## Outdoor Survival Guide *(in progress)*
 
 Below you'll find everything important to know about [Outdoor Survival](/outdoor-survival/).
 
