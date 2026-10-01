@@ -67,8 +67,8 @@ function initTecTool() {
       '</div>' +
       '<div class="tec-rb-body">' +
         '<div class="tec-rb-inputs">' +
-          '<input id="tec-rb-basics" type="number" min="0" inputmode="numeric" placeholder="Basics rank..." aria-label="Basics rank">' +
-          '<input id="tec-rb-sub" type="number" min="0" inputmode="numeric" placeholder="Subskill rank..." aria-label="Subskill rank">' +
+          '<input id="tec-rb-basics" type="number" min="0" inputmode="numeric" value="10" placeholder="Basics rank..." aria-label="Basics rank">' +
+          '<input id="tec-rb-sub" type="number" min="0" inputmode="numeric" value="1" placeholder="Subskill rank..." aria-label="Subskill rank">' +
         '</div>' +
         '<div class="tec-rb-results-wrap"><table class="tec-rb-results"><thead></thead><tbody></tbody></table></div>' +
       '</div>' +
