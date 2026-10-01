@@ -314,6 +314,90 @@ input.mod-buttons-btn {
   /*box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);*/
 }
 
+
+
+@media (max-width: 600px) {
+  .tcc-calculator {
+    margin-top: .6rem;
+  }
+
+  .tcc-panel {
+    padding: 10px;
+    border-radius: 6px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .tcc-panel h3 {
+    font-size: .95rem;
+    margin-bottom: 12px;
+  }
+
+  table.tcc-inputs {
+    font-size: 16px;
+  }
+
+  table.tcc-inputs tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 5.25rem;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+
+  table.tcc-inputs tr td {
+    padding: 0;
+  }
+
+  table.tcc-inputs tr td input {
+    width: 100%;
+    min-height: 44px;
+    font-size: 16px;
+    box-sizing: border-box;
+  }
+
+  table.mod-buttons-table {
+    min-width: 0;
+    font-size: .8rem;
+    text-align: left;
+  }
+
+  table.mod-buttons-table tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 6px;
+  }
+
+  table.mod-buttons-table td {
+    padding: 3px 0 !important;
+  }
+
+  input.mod-buttons-btn {
+    min-width: 4rem;
+    min-height: 40px;
+    padding: 7px 10px;
+    font-size: 15px;
+  }
+
+  table.tcc-npc-cost {
+    min-width: 19rem;
+  }
+
+  table.tcc-sp-cost {
+    min-width: 34rem;
+  }
+
+  table.tcc-npc-cost input,
+  table.tcc-sp-cost input {
+    font-size: 15px;
+  }
+
+  .tcc-notes {
+    font-size: .78rem;
+  }
+}
+
 </style>
 
 
