@@ -71,26 +71,59 @@ Text formatted as **{{<text>}}** is required and **{{[text]}}** is optional.
 
 <style>
 #command-table {
-	color:#5B5B52;
-	text-align:left;
-	border-collapse:collapse;
+    width: min(100%, 1100px);
+    color: #322e1e;
+    text-align: left;
+    border-collapse: collapse;
+    border: 1px solid #77735e;
+    background: #f8f3df;
 }
 
 #command-table tr {
-	border: 1px solid silver;
+    border-bottom: 1px solid #aaa38a;
+}
+
+#command-table tr:nth-child(even) td {
+    background: #eee7cc;
 }
 
 #command-table th {
-	max-width:300px;
-	background-color: #DDDDAA;
-    border: 1px solid #888888;
-    padding: 10px;
+    width: 250px;
+    max-width: 300px;
+    background: #58602f;
+    color: #fffdf4;
+    border: 1px solid #4d5229;
+    padding: 8px 10px;
+    font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+    font-weight: 700;
+    vertical-align: top;
 }
 
 #command-table td {
-    background-color: #EDEDED;
-    border: 1px solid #888888;
-    padding: 4px;
+    background: #f8f3df;
+    color: #322e1e;
+    border: 1px solid #aaa38a;
+    padding: 7px 10px;
+    vertical-align: top;
+}
+
+#command-table code {
+    background: #e2dbba;
+    color: #2f381b;
+    border: 1px solid #b7ae8d;
+    border-radius: 3px;
+    padding: 1px 4px;
+}
+
+#command-table b,
+#command-table strong {
+    color: #25320f;
+}
+
+@media (max-width: 700px) {
+    #command-table th {
+        width: 180px;
+    }
 }
 
 </style>
