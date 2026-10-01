@@ -25,11 +25,8 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 | [2H Crushing Stepping Smash](#ssmash) | Average | 2 | Either | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Defensive Bash](#dbash) | Difficult | 2 | Short | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Head Crusher](#hcrush) | Difficult | 2 | Short | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
-| [2H Crushing Whirling Smash](#wsmash) | Difficult | 2 | Either | Bruise _ |  |  |  |
-
-Bruise ||= [2H Crushing Smasher Stance](#Stance) ||= 250 ||= 500
+| [2H Crushing Whirling Smash](#wsmash) | Difficult | 2 | Either | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Feint](#feint) | Average | 2 | Either | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | [2H Crushing Crossing Block](#cblock) | Easy | 2 | - | - | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Haft Block](#hblock) | Average | 2 | - | - | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Head Block](#heblock) | Difficult | 2 | - | - | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
@@ -37,8 +34,8 @@ Bruise ||= [2H Crushing Smasher Stance](#Stance) ||= 250 ||= 500
 | [2H Crushing Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 |
 | [2H Crushing Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 |
 
-**Directions to Krindalus** ([Vetallun](/vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, W, W, S
-**Directions to A short sturdy man** ([Blackvine](/blackvine/)): Walk to Blackvine, S, SE, E, E, E, E, S, S, S, S, S
+**Directions to Krindalus** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, W, W, S
+**Directions to A short sturdy man** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, E, E, E, E, S, S, S, S, S
 
 
 #### Notes on Learning
@@ -374,7 +371,7 @@ You use the head of your tin war hammer to knock aside the attack with a brute-f
 
 ### 2H Crushing Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](http://eternal-city.wikidot.com/stats#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -383,6 +380,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### 2H Crushing Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](http://eternal-city.wikidot.com/stats#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*
