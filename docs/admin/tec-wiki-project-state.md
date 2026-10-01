@@ -142,6 +142,19 @@ Confirmed from user testing / GM clarification:
 - This forces a clean Zensical rebuild immediately before Wrangler uploads `./site`, avoiding stale Zensical build state in CI.
 - Commit: `77823450ed5d163297260ca1614fbbea02741880`
 
+
+
+### Known-good rollback: Pickpocketing and Outdoor Survival
+
+- On 2026-10-01, repeated render/deploy repair attempts caused unstable behavior for `/pickpocketing/` and `/outdoor-survival/`.
+- User requested both pages be restored to the last known-good repository state from roughly four hours earlier.
+- Exact restore source: repository commit `3b788f91219135ef523973d93cababa2a3df8789`, the parent state immediately before the later anchor-repair changes affecting these files.
+- `docs/outdoor-survival.md` restored byte-for-byte to blob `f0d7a0880c8e6b2eb12454e319342be5f07826d6`.
+  - Restore commit: `30fe754bd27cd4ec2557ffdf4f445b0c0008e9fe`
+- `docs/pickpocketing.md` restored byte-for-byte to blob `e85cb0c8c157c100350e9b939bd78eb27197b54f`.
+  - Restore commit: `e2da0f673dc256a277a59124632a2186ecf944ff`
+- Do not reapply the prior page-specific rendering/anchor edits to these two pages unless a specific root cause is verified first.
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
