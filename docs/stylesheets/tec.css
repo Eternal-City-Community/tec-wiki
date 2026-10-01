@@ -1479,3 +1479,55 @@ html, body {
     margin-left: .3rem;
   }
 }
+
+
+/* Stats page */
+.stats-page > h3 {
+  margin-top: 1.45rem;
+  padding: .32rem .55rem;
+  border-bottom: 2px solid #566126;
+  background: rgba(104,109,55,.10);
+  color: #39461f;
+}
+
+.stats-page .tec-stat-card {
+  margin: .8rem 0 .9rem .8rem;
+  border: 1px solid #aaa38a;
+  border-radius: 7px;
+  overflow: hidden;
+  background: rgba(248,243,223,.84);
+}
+
+.stats-page .tec-stat-card > h4 {
+  margin: 0;
+  padding: .42rem .65rem;
+  border-bottom: 1px solid #aaa38a;
+  background: rgba(226,219,186,.96);
+  color: #39461f;
+  font-size: .78rem;
+}
+
+.stats-page .tec-stat-card > p,
+.stats-page .tec-stat-card > ul {
+  margin-left: .7rem;
+  margin-right: .7rem;
+}
+
+.stats-page .tec-stat-card > p:first-of-type {
+  margin-top: .6rem;
+}
+
+.stats-page .tec-stat-card > p:last-child,
+.stats-page .tec-stat-card > ul:last-child {
+  margin-bottom: .65rem;
+}
+
+.stats-page table {
+  max-width: 720px;
+}
+
+@media (max-width: 700px) {
+  .stats-page .tec-stat-card {
+    margin-left: .25rem;
+  }
+}
