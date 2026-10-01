@@ -61,3 +61,4 @@ extra_javascript:
   - javascripts/tec-money-calculator.js
   - javascripts/tec-national-lores.js
   - javascripts/tec-stats.js
+  - javascripts/tec-shops.js
