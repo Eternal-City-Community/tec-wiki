@@ -12,8 +12,8 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 [Eastern Grasslands and Woods](/eastern-grasslands-and-woods/)
 [Black Hand Caverns](/black-hand-caverns/)
 [Monlon](/monlon/)
-[Vetallun](/vetallun/)
-[Franlius](/franlius/)
+[Vetallun](/town-of-vetallun/)
+[Franlius](/town-of-franlius/)
 
 
 **Guide**

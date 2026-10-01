@@ -14,5 +14,5 @@ This map is very large. Depending on your zoom level and display size, you may t
 * [Monlon Rockslide](/monlon-rockslide/)
 * [Monlon Ravines](/monlon-ravines/)
  * [Kelestian Outpost](/monlon-kelestian-outpost/)
-* [Seld](/seld/) (via Ferry)
-* [Vetallun](/vetallun/) (via Ferry, after it reaches Seld)
+* [Seld](/village-of-seld/) (via Ferry)
+* [Vetallun](/town-of-vetallun/) (via Ferry, after it reaches Seld)

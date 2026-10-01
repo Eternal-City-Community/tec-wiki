@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Govan was a Daughter of Altene.

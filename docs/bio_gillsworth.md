@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 You walk through the entrance to the gardens. Instantly, the sweet aroma of flowers, the songs of birds, and luscious green of trees and plants overtake your senses. You feel complete euphoria envelope you as your leisurely stride takes you around the path.

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I was born the last child of a family of 5 in the woodlands of Altene. My father Ranbe Ronin and my mother Lala Ronin both grew up learning the peacful ways of woodland skills, they passed the traid on to my 2 sisters,my 2 brothers and I. As a hobby we practiced staves, after all our chores were completed. Every day we were to scavange the woods for saplings, and bring them home so our father and mother could carve and make things out of the wood, usually we put a couple of twigs on the side for our own amusement.

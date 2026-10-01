@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Benignus is usually a quiet and intelligent person, but at times, a little too trusting. His faith in Ereal has been ardent throughout his life but has not always been open about his faith. His family was poor and lived in the Steps. Life was hard, so his parents made him get a job as a messenger, running from one place to another delivering messages for various people. He tired easily, but made it from place to place like lightning.

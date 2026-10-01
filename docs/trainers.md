@@ -38,33 +38,33 @@ For more detailed information about what the trainers teach, visit the [skills](
 
 ##### Vetallun:
 * Fefellus: ([Locksmithing](/locksmithing/))
- * Directions to Fefellus ([Vetallun](/vetallun/) #11): Walk to Vetallun Road, Walk to Vetallun Crossroads, Wx2, Sx1, Ex1
+ * Directions to Fefellus ([Vetallun](/town-of-vetallun/) #11): Walk to Vetallun Road, Walk to Vetallun Crossroads, Wx2, Sx1, Ex1
 * Fern: ([Archery](/missile-weapons-bows/), [Hunting](/hunting/), [Outdoor Survival](/outdoor-survival/))
- * Directions to Fern ([Vetallun](/vetallun/) #17): walk to Vetallun Road, walk to Vetallun Crossroads, S, W
+ * Directions to Fern ([Vetallun](/town-of-vetallun/) #17): walk to Vetallun Road, walk to Vetallun Crossroads, S, W
 * Regul: ([Spears](/spears/))
- * Directions to Regul ([Vetallun](/vetallun/) #4): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, Nx3, Wx5, S, W
+ * Directions to Regul ([Vetallun](/town-of-vetallun/) #4): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, Nx3, Wx5, S, W
 
 ##### Blackvine:
 * Circiana: ([Tailoring](/tailoring/))
- * Directions to Circiana ([Blackvine](/blackvine/) #20):
+ * Directions to Circiana ([Blackvine](/village-of-blackvine/) #20):
 * Dreggo: ([Avros Gladius Combat](/avros-one-handed-swords/), [Knives](/knives/))
- * Directions to Dreggo ([Blackvine](/blackvine/) #19): Walk to Blackvine, Ex4, Sx6
+ * Directions to Dreggo ([Blackvine](/village-of-blackvine/) #19): Walk to Blackvine, Ex4, Sx6
 * Cula: ([One-handed Swords](/one-handed-swords/), [Shields](/shields/))
- * Directions to Cula ([Blackvine](/blackvine/) #25): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, S, SE, Ex9, Sx2, E, S
+ * Directions to Cula ([Blackvine](/village-of-blackvine/) #25): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, S, SE, Ex9, Sx2, E, S
 * Cralus: ([One-Handed Crushing](/one-handed-crushing/), [Combat Maneuvers](/combat-maneuvers/), [Shields](/shields/)):
- * Directions to Cralus ([Blackvine](/blackvine/) #18): Walk to Vetallun Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
+ * Directions to Cralus ([Blackvine](/village-of-blackvine/) #18): Walk to Vetallun Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
 * Fetidus: ([Knives](/knives/))
- * Directions to Fetidus ([Blackvine](/blackvine/) #27):
+ * Directions to Fetidus ([Blackvine](/village-of-blackvine/) #27):
 * Ititia: ([Locksmithing](/locksmithing/))
- * Directions to Ititia ([Blackvine](/blackvine/) #28): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Sx1, SEx1, Ex4, Sx4, Ex2, Sx1
+ * Directions to Ititia ([Blackvine](/village-of-blackvine/) #28): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Sx1, SEx1, Ex4, Sx4, Ex2, Sx1
 
 ##### Franlius:
 * A haggard one-legged soldier:
  * Directions to soldier:
 * Tullaria: ([Healing](/healing/))
- * Directions to Tullaria ([Franlius](/franlius/) #8): Take the ship to Franlius, Ex12, N
+ * Directions to Tullaria ([Franlius](/town-of-franlius/) #8): Take the ship to Franlius, Ex12, N
 * Vitrus: ([Knives](/knives/), [Cineran Knife Fighting (Knives)](/cineran-knife-fighting-knives/))
- * Directions to Vitrus ([Franlius](/franlius/) #2): Take the ship to Franlius,
+ * Directions to Vitrus ([Franlius](/town-of-franlius/) #2): Take the ship to Franlius,
 
 ##### Monlon:
 * Cipus: ([Healing](/healing/))
@@ -88,7 +88,7 @@ For more detailed information about what the trainers teach, visit the [skills](
 * Hatrin: ([Knives](/knives/))
  * Directions to Hatrin ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, N, W  
 * Hroth: ([Two-handed Axes](/two-handed-axes/), [One-Handed Axes](/one-handed-axes/), [Combat Maneuvers](/combat-maneuvers/), [Shields](/shields/))
- * Directions to Hroth ([Stromheim](/stromheim/)): Travel to Stromheim through the Rock Valley wilderness.
+ * Directions to Hroth ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the Rock Valley wilderness.
 * Kerta: ([One-Handed Axes](/one-handed-axes/))
  * Directions to Kerta ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, Nx3
 * Majell: ([One-Handed Swords](/one-handed-swords/), [Shields](/shields/))

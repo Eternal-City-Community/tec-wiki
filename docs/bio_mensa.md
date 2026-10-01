@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 You see a short, lank woman sit down in a chair beside you. You strike up a casual conversation over wine, and get to telling her your life story. You ask for hers in return, and she smiles to herself, and replies.

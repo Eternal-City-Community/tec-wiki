@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 On a night many years ago, in the far-off land of Altene, a baby boy was born to proud parents. His father was an accountant in one of Altene's larger cities and his mother, Tuchean by birth, was descended from a great explorer. And as the sun rose that day, the baby boy was given his name: Rodrigo or 'Spirit of the Great Justice' in Altenian tongue.

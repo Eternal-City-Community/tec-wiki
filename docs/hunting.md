@@ -33,16 +33,18 @@ This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoo
 | [Craft Basic Short Bow](#bow) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
 | [Craft Basic Knife](#knife) | Average | - | 60 | 50 | 100 | 125 | 150 |
 | [Craft Basic Axe](#axe) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+
 |  | Hunting Lores |  |  |  |  | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | --- |
 | Lore | Difficulty | Krimalus | Fern | Tauruu | Shantaz | Jarla |
 | [Hunter Tipping Lore](#tipping) | *TBC* | 25 | - | 25 | - | - |
 | [Field Dressing Lore](#fdress) | *TBC* | 25 | - | 25 | - | - |
 
-**Directions to Fern** ([Vetallun](/vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Sx1, Wx1
+**Directions to Fern** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Sx1, Wx1
 **Directions to Krimalus** ([Wilderness](/the-west-grasslands/)): Near the cliffs in the coastal forest north of the Iridine. Krimalus is not a typical trainer, **see [Reputation Guide](/reputation/#Krimalus) for details.**
 **Directions to Tauruu** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx5, Ex1, Nx1, Wx3
-**Directions to Shantaz** ([Seld](/seld/)): Walk to Seld (Town Square), Wx8, N, E 
-**Directions to Jarla** ([Stromheim](/stromheim/)): Travel to Stromheim through the [Rock Valley](/rock-valley/) wilderness.
+**Directions to Shantaz** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Wx8, N, E 
+**Directions to Jarla** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Notes on Learning
 * You can also use Skill Points (SP) from [Outdoor Survival](/outdoor-survival/) to learn Hunting.
@@ -88,11 +90,8 @@ Higher ranks in this skill allow you to create higher quality snares, which last
 | Rank 10 | ?? |
 | Rank 20 | ?? |
 | Rank 30 | ?? |
-| Rank 40 | slightly below-average _ |
-
-**average**
+| Rank 40 | slightly below-average<br><br>**average** |
 | Rank 50 | **average** |
-| --- | --- |
 | Rank 60 | ?? |
 | Rank 70 | ?? |
 | Rank 80 | ?? |
@@ -319,21 +318,10 @@ With a rib, antler, horn, or large fang in one hand, and a whet stone in another
 
 |  | knife description prefixes | "inspect" quality | knife weight |
 | --- | --- | --- | --- |
-| Rank 1 | rough _ |  |  |
-
-primitive (no cordage) || poor || 0.9 lbs
-| Rank 10 | rough _ |
-| --- | --- |
-
-simple _
-primitive (no cordage)  || average || 0.9 lbs
-| Rank 20 | simple _ |
-| --- | --- |
-
-primitive (no cordage) || average _
-fairly good || 0.9 lbs
+| Rank 1 | rough<br><br>primitive (no cordage) | poor | 0.9 lbs |
+| Rank 10 | rough<br><br>simple<br><br>primitive (no cordage) | average | 0.9 lbs |
+| Rank 20 | simple<br><br>primitive (no cordage) | average<br><br>fairly good | 0.9 lbs |
 | Rank 30 |  |  |  |
-| --- | --- | --- | --- |
 | Rank 40 |  |  |  |
 | Rank 50 |  |  |  |
 | Rank 60 |  |  |  |
@@ -374,6 +362,7 @@ Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or
 | Rank 100 |  |  |  |
 | Rank 110 |  |  |  |
 
+
 </details>
 
 
@@ -394,7 +383,7 @@ This command allows you to attach arrowheads, spikes, or other objects to the ti
 *To fasten claws or other spikes like stone or boneshard arrowheads to a club, simply bind the spikes with cordage of some kind, align the base of the spikes to the club's head, and tie the cordage around the striking end tightly so that all spikes are evenly spaced apart and point straight outwards.*
 
 
-Note: In some cases, if you have enough knowledge about crafting and you're proficient in using the weapon that you're fastening something to, you don't need to learn this lore from a trainer - you will know about it innately (see [Tale's forum post](http://forum.skotos.net/showpost.php?p=1045042&postcount=2) for details).
+Note: In some cases, if you have enough knowledge about crafting and you're proficient in using the weapon that you're fastening something to, you don't need to learn this lore from a trainer - you will know about it innately (see [Tale's forum post](https://forum.skotos.net/showpost.php?p=1045042&postcount=2) for details).
 
 
 <a id="fdress"></a>

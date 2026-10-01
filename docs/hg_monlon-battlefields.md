@@ -19,8 +19,19 @@ Keep in mind that going too deep can get you captured in the Kelestian prison.
 * A functional and dynamic **[reputation#Monlon](/reputation/#Monlon)** system.
 
 
-!!! note "Migrated include"
-    This page originally included `monlon-battlefield` on Wikidot. The transcluded content still needs review.
+[!-- 
+Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
+
+This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
+ --]
+
+[![](https://eternal-city.wdfiles.com/local--files/files/Monlon-battlefield_updated101217.gif)](https://eternal-city.wdfiles.com/local--files/files/Monlon-battlefield_updated101217.gif)
+
+
+**Related maps**
+[Monlon Ravines](/monlon-ravines/)
+[Ravines Kelestian Outpost](/monlon-kelestian-outpost/)
+[City of Monlon](/city-of-monlon/)
 
 
 <a id="Tiers"></a>
@@ -76,7 +87,7 @@ TBC
 
 * **Kelestian Contemplative *([Staves](/staves/))*:** TBC...
 
-* **Kelestian Menace *([Slings](/slings/))*:** TBC...
+* **Kelestian Menace *([Slings](/sling/))*:** TBC...
 
 * **Kelestian Ascetic *([Chainblade](/chainblade/) & [Brawling](/brawling/))*:**
 

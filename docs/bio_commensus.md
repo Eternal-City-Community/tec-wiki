@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Parradus and Adinna Livitus became the proud parents of Commensus in the 197th year of the Republic. Parradus, who died in 216, had held a number of important positions in the city, having eventually risen to the rank of Senator. Adinna, who died at the same time, was a kind mother and a well-known healer. They both perished in a fire that burned down their villa and left their son destitute and alone. His youngest sister and older brother are missing and are presumed to have died in the fire, as well, though their bodies have not been recovered. The cause of the fire was never discovered, although many have speculated that it was arson, perhaps committed by Ravanites or a member of the undone in retaliation for Parradus' well-known campaign to rid the city of the moon-worshippers.

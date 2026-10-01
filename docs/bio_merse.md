@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 **a man sits here absently flipping a coin, as you take a seat he tells you about himself**

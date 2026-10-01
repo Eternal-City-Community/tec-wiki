@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Brash, Arrogant, and very Concited, Machus went from the life of luxury to Rock bottom. Machus was born the son of wealthy parents in Altene. He lived in a beautiful Domus, had Servants all over, and got what he wanted, except the love and attention from his parents. His Mother and Father sheltered him from everything, and they gave Machus's sister the world. Not allowing him to fight, and for the most part, not giving him any attention, Machus grew to dispise his uncaring and enemotional parents, and ran away from home, never looking back. When he told others his story, many laughed at him for leaving the beautiful home he lived in, and the lavish lifestyle he gave up. Machus went from sleeping in a beautiful domus, to sleeping on the floor, and streets of the towns and cities he passed, begging for food and money. He eventually made his way to Iridine, where he plans to make a permanant living, and show his parents how successful he has become. Machus is always ready to take life on, but underneath that arrogant exterior, lies a child wanting the love and affection from someone.

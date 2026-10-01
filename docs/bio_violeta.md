@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Violeta Orsina was a mere child of seven when she first learned of her past. Her father, Maxorin, was an Aestivan spy who made frequent trips to the surrounding nations to gather information for the Aestivan Army. On a trip to Iridine, he met a young Iridinian woman by the name of Talorina. Although Talorina was a hard-working woman, somehow fate led her to fall into his arms on that nightly encounter. However, when the sun rose the next day, she awoke to an empty bed. Talorina furrowed her brow, but continued to live her life as best as she could, thinking often of Maxorin and cursing her own weakness. A few months later, she bumped into him in the Gaeldine Forum. Her cooly reguarded her, with an arrogant sneer. Distraught and poor, she blurted out to him in a frenzy of words that she was pregnant and broke down in tears before his feet. Quite a few people stopped and stared at the scene as they walked by. Maxorin scowled darkly, aggravated at the sudden attention. He asked her in an unreadable voice when the child was due. She replied softly through mumbled words and trembling lips. He gave her a quick nod, and then with no hesitation vanished back into the crowd from where he had come, leaving her lying in a crying ball upon the streets.

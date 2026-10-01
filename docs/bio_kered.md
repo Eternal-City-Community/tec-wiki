@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 **First Speaker of the Traevant, Champion of Helia, Father to Quail. Defender of the Republic.**

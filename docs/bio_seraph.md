@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born on the 11th Day of Invex, Year of the Republic 199, to Domus Ceris and Lilly (Terryon) Ceris. Current age is 18. My father is a trader and my mother comes of the Terryon fisherfolk trading family. Both come from Windward and moved to Iridine the year before my sister Angelic was born, to take advantage of the trading in its harbor area.

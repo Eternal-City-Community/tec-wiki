@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 **Jarin Seneda - Unofficial head of the Council of Elders and leader of the Revealing Light sect.** 

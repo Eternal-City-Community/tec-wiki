@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Ethren had lived in Iridine since as long as he can remember.His family was of little wealth but had always struggled to live comfortably no matter where they were. His mother was a tailor who was favored by a senator who had admired her works,while his father who was a skilled man but resented his wife's success.This resentment made him bitter to any employer that would take him in and he found it hard to hold a steady job.

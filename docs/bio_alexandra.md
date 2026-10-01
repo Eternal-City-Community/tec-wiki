@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Alexandra was a simple girl with the most "normal" childhood imaginable. Her parents weren't rich, but she didn't lack in any area. Her parents were loving, caring, and kind and she made no enemies. The highlight of her happy days were spending time with Derrick, her best friend. They laughed, raced, ran, and told jokes only adults were supposed to know.

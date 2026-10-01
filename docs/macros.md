@@ -1,6 +1,6 @@
 # Macros
 
-The [help file](/http_-tec.skotos.net_1180-bin-help-help_commands_macros/) states:
+The [help file](https://tec.skotos.net:1180/bin/help?$help_commands_macros) states:
 > One of the biggest most helpful features in this game is the @macro and @mtarg commands. They can be used for many things, from combat, to emoting, to just shortening commands.
 This holds very true. A macro is an alias of a longer command intended to make entry of repetitive input much easier. The game itself offers the most commonly used system for applying macros. The Zealotry based client provides its own means of setting macros. Both will be covered below.  
 The macros provided by Zealotry are significantly more powerful than those provided by the game. They provide the following advantages over the in game system:
@@ -11,7 +11,7 @@ However, they are not easily switched on the fly, requiring a client restart to 
 
 ### Useful Macros Guides:
 
-- [Macros for Thieves](/http_-eternal-city.wikidot.com-useful-macros-for-thieves/)
+- [Macros for Thieves](/useful-macros-for-thieves/)
 
 ### Game Based Macros
 This is menu driven in game. To start use the {{@macro}} command, which will present this menu:
@@ -56,12 +56,12 @@ The {{I}} option allows copying a macro set from from character to another. Thus
 ### Zealotry Client
 It is highly recommended that you use Zealotry for Firefox.
 
-[Originally Posted Here by Rythgen and Roast](/http_-forum.skotos.net-forum-our-games-the-eternal-city-eternal-city-administrivia-94023-macro-s-for-zealotry/)
+[Originally Posted Here by Rythgen and Roast](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-administrivia/94023-macro-s-for-zealotry)
 
 Install/open Zealotry, in the top bar click Options > Preferences > Macros. In that text field is where you'll create your macros. It's done like this:
 
 
-```
+~~~
 CONFIG WRITE
 MACRO ADD r retreat
 MACRO ADD g guard %1
@@ -73,7 +73,7 @@ MACRO ADD ee empty
 MACRO ADD tt @mtarg
 MACRO STORE
 CONFIG WRITE
-```
+~~~
 
 
 - MACRO ADD is the actual client command to add the macro 
@@ -84,7 +84,7 @@ CONFIG WRITE
 When finished, click Submit Changes then reload the client, you should see scroll at the top prior to your login stating the macros have loaded successfully. You cannot change MACROs on the fly like you can with @macros, the steps above must be followed and the client reloaded every time.
 
 
-```
+~~~
 [MACRO <r> created as: retreat]
 [MACRO <g> created as: guard %1]
 [MACRO <ug> created as: unguard %1]
@@ -96,7 +96,7 @@ When finished, click Submit Changes then reload the client, you should see scrol
 [MACRO: Macro support can be found in the Preferences popup.]
 [MACRO: Finished loading macros]
 Zealotry version 0.7.12.4 loading...
-```
+~~~
 
 
 ===============================================================================

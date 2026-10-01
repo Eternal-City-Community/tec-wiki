@@ -1,9 +1,5 @@
 # The Way Of The Thief
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
 <a id="Top"></a>
 ### An Introduction to the Life of Crime
 
@@ -62,12 +58,12 @@ Other Stats, and their Impact:
 * Willpower: Willpower plays a significant role in your ability to hide and sneak. While these do not play much of a role in the early days of a thief, they will much further down the line once you begin to master the trade. A thief who is never seen is as close to a perfect thief as I can imagine.
 * Empathy: Empathy plays a minor role in your [Setups](/setups/), but is not a stat to aim for at all.
 
-I'll leave the manipulation of the character generator to you as to how to achieve those stats based on the choices for adjectives, description, and so on. But choosing words such as quick, or dextrous, or nimble might be a good start. Otherwise, check the [forums](http://forum.skotos.net/forumdisplay.php?f=22) on the main site for help on building a speedier more dextrous character.
+I'll leave the manipulation of the character generator to you as to how to achieve those stats based on the choices for adjectives, description, and so on. But choosing words such as quick, or dextrous, or nimble might be a good start. Otherwise, check the [forums](https://forum.skotos.net/forumdisplay.php?f=22) on the main site for help on building a speedier more dextrous character.
 
 <a id="Nationalities"></a>
 #### Nationalities and their Impact
 
-Now that we are aware of what stats are important to have for a thief, we can take a closer look at which [Nationalities](/national-bonuses/) would help us achieve our goals of decent dexterity, speed, and agility. While I certainly believe that building your character around a roleplaying concept is important, for the sake of this guide, we'll address the nationalities that are best suited for a [Pickpocketing](/pickpocketing/) based character:
+Now that we are aware of what stats are important to have for a thief, we can take a closer look at which [Nationalities](/national-advantages/) would help us achieve our goals of decent dexterity, speed, and agility. While I certainly believe that building your character around a roleplaying concept is important, for the sake of this guide, we'll address the nationalities that are best suited for a [Pickpocketing](/pickpocketing/) based character:
 
 * [Cinera](/cinera/) (+25 Dex, +15 Spd, +10 Agi): Cinera is the very clear choice from a stats perspective, as it gives the largest bonus to dexterity and no penalties at all to our other important stats. The other vital factor (which eliminates two other potentials: Altene and Aestivan League) is that pickpocketing is neither a forbidden or reduced sp skill for a Cineran. Furthermore, the free trait Steady Hands, is available as a choice which would further boost our base dexterity. Or, choosing Nimble Feet, would boost our speed and agility. Finally, if you wanted to have a 'cover' skill, choosing knives as a free skill would help with that. All three freebies suit our purposes quite well, making Cinera the best option for a thief's homeland.
 * [Parcines](/parcines/) (+15 Dex, +15 Agi, +10 Spd): The Parcines is a decent alternative to Cinera in that it has bonuses for each of the important stats and no penalties to having [Pickpocketing](/pickpocketing/) as a skill. However, the free traits and skills are lackluster by comparison with Mountain Lungs being useful for enhanced fatigue regeneration, but that's it. A thief will not be making any battlecries, unless it's "For the love of  Ereal, quit beating me with your stave! I submit!"
@@ -96,7 +92,7 @@ Learning a weapon is an obvious and easy choice and one that a lot of thieves go
 Using the above guide as a reference, this is the brand new thief character I created for the purpose of testing for this guide. Granted, I will still use my master thief as necessary to demonstrate more advanced techniques, but Thaelan is our example of the product of this guide. Below are his stats and traits for your reference:
 
 
-```
+~~~
 =[Character Sheet for Thaelan]================================================
  
  
@@ -164,7 +160,7 @@ sitting or laying down.
  
  
 ==============================================================================
-```
+~~~
 
 
 All in all, I got lucky with a decent character roll that fulfilled all three of my stat requirements. Hopefully, your rolls will be at least as successful, but the chargen can be a very fickle creature. Now that we have created Thaelan, it's time to bring him into Iridine for a bit of mischief and mayhem.
@@ -235,7 +231,7 @@ There is an alternative, if you don't mind a bit of waiting around and the poten
 If you've made it this far, then you're off to a good start in your career as a thief. In my experience, cut and lift never has to be taken beyond practiced for a thief with decent enough dexterity - if you work on your pickpocketing basics, the success for it and all of your other moves will gradually reach perfection with little effort. Thus your new goal is to perfect your cut and lift by training your basic pickpocketing ever higher. With Thaelan's stats and the ranks below, he generally has a 14 success for a cut and lift - not too shabby, but still not perfect yet. I suspect that by getting my basic pickpocketing to familiar (rank 20), I will be able to use cut and lift wherever I please without any risk of being caught.
 
 
-```
+~~~
 =[Actions for Skill]==========================================================
  
  
@@ -251,7 +247,7 @@ Cut and Lift             10        practiced      4
 General Skill Points:     5.0
  
 ==============================================================================
-```
+~~~
 
 
 A Note on Skills: Up to this point, we really have not discussed the reason why cut and lift is our focus, so I felt that this should be addressed. The reason why we are training cut and lift is primarily because it is a silent move when done successfully - therefore when you use it, your mark will never notice that you stole from them at all. This means no shouting, no yelling, no calling for guards, which in turn means uninterrupted stealing, less jail time, and more profit for you. Quick Grab simply doesn't compare as a means of gaining money in this respect as it will get you warranted easily and often. I should also clarify, that if you miss a cut and lift, the mark will take note and yell until the point where you have a 1 success for the maneuver. From that point on they will never notice a failed roll or a successful one for that matter. Thus our goal of perfecting cut and lift - so that you aren't restricted to safe zones. At that point, the whole world becomes your playground and your choice in marks expands considerably.

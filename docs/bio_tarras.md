@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 "Quick of wit and hand, mind in prime condition, devout in belief. All these things are the hallmark of a soldier. The ultimate soldier, that ideal which any man of sword and shield accepts as his goal. There is no room for anything less than your best, there is no tolerance for failure, hesitation and uncertainty can only bring on Death."

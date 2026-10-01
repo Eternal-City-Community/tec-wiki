@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 **Drusus Rustius - Member of the Council of Elders and leader of the Nuturing Light Sect** 

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I had no idea why we had moved here in the first place. These people were strangers to us, and my father wasn't exactly the friendly type. I would approach my nieghbors regularly and try to initiate conversation, and though I had no fear of them, they would spurn me aside with taunts and a general cold attitude towards me. I hated it, not fitting in, even at home I was ridiculed for my lacking work ethics.

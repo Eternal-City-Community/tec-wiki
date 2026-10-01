@@ -33,13 +33,14 @@ A bonus is applied to slashing attacks that take advantage of a fluid back and f
 | Face Slash | 2+MoS |  | -25 Penalty |
 | Rib tickle |  |  |  |
 | Triple Cut | 3+MoS |  | -85 to -10 (Variable) |
+
 |  | Markad Slash* |
+| --- | --- |
 | Ranks in Punch | Bonus |
 | 1 | 0 |
 | 10 | + 2 |
 | 50 | + 10 |
 | 100 | + 20 |
-
 * Every 10 ranks in Punch gain +2 Bonus up to rank 100. Hard cap bonus of 20.
 
 |  |  |  | Triple Cut* |
@@ -47,7 +48,6 @@ A bonus is applied to slashing attacks that take advantage of a fluid back and f
 | Cumulative Ranks in Slash/Chop/Jab | Penalty |  |  |
 | 60 | -80 Penalty |  |  |
 | 200 | -10 Penalty |  |  |
-
 * Every 10 ranks in Jab OR Slash OR Chop reduce penalty by 5 up to 200 cumulative ranks.
 
 
@@ -71,12 +71,14 @@ A rank of **1 signifies the best** in this category.
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
 | --- | --- | --- | --- | --- |
 
+
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
 | --- | --- |
+
 
 #### Weapon Speed
 
@@ -86,9 +88,11 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | --- | --- | --- | --- | --- |
 | Weapon | Speed Rank | Median Speed | Speed Rank | Median Speed |
 
+
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
+
 
 ### Moves
 #### Worthwhile

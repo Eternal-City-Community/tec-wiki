@@ -39,13 +39,16 @@
 | [Quick Reveal](#Quick-Reveal) | Average | - | - | - | - | - | - | 100 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills |
 | [Guard Evasion](#Guard-Evasion) | - | - | - | - | - | - | - | - |  |  |  |
+
 |  | Trainer Location Clues |
+| --- | --- |
 | Trainer # 1 | Look for artwork in a shopping area covered in colorful paint in the [Central Steps](/the-steps-central/). |
 | Trainer # 2 | Be generous with tips in rewarding local entertainment in the [Northern Steps](/the-steps-north/). |
 | Trainer # 3 | Look for an old man down on his luck in a dead-end in the [Northern Steps](/the-steps-north/). |
 | Trainer # 4 | Look for a man with an empty mug in the [Eastern Steps](/the-steps-east/). |
 | Trainer # 5 | Visit a twisting alley cul-de-sac behind gang checkpoints at the right time of day in the [Northern Steps](/the-steps-north/). |
 | RV Trainer | May a torch bracket light your way to wisdom in the Northeast part of the [Town of Rock Valley](/town-of-rock-valley-map/). |
+
 
 #### Notes on Learning
 * If you're looking to **learn skills** or lessons that are **not taught by NPC trainers**, you may wish to **discreetly** inquire about them to one of the **[Criminal Orgs](/orgs/)**. It has always been said that certain people with the right connections can learn a good deal more in the art of stealing. Though sometimes it's best to **let them find you**, rather than seeking them out yourself.
@@ -75,7 +78,7 @@ Graffiti allows you to paint your own short and simple message on an empty wall 
 
 <div class="skill-template">
 
-@@>@@ *graffiti e Hi there!*
+> *graffiti e Hi there!*
 TBC
 
 </div>
@@ -101,7 +104,7 @@ Paint Gang Marking allows you to mark off your turf with your gang’s very own 
 
 <div class="skill-template">
 
-@@>@@ *gmark e Enemies Beware!!*
+> *gmark e Enemies Beware!!*
 TBC
 
 </div>
@@ -123,7 +126,7 @@ Stash allows you to hide your treasured items out of sight. You will always be a
 
 <div class="skill-template">
 
-@@>@@ *stash knife*
+> *stash knife*
 [Success: 1, Roll: 52] You find a passable place in which to hide an intricately etched knife and quickly cram it into place.
 
 </div>
@@ -143,7 +146,7 @@ This skill is taken into account automatically during the normal **search** comm
 
 <div class="skill-template">
 
-@@>@@ *search*
+> *search*
 You begin to examine a high-ceilinged hall closely.
 You manage to recover a tiny shiny white stone.
 You finish examining a high-ceilinged hall.
@@ -172,7 +175,7 @@ Mimic Signpost allows you to attempt to **blend in with a crowd**. People enteri
 
 <div class="skill-template">
 
-@@>@@ *signpost*
+> *signpost*
 [Success: 76, Roll: 79] You slip to one side and remain completely still, your body frozen into the background.
 
 </div>
@@ -195,7 +198,7 @@ Steps Cant allows you to communicate with others without words, just motions. It
 
 <div class="skill-template">
 
-@@>@@ *cant sukar You're an idiot! Sucker!*
+> *cant sukar You're an idiot! Sucker!*
 [Success: 1, Roll: 96] You discreetly signal 'You're an idiot! Sucker!' to Sukar, quite certain that no one else noticed. However, it doesn't seem as if Sukar understands what you are trying to say.
 
 </div>
@@ -215,7 +218,7 @@ While certain actions will automatically reveal you, you can also use the **unhi
 
 <div class="skill-template">
 
-@@>@@ *find cover*
+> *find cover*
 [Success: 38, Roll: 86] You manage to find a hiding spot hidden by a long mahogany counter and move quickly to conceal yourself.
 
 </div>
@@ -238,13 +241,13 @@ sneak around.
 
 <div class="skill-template">
 
-@@>@@ *sneak south*
+> *sneak south*
 [Success: 50, Roll: 89] You clumsily sneak into a small room.
 
- @@>@@ *sneak south*
+ > *sneak south*
 [Success: 95, Roll: 35] You clumsily sneak into a small room. A young bank clerk seems to have spotted you leaving.
 
- @@>@@ *sneak south*
+ > *sneak south*
 You fumble out of your hiding place.
 [Success: 95, Roll: 3] You bungle your attempt at sneaking, and you are immediately revealed.
 
@@ -270,4 +273,4 @@ You stealthily move from your hiding place.
 
 ### Guard Evasion
 
-This skill helps a person evade a person that is trying to [detain](http://eternal-city.wikidot.com/combat-maneuvers#Offensive-Guarding) them. This skill does not currently work against regular guarding.
+This skill helps a person evade a person that is trying to [detain](/combat-maneuvers/#Offensive-Guarding) them. This skill does not currently work against regular guarding.

@@ -24,43 +24,15 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 | *<u>Pardelian Gladius Combat</u>* | Easy | - | - | - | - | 154 |
 | [Pardelian Turtle Stance](#Stance) | Easy | - | - | - | Wielded **Shield** | 154 |
 | [Pardelian Side Jab](#Side) | Easy | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
-| [Shield Charge](#ShieldCharge) | Average | 2 | Long | Bruise | [Pardelian Turtle Stance](#Stance) _ |  |
-
-20 Ranks in [Shields](/shields/) ||= 154
-| [Pardelian Hidden Thrust](#HT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Rank in [Shields](/shields/) _
-20 Ranks in [Swords Stab](/one-handed-swords/#Stab) ||= 154
-| [Pardelian Killing Thrust](#KT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Swords Stab](/one-handed-swords/#Stab) ||= 154
-| [Pardelian Lion's Gambit](#LG) | Average | 2 | Long | Pierce | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) ||= 154
-| [Pardelian Reaper Slash](#RS) | Average | 2 | Short | Cut | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
- 40 Ranks in [Swords Slash](/one-handed-swords/#Slash) ||= 154
-| [Pardelian Ankle Thrust](#AT) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
- 30 Ranks in [Shields](/shields/) _
-30 Ranks in [Hidden Thrust](#HT) ||= 154
-| [Pardelian Shield Sap](#ShieldSap) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Rank in [Swords Sap](/one-handed-swords/#Sap) _
-20 Ranks in [Shield Bash](/shields/#Shield-Bash) ||= 154
-| [Pardelian Slash and Sap](#SS) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Swords Sap](/one-handed-swords/#Sap) _
-20 Ranks in [Shield Bash](/shields/#Shield-Bash) ||= 154
+| [Shield Charge](#ShieldCharge) | Average | 2 | Long | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Shields](/shields/) | 154 |
+| [Pardelian Hidden Thrust](#HT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance)<br><br>20 Rank in [Shields](/shields/)<br><br>20 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 154 |
+| [Pardelian Killing Thrust](#KT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 154 |
+| [Pardelian Lion's Gambit](#LG) | Average | 2 | Long | Pierce | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 154 |
+| [Pardelian Reaper Slash](#RS) | Average | 2 | Short | Cut | [Pardelian Turtle Stance](#Stance)<br><br>40 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 154 |
+| [Pardelian Ankle Thrust](#AT) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance)<br><br>30 Ranks in [Shields](/shields/)<br><br>30 Ranks in [Hidden Thrust](#HT) | 154 |
+| [Pardelian Shield Sap](#ShieldSap) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Rank in [Swords Sap](/one-handed-swords/#Sap)<br><br>20 Ranks in [Shield Bash](/shields/#Shield-Bash) | 154 |
+| [Pardelian Slash and Sap](#SS) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Swords Sap](/one-handed-swords/#Sap)<br><br>20 Ranks in [Shield Bash](/shields/#Shield-Bash) | 154 |
 | [Pardelian Tag and Strike](#TS) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
-| --- | --- | --- | --- | --- | --- | --- |
 | [Pardelian Downward Block](#DB) | Average | 2 | - | - | [Pardelian Turtle Stance](#Stance) | 154 |
 | [Pardelian Stab and Twist](#ST) | Easy | - | - | - | [Pardelian Turtle Stance](#Stance) | 154 |
 
@@ -270,7 +242,7 @@ In the right hands, this attempts to be a fast, if weak jab at an opponent. When
 
 This block bolsters a Pardelian's defenses by protecting the waist and legs from several mid-ranged and low attacks.
 
-* This block counts towards the same layer as other [swords blocks](http://eternal-city.wikidot.com/one-handed-swords). If it overlaps with a block, the one with the higher [Rank Bonus](http://eternal-city.wikidot.com/skills#RB) is taken. See the [Blocks & Dodges](http://eternal-city.wikidot.com/blocks-and-dodges) spreadsheet for an idea of where there may be an overlap. The wielder ***must*** be in Pardelian Turtle Stance to use this block.
+* This block counts towards the same layer as other [swords blocks](/one-handed-swords/). If it overlaps with a block, the one with the higher [Rank Bonus](/skills/#RB) is taken. See the [Blocks & Dodges](/blocks-and-dodges/) spreadsheet for an idea of where there may be an overlap. The wielder ***must*** be in Pardelian Turtle Stance to use this block.
 
 **When you see this in use you see:**
 

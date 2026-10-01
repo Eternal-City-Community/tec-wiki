@@ -2,15 +2,13 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 ## Falinia's Beginning
 
 Falinia was born on the 29th of Allinius, in the year 200, in the city of Iridine. Her mother was a peace-loving Altene, who married her father against her families wishes, and settled with him on the outskirts of the city, bearing him 5 children. Her father, a native of Iridine, was a simple carpenter, a cartwright truly, who tilled a little bit of land to help keep food on the table. The family garden was the responsibility of the entire family, including Fali's oldest brother to her youngest sister.
 
-Falinia's childhood was happy and carefree for the most part, and enlivened by the occasional visits of her Altene uncle, Merlit. Enraptured by tales of glory, Falinia would sit for hours and shell peas or mend, listening to her uncle as he described his adventures of scouring the forests for bandits in an effort to make life a little safer, 'just for you', he'd wink. Then he'd tell of the different people,@@--Traders, Sailors and Merchants---@@ all at Market, all needing the services of a good Altene warrior of course, or the occassional locksmith or healer. At night she would lie awake, her head spinning, imagining life outside the four walls of her happy home. It was in these moments she would promise herself, 'Some day, I'll have adventures too!'
+Falinia's childhood was happy and carefree for the most part, and enlivened by the occasional visits of her Altene uncle, Merlit. Enraptured by tales of glory, Falinia would sit for hours and shell peas or mend, listening to her uncle as he described his adventures of scouring the forests for bandits in an effort to make life a little safer, 'just for you', he'd wink. Then he'd tell of the different people,--Traders, Sailors and Merchants--- all at Market, all needing the services of a good Altene warrior of course, or the occassional locksmith or healer. At night she would lie awake, her head spinning, imagining life outside the four walls of her happy home. It was in these moments she would promise herself, 'Some day, I'll have adventures too!'
 
 As the years went by, Falinia began to mature and grow in home responsibilities. Her mother, worn by a spate of miscarriages, came to depend on Falinia for a time, to look after her family. As her mother mourned, rousing only to cook meals, yet never depart the house, Falinia took to managing the household and seasonal chores with a practicality that came of necessity. It was at this time her father determined she should learn to read. The occassional trader would come by, and Falinia learned to barter with her meager means, and save a bit here and there for 'someday', and ocassionally, buy a scroll of adventure to fuel the fires of her imagination. She gleaned what information she could from traders and travellers that stopped in for servicing of their carts, or to water their horses from the well. Her observations proved handy one winter night, when Falinia sent her younger brother, Durlot, to fetch some wood from the wood shed. He'd taken so long that she threw on a cloak and went after him to see what the matter was.
 

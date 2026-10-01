@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 When I was a child, my father left to go fight in the war leaving me and my mother all alone. One day my mother got sick and she couldn't take care of me. I was only five then. I have to go get food everyday and get enough money to cloth us. A month later, my mother died. I was all alone. I left the house to find a new life. A few years later, I arrived in Iridine. I found out that I had 7 sisters. Most of them were younger than me except [bio:Avril](/bio_avril/) and [bio:Lindsi](/bio_lindsi/). I soon met a friend that knew me but I didn't know her. She helped me and gave me a place to live for a while until I got a lean-to. Now I'm leaving a normal life in Iridine

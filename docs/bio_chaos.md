@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 A great storm raged of the shores of Windward, causing chaos to ships at sea and in port. Once the storm and dispensed and the chaos had returned to order, search party's began the search for wrecked ships and their survivors. On a beach on the eastern side of Windward was the remains of a ship lost at sea and brought in by the tide, only one sound could be heard coming from the remains and that sound at the dead of night was the sound of a baby's cry.

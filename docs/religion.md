@@ -70,7 +70,7 @@ These gods are left intentionally vague. If you'd like to know more find out IG.
 <a id="Ravan"></a>
 #### [#](#Ravan)Ravan
 God of Death, The Mad God, The Comforter, The Unravaller. Ravan is associated with death and madness. Be wary to utter his name outloud for fear of the Cult. 
-Known lore: [He slightly turned and said...](/official_ravan_helia_story_pascal/)
+Known lore: [He slightly turned and said...](/official-ravan-helia-story-pascal/)
 
 
 <a id="Lucifal"></a>

@@ -637,10 +637,6 @@
 </body>
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
    [Go to the old RB calculator](/rank-bonus-calculator-classic/)
 
 

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Xamaes spent her day life at home with her mother Shadlock, a once hunter of all creatures that bear hides of fine leather. From the time she was six her mother threw a spear in her hand and began teaching her how to use it, she was always told by her mother that there were lots of bad things out there that she needed to protect herself from. Xamaes took no interest in her mothers teachings, she would much rather be outside playing with her friends in the street. They were not rich, and they were not poor, her mother told her that she longed for the thrill of the hunt once more, but gave it up the day her father stole her heart.

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Lotivus was born in Gadaene to a somewhat rich family. His family did not have a history of being great or even skilled warriors. They were mainly a family of builders. But, Lotivus loved hunting and the adventure of exploring and learning. At the age of 4 he would hunt down and kill the field mice in his yard with his dog Feslone. He never got along with many of the neighbor kids because they liked juggeling, and dancing, and singing.

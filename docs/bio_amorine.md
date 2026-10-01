@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Amorine lived a fairly normal life, with a fairly normal family in Altene. Her mother was kind, and obedient. Her father was stern, and gentle when needed. Her older brother was, older.

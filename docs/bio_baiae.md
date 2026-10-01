@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 All his friends would have laughed if they saw him now. His once proud shoulders were hunched over to fight through the cold of the winter as he neared his distinction. The city of Iridine, home to as his father had taught him Cinera's greatest enemy. He could only hope his view had been more right.

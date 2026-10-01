@@ -6,7 +6,7 @@
 > 
 > I'd like to let you experience that same enjoyment. Make your own map.
 > 
-> @@        @@**- Marnevel**
+>         **- Marnevel**
 
 
 ### Maps
@@ -22,7 +22,3 @@
 [Monlon](/historic-map-marnevel-monlon/)
 [Franlius](/historic-map-marnevel-franlius/)
 [Rock Valley](/historic-map-marnevel-rock-valley/)
-
-
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.

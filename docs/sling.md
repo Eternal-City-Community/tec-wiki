@@ -48,6 +48,7 @@ Sling Missile Weapons can use a wide array of ammunition types to hit targets wi
 | Iron Bullet | It has a decent weight to it and would be serviceable on the battlefield. | [monlon-kelestian-outpost](/monlon-kelestian-outpost/) (Kavacu) |
 | Lead Bullet | It has the weight and density to be deadly in combat. | [monlon-kelestian-outpost](/monlon-kelestian-outpost/) (Kavacu) |
 
+
 <a id="basic-throw"></a>
 
 ### Basic Throw  *sling <target>*

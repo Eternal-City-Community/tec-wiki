@@ -27,14 +27,17 @@ Mystery boxes are sold at various levels.
 
 #### Store Credit
 Mystery box purchases can be **returned for store credit** by putting them into the large opening in the hallway north of Sharonpa. This includes all items found within a mystery box as well as **the empty mystery box itself**.
+ _
 
 ![](https://eternal-city.wdfiles.com/local--files/files/Sharonpa%20Returns.jpg)
 
 Dropping an item, or a box of items, into the opening will **prompt you** something like the below:
 
-```
+~~~
 The items you're offering up are worth one talent, nine hundred ninety-three denars in trade-in value.
 Do you accept? (Y/N)
-```
+~~~
 
+
+ _
 From there, you can choose **'Y' or 'N'** to return it for store credit or not. **Hint:** Sometimes shopkeepers will pay more for an item than would have been redeemed for store credit.

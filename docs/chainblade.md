@@ -19,32 +19,13 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 | [Chainblade Hand Slash](#handslash) | Average | 2 | Either | Cut | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Flying Thrust](#thrust) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Ankle Snare](#ankle) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut _ |  |  |  |
-
-Cut ||= [Chainblade Winged Stance](#wingedstance) _
-20 Ranks in [Chainblade Flying Slash](#slash) ||= 200 ||= 500
+| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut<br><br>Cut | [Chainblade Winged Stance](#wingedstance)<br><br>20 Ranks in [Chainblade Flying Slash](#slash) | 200 | 500 |
 | [Chainblade Raptor Spike](#raptor) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise _ |  |  |  |
-
-Pierce ||= 10 Ranks in [Chainblade Ring Jab](#jab) _
-10 Ranks in [Chainblade Close Stab](#stab) ||= 200 ||= 500
+| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise<br><br>Pierce | 10 Ranks in [Chainblade Ring Jab](#jab)<br><br>10 Ranks in [Chainblade Close Stab](#stab) | 200 | 500 |
 | [Chainblade Feint](#feint) | Difficult | 2 | Either | - | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut _ |  |  |  |
-
-Cut _
-Cut||= 30 Ranks in [Chainblade Overhead Spin](#overhead) ||= 200 ||= 500
-| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut _ |
-| --- | --- | --- | --- | --- |
-
-Cut _
-Cut _
-Cut ||= [Chainblade Winged Stance](#wingedstance) _
-20 Ranks in [Chainblade Overhead Spin](#overhead) _
-20 Ranks in [Chainblade Raptor Spike](#raptor) ||= 200 ||= 500
+| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Chainblade Overhead Spin](#overhead) | 200 | 500 |
+| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut<br><br>Cut<br><br>Cut<br><br>Cut | [Chainblade Winged Stance](#wingedstance)<br><br>20 Ranks in [Chainblade Overhead Spin](#overhead)<br><br>20 Ranks in [Chainblade Raptor Spike](#raptor) | 200 | 500 |
 | [Chainblade No Mind Strike](#nomind) | Impossible | 2 | Either | *<varies>* | 90 Ranks in [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | [Chainblade Blade Block](#bladeblock) | Easy | 2 | - | - | - | 200 | 500 |
 | [Chainblade Ring Block](#ringblock) | Average | 2 | - | - | - | 200 | 500 |
 | [Chainblade Chain Block](#chainblock) | Difficult | 2 | - | - | - | 200 | 500 |
@@ -252,7 +233,7 @@ A rugged Kelestian mountaineer steps forward, feigning an attack at you with her
 
 ### Chainblade Kneeling Spin  *spin <target>*
 
-**The attacker** is left in a **kneeling** position after attempting this attack. Ranks in [Simple Rolling Rise](http://eternal-city.wikidot.com/combat-maneuvers#Rise) or [Backwards Rolling Rise](http://eternal-city.wikidot.com/combat-maneuvers#BRise) will help in naturally rolling back to a standing position after performing this attack.
+**The attacker** is left in a **kneeling** position after attempting this attack. Ranks in [Simple Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) will help in naturally rolling back to a standing position after performing this attack.
 
 **When you see this in use you see:**
 
@@ -362,7 +343,7 @@ You whip the chain of your boison chainblade out at a tall Kelestian raider's sh
 
 ### Chainblade Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](http://eternal-city.wikidot.com/stats#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -371,6 +352,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Chainblade Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](http://eternal-city.wikidot.com/stats#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

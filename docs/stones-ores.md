@@ -51,6 +51,7 @@ Stones may be found in a variety of sizes: **tiny**, **small**, *'normal'* (no d
 | Aquamarine | an aquamarine | [Treehouse](/hg-brigand-treehouse/) |
 | Opal | an opaque pale red stone | Mining, Ravanite Tunnels |
 
+
 ⚡***Tiny tourmalated** (forked black lines) **stones** can be used to unlock specific sections of [Undertown](/hg-undertown/).*
 🙏***Ritual stones** are used as [reagents](/magic/#Reagents) and can be donated to the [Cult of Ereal](/reputation/#CoE) for reputation.*
 🪙 *Represents an ingredient you can **purchase** in [shops](/shops/)*.
@@ -99,6 +100,7 @@ Ore may be found in a variety of sizes: **tiny chunk**, **very small chunk**, **
 |  | a chunk of iron-rich ore | Ore |
 |  | a chunk of lead-rich ore | Ore |
 | Onyx | a chunk of carved translucent black stone | Stone |
+
 
 ### Sample Prices
 The following table includes sample prices for most gems from all of the [gem buyers](/services/#toc4) in game. Note that prices will vary based on the current market and the person selling. Prices can also vary for stones of the same size and type that otherwise look the same. This is only a rough guide!
@@ -236,5 +238,6 @@ The following table includes sample prices for most gems from all of the [gem bu
 | a mottled greenish-blue stone | some turquoise | medium | 46d 3st | 48d 3st | 52d | 70d 2s |
 | a large mottled greenish-blue stone | some turquoise | large | 104d 1st 1s | 108d 3st | 116d | 156d 2st 1s |
 | an enormous mottled greenish-blue stone | some turquoise | enormous | 110d 1s | 114d 3st | 122d 1st 1s | 165d 2s |
+
 
 </details>

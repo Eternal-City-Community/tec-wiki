@@ -1,6 +1,8 @@
 # Hg Signal Tower Island
 
-> **Migration note:** Wikidot module `Redirect` omitted.
+<meta http-equiv="refresh" content="0; url=/signal-tower-island/">
+
+This page has moved to [/signal-tower-island/](/signal-tower-island/).
 
 
 [Hunting Grounds](/hunting-grounds/) » Signal Tower Island
@@ -29,6 +31,6 @@ walk to toga, n x 2, w x 4, nw, go n (when ferry comes), go n (when ferry arrive
 #### Jobs
 -[Pearl Diving](/pearl-diving/)
 
-![](https://eternal-city.wikidot.com/local--files/signal-tower-island/lighthouse.gif)
+![](/local--files/signal-tower-island/lighthouse.gif/)
 
 [Hunting Grounds](/hunting-grounds/) » Signal Tower Island

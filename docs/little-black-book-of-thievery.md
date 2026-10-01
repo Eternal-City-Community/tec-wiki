@@ -1,9 +1,5 @@
 # Little Black Book Of Thievery
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
 <a id="Top"></a>
 ### A Few Words of Wisdom
 

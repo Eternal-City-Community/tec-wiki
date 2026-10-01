@@ -1,9 +1,5 @@
 # National Advantages
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `css` module here. This dynamic section needs a replacement on the new wiki.
-
-
 ### Aestivan League
 
 Stats: Aestivans are thought to have strong spear arms and even stronger convictions, but are rigid in other ways.

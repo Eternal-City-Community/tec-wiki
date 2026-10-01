@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 One day, as Razlin was working on his farm, he saw something that glittered from the suns rays. He walked towards it and saw that it was a sword. When he reached the sword, he heard screaming and yelling coming from behind him. He turned and looked, from his house ran three hoods and two bandits. One of the hoods, threw a torch on his house, and instantly it went up in flames. The hood pointed to Razlin, as if to say "You're Next!"

@@ -41,7 +41,7 @@ So you've managed to log in, you're in the welcome room and you've got no idea h
 > Soandso whispers to Constantine.
 
 More **advanced speech** options can be found here:
-* [Advanced Speech](http://eternal-city.wikidot.com/advanced-speech)
+* [Advanced Speech](/advanced-speech/)
 
 #### Thinknet
 **Thinknet** - Think net is an in-character channel. It is a way to contact others from a distance without running all over the game trying to find them. To use think you can use THINK <message>. There is no direct speech on this channel.
@@ -66,11 +66,11 @@ This channel can be toggled on and off using the toggle-ooc command.
 
 All new characters are expected to create a name that is thematically accurate for the time period revolving around the early Roman Republic. Most players create Roman Sounding names but the various races are each interpreted as their own mix of Roman, Medieval, and Fantasy characteristics. Some sources for you to consider are:
 
-* [Behind Roman Names](http://www.behindthename.com/names/usage/ancient-roman)
-* [Behind Celtic Names](http://www.behindthename.com/names/usage/ancient-celtic)
-* [Ancient Greek Names](http://tekeli.li/onomastikon/Ancient-World/Greece/)
+* [Behind Roman Names](https://www.behindthename.com/names/usage/ancient-roman)
+* [Behind Celtic Names](https://www.behindthename.com/names/usage/ancient-celtic)
+* [Ancient Greek Names](https://tekeli.li/onomastikon/Ancient-World/Greece/)
 
-The [Character Generator](/character-generator/) in TEC is unique in the realm of MUDs. It does not follow a typical stat point and skill distribution list similar to models found in many D&D-based environments but attempts to create a character for you based on your roleplaying choices. For example, selecting an Altene Stavesman who was a loner, loved the wilderness, and was teased as a child, strong, muscular, and disciplined may grant you a character with excellent endurance, strength, but low empathy. Players typically go one of two routes. Either they try to maximize the character generator to fit the outcome, such as a trader or soldier, or they choose role-playing options and, upon creation, decide how that character will fit into the game world. [A Guide to Building a Combat Character](http://forum.skotos.net/showthread.php?t=93215), created by user Giant, is an excellent resource for seeing how this system works.
+The [Character Generator](/character-generator/) in TEC is unique in the realm of MUDs. It does not follow a typical stat point and skill distribution list similar to models found in many D&D-based environments but attempts to create a character for you based on your roleplaying choices. For example, selecting an Altene Stavesman who was a loner, loved the wilderness, and was teased as a child, strong, muscular, and disciplined may grant you a character with excellent endurance, strength, but low empathy. Players typically go one of two routes. Either they try to maximize the character generator to fit the outcome, such as a trader or soldier, or they choose role-playing options and, upon creation, decide how that character will fit into the game world. [A Guide to Building a Combat Character](https://forum.skotos.net/showthread.php?t=93215), created by user Giant, is an excellent resource for seeing how this system works.
 ### Interacting with objects
 Throughout your time in Midlight, you'll most likely need to pick things up, put them down, wear, wield, or interact with various things. Below is a list of commands to do so:
 
@@ -155,7 +155,7 @@ Below is a list of helpful commands related to skills:
 > Learn dodge from BruceLee with swords
 > You successfully train dodge to 1.
 
-For more information on skills you can check out: [Skills](http://eternal-city.wikidot.com/skills)
+For more information on skills you can check out: [Skills](/skills/)
 Also, all skills available in-game are listed on the left-hand navigation. 
 ### Newbie Areas
 There are a few places in-game that specifically catered to new characters.
@@ -163,7 +163,7 @@ There are a few places in-game that specifically catered to new characters.
 **Signal Tower Island** - This area is meant specifically for newbie characters. You will need to take a ferry to get there. In order to get on the ferry you will need to use a few special commands. WAIT FOR FERRY will make you automatically walk onto the ferry from either dock. WAIT FOR DOCK will automatically walk you off of the ferry onto the dock. If the ferry is already at the dock, you can just walk on yourself as well. 
 Things to do:
 * You can fight gulls, crabs, fluviturs (a dog-like creature), and snapping turtles here. If you skin their stomaches, inside will be gastrolith pebbles which you can turn into the Od'H.
-* You can also dive for pearls here. For a more in-depth guide on pearl diving go to the [Diving Guide](http://eternal-city.wikidot.com/newbie-mission-guide#Diving)
+* You can also dive for pearls here. For a more in-depth guide on pearl diving go to the [Diving Guide](/newbie-mission-guide/#Diving)
 > Directions to Signal Tower Island Ferry Landing- Walk to Toga n x 2, w x 3, nw x 1.
 > Directions to Keistos' Dive Shack - From Ferry landing on Island - w x 2, nw x 2, n x 5.
 >
@@ -173,7 +173,7 @@ Things to do:
 You earn a reputation with this establishment by providing crafted goods, managing the population of harmful critters, and offering the gastrolith stones found within their stomachs, net mending, milling flour, delivering crates, and offering fresh skinned meat and fish, mined ore, and pelts from critters. 
 > **Directions**: Walk to Toga, w, nw (numbers 14-19 on the Riverside map)
 > **Note**: Only characters with less than 300 Total Ranks will be able to enter this establishment.
-More information on this establishment can found here: [Officium de Humanitas](http://eternal-city.wikidot.com/newbie-office)
+More information on this establishment can found here: [Officium de Humanitas](/newbie-office/)
 ### Newbie Quests
 
 When your character completes the tutorial, they are plopped into the live game world with a codex of tips at the bench of Phaedra, your new character guide. She can answer some basic questions not covered in your tutorial or in your newbie codex. You will also have access to the Auxilia Channel, a channel for new characters seeking help in the game world. When in doubt and in need of assistance, use the player chat channel think net. This is an in-character channel, and to access it simply THINK <what you want to ask>. Your first task should be exploring your surroundings and getting to know the city. From Phaedra, go NORTH 1 Pace, then WEST 1 Pace to arrive at the Stone Toga Inn, a common meeting spot for players on the edge of the Harbor and Forum areas in the city. Here, if you wait a moment, your first newbie quest should appear.
@@ -195,7 +195,7 @@ Various merchants throughout the game world will sell items that you may want to
 > Sesquiculus returns a food ration to the stock.
 Note: For armor, it will also display how well it protects.
 
-For a list of all shops, what they sell and for how much check out our searchable list of shops here: [Shops](http://eternal-city.wikidot.com/shops)
+For a list of all shops, what they sell and for how much check out our searchable list of shops here: [Shops](/shops/)
 
 ### Selling Items
 Some shop owners will provide you with coins for items you find in your adventures. Below are a few commands:

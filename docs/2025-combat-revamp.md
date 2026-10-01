@@ -3,7 +3,7 @@
 ## General
 
 
-+* Skill Sets
+## Skill Sets
 
 ### Archery
 

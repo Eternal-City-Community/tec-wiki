@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Grass. Beautiful, endless hills and valleys of grass. I had loved to just sit on a slope, lay back, and watch Aera fall below the horizon. But times had changed. From setting suns to violent brawls with thugs.

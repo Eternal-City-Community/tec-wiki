@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My life has always been a hard one… I was born of a strange family; my mother was pure-blood Altene, and my father of equally-pure Iridinian blood. My mother's name was Tzigone Shilmarae, and she had come from a strong mercenary-soldering family. My father was Zaknafein Do'Urden, he was also of a strong soldering family, he was an officer in service of the Republic. I also had and Elder brother by the name of Gorgontis.

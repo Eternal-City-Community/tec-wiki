@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Life in general has been pretty easy for me. So far I have had none of the suffering I hear of others. I thank Ereal for that. I feel sorry for those others, however, and have dedicated my life to prevent the deaths of others to the best of my ability.

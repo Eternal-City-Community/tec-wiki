@@ -7,4 +7,4 @@
 [Swamp Vale](/swamp-vale/)
 [The West Grasslands](/the-west-grasslands/)
 [Salt Flats](/salt-flats/)
-[Blackvine](/blackvine/)
+[Blackvine](/village-of-blackvine/)

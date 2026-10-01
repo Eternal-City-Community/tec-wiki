@@ -92,37 +92,37 @@ Difficulty: 0/5
 Profit:     1/5
  
 **Saltwater snapper** (Valuable parts: 53d, 3 lb)
-@@  shell*                                              1 at  1 lb      31d 2st 0s @@
-@@  head*                                              1 at  2 lb      21d 1st 1s @@
-@@  meat                                               1 at  2 lb        2d 1st 1s @@
+  shell*                                              1 at  1 lb      31d 2st 0s 
+  head*                                              1 at  2 lb      21d 1st 1s 
+  meat                                               1 at  2 lb        2d 1st 1s 
  
 **Gull** (Valuable parts: 2d, <1 lb)
-@@  stomach*                                         1 at <1 lb           2st 2s @@
-@@  wing*                                               2 at <1 lb          2st 2s @@
-@@  beak                                                1 at <1 lb                1s @@
-@@  leg                                                   2 at <1 lb                1s @@
-@@  feather                                             4 at <1 lb                0s @@
+  stomach*                                         1 at <1 lb           2st 2s 
+  wing*                                               2 at <1 lb          2st 2s 
+  beak                                                1 at <1 lb                1s 
+  leg                                                   2 at <1 lb                1s 
+  feather                                             4 at <1 lb                0s 
   
 **Crab** (Valuable parts: 20d, 1 lb)
-@@  shell*                                              1 at <1 lb     15d 2st 1s @@
-@@  claw*                                               2 at <1 lb      1d 0st 1s @@
-@@  eye*                                                2 at <1 lb      1d 0st 1s @@
+  shell*                                              1 at <1 lb     15d 2st 1s 
+  claw*                                               2 at <1 lb      1d 0st 1s 
+  eye*                                                2 at <1 lb      1d 0st 1s 
   
 **Fluvitur pup** (Valuable parts: 16d, 2 lb)
-@@  pelt*                                               1 at  1 lb        7d 2st 2s @@
-@@  head*                                               1 at  1 lb      6d 1st 2s @@
-@@  eye*                                                2 at <1 lb           2st 1s @@
-@@  heart*                                              1 at <1 lb          2st 2s @@
+  pelt*                                               1 at  1 lb        7d 2st 2s 
+  head*                                               1 at  1 lb      6d 1st 2s 
+  eye*                                                2 at <1 lb           2st 1s 
+  heart*                                              1 at <1 lb          2st 2s 
  
 **Fluvitur** (Valuable parts: 33d, 5 lb)
-@@  pelt*                                               1 at  4 lb      29d 2st 2s @@
-@@  heart*                                             1 at <1 lb           2st 2s @@
-@@  liver*                                              1 at <1 lb           2st 1s @@
-@@  intestines*                                       1 at <1 lb          2st 1s @@
-@@  eye*                                                2 at <1 lb          2st 1s @@
-@@  jawbone*                                         1 at <1 lb          2st 1s @@
-@@  head (beheading)                              1 at  2 lb      6d 1st 2s @@
-@@  meat                                                1 at  4 lb           3st 1s @@
+  pelt*                                               1 at  4 lb      29d 2st 2s 
+  heart*                                             1 at <1 lb           2st 2s 
+  liver*                                              1 at <1 lb           2st 1s 
+  intestines*                                       1 at <1 lb          2st 1s 
+  eye*                                                2 at <1 lb          2st 1s 
+  jawbone*                                         1 at <1 lb          2st 1s 
+  head (beheading)                              1 at  2 lb      6d 1st 2s 
+  meat                                                1 at  4 lb           3st 1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -147,22 +147,22 @@ Difficulty: 1/5
 Profit:     2/5
  
 **Sewer rodent** (Valuable parts: 27d, 2 lb)
-@@  pelt*                                                1 at  1 lb      15d 2st 1s @@
-@@  head*                                               1 at  1 lb      10d 2st 2s @@
-@@  tail*                                                 1 at <1 lb       1d 2st 0s @@
+  pelt*                                                1 at  1 lb      15d 2st 1s 
+  head*                                               1 at  1 lb      10d 2st 2s 
+  tail*                                                 1 at <1 lb       1d 2st 0s 
  
 **Osecar** (Valuable parts: 31d, 1 lb)
-@@  pelt*                                                1 at <1 lb     15d 2st 1s @@
-@@  head*                                               1 at <1 lb     10d 2st 2s @@
-@@  claw*                                                2 at <1 lb      1d 0st 0s @@
-@@  stomach*                                          1 at <1 lb      1d 0st 0s @@
-@@  meat*                                               2 at <1 lb      1d 0st 0s @@
+  pelt*                                                1 at <1 lb     15d 2st 1s 
+  head*                                               1 at <1 lb     10d 2st 2s 
+  claw*                                                2 at <1 lb      1d 0st 0s 
+  stomach*                                          1 at <1 lb      1d 0st 0s 
+  meat*                                               2 at <1 lb      1d 0st 0s 
  
 **Large brown rat** (Valuable parts: 13d, 2 lb)
-@@  pelt*                                                1 at  1 lb       10d 2st 2s  @@
-@@  head*                                              1 at  1 lb         2d 2st 1s @@
-@@  stomach                                           1 at <1 lb                 2s @@
-@@  meat                                                1 at  1 lb                  2s @@
+  pelt*                                                1 at  1 lb       10d 2st 2s  
+  head*                                              1 at  1 lb         2d 2st 1s 
+  stomach                                           1 at <1 lb                 2s 
+  meat                                                1 at  1 lb                  2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -178,22 +178,22 @@ Difficulty: 1/5
 Profit:     1/5
  
 **Osecar** (Valuable parts: 31d, 1 lb)
-@@  pelt*                                               1 at <1 lb        15d 2st 1s @@
-@@  head*                                              1 at <1 lb        10d 2st 2s @@
-@@  claw*                                              2 at <1 lb          1d 0st 0s @@
-@@  stomach*                                        1 at <1 lb          1d 0st 0s @@
-@@  meat*                                             2 at <1 lb          1d 0st 0s @@
+  pelt*                                               1 at <1 lb        15d 2st 1s 
+  head*                                              1 at <1 lb        10d 2st 2s 
+  claw*                                              2 at <1 lb          1d 0st 0s 
+  stomach*                                        1 at <1 lb          1d 0st 0s 
+  meat*                                             2 at <1 lb          1d 0st 0s 
  
 **Large brown rat** (Valuable parts: 13d, 2 lb)
-@@  pelt*                                                1 at  1 lb          10d 2st 2s @@
-@@  head*                                              1 at  1 lb            2d 2st 1s @@
-@@  stomach                                           1 at <1 lb                    2s @@
-@@  meat                                                1 at  1 lb                     2s @@
+  pelt*                                                1 at  1 lb          10d 2st 2s 
+  head*                                              1 at  1 lb            2d 2st 1s 
+  stomach                                           1 at <1 lb                    2s 
+  meat                                                1 at  1 lb                     2s 
  
 **Sewer snake** (Valuable parts: 24d, 10 lb)
-@@  hide*                                               1 at  5 lb         10d 0st 2s @@
-@@  head*                                              1 at  5 lb         12d 1st 0s @@
-@@  tail*                                                 1 at <1 lb         1d 1st 1s @@
+  hide*                                               1 at  5 lb         10d 0st 2s 
+  head*                                              1 at  5 lb         12d 1st 0s 
+  tail*                                                 1 at <1 lb         1d 1st 1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -209,56 +209,56 @@ Difficulty: 3/5
 Profit:     1/5
  
 **Large wasp** (Valuable parts: 154d, 1 lb)
-@@  wing*                                                4 at <1 lb         37d 2st 1s @@
-@@  stomach*                                           1 at <1 lb          1d 2st 2s @@
-@@  eye*                                                  2 at <1 lb               3st 2s @@
-@@  brains*                                              1 at <1 lb               3st 2s @@
-@@  meat                                                 1 at  1 lb                 3st 2s @@
+  wing*                                                4 at <1 lb         37d 2st 1s 
+  stomach*                                           1 at <1 lb          1d 2st 2s 
+  eye*                                                  2 at <1 lb               3st 2s 
+  brains*                                              1 at <1 lb               3st 2s 
+  meat                                                 1 at  1 lb                 3st 2s 
  
 **Gigantic spider** (Valuable parts: 15d, 1 lb)
-@@  eye*                                                 8 at <1 lb          1d 2st 2s @@
-@@  stomach*                                          2 at <1 lb          1d 2st 2s @@
-@@  leg                                                    8 at <1 lb                    1s @@
+  eye*                                                 8 at <1 lb          1d 2st 2s 
+  stomach*                                          2 at <1 lb          1d 2st 2s 
+  leg                                                    8 at <1 lb                    1s 
  
 **Small alligator** (Valuable parts: 59d, 3 lb)
-@@  hide*                                               1 at  2 lb          46d 3st 2s @@
-@@  tooth*                                              1 at <1 lb          1d 0st 1s @@
-@@  head* (beheading)                            1 at  1 lb          10d 2st 2s @@
-@@  skull                                                 1 at  1 lb           1d 2st 0s @@
-@@  meat                                                1 at  2 lb           1d 0st 0s @@
+  hide*                                               1 at  2 lb          46d 3st 2s 
+  tooth*                                              1 at <1 lb          1d 0st 1s 
+  head* (beheading)                            1 at  1 lb          10d 2st 2s 
+  skull                                                 1 at  1 lb           1d 2st 0s 
+  meat                                                1 at  2 lb           1d 0st 0s 
  
 **Fluvitur** (Valuable parts: 33d, 5 lb)
-@@  pelt*                                               1 at  4 lb          29d 2st 2s @@
-@@  heart*                                             1 at <1 lb               2st 2s @@
-@@  liver*                                               1 at <1 lb              2st 1s @@
-@@  intestines*                                       1 at <1 lb              2st 1s @@
-@@  eye*                                                2 at <1 lb              2st 1s @@
-@@  jawbone*                                         1 at <1 lb              2st 1s @@
-@@  head (beheading)                              1 at  2 lb          6d 1st 2s @@
-@@  meat                                                1 at  4 lb               3st 1s @@
+  pelt*                                               1 at  4 lb          29d 2st 2s 
+  heart*                                             1 at <1 lb               2st 2s 
+  liver*                                               1 at <1 lb              2st 1s 
+  intestines*                                       1 at <1 lb              2st 1s 
+  eye*                                                2 at <1 lb              2st 1s 
+  jawbone*                                         1 at <1 lb              2st 1s 
+  head (beheading)                              1 at  2 lb          6d 1st 2s 
+  meat                                                1 at  4 lb               3st 1s 
  
 **Osecar** (Valuable parts: 31d, 1 lb)
-@@  pelt*                                                1 at <1 lb       15d 2st 1s @@
-@@  head*                                              1 at <1 lb       10d 2st 2s  @@
-@@  claw*                                               2 at <1 lb        1d 0st 0s @@
-@@  stomach*                                         1 at <1 lb        1d 0st 0s @@
-@@  meat*                                              2 at <1 lb        1d 0st 0s @@
+  pelt*                                                1 at <1 lb       15d 2st 1s 
+  head*                                              1 at <1 lb       10d 2st 2s  
+  claw*                                               2 at <1 lb        1d 0st 0s 
+  stomach*                                         1 at <1 lb        1d 0st 0s 
+  meat*                                              2 at <1 lb        1d 0st 0s 
  
 **Large brown rat** (Valuable parts: 13d, 2 lb)
-@@  pelt*                                                1 at  1 lb       10d 2st 2s  @@
-@@  head*                                              1 at  1 lb         2d 2st 1s @@
-@@  stomach                                           1 at <1 lb                 2s @@
-@@  meat                                                1 at  1 lb                  2s @@
+  pelt*                                                1 at  1 lb       10d 2st 2s  
+  head*                                              1 at  1 lb         2d 2st 1s 
+  stomach                                           1 at <1 lb                 2s 
+  meat                                                1 at  1 lb                  2s 
  
 **Sewer snake** (Valuable parts: 24d, 10 lb)
-@@  hide*                                               1 at  5 lb       10d 0st 2s @@
-@@  head*                                              1 at  5 lb       12d 1st 0s @@
-@@  tail*                                                 1 at <1 lb       1d 1st 1s @@
+  hide*                                               1 at  5 lb       10d 0st 2s 
+  head*                                              1 at  5 lb       12d 1st 0s 
+  tail*                                                 1 at <1 lb       1d 1st 1s 
   
 **Sewer rodent** (Valuable parts: 27d, 2 lb)
-@@  pelt*                                               1 at  1 lb        15d 2st 1s @@
-@@  head*                                              1 at  1 lb       10d 2st 2s @@
-@@  tail*                                                1 at <1 lb        1d 2st 0s @@
+  pelt*                                               1 at  1 lb        15d 2st 1s 
+  head*                                              1 at  1 lb       10d 2st 2s 
+  tail*                                                1 at <1 lb        1d 2st 0s 
 
 [Back to Table of Contents](#ToC)
 
@@ -281,30 +281,30 @@ Difficulty: 2/5
 Profit:     1/5
  
 **Sickly rat** (Valuable parts: 15d, 1 lb)
-@@  pelt*                                               1 at  1 lb and  15d 2st 1s @@
-@@  head                                                1 at  1 lb and          0s @@
-@@  stomach                                             1 at <1 lb and          0s @@
+  pelt*                                               1 at  1 lb and  15d 2st 1s 
+  head                                                1 at  1 lb and          0s 
+  stomach                                             1 at <1 lb and          0s 
  
 **Hound** (Valuable parts: 22d, 6 lb)
-@@  pelt*                                               1 at  3 lb and  10d 2st 2s @@
-@@  head*                                               1 at  3 lb and  10d 2st 2s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  stomach                                             1 at  1 lb and   1d 0st 1s @@
-@@  meat                                                2 at  3 lb and   1d 0st 1s @@
+  pelt*                                               1 at  3 lb and  10d 2st 2s 
+  head*                                               1 at  3 lb and  10d 2st 2s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  stomach                                             1 at  1 lb and   1d 0st 1s 
+  meat                                                2 at  3 lb and   1d 0st 1s 
  
 **Rabid hound** (Valuable parts: 23d, 6 lb)
-@@  pelt*                                               1 at  3 lb and  10d 2st 2s @@
-@@  head*                                               1 at  3 lb and  10d 2st 2s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                1 at <1 lb and   1d 0st 1s @@
-@@  stomach                                             1 at  1 lb and   1d 0st 1s @@
-@@  meat                                                2 at  3 lb and   1d 0st 1s @@
+  pelt*                                               1 at  3 lb and  10d 2st 2s 
+  head*                                               1 at  3 lb and  10d 2st 2s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  rib*                                                1 at <1 lb and   1d 0st 1s 
+  stomach                                             1 at  1 lb and   1d 0st 1s 
+  meat                                                2 at  3 lb and   1d 0st 1s 
  
 **Pale rat** (No valuable parts)
-@@  pelt                                                1 at  1 lb and   4d 1st 2s @@
-@@  head                                                1 at  1 lb and   3d 2st 2s @@
-@@  stomach                                             1 at <1 lb and      1st 0s @@
-@@  meat                                                1 at  1 lb and      1st 0s @@
+  pelt                                                1 at  1 lb and   4d 1st 2s 
+  head                                                1 at  1 lb and   3d 2st 2s 
+  stomach                                             1 at <1 lb and      1st 0s 
+  meat                                                1 at  1 lb and      1st 0s 
 
 [Back to Table of Contents](#ToC)
 
@@ -322,15 +322,15 @@ Difficulty: 2/5
 Profit:     2/5
  
 **Sickly rat** (Valuable parts: 15d, 1 lb)
-@@  pelt*                                               1 at  1 lb and  15d 2st 1s @@
-@@  head                                                1 at  1 lb and          0s @@
-@@  stomach                                             1 at <1 lb and          0s @@
+  pelt*                                               1 at  1 lb and  15d 2st 1s 
+  head                                                1 at  1 lb and          0s 
+  stomach                                             1 at <1 lb and          0s 
  
 **Pale rat** (No valuable parts)
-@@  pelt                                                1 at  1 lb and   4d 1st 2s @@
-@@  head                                                1 at  1 lb and   3d 2st 2s @@
-@@  stomach                                             1 at <1 lb and      1st 0s @@
-@@  meat                                                1 at  1 lb and      1st 0s @@
+  pelt                                                1 at  1 lb and   4d 1st 2s 
+  head                                                1 at  1 lb and   3d 2st 2s 
+  stomach                                             1 at <1 lb and      1st 0s 
+  meat                                                1 at  1 lb and      1st 0s 
 
 [Back to Table of Contents](#ToC)
 
@@ -357,9 +357,9 @@ Difficulty: 1/5
 Profit:     1/5
  
 **Large sandcrab** (Valuable parts: 4d, <1 lb)
-@@  claw*                                               2 at <1 lb and   1d 0st 1s @@
-@@  eye*                                                2 at <1 lb and   1d 0st 1s @@
-@@  leg                                                 6 at <1 lb and          1s @@
+  claw*                                               2 at <1 lb and   1d 0st 1s 
+  eye*                                                2 at <1 lb and   1d 0st 1s 
+  leg                                                 6 at <1 lb and          1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -383,27 +383,27 @@ Difficulty: 3/5
 Profit:     4/5
  
 **Diabolus ardentis** (Valuable parts: 469d, 3 lb)
-@@  hide*                                               1 at  3 lb and 313d 1st 2s @@
-@@  tail*                                               1 at <1 lb and 152d 2st 0s @@
-@@  eye*                                                2 at <1 lb and   1d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 1st 1s @@
-@@  meat                                                1 at  2 lb and   1d 0st 1s @@
+  hide*                                               1 at  3 lb and 313d 1st 2s 
+  tail*                                               1 at <1 lb and 152d 2st 0s 
+  eye*                                                2 at <1 lb and   1d 0st 1s 
+  heart*                                              1 at <1 lb and   1d 1st 1s 
+  meat                                                1 at  2 lb and   1d 0st 1s 
  
 **Leech snake** (Valuable parts: 68d, 2 lb)
-@@  hide*                                               1 at  1 lb and  31d 1st 0s @@
-@@  fang*                                               2 at <1 lb and  12d 3st 2s @@
-@@  head*                                               1 at  1 lb and  10d 2st 2s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
+  hide*                                               1 at  1 lb and  31d 1st 0s 
+  fang*                                               2 at <1 lb and  12d 3st 2s 
+  head*                                               1 at  1 lb and  10d 2st 2s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
  
 **Carrion beetle** (Valuable parts: 16d, 1 lb)
-@@  head*                                               1 at  1 lb and  10d 2st 2s @@
-@@  shell*                                              1 at <1 lb and   3d 2st 0s @@
-@@  eye*                                                2 at <1 lb and   1d 0st 1s @@
+  head*                                               1 at  1 lb and  10d 2st 2s 
+  shell*                                              1 at <1 lb and   3d 2st 0s 
+  eye*                                                2 at <1 lb and   1d 0st 1s 
  
 **Rat** (No valuable parts)
-@@  pelt                                                1 at <1 lb and          0s @@
-@@  head                                                1 at <1 lb and          0s @@
-@@  stomach                                             1 at <1 lb and          2s @@
+  pelt                                                1 at <1 lb and          0s 
+  head                                                1 at <1 lb and          0s 
+  stomach                                             1 at <1 lb and          2s 
   
 [Back to Table of Contents](#ToC)
 
@@ -430,37 +430,37 @@ Difficulty: 3/5
 Profit:     4/5
  
 **Large bat** (Valuable parts: 43d, 5 lb)
-@@  pelt*                                             1 at   5 lb and   39d 0st 1s @@
-@@  ear*                                              2 at  <1 lb and       3st 2s @@
-@@  wing*                                             2 at  <1 lb and       3st 2s @@
-@@  head                                              1 at   5 lb and    8d 2st 0s @@
-@@  meat                                              1 at   4 lb and       3st 2s @@
+  pelt*                                             1 at   5 lb and   39d 0st 1s 
+  ear*                                              2 at  <1 lb and       3st 2s 
+  wing*                                             2 at  <1 lb and       3st 2s 
+  head                                              1 at   5 lb and    8d 2st 0s 
+  meat                                              1 at   4 lb and       3st 2s 
   
 **Sea snake** (Valuable parts: 32d, 2 lb)
-@@  fang*                                             2 at   1 lb and   15d 2st 1s @@
-@@  heart*                                            1 at  <1 lb and    1d 1st 1s @@
-@@  hide                                              1 at   8 lb and   39d 0st 1s @@
-@@  head                                              1 at   8 lb and   10d 2st 2s @@
-@@  meat                                              8 at   7 lb and    1d 0st 1s @@
+  fang*                                             2 at   1 lb and   15d 2st 1s 
+  heart*                                            1 at  <1 lb and    1d 1st 1s 
+  hide                                              1 at   8 lb and   39d 0st 1s 
+  head                                              1 at   8 lb and   10d 2st 2s 
+  meat                                              8 at   7 lb and    1d 0st 1s 
  
 **Cliff crab** (Valuable parts: 378d, 7 lb)
-@@  shell*                                            1 at   3 lb and  188d 0st 0s @@
-@@  claw*                                             2 at   2 lb and   93d 3st 2s @@
-@@  eye*                                              2 at  <1 lb and    1d 0st 1s @@
-@@  meat                                              9 at   2 lb and    1d 0st 1s @@
+  shell*                                            1 at   3 lb and  188d 0st 0s 
+  claw*                                             2 at   2 lb and   93d 3st 2s 
+  eye*                                              2 at  <1 lb and    1d 0st 1s 
+  meat                                              9 at   2 lb and    1d 0st 1s 
  
 **Massive serpent** (Valuable parts: 477d, 7 lb)
-@@  hide*                                             1 at   7 lb and  376d 0st 1s @@
-@@  fang*                                             2 at  <1 lb and   46d 3st 2s @@
-@@  eye*                                              2 at  <1 lb and    3d 2st 2s @@
-@@  head                                              1 at   7 lb and   32d 0st 1s @@
-@@  meat                                              4 at   6 lb and    3d 2st 2s @@
+  hide*                                             1 at   7 lb and  376d 0st 1s 
+  fang*                                             2 at  <1 lb and   46d 3st 2s 
+  eye*                                              2 at  <1 lb and    3d 2st 2s 
+  head                                              1 at   7 lb and   32d 0st 1s 
+  meat                                              4 at   6 lb and    3d 2st 2s 
  
 **Massive crab with a crimson shell** (Valuable parts: 3400d, 178 lb)
-@@  shell*                                            1 at 160 lb and 2507d 2st 0s @@
-@@  claw*                                             2 at   9 lb and  438d 3st 0s @@
-@@  eye*                                              2 at  <1 lb and    7d 1st 2s @@
-@@  meat                                              4 at   9 lb and    7d 1st 2s @@
+  shell*                                            1 at 160 lb and 2507d 2st 0s 
+  claw*                                             2 at   9 lb and  438d 3st 0s 
+  eye*                                              2 at  <1 lb and    7d 1st 2s 
+  meat                                              4 at   9 lb and    7d 1st 2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -483,26 +483,26 @@ Difficulty: 5/5
 Profit:     4/5
  
 **Scythe bug** (Valuable parts: 151d, 1 lb)
-@@  head*                                               1 at  1 lb and  96d 2st 2s @@
-@@  shell*                                              1 at <1 lb and  32d 0st 2s @@
-@@  eye*                                                2 at <1 lb and  11d 1st 0s @@
-@@  meat                                                4 at  2 lb and  11d 1st 0s @@
-@@  leg                                                 6 at <1 lb and          1s @@
+  head*                                               1 at  1 lb and  96d 2st 2s 
+  shell*                                              1 at <1 lb and  32d 0st 2s 
+  eye*                                                2 at <1 lb and  11d 1st 0s 
+  meat                                                4 at  2 lb and  11d 1st 0s 
+  leg                                                 6 at <1 lb and          1s 
  
 **Carrion bird** (Valuable parts: 401d, 1 lb)
-@@  feather*                                            4 at <1 lb and  99d 1st 1s @@
-@@  claw*                                               2 at <1 lb and   1d 0st 1s @@
-@@  eye*                                                2 at <1 lb and   1d 0st 1s @@
+  feather*                                            4 at <1 lb and  99d 1st 1s 
+  claw*                                               2 at <1 lb and   1d 0st 1s 
+  eye*                                                2 at <1 lb and   1d 0st 1s 
  
 **Carrion snake** (Valuable parts: 697d, 8 lb)
-@@  hide*                                               1 at  5 lb and 470d 0st 1s @@
-@@  head* (behead, replaces skull)                      1 at  3 lb and 107d 1st 2s @@
-@@  fang*                                               2 at <1 lb and  47d 1st 1s @@
-@@  eye*                                                2 at <1 lb and  12d 2st 0s @@
-@@  skull                                               1 at  1 lb and  16d 0st 1s @@
-@@  stomach                                             1 at  2 lb and  12d 2st 0s @@
-@@  meat                                                8 at  4 lb and  12d 2st 0s @@
-@@  bone                                                2 at <1 lb and          1s @@
+  hide*                                               1 at  5 lb and 470d 0st 1s 
+  head* (behead, replaces skull)                      1 at  3 lb and 107d 1st 2s 
+  fang*                                               2 at <1 lb and  47d 1st 1s 
+  eye*                                                2 at <1 lb and  12d 2st 0s 
+  skull                                               1 at  1 lb and  16d 0st 1s 
+  stomach                                             1 at  2 lb and  12d 2st 0s 
+  meat                                                8 at  4 lb and  12d 2st 0s 
+  bone                                                2 at <1 lb and          1s 
  
 Crazy Men / Ravanite Soldiers (No valuable parts)
 
@@ -530,37 +530,37 @@ Difficulty: 4/5
 Profit:     4/5
  
 **Gyrax** (Valuable parts: 176d, 4 lb)
-@@  hide*                                               1 at  3 lb and 156d 2st 2s @@
-@@  claw*                                               4 at <1 lb and   2d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   2d 1st 2s @@
-@@  lungs*                                              1 at <1 lb and   2d 0st 1s @@
-@@  tail*                                               2 at <1 lb and   2d 0st 1s @@
-@@  eye*                                                2 at <1 lb and   1d 3st 1s @@
-@@  head                                                1 at  3 lb and  18d 3st 0s @@
-@@  stomach                                             1 at  1 lb and   2d 0st 1s @@
+  hide*                                               1 at  3 lb and 156d 2st 2s 
+  claw*                                               4 at <1 lb and   2d 0st 1s 
+  heart*                                              1 at <1 lb and   2d 1st 2s 
+  lungs*                                              1 at <1 lb and   2d 0st 1s 
+  tail*                                               2 at <1 lb and   2d 0st 1s 
+  eye*                                                2 at <1 lb and   1d 3st 1s 
+  head                                                1 at  3 lb and  18d 3st 0s 
+  stomach                                             1 at  1 lb and   2d 0st 1s 
  
 **Bat with long ears** (Valuable parts: 93d, 1 lb)
-@@  fang*                                               2 at <1 lb and  15d 3st 0s @@
-@@  head*                                               1 at <1 lb and  17d 3st 1s @@
-@@  pelt*                                               1 at <1 lb and  39d 0st 1s @@
-@@ wing*                                               2 at <1 lb and   2d 1st 2s @@
+  fang*                                               2 at <1 lb and  15d 3st 0s 
+  head*                                               1 at <1 lb and  17d 3st 1s 
+  pelt*                                               1 at <1 lb and  39d 0st 1s 
+ wing*                                               2 at <1 lb and   2d 1st 2s 
  
 **Large brown rat** (Valuable parts: 13d, 2 lb)
-@@  pelt*                                               1 at  1 lb and  10d 2st 2s  @@
-@@  head*                                               1 at  1 lb and   2d 2st 1s @@
-@@  stomach                                             1 at <1 lb and          2s @@
-@@  meat                                                1 at  1 lb and          2s @@
+  pelt*                                               1 at  1 lb and  10d 2st 2s  
+  head*                                               1 at  1 lb and   2d 2st 1s 
+  stomach                                             1 at <1 lb and          2s 
+  meat                                                1 at  1 lb and          2s 
  
 **Gigantic spider** (Valuable parts: 15d, 1 lb)
-@@  eye*                                                8 at <1 lb and   1d 2st 2s @@
-@@  stomach*                                            2 at <1 lb and   1d 2st 2s @@
-@@  leg                                                 8 at <1 lb and          1s @@
+  eye*                                                8 at <1 lb and   1d 2st 2s 
+  stomach*                                            2 at <1 lb and   1d 2st 2s 
+  leg                                                 8 at <1 lb and          1s 
  
 **Anaconda** (Valuable parts: 152d, 9 lb)
-@@  hide*                                               1 at  9 lb and 148d 3st 0s @@
-@@  tail*                                               1 at <1 lb and   3d 2st 2s @@
-@@  head                                                1 at  9 lb and  32d 0st 2s @@
-@@  meat                                                3 at  7 lb and   3d 2st 2s @@
+  hide*                                               1 at  9 lb and 148d 3st 0s 
+  tail*                                               1 at <1 lb and   3d 2st 2s 
+  head                                                1 at  9 lb and  32d 0st 2s 
+  meat                                                3 at  7 lb and   3d 2st 2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -589,10 +589,10 @@ Difficulty: 5/5
 Profit:     4/5
  
 **Sail Snake** (Valuable parts: 128d, 2 lb)
-@@  hide*                                               1 at  2 lb and  93d 3st 2s @@
-@@  fang*                                               2 at <1 lb and  16d 0st 2s @@
-@@  tail*                                               1 at <1 lb and   1d 3st 1s @@
-@@  head                                                1 at  2 lb and  13d 1st 1s @@
+  hide*                                               1 at  2 lb and  93d 3st 2s 
+  fang*                                               2 at <1 lb and  16d 0st 2s 
+  tail*                                               1 at <1 lb and   1d 3st 1s 
+  head                                                1 at  2 lb and  13d 1st 1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -611,18 +611,18 @@ Difficulty: 1/5
 Profit:     2/5
  
 **Scrawny rat** (Valuable parts: 20d, 4 lb)
-@@  head*                                               1 at  2 lb and  10d 3st 1s @@
-@@  pelt*                                               1 at  2 lb and   7d 0st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 2st 0s @@
-@@  stomach                                             1 at  1 lb and   1d 0st 1s @@
+  head*                                               1 at  2 lb and  10d 3st 1s 
+  pelt*                                               1 at  2 lb and   7d 0st 1s 
+  tail*                                               1 at <1 lb and   1d 2st 0s 
+  stomach                                             1 at  1 lb and   1d 0st 1s 
   
 **Alley dog** (Valuable parts: 79d, 10 lb)
-@@  pelt*                                               1 at  5 lb and  46d 3st 2s @@
-@@  heart*                                              1 at <1 lb and   1d 1st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 2s @@
-@@  head*                                               1 at  5 lb and  10d 2st 2s @@
-@@  stomach                                             1 at  2 lb and   1d 0st 2s @@
-@@  meat                                                1 at  4 lb and   1d 0st 2s @@
+  pelt*                                               1 at  5 lb and  46d 3st 2s 
+  heart*                                              1 at <1 lb and   1d 1st 1s 
+  tail*                                               1 at <1 lb and   1d 0st 2s 
+  head*                                               1 at  5 lb and  10d 2st 2s 
+  stomach                                             1 at  2 lb and   1d 0st 2s 
+  meat                                                1 at  4 lb and   1d 0st 2s 
 
 
 [Back to Table of Contents](#ToC)
@@ -641,107 +641,107 @@ Difficulty: 3/5
 Profit:     4/5
  
 **Molerat** (Valuable parts: 72d, 2 lb)
-@@  skin*                                               1 at  1 lb and  54d 3st 0s @@
-@@  head* (behead)                                      1 at <1 lb and  10d 2st 2s @@
-@@  stomach*                                            1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                1 at <1 lb and   1d 0st 1s @@
-@@  jawbone*                                            1 at <1 lb and   1d 0st 1s @@
-@@ brains*                                             1 at <1 lb and   1d 0st 1s @@
-@@  intestines*                                         1 at <1 lb and   1d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 0st 1s @@
-@@  skull                                               1 at  1 lb and   1d 1st 1s @@
+  skin*                                               1 at  1 lb and  54d 3st 0s 
+  head* (behead)                                      1 at <1 lb and  10d 2st 2s 
+  stomach*                                            1 at <1 lb and   1d 0st 1s 
+  rib*                                                1 at <1 lb and   1d 0st 1s 
+  jawbone*                                            1 at <1 lb and   1d 0st 1s 
+ brains*                                             1 at <1 lb and   1d 0st 1s 
+  intestines*                                         1 at <1 lb and   1d 0st 1s 
+  heart*                                              1 at <1 lb and   1d 0st 1s 
+  skull                                               1 at  1 lb and   1d 1st 1s 
  
 **Large brown rat** (Valuable parts: 13d, 2 lb)
-@@  pelt*                                               1 at  1 lb and  10d 2st 2s  @@
-@@  head*                                               1 at  1 lb and   2d 2st 1s @@
-@@  stomach                                             1 at <1 lb and          2s @@
-@@  meat                                                1 at  1 lb and          2s @@
+  pelt*                                               1 at  1 lb and  10d 2st 2s  
+  head*                                               1 at  1 lb and   2d 2st 1s 
+  stomach                                             1 at <1 lb and          2s 
+  meat                                                1 at  1 lb and          2s 
  
 **Hound** (Valuable parts: 22d, 6 lb)
-@@  pelt*                                               1 at  3 lb and  10d 2st 2s @@
-@@  head*                                               1 at  3 lb and  10d 2st 2s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  stomach                                             1 at  1 lb and   1d 0st 1s @@
-@@  meat                                                2 at  3 lb and   1d 0st 1s @@
+  pelt*                                               1 at  3 lb and  10d 2st 2s 
+  head*                                               1 at  3 lb and  10d 2st 2s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  stomach                                             1 at  1 lb and   1d 0st 1s 
+  meat                                                2 at  3 lb and   1d 0st 1s 
  
 **Rabid hound** (Valuable parts: 23d, 6 lb)
-@@  pelt*                                               1 at  3 lb and  10d 2st 2s @@
-@@  head*                                               1 at  3 lb and  10d 2st 2s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                1 at <1 lb and   1d 0st 1s @@
-@@  stomach                                             1 at  1 lb and   1d 0st 1s @@
-@@  meat                                                2 at  3 lb and   1d 0st 1s @@
+  pelt*                                               1 at  3 lb and  10d 2st 2s 
+  head*                                               1 at  3 lb and  10d 2st 2s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  rib*                                                1 at <1 lb and   1d 0st 1s 
+  stomach                                             1 at  1 lb and   1d 0st 1s 
+  meat                                                2 at  3 lb and   1d 0st 1s 
  
 **Large roach** (No parts at all)
  
 **Large raven** (Valuable parts: 20d, 2 lb)
-@@  head*(behead)                                       1 at  1 lb and  10d 2st 2s @@
-@@  heart*                                              1 at <1 lb and   1d 1st 1s @@
-@@  skull*                                              1 at <1 lb and   1d 1st 1s @@
-@@  wing*                                               2 at <1 lb and   1d 0st 1s @@
-@@  eye*                                                2 at <1 lb and   1d 0st 1s @@
-@@  claw*                                               2 at <1 lb and   1d 0st 1s @@
-@@  beak                                                1 at <1 lb and          1s @@
-  stomach                                             1 at  1 lb and   1d 0st 1s @@
-@@  feather                                             8 at <1 lb and          0s @@
+  head*(behead)                                       1 at  1 lb and  10d 2st 2s 
+  heart*                                              1 at <1 lb and   1d 1st 1s 
+  skull*                                              1 at <1 lb and   1d 1st 1s 
+  wing*                                               2 at <1 lb and   1d 0st 1s 
+  eye*                                                2 at <1 lb and   1d 0st 1s 
+  claw*                                               2 at <1 lb and   1d 0st 1s 
+  beak                                                1 at <1 lb and          1s 
+  stomach                                             1 at  1 lb and   1d 0st 1s 
+  feather                                             8 at <1 lb and          0s 
  
 **Wolverine** (Valuable parts: 177d, 5 lb)
-@@  pelt*                                               1 at  2 lb and 156d 2st 2s @@
-@@  heart*                                              1 at <1 lb and   1d 1st 1s @@
-@@  claw*                                               4 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                4 at <1 lb and   1d 0st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  head*                                               1 at  2 lb and  10d 2st 2s @@
-@@  meat                                                2 at  2 lb and   1d 0st 1s @@
+  pelt*                                               1 at  2 lb and 156d 2st 2s 
+  heart*                                              1 at <1 lb and   1d 1st 1s 
+  claw*                                               4 at <1 lb and   1d 0st 1s 
+  rib*                                                4 at <1 lb and   1d 0st 1s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  head*                                               1 at  2 lb and  10d 2st 2s 
+  meat                                                2 at  2 lb and   1d 0st 1s 
  
 **Stag**(Valuable parts: 531d, 13 lb)
-@@  hide*                                               1 at  7 lb and 376d 0st 1s @@
-@@  antler*                                             2 at <1 lb and  54d 3st 0s @@
-@@  heart*                                              1 at <1 lb and   2d 0st 1s @@
-@@  brains*                                             1 at <1 lb and   1d 3st 0s @@
-@@  intestines*                                         1 at <1 lb and   1d 3st 0s @@
-@@  liver*                                              1 at <1 lb and   1d 3st 0s @@
-@@  lungs*                                              1 at <1 lb and   1d 3st 0s @@
-@@  rib*                                                2 at <1 lb and   1d 3st 0s @@
-@@  hoof*                                               4 at <1 lb and   1d 3st 0s @@
-@@  eye*                                                2 at <1 lb and   1d 3st 0s @@
-@@  ear*                                                2 at <1 lb and   1d 3st 0s @@
-@@  kidney*                                             2 at <1 lb and   1d 2st 0s @@
-@@  head* (behead)                                      1 at  4 lb and  16d 0st 1s @@
-@@  stomach                                             1 at  2 lb and   1d 3st 0s @@
-@@  skull                                               1 at  2 lb and   1d 3st 1s @@
-@@  leg bone                                            2 at  4 lb and   1d 3st 0s @@
-@@  chunk of venison                                    6 at <1 lb and          1s @@
-@@  haunch of venison                                   2 at  4 lb and   1d 0st 1s @@
+  hide*                                               1 at  7 lb and 376d 0st 1s 
+  antler*                                             2 at <1 lb and  54d 3st 0s 
+  heart*                                              1 at <1 lb and   2d 0st 1s 
+  brains*                                             1 at <1 lb and   1d 3st 0s 
+  intestines*                                         1 at <1 lb and   1d 3st 0s 
+  liver*                                              1 at <1 lb and   1d 3st 0s 
+  lungs*                                              1 at <1 lb and   1d 3st 0s 
+  rib*                                                2 at <1 lb and   1d 3st 0s 
+  hoof*                                               4 at <1 lb and   1d 3st 0s 
+  eye*                                                2 at <1 lb and   1d 3st 0s 
+  ear*                                                2 at <1 lb and   1d 3st 0s 
+  kidney*                                             2 at <1 lb and   1d 2st 0s 
+  head* (behead)                                      1 at  4 lb and  16d 0st 1s 
+  stomach                                             1 at  2 lb and   1d 3st 0s 
+  skull                                               1 at  2 lb and   1d 3st 1s 
+  leg bone                                            2 at  4 lb and   1d 3st 0s 
+  chunk of venison                                    6 at <1 lb and          1s 
+  haunch of venison                                   2 at  4 lb and   1d 0st 1s 
  
 **Honey badger** (Valuable parts: 154d, 11 lb)
-@@  pelt*                                               1 at  5 lb and 134d 1st 0s @@
-@@  heart*                                              1 at <1 lb and   1d 2st 0s @@
-@@  kidney*                                             2 at <1 lb and   1d 0st 1s @@
-@@  liver*                                              1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                2 at <1 lb and   1d 0st 1s @@
-@@  claw*                                               2 at <1 lb and   1d 0st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  head*                                               1 at  5 lb and  10d 2st 2s @@
-@@  stomach                                             1 at  2 lb and   1d 0st 1s @@
-@@  meat                                                1 at  4 lb and   1d 0st 1s @@
+  pelt*                                               1 at  5 lb and 134d 1st 0s 
+  heart*                                              1 at <1 lb and   1d 2st 0s 
+  kidney*                                             2 at <1 lb and   1d 0st 1s 
+  liver*                                              1 at <1 lb and   1d 0st 1s 
+  rib*                                                2 at <1 lb and   1d 0st 1s 
+  claw*                                               2 at <1 lb and   1d 0st 1s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  head*                                               1 at  5 lb and  10d 2st 2s 
+  stomach                                             1 at  2 lb and   1d 0st 1s 
+  meat                                                1 at  4 lb and   1d 0st 1s 
  
 **Copperhead** (Valuable parts: 148d, 1 lb)
-@@  hide*                                               1 at <1 lb and  60d 1st 0s @@
-@@  fang*                                               6 at <1 lb and  12d 3st 2s @@
-@@  head*                                               1 at <1 lb and  10d 2st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 0s @@
+  hide*                                               1 at <1 lb and  60d 1st 0s 
+  fang*                                               6 at <1 lb and  12d 3st 2s 
+  head*                                               1 at <1 lb and  10d 2st 1s 
+  tail*                                               1 at <1 lb and   1d 0st 0s 
  
 **Wolf** (Valuable parts: 175d, 11 lb)
-@@  pelt*                                               1 at  5 lb and 156d 2st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 2st 0s @@
-@@  claw*                                               2 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                2 at <1 lb and   1d 0st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 0st 1s @@
-@@  jawbone*                                            1 at <1 lb and   1d 0st 1s @@
-@@  head*                                               1 at  5 lb and  10d 2st 0s @@
-@@  leg bone                                            4 at  3 lb and   1d 0st 1s @@
-@@  meat                                                2 at  5 lb and   1d 0st 1s @@
+  pelt*                                               1 at  5 lb and 156d 2st 1s 
+  heart*                                              1 at <1 lb and   1d 2st 0s 
+  claw*                                               2 at <1 lb and   1d 0st 1s 
+  rib*                                                2 at <1 lb and   1d 0st 1s 
+  tail*                                               1 at <1 lb and   1d 0st 1s 
+  jawbone*                                            1 at <1 lb and   1d 0st 1s 
+  head*                                               1 at  5 lb and  10d 2st 0s 
+  leg bone                                            4 at  3 lb and   1d 0st 1s 
+  meat                                                2 at  5 lb and   1d 0st 1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -765,18 +765,18 @@ Difficulty: 3/5
 Profit:     5/5
  
 **Blischa'ag** (Valuable parts: 263d, <1 lb)
-@@  meat*                                               1 at <1 lb and 150d 1st 2s @@
-@@  shell*                                              1 at <1 lb and 109d 2st 1s @@
-@@  eye*                                                2 at <1 lb and   1d 3st 0s @@
+  meat*                                               1 at <1 lb and 150d 1st 2s 
+  shell*                                              1 at <1 lb and 109d 2st 1s 
+  eye*                                                2 at <1 lb and   1d 3st 0s 
  
 **Schtraffeg** (Valuable parts: 260d, 10 lb)
-@@  hide*                                               1 at  7 lb and 140d 3st 2s @@
-@@  tail*                                               1 at <1 lb and  93d 3st 2s @@
-@@  eye*                                                2 at <1 lb and   2d 1st 2s @@
-@@  head* (behead)                                      1 at  3 lb and  21d 1st 2s @@
-@@  skull                                               1 at  2 lb and   3d 0st 1s @@
-@@  claw                                                8 at  1 lb and   2d 1st 2s @@
-@@  meat                                                2 at  6 lb and   2d 1st 2s @@
+  hide*                                               1 at  7 lb and 140d 3st 2s 
+  tail*                                               1 at <1 lb and  93d 3st 2s 
+  eye*                                                2 at <1 lb and   2d 1st 2s 
+  head* (behead)                                      1 at  3 lb and  21d 1st 2s 
+  skull                                               1 at  2 lb and   3d 0st 1s 
+  claw                                                8 at  1 lb and   2d 1st 2s 
+  meat                                                2 at  6 lb and   2d 1st 2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -797,16 +797,16 @@ Difficulty: 3/5
 Profit:     3/5
  
 **Carrion stalker** (Valuable parts: 120d, 3 lb)
-@@  skin*                                               1 at  3 lb and 117d 1st 2s @@
-@@  eye*                                                2 at <1 lb and   1d 2st 0s @@
-@@  stomach                                             1 at  1 lb and   1d 2st 0s @@
+  skin*                                               1 at  3 lb and 117d 1st 2s 
+  eye*                                                2 at <1 lb and   1d 2st 0s 
+  stomach                                             1 at  1 lb and   1d 2st 0s 
  
 **Carrion slug** (Valuable parts: 1d, <1 lb)
-@@  stomach*                                            1 at <1 lb and   1d 0st 1s @@
+  stomach*                                            1 at <1 lb and   1d 0st 1s 
  
 **Obsidian scarab** (Valuable parts: 24d, <1 lb)
-@@  shell*                                              1 at  1 lb and  14d 1st 0s @@
-@@  eye*                                                2 at <1 lb and   4d 3st 2s @@
+  shell*                                              1 at  1 lb and  14d 1st 0s 
+  eye*                                                2 at <1 lb and   4d 3st 2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -828,11 +828,11 @@ Difficulty: 4/5
 Profit:     2/5
  
 **Nest turtle** (No valuable parts)
-@@  scales                                              3 at 20 lb and  31d 1st 0s   @@
-@@  shell                                               1 at 10 lb and   5d 1st 1s @@
+  scales                                              3 at 20 lb and  31d 1st 0s   
+  shell                                               1 at 10 lb and   5d 1st 1s 
  
 **Shield bee** (Valuable parts: 15d, <1 lb)
-@@  wing*                                               2 at <1 lb and   7d 2st 2s @@
+  wing*                                               2 at <1 lb and   7d 2st 2s 
   
 [Back to Table of Contents](#ToC)
 
@@ -856,28 +856,28 @@ Difficulty: 2/5
 Profit:     2/5
  
 **Molerat** (Valuable parts: 72d, 2 lb)
-@@  skin*                                               1 at  1 lb and  54d 3st 0s @@
-@@  head* (behead)                                      1 at <1 lb and  10d 2st 2s @@
-@@  stomach*                                            1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                1 at <1 lb and   1d 0st 1s @@
-@@  jawbone*                                            1 at <1 lb and   1d 0st 1s @@
-@@  brains*                                             1 at <1 lb and   1d 0st 1s @@
-@@  intestines*                                         1 at <1 lb and   1d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 0st 1s @@
-@@  skull                                               1 at  1 lb and   1d 1st 1s @@
+  skin*                                               1 at  1 lb and  54d 3st 0s 
+  head* (behead)                                      1 at <1 lb and  10d 2st 2s 
+  stomach*                                            1 at <1 lb and   1d 0st 1s 
+  rib*                                                1 at <1 lb and   1d 0st 1s 
+  jawbone*                                            1 at <1 lb and   1d 0st 1s 
+  brains*                                             1 at <1 lb and   1d 0st 1s 
+  intestines*                                         1 at <1 lb and   1d 0st 1s 
+  heart*                                              1 at <1 lb and   1d 0st 1s 
+  skull                                               1 at  1 lb and   1d 1st 1s 
  
 **Large bat** (Valuable parts: 42d, 5 lb) 
-@@  pelt*                                               1 at  5 lb and  39d 0st 1s @@
-@@  wing*                                               2 at <1 lb and      3st 2s @@
-@@  ear*                                                2 at <1 lb and      3st 2s @@
-@@  head                                                1 at  5 lb and   8d 2st 0s @@
-@@  meat                                                1 at  5 lb and      3st 2s @@
+  pelt*                                               1 at  5 lb and  39d 0st 1s 
+  wing*                                               2 at <1 lb and      3st 2s 
+  ear*                                                2 at <1 lb and      3st 2s 
+  head                                                1 at  5 lb and   8d 2st 0s 
+  meat                                                1 at  5 lb and      3st 2s 
  
 **Large brown rat** (Valuable parts: 13d, 2 lb)
-@@  pelt*                                               1 at  1 lb and  10d 2st 2s  @@
-@@  head*                                               1 at  1 lb and   2d 2st 1s @@
-@@  stomach                                             1 at <1 lb and          2s @@
-@@  meat                                                1 at  1 lb and          2s @@
+  pelt*                                               1 at  1 lb and  10d 2st 2s  
+  head*                                               1 at  1 lb and   2d 2st 1s 
+  stomach                                             1 at <1 lb and          2s 
+  meat                                                1 at  1 lb and          2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -899,26 +899,26 @@ Difficulty: 3/5
 Profit:     4/5
  
 **Horned beetle** (Valuable parts: 78d, 1 lb)
-@@  shell*                                              1 at  1 lb and  54d 3st 0s @@
-@@  horn*                                               1 at <1 lb and  23d 1st 1s @@
-@@  eye                                                 2 at <1 lb and          1s @@
-@@  brains                                              1 at <1 lb and          1s @@
-@@  meat                                                3 at  4 lb and          1s @@
+  shell*                                              1 at  1 lb and  54d 3st 0s 
+  horn*                                               1 at <1 lb and  23d 1st 1s 
+  eye                                                 2 at <1 lb and          1s 
+  brains                                              1 at <1 lb and          1s 
+  meat                                                3 at  4 lb and          1s 
   
 **Beetle** (Valuable parts: 55d, 1 lb)
-@@  shell*                                              1 at  1 lb and  54d 3st 0s @@
-@@  eye                                                 2 at <1 lb and          1s @@
-@@  heart                                               1 at <1 lb and          1s @@
-@@  brains                                              1 at <1 lb and          1s @@
-@@  stomach                                             1 at <1 lb and          1s @@
-@@  meat                                                4 at  3 lb and          1s @@
+  shell*                                              1 at  1 lb and  54d 3st 0s 
+  eye                                                 2 at <1 lb and          1s 
+  heart                                               1 at <1 lb and          1s 
+  brains                                              1 at <1 lb and          1s 
+  stomach                                             1 at <1 lb and          1s 
+  meat                                                4 at  3 lb and          1s 
  
 **Large wasp** (Valuable parts: 155d, 1 lb)
-@@  wing*                                               4 at <1 lb and  37d 2st 1s @@
-@@  stomach*                                            1 at <1 lb and   1d 2st 2s @@
-@@  eye*                                                2 at <1 lb and      3st 2s @@
-@@  brains*                                             1 at <1 lb and      3st 2s @@
-@@  meat                                                1 at  1 lb and      3st 2s @@
+  wing*                                               4 at <1 lb and  37d 2st 1s 
+  stomach*                                            1 at <1 lb and   1d 2st 2s 
+  eye*                                                2 at <1 lb and      3st 2s 
+  brains*                                             1 at <1 lb and      3st 2s 
+  meat                                                1 at  1 lb and      3st 2s 
  
 **Large roach** (No parts at all)
 
@@ -941,28 +941,28 @@ Difficulty: 3/5
 Profit:     4/5
  
 **Massive serpent** (Valuable parts: 477d, 7 lb)
-@@  hide*                                               1 at  7 lb and 376d 0st 1s @@
-@@  fang*                                               2 at <1 lb and  46d 3st 2s @@
-@@  eye*                                                2 at <1 lb and   3d 2st 2s @@
-@@  head                                                1 at  7 lb and  32d 0st 1s @@
-@@  meat                                                4 at  6 lb and   3d 2st 2s @@
+  hide*                                               1 at  7 lb and 376d 0st 1s 
+  fang*                                               2 at <1 lb and  46d 3st 2s 
+  eye*                                                2 at <1 lb and   3d 2st 2s 
+  head                                                1 at  7 lb and  32d 0st 1s 
+  meat                                                4 at  6 lb and   3d 2st 2s 
  
 **Gigantic spider** (Valuable parts: 15d, 1 lb)
-@@  eye*                                                8 at <1 lb and   1d 2st 2s @@
-@@  stomach*                                            2 at <1 lb and   1d 2st 2s @@
-@@  leg                                                 8 at <1 lb and          1s @@
+  eye*                                                8 at <1 lb and   1d 2st 2s 
+  stomach*                                            2 at <1 lb and   1d 2st 2s 
+  leg                                                 8 at <1 lb and          1s 
  
 **Large brown rat** (Valuable parts: 16d, 1 lb)
-@@  pelt*                                               1 at  1 lb and  15d 2st 1s @@
-@@  head                                                1 at  1 lb and   2d 2st 1s @@
-@@  stomach                                             1 at <1 lb and      1st 0s @@
-@@  meat                                                1 at  1 lb and      1st 0s @@
+  pelt*                                               1 at  1 lb and  15d 2st 1s 
+  head                                                1 at  1 lb and   2d 2st 1s 
+  stomach                                             1 at <1 lb and      1st 0s 
+  meat                                                1 at  1 lb and      1st 0s 
  
 **Pale rat** (No valuable parts)
-@@  pelt                                                1 at  2 lb and   1d 0st 1s @@
-@@  head                                                1 at  1 lb and   2d 2st 1s @@
-@@  stomach                                             1 at <1 lb and      1st 0s @@
-@@  meat                                                1 at  1 lb and      1st 0s @@
+  pelt                                                1 at  2 lb and   1d 0st 1s 
+  head                                                1 at  1 lb and   2d 2st 1s 
+  stomach                                             1 at <1 lb and      1st 0s 
+  meat                                                1 at  1 lb and      1st 0s 
 
 [Back to Table of Contents](#ToC)
 
@@ -986,22 +986,22 @@ Difficulty: 2/5
 Profit:     2/5
  
 **Mud snake** (Valuable parts: 126d, 1 lb)
-@@  hide*                                               1 at  1 lb and  93d 3st 2s @@
-@@  fang*                                               2 at <1 lb and  16d 0st 1s @@
-@@  meat                                                1 at  1 lb and   1d 1st 0s @@
+  hide*                                               1 at  1 lb and  93d 3st 2s 
+  fang*                                               2 at <1 lb and  16d 0st 1s 
+  meat                                                1 at  1 lb and   1d 1st 0s 
  
 **Large bat** (Valuable parts: 42d, 5 lb)
-@@  pelt*                                               1 at  5 lb and  39d 0st 1s @@
-@@  ear*                                                2 at <1 lb and      3st 2s @@
-@@  wing*                                               2 at <1 lb and      3st 2s @@
-@@  head                                                1 at  5 lb and   8d 2st 0s @@
-@@  meat                                                1 at  4 lb and      3st 2s @@
+  pelt*                                               1 at  5 lb and  39d 0st 1s 
+  ear*                                                2 at <1 lb and      3st 2s 
+  wing*                                               2 at <1 lb and      3st 2s 
+  head                                                1 at  5 lb and   8d 2st 0s 
+  meat                                                1 at  4 lb and      3st 2s 
  
 **Pale rat** (No valuable parts)
-@@  pelt                                                1 at  1 lb and   4d 1st 2s @@
-@@  head                                                1 at  1 lb and   3d 2st 2s @@
-@@  stomach                                             1 at <1 lb and      1st 0s @@
-@@  meat                                                1 at  1 lb and      1st 0s @@
+  pelt                                                1 at  1 lb and   4d 1st 2s 
+  head                                                1 at  1 lb and   3d 2st 2s 
+  stomach                                             1 at <1 lb and      1st 0s 
+  meat                                                1 at  1 lb and      1st 0s 
 
 [Back to Table of Contents](#ToC)
 
@@ -1026,38 +1026,38 @@ Difficulty: 3/5
 Profit:     3/5
  
 **Small alligator** (Valuable parts: 60d, 2 lb)
-@@  hide*                                               1 at  1 lb and  46d 3st 2s @@
-@@  tooth*                                              1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                2 at <1 lb and   1d 0st 1s @@
-@@  head* (beheading)                                   1 at  1 lb and  10d 2st 2s @@
-@@  skull                                               1 at  1 lb and   1d 2st 0s @@
-@@  meat                                                1 at  1 lb and      3st 2s @@
+  hide*                                               1 at  1 lb and  46d 3st 2s 
+  tooth*                                              1 at <1 lb and   1d 0st 1s 
+  rib*                                                2 at <1 lb and   1d 0st 1s 
+  head* (beheading)                                   1 at  1 lb and  10d 2st 2s 
+  skull                                               1 at  1 lb and   1d 2st 0s 
+  meat                                                1 at  1 lb and      3st 2s 
  
 **Huge alligator** (Valuable parts: 480d, 21 lb)
-@@  hide*                                               1 at 20 lb and 391d 2st 2s @@
-@@  rib*                                                4 at <1 lb and   8d 2st 2s @@
-@@  claw*                                               4 at <1 lb and   8d 2st 2s @@
-@@  eye*                                                2 at <1 lb and   8d 2st 2s @@
-@@  tooth*                                              2 at <1 lb and   1d 0st 1s @@
-@@  stomach*                                            1 at <1 lb and   1d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 0st 1s @@
-@@  skull                                               1 at  6 lb and  11d 1st 0s @@
-@@  meat                                                3 at 18 lb and   8d 2st 2s @@
+  hide*                                               1 at 20 lb and 391d 2st 2s 
+  rib*                                                4 at <1 lb and   8d 2st 2s 
+  claw*                                               4 at <1 lb and   8d 2st 2s 
+  eye*                                                2 at <1 lb and   8d 2st 2s 
+  tooth*                                              2 at <1 lb and   1d 0st 1s 
+  stomach*                                            1 at <1 lb and   1d 0st 1s 
+  heart*                                              1 at <1 lb and   1d 0st 1s 
+  skull                                               1 at  6 lb and  11d 1st 0s 
+  meat                                                3 at 18 lb and   8d 2st 2s 
  
 **Horned beetle** (Valuable parts: 78d, 1 lb)
-@@  shell*                                              1 at  1 lb and  54d 3st 0s @@
-@@  horn*                                               1 at <1 lb and  23d 1st 1s @@
-@@  eye                                                 2 at <1 lb and          1s @@
-@@  brains                                              1 at <1 lb and          1s @@
-@@  meat                                                3 at  4 lb and          1s @@
+  shell*                                              1 at  1 lb and  54d 3st 0s 
+  horn*                                               1 at <1 lb and  23d 1st 1s 
+  eye                                                 2 at <1 lb and          1s 
+  brains                                              1 at <1 lb and          1s 
+  meat                                                3 at  4 lb and          1s 
  
 **Pod beetle** (Valuable parts: 39d, <1 lb)
-@@  shell*                                              1 at <1 lb and  39d 0st 1s @@
-@@  brains                                              1 at <1 lb and          1s @@
-@@  heart                                               1 at <1 lb and          1s @@
-@@  eye                                                 2 at <1 lb and          1s @@
-@@  stomach                                             1 at  1 lb and          1s @@
-@@  meat                                                4 at  4 lb and          1s @@
+  shell*                                              1 at <1 lb and  39d 0st 1s 
+  brains                                              1 at <1 lb and          1s 
+  heart                                               1 at <1 lb and          1s 
+  eye                                                 2 at <1 lb and          1s 
+  stomach                                             1 at  1 lb and          1s 
+  meat                                                4 at  4 lb and          1s 
  
 **Quivering ooze** (No parts at all)
 
@@ -1086,13 +1086,13 @@ Difficulty: 4/5
 Profit:     1/5
  
 **Gigantic spider** (Valuable parts: 15d, 1 lb)
-@@  eye*                                                8 at <1 lb and   1d 2st 2s @@
-@@  stomach*                                            2 at <1 lb and   1d 2st 2s @@
-@@  leg                                                 8 at <1 lb and          1s @@
+  eye*                                                8 at <1 lb and   1d 2st 2s 
+  stomach*                                            2 at <1 lb and   1d 2st 2s 
+  leg                                                 8 at <1 lb and          1s 
  
 **Leech spider** (Valuable parts: 47d, 3 lb)
-@@  skin*                                               1 at  3 lb and  46d 3st 2s @@
-@@  meat                                                1 at  3 lb and   1d 0st 1s @@
+  skin*                                               1 at  3 lb and  46d 3st 2s 
+  meat                                                1 at  3 lb and   1d 0st 1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -1112,11 +1112,11 @@ Difficulty: 2/5
 Profit:     1/5
  
 **Large bat** (Valuable parts: 42d, 5 lb)
-@@  pelt*                                               1 at  5 lb and  39d 0st 1s @@
-@@  ear*                                                2 at <1 lb and      3st 2s @@
-@@  wing*                                               2 at <1 lb and      3st 2s @@
-@@  head                                                1 at  5 lb and   8d 2st 0s @@
-@@  meat                                                1 at  4 lb and      3st 2s @@
+  pelt*                                               1 at  5 lb and  39d 0st 1s 
+  ear*                                                2 at <1 lb and      3st 2s 
+  wing*                                               2 at <1 lb and      3st 2s 
+  head                                                1 at  5 lb and   8d 2st 0s 
+  meat                                                1 at  4 lb and      3st 2s 
 
 [Back to Table of Contents](#ToC)
 
@@ -1140,22 +1140,22 @@ Difficulty: 2/5
 Profit:     2/5
  
 **Large bat** (Valuable parts: 42d, 5 lb)
-@@  pelt*                                               1 at  5 lb and  39d 0st 1s @@
-@@  ear*                                                2 at <1 lb and      3st 2s @@
-@@  wing*                                               2 at <1 lb and      3st 2s @@
-@@  head                                                1 at  5 lb and   8d 2st 0s @@
-@@  meat                                                1 at  4 lb and      3st 2s @@
+  pelt*                                               1 at  5 lb and  39d 0st 1s 
+  ear*                                                2 at <1 lb and      3st 2s 
+  wing*                                               2 at <1 lb and      3st 2s 
+  head                                                1 at  5 lb and   8d 2st 0s 
+  meat                                                1 at  4 lb and      3st 2s 
  
 **Dirt snake** (Valuable parts: 150d, 2 lb)
-@@  hide*                                               1 at  1 lb and  93d 3st 2s @@
-@@  fang*                                               2 at <1 lb and  19d 1st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 3st 0s @@
-@@  head*                                               1 at  1 lb and  16d 0st 1s @@
+  hide*                                               1 at  1 lb and  93d 3st 2s 
+  fang*                                               2 at <1 lb and  19d 1st 1s 
+  tail*                                               1 at <1 lb and   1d 3st 0s 
+  head*                                               1 at  1 lb and  16d 0st 1s 
  
 **Plump brown rat** (Valuable parts: 15d, 1 lb)
-@@  pelt*                                               1 at  1 lb and  15d 2st 1s @@
-@@  head                                                1 at  1 lb and          0s @@
-@@  stomach                                             1 at <1 lb and          0s @@
+  pelt*                                               1 at  1 lb and  15d 2st 1s 
+  head                                                1 at  1 lb and          0s 
+  stomach                                             1 at <1 lb and          0s 
 
 [Back to Table of Contents](#ToC)
 
@@ -1166,33 +1166,33 @@ Difficulty: 2/5
 Profit:     2/5
  
 **Molerat** (Valuable parts: 72d, 2 lb)
-@@  skin*                                               1 at  1 lb and  54d 3st 0s @@
-@@  head* (behead)                                      1 at <1 lb and  10d 2st 2s @@
-@@  stomach*                                            1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                1 at <1 lb and   1d 0st 1s @@
-@@  jawbone*                                            1 at <1 lb and   1d 0st 1s @@
-@@  brains*                                             1 at <1 lb and   1d 0st 1s @@
-@@  intestines*                                         1 at <1 lb and   1d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 0st 1s @@
-@@  skull                                               1 at  1 lb and   1d 1st 1s @@
+  skin*                                               1 at  1 lb and  54d 3st 0s 
+  head* (behead)                                      1 at <1 lb and  10d 2st 2s 
+  stomach*                                            1 at <1 lb and   1d 0st 1s 
+  rib*                                                1 at <1 lb and   1d 0st 1s 
+  jawbone*                                            1 at <1 lb and   1d 0st 1s 
+  brains*                                             1 at <1 lb and   1d 0st 1s 
+  intestines*                                         1 at <1 lb and   1d 0st 1s 
+  heart*                                              1 at <1 lb and   1d 0st 1s 
+  skull                                               1 at  1 lb and   1d 1st 1s 
  
 **Large bat** (Valuable parts: 42d, 5 lb)
-@@  pelt*                                               1 at  5 lb and  39d 0st 1s @@
-@@  ear*                                                2 at <1 lb and      3st 2s @@
-@@  wing*                                               2 at <1 lb and      3st 2s @@
-@@  head                                                1 at  5 lb and   8d 2st 0s @@
-@@  meat                                                1 at  4 lb and      3st 2s @@
+  pelt*                                               1 at  5 lb and  39d 0st 1s 
+  ear*                                                2 at <1 lb and      3st 2s 
+  wing*                                               2 at <1 lb and      3st 2s 
+  head                                                1 at  5 lb and   8d 2st 0s 
+  meat                                                1 at  4 lb and      3st 2s 
  
 **Gigantic spider** (Valuable parts: 15d, 1 lb)
-@@  eye*                                                8 at <1 lb and   1d 2st 2s @@
-@@  stomach*                                            2 at <1 lb and   1d 2st 2s @@
-@@  leg                                                 8 at <1 lb and          1s @@
+  eye*                                                8 at <1 lb and   1d 2st 2s 
+  stomach*                                            2 at <1 lb and   1d 2st 2s 
+  leg                                                 8 at <1 lb and          1s 
  
 **Dirt snake** (Valuable parts: 150d, 2 lb)
-@@  hide*                                               1 at  1 lb and  93d 3st 2s @@
-@@  fang*                                               2 at <1 lb and  19d 1st 1s @@
-@@  tail*                                               1 at <1 lb and   1d 3st 0s @@
-@@  head*                                               1 at  1 lb and  16d 0st 1s @@
+  hide*                                               1 at  1 lb and  93d 3st 2s 
+  fang*                                               2 at <1 lb and  19d 1st 1s 
+  tail*                                               1 at <1 lb and   1d 3st 0s 
+  head*                                               1 at  1 lb and  16d 0st 1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -1203,41 +1203,41 @@ Difficulty: 3/5
 Profit:     3/5
  
 **Massive serpent** (Valuable parts: 477d, 7 lb)
-@@  hide*                                               1 at  7 lb and 376d 0st 1s @@
-@@  fang*                                               2 at <1 lb and  46d 3st 2s @@
-@@  eye*                                                2 at <1 lb and   3d 2st 2s @@
-@@  head                                                1 at  7 lb and  32d 0st 1s @@
-@@  meat                                                4 at  6 lb and   3d 2st 2s @@
+  hide*                                               1 at  7 lb and 376d 0st 1s 
+  fang*                                               2 at <1 lb and  46d 3st 2s 
+  eye*                                                2 at <1 lb and   3d 2st 2s 
+  head                                                1 at  7 lb and  32d 0st 1s 
+  meat                                                4 at  6 lb and   3d 2st 2s 
  
 **Molerat** (Valuable parts: 72d, 2 lb) 
-@@  skin*                                               1 at  1 lb and  54d 3st 0s @@
-@@  head* (behead)                                      1 at <1 lb and  10d 2st 2s @@
-@@  stomach*                                            1 at <1 lb and   1d 0st 1s @@
-@@  rib*                                                1 at <1 lb and   1d 0st 1s @@
-@@  jawbone*                                            1 at <1 lb and   1d 0st 1s @@
-@@  brains*                                             1 at <1 lb and   1d 0st 1s @@
-@@  intestines*                                         1 at <1 lb and   1d 0st 1s @@
-@@  heart*                                              1 at <1 lb and   1d 0st 1s @@
-@@  skull                                               1 at  1 lb and   1d 1st 1s @@
+  skin*                                               1 at  1 lb and  54d 3st 0s 
+  head* (behead)                                      1 at <1 lb and  10d 2st 2s 
+  stomach*                                            1 at <1 lb and   1d 0st 1s 
+  rib*                                                1 at <1 lb and   1d 0st 1s 
+  jawbone*                                            1 at <1 lb and   1d 0st 1s 
+  brains*                                             1 at <1 lb and   1d 0st 1s 
+  intestines*                                         1 at <1 lb and   1d 0st 1s 
+  heart*                                              1 at <1 lb and   1d 0st 1s 
+  skull                                               1 at  1 lb and   1d 1st 1s 
  
 **Large bat** (Valuable parts: 42d, 5 lb)
-@@  pelt*                                               1 at  5 lb and  39d 0st 1s @@
-@@  ear*                                                2 at <1 lb and      3st 2s @@
-@@  wing*                                               2 at <1 lb and      3st 2s @@
-@@  head                                                1 at  5 lb and   8d 2st 0s @@
-@@  meat                                                1 at  4 lb and      3st 2s @@
+  pelt*                                               1 at  5 lb and  39d 0st 1s 
+  ear*                                                2 at <1 lb and      3st 2s 
+  wing*                                               2 at <1 lb and      3st 2s 
+  head                                                1 at  5 lb and   8d 2st 0s 
+  meat                                                1 at  4 lb and      3st 2s 
  
 **Statorus** (Valuable parts: 112d, 2 lb)
-@@  skin*                                               1 at <1 lb and  70d 1st 1s @@
-@@  head*                                               1 at  1 lb and  26d 3st 2s @@
-@@  heart*                                              2 at <1 lb and   3d 3st 0s @@
-@@  eye*                                                2 at <1 lb and   3d 2st 2s @@
-@@  tongue                                              1 at <1 lb and          1s @@
+  skin*                                               1 at <1 lb and  70d 1st 1s 
+  head*                                               1 at  1 lb and  26d 3st 2s 
+  heart*                                              2 at <1 lb and   3d 3st 0s 
+  eye*                                                2 at <1 lb and   3d 2st 2s 
+  tongue                                              1 at <1 lb and          1s 
  
 **Gigantic spider** (Valuable parts: 15d, 1 lb)
-@@  eye*                                                8 at <1 lb and   1d 2st 2s @@
-@@  stomach*                                            2 at <1 lb and   1d 2st 2s @@
-@@  leg                                                 8 at <1 lb and          1s @@
+  eye*                                                8 at <1 lb and   1d 2st 2s 
+  stomach*                                            2 at <1 lb and   1d 2st 2s 
+  leg                                                 8 at <1 lb and          1s 
 
 [Back to Table of Contents](#ToC)
 
@@ -1261,26 +1261,26 @@ Profit:     4/5
  
 **Statorus** (Valuable parts: 112d, 2 lb)
 
-@@  skin*                                               1 at <1 lb and  70d 1st 1s @@
-@@  head*                                               1 at  1 lb and  26d 3st 2s @@
-@@  heart*                                              2 at <1 lb and   3d 3st 0s @@
-@@  eye*                                                2 at <1 lb and   3d 2st 2s @@
-@@  tongue                                              1 at <1 lb and          1s @@
+  skin*                                               1 at <1 lb and  70d 1st 1s 
+  head*                                               1 at  1 lb and  26d 3st 2s 
+  heart*                                              2 at <1 lb and   3d 3st 0s 
+  eye*                                                2 at <1 lb and   3d 2st 2s 
+  tongue                                              1 at <1 lb and          1s 
  
 **Sloani** (Valuable parts: 327d, 10 lb)
-@@  hide*                                               1 at  9 lb and 219d 1st 1s @@
-@@  fang*                                               2 at <1 lb and  39d 0st 0s @@
-@@  tongue*                                             1 at <1 lb and  23d 1st 1s @@
-@@  eye*                                                2 at <1 lb and   2d 0st 0s @@
-@@  tail*                                               1 at <1 lb and   2d 0st 0s @@
-@@  head                                                1 at  9 lb and  18d 3st 0s @@
-@@  meat                                                1 at  8 lb and   2d 0st 0s @@
+  hide*                                               1 at  9 lb and 219d 1st 1s 
+  fang*                                               2 at <1 lb and  39d 0st 0s 
+  tongue*                                             1 at <1 lb and  23d 1st 1s 
+  eye*                                                2 at <1 lb and   2d 0st 0s 
+  tail*                                               1 at <1 lb and   2d 0st 0s 
+  head                                                1 at  9 lb and  18d 3st 0s 
+  meat                                                1 at  8 lb and   2d 0st 0s 
  
 **Pungopiscor** (Valuable parts: 940d, 2 lb)
-@@  claw*                                               2 at  1 lb and 470d 0st 1s @@
-@@  eye                                                 6 at <1 lb and          1s @@
-@@  meat                                                1 at  9 lb and          1s @@
-@@  stomach                                             1 at  4 lb and          1s @@
+  claw*                                               2 at  1 lb and 470d 0st 1s 
+  eye                                                 6 at <1 lb and          1s 
+  meat                                                1 at  9 lb and          1s 
+  stomach                                             1 at  4 lb and          1s @@
 
 [Back to Table of Contents](#ToC)
 

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Jin has lived in Iridine all his life. Until his seventeenth year Jin lived a relaxed lifestyle, his parents were relatively wealthy and everything he needed he recieved.

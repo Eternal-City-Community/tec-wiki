@@ -3,8 +3,8 @@
 **XI. Punishment**
 
 
-```
-        Private Crimes shall be punished by a combined system of restitution
+~~~
+Private Crimes shall be punished by a combined system of restitution
         and in some cases minor corporal punishment.
                 Property Crimes:
                         Restitution for Property Crimes shall be twice the
@@ -73,4 +73,4 @@
                 drowning in a sack
                 exposure to wild animals
                 casting from the sea cliffs
-```
+~~~

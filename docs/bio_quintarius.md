@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Quintarius Maximus was born on the 197th year of the Republic, in a small town in Windward, the son of Williusius and Aphroditeine Maximus, local farmers. He was their only child, his only other relative left to carry on the family name being his adopted cousin, Proteaus. He had a happy childhood, and his parents were very rich farmers. He was also lucky to have a rich uncle, Trivious Maximus, who adopted Proteaus, and lived with Maximus's household. Trivious owned a successful mining opperation.

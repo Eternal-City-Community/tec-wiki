@@ -1,6 +1,6 @@
 # Newbie Mission Guide
 
-+* Mission Guides *(UNDER CONSTRUCTION)*
+## Mission Guides *(UNDER CONSTRUCTION)*
 
 
 <a id="JunkDiver"></a>
@@ -24,7 +24,7 @@
 
 ### [#](#RottenApples)Rotten Apples - Vetallun Orchard
 
-* **Location**: Apple Orchard ([Vetallun](/vetallun/))
+* **Location**: Apple Orchard ([Vetallun](/town-of-vetallun/))
 * **Directions**: walk to vetallun, walk to crossroads. From crossroads: w x 4, n x 4, nw x 1, n x 3, w x 1
 * **Requirements**: None
 
@@ -46,7 +46,7 @@
 
 ### [#](#BarrelRepair)Barrel Repair - Vetallun Orchard
 
-* **Location**: Apple Orchard ([Vetallun](/vetallun/))
+* **Location**: Apple Orchard ([Vetallun](/town-of-vetallun/))
 * **Directions**: walk to vetallun, walk to crossroads. From crossroads: w x 4, n x 4, nw x 1, n x 3, e x 1, s x 1, e x 1, n x 1
 * **Requirements**: Rag.
 

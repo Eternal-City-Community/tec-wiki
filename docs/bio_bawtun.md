@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The river behind Bawtun Gilsesh' cottage in the Parcine forest gurgled quietly. His brother, Farowt, was chopping wood for the winter. *CHOP* *CHOP* *CHOP* echoed through the quiet forest as the tin axe felled yet another tree. Farowt was a burly, heavy-set man in his early thirties, with thick eyebrows and unkempt brown hair. After he had chopped wood for almost an hour, he stopped for a minute for a drink of water.

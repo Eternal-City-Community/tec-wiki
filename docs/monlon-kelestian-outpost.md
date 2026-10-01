@@ -1,6 +1,6 @@
 # Monlon Kelestian Outpost
 
-![](https://eternal-city.wikidot.com/local--files/files/kelestian%20outpost%202023-08-03.png)
+![](/local--files/files/kelestian%20outpost%202023-08-03.png/)
 
 
 **Related maps**

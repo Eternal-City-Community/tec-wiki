@@ -275,7 +275,7 @@ Below are further guidelines provided by staff in response to a player ticket:
 >  Sample description:
 >  You see a tall muscular man. His round face is the color and texture of cured leather, with dark deep-set black eyes below bushy brows. Atop his head is a mess of black hair, loosely tamed into a braided bun at the crown of his head. Encircling his neck like a tight necklace is the tattoo of a coiling serpent.
 
-**@@*@@Note from GM Senses (14-Mar-2023):** *"Anything that should reasonably be removable while you're KO can't be a part of your custom makeover e.g. jewelry." These will incur an additional custom item cost.*
+***Note from GM Senses (14-Mar-2023):** *"Anything that should reasonably be removable while you're KO can't be a part of your custom makeover e.g. jewelry." These will incur an additional custom item cost.*
 
 
 ### Submitting a Request
@@ -334,7 +334,9 @@ The color and descriptor lists below currently exist in-game and are meant to be
 | Sapphire | Scarlet | Silver | Sky blue | Slate blue |
 | Slate grey | Tan | Tangerine | Turquoise | Yellow |
 | Violet | Viridian | White, pearl white, snow white |  |  |
+
 |  |  |  |  | Colors Descriptors: |
+| --- | --- | --- | --- | --- |
 | Burnt | Dark | Deep | Glittering | Light |
 | Opalescent | Pale | Pearlescent | Pure | Scintillating |
 | Smoky | Vibrant |  |  |  |

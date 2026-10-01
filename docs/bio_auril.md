@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I would love to tell you all about my most illustrious life and my struggle of bravery, adventure, and heroism from innocence to experience, but you'd probably fall asleep right now. Because of this, I'll tell you what you need to know.

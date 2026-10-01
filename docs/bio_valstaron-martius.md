@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 ## Valstaron Martius
 **<u>Valstaron Martius</u> ??-15 or 16 YP**

@@ -1,9 +1,5 @@
 # Useful Macros For Thieves
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
 <a id="Top"></a>
 
 ### Table of Contents
@@ -34,7 +30,7 @@ A macro is essentially a shortcut for a longer command. For instance, one of the
 In order to make a macro, we first need to access the menu for controlling macros and macro sets. Do so by typing the command "@macro" and you should see the following screen:
 
 
-```
+~~~
 =[Macros]=====================================================================
  [A] Add Macro
  [D] Delete Macro
@@ -45,7 +41,7 @@ In order to make a macro, we first need to access the menu for controlling macro
  [I] Import Macro Set
 ==============================================================================
 macros>
-```
+~~~
 
 
 Now we'll go over what each option does:
@@ -55,17 +51,17 @@ Now we'll go over what each option does:
 This option will allow you to create a macro using a simple two step process. Open up the macro menu and type A to take a look at how it's done. You should see something like this:
 
 
-```
+~~~
 Enter the shorthand macro string:
-```
+~~~
 
 
 What this means is the short version of the command you want to use, or rather the macro to replace the command. For the purpose of this command, we're going use the phrase "innocent" as the short version, minus the quotation marks of course. Type in innocent then press enter. Which brings us to the next step in the process: 
 
 
-```
+~~~
 Enter the string you wish this macro to expand to:
-```
+~~~
 
 
 This means the actual command you want to be executed when you type in the word "innocent". In this case, we're going to use an emote as the full command: emote raises his hands in the air and proclaims to you, "I swear, mister constable, I didn't do it!"
@@ -77,7 +73,7 @@ This time you'll want to leave the quotation marks in there so it will look like
 This option is pretty straight forward, if you mistyped a macro or made a silly one like we just did, you can delete it. Let's go ahead and delete our innocent macro since no one would believe it, humorous though it may be. Open up the macro menu once more and type D then enter. You should see the following (Note: I've modified this substantially in order to protect the innocent: Me!):
 
 
-```
+~~~
 =[Defined Macros in default macro set.]=======================================
  
  fe1                fe2                fe3                fe4             
@@ -86,15 +82,15 @@ This option is pretty straight forward, if you mistyped a macro or made a silly 
  fe13               fe14               fe15              innocent
 ==============================================================================
 Delete which macro?
-```
+~~~
 
 
 From here, all you have to do is type in the exact macro you wish to delete. So to kill our innocence proclaiming macro, simply type in innocent, then press enter.
 
 
-```
+~~~
 Macro "innocent" deleted.
-```
+~~~
 
 
 You can use that for any macro that you create, plus any that are already defined. However, I'd encourage you to leave the ones already in there - I'll explain why here in just a moment.
@@ -104,7 +100,7 @@ You can use that for any macro that you create, plus any that are already define
 This option will list out the shorthand and long version of every macro you have created. If you have not created any macros as of yet, your screen should look something like this: 
 
 
-```
+~~~
 =[Defined Macros in default macro set.]=======================================
  fe1                            @macro fe1
  fe2                            @macro fe2
@@ -122,7 +118,7 @@ This option will list out the shorthand and long version of every macro you have
  fe14                           @macro fe14
  fe15                           @macro fe15
 ==============================================================================
-```
+~~~
 
 
 You might be asking yourself at this point, what on earth is all this fe number crap? Those, my friend, are the macros that make the roman numeral buttons on the Java client work. Don't delete them if you use the Java client. If you don't use the Java client, well, might as well just leave them in there just to be on the safe side - why break something if you don't have to.
@@ -132,7 +128,7 @@ You might be asking yourself at this point, what on earth is all this fe number 
 This command is used to set which macro set you'll be using. So what exactly is a macro set now? Well, it's a set of macros grouped together for a specific purpose. For instance, if you're both a swordsman and a thief, you might create a macro set for each one so that none of your macros will conflict. After all gs might be useful for get sword for the swords set of macros, or gs might be useful for get sen for the thief set - see conflicts! Splitting them up depending on what you're doing at the time makes life easier. Anyway, open up the macro menu and type S then enter and you'll get this as the result:
 
 
-```
+~~~
 =[Defined Macro Sets.]========================================================
  
  default
@@ -140,7 +136,7 @@ This command is used to set which macro set you'll be using. So what exactly is 
 Current active set: default
 ==============================================================================
 Activate which Macro Set?
-```
+~~~
 
 
 For now, the only set you should have is the default set. We'll have to fix that. For now, just type in default and press enter to exit this menu.
@@ -150,17 +146,17 @@ For now, the only set you should have is the default set. We'll have to fix that
 Ah, now this is the command we need in order to make a new macro set. Open up the macro menu and type C then enter:
 
 
-```
+~~~
 Enter a name for your new Macro Set:
-```
+~~~
 
 
 Since this guide is focused around pickpocketing macros, we're going to create a new macro set called pickpocketing. So type in pickpocketing, then press enter.
 
 
-```
+~~~
 Macro Set pickpocketing created.
-```
+~~~
 
 
 ##### R - Remove Macro Set
@@ -168,29 +164,29 @@ Macro Set pickpocketing created.
 This command is useful for removing macro sets that you may have created on accident, or no longer have a use for. Open up the macro menu again and type R then enter:
 
 
-```
+~~~
 =[Defined Macro Sets]=========================================================
  
  default            pickpocketing   
 ==============================================================================
 Delete which Macro Set?
-```
+~~~
 
 
 Simply type in the name of the macro set you wish to delete and press enter, in this case I'm going to remove the pickpocketing set just as an example:
 
 
-```
+~~~
 Really delete pickpocketing Macro Set? [Y/n]
-```
+~~~
 
 
 Hit Y then enter, and the set and all of the macros associated with it will be deleted, and unrecoverable I might add. Therefore, use this option with caution.
 
 
-```
+~~~
 Macro Set pickpocketing deleted.
-```
+~~~
 
 
 ##### I - Import Macro Set
@@ -198,32 +194,31 @@ Macro Set pickpocketing deleted.
 This command allows you to import a macro set from another character. For instance, if you have a thief character from the past (can only be used on existing characters) that had some useful macros, you can use this to import them from him. So open the macro menu once more, press I, then enter (Once more, heavily modified to protect the innocent):
 
 
-```
+~~~
 =[Available Import Points]====================================================
 1. Baleron
 2. Thaelan
 ==============================================================================
 Import from which point?
-```
+~~~
 
 
 The first option will be your account itself, so we'll try to import from that. Press 1 then enter, and you should get another set of options:
 
 
-```
- 
- default            swords             Bows               Pickpocketing   
+~~~
+default            swords             Bows               Pickpocketing   
 ==============================================================================
 Import which Macro Set?
-```
+~~~
 
 
 I'm going to import my swords set of macros just because, so type in swords and press enter for the following option:
 
 
-```
+~~~
 Import in to existing Macro Set? [y/N]
-```
+~~~
 
 
 What this is asking is if you want to import those sword macros into your currently in use macro set, in this case, the default set. Let's hit N for no, and it will create a macro set labeled swords for us instead of throwing all those macros into the default set.

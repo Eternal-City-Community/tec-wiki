@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I was born in Iridine when my parents were passing through on a trip to Blackvine. My parents were both natives of Altene. We were coming to Blackvine to visit an uncle of mine, My uncle Zack. He was an armorer who worked on a type of dagger that thieves could use because most of his customers at the times were thieves. He put an eagle symbol on the handle of all the weapons he made. 

@@ -4,8 +4,7 @@
 Below are a list of all major game announcements:
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.
 
 
 <a id="promos"></a>
@@ -13,7 +12,7 @@ Below are a list of all major game announcements:
 Below is a list of additional promotions the staff occasionally releases along with the last promo date.
 
 
-```
+~~~
 Promotion                                         | Most Recent    | Traditional
 --------------------------------------------------|----------------|-----------------------------------------
 50% Rearrange Skill Slots                         | Aug 2025       |
@@ -35,4 +34,4 @@ Free Button Pushes                                | Feb 2022       |
 50% Off Pet Name Changes                          | Apr 2021       |
 50% Off Pet Makeovers                             | Apr 2021       |
 50% Off Makeovers                                 | Nov 2020       |
-```
+~~~

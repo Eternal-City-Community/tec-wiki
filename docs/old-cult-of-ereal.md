@@ -23,23 +23,10 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 |  |  |  |  |  | Cult of Ereal |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | High Priest Tharius |
-| ***High Priest’s Proxy*** _ |  |  |  |  |  |
+| ***High Priest’s Proxy***<br><br>Darie Allende | ***Sword of Ereal***<br><br>Junia Gracious<br><br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br><br>i. Titus Ahala<br><br>ii. Albius Anande<br><br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br><br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br><br>v. Sartor Mithus<br><br>vi. Spurius Ravilla<br><br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
+|  | i. Fist of Ereal<br><br>ii. Firm of Ereal<br><br>iii. Shield of Ereal |  |  |  |  |
 
-Darie Allende ||= ***Sword of Ereal*** _
-Junia Gracious _
-*(deceased)* ||= *(Tharius’)* ***Chief of Spies*** ||< @@            @@***The Council of Elders*** _
-i. Titus Ahala _
-ii. Albius Anande _
-iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** ) _
-iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** ) _
-v. Sartor Mithus _
-vi. Spurius Ravilla _
-vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** )
-|  | i. Fist of Ereal _ |
-| --- | --- |
 
-ii. Firm of Ereal _
-iii. Shield of Ereal || ||
 <a id="High-Priest"></a>
 #### [#](#High-Priest)High Priest
 
@@ -81,29 +68,17 @@ While rank titles may differ across sects, their structures remain very similar.
 |  |  |  | Temple Hierarchy |
 | --- | --- | --- | --- |
 | Sect Name: | **Revealing Light** | **Nurturing Light** | **Bright Hope** |
-| Highest Ranking Priest: _ |  |  |  |
+| Highest Ranking Priest:<br><br>*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
+| Oversees ~5 Temples:<br><br>*(Reports to rank directly above)* | Glass | Mist | Gentle |
+| Head of 1 Temple:<br><br>*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
+| Temple Department:<br><br>*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
+| Universal Rank<br><br>*(Reports to rank directly above)* |  |  | Focus |
 
-*(Reports to Council of Elders)* ||= Eye of Ereal ||= Heart of Ereal ||= Hand of Ereal
-| Oversees ~5 Temples: _ |
-| --- |
 
-*(Reports to rank directly above)* ||= Glass ||= Mist ||= Gentle
-| Head of 1 Temple: _ |
-| --- |
-
-*(Reports to rank directly above)* ||= Revealer ||= Druid ||= Glimmer
-| Temple Department:  _ |
-| --- |
-
-*(Reports to rank directly above)* ||= Shepherd ||= Guide ||= Comforter*
-| Universal Rank _ |
-| --- |
-
-*(Reports to rank directly above)* ||||||= Focus
 <a id="NurturingLight"></a>
 #### [#](#NurturingLight)The Nurturing Light
 The sect of the Nurturing Light represents **Ereal of the Evening**. To them, Ereal is a strong, steady light which is the ultimate source of all light within the world. They value **gentleness, peace and harmony** above all else. Their most active members are often seen as **negotiators** trying to maintain peace in troubled areas. Others of the sect work tirelessly among the poor, offering them what little hope they can. Their voices are often the more discreet but also the most soothing.
-@@ @@
+ 
 
 
 <details>
@@ -139,7 +114,7 @@ The Seed is considered **on par with the Mist**, in terms of ranking. They are r
 <a id="RevealingLight"></a>
 #### [#](#RevealingLight)The Revealing Light
 **Ereal of the Noon** finds his incarnation in the sect of the Revealing Light. They have taken as their charter the duties of divining and auguries in an attempt to **guide mankind out of the darkness of its ignorance**. Their priests often walk the streets in the guise of **teachers**, others have become counselors, others again librarians as they are all keepers of vast knowledge. Though they are periodically challenged in their claims to see signs in the world surrounding them, their altars are never empty and they are more often right than wrong.
-@@ @@
+ 
 
 
 <details>
@@ -174,7 +149,7 @@ The Pool is considered **on par with the Glass**, in terms of ranking. They are 
 <a id="BrightHope"></a>
 #### [#](#BrightHope)Bright Hope
 The Sect of the Bright Hope *(aka Sect of the Morning Light)* is the most numerous and most revered among the population of Iridine, representing **Ereal of the Morning**. Its goal is **healing and the physical well-being** of all who come to their doors. They combine their **healing** talents with the special gifts Ereal has bestowed among some of them to heal the sick and wounded. Priests of the Bright Hope are welcomed everywhere in the Republic and are as **common a sight in cities** as on the Republic's dusty roads.
-@@ @@
+ 
 
 
 <details>
@@ -269,7 +244,7 @@ Please note that as easy as this circumstance may seem to be entered in upon, it
 Ereal's priests are well-known for a variety of week and two-week long festivals held [throughout the year](/dates-and-time/) celebrating different aspects of the God and to the passing of seasons.
 
 They are the **Festival for Ereal of the Morning** which begins at the start of spring, the **Festival for Ereal the Conqueror** which begins at the start of summer, the **Festival for Ereal of the Evening** which begins at the start of autumn and the **Festival for Ereal the Wanderer** which begins at the start of winter.
-@@ @@
+ 
 
 
 <details>

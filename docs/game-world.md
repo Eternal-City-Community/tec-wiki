@@ -37,7 +37,7 @@ Midlight is a restless world, its citizens and nations in flux as power and econ
 * [Ut-Jor](/ut-jor/)
 * [Windward](/windward/)*
 
-*@@*@@Although listed as a separate nation, [Windward](/windward/) is actually part of the [Republic of Iridine](/republic-of-iridine/).*
+**Although listed as a separate nation, [Windward](/windward/) is actually part of the [Republic of Iridine](/republic-of-iridine/).*
 
 
 ### Religion

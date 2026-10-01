@@ -41,11 +41,11 @@ Within the main area of the Rat Pits, you'll find a wide variety of rats. Most o
 
 **Disease (Plague)** - While no recent cases of plague have been reported, this area is well known to be one of the main sources of plague. If you are prone to sickness or disease, use caution here!
 
-**[Aralex Pits](http://eternal-city.wikidot.com/hg-aralex-pit)** - The entrance to the much more difficult and deadly Aralex pits is located at the southwestern edge of the rat pits. A warning sign will warn those unprepared to venture no further, heed it if you are still new to combat or you will most certainly be hurt or killed!
+**[Aralex Pits](/hg-aralex-pit/)** - The entrance to the much more difficult and deadly Aralex pits is located at the southwestern edge of the rat pits. A warning sign will warn those unprepared to venture no further, heed it if you are still new to combat or you will most certainly be hurt or killed!
 
 ### Areas of Interest
 
-**[Aralex Pits](http://eternal-city.wikidot.com/hg-aralex-pit)** - As noted before, the entrance to the Aralex pits is located within the Rat Pits. Follow the trail within to the southwest and you'll find your way down from there.
+**[Aralex Pits](/hg-aralex-pit/)** - As noted before, the entrance to the Aralex pits is located within the Rat Pits. Follow the trail within to the southwest and you'll find your way down from there.
 
 **The Underground Domus and beyond** - An ancient underground domus lies to the southeast of the main part of the Rat Pits. The domus has been opened in recent years and new areas are now available for exploration, however, all that the intrepid adventurer might find are swarms of plague-ridden rats (A diseased rat missing one eye, a sickly rat covered with sores) and long abandoned bits of ancient history.
 

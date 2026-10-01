@@ -1193,7 +1193,7 @@ input.mod-buttons-btn {
 ---
 #### Base Skill Point Costs
 
-```
+~~~
 Skill                    Easy   Average Difficult Impossible  
 ----------------------- ------- ------- --------- ---------
 1st Skill Slot           10/ 5   15/ 7    17/ 9     19/11
@@ -1216,4 +1216,4 @@ Skill                    Easy   Average Difficult Impossible
 18th Skill Slot          61/22   66/24    68/26     70/28
 19th Skill Slot          64/23   69/25    71/27     73/29
 20th Skill Slot          67/24   72/26    74/28     76/30
-```
+~~~

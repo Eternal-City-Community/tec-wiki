@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My life has been one of suffering. It began 18 years ago in the wilderness of the Blackroot Mountains, deep in the heart of Parcines. At that time, a demon or servant of Ravan, I know not which, and wish not to know, walked the earth. He raped and pillaged and terrorized many. But he chose one. A woman named Rachael. He chose her to bear his terrible seed. Not one, but two were misbegotten from that union, my brother and I. I was told once by my adopted father that, "For Every evil brought into this world, a Good must be created to stop it." He truly believed that I was this light, my brother the darkness. I'm inclined to believe him, from the way we look. My brother, of hair, skin and eyes jet black, yet Identical to me. I was the "light" one, light being the average complexion of a Parcine.

@@ -61,7 +61,7 @@ A simple, but highly visible move that just about every thief knows from the sta
 * **A Fisherman** - Hungry, know how to fish, and don't want to pay for a pole? Problem solved. Also known to carry fresh caught fish, lantern oil, and other useful bits.
 
 |  EXAMPLE=
- @@>@@ *grab shovel from worker*
+ > *grab shovel from worker*
 TBC
 
 ]]
@@ -84,7 +84,7 @@ A sharpened coin is one of the most valuable tools a thief has at his disposal. 
 
 <div class="skill-template">
 
-@@>@@ *sharpen sen*
+> *sharpen sen*
 TBC
 
 </div>
@@ -105,7 +105,7 @@ Once an item is palmed, to reveal it again, use the **unpalm <object>** command.
 
 <div class="skill-template">
 
-@@>@@ *palm sen*
+> *palm sen*
 TBC
 
 </div>
@@ -134,7 +134,7 @@ Ahh, now here is the bread and butter of a decently trained thief. Lifting a pou
 
 
 |  EXAMPLE=
- @@>@@ *lift pouch from Lorican*
+ > *lift pouch from Lorican*
 TBC
 
 ]]
@@ -155,7 +155,7 @@ A simple way to subtly give an object to another person. Useful for when you're 
 
 <div class="skill-template">
 
-@@>@@ *handoff pouch to Drunser*
+> *handoff pouch to Drunser*
 TBC
 
 </div>
@@ -175,7 +175,7 @@ The second step to a successful **Handoff**, this maneuver will let you secretly
 
 <div class="skill-template">
 
-@@>@@ *handoff pouch to Drunser*
+> *handoff pouch to Drunser*
 TBC
 
 </div>
@@ -197,7 +197,7 @@ Similar to Cut and Lift, Slice Strap allows you to **remove a sack, bag or large
 
 <div class="skill-template">
 
-@@>@@ *slide sack from Glenh*
+> *slide sack from Glenh*
 [Success: 1, Roll: 68] You cut the strap on a black homespun wool large sack and snatch it away from Glenh.
 
 </div>
@@ -217,7 +217,7 @@ As simple as it sounds, you lift a weapon from your target's belt hoop.
 
 <div class="skill-template">
 
-@@>@@ *llift axe from Dragaxus*
+> *llift axe from Dragaxus*
 TBC
 
 </div>
@@ -237,10 +237,10 @@ As simple as it sounds, you lift a knife or dagger from your target's sheath.
 
 <div class="skill-template">
 
-@@>@@ *klift dagger from Trycho*
+> *klift dagger from Trycho*
 [Success: 20, Roll: 63] You start to pull a retalq dagger from its sheath, hesitate for a moment, then continue until it's firmly in hand.
 
- @@>@@ *klift dagger from Thryn*
+ > *klift dagger from Thryn*
 [Success: 50, Roll: 10] You grab hold of the handle of a retalq dagger but don't do a very graceful job of it and lose your grip.
 
 </div>
@@ -260,10 +260,10 @@ As simple as it sounds, you lift a gladius from your target's scabbard.
 
 <div class="skill-template">
 
-@@>@@ *slift gladius from Kered*
+> *slift gladius from Kered*
 [Success: 56, Roll: 94] You start to pull an a retalq gladius from its sheath, but lose your grip for a moment before regaining it and liberating an a retalq gladius.
 
- @@>@@ *slift gladius from Rizer*
+ > *slift gladius from Rizer*
 [Success: 56, Roll: 5] You reach out to grab hold of an a retalq gladius, but totally miss your mark and nearly fall down.
 
 </div>

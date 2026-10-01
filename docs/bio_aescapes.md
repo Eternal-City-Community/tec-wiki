@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Aescapes recently arrived in Iridine from the City of Altene. The son of two healers Lorina and Aescan, Aescapes dreamed of a life in the Altene military. From an early age Aescapes shunned the healing arts and practiced with his stave day and night. When he couldn't find a friend to spar with, he would sneak into the local training grounds and practice with a fangstave he crafted himself. His parents did not approve of his decision to become a warrior. His family was from a long line of healers and they didn't feel that Aescapes decision to join the Altene Army was a wise one. They worried that he was too young and that he would get himself killed. They loved Aescapes greatly and in an effort to protect him from himself they called in a favor with the Captain of the Altene Guard to deny Aescapes entrance to the army. Lorina had saved the Captain's daughter by nursing her back to health after she suffered a grievous wound from a wild boar in the grasslands outside Altene one day while playing with her friends.

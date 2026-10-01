@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My Story, The Story of Shlinter Sargont, Altene Mercenary, Bard

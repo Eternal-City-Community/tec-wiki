@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I was born and raised in the warrior province of Altene. Like all Altenes, I was instructed in the arts of stavefighting. My father was disappointed initially as he put me through my drills on the dummy, when he realized that I did not possess extreme strength or endurance. He did everything he could to rectify this: I was bathed in water that neared freezing or that boiled and scalded my skin; I was dropped blindfolded in the middle of deserts and forests to find my way home or perish; I was subjected to incredibly intense exercise. My father did this not out of malice, but to make sure that I would not consider him a failure. In his eyes, my weakness was his fault, and every blow I received for a weak strike on the dummy was felt tenfold in his heart.

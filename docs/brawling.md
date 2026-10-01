@@ -37,7 +37,7 @@ This skill set is best complemented by knowledge of [Pankration](/pankration/), 
 
 **Directions to Pugilius** ([The Steps South](/the-steps-south/)): Walk to Hospice, E x 13, S, E, S, E x 4, S x 2, E x 8, SE, E x 2, N x 2, E x 2, S x 2, E x 3, S x 6, W, S x 4, W x 4, S x 6, W, Door, D x 2, W x 4, D, E.
 
-**Directions to Mervia** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, W, S 
+**Directions to Mervia** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W, S 
 
 #### Additional Notes:
 
@@ -68,7 +68,7 @@ Pugilius punches a thug! He suffer a small bruise to his left arm.
 
 A basic kick. This technique is possible while wielding a weapon. 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -101,7 +101,7 @@ Pugilius twists to one side and slams his elbow into a thug! He suffer a small b
 Thrust your knee upward at your opponent. This technique is possible while wielding a weapon. 
 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -264,7 +264,7 @@ Pugilius brutally punch a thug in the face! He suffers an ugly bruise to his fac
 
 Attempt to knock your opponent down to his knees, and maybe shatter his foot. This technique can be used while wielding a weapon. 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -357,8 +357,8 @@ Pugilius sinks his teeth into a thug! He suffers a puncture to his right shoulde
 ### Ale Focus
 
 With enough training in Ale Focus, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.  _
-
-**Community Note:** Ale Focus applies the perception bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific perception skill.]
+ _
+[**Community Note:** Ale Focus applies the perception bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific perception skill.]
 
 **When you see this in use you see:**
 
@@ -374,8 +374,8 @@ With enough training in Ale Focus, you are able to raise your perception in comb
 ### Brawler's Instinct
 
 With enough training in Brawler's Instinct, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity. _
-
-**Community Note:** Brawler's Instinct applies the dexterity bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific dexterity skill.]
+ _
+[**Community Note:** Brawler's Instinct applies the dexterity bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific dexterity skill.]
 
 **When you see this in use you see:**
 

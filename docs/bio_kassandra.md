@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 ## Kassandra - A Seer of the Sect of the Revealing Light
 

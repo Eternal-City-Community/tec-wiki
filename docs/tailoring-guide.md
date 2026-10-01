@@ -42,6 +42,7 @@ Below is a list of the various tools of the trade necessary for tailoring.
 | Thimble | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
 | Measuring Cord | n/a | Prop, only used for RP. Available for purchase in [shops](/shops/) |
 
+
 <a id="Cloth"></a><a id="Fabric"></a>
 #### [#](#Fabric)Fabric
 
@@ -59,9 +60,9 @@ Working with fabric is the lifeblood of a tailor. Different fabrics require a di
 | **Suede** | Not available for standard purchase. May be available via @request. |
 | **Velvet** | Includes: Silk velvet. |
 | **Fur** | Not available for standard purchase. May be available via @request. |
-| **Leather** | Includes: Rawhide. _ |
+| **Leather** | Includes: Rawhide.<br><br>Not available for standard purchase. May be available via @request. |
 
-Not available for standard purchase. May be available via @request.
+
 To find where the appropriate fabric is sold, you can search for *'**length of cloth**'* in the [shops list](/shops/).
 
 To manipulate pieces of cloth, see [Handling Cloth](#HandlingCloth).
@@ -117,6 +118,7 @@ The below chart columns reference the base materials, but includes all variants 
 | Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
 | Waist Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
 
+
 **Note:** Fur, Leather, Rawhide & Suede are listed various recipes but are not readily available for purchase. There materials are available via @request.
 
 
@@ -143,85 +145,17 @@ Before selecting an item to create, you should **consult the [Fabric Chart](#Fab
 
 The below **step-by-step** guide explain how to create a clothing item, using **a neckpouch as an example**.
 
-| 1: Recall Master Recipe | - When making an item, the recommended first thing to do is recall the recipe want to make. _ |
+| 1: Recall Master Recipe | - When making an item, the recommended first thing to do is recall the recipe want to make.<br><br>- Each master recipe will list its related sub-recipes.<br><br>- You have to type the full name, no shortcuts.<br><br>- Example: '**recall neckpouch recipe**'.<br><br>*To make a Neckpouch:*<br><br>** Sew two Pouch Squares together to create the pouch body.*<br><br>** Hem the Pouch to complete it.* _ |
 | --- | --- |
+| Prepare Pieces (2.1 - 2.4)<br><br>*(repeat as needed)* | - A master recipe will require multiple pieces/parts.<br><br>- **Repeat steps 2.1, 2.2, 2.3 & 2.4 as needed** to create the appropriate pieces.<br><br>- In this example, because we need **two (2) pouch squares**, we would perform steps 2.1 to 2.3 twice. _ |
+| 2.1: Recall Sub-Recipe | - Recall the sub-recipe item you wish to make.<br><br>- The recipe will tell you how much fabric is required.<br><br>- Example: '**recall pouch square recipe**'.<br><br>*To make a Pouch Square:*<br><br>** Lay out an eighth length of fabric.*<br><br>** Cut the part from the fabric.* _ |
+| 2.2: Layout Fabric | - With the sub-recipe fresh in your mind, position the pattern over your [correctly sized fabric](#HandlingCloth). ([Patternwork](/tailoring/#Patternwork))<br><br>- With **pattern in-hand** (e.g. pouch square pattern).<br><br>- Example: '**layout eighth**'.<br><br>- The description changes to *"a homespun wool cloth **laid out** for a pouch square"*. _ |
+| 2.3: Cut Pattern | - With the pattern laid out over the fabric, cut the cloth into the pattern. ([Tailor's Shears](/tailoring/#Tailors-Shears))<br><br>- With **sewing scissors in-hand**.<br><br>- Example: '**cut laid**'.<br><br>- The description changes to *"a homespun wool **cut-out** in the shape of a pouch square"*. _ |
+| 2.4: Complete Part<br><br>*(if needed)* | - Certain sub-recipes require sewing to finish.<br><br>- This example does not need it, but if making a shirt, you need to sew a sleeve to itself to complete an individual sleeve.<br><br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew sleeve to sleeve**'. _ |
+| 3: Recall Master Recipe | - Recall the recipe of the overall item you want to make.<br><br>- Example: '**recall neckpouch recipe**'.<br><br>*To make a Neckpouch:*<br><br>** Sew two Pouch Squares together to create the pouch body.*<br><br>** Hem the Pouch to complete it.* _ |
+| 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#Basic-Sewing))<br><br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew square to 2 square**'.<br><br>- The description changes to *"**an incomplete neckpouch**"*. _ |
+| 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#Basic-Hemming))<br><br>- Example: '**hem incomplete**'.<br><br>- The description changes to *"a homespun wool neckpouch"*. _ |
 
-                                                              - Each master recipe will list its related sub-recipes. _
-                                                              - You have to type the full name, no shortcuts. _
-
-                                                              - Example: '**recall neckpouch recipe**'. _
-
-*To make a Neckpouch:* _
-** Sew two Pouch Squares together to create the pouch body.* _
-** Hem the Pouch to complete it.* _
-|  |
-| --- |
-| Prepare Pieces (2.1 - 2.4) _ |
-
-*(repeat as needed)* || - A master recipe will require multiple pieces/parts. _
-                                                              - **Repeat steps 2.1, 2.2, 2.3 & 2.4 as needed** to create the appropriate pieces. _
-                                                              - In this example, because we need **two (2) pouch squares**, we would perform steps 2.1 to 2.3 twice. _
-|  |  |
-| --- | --- |
-| 2.1: Recall Sub-Recipe | - Recall the sub-recipe item you wish to make. _ |
-
-                                                              - The recipe will tell you how much fabric is required. _
-
-                                                              - Example: '**recall pouch square recipe**'. _
-
-*To make a Pouch Square:* _
-** Lay out an eighth length of fabric.* _
-** Cut the part from the fabric.* _
-|  |  |
-| --- | --- |
-| 2.2: Layout Fabric | - With the sub-recipe fresh in your mind, position the pattern over your [correctly sized fabric](#HandlingCloth). ([Patternwork](/tailoring/#Patternwork)) _ |
-
-                                                               - With **pattern in-hand** (e.g. pouch square pattern). _
-
-                                                               - Example: '**layout eighth**'. _
-                                                               - The description changes to *"a homespun wool cloth **laid out** for a pouch square"*. _
-|  |  |
-| --- | --- |
-| 2.3: Cut Pattern | - With the pattern laid out over the fabric, cut the cloth into the pattern. ([Tailor's Shears](/tailoring/#Tailors-Shears)) _ |
-
-                                                               - With **sewing scissors in-hand**. _
-
-                                                               - Example: '**cut laid**'. _
-                                                               - The description changes to *"a homespun wool **cut-out** in the shape of a pouch square"*. _
-|  |
-| --- |
-| 2.4: Complete Part _ |
-
-*(if needed)*   || - Certain sub-recipes require sewing to finish. _
-                                                               - This example does not need it, but if making a shirt, you need to sew a sleeve to itself to complete an individual sleeve. _
-                                                               - With **a *(threaded)* sewing needle** & **a thimble in-hand**. _
-
-                                                               - Example: '**sew sleeve to sleeve**'. _
-|  |  |
-| --- | --- |
-| 3: Recall Master Recipe | - Recall the recipe of the overall item you want to make. _ |
-
-                                                              - Example: '**recall neckpouch recipe**'. _
-
-*To make a Neckpouch:* _
-** Sew two Pouch Squares together to create the pouch body.* _
-** Hem the Pouch to complete it.* _
-|  |  |
-| --- | --- |
-| 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#Basic-Sewing)) _ |
-
-                                                               - With **a *(threaded)* sewing needle** & **a thimble in-hand**. _
-
-                                                               - Example: '**sew square to 2 square**'. _
-                                                               - The description changes to *"**an incomplete neckpouch**"*. _
-|  |  |
-| --- | --- |
-| 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#Basic-Hemming)) _ |
-
-                                                               - Example: '**hem incomplete**'. _
-                                                               - The description changes to *"a homespun wool neckpouch"*. _
-|  |
-| --- |
 
 <a id="HandlingCloth"></a>
 #### [#](#HandlingCloth)Handling Cloth
@@ -248,28 +182,10 @@ Stitching can be added to completed items.
 
 An example would be adding **crossed axes stitching** to '*a homespun wool neckpouch*' to create '*a homespun wool neckpouch **edged with a row of crossed axes***'. The below steps use a completed **neckpouch as an example**.
 
-| Step 1: Recall Lore | - When adding a stitch, the first thing to do is recall the stitch you want to make. _ |
+| Step 1: Recall Lore | - When adding a stitch, the first thing to do is recall the stitch you want to make.<br><br>- You have to type the full name, no shortcuts.<br><br>- Example: '**recall maker's mark**'.<br><br>*The maker's mark allows someone to identify the maker of an item by inspecting it.*<br><br>*To add a maker's mark:*<br><br>* * Stitch your Maker's Mark onto the garment.* _ |
 | --- | --- |
+| Step 2 : Stitch Pattern<br><br>(repeat as needed) | - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#Stitch-Pattern))<br><br>- Some stitches will require multiple successes to complete. Repeat as needed.<br><br>- Example: '**stitch neckpouch**'.<br><br>*To make a Pouch Square:*<br><br>** Lay out an eighth length of fabric.*<br><br>** Cut the part from the fabric.* _ |
 
-                                                              - You have to type the full name, no shortcuts. _
-                                                              - Example: '**recall maker's mark**'. _
-
-*The maker's mark allows someone to identify the maker of an item by inspecting it.* _
-*To add a maker's mark:* _
-* * Stitch your Maker's Mark onto the garment.* _
-|  |
-| --- |
-| Step 2 : Stitch Pattern _ |
-
-(repeat as needed) || - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#Stitch-Pattern)) _
-                                                          - Some stitches will require multiple successes to complete. Repeat as needed. _
-                                                          - Example: '**stitch neckpouch**'. _
-
-*To make a Pouch Square:* _
-** Lay out an eighth length of fabric.* _
-** Cut the part from the fabric.* _
-|  |
-| --- |
 
 <a id="Mending"></a>
 #### Mend Clothing
@@ -296,10 +212,15 @@ There are consignment boards in the following locations.
 | [The Steps (East)](/the-steps-east/) | Pomatomus | This shop is in **[gang](/orgs/#Alati) territory**. Careful in this location. |
 | [Rock Valley](/town-of-rock-valley-map/) | Laphia and Irra |  |
 | [Monlon](/monlon/) | Timmis | Since this shop sells very expensive fabric, this is typically the most profitable consignment board. |
+
+
 |  |  |  |  | Consignment Example |
+| --- | --- | --- | --- | --- |
 | Item | Fabric | Payment | Cost of materials | Est. Profit |
 | a loincloth | green linen | 967d 2st | 844d | 123d |
 | a blanket | faded purple cotton | 36t 1251d 3st 2s | 33t 1429d 2s | 3t 178d |
+      
+
 
 ### Moves
 #### Worthwhile

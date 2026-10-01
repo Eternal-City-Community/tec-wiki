@@ -73,7 +73,7 @@ X: [Debt](/debt/) XI: [Punishment](/punishment/) XII: [Building and Civic Mainte
 [[tab Roleplaying]]
 [Advanced Commands](/advanced-commands/) 
 [Advanced Speech](/advanced-speech/) 
-[Commands](/commands/) [Horology](/time-and-dates/) 
+[Commands](/commands/) [Horology](/dates-and-time/) 
 [Macros](/macros/)
 [[/tab]]
 [[tab Getting Around]]
@@ -141,7 +141,7 @@ X: [Debt](/debt/) XI: [Punishment](/punishment/) XII: [Building and Civic Mainte
 [Game World](/game-world/) [Iridine's History](/history/) [Legal System](/legal-system/) [Warrants](/warrants/) [Legio](/legio/) [Constables](/constables/) [Monlon Vigiles](/monlon-vigiles/) [Soldiers of Ereal](/soldiers-of-ereal/) [Jurisdictions](/jurisdictions/) [Contraband](/contraband/) Twelve Tables: [Census and Citizenship](/census-and-citizenship/) [Taxes and Civic Finance](/taxes-and-civic-finance/) [Assemblies and Legislation](/assemblies-and-legislation/) [Military Service](/military-service/) [Justice and Courts](/justice-and-courts/) [Criminal Acts](/criminal-acts/) [Magistracies](/magistracies/) [Marriage Inheritance and Funerals](/marriage-inheritance-and-funerals/) [Commerce](/commerce/) [Debt](/debt/) [Punishment](/punishment/) [Building and Civic Maintenance](/building-and-civic-maintenance/) [Nations](/nations/) [Aestivan League](/aestivan-league/) [Altene](/altene/) [Cenath](/cenath/) [Cinera](/cinera/) [Fehcratos](/fehcratos/) [Gadaene](/gadaene/) [Iridine](/iridine/) [Kelestia](/kelestia/) [Parcines](/parcines/) [Remath](/remath/) [Safelands](/safelands/) [Sostaera](/sostaera/) [Tuchea](/tuchea/) [Ut-Jor](/ut-jor/) [Windward](/windward/) [Organizations (Orgs)](/orgs/) [Armor](/armor/) [House of Mercantile](/house-of-mercantile/) [Stones & Ores](/stones-ores/) [Flora & Fauna](/flora-fauna/) [Religion](/religion/) [Reputation](/reputation/) [Shops](/shops/)
 
 ##### Roleplaying
-[Advanced Commands](/advanced-commands/) [Advanced Speech](/advanced-speech/) [Commands](/commands/) [Horology](/time-and-dates/) [Macros](/macros/) 
+[Advanced Commands](/advanced-commands/) [Advanced Speech](/advanced-speech/) [Commands](/commands/) [Horology](/dates-and-time/) [Macros](/macros/) 
 
 ##### Getting Around
 [Navigation Overview](/nav-overview/) [Hunting Grounds](/hunting-grounds/) [Maps](/maps/) [Services](/services/)

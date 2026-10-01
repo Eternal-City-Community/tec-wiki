@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My early childhood was quite unhappy, shortly after my Mother, an Altene woman, who cooked for the bodyguards of the king of Tuchea, became pregnant with me, my Father, an Altene Bodyguard of the King of Tuchea, died, while foiling an assassination attempt on the King. They met, of course, while doing their daily jobs, and fell in 'love' as they say..

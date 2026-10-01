@@ -10,13 +10,13 @@ You can also view the [Advanced Commands](/advanced-commands/) page for more spe
 * To search for commands, type: **@command-search <search string>**
  * Example:
 
-```
+~~~
 > @command-search stat
 Commands containing "stat"
 ---
 @stat-adjust              sstats                    stats
 ---
-```
+~~~
 
 
 ### Understanding Commands
@@ -24,13 +24,13 @@ It's important to know TEC's command syntax. Below is an example of skills your 
 
 Typing skills ?
 
-```
+~~~
 Basic Attack             :  attack <target>
 Clean Wound              :  clean <body part> [with] <wound-cleaning liquid>
 Create Clay Mold         :  create mold [of] <imprinted wax> [with] <clay>
 Basic Dodge              :  N/A
 Footwork                 :  <automatic>
-```
+~~~
 
 
 #### <...>
@@ -51,9 +51,9 @@ Valid Examples:
 
 Typing learn
 
-```
+~~~
 Usage: LEARN <skill name> FROM <trainer> [WITH <skill name>] [# <number>]
-```
+~~~
 
 
 ### Command List

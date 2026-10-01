@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 > I was born a mute in Cair Cainen, a walled town in eastern Cinera. I remember few details from when I was a child, for I had to grow up quickly. I was only 5, and didn't even know my voice was handicapped. Up until then, my parents had sheltered me from the outside world, for should any find out about my lack of speech I would have been taken away from them, or even killed. The bandits struck quickly. I never saw what happened to my father. My mother threw me into the dank, vermin infested privy just before she was struck down. I heard her cry out as I hit the rank pool -- a wordless scream of agony. After many hours of waiting for my parents to come get me, for I could not yet comprehend what had happened, I decided to get out myself. Fortunately, the hole had slanted walls, slippery as they were. Climbing out, the first thing I saw was my mothers pale blue dress. Then I saw my mother face -- red all over, twisted and contorted beyond even what pain can do to a human. The image still remains with me to this day.

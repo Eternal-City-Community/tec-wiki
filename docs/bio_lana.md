@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 > "You see a comely woman with a lush, curvaceous figure. She has alluring blue eyes set above a thin nose and full moist lips in a gental fair face. Her wavy red hair flows in a vibrant wave down to her waist."

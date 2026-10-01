@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Mamasan's worried face suddenly appears as I wake up frightened in the night, her fingers pressed gently against my lips, begging for silence. Dim figures dash madly about in the periphery of my sight, to occasionally clash with the sound of blade on blade, ending in muffled groans. Mamasan takes me up in her arms and rushes through the darkness of the manor, dodging the warring figures that appear briefly in the torchlight. A turn is taken in the hallway, a horrific face of death and destruction appears, and just as suddenly a blade appears from underneath Mamasans night-clothes, making the face vanish as suddenly as it first came.

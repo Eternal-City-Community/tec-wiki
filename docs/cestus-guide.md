@@ -26,7 +26,7 @@ This is the list of weapons that can be used by the Cestus skill set.
 | Studded Leather | Sold by [Marius](/shops/) ([Bronze Lane](/bronze-lane/)) | 1140d *(each)* |
 | Bronze Cestus **[RF]** | Sold by [Marius](/shops/) ([Bronze Lane](/bronze-lane/)) | 3t 1497d *(each)* |
 | Iron Cestus **[RF]** | Sold by [Marius](/shops/) ([Bronze Lane](/bronze-lane/)) | 11t 178d 2st *(each)* |
-| Boison Cestus **[RF]** | Sold by [Fama](/shops/) ([Franlius](/franlius/)) | 29t (+[Reputation#Seld](/reputation/#Seld)) *(each)* |
+| Boison Cestus **[RF]** | Sold by [Fama](/shops/) ([Franlius](/town-of-franlius/)) | 29t (+[Reputation#Seld](/reputation/#Seld)) *(each)* |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 
@@ -39,12 +39,14 @@ A rank of **1 signifies the best** in this category.
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
 | --- | --- | --- | --- | --- |
 
+
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
 | --- | --- |
+
 
 #### Weapon Speed
 
@@ -54,9 +56,11 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | --- | --- | --- | --- | --- |
 | Weapon | Speed Rank | Median Speed | Speed Rank | Median Speed |
 
+
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
+
 
 ### Moves
 #### Worthwhile

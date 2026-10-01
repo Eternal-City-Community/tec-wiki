@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Rising, over another countless hill, Moonshade Fairview had a small glimpse of joy accompanied by a growing smile of finally making his destination. Stopping only to soak in the view of the warmly lit glow of the street lanterns and what appeared to be heaven. Finishing off the last of the water from his wineskin he once again started toward the great city walls of Iridine. The yellow-orange glow of the sun warming his back seemed to push him along the seemingly deserted dirt road. Overwhelmed with emotion he dropped to his knees at the entrance to the city. Silence rang in his ears only hearing the faint rustle of fallen leaves. Clutching fistfulls of dirt and grass from the street, holding his arms outstretched with the grains of dust sliding between his fingers cascading back to where they had been plucked. His head sliding back to gaze upon the heavens which had guided his weary legs to that very spot. A lazy breeze blowing around the the shaded alleyways whips into his face blowing his hair slightly off his shoulders. With years of pain and heartache behind him this short moment of happiness had been long awaited. With this sense of happiness he knew then that this would be his new home...for now.

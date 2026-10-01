@@ -41,13 +41,13 @@ Covering the most areas in combative situations, CMs are an integral part of you
 
 **Directions to Leda** ([Iridine](/riverside/)): Walk to **Toga**, W, SW, S, E
 **Directions to Rontubius** ([Monlon](/monlon/)): Walk to Vetallun Road, Walk to Vetallun **Crossroads**, Ex2, NE, Ex2, SE, S, E, buy ticket, W, S, wait for and take ferry to monlon, Nx3, W, N, NW, W, Nx3, NEx2, S
-**Directions to Hroth** ([Stromheim](/stromheim/)): Travel to Stromheim through the [Rock Valley](/rock-valley/) wilderness.
+**Directions to Hroth** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 **Directions to Uiseann** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to **Hospice**, wait for drover to appear, follow drover, Ex12, Sx5, Ex3, Sx2, W, Sx3, Ex12, S, E, N
-**Directions to Cralus** ([Blackvine](/blackvine/)): Walk to **Vetallun** Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
+**Directions to Cralus** ([Blackvine](/village-of-blackvine/)): Walk to **Vetallun** Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
 **Directions to Pelias** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to **Hospice**, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx2, W
 **Directions to Clobris** New Location ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex6, S
-**Directions to Mervia** ([Seld](/seld/)): Walk to **Seld** (Town Square), Nx2, W, S 
-**Directions to Regul** ([Vetallun](/vetallun/)): Walk to **Vetallun** Road, Walk to Vetallun Crossroads, W, Nx3, Wx5, S, W
+**Directions to Mervia** ([Seld](/village-of-seld/)): Walk to **Seld** (Town Square), Nx2, W, S 
+**Directions to Regul** ([Vetallun](/town-of-vetallun/)): Walk to **Vetallun** Road, Walk to Vetallun Crossroads, W, Nx3, Wx5, S, W
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
 
@@ -302,7 +302,7 @@ This skill allows the user to approach a target without needing to manually retr
 
 Melee Advance gets a bonus to speed from its ranks and the Speed attribute of the user, with the maximum speed bonus being achieved at rank 150. Characters with a high Speed attribute may reach the maneuver's maximum speed at lower ranks. Additionally, the user can leave defensive openings while attempting the maneuver. The chance for these openings to occur is nullified by achieving rank 90 in Combat Maneuvers or Melee Advance, whichever occurs first. 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Judgement**, **Willpower** & **Reasoning**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Judgement**, **Willpower** & **Reasoning**.
 
 **When you see this in use you see:**
 
@@ -323,7 +323,7 @@ This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.
 
 ### Footwork  *n/a*
 
-With enough training in Footwork, you are able to raise your **[agility](http://eternal-city.wikidot.com/stats#Agility)** in combat situations. A grandmaster in this skill will be equivalent to low-end great agility. *(90 ranks required)*
+With enough training in Footwork, you are able to raise your **[agility](/stats/#Agility)** in combat situations. A grandmaster in this skill will be equivalent to low-end great agility. *(90 ranks required)*
 
 *(This is a passive skill that improves your agility, improving your ability to defend.)*
 
@@ -332,7 +332,7 @@ With enough training in Footwork, you are able to raise your **[agility](http://
 
 ### Reflexes  *n/a*
 
-With enough training in Reflexes, you are able to raise your **[speed](http://eternal-city.wikidot.com/stats#Speed)** in combat situations. A grandmaster in this skill will be equivalent to low-end great speed. *(90 ranks required)*
+With enough training in Reflexes, you are able to raise your **[speed](/stats/#Speed)** in combat situations. A grandmaster in this skill will be equivalent to low-end great speed. *(90 ranks required)*
 
 
 *(This is a passive skill that improves your speed, reducing your round times and improving your ability to defend.)*
@@ -344,7 +344,7 @@ With enough training in Reflexes, you are able to raise your **[speed](http://et
 
 This skill has been .
 
-This skill allows a character to move into a position to detain a subject from leaving the area. Multiple people can attempt to detain one subject. When a subject that is being detained tries to leave the area, they are required to make a roll against EACH person that is detaining them. This can be countered with knowledge of [guard evasion](http://eternal-city.wikidot.com/street-smarts#Guard-Evasion).
+This skill allows a character to move into a position to detain a subject from leaving the area. Multiple people can attempt to detain one subject. When a subject that is being detained tries to leave the area, they are required to make a roll against EACH person that is detaining them. This can be countered with knowledge of [guard evasion](/street-smarts/#Guard-Evasion).
 
 |  EXAMPLE=
 

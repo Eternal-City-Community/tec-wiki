@@ -14,7 +14,7 @@ Love spending that hard earned coin? Just need to feed your character? Know you 
 [Shops](/shops/)
 #### Franlius Overview
 Franlius is a place all of its own and deserves its own guide on its unique aspects. Checkout the guide below:
-[Franlius Overview](/franlius/)
+[Franlius Overview](/town-of-franlius/)
 
 
 #### Hunting Grounds

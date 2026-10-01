@@ -47,7 +47,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 | [Questrius' Toss and Crush](#Crush) | Easy | Either | Short | Bruise | - | - | - | - | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
-**Directions to Cula** ([Blackvine](/blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx4, Ex3, N
+**Directions to Cula** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx4, Ex3, N
 **Directions to Majell** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, Nx3
 **Directions to Varga** ([City of Monlon](/city-of-monlon/)): Walk to Monlon Bank, Sx2, NE, Ex3, S, Ex3
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.

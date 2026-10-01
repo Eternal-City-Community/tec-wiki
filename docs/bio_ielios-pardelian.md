@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 ## Ielios Pardelian
 *(Taken from forum posting by Bactrian)*

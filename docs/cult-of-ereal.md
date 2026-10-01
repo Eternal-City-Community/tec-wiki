@@ -28,23 +28,10 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 |  |  |  |  |  | Cult of Ereal |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | High Priest Tharius |
-| ***High Priest’s Proxy*** _ |  |  |  |  |  |
+| ***High Priest’s Proxy***<br><br>Darie Allende | ***Sword of Ereal***<br><br>Junia Gracious<br><br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br><br>i. Titus Ahala<br><br>ii. Albius Anande<br><br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br><br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br><br>v. Sartor Mithus<br><br>vi. Spurius Ravilla<br><br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
+|  | i. Fist of Ereal<br><br>ii. Firm of Ereal<br><br>iii. Shield of Ereal |  |  |  |  |
 
-Darie Allende ||= ***Sword of Ereal*** _
-Junia Gracious _
-*(deceased)* ||= *(Tharius’)* ***Chief of Spies*** ||< @@            @@***The Council of Elders*** _
-i. Titus Ahala _
-ii. Albius Anande _
-iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** ) _
-iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** ) _
-v. Sartor Mithus _
-vi. Spurius Ravilla _
-vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** )
-|  | i. Fist of Ereal _ |
-| --- | --- |
 
-ii. Firm of Ereal _
-iii. Shield of Ereal || ||
 <a id="High-Priest"></a>
 #### [#](#High-Priest)High Priest
 
@@ -126,6 +113,7 @@ From Aspirant to Acolyte, every stage of this path is overseen by members of the
 |  |  |  |  |  |  | Pathways of Light |
 | --- | --- | --- | --- | --- | --- | --- |
 | Revealing Light | Arcane Light | Preserving Light | Comforting Light | Guiding Light | Illuminating Light | Nature's Light |
+
 
 Upon becoming an Acolyte, members of the Cult may dedicate themselves to one or more Paths of Light. Each Path represents a different form of
 service to Ereal and to the people of Iridine.
@@ -238,7 +226,7 @@ Please note that as easy as this circumstance may seem to be entered in upon, it
 Ereal's priests are well-known for a variety of week and two-week long festivals held [throughout the year](/dates-and-time/) celebrating different aspects of the God and to the passing of seasons.
 
 They are the **Festival for Ereal of the Morning** which begins at the start of spring, the **Festival for Ereal the Conqueror** which begins at the start of summer, the **Festival for Ereal of the Evening** which begins at the start of autumn and the **Festival for Ereal the Wanderer** which begins at the start of winter.
-@@ @@
+ 
 
 
 <details>

@@ -13,33 +13,13 @@ The technology of the bow itself is just emerging in Midlight, with the Iridine 
 | Skill/Action | Difficulty | Hands | Range | Wound | Prerequisite | Fern | Brauthos | Shantaz | Jarla |
 | *<u>Archery</u>* | Easy | - | - | - | - | 300 | 125 | 500 | 300 |
 | [Basic Shot](#Basic) | Average | 2 | Missile | Pierce | - | 300 | 75 | 500 | 175 |
-| [Parting Shot](#Part) | Average | 2 | Short | Pierce | 20 Ranks in [Point Blank Targeting](#Point) _ |  |  |  |  |
-
-20 Ranks in [Steady Aim](#Steady) ||= 300 ||= 75 ||= 500 ||= 175
-| [Foot Shot](#Foot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Steady Aim](#Steady) ||= 300 ||= 75 ||= 500 ||= 175
-| [Head Shot](#Head) | Difficult | 2 | Missile | Pierce | 40 Ranks in [Basic Shot](#Basic) _ |
-| --- | --- | --- | --- | --- | --- |
-
-40 Ranks in [Steady Aim](#Steady) ||= 300 ||= 75 ||= 500 ||= 175
-| [Hand Shot](#Hand) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Steady Aim](#Steady) _
-20 Ranks in [Foot Shot](#Foot) ||= 300 ||= 75 ||= 500 ||= 175
-| [Rapid Fire Shot](#Rapid) | Difficult | 2 | Missile | Pierce* _ |
-| --- | --- | --- | --- | --- |
-
-Pierce* ||= - ||= 100 ||= 75 ||= 150 ||= 175
-| [Quick Shot](#QShot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Quick Load](#Load) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Quick String](#Quick) _
-20 Ranks in [Quick Draw](#Draw) ||= 300 ||= 75 ||= 500 ||= 175
+| [Parting Shot](#Part) | Average | 2 | Short | Pierce | 20 Ranks in [Point Blank Targeting](#Point)<br><br>20 Ranks in [Steady Aim](#Steady) | 300 | 75 | 500 | 175 |
+| [Foot Shot](#Foot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic)<br><br>20 Ranks in [Steady Aim](#Steady) | 300 | 75 | 500 | 175 |
+| [Head Shot](#Head) | Difficult | 2 | Missile | Pierce | 40 Ranks in [Basic Shot](#Basic)<br><br>40 Ranks in [Steady Aim](#Steady) | 300 | 75 | 500 | 175 |
+| [Hand Shot](#Hand) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic)<br><br>20 Ranks in [Steady Aim](#Steady)<br><br>20 Ranks in [Foot Shot](#Foot) | 300 | 75 | 500 | 175 |
+| [Rapid Fire Shot](#Rapid) | Difficult | 2 | Missile | Pierce*<br><br>Pierce* | - | 100 | 75 | 150 | 175 |
+| [Quick Shot](#QShot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Quick Load](#Load)<br><br>20 Ranks in [Quick String](#Quick)<br><br>20 Ranks in [Quick Draw](#Draw) | 300 | 75 | 500 | 175 |
 | [Handle Parry](#HParry) | Difficult | - | - | - | - | 300 | - | 500 | ??? |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Quick Load](#Load) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
 | [Simple Stringing](#SS) | Easy | - | - | - | - | 100 | 75 | 150 | 175 |
 | [Simple Unstringing](#Unstring) | Easy | - | - | - | - | 100 | 75 | 150 | 175 |
@@ -56,10 +36,10 @@ Pierce* ||= - ||= 100 ||= 75 ||= 150 ||= 175
 | [Shot Breathing](#Breathe) | Difficult | - | - | - | - | 100 | 90 | 150 | 175 |
 | [Archer's Grip](#AGrip) | Impossible | - | - | - | - | 100 | 90 | 150 | 175 |
 
-**Directions to Fern** ([Vetallun](/vetallun/)): walk to Vetallun Road, walk to Vetallun Crossroads, S, W
+**Directions to Fern** ([Vetallun](/town-of-vetallun/)): walk to Vetallun Road, walk to Vetallun Crossroads, S, W
 **Directions to Brauthos** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx7, E 
-**Directions to Shantaz** ([Seld](/seld/)): Walk to Seld (Town Square), Wx8, N, E 
-**Directions to Jarla** ([Stromheim](/stromheim/)): Travel to Stromheim through the [Rock Valley](/rock-valley/) wilderness.
+**Directions to Shantaz** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Wx8, N, E 
+**Directions to Jarla** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Archery Target Locations
 You can start your training journey at the following archery targets:
@@ -332,7 +312,7 @@ Quickly draws, strings, and loads the bow in a single, fluid motion.
 <div class="skill-template">
 
 Fern attempts to quick draw a short bow, but ends up looking rather baffled instead. _
-
+ _
 Fern wields a short bow in both hands.
 In one fluid motion, Fern draws her short bow, strings and loads it.
 

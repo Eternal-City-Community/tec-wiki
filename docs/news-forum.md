@@ -10,26 +10,22 @@ page used for the *news forum found in-game, will test several formats. interest
 #### General News:
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.
 
 
 #### New Releases:
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.
 
 
 #### Events:
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.
 
 
 #### Event Schedule:
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.

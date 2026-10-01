@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Retalq was born in Altene and was the son of Setharic and Lorna Blade. His father was a blacksmith and worked with many metals. Setharic decided to name his son after the metal retalq.

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Smack!!! That was all that could be heard as the bar maid flung her hand across Sylicus's face.

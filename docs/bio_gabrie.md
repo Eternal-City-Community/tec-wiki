@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Gabrie Celesta is a young Altene girl, who moved to Iridine in the hopes of finding great adventure and wonder. She made the trip with her three best friends: Xeran, Medrinnor, and Rydial. She also came along with her twin sister Precis Mujinbeam; the last name difference was due to a mistake at birth, when another family claimed Precis as their own by mistake. Either way, these five friends held out for each other like a family of their own…..

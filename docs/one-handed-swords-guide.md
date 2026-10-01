@@ -52,7 +52,7 @@ This is the list of weapons that can be used by the One-Handed Swords skill set.
 | Gold Gladius | n/a | *not available for purchase* |
 | Iron Gladius **[RF]** | Found as loot in various [hunting grounds](/hunting-grounds/) | 13t 1537d 2st |
 | Boison Gladius **[RF]** | Found as **rare** loot in various [hunting grounds](/hunting-grounds/) | 30t 625d |
-| Retalq Gladius | Sold by [Fama](/shops/) ([Vetallun](/vetallun/)) | 200t |
+| Retalq Gladius | Sold by [Fama](/shops/) ([Vetallun](/town-of-vetallun/)) | 200t |
 
 **[T]**: This item is a **training** weapon and does no damage.
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
@@ -95,6 +95,7 @@ A rank of **1 signifies the best** in this category.
 | Gold Gladius |  |
 | Wooden Gladius  **[T]** | - |
 
+
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category.
@@ -112,6 +113,7 @@ A rank of **1 signifies the best** in this category.
 | Gold Gladius |  |  | 2 | 1.8 +MoS |
 | Boison Gladius |  |  | 3 | 1.9 +MoS |
 
+
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
@@ -125,6 +127,7 @@ A rank of **1 signifies the best** in this category.
 | Iron Gladius | 5 | 6 lbs |
 | Boison Gladius | 6 | 7 lbs |
 | Gold Gladius | 7 | 32 lbs |
+
 
 ### Moves
 #### Worthwhile

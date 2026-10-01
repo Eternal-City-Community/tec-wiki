@@ -4,7 +4,7 @@
 > 
 > Herein lies a burying ground that, depending on who you ask, contains the sarcophagi of plague victims, the well-to-do, or even the original tomb of the Priestess Iridine. Whomever it was, time has forgotten.
 
-[![](https://eternal-city.wikidot.com/local--files/files/iridine-oldcitymoondeep.gif)](https://eternal-city.wikidot.com/local--files/files/iridine-oldcitymoondeep.gif)
+[![](/local--files/files/iridine-oldcitymoondeep.gif/)](/local--files/files/iridine-oldcitymoondeep.gif/)
 
 **Related Maps**
 [Bronze Lane](/bronze-lane/)

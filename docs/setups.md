@@ -21,7 +21,6 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 | [Street Approach](#StreetApproach) | Average | - | 10 |
 | [Gentleman's Touch](#GentTouch) | Difficult | - | 10 |
 | [Eavesdrop](#eavesdrop) | Difficult | - | 10 |
-
 ***^^1^^ Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
 ***^^2^^ Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast part of town.*
 
@@ -53,7 +52,7 @@ Distraction is one of the best methods a thief can use on a mark. Have him looki
 
 <div class="skill-template">
 
-@@>@@ *spook trader*
+> *spook trader*
 Your distraction has definitely gotten a trader’s attention.
 You barely get a trader to glance at you.
 Your distraction has definitely gotten a trader’s attention.
@@ -79,7 +78,7 @@ This maneuver is used for **quickly approaching** a target, and with a bit of sk
 
 <div class="skill-template">
 
-@@>@@ *ground trader*
+> *ground trader*
 You manage to get right on top of a trader before being noticed.
 
 </div>
@@ -102,7 +101,7 @@ Good for sizing up an opponent, combat assess  will give you a rough idea of how
 
 <div class="skill-template">
 
-@@>@@ *combat trader*
+> *combat trader*
 A trader looks to be a non-combatant.
 From what you can tell of him, XXXXX has been in countless battles and has the stance of an elite warrior. This person is amongst the most skilled fighters around. ~5.5k
 From what you can tell of him, XXXXX has been in many battles and has the stance of a highly skilled warrior. This person is a formidable opponent in any fight. ~9-10k
@@ -139,7 +138,7 @@ This is one of the most useful tricks a thief can learn once they know how to li
 
 <div class="skill-template">
 
-@@>@@ *coin trader*
+> *coin trader*
 A trader is carrying a negligible amount of coin. He is carrying very little, if any, money on him.
 You strain your ear to hear the faint tinkling of coins coming from a trader. From what you can tell, he is carrying around 20 denars.
 Based on the jingling of coins, you estimate that a trader is carrying somewhere in the region of 20 cents.
@@ -183,7 +182,7 @@ TBC
 
 <div class="skill-template">
 
-@@>@@ *glance soldier*
+> *glance soldier*
 [Success: 1, Roll: 33] You see a heavily-muscled man in Iridinian armor. His dark brown eyes return your gaze intently before turning back to the surrounding area. He seems relaxed but watchful.  He is wearing a small leather sheath, a small cloth pouch with cord ties, a scabbard, a brown leather belt, a mail cuirass, some banded leggings, some hobnailed soldier's boots, and a polished bronze helmet. He is carrying nothing in his right hand and a long shield in his left hand.
 
 </div>
@@ -207,11 +206,11 @@ TBC
 
 <div class="skill-template">
 
-@@>@@ *citystalk Arteus*
+> *citystalk Arteus*
 [Success: 95, Roll: 86] You make a cautious effort to stalk Arteus from a distance.  You are not sure if he noticed.
 
 
- @@>@@ *citystalk Arteus*
+ > *citystalk Arteus*
 [Success: 1, Roll: 7] Cautiously, you move to trail Arteus from a safe distance.  You are fairly certain that you are not seen.
 
 </div>
@@ -232,7 +231,7 @@ TBC
 
 <div class="skill-template">
 
-@@>@@ *fade trader*
+> *fade trader*
 [Success: 5, Roll: 100] You manage to move away from a trader without being seen doing so.
 
 </div>
@@ -253,7 +252,7 @@ TBC
 
 <div class="skill-template">
 
-@@>@@ *drunkenwalk trader*
+> *drunkenwalk trader*
 TBC
 
 </div>
@@ -274,7 +273,7 @@ Using the surrounding crowd as cover, you attempt to silently approach your unsu
 
 <div class="skill-template">
 
-@@>@@ *streetapproach trader*
+> *streetapproach trader*
 TBC
 
 </div>
@@ -295,7 +294,7 @@ TBC
 
 <div class="skill-template">
 
-@@>@@ *... trader*
+> *... trader*
 TBC
 
 </div>
@@ -316,7 +315,7 @@ TBC
 
 <div class="skill-template">
 
-@@>@@ *... trader*
+> *... trader*
 TBC
 
 </div>

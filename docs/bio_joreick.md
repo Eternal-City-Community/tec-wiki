@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 It all started a long 18 years ago. I was born in the city of Iridine and was an unwanted child from the start. I don't know my parents, I don't even remember having some because I was given to my aunt Elen at birth and she took me to the Parcines where I remained until i was 16. I never fit in anywhere as a child and it's quite easy to see why. I was always about 3-4 inches taller than everyone with blond hair and green eyes, quite a contrast for the [Parcine](/parcines/) folks. So, I spent most of my early years alone until I met a friend name Edary Shulenko. Meeting him turned my life around and not for the best actually....

@@ -1,4 +1,3 @@
 # Legal Terms Of Use
 
-!!! note "Migrated include"
-    This page originally included `:modules:include:5` on Wikidot. The transcluded content still needs review.
+> **Archive include:** [:modules:include:5](/_modules_include_5/)

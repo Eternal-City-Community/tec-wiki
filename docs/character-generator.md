@@ -1,6 +1,6 @@
 # Character Generator
 
-+* Creating a Character - Step By Step Guide 
+## Creating a Character - Step By Step Guide 
 
 
 The **character generator** (aka CharGen) is accessible through the **PLAY** menu while in the Welcome Area **(WA)**.
@@ -29,14 +29,14 @@ Last names **ARE** used in certain situations in-game.  Please make sure you cho
 
 ### Step #1: Gender
 
-```
+~~~
 =[Character Generation]=======================================================
  What is your character's gender?       
   
  [1]  Male
  [2]  Female
 ==============================================================================
-```
+~~~
 
 
 Where you were born and raised contributes a lot to your character. Your homeland affects, among other things, how other people view you, what your family life was like, and what your parents did for a living.
@@ -49,7 +49,7 @@ Hit <return> to continue...
 ### Step #2: Homeland
 **NOTE: Please check [National Advantages](/national-advantages/) for a complete listing of nation-related bonuses.**
 
-```
+~~~
 =[Character Generation]=======================================================
  Please choose a homeland from among the following. 
   
@@ -69,16 +69,16 @@ Hit <return> to continue...
  Enter a '?' followed by a response number for more information about that 
 response.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 
-+++* Step #2.a: City of Iridine
+#### Step #2.a: City of Iridine
 **ONLY AVAILABLE IF CHOOSING *"[1]  City of Iridine"* in Step #2.**
 
-```
+~~~
 =[Character Generation]=======================================================
  What part of the city do you live in?  
   
@@ -87,16 +87,16 @@ response.
  [3]  The Sandbar; a middle-class neighborhood overlooking the harbor.
  [4]  Quartz Heights; the market area, close to the craftsman's districts.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 
-+++* Step #2.b: Republic of Iridine
+#### Step #2.b: Republic of Iridine
 **ONLY AVAILABLE IF CHOOSING *"[2]  Republic of Iridine"* in Step #2.**
 
-```
+~~~
 =[Character Generation]=======================================================
  Which town in the Republic did you come from? 
   
@@ -117,7 +117,7 @@ response.
  Enter a '?' followed by a response number for more information about that 
 response.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -125,7 +125,7 @@ response.
 
 ### Step #3: Preferred Home Type
 
-```
+~~~
 =[Character Generation]=======================================================
  Given a choice of places to live, which would you rather make your home? 
   
@@ -133,16 +133,16 @@ response.
  [2]  A small town
  [3]  The wilderness
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 
-+++* Step #3.1: City life choice. 
+#### Step #3.1: City life choice. 
 **ONLY AVAILABLE IF CHOOSING *"[1] A large city"* IN STEP #3.**
 
-```
+~~~
 =[Character Generation]=======================================================
  What most attracts to life in a large city? 
   
@@ -151,16 +151,16 @@ response.
  [3]  The excitement of city life and the many places to explore.
  [4]  The aura of civilization and the opportunities for learning.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 
-+++* Step #3.2: Small town life choice. 
+#### Step #3.2: Small town life choice. 
 **ONLY AVAILABLE IF CHOOSING *"[2]  The many opportunities..."* IN STEP #3.**
 
-```
+~~~
 =[Character Generation]=======================================================
  What most attracts to life in a small town? 
   
@@ -168,13 +168,13 @@ response.
  [2]  Being able to know everyone around you, the sense of community.
  [3]  The traditions and values of a small community.
 ==============================================================================
-```
+~~~
 
 
-+++* Step #3.3: Wilderness life choices. 
+#### Step #3.3: Wilderness life choices. 
 **ONLY AVAILABLE IF CHOOSING *"[3]  The excitement of city..."* IN STEP #3.**
 
-```
+~~~
 =[Character Generation]=======================================================
  What most attracts you to life in the wilderness? 
   
@@ -183,7 +183,7 @@ response.
  [3]  Solitude
  [4]  Adventure
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -191,23 +191,23 @@ response.
 
 ### Step #4: Childhood friends
 
-```
+~~~
 =[Character Generation]=======================================================
  Did you have many friends as a child?  
   
  [1]  Yes
  [2]  No
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 
-+++* Step #4.1: Having many friends. 
+#### Step #4.1: Having many friends. 
 **ONLY AVAILABLE IF CHOOSING *"[1]  Freedom"* IN STEP #4.**
 
-```
+~~~
 =[Character Generation]=======================================================
  What generally attracted others to befriend you? 
   
@@ -217,16 +217,16 @@ response.
  [4]  Your fairness and integrity.
  [5]  Your athletic abilities.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 
-+++* Step #4.2: Few friends. 
+#### Step #4.2: Few friends. 
 **ONLY AVAILABLE IF CHOOSING *"[2]  No"* IN STEP #4.**
 
-```
+~~~
 =[Character Generation]=======================================================
  What did you occupy yourself with, lacking many childhood friends? 
   
@@ -237,7 +237,7 @@ response.
  [5]  Picking fights or causing trouble.
  [6]  Exploring and learning on your own.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -245,20 +245,20 @@ response.
 
 ### Step #5: Favorite Activities.
 
-```
+~~~
 =[Character Generation]=======================================================
  Which did you enjoy more as you grew up? 
   
  [1]  Sports and Physical activities
  [2]  Thinking Games and Puzzles
 ==============================================================================
-```
+~~~
 
 
-+++* Step #5.1: Sportsman. 
+#### Step #5.1: Sportsman. 
 **ONLY AVAILABLE IF CHOOSING *"[1]  Sports and Physical..."* IN STEP #5.**
 
-```
+~~~
 =[Character Generation]=======================================================
  Which activity would you have been best at? 
   
@@ -268,13 +268,13 @@ response.
  [4]  Gymnastics
  [5]  Boxing
 ==============================================================================
-```
+~~~
 
 
-+++* Step #5.2: Thinker. 
+#### Step #5.2: Thinker. 
 **ONLY AVAILABLE IF CHOOSING *"[2]  Thinking Games and Puzzles"* IN STEP #5.**
 
-```
+~~~
 =[Character Generation]=======================================================
  As a child, what would you have most enjoyed? 
   
@@ -284,7 +284,7 @@ response.
  [4]  Debates
  [5]  Tricks and Jokes
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -296,10 +296,10 @@ Hit <return> to continue...
 
 ### Step #6: Character Build
 
-+++* Step #6-A: Character Male Build.
+#### Step #6-A: Character Male Build.
 **ONLY AVAILABLE IF CHOOSING *"[1]  Male"*IN STEP #1** 
 
-```
+~~~
 =[Character Generation]=======================================================
  What adjective best describes your build? 
   
@@ -350,14 +350,14 @@ Hit <return> to continue...
  [45] Well-fed
  [46] Wiry
 ==============================================================================
-```
+~~~
 
 
-+++* Step #6-B: Character Female Build. 
+#### Step #6-B: Character Female Build. 
 **ONLY AVAILABLE IF CHOOSING *"[2]  Female"*IN STEP #1** 
 
 
-```
+~~~
 =[Character Generation]=======================================================
  What adjective best describes your build? 
   
@@ -408,7 +408,7 @@ Hit <return> to continue...
  [45] Well-fed
  [46] Wiry
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -416,7 +416,7 @@ Hit <return> to continue...
 
 ### Step #7: Complexion
 
-```
+~~~
 =[Character Generation]=======================================================
  What shade is your complexion?         
   
@@ -443,14 +443,14 @@ Hit <return> to continue...
  [21] Black (Desert and Southern Climes)
  [22] Ebony (Desert and Southern Climes)
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 ### Step #8: Eye Color
 
-```
+~~~
 =[Character Generation]=======================================================
  What color are your eyes? 
   
@@ -480,7 +480,7 @@ Hit <return> to continue...
  [24] Light blue
  [25] Milky white
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -488,7 +488,7 @@ Hit <return> to continue...
 
 ### Step #9: Hair Color
 
-```
+~~~
 =[Character Generation]=======================================================
  WHat color is your hair?  
   
@@ -530,14 +530,14 @@ Hit <return> to continue...
  [36] Snow white
  [37] Stark white
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 ### Step #10: Hair length
 
-```
+~~~
 =[Character Generation]=======================================================
  How long is your hair?    
   
@@ -547,7 +547,7 @@ Hit <return> to continue...
  [4]  Long
  [5]  Waist-length
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -555,7 +555,7 @@ Hit <return> to continue...
 
 ### Step #11: Hair texture
 
-```
+~~~
 =[Character Generation]=======================================================
  What is the texture of your hair?      
   
@@ -600,7 +600,7 @@ Hit <return> to continue...
  [39] Wiry
  [40] Wispy
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -608,7 +608,7 @@ Hit <return> to continue...
 
 ### Step #12: Face structure
 
-```
+~~~
 =[Character Generation]=======================================================
  Pick the one that best describe the structure of your face: 
   
@@ -626,7 +626,7 @@ Hit <return> to continue...
  [12] Round
  [13] Severe
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -634,7 +634,7 @@ Hit <return> to continue...
 
 ### Step #13: Nose type
 
-```
+~~~
 =[Character Generation]=======================================================
  Pick the adjective that best describes your nose from the list below: 
   
@@ -651,7 +651,7 @@ Hit <return> to continue...
  [11] Aquiline
  [12] Ordinary
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -659,7 +659,7 @@ Hit <return> to continue...
 
 ### Step #14: Lips type
 
-```
+~~~
 =[Character Generation]=======================================================
  Pick the adjective that best describes your lips from the list below: 
   
@@ -670,7 +670,7 @@ Hit <return> to continue...
  [5]  Sneering
  [6]  Ordinary
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -678,7 +678,7 @@ Hit <return> to continue...
 
 ### Step #15: Chin type
 
-```
+~~~
 =[Character Generation]=======================================================
  Pick the adjective that best describes your chin from the list below: 
   
@@ -692,14 +692,14 @@ Hit <return> to continue...
  [8]  Square
  [9]  Weak
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 ### Step #16: Height
 
-```
+~~~
 =[Character Generation]=======================================================
  Pick the word that best describes your height: 
   
@@ -709,7 +709,7 @@ Hit <return> to continue...
  [4]  Short
  [5]  Very Short
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -721,7 +721,7 @@ Hit <return> to continue...
 <a id="Step-17"></a>
 ### Step #17: Adjectives
 
-```
+~~~
 =[Character Generation]=======================================================
 [1]  able            [2]  deliberate     [3]  adaptable
 [4]  alert           [5]  attractive     [6]  analytical
@@ -758,7 +758,7 @@ Hit <return> to continue...
 [97] weak            [98] wry            [99] wild
 [99*] lucky           [99**] fortunate
 ==============================================================================
-```
+~~~
 
 **After choosing one, you get to unlock [99] lucky and then after choosing a second one you get [99] fortunate**
 
@@ -772,7 +772,7 @@ Hit <return> to continue...
 <a id="Step-18"></a>
 ### Step #18: Skill Choice
 
-```
+~~~
 =[Skills]=====================================================================
  [1]  Knives
  [2]  One-Handed Crushing
@@ -793,7 +793,7 @@ Hit <return> to continue...
  enter a ? followed by a number for more information on a given
  skill. Enter 'X' by itself to abort character generation.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -807,7 +807,7 @@ Hit <return> to continue...
 <a id="Step-19"></a>
 ### Step #19: Nationality Advantages
 
-```
+~~~
 =[Advantages]=================================================================
  [1]  Free Skill: Knives
  [2]  Free Skill: One-handed Swords
@@ -817,7 +817,7 @@ Hit <return> to continue...
  enter a ? followed by a number for more information on a given
  advantage. Enter 'X' by itself to abort character generation.
 ==============================================================================
-```
+~~~
 
 
 NOTE: **View full list of [national advantages](/national-advantages/) available to your selected nation.**
@@ -845,7 +845,7 @@ Hit <return> to continue...
 ---
 **NOTE: For a detailed list of traits with their values and definitions please see [Traits](/traits/).**
 
-```
+~~~
 =[Current Traits]=============================================================
 
 Positive Traits          Negative Traits
@@ -868,7 +868,7 @@ Total Trait Value: 0
  You may finish and save only when the total trait value is 0 or less.
  Entering 'X' by itself will abort character generation.
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -876,7 +876,7 @@ Total Trait Value: 0
 
 ### Positive Traits
 
-```
+~~~
 =[Choose a trait to add:]=====================================================
  [1]  Night Vision
  [2]  Iron Will
@@ -912,14 +912,14 @@ Total Trait Value: 0
  trait. Enter 'X' by itself to abort character generation.
  To return to the trait management menu, enter 'R'
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 ### Negative Traits
 
-```
+~~~
 =[Choose a trait to add:]=====================================================
  [1]  Shaky Hands
  [2]  Bleeder
@@ -955,7 +955,7 @@ Total Trait Value: 0
  trait. Enter 'X' by itself to abort character generation.
  To return to the trait management menu, enter 'R'
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
@@ -963,7 +963,7 @@ Total Trait Value: 0
 
 ### **Neutral Traits**
 
-```
+~~~
 =[Choose a trait to add:]=====================================================
  [1]  Hand of Fate
  [2]  Light Sleeper
@@ -979,21 +979,21 @@ Total Trait Value: 0
  trait. Enter 'X' by itself to abort character generation.
  To return to the trait management menu, enter 'R'
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)
 
 Are you satisfied with the above traits? [y/N] Traits saved.
 
-```
+~~~
 =[Character Generation]=======================================================
  Do you want to keep this character?    
   
  [1]  Yes
  [2]  No
 ==============================================================================
-```
+~~~
 
 
 [Back To Top](#back-to-top)

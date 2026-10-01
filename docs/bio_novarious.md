@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 One day, just before his 18th birthday Novarious was out back training on a practice dummy with his fangstave, when he heard a loud noise from his house, he ran inside just intime to see a hooded man run out the front door, he did not give chase to the man wanting to find out what the noise was, he feared the worst, as he walked into the next room, their sitting in a chair, was his father about to breathe his last breath, he knelt down beside his father and asked him what happened, when he learned that a hooded man broke in, and stabbed his father several times before takeing a family heirloom from him (a gold amulet) he was enraged and vowed he would get the amulet back and make that hooded man pay with his life.

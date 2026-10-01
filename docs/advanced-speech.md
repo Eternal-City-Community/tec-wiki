@@ -43,16 +43,17 @@ The syntax for using verbs is really quite simple. Once adverbs are thrown into 
 | inform phw "You smell like raw sewage. | You inform Phwoar, "You smell like raw sewage." | Marnevel informs Phwoar, "You smell like raw sewage." |
 | babble to marn "You smell worse. | You babble to Marnevel, "You smell worse." | Phwoar babbles to Marnevel, "You smell worse." |
 
+
 ### Preposition List
 
 
-```
+~~~
 to
 at
 for
 toward
 towards
-```
+~~~
 
 
 Note that some prepositions only work with certain verbs. For example:

@@ -18,8 +18,31 @@ At the center of the vast and civilized city of Iridine is the blood-stained san
 [Visit the Map Page](/colosseum/)
 
 
-!!! note "Migrated include"
-    This page originally included `colosseum` on Wikidot. The transcluded content still needs review.
+[!-- 
+Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
+
+This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
+ --]
+[![](/local--files/files/iridine-colosseum1.gif/)](/local--files/files/iridine-colosseum1.gif/)
+
+
+**Related Maps**
+[Bronze Lane](/bronze-lane/)
+[Gardens and Hospice](/gardens-and-hospice/)
+[Old City and Moondeep](/old-city-and-moondeep/)
+[Rat Pits and Aralex Pits](/rat-pits-and-aralex-pits/)
+
+**Guide**
+1.   Gladiator shop: Saunio
+2.   Animal pits
+3.   Kitchen: Narren
+4.   Healer: Mikolus
+5.   Gladiator cells
+6.   Refreshments: Krogus
+7.   Bets: Otho
+8.   Aralex reputation trainer: Prestis
+9.   Podium
+10. Refreshments: Krilio
 
 
 </details>

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born on the 1st day of Tulcas in the 200th Year of the Republic, Belle was born to a savage lifestyle of the Altene clans. The Altene borderers had warred against Belle’s clan, the Louries, for three generations. As Belle reached the fragile age of eight her clan was slaughtered in a bloody, final confrontation with their enemies. Belle escaped the ravages of the enemy clan and fled into the wilderness.

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My life was a series of painful sorrows. From these sorrows, I developed a side of myself that few have seen . . . my insanity.

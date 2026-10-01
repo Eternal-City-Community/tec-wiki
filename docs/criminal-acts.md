@@ -3,8 +3,8 @@
 **VI. Criminal Acts**
 
 
-```
-  Private Crimes
+~~~
+Private Crimes
            Property
                 Petty Theft
                   Theft of personal property valuing under 250 denars
@@ -47,4 +47,4 @@
                 Murder of a Magistrate or Officer of the Army
                 Use of Outlawed Magics
                 Treason
-```
+~~~

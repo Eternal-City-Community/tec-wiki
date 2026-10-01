@@ -61,7 +61,7 @@ While Leda will see:
 Macros are SHORTHAND commands that can be typed in to execute long or specific commands without having to fully type them out. Macros can be very useful for combat, emoting and general actions that can be quite tedious. You can type in @macro while in the game to see the macro menu:
 
 
-```
+~~~
 Macros
  [A] Add Macro
  [D] Delete Macro
@@ -70,7 +70,7 @@ Macros
  [C] Create Macro Set
  [R] Remove Macro Set
  [I] Import Macro Set
-```
+~~~
 
 
 Every character starts with 15 "defined" macros. These are fe1-fe15. If for example you set fe1 to "stand", click on the I that is just above the mini-map in the Orchil client will immediately enter the "stand" command for you in the game. You can set fe1, fe2, etc. all the way up to fe15 to have macros that you can easily click on. You can also have several macro sets on a single character based on the tasks at hand, if you wish (for example: a character who knows pickpocketing and combat, a character who has specially set up macros for gladiating that he doesn't want to use outside of the arena, etc.).
@@ -78,17 +78,17 @@ Every character starts with 15 "defined" macros. These are fe1-fe15. If for exam
 Now, if you type in @macro you will make the macro menu pop up. Enter A into the input field and then press enter.
 
 
-```
-Enter the shorthand macro string: 
-```
+~~~
+Enter the shorthand macro string:
+~~~
 
 
 This is the short command that you wish to transform into a longer command. As an example, you could type in TL and then press enter. You will then be prompted with the following:
 
 
-```
-Enter the string you wish this macro to expand to: 
-```
+~~~
+Enter the string you wish this macro to expand to:
+~~~
 
 
 This is the longer command that you wish TL to transfer into. TL could be anything that you wish, but in this case, TL would be use for TAKE LANTERN. You then type in TAKE LANTERN and press Enter.
@@ -201,16 +201,17 @@ The syntax for using verbs is really quite simple. Once adverbs are thrown into 
 | inform phw "You smell like raw sewage. | You inform Phwoar, "You smell like raw sewage." | Marnevel informs Phwoar, "You smell like raw sewage." |
 | babble to marn "You smell worse. | You babble to Marnevel, "You smell worse." | Phwoar babbles to Marnevel, "You smell worse." |
 
+
 ### Preposition List
 
 
-```
+~~~
 to
 at
 for
 toward
 towards
-```
+~~~
 
 
 Note that some prepositions only work with certain verbs. For example:

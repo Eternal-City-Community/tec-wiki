@@ -30,26 +30,19 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 | [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
 | [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
 | [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut _ |  |  |  |  |  |  |  |
-
-Cut || 20 Ranks in [Knife Slash](#Slash) || 500 || 100 ||= 85 || 300 || 75 || 75
-| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut _ |
-| --- | --- | --- | --- | --- |
-
-Cut || 10 Ranks in [Knife Simple Stab](#Stab) _
-10 Ranks in [Knife Slash](#Slash) || 500 || 100 ||= 85 || 300 || 75 || 75
+| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut<br><br>Cut | 20 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut<br><br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br><br>10 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
 | [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 500 | 100 | - | - | 75 | - |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Knives Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
 | [Knives Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
 |  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills (Not taught by NPC trainers) |
 | [Knife Low Block](#Lowblock) | - | 1 | - | - | - | - | - | - | - | - | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
-**Directions to Dreggo** ([Blackvine](/blackvine/)): Walk to Blackvine, Ex4, Sx6
-**Directions to Fetidus** ([Blackvine](/blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx5
+**Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, Ex4, Sx6
+**Directions to Fetidus** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx5
 **Directions to Hatrin** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, N, W
-**Directions to Vitrus** ([Franlius](/franlius/)): Take the ship to Franlius
+**Directions to Vitrus** ([Franlius](/town-of-franlius/)): Take the ship to Franlius
 **Directions to Maerodus** ([Monlon](/monlon/)): Take the ferry to Monlon
 
 #### Notes on Learning

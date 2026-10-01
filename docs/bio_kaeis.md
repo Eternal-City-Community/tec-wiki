@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 In [Altene](/altene/) there lived an adventuresome boy named Kaeis Knight. He was an excitable lad who had a turbulent childhood. He followed his youth with a trip to the city of Rome that landed him in a world of wonder. After a short stay in Rome the young man went to find his lost sister, he came back as the changed man you know today.

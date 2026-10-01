@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 She pushes a strand of lazy ebony hair out of her eye as she looks up to the white stone balcony where her father, Ophanis Sans Lotus, and mother, Delrana Boes Lotus, reclined on delicately carved and embroidered chaise loungers. Squinting her eye against the sun she made out the form of the servant girl, Geras, handing her mother a bronze cup. 'Perhaps filled with fig wine' she thought to herself.
@@ -22,7 +20,7 @@ When done, she retraced her steps, this time turning left at the servant quarter
 This was her life. She walked a road paved with flowers. At any given point of any day she needed just to call out and nurses would rush out to her, ready to meet her requests. This was her perfection: never to question why her parents had little if anything to do with her, and to continue to feed off of the silver spoon she was born with between her suckling lips.
 And so she went on until the day she completed her 17th year, and her father brought her to his grandly decorated office.
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 'You have grown to be a muse, my dear...and I know it will be the hearts of young warriors, willing to fall upon their swords at your beckon, that will try and woo you..' A smile creased his aged cheeks.
 Blushing lightly she replied, 'Far be it from me to get such attention, but your compliments are well taken Father Lotus. Now, allow me to know why you have called me at this hour? Business of sorts?'
@@ -32,7 +30,7 @@ Seemingly dreamily he kept on with his plans, though she barely paid attention, 
 'eh.....uh..well of course, sir...just a bit overtaken with all this talk of marriage...p-perhaps I should retire to my chambers, aye?'
 He grumbled slightly and nodded. 'We shall finish our talk at sunrise then'
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The morning came as if by a single moon's flight. She was perched at the edge of her cedar chair, gazing into her looking glass, as Resa swept her waist-length tendrils into a loose bun at the crown of her hair. Small periwinkle flowers were inserted into her hair, as her skin was anointed with a sweet scented oil. She slipped into her soft leather sandals, and looked down at Resa as she tied the leather thongs up her calf.
 'I-I can't do this...'
@@ -42,7 +40,7 @@ The crouching woman glanced up at her and then quietly replied, 'I know'
 
 Rising to her feet Serasia walked to the door, the swish of her empire-waist white silk stola, with pale blue hip sash sounding with her every step. Stopping at the threshold she looked back to Resa and then closed her eyes briefly, exhaling slowly.
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 She carried her own luggage for the first time through the tall gate of the brilliant palace. Resa waited for her at the other side, a dark woolen shawl tightly gripped about her shoulders.
 'Come now...we will go...home'
@@ -50,14 +48,14 @@ The young woman wiped at her tear-stained cheeks and nodded, crumpling into her 
 Mounting the carriage, she was whisked away to the small cottage out in the nearby woods where Resa had lived for so many years. The cottage itself was cozy, a warm fire glowing in the crudely made fireplace. Her room was small by comparison, but dimly lit, with plenty of homespun quilts and pillows on the feather mattress. A small trunk sat by the edge of the bed, an oak dresser in the far corner, a cedar chest by the western wall. On the windows were birch shutters, drawn back slightly, the glass panel lifted to allow a gentle breeze.
 'Home...' she breathed, as she unpacked her bags, and folded her clothes away.
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In her slumber, she pushed back the long plait her hair had been braided into before she extinguished her lantern for bed. Murmuring, she rolled over and snuggled down into her plump pillow, her slender arms wrapping about it.
 She didn't even hear when he crept in through her window, and hastily eased himself down onto the tightly woven rug. She only stirred once when he tugged at the blanket, uncovering her silent body. With the slyness of a cat he eased his body onto her and clamped his hand over her mouth. Her eyes opened wide as she gasped and stifled a scream. His pearly teeth glinted like fangs in the moonlight, his hair fell over his forehead and stuck to his sweaty forehead like black cob-webs, and a terrible smirk made a slow dance across his lips.
 Horrified she stared up bewildered at him.
 'I promised myself I'd have you...and I will...whether you marry me or not' came the raspy whisper.
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Involuntarily she brough her hands to her full belly, her fingertips gliding over the smooth fabric of the yellow apron.
 'What should I name her?'
@@ -67,7 +65,7 @@ Resa considered this for a long moment.
 The older woman smiled and nodded. 'Wonderful choice'
 Serasia smiled as well, though her brow furrowed with a troubling flashback...her eyes, haunted.
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 'Thrust!'
 The leaf-shaped blade of the bronze dagger sliced through the air and plunged into the practice dummy.
@@ -84,7 +82,7 @@ The old woman raised an eyebrow. 'Aye?'
 'Nay, love.....never....the heavens made their choice for a reason... motherhood will come later for you'
 Swallowing hard she nodded again and chewed on her lower lip, tasting the salt of her sweat.
 
-@@~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 'Visit me often, aye?'
 'I promise that to you, Mema'

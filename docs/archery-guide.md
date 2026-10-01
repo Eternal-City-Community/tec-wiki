@@ -18,7 +18,7 @@ Below you'll find everything important to know about using Missile Bows.
 
 ### Advice & Tips
 * Archery **damage scales with increased ranks** in [Basic Shot](/missile-weapons-bows/#Basic). All shot damage reaches its **maximum potential at rank 151** in [Basic Shot](/missile-weapons-bows/#Basic).
-* Archery **skill effectiveness scales with increased ranks** in each skill. Each skill reaches its maximum effective potential *(e.g. stuns, pins, etc.)* at **rank 151**, as has been confirmed by GM Tale. ^^[1](/http_-forum.skotos.net-forum-our-games-the-eternal-city-eternal-city-staff-news-84501-bug-fixes-p-1733694/#post1733694)  [2](/http_-forum.skotos.net-forum-our-games-the-eternal-city-the-eternal-city-mechanics-1730989-footshot-p-1733709/#post1733709)^^
+* Archery **skill effectiveness scales with increased ranks** in each skill. Each skill reaches its maximum effective potential *(e.g. stuns, pins, etc.)* at **rank 151**, as has been confirmed by GM Tale. ^^[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/84501-bug-fixes?p=1733694#post1733694)  [2](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1730989-footshot?p=1733709#post1733709)^^
 * Use the get arrow from target command to retrieve arrows from an **archery target**.
 * Use the pull arrow from <corpse> command to retrieve your arrows from an individual corpse.
 * Use the retrieve arrows or recover arrows command to retrieve re-usable arrows from all of the corpses in the current area.
@@ -30,21 +30,21 @@ Below you'll find everything important to know about using Missile Bows.
 * Do not take arrows out of the small bag that the bank clerks gives you. It will increase the weight of your arrows.
 
 
-```
+~~~
 > ammo
 USAGE: ammo bows|slings <ammo type>|none
 You have not specified any preferred ammunition.
 > ammo bows iron-tipped
 Your ammunition preference for bows has been set to an iron-tipped arrow.
-```
+~~~
 
 
-```
+~~~
 > load
 USAGE: load <bow> with <arrow_type>
 >load bow with arrow
 You load a short bow with an arrow.
-```
+~~~
 
 
 #### Suggested Training Plan
@@ -131,6 +131,7 @@ Required SP: *~2,260+ SP*
 | 10 | [Quick Draw](/missile-weapons-bows/#Draw) | 43 |
 | 11 | [Quick Load](/missile-weapons-bows/#Load) | Until Success of 1 |
 
+
 * **Rank 101** is when you can start **hitting people regularly**.
 * If you **feel up to it**, you can also get **1 rank** in [Simple Stringing](/missile-weapons-bows/#SS), [Simple Unstringing](/missile-weapons-bows/#Unstring) & [Range Assessment](/missile-weapons-bows/#Range).
 * If you have bad [stats](/stats/), stat skills () could be learned in Phase 4 in addition to others.
@@ -155,6 +156,7 @@ Required SP: *~1,970 SP*
 | 7 | [Basic Shot](/missile-weapons-bows/#Basic) | 151+ |
 | 8 | [Head Shot](/missile-weapons-bows/#Head) | 151+ |
 | 9 | [Foot Shot](/missile-weapons-bows/#Foot) | 151+ |
+
 
 [[/tab]]
 [[/tabview]]
@@ -193,6 +195,7 @@ This is the list of bows & arrows that can be used by the Archery skill set.
 | Bronze-Tipped Arrows | Sold by various [shopkeepers](/shops/)= | 190d - 332d |
 | Iron-Tipped Arrows | Sold by various [shopkeepers](/shops/) | 316d - 399d |
 
+
 #### Summary
 In most serious cases you'll want a to use **iron-tipped arrows**. Reed arrows are the arrow of choice for training or casual shooting.
 
@@ -222,6 +225,7 @@ A rank of **1 signifies the best** in this category. **The below is a guesstimat
 | Bone-Tipped Arrows | 4 |
 | Reed Arrows | 5 |
 | Crude Arrows | 6 |
+
 
 #### Ammo Speed
 

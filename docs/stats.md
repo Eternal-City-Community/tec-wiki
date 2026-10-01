@@ -115,7 +115,7 @@ Head to a training course to improve your character's physical attributes more q
 * Directions: walk to North Side Carcass Buyers, w, nw x3, n, ne x5, n, e x2, s
 
 #### Five-Part Course
-##### Location: [Vetallun](/vetallun/)
+##### Location: [Vetallun](/town-of-vetallun/)
 * Obstacles: Climbing Wall, Mud Pit, Swinging Sandbags, Plank Pool, Burning Coal Walk
 * Attributes: Strength, Dexterity, Agility, Perception, Willpower
 * Directions: walk to Vetallun Road, walk to Vetallun Crossroads, w x5, nw x3, n x2
@@ -155,6 +155,7 @@ For example, the numeric value for **Endurance** directly corresponds to your ch
 | Incredible | 231 - 240 |
 | Inhuman | 241 - 250 |
 | Superhuman | 251 - ∞ |
+
 
 ---
 <a id="improvingattributes"></a>
@@ -202,7 +203,7 @@ Certain skills supplement your character's attributes, allowing you to save on R
 * Each combat skillset has access to two skills: one that supplements Dexterity and one that supplements Perception.
 * The Combat Maneuvers skillset has two skills: one that supplements Agility and one that supplements Speed. 
 
-Learning statskills, however, has its limitations.  A statskill's bonus will cap at rank 90 (grandmaster), and will provide the equivalent of being low-end Great in the relevant attribute. However, this bonus applies only to combat situations - stat skills do not increase your attributes for any other purpose. ^^[1](/http_-forum.skotos.net-forum-our-games-the-eternal-city-the-eternal-city-mechanics-1720813-attribute-caps-p-1721016/#post1721016)^^
+Learning statskills, however, has its limitations.  A statskill's bonus will cap at rank 90 (grandmaster), and will provide the equivalent of being low-end Great in the relevant attribute. However, this bonus applies only to combat situations - stat skills do not increase your attributes for any other purpose. ^^[1](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1720813-attribute-caps?p=1721016#post1721016)^^
 
 [Back to Top](#Top)
 

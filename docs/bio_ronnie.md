@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 On a dark winter night, Toulan was busy at work. Toulan owned a prospering bar in Windward. Suddenly, a scream came from his house, above the bar. Tossing his apron to a serving maid, Toulan sped upstairs to soothe his shrieking, pregnant wife. He entered their bedroom and found her lying on her back, breathing heavily. He asked if she was okay and she screamed for a doctor. Toulan ran back downstairs and had someone fetch the doctor. In minutes, the doctor came and told Toulan that the baby would come in a few hours. Toulan had nothing to do, so he took a walk around the small city where he lived.

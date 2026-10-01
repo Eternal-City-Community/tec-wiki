@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 On the night when Gregorius Altenius became a murderer, the wind wasn't howling. Nor was it cloudy; both Aera and Lucifal were very clear in the sky. Nonetheless, the day had been filled with evil, and the advent of night merely sharpened the feeling of danger. Selpean Altenius, Gregorius' mother, continued to stare out the window into the night. Occasionally she would glance back at her sleeping son and daughters. And hope that their father would be back before sun rise. For what seemed like forever, the family held that tableau. Sleeping children and searching mother. Her eyes slowly shut and finally, she slept like a babe in the woods. Later on, as Lucifal was about to set, a series of frantic knocks came on the door. She awoke with a start, and hastened over to unlatch and unbolt the portal. As she scrambled to open the door, she hear a thudding sound and what seemed like a sigh. Finally, the door opened and in fell her husband, with an evil looking dagger in his back. Pinned up against the dagger was a parchment containing the words, "Go or you'll burn, your family with you." Selpean half walked, half stumbled over to the cots containing her children. She shook them violently and they awoke, rubbing sleep from their tired eyes. Gregorius had but a moment to grab the sturdy oak quarterstave from above the door before following his mother out of the cottage forever.

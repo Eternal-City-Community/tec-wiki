@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Grath was born in the year 202, and was the first and only child of Tarlu and Mourya Sethyel. He was born late - in fact, his parents were both in their early fifties when he was concieved and had never expected a child. They were overjoyed when they learned that Mourya was pregnant, and thought of it as the greatest possible gift from Ereal.

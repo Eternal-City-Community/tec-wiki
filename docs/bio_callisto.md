@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Callisto was born in Sostaeran on the 22nd Day of Lucifal in the 200th Year of the Republic, the eldest of Escalus and Carolinya Enyo's two daughters. She and her younger sister, Severa, had the good fortune to have been brought up in a very comfortable and happy home. Their father inherited a lucrative locksmithing business before married he Gadaene wife, so Callisto never knew any hardship. She was her father's favourite, expected to take over the business when he retired, and as a restult she was thoroughly spoiled as a child.

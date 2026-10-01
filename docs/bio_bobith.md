@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Ever since a child Bobith has hated hoods, since a Cinera hood killed his father. Bobith and Capawinius swore vengence against the Cineras. Bobith is a skilled altene swordsman, seldomly backing down from a good fight.

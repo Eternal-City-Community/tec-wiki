@@ -1,6 +1,6 @@
 # Hg Iridine Sewers
 
-++* Overview
+### Overview
 The city's offal and waste flow under its roads and out to sea. The sewers not only contain the stench and filth, but many secrets and foes. The deeper you travel, the greater the risk.
 
 ### Difficulty & creatures
@@ -44,5 +44,13 @@ Connecting to the sewers and leading to a cliff side cave, this area is laden wi
 ### Map
 
 
-!!! note "Migrated include"
-    This page originally included `sewers-and-sea-caves` on Wikidot. The transcluded content still needs review.
+ 
+**Click map to open in new window** *(Warning: Very Large)*
+[![](/local--files/files/iridine-sewers-11-29-2022.png/)](/local--files/files/iridine-sewers-11-29-2022.png/)
+
+
+**Related Maps**
+[Riverside](/riverside/)
+[Harbor](/harbor/)
+[Quartz Heights](/quartz-heights/)
+[Shipwreck](/shipwreck/)

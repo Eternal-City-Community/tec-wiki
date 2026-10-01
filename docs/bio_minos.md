@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Minos was found one night in the back alleys of Iridine when he was very young, covered in blood and passed out. Luckily for him, the people who found him were a kind hearted and took him into their own home. Upon reviving and cleaning the child up, the couple noticed that the boy had cuts and punctures all over his body, which they quickly tended to. When questioned about how he got the wounds, however, could not tell what fate had befallen him. His benefactors dismissed this as a result of shyness and a combination of fear and shock. But Minos never could remember what happened that night, the memory was blocked from his mind.

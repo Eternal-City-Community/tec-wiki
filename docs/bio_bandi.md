@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Bandi Delwin was born in Iridine, the only child of parents who drank too much ale. Her childhood was mostly unhappy…her mother died early on. One night, drunk as she often was, she stumbled through a sewer grate and met her end with the poison of a sewer snake. In Bandi's point of view, it was all for the better.

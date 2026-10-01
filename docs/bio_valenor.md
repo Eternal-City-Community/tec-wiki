@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 > Valenor was born Altene to Vansec and Nevite Thessalonia, when he was young he moved to the great city of Iridine to escape a life of war. Though he left young, he was still trained in the arts of Staves, favoring a Fangstave as his prized possesion. While in Iridine he learned how to survive by hunting vermin and small animals, then selling the pelts or trinkets found on their bodies. His life with his parents in Iridine was difficult due to racism and his immense poverty. After 11 years in Iridine his father came down with a plague and passed away at the age of 64, he and his mother survived on their own, until a fateful night when his mother was mugged, and stabbed, he tried to chase down the robbers, but could not get them. He trodded back to his mother who was soon to die, he drug her nearly lifeless body to his small shack, said a prayer for her and laid her to rest in his back yard, where her body was burned on a pyre. Though his mother was murdered, he did not vow revenge, instead he vowed to become respected some day, so that he could make his parents proud.

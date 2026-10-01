@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Marnicus Iucundus was born to Remathen parents who were loving... at first. By the time Marnicus had turned ten years old, the parents had become sick and tired of the trouble Marnicus caused. Due to his home life, Marnicus spent more and more time away from home, exploring the areas around, learning what he could about the plants and trees that grew in the area.

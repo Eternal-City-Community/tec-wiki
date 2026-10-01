@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Alexxandria was born in her homeland of Altene to Jacob and Annah Ptolomy. She was a very squirmy baby , always wanting to crawl instead of being carried and she always insisted on feeding herself if possible, they knew she would be a handful and could already see she was fiercely independent. Annah and Jacob adored her and she was their whole world. Both sets of grandparents were against each other and against the marriage, Annah couldnt take it anymore and so they set off to Iridine with Alexxandria to start a new life and get a clean start, they knew enough about Iridine to know it would be a safe enough place for her child. They packed up what little belongings they had and set out for a new life.

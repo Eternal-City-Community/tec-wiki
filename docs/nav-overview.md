@@ -96,8 +96,7 @@ Travel wagons exist in the game world. For paid wagons, only 1 ticket must be pu
 #### Franlius <-> Seld
 
 
-!!! note "Migrated include"
-    This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.
+The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 For the cost of [A pale blue ticket](/shops/), you can take a wagon from Seld to Franlius and vice versa. Estimated travel times are listed below.
@@ -122,8 +121,7 @@ There is 1 ship and 2 ferries located within the game world to help transport yo
 #### Iridine <-> Franlius (Ship)
 
 
-!!! note "Migrated include"
-    This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.
+The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 | Trip | Duration |
@@ -137,7 +135,7 @@ There is 1 ship and 2 ferries located within the game world to help transport yo
 If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* could have these replies which indicate the approximative wait time for it to return. ***Need to be updated with new times.***
 
 
-```
+~~~
 "The ship just left a bit ago, the trip to Iridine just started." [25.5 - 31 minutes]
 "Judging by when it left, the ship should be about half way back to Iridine now." [22.5 - 25.5 minutes]
 "It is close to time for the ship to return to the dock in Iridine." [18.5 - 22.5 minutes]
@@ -149,7 +147,7 @@ If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* coul
 "The ship left a while ago. It should be almost here by now." [0 - 4 minutes]
 
 "The ship is right there. You blind?" [0 minutes]
-```
+~~~
 
 
 ***<insert map snippet>***

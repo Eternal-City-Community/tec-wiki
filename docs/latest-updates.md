@@ -24,10 +24,10 @@
 <!-- ***Move the below DIV to show/hide more updates on the home page. (e.g. style="display: {$display_all_updates};) ***--> 
 
 
-* **December 31^^st^^ 2022**: The final skillset to be released in conjunction with the Kelestian invasion has been released! The [Slings](/slings/) skillset can now be learned in the recently released Kelestian outpost found deep within the Monlon ravines! (not to be confused with the fort close to Monlon). All four new skillsets now have very skilled trainers and a reputation system has been set up in this Kelestian outpost.
+* **December 31^^st^^ 2022**: The final skillset to be released in conjunction with the Kelestian invasion has been released! The [Slings](/sling/) skillset can now be learned in the recently released Kelestian outpost found deep within the Monlon ravines! (not to be confused with the fort close to Monlon). All four new skillsets now have very skilled trainers and a reputation system has been set up in this Kelestian outpost.
 
 
-* **November 1^^st^^ 2022**: The [Falcata](/falcata/), a type of one-handed curved sword, is now available! It's the third of four total new skillsets with the [Slings](/slings/) being the only remaining skillset yet to be released.
+* **November 1^^st^^ 2022**: The [Falcata](/falcata/), a type of one-handed curved sword, is now available! It's the third of four total new skillsets with the [Slings](/sling/) being the only remaining skillset yet to be released.
 
 
 * **September 30^^th^^ 2022**: A second skillset has been released as part of the Kelestian Monlon invasion! The [Falx](/falx/), a two-handed hooked sword, is now available to be learned!
@@ -165,10 +165,10 @@
 * **March 6^^th^^ 2021**: **Skill slot swaps are 50% off** for the remainder of the month. Enjoy!
 
 
-* **March 6^^th^^ 2021**: Various game tweaks including **changes to grapples, clear-hands, bank notes, gang markings and more**. [Visit the forums](http://www.eternalcitygame.com/index.php/community/staff-news/patch-notes/#post-163) to see the full list of changes.
+* **March 6^^th^^ 2021**: Various game tweaks including **changes to grapples, clear-hands, bank notes, gang markings and more**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/staff-news/patch-notes/#post-163) to see the full list of changes.
 
 
-* **February 25^^th^^ 2021**: New **"Gear Alteration Packages"** allow you to **alter up to 5 items of the same theme** in a single request. [Visit the forums](http://www.eternalcitygame.com/index.php/community/staff-news/gear-alteration-package/#post-162) for full details.
+* **February 25^^th^^ 2021**: New **"Gear Alteration Packages"** allow you to **alter up to 5 items of the same theme** in a single request. [Visit the forums](https://www.eternalcitygame.com/index.php/community/staff-news/gear-alteration-package/#post-162) for full details.
 
 
 * **February 21^^st^^ 2021**: A 10% **"Citizens Discount"** in reputable shops within Iridine City and Quartz Heights is now available! Register first with Maxillion for a fee of 2 talents. [Visit the forums](https://www.eternalcitygame.com/index.php/community/staff-news/citizenship-registration/) for more details.
@@ -189,19 +189,19 @@
 * **July 16^^th^^ 2020**: Character **[Traits](/traits/) have been revamped**! New traits have been added, existing traits modified and overall trait values have been adjusted.
 
 
-* **April 8^^th^^ 2020**: Special thanks go out to **PhillipeCP** for providing us with a **map of the [Black Hand Caverns](/hg-black-hand-caverns/)**. The **[Shops](/shops/) page has been updated** to include the offerings found in [Seld](/seld/). A **town hall meeting was recently held** and can be found here [town-hall-meeting-03-27-2020](/town-hall-meeting-03-27-2020/)
+* **April 8^^th^^ 2020**: Special thanks go out to **PhillipeCP** for providing us with a **map of the [Black Hand Caverns](/hg-black-hand-caverns/)**. The **[Shops](/shops/) page has been updated** to include the offerings found in [Seld](/village-of-seld/). A **town hall meeting was recently held** and can be found here [town-hall-meeting-03-27-2020](/town-hall-meeting-03-27-2020/)
 
 
 * **December 26^^th^^ 2019**: Special thanks go out to Aoden's player for giving us the permission to add his hunting ground codex on the wiki! You can view it here: [Aoden's Hunting Guide](/aoden-hunting-guide/).
 
 
-* **October 6^^th^^ 2019**: A map of [Seld](/seld/) is now available.
+* **October 6^^th^^ 2019**: A map of [Seld](/village-of-seld/) is now available.
 
 
-* **October 3^^rd^^ 2019**: The road to [Seld](/seld/) has been completed, and the town is now Open.
+* **October 3^^rd^^ 2019**: The road to [Seld](/village-of-seld/) has been completed, and the town is now Open.
 
 
-* **August 20^^th^^ 2019**: The road to [Seld](/seld/) recently caused the Black Hand Bandits to flee [their old hideout](/black-hand-mines/) and they have found themselves [a brand new home](/hg-black-hand-caverns/). This is intended for high level characters. If you wish to learn more about it, seek for information IG. More information will be released in due time on the Wiki.
+* **August 20^^th^^ 2019**: The road to [Seld](/village-of-seld/) recently caused the Black Hand Bandits to flee [their old hideout](/black-hand-mines/) and they have found themselves [a brand new home](/hg-black-hand-caverns/). This is intended for high level characters. If you wish to learn more about it, seek for information IG. More information will be released in due time on the Wiki.
 
 
 * **July 6^^th^^ 2019**: Tale has just recently released [The Officium de Humanitas](/newbie-office/), a great new place for low level characters who seek training and low-cost items.

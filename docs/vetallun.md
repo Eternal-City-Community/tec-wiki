@@ -10,7 +10,7 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 
 **Related Maps**
 [The West Grasslands](/the-west-grasslands/)
-[Seld](/seld/)
+[Seld](/village-of-seld/)
 [City of Monlon](/city-of-monlon/)
 [Eastern Grasslands and Woods](/eastern-grasslands-and-woods/)
 

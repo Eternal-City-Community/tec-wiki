@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The BlackOre Clan within the Blackroot mountains is one of the many clans charged with a solemn duty.  Its duty is to serve the [Parcine](/parcines/) lands, and to defend its holdings.  All bearing the name BlackOre have been warriors stout of heart and body.  For generations those within Clan BlackOre have stood beside the other various clans within the mountains they call home, and defended their lands from those seeking to tear it from them. 

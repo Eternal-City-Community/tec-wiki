@@ -18,4 +18,4 @@ just after leaving Vetallun bridge: ne x 65, n x 94
 -Lookout tower
 
 ### Map
-[![](https://eternal-city.wikidot.com/local--files/brigand-treehouse/EastoftheSalinaeRiver-brigandtreehouse.gif)](https://eternal-city.wikidot.com/brigand-treehouse)
+[![](/local--files/brigand-treehouse/EastoftheSalinaeRiver-brigandtreehouse.gif/)](/brigand-treehouse/)

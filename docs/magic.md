@@ -38,6 +38,7 @@ There are several stones of importance for performing spells. These [stones](/st
 | Ritual of Morning’s Energy | Garnet (a deep red crystal-like stone) | Acolyte bestows their stamina and vitality |
 | Ritual of New Light | Sun stone (a faceted golden crystal) | Acolyte bestows their life force to one in a coma |
 
+
 In order to recall the spell you know, type:
 
 **Recall Ritual**

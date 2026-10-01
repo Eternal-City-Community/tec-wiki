@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Dahkneth was born to Kalonis and Catherine Shilmenah, in what would be about the 196th year of the Republic. Kalonis, a native of the kingdom of Aestiva, was a tribune in the League's armies. His wife, Catherine, a native of the city of Iridine, was a medic in the army as well. Dahkneth was the first of their children, but a second son and a daughter were born a few years later.

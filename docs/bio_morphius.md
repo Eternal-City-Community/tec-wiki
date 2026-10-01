@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My mothers name was Janan, and my fathers name was Eitan. They had both met each other through their friends. For the longest time my father liked my mother, without anyone knowing. I was told that he would usually observe her every move when she was around, but never said much to her.

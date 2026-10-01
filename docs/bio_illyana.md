@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My taste for adventure and yearning to leave my stuffy mansion lead me to a small coastal village far from the upper class I once knew. By then I was 15, and though the sea air was very appealing, I sought to travel to far away lands on the sea. One thing i forgot to bring, however, was money. I was able to find a job as a serving wench at a local tavern. Of course there was the problem of housing.

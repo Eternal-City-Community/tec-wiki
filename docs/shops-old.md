@@ -1,7 +1,6 @@
 # Shops Old
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `Redirect` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module redirect was not portable and has been omitted.
 
 
 There are many types of shops throughout Midlight, which offer everything from weapons and armor to food and trinkets.
@@ -365,6 +364,7 @@ There is nothing being sold here. This kitchen is for slaves and prisoners.
 | A platter of Tepsin fire eggs | 71d 1st |
 | A platter of Invex turtle soup | 95d |
 
+
 ### Iridine Forum
 **[Map of Iridine Forum](/iridine-forum/)**
 
@@ -518,6 +518,7 @@ Listings prefaced with a '+' denote our inexpensive line of items.
 | A towel | 76d |
 | A large sack | 123d 2st |
 
+
 #### Merchant - Marcello
 
 | Item | Cost |
@@ -549,6 +550,7 @@ Listings prefaced with a '+' denote our inexpensive line of items.
 | A stick | 1st 2s |
 | A crate | 38d |
 
+
 #### Short Oar Inn - Benim & Atabus
 
 | Item | Cost |
@@ -556,6 +558,7 @@ Listings prefaced with a '+' denote our inexpensive line of items.
 | A mug of ale | 4d 3st |
 | A mug of beer | 5d 2s |
 | A clear glass filled with posca | 1d 1st 2s |
+
 
 #### Casino - Combi
 
@@ -584,6 +587,7 @@ Listings prefaced with a '+' denote our inexpensive line of items.
 | A paint brush | 71d 1st |
 | A ceramic jar with a black label | 51d 1st |
 
+
 ### Harbour South
 **[Map of Harbour South](/harbour-south/)**
 
@@ -599,6 +603,7 @@ Listings prefaced with a '+' denote our inexpensive line of items.
 | Some pistachios | 3st 2s |
 | Some crispy chicken | 9d 2st |
 | A layered cheese and egg pastry | 31d 2st 2s |
+
 
 #### Nautical Supply - Andronitus
 
@@ -680,6 +685,7 @@ Nothing is sold here.
 | Some shoes | 19d |
 | Some boots | 47d 2st |
 | Some slippers | 66d 2st |
+
 
 ### Riverside West
 **[Map of Riverside West](/riverside/)**
@@ -854,6 +860,7 @@ Nothing is sold here.
 | A small flecked brown cake covered with a mound of cream | 30d 1st 1s |
 | A pistachio cake | 31d 2st 2s |
 
+
 ### Sandbar East
 **[Map of Sandbar East](/sandbar/)**
 
@@ -1019,7 +1026,7 @@ Caprarius does not sell anything.
 ## The Invex River Delta
 
 ### Vetallun
-**[Map of Vetallun](/vetallun/)**
+**[Map of Vetallun](/town-of-vetallun/)**
 
 #### Bar, Perry Inn - Tereshia
 
@@ -1193,120 +1200,115 @@ There is nothing for sale here.
 
 #### Bakery - Arbitio
 
-| Item for Sale | Cost |
-| --- | --- |
-| Some black bread | 5d 1s |
-| Some flat bread | 2d 2st |
-| A crusty roll | 2d 1s |
-| An savory onion tart | 8d 2st |
-| An apple tart | 6d 3st |
-| A cherry pie | 13d 2st 1s |
-| Some raisin cake | 6d 3st |
-| A small cake studded with almonds | 6d 3st |
+| Item for Sale | Cost | Some black bread | 5d 1s |
+| --- | --- | --- | --- |
+| Some flat bread | 2d 2st |  |  |
+| A crusty roll | 2d 1s |  |  |
+| An savory onion tart | 8d 2st |  |  |
+| An apple tart | 6d 3st |  |  |
+| A cherry pie | 13d 2st 1s |  |  |
+| Some raisin cake | 6d 3st |  |  |
+| A small cake studded with almonds | 6d 3st |  |  |
 
 #### Shoes - Hobbe
 
-| Item for Sale | Cost |
-| --- | --- |
-| Some calf-high leather boots with the tops turned down | 4t 1541d 2st 2s |
-| Some knee-high leather boots with the tops turned down | 5t 156d 1st |
-| Some thigh-high leather boots with the tops turned down | 5t 510d 1st 2s |
-| Some tall leather boots with silver buckles | 5t 864d 2st 1s |
-| Some tall leather boots with bronze buckles | 5t 120d 3st 1s |
-| Some soft-soled leather boots with bronze buckles | 5t 333d 1st 1s |
-| Some soft-soled leather boots with silver buckles | 5t 900d |
-| Some soft-soled leather boots with brass buckles | 5t 120d 3st 1s |
-| Some fancy leather boots with silver buckles | 5t 1395d 3st 1s |
-| Some fancy leather boots with bronze buckles | 5t 1041d 2st 2s |
-| Some knee-high leather boots with bronze studs | 4t 1364d 2st 1s |
-| Some knee-high leather boots with iron studs | 5t 333d 1st 1s |
-| Some soft leather boots with delicate heels | 5t 758d 1st 1s |
-| Some supple leather boots with delicate heels | 5t 829d 2s |
-| Some low-cut leather boots lined in fox fur | 5t 1077d 1s |
-| Some low-cut leather boots lined in rabbit fur | 5t 1006d 1st |
-| Some low-cut leather boots with delicate heels | 5t 1041d 2st 2s |
-| Some leather boots with intricate silver accents | 6t 187d 2st |
-| Some leather boots with intricate bronze accents | 5t 1431d 1st |
-| Some leather boots with a delicate fringe | 4t 833d 1st 1s |
-| Some knee-high leather boots with a long fringe | 4t 1010d 1st 2s |
-| Some cotton toe-socks | 283d 1st 1s |
+| Item for Sale | Cost | Some calf-high leather boots with the tops turned down | 4t 1541d 2st 2s |
+| --- | --- | --- | --- |
+| Some knee-high leather boots with the tops turned down | 5t 156d 1st |  |  |
+| Some thigh-high leather boots with the tops turned down | 5t 510d 1st 2s |  |  |
+| Some tall leather boots with silver buckles | 5t 864d 2st 1s |  |  |
+| Some tall leather boots with bronze buckles | 5t 120d 3st 1s |  |  |
+| Some soft-soled leather boots with bronze buckles | 5t 333d 1st 1s |  |  |
+| Some soft-soled leather boots with silver buckles | 5t 900d |  |  |
+| Some soft-soled leather boots with brass buckles | 5t 120d 3st 1s |  |  |
+| Some fancy leather boots with silver buckles | 5t 1395d 3st 1s |  |  |
+| Some fancy leather boots with bronze buckles | 5t 1041d 2st 2s |  |  |
+| Some knee-high leather boots with bronze studs | 4t 1364d 2st 1s |  |  |
+| Some knee-high leather boots with iron studs | 5t 333d 1st 1s |  |  |
+| Some soft leather boots with delicate heels | 5t 758d 1st 1s |  |  |
+| Some supple leather boots with delicate heels | 5t 829d 2s |  |  |
+| Some low-cut leather boots lined in fox fur | 5t 1077d 1s |  |  |
+| Some low-cut leather boots lined in rabbit fur | 5t 1006d 1st |  |  |
+| Some low-cut leather boots with delicate heels | 5t 1041d 2st 2s |  |  |
+| Some leather boots with intricate silver accents | 6t 187d 2st |  |  |
+| Some leather boots with intricate bronze accents | 5t 1431d 1st |  |  |
+| Some leather boots with a delicate fringe | 4t 833d 1st 1s |  |  |
+| Some knee-high leather boots with a long fringe | 4t 1010d 1st 2s |  |  |
+| Some cotton toe-socks | 283d 1st 1s |  |  |
 
 #### Perfume - Caradrus
 
-| Item for Sale | Cost |
-| --- | --- |
-| A bottle of Apple perfume | 4t 390d 2st 1s |
-| A bottle of Cinnamon perfume | 11t 520d 3st 1s |
-| A bottle of Masculine Spice perfume | 8t 781d 1st |
-| A bottle of Sweet Peppercorn perfume | 7t 130d 2s |
-| A bottle of Frankincense and Myrrh perfume | 28t 520d 3st 1s |
-| A bottle of Fresh Citrus perfume | 4t 390d 2st 1s |
-| A bottle of Mint perfume | 4t 390d 2st 1s |
-| A bottle of Pine perfume | 5t 1041d 2st 2s |
-| A bottle of Sweet Violet perfume | 7t 130d 2s |
-| A bottle of Spring Hyacinth perfume | 11t 520d 3st 1s |
-| A bottle of Lavender perfume | 8t 781d 1st |
-| A bottle of Warm Honey perfume | 5t 1041d 2st 2s |
-| A bottle of Sultry Jasmine perfume | 11t 520d 3st 1s |
-| A bottle of Rose Petals and Sweet Violets perfume | 17t |
-| A bottle of Ginger Lily perfume | 17t |
-| A bottle of Musk perfume | 5t 1041d 2st 2s |
-| A bottle of Rose perfume | 7t 130d 2s |
-| A vial of Moonslight perfume | 354t 260d 1st 2s |
+| Item for Sale | Cost | A bottle of Apple perfume | 4t 390d 2st 1s |
+| --- | --- | --- | --- |
+| A bottle of Cinnamon perfume | 11t 520d 3st 1s |  |  |
+| A bottle of Masculine Spice perfume | 8t 781d 1st |  |  |
+| A bottle of Sweet Peppercorn perfume | 7t 130d 2s |  |  |
+| A bottle of Frankincense and Myrrh perfume | 28t 520d 3st 1s |  |  |
+| A bottle of Fresh Citrus perfume | 4t 390d 2st 1s |  |  |
+| A bottle of Mint perfume | 4t 390d 2st 1s |  |  |
+| A bottle of Pine perfume | 5t 1041d 2st 2s |  |  |
+| A bottle of Sweet Violet perfume | 7t 130d 2s |  |  |
+| A bottle of Spring Hyacinth perfume | 11t 520d 3st 1s |  |  |
+| A bottle of Lavender perfume | 8t 781d 1st |  |  |
+| A bottle of Warm Honey perfume | 5t 1041d 2st 2s |  |  |
+| A bottle of Sultry Jasmine perfume | 11t 520d 3st 1s |  |  |
+| A bottle of Rose Petals and Sweet Violets perfume | 17t |  |  |
+| A bottle of Ginger Lily perfume | 17t |  |  |
+| A bottle of Musk perfume | 5t 1041d 2st 2s |  |  |
+| A bottle of Rose perfume | 7t 130d 2s |  |  |
+| A vial of Moonslight perfume | 354t 260d 1st 2s |  |  |
 
 #### Hair Ornaments - Caesarea
 
-| Item for Sale | Cost |
-| --- | --- |
-| A braided brown leather hair thong | 212d 2st |
-| A braided black leather hair thong | 212d 2st |
-| A braided blonde leather hair thong | 212d 2st |
-| A braided leather hair thong with feathers | 255d |
-| A leather hair thong braided with slivers of bone | 280d 2st |
-| A leather hair thong braided with pieces of polished glass | 467d 2st |
-| A strip of knotted scarlet silk for the hair | 595d |
-| A strip of knotted blue silk for the hair | 595d |
-| A strip of knotted green silk for the hair | 595d |
-| A strip of knotted yellow silk for the hair | 595d |
-| A strip of knotted white silk for the hair | 595d |
-| A strip of knotted black silk for the hair | 595d |
-| A strip of knotted multicolored silk for the hair | 620d 2st |
-| A hair ornament of three hawk feathers | 425d |
-| A hair ornament of three eagle feathers | 595d |
-| A hair ornament of three falcon feathers | 467d 2st |
-| A hair ornament of three raven feathers | 297d 2st |
-| A hair ornament of three crow feathers | 297d 2st |
-| A hair ornament of three owl feathers | 510d |
-| A hair ornament of three seagull feathers | 255d |
-| A hair ornament of three duck feathers | 297d 2st |
-| A polished wooden hair bead | 297d 2st |
-| A terracotta hair bead | 297d 2st |
-| A polished bone hair bead | 340d |
-| A polished tin hair bead | 340d |
-| A polished glass hair bead | 510d |
-| A polished copper hair bead | 850d |
-| A polished silver hair bead | 1097d 3st 2s |
-| A gleaming gold hair bead | 2t 1302d 1s |
-| A thin strand of copper chain for the hair | 17t |
-| A delicate strand of silver chain for the hair | 25t 781d 1st |
-| A slender strand of gold chain for the hair | 35t 651d |
-| A strand of polished white pearls for the hair | 31t 260d 1st 2s |
-| A coronet of fresh lilies and violets | 425d |
-| A coronet of tiny pink rosebuds | 425d |
-| A circlet of red roses | 595d |
-| A circlet of orange lilies | 340d |
-| A crown of yellow daisies | 340d |
-| A circlet of fragrant purple lavender | 340d |
+| Item for Sale | Cost | A braided brown leather hair thong | 212d 2st |
+| --- | --- | --- | --- |
+| A braided black leather hair thong | 212d 2st |  |  |
+| A braided blonde leather hair thong | 212d 2st |  |  |
+| A braided leather hair thong with feathers | 255d |  |  |
+| A leather hair thong braided with slivers of bone | 280d 2st |  |  |
+| A leather hair thong braided with pieces of polished glass | 467d 2st |  |  |
+| A strip of knotted scarlet silk for the hair | 595d |  |  |
+| A strip of knotted blue silk for the hair | 595d |  |  |
+| A strip of knotted green silk for the hair | 595d |  |  |
+| A strip of knotted yellow silk for the hair | 595d |  |  |
+| A strip of knotted white silk for the hair | 595d |  |  |
+| A strip of knotted black silk for the hair | 595d |  |  |
+| A strip of knotted multicolored silk for the hair | 620d 2st |  |  |
+| A hair ornament of three hawk feathers | 425d |  |  |
+| A hair ornament of three eagle feathers | 595d |  |  |
+| A hair ornament of three falcon feathers | 467d 2st |  |  |
+| A hair ornament of three raven feathers | 297d 2st |  |  |
+| A hair ornament of three crow feathers | 297d 2st |  |  |
+| A hair ornament of three owl feathers | 510d |  |  |
+| A hair ornament of three seagull feathers | 255d |  |  |
+| A hair ornament of three duck feathers | 297d 2st |  |  |
+| A polished wooden hair bead | 297d 2st |  |  |
+| A terracotta hair bead | 297d 2st |  |  |
+| A polished bone hair bead | 340d |  |  |
+| A polished tin hair bead | 340d |  |  |
+| A polished glass hair bead | 510d |  |  |
+| A polished copper hair bead | 850d |  |  |
+| A polished silver hair bead | 1097d 3st 2s |  |  |
+| A gleaming gold hair bead | 2t 1302d 1s |  |  |
+| A thin strand of copper chain for the hair | 17t |  |  |
+| A delicate strand of silver chain for the hair | 25t 781d 1st |  |  |
+| A slender strand of gold chain for the hair | 35t 651d |  |  |
+| A strand of polished white pearls for the hair | 31t 260d 1st 2s |  |  |
+| A coronet of fresh lilies and violets | 425d |  |  |
+| A coronet of tiny pink rosebuds | 425d |  |  |
+| A circlet of red roses | 595d |  |  |
+| A circlet of orange lilies | 340d |  |  |
+| A crown of yellow daisies | 340d |  |  |
+| A circlet of fragrant purple lavender | 340d |  |  |
 
 #### Soaps - Machina
 
-| Item for Sale | Cost |
-| --- | --- |
-| A bar of firm pale violet soap | 21d 1st |
-| A small bar of soft pinkish soap | 28d 1st 1s |
-| A bar of soft cream-colored soap | 35d 1st 2s |
-| A bar of firm brown soap | 31d 3st 1s |
-| A blue bath ticket | 255d |
+| Item for Sale | Cost | A bar of firm pale violet soap | 21d 1st |
+| --- | --- | --- | --- |
+| A small bar of soft pinkish soap | 28d 1st 1s |  |  |
+| A bar of soft cream-colored soap | 35d 1st 2s |  |  |
+| A bar of firm brown soap | 31d 3st 1s |  |  |
+| A blue bath ticket | 255d |  |  |
 
 #### Gambling - Alea
 
@@ -1317,16 +1319,15 @@ There is nothing for sale here.
 
 #### Fish - Jotapian and Hulla
 
-| Item for Sale | Cost |
-| --- | --- |
-| Fresh Salmon | 17d |
-| A small yellow-orange fish | 10d 2s |
-| A huge grayish-blue fish with a dorsal fin and pointed nose | 136d |
-| A raw oyster soaked in olive oil and herbs | 34d |
-| A bowl of fish stew | 25d 2st |
-| Some salted fish | 17d |
-| Some flat bread | 27d 2st 1s |
-| A mug of crazy water | 26d 1st 1s |
+| Item for Sale | Cost | Fresh Salmon | 17d |
+| --- | --- | --- | --- |
+| A small yellow-orange fish | 10d 2s |  |  |
+| A huge grayish-blue fish with a dorsal fin and pointed nose | 136d |  |  |
+| A raw oyster soaked in olive oil and herbs | 34d |  |  |
+| A bowl of fish stew | 25d 2st |  |  |
+| Some salted fish | 17d |  |  |
+| Some flat bread | 27d 2st 1s |  |  |
+| A mug of crazy water | 26d 1st 1s |  |  |
 
 #### Fish - Sarrichim
 
@@ -1906,6 +1907,7 @@ There is nothing for sale here.
 | A shovel | 228d |
 | Pack of Cobblestone | 1330d |
 | A timber axe | 366d 2st 2s |
+
 
 ## Rock Valley
 

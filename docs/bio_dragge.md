@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Dragge grew up in a poor house in Altene.  His father was killed while serving in the Alteanian Legions.  Dragge's mother died during the birth of Dragge's little brother.  Dragge kept himself and his brother alive by hunting stray animals and taking bounty missions for the "lords" of town.  When Dragge's brother was 13 years old.  He went on his first bounty mission. Dragge's brother was killed in the process.  He had tried to take on a band of theives and failed.  Dragge found him lying in the middle of the street unclothed and dead.

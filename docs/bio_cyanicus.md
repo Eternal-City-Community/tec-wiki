@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born in the southern part of Iridine, Cyanicus lived as part of a trader family in The Eternal City. He learned the trades while he was young and even some literature. When he was young, his parents intended for Cyanicus to become a scribe and a merchant. He was the youngest of two sons and one daughter, now deceased. Cyanicus never realized his career of a writer and poet, instead he lived through the worst of the Cineran occupation of Iridine, taking odd jobs to help feed the starving family and to help end the occupation.

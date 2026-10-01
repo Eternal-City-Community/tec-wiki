@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Spent eighteen years watching my father heal people so reckon it's no surprise I learnt the way as well. He travelled some before settling in Tuchea, originally from Iridine. Once there he set to moving around and healing folk in poorer areas, squalid fishing towns mainly. Was in one of these places he met my mother, and where I and my brother spent most our childhood and adolescence.

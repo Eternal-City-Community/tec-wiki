@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Nereza Abiy, was born on the 3rd of Jemros in the year 274 deep within the eastern Steps. She had a very harsh up-bringing, her father Agrius selling her off to the men of the neighborhood for 'entertainment', her mother Eliana using her for the hard work at home. At the age of twelve she became pregnant with her daughter, Lucara, to a frequent client. A full year from her daughter's birth Nereza planned to flee the Steps and was cornered by a group of hooded and masked men. She knew by the feel of their leader's presence that he was Lucara's father. A quiet prayer was said to the old gods that she worshipped without question, and, she fought.

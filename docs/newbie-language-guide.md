@@ -64,7 +64,7 @@ Embark on a journey beyond the walls of the Great Library to discover languages 
 Venture into the rugged mountains of Rock Valley, located on the eastern fringe of Iridine, where the language of Blackroot echoes through the village of Stromheim. The language of the barbarian tribe known as the Nehal holds the key to unlocking trade and communion within their settlement. 
 
 ##### Journey to Learning: 
-Seek out the Blackroot trainer within the Town of Rock Valley. Your quest to learn this language is not just a pursuit of words, but an entry into the heart of a tribe as resilient as the land itself. For directions, cast your eyes upon the map of [Town of Rock Valley](http://eternal-city.wikidot.com/town-of-rock-valley-map). Knock to enter. 
+Seek out the Blackroot trainer within the Town of Rock Valley. Your quest to learn this language is not just a pursuit of words, but an entry into the heart of a tribe as resilient as the land itself. For directions, cast your eyes upon the map of [Town of Rock Valley](/town-of-rock-valley-map/). Knock to enter. 
 
 ### Kelestian: The language of the Invaders
 #### Echoes of War:

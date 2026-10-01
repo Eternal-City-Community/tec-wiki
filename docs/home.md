@@ -1,3 +1,5 @@
 # Home
 
-> **Migration note:** Wikidot module `Redirect` omitted.
+<meta http-equiv="refresh" content="0; url=//">
+
+This page has moved to [*](*).

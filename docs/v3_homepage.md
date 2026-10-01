@@ -1,13 +1,13 @@
 # V3 Homepage
 
-[![](https://eternal-city.wikidot.com/local--files/files/IridineMapShortest.png)](https://eternal-city.wikidot.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)
+[![](/local--files/files/IridineMapShortest.png/)](/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg/)
 
 
 ## The Eternal City - A Text Based MUD 
-The Eternal City (TEC) is a Text-Based Multi Player Role Playing game, based in a Roman inspired atmosphere. TEC supports **FREE** accounts, as well as [Basic](/your-account/) and [Premium](/your-account/) subscriptions, and is operated by Three Seas LLC.
+The Eternal City (TEC) is a Text-Based Multi Player Role Playing game, based in a Roman inspired atmosphere. TEC supports **FREE** accounts, as well as [Basic](/account/) and [Premium](/account/) subscriptions, and is operated by Three Seas LLC.
 
 
-[![Play Now](https://eternal-city.wikidot.com/local--files/files/play_now_v3.png)](https://login.eternalcitygame.com/login.php)
+[![Play Now](/local--files/files/play_now_v3.png/)](https://login.eternalcitygame.com/login.php)
 
 
 ---
@@ -15,7 +15,7 @@ The Eternal City (TEC) is a Text-Based Multi Player Role Playing game, based in 
 
 Welcome to the player-run unofficial Wiki, your best resource for information about the role playing game, The Eternal City.
 
-Check out the side bar for helpful categories: **New players** can use the [Newbie Guides](/newbie-guides/) to take their first steps into the adventure; the [Account](/your-account/) tab will break down subscription types and OOC currency; the [Characters](/characters/) categories will help you understand how to roll and role-play your character, and more.
+Check out the side bar for helpful categories: **New players** can use the [Newbie Guides](/newbie-guides/) to take their first steps into the adventure; the [Account](/account/) tab will break down subscription types and OOC currency; the [Characters](/characters/) categories will help you understand how to roll and role-play your character, and more.
 
 **Returning players** *(welcome back!)* familiar with the Game-world may find it more fun to jump into [character creation](/characters/).
 
@@ -49,24 +49,22 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 - **July 16th 2020**: Character [Traits](/traits/) have been revamped! New traits have been added, existing traits modified and overall trait values have been adjusted.
 
-- **April 8th 2020**: Special thanks go out to PhillipeCP for providing us with a map of the [Black Hand Caves](/hg-black-hand-caves/). The [Shops](/shops/) page has been updated to include the offerings found in [Seld](/seld/). A town hall meeting was recently held and can be found here [town-hall-meeting-03-27-2020](/town-hall-meeting-03-27-2020/)
+- **April 8th 2020**: Special thanks go out to PhillipeCP for providing us with a map of the [Black Hand Caves](/hg-black-hand-caverns/). The [Shops](/shops/) page has been updated to include the offerings found in [Seld](/village-of-seld/). A town hall meeting was recently held and can be found here [town-hall-meeting-03-27-2020](/town-hall-meeting-03-27-2020/)
 
 - **December 26th 2019**: Special thanks go out to Aoden's player for giving us the permission to add his hunting ground codex on the wiki! You can view it here: [Aoden's Hunting Guide](/aoden-hunting-guide/).
 
-- **October 6th 2019**: A map of [Seld](/seld/) is now available.
+- **October 6th 2019**: A map of [Seld](/village-of-seld/) is now available.
 
-- **October 3rd 2019**: The road to [Seld](/seld/) has been completed, and the town is now Open.
+- **October 3rd 2019**: The road to [Seld](/village-of-seld/) has been completed, and the town is now Open.
 
-- **August 20th 2019**: The road to [Seld](/seld/) recently caused the Black Hand Bandits to flee [their old hideout](/black-hand-mines/) and they have found themselves [a brand new home](/hg-black-hand-caves/). This is intended for high level characters. If you wish to learn more about it, seek for information IG. More information will be released in due time on the Wiki.
+- **August 20th 2019**: The road to [Seld](/village-of-seld/) recently caused the Black Hand Bandits to flee [their old hideout](/black-hand-mines/) and they have found themselves [a brand new home](/hg-black-hand-caverns/). This is intended for high level characters. If you wish to learn more about it, seek for information IG. More information will be released in due time on the Wiki.
 
 - **July 6th 2019**: Tale has just recently released [The Officium de Humanitas](/newbie-office/), a great new place for low level characters who seek training and low-cost items.
 
 ---
 ### What's New In-Game
 
-
-!!! note "Dynamic Wikidot content"
-    The original page used the `FrontForum` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module frontforum was not portable and has been omitted.
 
 
 ---
@@ -94,16 +92,13 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut | [Knife Slash](#Slash) (20 Ranks) | 175 | 80 | 50 | 75 | 75 |
-| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut | [Knife Simple Stab](#Stab)(10 Ranks) _ |  |  |  |  |  |
-
-[Knife Slash](#Slash) (10 Ranks) || 175 || 80 || 50 || 75 || 75
+| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut | [Knife Simple Stab](#Stab)(10 Ranks)<br><br>[Knife Slash](#Slash) (10 Ranks) | 175 | 80 | 50 | 75 | 75 |
 | [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 175 | 80 | - | 75 | - |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Knife Accuracy](#Accuracy) | Difficult | - | - | - | - | 175 | - | 75 | 75 | - |
 | [Knife Grip](#Grip) | Impossible | - | - | - | - | 175 | - | 75 | 75 | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
-**Directions to Dreggo** ([Blackvine](/blackvine/)): Walk to Blackvine, Ex4, Sx6
+**Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, Ex4, Sx6
 **Directions to Hatrin** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, N, W
 **Directions to Vitrus** ([Franlius](/town-of-franlius/)): Take the ship to Franlius
 **Directions to Maerodus** ([Monlon](/monlon/)): Take the ferry to Monlon
@@ -112,9 +107,9 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | Skill | Guaranteed Multi-Hits |
 | --- | --- |
 | [Knife Whirling Slash](#Whirl) | 100 ranks in [Knife Slash](#Slash) |
-| [Knife Stab and Slash](#Dc) | 50 Ranks in [Knife Simple Stab](#Stab) _ |
+| [Knife Stab and Slash](#Dc) | 50 Ranks in [Knife Simple Stab](#Stab)<br><br>50 Ranks in [Knife Slash](#Slash) |
 
-50 Ranks in [Knife Slash](#Slash)
+
 <details>
 <summary>+ Show</summary>
 

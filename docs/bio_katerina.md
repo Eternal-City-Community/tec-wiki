@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I grew up with my parents in the city of Iridine. My mother, Ranea, and my father, Lonel, were caring people who raised me the best they knew how. I grew up learning about Ereal, and fearing Ravan. Daily meditations and prayer were a part of my life.

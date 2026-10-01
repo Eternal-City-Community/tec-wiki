@@ -75,9 +75,9 @@ Increase the capacity of your [personal markable destinations](/nav-overview/#Ma
 #### [7] Automated Character Alteration
 
 
-```
+~~~
 [S] Scar (50 rolepoints)
-```
+~~~
 
 
 #### [8] Increase Attribute Potential
@@ -120,7 +120,7 @@ Example
 These are NPC 'creatures' that you can continue to play, like any of your characters. The rolepoint cost is displayed before it. 
 
 
-```
+~~~
 Playable NPCs and associated costs are:
  [1] 50 rps -- Urchin
  [2] 75 rps -- Trader
@@ -135,7 +135,7 @@ Playable NPCs and associated costs are:
  [11] 300 rps -- Rogue
  [12] 350 rps -- Bandit Archer
  [13] 700 rps -- Black Hand Bandit
-```
+~~~
 
 
 <u>**Notes**</u>
@@ -165,7 +165,7 @@ Message will automatically start with your username. For example, if you want it
 
 <a id="superior"></a>
 #### [#](#superior)[15] Superior Weapon Upgrade
-Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.^^@@[@@[source](https://www.eternalcitygame.com/community/postid/1070/)@@]@@^^
+Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.^^[[source](https://www.eternalcitygame.com/community/postid/1070/)]^^
 
 
 ---

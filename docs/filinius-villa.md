@@ -7,8 +7,8 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
  -->
 
 
-[![](https://eternal-city.wikidot.com/local--files/files/turrinio_filinius_estate_2026_03_29.png)](https://eternal-city.wikidot.com/local--files/files/turrinio_filinius_estate_2026_03_29.png)
+[![](/local--files/files/turrinio_filinius_estate_2026_03_29.png/)](/local--files/files/turrinio_filinius_estate_2026_03_29.png/)
 
 
 **Related map**
-[Seld](/seld/)
+[Seld](/village-of-seld/)

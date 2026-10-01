@@ -23,6 +23,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | [Stitch Pattern](#Stitch-Pattern) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
 | [Basic Mending](#Basic-Mending) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
 
+
 <a id="Recipes"></a>
 
 <details>
@@ -33,95 +34,96 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Recipes | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |  |  |
 | Apron Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Apron Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Apron Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Apron Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Apron Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Basic Tunic Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Blanket Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Blanket Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Blanket Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Breeches Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Breeches Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Breeches Front Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Breeches Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Breeches Front Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
 | Cape Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Cape Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Cape Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Cape Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Cape Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Chiton Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Chiton Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Chiton Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Chiton Strap Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Chiton Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Chiton Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Chiton Strap Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Cloak Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Cloak Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Cloak Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Cloak Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Cloak Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Fingerless Gloves Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
 | --Fillet Recipe--*(removed)* | --Easy-- | - | - | - | - | - | - | - |  |  |
 | Gloves Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Gloves Back Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Gloves Front Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Gloves Back Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Gloves Front Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Hair Ribbon Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| @@   @@ Hair Ribbon Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
+|     Hair Ribbon Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
 | Hat Recipe | Average | 25 | - | 25 | - | - | - | - |  |  |
-| @@   @@ Hat Brim Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
+|     Hat Brim Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
 | Headband Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| @@   @@ Headband Length Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
+|     Headband Length Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
 | Headscarf Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| @@   @@ Headscarf Length | Easy | 25 | - | 25 | - | - | - | - |  |  |
+|     Headscarf Length | Easy | 25 | - | 25 | - | - | - | - |  |  |
 | Loincloth Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Loincloth Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Loincloth Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Loincloth Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Loincloth Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Neckpouch Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
 | Paenula Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Paenula Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Paenula Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Paenula Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Paenula Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Pants Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Pants Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Pants Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Pants Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Pants Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Pouch Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Pouch Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Pouch Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Sack Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Sack Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Sack Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Sash Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Sash Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Sash Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Scarf Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Scarf Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Scarf Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Shirt Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Shirt Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Shirt Front Recipe | Average | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Shirt Sleeve Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Shirt Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Shirt Front Recipe | Average | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Shirt Sleeve Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |  |  |
 | Simple Belt Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| @@   @@ Belt Length Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
+|     Belt Length Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
 | Simple Cap Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| @@   @@ Cap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
+|     Cap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
 | Simple Robe Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| @@   @@ Simple Robe Back Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| @@   @@ Simple Robe Front Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
+|     Simple Robe Back Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
+|     Simple Robe Front Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
 | Skullcap Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| @@   @@ Skullcap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
+|     Skullcap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
 | Sleeveless Tunic Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
 | Slippers Recipe | Average | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Slippers Sole Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Slippers Upper Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Slippers Sole Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Slippers Upper Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |  |  |
 | Socks Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Sock Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Sock Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Sock Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Sock Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Stola Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Stola Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Stola Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Stola Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Stola Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Stola Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Stola Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Strophium Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Strophium Length Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Strophium Length Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
 | Subligar Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Subligar Length Recipe | easy | 25 | - | 25 | - | - | - | 25 |  |  |
+|     Subligar Length Recipe | easy | 25 | - | 25 | - | - | - | 25 |  |  |
 | Toga Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Toga Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Toga Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Towel Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| @@   @@ Towel Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
+|     Towel Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
 | Tunica Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| @@   @@ Tunic Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Tunic Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Tunic Sleeve Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Tunic Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Tunic Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Tunic Sleeve Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Vest Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Vest Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| @@   @@ Vest Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Vest Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
+|     Vest Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Waist Sash Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+
 
 </details>
 
@@ -249,13 +251,13 @@ The art of tailoring has been around since ancient times, when the primitive peo
 **Directions to Xantheros** ([City of Monlon](/city-of-monlon/)): Walk to Vetallun Road, Walk to Vetallun **Crossroads**, Ex2, NE, Ex2, SE, S, E, buy ticket, W, S, wait for and take ferry to [City of Monlon](/city-of-monlon/), Nx3, W, N, NW, W, Nx3, NEx3, Nx2, NE, Nx2, E, NE, Ex2, Sx2
 **Directions to Gestus** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to **Hospice**, wait for drover to appear, follow drover, *(once you arrive)* Ex12, Nx2, Ex9, Nx9, Ex2, S
 **Directions to Demetrius** ([Eastern Steps](/the-steps-east/)): TBC
-**Directions to Circiana** ([Blackvine](/blackvine/)): Walk to **Blackvine**, S, SE, Ex5, S
+**Directions to Circiana** ([Blackvine](/village-of-blackvine/)): Walk to **Blackvine**, S, SE, Ex5, S
 **Directions to Periona** ([Quartz Heights](/quartz-heights/)): Walk to **Emerald Square**, Nx4, NE, E
 
 
 #### Notes on Learning
 * You **cannot train 'Basic Tailoring'**. Your basic **tailoring rank increases as you train the tailoring sub-skills**.
-* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore @@[@@<lore name>@@]@@ from <trainer>** commands.
+* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [<lore name>] from <trainer>** commands.
 * Tailoring requires the knowledge of specific **[lores](#Lores)** & **[recipes](#Recipes)**. Once these lores are known, you do not need to learn additional ranks.
 * Tailors can optionally use the **[knot](#Knot)** & **[refit](#Refit)** commands, which requires no skill to learn or use.
 * Custom Tailoring Lores *(Edgings/Patterns)* can be requested via [RP Purchases](/account/#RolePointPurchases).
@@ -324,6 +326,7 @@ To find where the appropriate fabric is sold, you can search for *'**length of c
 | Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
 | Waist Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
 
+
 </details>
 
 
@@ -339,16 +342,16 @@ To [stitch a pattern](#Stitch-Pattern) or [sew a patch](#Basic-sew), you first n
 
 **Maker's mark** is a special **lore**, in that it allows someone to identify the maker of an item by inspecting it.
 
-**Each asterisk @@(*)@@** in the recall gives you an idea of how many **attempts you'll need to complete your item**. Example: **Maker's Mark** requires only **1 stitch**, while **zigzag edging** will require **9 stitches**.
+**Each asterisk (*)** in the recall gives you an idea of how many **attempts you'll need to complete your item**. Example: **Maker's Mark** requires only **1 stitch**, while **zigzag edging** will require **9 stitches**.
 
 |  EXAMPLE=
- @@>@@ *recall maker's mark*
+ > *recall maker's mark*
  The maker's mark allows someone to identify the maker of an item by inspecting it.
  To add a maker's mark:
  * Stitch your Maker's Mark onto the garment.
 
 
- @@>@@ *recall zigzag edging stitch*
+ > *recall zigzag edging stitch*
  * Begin stitching a zigzag line onto the edge of the garment.
  * Continue stitching a zigzag onto the edge of the garment.
  * Continue stitching a zigzag onto the edge of the garment.
@@ -372,7 +375,7 @@ Before performing actions such as [stitching](#Stitch-Pattern), your needle must
 
 <div class="skill-template">
 
-@@>@@ *thread need with my thread*
+> *thread need with my thread*
 You thread a silver sewing needle with a spiraled grip carefully with a spool of undyed homespun wool thread.
 
 </div>
@@ -388,7 +391,7 @@ What is a tailor to do with the remnants of their spools of thread? Combine them
 
 <div class="skill-template">
 
-@@>@@ *knot spool with 2 spool*
+> *knot spool with 2 spool*
  You knot a spool of undyed homespun wool thread carefully with a spool of undyed homespun wool thread.
 
 </div>
@@ -436,6 +439,7 @@ Once a tailor has completed the garment, it can be altered slightly through the 
 | Tunica | Poorly-made, simple, loose, baggy, knee-length, thigh-length, loose-fitting, feminine, long, short, low-cut, billowing, flowing, tight, fringed. |
 | Vest | Loose, loose-hanging, loose-fitting, baggy, over-sized, tight, tight-fitting, form-fitting, figure-hugging, clinging, snug, dainty, low-cut, feminine, flowing, long, short, thigh-length, knee-length, poorly-cut, poorly-made, simple. |
 
+
 </details>
 
 
@@ -452,7 +456,7 @@ Laying out fabric in preparation for its use in a tailoring recipe. You must be 
 
 <div class="skill-template">
 
-@@>@@ *layout quarter*
+> *layout quarter*
  [Success: 1, Roll: 3] You lay out a quarter length of brown homespun wool cloth.
 
 </div>
@@ -468,7 +472,7 @@ The basic action of cutting fabric. When used in the course of a recipe, you mus
 
 <div class="skill-template">
 
-@@>@@ *cut laid*
+> *cut laid*
  [Success: 1, Roll: 28] You deftly cut the piece from a brown homespun wool cloth laid out for a tunic sleeve.
 
 </div>
@@ -486,14 +490,14 @@ The basic action of sewing to pieces of cloth together.  When used in the course
 
 <div class="skill-template">
 
-@@>@@ *sew sleeve to sleeve*
+> *sew sleeve to sleeve*
  [Success: 1, Roll: 72] You sew a brown homespun wool cloth in the shape of a tunic sleeve closed.
 
- @@>@@ *sew back to front*
+ > *sew back to front*
  [Success: 1, Roll: 93] You sew a brown homespun wool cut-out in the shape of a tunic back to a brown homespun wool cut-out in the shape of a tunic front.
 
 
- @@>@@ *sew 1 cut to 2 cut*
+ > *sew 1 cut to 2 cut*
 [Success: 1, Roll: 58] You sew a black fine wool cut-out in the shape of a sack square to a black fine wool cut-out in the shape of a sack square.
 
 </div>
@@ -509,7 +513,7 @@ Most garments must be hemmed to complete the garment and prevent fraying. When u
 
 <div class="skill-template">
 
-@@>@@ *hem incomplete*
+> *hem incomplete*
  [Success: 1, Roll: 51] You hem an incomplete tunica.
 
 </div>
@@ -530,7 +534,7 @@ Once the lore is recalled, repeat the stitch as many times as is required.
 **Required Tools:** [Threaded needle](#Threading), a thimble.
 
 |  EXAMPLE=
- @@>@@ *recall zigzag edging stitch*
+ > *recall zigzag edging stitch*
  * Begin stitching a zigzag line onto the edge of the garment.
  * Continue stitching a zigzag onto the edge of the garment.
  * Continue stitching a zigzag onto the edge of the garment.
@@ -542,24 +546,24 @@ Once the lore is recalled, repeat the stitch as many times as is required.
  * Finish stitching the zigzag onto the edge of the garment.
 
 
- @@>@@ *stitch ribbon*
+ > *stitch ribbon*
 You begin to carefully sew a zigzag as an edging onto an undyed homespun wool hair ribbon.
 [Success: 1, Roll: 100]
 You are no longer busy.
 
- @@>@@ *stitch ribbon*
+ > *stitch ribbon*
 You continue to carefully sew a zigzag as an edging onto an undyed homespun wool hair ribbon partially edged with a zigzag line.
 [Success: 1, Roll: 99]
 You are no longer busy.
 
- @@>@@ *stitch ribbon*
+ > *stitch ribbon*
 You continue to carefully sew a zigzag as an edging onto an undyed homespun wool hair ribbon partially edged with a zigzag.
 [Success: 1, Roll: 98]
 You are no longer busy.
 
 ***(5 more stitches)***
 
- @@>@@ *stitch ribbon*
+ > *stitch ribbon*
 You finish sewing a zigzag as an edging onto an undyed homespun wool hair ribbon partially edged with a zigzag.
 You complete the accessory.
 [Success: 1, Roll: 97]
@@ -577,7 +581,7 @@ Damaged garments can be mended by a tailor. Occasionally NPC's will offer a tail
 
 <div class="skill-template">
 
-@@>@@ *mend apron with eighth*
+> *mend apron with eighth*
  [Success: 1, Roll: 34] Positioning an eighth length of undyed homespun wool cloth carefully, you sew it into place and finish fully repairing the damage done to a homespun apron.
 
 </div>

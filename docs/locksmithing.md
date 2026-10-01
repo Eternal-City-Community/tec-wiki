@@ -30,10 +30,10 @@ Locksmiths are much sought after in Midlight. A locksmith starting out will be a
 | [Fashion Keyring](#Fashion-Keyring) | Difficult | 25 | 70 | 60 | 80 | 125 |
 
 **Directions to Apula** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Nx5, Wx1
-**Directions to Fefellus** ([Vetallun](/vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Wx2, Sx1, Ex1
-**Directions to Ititia** ([Blackvine](/blackvine/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Sx1, SEx1, Ex4, Sx4, Ex2, Sx1
+**Directions to Fefellus** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Wx2, Sx1, Ex1
+**Directions to Ititia** ([Blackvine](/village-of-blackvine/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Sx1, SEx1, Ex4, Sx4, Ex2, Sx1
 **Directions to Admina** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex10, Sx5, Wx1, Nx1
-**Directions to Clauditis** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, Wx4, N
+**Directions to Clauditis** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, Wx4, N
 
 
 #### Notes on Learning
@@ -54,13 +54,13 @@ This difficulty of this skill is affected by the lighting of your environment. M
 **Required Tools**: Lockpick.
 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Reasoning**, **Perception** & **Judgement**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Reasoning**, **Perception** & **Judgement**.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *unlock chest with lockpick*
+> *unlock chest with lockpick*
  [Success: 5, Roll: 94] You hear a click as a tumbler mechanism releases.
 
 </div>
@@ -75,13 +75,13 @@ This sub-skill is primarily used for training purposes, but can be useful to loc
 **Required Tools**: Lockpick.
 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Reasoning** & **Perception**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Reasoning** & **Perception**.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *lock chest with lockpick*
+> *lock chest with lockpick*
 [Success: 5, Roll: 38] You hear a click as a tumbler mechanism closes.
 
 </div>
@@ -97,7 +97,7 @@ Studying a container will make your next task easier, but only once. It also has
 
 <div class="skill-template">
 
-@@>@@ *study chest*
+> *study chest*
 [Success: 1, Roll: 98] You carefully study a tumbler mechanism and feel that you have a pretty firm grasp of how its locking mechanism operates. The lock has been jammed, but after further study you are confident that can be fixed.
 
 </div>
@@ -109,13 +109,13 @@ Studying a container will make your next task easier, but only once. It also has
 
 Lock lore offers no mechanical advantage, but it can be useful in gaining skill points, as it can be done anywhere and no tools are required.
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Willpower**, **Reasoning**, **Judgement** & **Memory**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Willpower**, **Reasoning**, **Judgement** & **Memory**.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *recall lock tumbler*
+> *recall lock tumbler*
 [Success: 1, Roll: 43] The lock mechanism consists of a basic collection of interlocked metal teeth that slide apart when opened with the appropriate key.
 
 </div>
@@ -137,15 +137,15 @@ This difficulty of this skill is affected by the lighting of your environment. M
 
 <div class="skill-template">
 
-@@>@@ *unjam chest with lockpick*
+> *unjam chest with lockpick*
 You manage to jam the mechanism even more.
 [Success: 5, Roll: 1] You carefully twist and manipulate a silver lockpick.
 
- @@>@@ *unjam chest with lockpick*
+ > *unjam chest with lockpick*
 The lock gives some, but is not completely unjammed.
 [Success: 5, Roll: 69] You carefully twist and manipulate a silver lockpick.
 
- @@>@@ *unjam chest with lockpick*
+ > *unjam chest with lockpick*
 [Success: 5, Roll: 100] You carefully twist and manipulate a silver lockpick. You feel an obstruction release, and you have confidence the lock will operate normally now.
 
 </div>
@@ -163,7 +163,7 @@ Useful mostly for training, this sub-skill can also be used to make it slightly 
 
 <div class="skill-template">
 
-@@>@@ *jam chest with lockpick*
+> *jam chest with lockpick*
 [Success: 5, Roll: 93] You carefully twist and manipulate a silver lockpick.
 
 </div>
@@ -181,7 +181,7 @@ Skilled locksmiths can fashion temporary lockpicks from **thin wire** to give ou
 
 <div class="skill-template">
 
-@@>@@ *fashion lockpick from wire*
+> *fashion lockpick from wire*
 [Success: 1, Roll: 83] You take the thin length of tin wire firmly and work it into a carefully twisted tin lockpick.
 
 </div>
@@ -205,16 +205,16 @@ This is a required step in **[/locksmithing-guide#Forging Forging Locking Tools]
 
 <div class="skill-template">
 
-@@>@@ *get wax from yellow ceramic jar*
+> *get wax from yellow ceramic jar*
  You scoop out a bit of wax.
 
- @@>@@ *imprint wax with lockpick*
+ > *imprint wax with lockpick*
  [Success: 1, Roll: 44] You warm the wax in your hand in preparation for imprinting and form it around the silver lockpick.
 
- @@>@@ *imprint wax with lockpick*
+ > *imprint wax with lockpick*
  [Success: 1, Roll: 68] You painstakingly mold an unfinished wax imprint closely around the teeth of a silver lockpick.
 
- @@>@@ *imprint wax with lockpick*
+ > *imprint wax with lockpick*
  [Success: 1, Roll: 29] You carefully remove a silver lockpick from the wax imprint and survey your finished work.
 
 </div>
@@ -240,16 +240,16 @@ This is a required step in **[/locksmithing-guide#Forging Forging Locking Tools]
 
 <div class="skill-template">
 
-@@>@@ *get clay from small white ceramic jar*
+> *get clay from small white ceramic jar*
  You scoop out a bit of clay.
 
- @@>@@ *create mold of wax with clay*
+ > *create mold of wax with clay*
  [Success: 1, Roll: 51] You massage some clay in your hands, softening it, before applying some to the wax imprint.
 
- @@>@@ *imprint wax with lockpick*
+ > *imprint wax with lockpick*
  [Success: 1, Roll: 46] Using the warm clay, you work on wrapping it around the raised wax formation that mimics the original metal.
 
- @@>@@ *imprint wax with lockpick*
+ > *imprint wax with lockpick*
  [Success: 1, Roll: 86] Adding some final touches to the mold, you soon have the imprint completely encased in clay with a small hole for the wax to runoff from.  It is ready to be baked.
 
 </div>
@@ -271,7 +271,7 @@ This is a required step in **[/locksmithing-guide#Forging Forging Locking Tools]
 
 <div class="skill-template">
 
-@@>@@ *forge tool with crucible and mold*
+> *forge tool with crucible and mold*
  [Success: 1, Roll: 76] You pour some molten metal from a crucible into a hole on top of the mold. After a short while, you crack the clay open to reveal a silver lockpick.
 
 </div>
@@ -289,7 +289,7 @@ Installing a new lock takes patience, as the round-time is very long, and it tak
 
 <div class="skill-template">
 
-@@>@@ *install tumbler in trunk*
+> *install tumbler in trunk*
  [Success: 1, Roll: 73] You set the placement of the new tumbler mechanism with great care.
 
 </div>
@@ -305,7 +305,7 @@ If you fail, there is a chance that you will jam the lock in the process. A lock
 
 <div class="skill-template">
 
-@@>@@ *uninstall lock from coffer*
+> *uninstall lock from coffer*
  [Success: 76, Roll: 80] You manage to break the lock apart into manageable pieces for extraction.
 
 </div>
@@ -325,7 +325,7 @@ This is an optional step in **[/locksmithing-guide#Forging Forging Locking Tools
 
 <div class="skill-template">
 
-@@>@@ *etch wax Apula*
+> *etch wax Apula*
 [Success: 5, Roll: 65] You lift up your thin wooden stylus and quickly etch 'Apula' onto a wax imprint of a lockpick. You finish and consider your work.
 
 </div>
@@ -343,7 +343,7 @@ This skill allows a locksmith to craft keyrings. The more skilled the locksmith,
 
 <div class="skill-template">
 
-@@>@@ *fashion keyring from wire*
+> *fashion keyring from wire*
 [Success: 5, Roll: 65] You take the thick length of tin wire firmly and work it into a large tin keyring.
 
 </div>

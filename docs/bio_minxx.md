@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Minxx Mystique was always a kind-hearted person from the beginning. She always liked to think of people as good from the start, and always trusted people, even if she had reason to think otherwise. Born as the middle child, between Sterling and Vincentio, she was always the one who tried to calm down the hostile relations between her family members. Minxx was a fairly happy child, but this was probably due to her nievity of certain situations. Although she was older than Sterling, she admired Sterling's outgoing qualities, and followed ofter in Sterling's footsteps, learning all she could. Minxx was not as aggressive or volitile as Sterling was though, and had a much longer fuse to her temper. However, because Minxx's temper was so hard to provoke, her temper was also much stronger and powerful. When Minxx became so angry that her true temper arose, any memory connected to that event would stay deep in her mind, never to be forgotten.

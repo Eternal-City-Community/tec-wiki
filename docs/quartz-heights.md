@@ -1,6 +1,5 @@
 # Quartz Heights
 
-@@ @@
 [![](https://eternal-city.wdfiles.com/local--files/files/iridine-quartzheights-02-29-2024.png)](https://eternal-city.wdfiles.com/local--files/files/iridine-quartzheights-02-29-2024.png)
 
 **Related Maps**

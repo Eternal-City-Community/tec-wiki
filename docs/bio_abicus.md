@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Abicus Simicus was born in a large fishing village just south of Iridine known as Viron on the 9th day of Rindak in the 191st year of the Republic. His father was a sailor who spent half his time asleep and the other half drinking. His mother was a prostitute who had commited suicide shortly after he turned three years old. Because of this Abicus was taken in by his uncle who was a well know scholar of the city. His uncle had sent him to a nearby academy which had taught Abicus, everything from the history of Midlight to ancient battlefield tactics. Among these skills which he was taught was the skill of locksmithing, which Abicus had taken a strong liking to and would later choose as a profession in his life.

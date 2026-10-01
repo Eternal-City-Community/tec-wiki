@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 *Looking up from his book as he sits in the padded cushion chair in Stone Toga Inn*

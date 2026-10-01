@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The child sat perched on the stool gazing up at the only parents he knew. His mother's eyes were filled to the brim with tears while his father refused to look down at him for fear that his military gait would be spoiled by the sight of the round face and large, beautiful gray eyes.

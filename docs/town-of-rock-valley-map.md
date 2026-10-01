@@ -5,11 +5,11 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  -->
-[![](https://eternal-city.wikidot.com/local--files/files/Rockvalleytown.png)](https://eternal-city.wikidot.com/local--files/files/Rockvalleytown.png)
+[![](/local--files/files/Rockvalleytown.png/)](/local--files/files/Rockvalleytown.png/)
 
 
 **Related Maps**
-[Rock Valley](/rock-valley/)
+[Rock Valley](/town-of-rock-valley/)
 [Hospice (City of Iridine)](/gardens-and-hospice/)
 [Rock Valley Well](/rock-valley-well/)
 

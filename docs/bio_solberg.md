@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Solberg Von Troll was born into a happy family in Altene. His mother had died from shock after the news that the oldest son, Gonra had died in a pit in the Bandit Forests near the great city of Iridine. Solberg refused to learn the stave as did his brother Jenneke, who was quite skilled with an axe, Much to the anger of his father and uncle. Solberg ran away to seek learning from hermit in the forests who taught him the ways of the outdoorsmen. Before returning to Altene, Solberg arrived in Iridine and was amazed at the sight that met his eyes. A city, where people's skills are admired (well most skills).

@@ -50,10 +50,10 @@ We also have an extremely active and friendly community on our Discord server! I
 If you encounter a situation where there are two identical items listed in the stock list...
 
 
-```
- A chestnut bronze manica                 81t 76d 1st 2s
- A chestnut bronze manica                 72t 1120d 
-```
+~~~
+A chestnut bronze manica                 81t 76d 1st 2s
+ A chestnut bronze manica                 72t 1120d
+~~~
 
 
 In the example above, you can use the command "buy 2nd chestnut", to buy the one for **72t 1120d**. *(Note: Using "3rd" & "4th" also work for additional items).*

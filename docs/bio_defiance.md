@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The middle child in a family of three Ofdeath youth, Defiance lived a typical Iridinian childhood. She was a curious child, always questioning the inner workings of her world.

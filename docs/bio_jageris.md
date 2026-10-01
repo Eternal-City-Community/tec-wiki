@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Jageris was born in the Quartz Heights to Vitus and Domitia Aurilius. The family

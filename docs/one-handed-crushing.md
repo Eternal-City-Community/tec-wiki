@@ -37,7 +37,7 @@ Other cultures, primarily primitive ones, have been known to use clubs extensive
 **Directions to Cassius** ([Iridine](/riverside/)): Walk to Toga, W, SW, S, E
 **Directions to Cottus** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx2, W
 **Directions to Rontubius** ([Monlon](/monlon/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Ex2, NE, Ex2, SE, S, E, buy ticket, W, S, wait for and take ferry to Monlon, Nx3, W, N, NW, W, Nx3, NEx2, S
-**Directions to Cralus** ([Blackvine](/blackvine/)): Walk to Vetallun Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
+**Directions to Cralus** ([Blackvine](/village-of-blackvine/)): Walk to Vetallun Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
 
 
 ### Skill Details

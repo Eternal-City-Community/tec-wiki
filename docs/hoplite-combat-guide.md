@@ -43,7 +43,6 @@ In addition to the below list, spears included in **the [Spears Guide](/spears-g
 | An alanti-tipped short spear **[RF]** | Currently available only from GMNPC vendors |  |
 | A boison-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 175t + [Reputation](/reputation/#Franlius) |
 | A retalq-tipped short spear | Sold by [Hiltha](/shops/) | 250t + [Reputation](/reputation/#Franlius) |
-
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 
 
@@ -62,6 +61,7 @@ A rank of **1 signifies the best** in this category.
 | [Reforged] A boison-tipped short spear |  |  |  |  |
 | A retalq-tipped short spear |  |  |  |  |
 
+
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
@@ -76,6 +76,7 @@ A rank of **1 signifies the best** in this category.
 | A bronze-tipped short spear |  |
 | A tin-tipped short spear |  |
 
+
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category.
@@ -89,31 +90,16 @@ A rank of **1 signifies the best** in this category.
 | A boison-tipped short spear |  |  |  |  |
 | A retalq-tipped short spear |  |  |  |  |
 
+
 Weapon round time with outstanding speed (190+):
 
-| Weapon and Shield | Most Attacks | Rotating Bash | Lunge and Strike & _ |
-| --- | --- | --- | --- |
+| Weapon and Shield | Most Attacks | Rotating Bash | Lunge and Strike &<br><br>Stab and Swing | Bash and Jab &<br><br>Slam and Thrust | Basic Attack | Feint |
+| --- | --- | --- | --- | --- | --- | --- |
+| wood spear w/ any shield<br><br>tin short spear w/ any shield<br><br>alanti spear w/ any shield<br><br>alanti short spear w/ any shield<br><br>retalq spear w/ any shield<br><br>retalq short spear w/ any shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
+| boison spear w/ light shield<br><br>boison short spear w/ light shield<br><br>iron short spear w/ light shield | 2 + MoS | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
+| boison spear w/ heavy shield<br><br>boison short spear w/ heavy shield<br><br>iron spear w/ heavy shield | 2 + MoS | 2 + MoS | 3 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 
-Stab and Swing ||~ Bash and Jab & _
-Slam and Thrust ||~ Basic Attack ||~ Feint
-| wood spear w/ any shield _ |
-| --- |
 
-tin short spear w/ any shield _
-alanti spear w/ any shield _
-alanti short spear w/ any shield _
-retalq spear w/ any shield _
-retalq short spear w/ any shield ||= 1 + MoS ||= 2 + MoS ||= 2 + MoS ||= 2 + MoS ||= 2 + MoS ||= 1 + MoS
-| boison spear w/ light shield _ |
-| --- |
-
-boison short spear w/ light shield _
-iron short spear w/ light shield ||= 2 + MoS ||= 2 + MoS ||= 2 + MoS ||= 3 + MoS ||= 2 + MoS ||= 1 + MoS
-| boison spear w/ heavy shield _ |
-| --- |
-
-boison short spear w/ heavy shield _
-iron spear w/ heavy shield ||= 2 + MoS ||= 2 + MoS ||= 3 + MoS ||= 3 + MoS ||= 2 + MoS ||= 1 + MoS
 **Notes:**
 * "Most Attacks" include Phalanx Thrust, Shielded Stab, Rising Thrust, Defensive Repel, Shielded Advance, Underhand Thrust, Leaping Thrust, Sweep and Thrust, Spinning Chop, and Whirling Strike.
 * "light shields" include bronze buckler, reed shield, wooden buckler, iron round shield, Kelestian round shield w/ metal boss, <more TBA>
@@ -130,6 +116,7 @@ iron spear w/ heavy shield ||= 2 + MoS ||= 2 + MoS ||= 3 + MoS ||= 3 + MoS ||= 2
 | An iron short spear |  |
 | A boison short spear | 4.2 lbs |
 | A retalq short spear | 3.3 lbs |
+
 
 ### Moves
 #### Best Options

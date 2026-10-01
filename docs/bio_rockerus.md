@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 > (Due to the fact that most of the characters in this story are Altene, this story had to be translated into Iridinian to fit your understanding. Thank you.)

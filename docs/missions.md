@@ -11,10 +11,10 @@ If you wish to be offered a mission, simply hang around in one of the taverns an
 **Lefty:** Master's Choice in Iridine, in the [Harbor](/harbor/)
 **Wyvric:** Westward's Tavern in [Quartz Heights](/quartz-heights/)
 **Unath:** Bar at the entrance to the [The Steps](/the-steps-central/)
-**Elima:** The Old Goat Inn in [Vetallun](/vetallun/), close to the bridge
-**a seedy-looking proprietor:** Bar in [Blackvine](/blackvine/)
+**Elima:** The Old Goat Inn in [Vetallun](/town-of-vetallun/), close to the bridge
+**a seedy-looking proprietor:** Bar in [Blackvine](/village-of-blackvine/)
 **Cirias:** Barbarian's Feet Inn in [Rock Valley](/town-of-rock-valley/)
-**Mnelos:** Blue Breakwater Inn in [Seld](/seld/)
+**Mnelos:** Blue Breakwater Inn in [Seld](/village-of-seld/)
 
 
 I'm on a mission, now what?

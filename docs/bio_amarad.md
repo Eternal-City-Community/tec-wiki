@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I awoke to screams for tha first time in my life. Burned into me mind like a scar is that day. I lept from my sleepin mat n' tha first thing I noticed was mother, she was gone. At first I thought she'd just gone fer water, then I 'eard that noise. I can r'member that scream as if it 'appened moments ago. The terror in it… I was but a lil' cub then, too young to know what was goin' on.

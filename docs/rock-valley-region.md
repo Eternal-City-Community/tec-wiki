@@ -7,8 +7,23 @@ This is a comprehensive guide to the **region of Rock Valley**. The region of Ro
 **To reach Rock Valley**, follow the visiting caravan **drover** who stops off and leaves from the **Hospice of the Morning Light**, headed to provide wares to our troops in Rock Valley. There is also a paid drover who can bring you on demand. Both methods deliver you to the [Town of Rock Valley](#TownOfRV).
 
 
-!!! note "Migrated include"
-    This page originally included `rock-valley` on Wikidot. The transcluded content still needs review.
+[!-- 
+Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
+
+This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
+ --]
+[![](/local--files/files/rockvalley.gif/)](/local--files/files/rockvalley.gif/)
+
+### Points of Interest
+* **Directions to Stromheim** from [Town of Rock Valley](/town-of-rock-valley/) *(outside east gate)*: walk ne 19 e 98 ne 12 *(to return: walk sw 12 w 98 sw 19 )*
+
+
+**Related Maps**
+* [Town of Rock Valley](/town-of-rock-valley/)
+* [Rock Valley Dumps](/rock-valley-dumps/)
+* [Stromheim](/village-of-stromheim/)
+* [Fenri'Gifr Ruins](/fenri-gifr-ruins/)
+* [Rock Valley Mine](/rock-valley-mine/)
 
 
 ### Related Texts

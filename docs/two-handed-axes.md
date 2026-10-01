@@ -18,25 +18,16 @@ The main advantages of the axe, as opposed to simply using a sword or club-type 
 | [2H Axe Chop](#Chop) | Easy | 2 | Either | Cut | - | 300 | 500 |
 | [2H Axe Haft Strike](#Haftstrike) | Easy | 2 | Short | Bruise | - | 300 | 500 |
 | [2H Axe Swat](#Swat) | Easy | 2 | Short | Bruise | - | 300 | 500 |
-| [2H Axe Cross Chop](#Crosschop) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#Chop) _ |  |  |
-
-20 Ranks in [2H Axe Overhead Chop](#Overheadchop) || 300 || 500
-| [2H Axe Hip Slash](#Hipslash) | Average | 2 | Either | Cut | [Wide Grip Stance](#Stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [2H Axe Basic Slash](#Slash)|| 300 || 500
+| [2H Axe Cross Chop](#Crosschop) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#Chop)<br><br>20 Ranks in [2H Axe Overhead Chop](#Overheadchop) | 300 | 500 |
+| [2H Axe Hip Slash](#Hipslash) | Average | 2 | Either | Cut | [Wide Grip Stance](#Stance)<br><br>20 Ranks in [2H Axe Basic Slash](#Slash) | 300 | 500 |
 | [2H Axe Overhead Chop](#Overheadchop) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#Chop) | 300 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | [2H Axe Stepping Slash](#Steppingslash) | Average | 2 | Either | Cut | 30 Ranks in [2H Axe Basic Slash](#Slash) | 300 | 500 |
 | [2H Axe Woodcutter Slash](#Woodcutterslash) | Average | 2 | Short | Cut | - | 300 | 500 |
 | [2H Axe Backhand Strike](#Backhandstrike) | Difficult | 2 | Short | Pierce | - | 300 | 500 |
 | [2H Axe Falling Strike](#Fallingstrike) | Difficult | 2 | Short | Cut | 10 Ranks in [2H Axe Chop](#Chop) | 300 | 500 |
 | [2H Axe Haft Sap](#Haftsap) | Difficult | 2 | Short | Bruise | 10 Ranks in [2H Axe Haft Strike](#Haftstrike) | 300 | 500 |
-| [2H Axe Up Slash](#Uslash) | Difficult | 2 | Either | Cut | 10 Ranks in [2H Axe Chop](#Chop) _ |  |  |
-
-10 Ranks in [2H Axe Basic Slash](#Slash) || 300 || 500
+| [2H Axe Up Slash](#Uslash) | Difficult | 2 | Either | Cut | 10 Ranks in [2H Axe Chop](#Chop)<br><br>10 Ranks in [2H Axe Basic Slash](#Slash) | 300 | 500 |
 | [2H Axe Feint](#Feint) | Average | 2 | Short | - | - | 300 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | [2H Axe Swinging Disarm](#Swingingdisarm) | Average | 2 | Short | - | - | 100 | 175 |
 | [2H Axe Hook](#Hook) | Average | 2 | Short | - | - | 300 | 500 |
 | [2H Axe Ankle Hook](#Anklehook) | Difficult | 2 | Short | - | - | 300 | 500 |
@@ -49,7 +40,7 @@ The main advantages of the axe, as opposed to simply using a sword or club-type 
 | [2H Axe Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 |
 
 **Directions to Clobris** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, Nx1, Ex6, Sx1
-**Directions to Hroth** ([Stromheim](/stromheim/)): Travel to Stromheim through the [Rock Valley](/rock-valley/) wilderness.
+**Directions to Hroth** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Additional Notes
 * Pick axes will modify moves that inflict **CUT** damage to instead inflict **PIERCE** damage.

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 When people ask me about my past, there is almost nothing I can tell them. And that's simply because I don't remember. How, you ask me? Lemme explain.

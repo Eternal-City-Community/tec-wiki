@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Hello. My name is Ronmower Ferrell. My dad's name was Doug Ferrell.

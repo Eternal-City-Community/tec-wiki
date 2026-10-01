@@ -15,7 +15,7 @@ The **[City of Monlon](/city-of-monlon/) is being invaded!**
 
 The [Kelestians](/kelestia/) have begun their attack on [Monlon](/city-of-monlon/) and the city is no longer safe. These deadly barbarians now roam freely outside of the city walls, both day and night, while scouts and raiders manage to make their way within the city walls during night. It is **recommended to travel in groups** when venturing outside the city gates.
 
-These barbarians are carrying weapons and armor that had not yet been seen in the Republic before! They make use of [Falcata](/falcata/), [Falx](/falx/), [Chainblade](/chainblade/) and [Slings](/slings/). All four of the skillsets are now available to be learned and the trainer can be found within the Kelestian military outpost in the ravines (not to be confused with the fort near Monlon with the prisoners).
+These barbarians are carrying weapons and armor that had not yet been seen in the Republic before! They make use of [Falcata](/falcata/), [Falx](/falx/), [Chainblade](/chainblade/) and [Slings](/sling/). All four of the skillsets are now available to be learned and the trainer can be found within the Kelestian military outpost in the ravines (not to be confused with the fort near Monlon with the prisoners).
 
 * Refer to the [Reputation](/reputation/) page for info about the new Monlon reputation shop that accepts stone armor from defeated Kelestians.
 * Refer to the [Armor](/armor/) page for details about the weight and protective qualities of Kelestian armor.

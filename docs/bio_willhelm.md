@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Heh. Why hello there. Glad to see you made it to the shop. Not a theif are ya? *Laughs* Glad to hear it, have a seat.

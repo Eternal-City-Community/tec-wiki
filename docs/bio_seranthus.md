@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The day is cold and windy.......Rain begins to pour down upon the heads of The Legion of Gadaene Spearman as they await orders to charge into battle against a small Sostaeron force. Two young spearmen begin to feel the butterflies in their stomach as their commanding officers begin to give out the final orders and plan for the attack.The two cousins turn to each other and say a few words to the other....

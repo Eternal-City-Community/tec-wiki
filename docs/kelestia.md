@@ -20,7 +20,7 @@ The Kelestian people have developed new methods of fighting, not previously seen
 * [Chainblade](/chainblade/)
 * [Falcata](/falcata/) 
 * [Falx](/falx/)
-* [Slings](/slings/)
+* [Slings](/sling/)
 
 ### History
 In the year of the republic 52, Kelestia formed an alliance with the Parcines to retake the land of their ancestors from Iridinian control. The Republic, struggling with internal problems, was caught off guard by the combined might of the two nations resulting in a loss of eastern territories. A long and bloody war continued until the year of the republic 78, when a more organized and strategic Iridinian Legion succeeded in pushing Kelestian and Parcine forces back ending the conflict. The Kelestians vowed to some day retake what they believe belongs to them.
@@ -28,7 +28,7 @@ In the year of the republic 52, Kelestia formed an alliance with the Parcines to
 In the year of the republic 303, Kelestia invades the republic once again sacking the city of Monlon.
 
 ### Religion
-[The Nature of Souls](/codex_nature_of_souls/)
+[The Nature of Souls](/codex-nature-of-souls/)
 
 
 ### Politics

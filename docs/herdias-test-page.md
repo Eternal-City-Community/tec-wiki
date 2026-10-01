@@ -749,10 +749,6 @@ function calcStartUp() { //loads cookies and sets each button to user preference
 </body>
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
 Loading...
 
 

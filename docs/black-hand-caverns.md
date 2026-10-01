@@ -5,13 +5,13 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  -->
-[![](https://eternal-city.wikidot.com/local--files/files/black_hand_caverns_03_2023.png)](https://eternal-city.wikidot.com/local--files/files/black_hand_caverns_03_2023.png)
+[![](/local--files/files/black_hand_caverns_03_2023.png/)](/local--files/files/black_hand_caverns_03_2023.png/)
 
 
 **Related Maps**
 [Eastern Grasslands and Woods](/eastern-grasslands-and-woods/)
 [Black Hand Mines](/black-hand-mines/)
-[Seld](/seld/)
+[Seld](/village-of-seld/)
 
 
 **Guide**

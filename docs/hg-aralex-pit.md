@@ -2,7 +2,7 @@
 
 ## The Aralex Pit
 [[=]]
-@@ @@
+ 
 [[/=]]
 ### Introduction
 > **~ Taken from 'A "relaxing" guide to Aralex By Veridio Dimori'**
@@ -38,8 +38,11 @@ Aralex eggs can be donated to the retired gladiator Prestis to earn favorable [r
 This hunting ground is broken into three "tiers", separated by upper/lower levels, each with increasing difficulty as you progress lower. This being said, the 1st tier can spawn the toughest of the aralex so don't feel safer on Tier 1 than Tier 2 or 3. The main difference is the amount of Aralex that can spawn and swarm you. 
 
 
-!!! note "Migrated include"
-    This page originally included `rat-pits-and-aralex-pits` on Wikidot. The transcluded content still needs review.
+[![](https://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)](https://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)
+
+
+**Related Maps**
+[Bronze Lane](/bronze-lane/)
 
 
 #### Tier 1: Venture into darkness

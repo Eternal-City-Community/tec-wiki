@@ -7,7 +7,7 @@ This map is very, very large. Click on the map for a full-size image.
 
 
 **Related Maps**
-[Blackvine](/blackvine/)
+[Blackvine](/village-of-blackvine/)
 [Pirate Ship](/pirate-ship/)
 [Brigand Treehouse](/brigand-treehouse/)
 [Black Hand Caverns](/black-hand-caverns/)
@@ -16,4 +16,4 @@ This map is very, very large. Click on the map for a full-size image.
 [Grey Sands](/grey-sands/)
 [Black Hand Mines](/black-hand-mines/)
 [Filinius Villa](/hg-filinius-villa/)
-[Seld](/seld/)
+[Seld](/village-of-seld/)

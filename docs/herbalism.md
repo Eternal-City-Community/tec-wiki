@@ -47,36 +47,36 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 
 This skill allows you to identify plants you may have harvested or purchased. More ranks in this skill will allow you to identify a wider variety of plant types.
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's memory, reasoning, and judgement.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's memory, reasoning, and judgement.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *plantid apple*
+> *plantid apple*
 [Success: 5, Roll: 85] You carefully study some small red apples. You are certain it is some malus fruit. **You know it to be an ingredient for apple juice.**
 
- @@>@@ *plantid scarlet coned flower*
+ > *plantid scarlet coned flower*
  [Success: 27, Roll: 40] You carefully study a small scarlet coned flower. You aren't sure what it is.
 
 
- @@>@@ *plantid 3 plant*
+ > *plantid 3 plant*
 [Success: 68, Roll: 68] You have no idea what that is. Maybe an indigo plant?
 
 
- @@>@@ *plantid fern*
+ > *plantid fern*
 [Success: 32, Roll: 96] You carefully study a clump of tiny fern-like green leaves on a narrow stem. You are sure it probably is a parsley plant.
 
 
- @@>@@ *plantid flower*
+ > *plantid flower*
 [Success: 1, Roll: 21] You carefully study a violet flower. You think it might be a coneflower.
 
 
- @@>@@ *plantid leaf*
+ > *plantid leaf*
 [Success: 63, Roll: 98] You carefully study a small furry green leaf. You are fairly sure it might be a trifolium leaf.
 
 
- @@>@@ *plantid flower*
+ > *plantid flower*
 [Success: 1, Roll: 100] You carefully study a violet flower. You are certain it is a coneflower.
 
 </div>
@@ -88,19 +88,19 @@ This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's perception.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's perception.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *find herbs*
+> *find herbs*
  [Success: 31, Roll: 60] Your search the area carefully and come across a small scarlet coned flower.
 
- @@>@@ *find herbs*
+ > *find herbs*
  [Success: 31, Roll: 54] Your search the area carefully and come to the conclusion there are no usable herbs here.
 
- @@>@@ *find herbs*
+ > *find herbs*
  [Success: 31, Roll: 6] Your search the area carefully, but fail to find any usable herbs.
 
 </div>
@@ -132,21 +132,21 @@ The size of the container determines how much product will be made and the quant
 
 Allows crafting of **drinks** like apple juice or posca.
 
-For details on existing recipes, *see [the brewing chart](http://eternal-city.wikidot.com/herbalism-guide#BrewingChart).*
+For details on existing recipes, *see [the brewing chart](/herbalism-guide/#BrewingChart).*
 
-**Required Materials**: *<Various>*. See [Brewing Chart](http://eternal-city.wikidot.com/herbalism-guide#BrewingChart).
+**Required Materials**: *<Various>*. See [Brewing Chart](/herbalism-guide/#BrewingChart).
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *brew glass*
+> *brew glass*
  # Product	@<&#124;>@ Ingredients and Quantity
 # Lemon Juice @<&#124;>@ Yellow fruit with a thick peel  2
 # Rose Incense @<&#124;>@ Blossoming red flower 20
 Enter the number of the product you would like to brew.
 
- @@>@@ *1*
+ > *1*
 [Success: 27, Roll: 47] You smash the yellow fruits with thick peels in your mortar and pestle and drain the juice into an empty clear glass.
 
 </div>
@@ -156,11 +156,11 @@ Enter the number of the product you would like to brew.
 
 ### Brew Paint  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](http://eternal-city.wikidot.com/herbalism#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
 Allows crafting of **paints** of various colors and **writing ink**.
 
-For details on existing recipes, *see the [brewing chart](http://eternal-city.wikidot.com/herbalism-guide#BrewingChart).*
+For details on existing recipes, *see the [brewing chart](/herbalism-guide/#BrewingChart).*
 
 **When you see this in use you see:**
 
@@ -175,11 +175,11 @@ For details on existing recipes, *see the [brewing chart](http://eternal-city.wi
 
 ### Brew Flask  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](http://eternal-city.wikidot.com/herbalism#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
 Allows crafting of products that are not meant to be ingested, such as **fuel oil** and **smoking tobacco**.
 
-For details on existing recipes, *see the [brewing chart](http://eternal-city.wikidot.com/herbalism-guide#BrewingChart).*
+For details on existing recipes, *see the [brewing chart](/herbalism-guide/#BrewingChart).*
 
 **When you see this in use you see:**
 
@@ -194,11 +194,11 @@ For details on existing recipes, *see the [brewing chart](http://eternal-city.wi
 
 ### Brew Salve  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](http://eternal-city.wikidot.com/herbalism#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
-Allows crafting of **salves** applied with the [Healing](http://eternal-city.wikidot.com/healing) skill, such as burn or painkilling salve.
+Allows crafting of **salves** applied with the [Healing](/healing/) skill, such as burn or painkilling salve.
 
-For details on existing recipes, *see the [brewing chart](http://eternal-city.wikidot.com/herbalism-guide#BrewingChart).*
+For details on existing recipes, *see the [brewing chart](/herbalism-guide/#BrewingChart).*
 
 **When you see this in use you see:**
 
@@ -213,11 +213,11 @@ For details on existing recipes, *see the [brewing chart](http://eternal-city.wi
 
 ### Brew Potion  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](http://eternal-city.wikidot.com/herbalism#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
 The most advanced brewing skill, this allows crafting of products with special effects like rock candy drugs.
 
-For details on existing recipes, *see the [brewing chart](http://eternal-city.wikidot.com/herbalism-guide#BrewingChart).*
+For details on existing recipes, *see the [brewing chart](/herbalism-guide/#BrewingChart).*
 
 **When you see this in use you see:**
 
@@ -238,7 +238,7 @@ This skill requires clay, which can be purchased from locksmithing shops, or for
 
 <div class="skill-template">
 
-@@>@@ *craft vial with clay*
+> *craft vial with clay*
 [Success: 5, Roll: 9] You begin to craft the vial by pressing the rough shape of it into the clay with your hands. After trimming the mouth and edges with your stylus, it is ready to bake. Holding it over the heat with your tongs, the vial slowly hardens.
 
 </div>
@@ -263,7 +263,7 @@ TBC
 
 ### Volume Estimation  *estimate <liquid@<&#124;>@powder@<&#124;>@container>*
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's reasoning & judgement.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's reasoning & judgement.
 
 The volume of a container can be determined with the Volume Estimation skill and a scroll outlining Iridine's system of measurement can be purchased IG.
 
@@ -271,7 +271,7 @@ The volume of a container can be determined with the Volume Estimation skill and
 
 <div class="skill-template">
 
-@@>@@ *estimate gel*
+> *estimate gel*
 [Success: 1, Roll: 35] You estimate that some gelatinous green liquid takes up 1 ligula.
 
 </div>

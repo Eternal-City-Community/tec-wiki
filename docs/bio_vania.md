@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The name's Vania, put people like to call me with my last name, Wraith. I hate it actually, it makes you sound like you're a thief. But I have to live with it *sigh*.

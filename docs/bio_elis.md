@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The torrential rain splattered across the vast green plains, reducing visibility to hazy sheet of translucent white. Possessing nothing but the clothes on him and a rather oversized sac, a scruffy young man trudged wearily across the enormous green sea.

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Just over the Cineran- Iridine border, barely 19 years ago, a small child was born into a middle class family. I was named Kain, born into the family of Snake. My father was a commander in the Cineran army, a role that he took on with great enthusiasm not only on the battlefield but also at home. He often came home and beat my mother when the war effort was going badly. Although I tried to keep her and my younger sister, Kichi, from the violence, I was often beaten aside for being insolent. My older half brother, Raine, did nothing too help. He longed to be in the Cineran army, and did not want to lose my influential fathers favour. I too longed to be in the army when I was young, practising many hours with my tin dagger.

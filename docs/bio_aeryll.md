@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I was born in a village in Remath, the second born son to a reasonably prosperous fabric merchant. My childhood was largely unremarkable. As the second born, I was expected to take care of my share of the everyday chores around our shop, but was mostly left to my own devices. My brother, Kieran, was the family's pride. Tall, strong, handsome, clever and popular, Kieran was everyone's favourite and the apple of our father's eye. 

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Necephorus Livitus is the older brother of Commensus Livitus, who recently died under mysterious circumstances near the bandit forest. Necephorus' father and mother, Parradus and Adinna, were killed several years ago when their villa caught fire, also under mysterious circumstances.

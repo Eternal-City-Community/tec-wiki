@@ -16,8 +16,11 @@ The Kelestian Outpost houses a reputation vendor, a resting room and trainers fo
 [Visit the Map Page](/monlon-kelestian-outpost/)
 
 
-!!! note "Migrated include"
-    This page originally included `monlon-kelestian-outpost` on Wikidot. The transcluded content still needs review.
+![](/local--files/files/kelestian%20outpost%202023-08-03.png/)
+
+
+**Related maps**
+[Monlon Ravines](/monlon-ravines/)
 
 
 </details>
@@ -26,7 +29,7 @@ The Kelestian Outpost houses a reputation vendor, a resting room and trainers fo
 ### Points of Interest
 * Much of the trade in the outpost is run on a **[reputation](/reputation/) system**, based on [stones](/stones-ores/).
 * **Bunkroom** to rest, even while sleeping.
-* **Highly skilled trainers** for the [Kelestian](/kelestia/) combat skills: [Chainblade](/chainblade/), [Falcata](/falcata/), [Falx](/falx/) & [Slings](/slings/).
+* **Highly skilled trainers** for the [Kelestian](/kelestia/) combat skills: [Chainblade](/chainblade/), [Falcata](/falcata/), [Falx](/falx/) & [Slings](/sling/).
 * Vendor for basic **items for Kelestian weapons**.
 
 
@@ -35,4 +38,4 @@ The gate at the entrance will open and allow you to enter only if you **[speak K
 
 
 #### Kelestian Combat Skills
-With enough [reputation](/reputation/), **Karkara** ([Chainblade](/chainblade/) / [Falx](/falx/)) & **Sphara** ([Slings](/slings/) / [Falcata](/falcata/)) will teach you what they know. Learning from them will use/reduce your reputation.
+With enough [reputation](/reputation/), **Karkara** ([Chainblade](/chainblade/) / [Falx](/falx/)) & **Sphara** ([Slings](/sling/) / [Falcata](/falcata/)) will teach you what they know. Learning from them will use/reduce your reputation.

@@ -13,11 +13,11 @@ You can find the important figures of organizations involved with the game world
 | [Divortium Auxilii](#Auxilii) | New Player Assistance | Yes | Yes | **Yes** |
 | [Iridine Constables](#Constables) | Lawkeeper | Yes | Yes | Yes |
 | [Legio](#Legio) | Lawkeeper | Yes | Yes | Yes |
-| [Monlon Vigiles](#Vigiles) | Lawkeeper | Yes | - | -**##red\|@@*@@##** |
+| [Monlon Vigiles](#Vigiles) | Lawkeeper | Yes | - | -**##red\|*##** |
 | *[Phoenix Guard](#PG)* | Lawkeeper | Yes | - | - |
 | *[Rock Valley Watch](#Watch)* | Lawkeeper | Yes | - | - |
 | *[Quaesitus Monitor](#QM)* | Lawkeeper | Yes | - | - |
-| *[Lex Legalis](#LexLegalis)* | Lawyer | Yes | - | -**##red\|@@*@@##** |
+| *[Lex Legalis](#LexLegalis)* | Lawyer | Yes | - | -**##red\|*##** |
 | [Black Centurions](#BC) | Criminal | Yes | Yes | Yes |
 | [Harbor Rats](#TG) | Criminal | Yes | Yes | Yes |
 | [Umbra Alati](#Alati) | Criminal | Yes | Yes | Yes |

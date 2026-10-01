@@ -86,6 +86,7 @@ The table below shows the different VC packages available, with their correspond
 | Level 29 | 27,000 RPs | 15,000 | 300 | 280t | 320 | Makeover |
 | Level 30 | 99,999 RPs | 50,000 | 300 | 350t | 350 | Makeover |
 
+
 #### Purchase:
 To purchase a VC package, go to the Welcome Area and type @play. Select the "Spend Role Points" option, then choose "Purchase a Veteran Character." Select the package available to yo, and you will be taken to the character generator.
 
@@ -208,7 +209,6 @@ Use those credits to appoint your character:
 | 51. Two-handed boison axe | 15 credits |
 | 52. Short bow | 1 credit |
 | 53. Simple pine short bow | 2 credits |
-
 *Additional custom items will sometimes be in the display case, type and cost vary
 **Note: Weapon quality can be enhanced at the cost of additional credits. Upon purchasing the item you will see this follow-up prompt: "All base weapons sold here are of average quality (0).  You can increase the quality to Good, Great, or Excellent at a cost of 1 credit per step. You may also increase the quality to Superior for 15 credits extra. Enter the number of credits you wish to add to the price to increase the quality of this weapon."
 
@@ -239,7 +239,6 @@ Use those credits to appoint your character:
 | 18. Paenula | 1 credit |
 | 19. Sagum | 1 credit |
 | 20. Hooded cloak | 50 credits |
-
 *Additional custom items will sometimes be in the display case, type and cost vary
 **Warning: These items have no options to enhance them. If you buy a hooded cloak, it will be just 'a hooded cloak'.
 
@@ -276,7 +275,6 @@ Use those credits to appoint your character:
 | 25. Iridine wall shield | 5 credits |
 | 26. Long shield | 3 credits |
 | 27. Bronze buckler | 1 credit |
-
 *Additional custom items will sometimes be in the display case, type and cost vary
 **Note: Shield quality can be enhanced at the cost of additional credits
 
@@ -336,8 +334,8 @@ A **gruff old man** teaches the following skills, actions and recipes:
 
 [[tab Archery]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Archery                                        300       13 / 6
@@ -363,15 +361,15 @@ Archer's Grip                      impossible  300       22 / 12
 Hand Shot                          difficult   300       20 / 10
 Parting Shot                       average     300       18 / 8
 Quick Shot                         difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Pankration]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Pankration                                     300       13 / 6
@@ -400,15 +398,15 @@ Pankration Knife Hand              difficult   300       20 / 10
 Pankration Accuracy                difficult   300       20 / 10
 Pankration Focus                   impossible  300       22 / 12
 Pankration Feint                   average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Tridents]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Tridents                                       300       13 / 6
@@ -436,15 +434,15 @@ Trident Grip                       impossible  300       22 / 12
 Trident Quick Rake                 easy        300       13 / 6
 Trident Defensive Bash             average     300       18 / 8
 Trident Parting Gouge              average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Short Whip]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Short Whip                                     300       13 / 6
@@ -468,15 +466,15 @@ Whip Flogging the Bull             average     300       18 / 8
 Whip Accuracy                      difficult   300       20 / 10
 Whip Grip                          impossible  300       22 / 12
 Whip Forward Snap                  average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Cestus]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Cestus                                         300       13 / 6
@@ -502,15 +500,15 @@ Cestus Rear Upcut                  average     300       18 / 8
 Cestus Upcut Spin                  difficult   300       20 / 10
 Cestus Accuracy                    difficult   300       20 / 10
 Cestus Form                        impossible  300       22 / 12
-```
+~~~
 
 [[/tab]]
 
 
 [[tab 2H Axes]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Two-Handed Axes                                300       13 / 6
@@ -539,15 +537,15 @@ Two-Handed Axes                                300       13 / 6
 2H Axe Swat Block                  difficult   300       20 / 10
 2H Axe Stepping Slash              average     300       18 / 8
 2H Axe Haft Sap                    difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab 1H Axes]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 One-Handed Axes                                300       13 / 6
@@ -573,15 +571,15 @@ Axe Stepping Chop                  average     300       18 / 8
 Axe Stepping Leg Strike            difficult   300       20 / 10
 Axe Parcine Raider Stance          easy        300       13 / 6
 Axe Leg Strike                     difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Clubs]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 One-Handed Crushing                            300       13 / 6
@@ -605,15 +603,15 @@ Club Crush                         average     300       18 / 8
 Club Smash                         average     300       18 / 8
 Club Iunius' Stance                easy        300       13 / 6
 Club Stepping Crush                average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Staves]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Staves                                         300       13 / 6
@@ -642,15 +640,15 @@ Staves Pivoting Longarm            difficult   300       20 / 10
 Staves Spin Strike                 difficult   300       20 / 10
 Staves Snap Strike                 average     300       18 / 8
 Staves Altene Skirmish Stance      easy        300       13 / 6
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Spears]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Spears                                         300       13 / 6
@@ -678,15 +676,15 @@ Spears Ebros' Scorpion Stance      easy        300       13 / 6
 Spear Stepping Stab                average     300       18 / 8
 Spear Parting Slash                average     300       18 / 8
 Spear Rotation Block               difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Swords]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 One-Handed Swords                              300       13 / 6
@@ -708,15 +706,15 @@ Sword Push Back                    average     300       18 / 8
 Sword Lunge                        average     300       18 / 8
 Sword Accuracy                     difficult   300       20 / 10
 Sword Grip                         impossible  300       22 / 12
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Shields]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Shields                                        300       13 / 6
@@ -729,15 +727,15 @@ Shield Bash                        average     300       18 / 8
 Shield Push Back                   average     300       18 / 8
 Shield Upward Bash                 average     300       18 / 8
 Shield Edge Bash                   difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Knives]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Knives                                         300       13 / 6
@@ -760,15 +758,15 @@ Knife Whirling Slash               average     300       18 / 8
 Knife Stab and Slash               average     300       18 / 8
 Knives Grip                        impossible  300       22 / 12
 Knives Accuracy                    difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Combat Maneuvers]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Combat Maneuvers                               300       13 / 6
@@ -791,15 +789,15 @@ Swaying Dodge                      average     300       18 / 8
 Combat Guarding                    difficult   300       20 / 10
 Simple Rolling Rise                difficult   300       20 / 10
 Melee Advance                      difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Brawling]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Brawling                                       300       10 / 5
@@ -826,15 +824,15 @@ Bite                               easy        300       10 / 5
 Ale Focus                          difficult   300       17 / 9
 Brawler's Instinct                 impossible  300       19 / 11
 Brawling Feint                     average     300       15 / 7
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Avros]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Avros Gladius Combat                           300       13 / 6
@@ -849,15 +847,15 @@ Avros Stab and Slash               average     300       18 / 8
 Avros Strike and Smash             difficult   300       20 / 10
 Avros Sunrise Block                average     300       18 / 8
 Avros Whirling Strike              average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Nelsor]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Nelsor Gladius Combat                          300       13 / 6
@@ -873,15 +871,15 @@ Spinning Duck and Strike           average     300       18 / 8
 Vulture Block                      difficult   300       20 / 10
 Reverse Sky Arch                   average     300       18 / 8
 Tiger Slash                        difficult   300       20 / 10
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Cineran Knife Fighting]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Cineran Knife Fighting                         300       13 / 6
@@ -895,15 +893,15 @@ CKF Wrist Slash                    difficult   300       20 / 10
 CKF Backhand Slash                 average     300       18 / 8
 CKF Quick Draw                     difficult   300       20 / 10
 CKF Markad Slash                   average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Falcata]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Falcata Sword Fighting                         200       13 / 6
@@ -932,15 +930,15 @@ Falcata Tumble Slash               difficult   200       20 / 10
 Falcata Tang Strike                easy        200       13 / 6
 Falcata Sudden Stab                average     200       18 / 8
 Falcata Leg Strike                 average     200       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Sling]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Sling Missile Weapons                          200       13 / 6
@@ -960,15 +958,15 @@ Sling Wrap Block                   average     200       18 / 8
 Graded Throwing                    average     200       18 / 8
 Long Range Throwing                average     200       18 / 8
 Wind Compensation                  average     200       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Chainblade]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Chainblade Combat                              200       13 / 6
@@ -993,15 +991,15 @@ Chainblade Grip                    impossible  200       22 / 12
 Chainblade Accuracy                difficult   200       20 / 10
 Chainblade Kneeling Spin           difficult   200       20 / 10
 Chainblade No Mind Strike          impossible  200       22 / 12
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Falx]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Falx Combat                                    200       13 / 6
@@ -1028,7 +1026,7 @@ Falx Accuracy                      difficult   200       20 / 10
 Falx Kelestian Siege Stance        easy        200       13 / 6
 Falx Final Slash                   difficult   200       20 / 10
 Falx Wild Strike                   easy        200       13 / 6
-```
+~~~
 
 [[/tab]]
 [[/tabview]]
@@ -1041,8 +1039,8 @@ A **young man** teaches the following skills, actions and recipes:
 
 [[tab Pickpocketing]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Pickpocketing                                  300       13 / 6
@@ -1051,15 +1049,15 @@ Quick Grab                         easy        300       13 / 6
 Coin Sharpening                    easy        300       13 / 6
 Cut and Lift                       average     300       18 / 8
 Handoff                            average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Outdoors]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Outdoor Survival                               300       13 / 6
@@ -1081,15 +1079,15 @@ Survival Foraging                  easy        300       13 / 6
 Craft Fishing Pole                 average     300       18 / 8
 Whittling                          difficult   300       20 / 10
 Survival Weaving                   average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Hunting]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Hunting                                        300       13 / 6
@@ -1117,15 +1115,15 @@ Ursine Hunting                     impossible  300       22 / 12
 Craft Basic Short Bow              difficult   300       20 / 10
 Craft Basic Knife                  average     300       18 / 8
 Craft Basic Club                   easy        300       13 / 6
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Tailoring]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Basic Tailoring                                900       13 / 6
@@ -1135,15 +1133,15 @@ Basic Sewing                       easy        300       13 / 6
 Basic Hemming                      easy        300       13 / 6
 Stitch Pattern                     average     300       18 / 8
 Basic Mending                      average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Healing]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Healing                                        300       18 / 11
@@ -1162,15 +1160,15 @@ Splint Bone                        average     300       23 / 13
 Remove Splint                      easy        300       18 / 11
 Apply Tourniquet                   average     300       23 / 13
 Remove Tourniquet                  easy        300       18 / 11
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Locksmithing]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Locksmithing                                   300       13 / 6
@@ -1188,15 +1186,15 @@ Install Lock                       difficult   300       20 / 10
 Uninstall Lock                     impossible  300       22 / 12
 Fashion Keyring                    difficult   300       20 / 10
 Wax Letter Etching                 average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Setups]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Setups                                         300       13 / 6
@@ -1204,15 +1202,15 @@ Draw Attention                     easy        300       13 / 6
 Ground Approach                    average     300       18 / 8
 Assess Target                      average     300       18 / 8
 Ear for Coin                       easy        300       13 / 6
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Street Smarts]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Street Smarts                                  300       13 / 6
@@ -1221,15 +1219,15 @@ Stash                              easy        300       13 / 6
 Steps Cant                         average     300       18 / 8
 Graffiti                           easy        300       13 / 6
 Mimic Signpost                     average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Herbalism]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Skills/Actions                     Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Herbalism                                      300       13 / 6
@@ -1245,15 +1243,15 @@ Brew Salve                         difficult   300       20 / 10
 Brew Potion                        impossible  300       22 / 12
 Craft Vessel                       average     300       18 / 8
 Label Container                    average     300       18 / 8
-```
+~~~
 
 [[/tab]]
 
 
 [[tab Tailoring]]
 
-```
-                                               Skill Point Cost
+~~~
+Skill Point Cost
 Recipes                            Difficulty  To Rank   First Rk / Subsq Rk
 -----------------------            ----------  --------  -------------------
 Basic Tailoring                                900       13 / 6
@@ -1356,7 +1354,7 @@ Vest Recipe                        easy        300       7 / 4
  Vest Front Recipe                easy        300       7 / 4
 Waist Sash Recipe                  easy        300       7 / 4
  Sash Length Recipe               easy        300       7 / 4
-```
+~~~
 
 [[/tab]]
 
@@ -1371,7 +1369,7 @@ Waist Sash Recipe                  easy        300       7 / 4
 The command @vc-info command allows you to see info related to your veteran character. Example below:
 
 
-```
+~~~
 =[Veteran Character Info for Bob]===========================================
 VC Level: 30
 VC Cost: Free
@@ -1380,7 +1378,7 @@ VC Attribute Points Remaining: 0
 Exchanged Makeover for Attribute Points: Yes
 Note: If you did not exchange your makeover by now, you may no longer do so.
 If you have not and are still in the VC Lobby, you can still push the button in the Attribute Store to exchange your free makeover for 20 VC Attribute Points.
-```
+~~~
 
 
 [Back to Top](#Top)

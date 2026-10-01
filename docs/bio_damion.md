@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Alright, im not all that great at tellin stories, especially ones i dont know much about. Now first off, let me tell you, the reason I came to Irdine aint a happy one and this story isnt exactly a happy story. First off, if i had my way I'd be back in Altene. I had a nice life there, in a relatively wealthy family. I had both parents, and i also had a brother about 3 years older then me. my dad was awesome with a fangstave, and he once won a community fighting competion once. My mom was no warrior, but she could cook up a storm. She also taught my brother, Dratni, how to stitch people and a whole bunch of other stuff about healing. And back then, i was no good at nothin. I wasnt good with my quarterstave, and i usually just made more blood when i tried to fix people. I was even shy around girls! but the one thing I was good at was knowledge. My mom acted as a teacher around the community, and being her son I usually got extra help.

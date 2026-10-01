@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I am a man who had a problem as a child. My name is Trittillius Lockly from the lands of Altene. As a boy I remember a father who beat and abused me in a drunken rage. I never told anyone this but I hated my father! My mother died by my birth and that forever rides me. As a boy from Altene, my life was written in me. I am to be in the army and to be a stavesman, but I was not at all! Before my mother died she passed on our family gladius to me. When I turned to the age of 7, I took my gladius and started to practice, but when my father came home from the bar he took it and sliced my right leg, which the scar is still there. The man enraged me and I took that gladius and sliced a very noticeable cut on his face. At that moment, my life was changed forever. I ran away that very night looking for anyway to DIE! Then I saw the light of hope in a widow. I say a young boy who had what looked like a wooden gladius in his hand. This struck me as unusual because for all I knew, all boys in Altene use the stave. I then realized he had the same dreams as I did. Collecting all my courage together, I knocked at the door and asked his father if I could stay for a night and as a generous sole, he agreed.

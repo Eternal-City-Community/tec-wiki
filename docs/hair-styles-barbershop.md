@@ -11,6 +11,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 | Style | Outcome |
 | --- | --- |
 
+
 ### Hair Length: Loosely Cropped
 | Style | Outcome |
 | --- | --- |
@@ -111,12 +112,13 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 | Short braid |  |
 | Curled around the front and sides |  |
 
+
 ### Beards
 
 ### Clean Shaven
 | Style | Outcome |
 | --- | --- |
-| Clean Shaven | Characters> face is clean shaven |
+| Clean Shaven | <Characters> face is clean shaven |
 
 ### Stubble
 

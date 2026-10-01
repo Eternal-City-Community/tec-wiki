@@ -14,6 +14,7 @@ Armor protections range from no protection to excellent as follows:
 | Fairly Good |  |
 | Little Protection |  |
 | No Protection | Worst Protection |
+ 
 
 **For locations to buy armor visit the [shops](/shops/) page.**
 
@@ -40,13 +41,13 @@ Note: Material and Protection information is provided for relevant items only.
 | Item | Reputation Points | Price | Weight | Protection |
 | --- | --- | --- | --- | --- |
 | Some bronze greaves* | 500 | 9t 638d 3st | 7 lbs | Very Good - Shins |
-| Some bronze thigh greaves | 1,000 | 24t 723d 1st |  |  |
+| Some bronze thigh greaves | 1,000 | 24t 723d 1st | > |  |
 | A bronze waistguard | 1,250 | 69t 976d 3st | 9 lbs | Good - Waist |
 | Some chain sleeves with extended hand guards | 1,500 | 94t 137d 2st | 7 lbs | Very Good - Shoulder, Arms, Hands |
-| A pair of bronze gauntlets | 1,700 | 103t 776d 1st |  |  |
+| A pair of bronze gauntlets | 1,700 | 103t 776d 1st | > |  |
 | A dull bronze helmet with a featureless faceplate | 1,800 | 112t 1415d |  |  |
-| Some bronze intra caligae | 1,900 | 116t 1045d 2st |  |  |
-| Some bronze galeri | 2,000 | 122t 491d 1st |  |  |
+| Some bronze intra caligae | 1,900 | 116t 1045d 2st | > |  |
+| Some bronze galeri | 2,000 | 122t 491d 1st | > |  |
 | A pair of iron gauntlets | 2,250 | 135t 760d 2st | 5 lbs | Very Good - Arms, Hands |
 | An iron helmet with a faceplate | 2,400 | 141t 206d 1st | 13 lbs | Excellent - Head, Face (closed) |
 | Some iron intra caligae | 2,500 | 144t 1399d 1st | 3 lbs | Very Good - Right Foot, Left Foot |
@@ -81,34 +82,14 @@ Note: Material and Protection information is provided for relevant items only.
   
 | Material | Available Types** |
 | --- | --- |
-| Leather | - Regular _ |
+| Leather | - Regular<br><br>- Face Covering |
+| Tin | - Regular<br><br>- Regular + Neckguard<br><br>- Caged* |
+| Bronze | - Regular<br><br>- Faceplate<br><br>- Hidden Faceplate<br><br>- Caged* |
+| Alanti | - Faceplate<br><br>- Hidden Faceplate |
+| Iron | - Regular<br><br>- Faceplate<br><br>- Caged (covers face but does not conceal identity) |
+| Boison | - Faceplate<br><br>- Hidden Faceplate<br><br>- Caged* |
+ 
 
-                   - Face Covering
-| Tin | - Regular _ |
-| --- | --- |
-
-             - Regular + Neckguard _
-                  - Caged*
-| Bronze | - Regular _ |
-| --- | --- |
-
-                  - Faceplate _
-                  - Hidden Faceplate _
-                  - Caged*
-| Alanti | - Faceplate _ |
-| --- | --- |
-
-                - Hidden Faceplate
-| Iron | - Regular _ |
-| --- | --- |
-
-              - Faceplate _
-              - Caged (covers face but does not conceal identity)
-| Boison | - Faceplate _ |
-| --- | --- |
-
-                  - Hidden Faceplate _
-                  - Caged*
  ***Caged faceplates** can be pulled down to protect the face, but do not conceal your identity.
 
 
@@ -189,6 +170,7 @@ All items listed above can be worn together. They can be put on in the following
 | A heavy Kelestian nagoda with polished stone plates | 19 lbs. | neck, chest, back, right shoulder, and left shoulder. | Excellent |
 | An iron cuirass | 12 lbs. | Chest, back, waist | Excellent |
 
+
 ### Waist
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
@@ -198,6 +180,7 @@ All items listed above can be worn together. They can be put on in the following
 | A leather cuirass | 8.0 lbs. | Chest, back, and waist | Good |
 | A lorica hamata | 14.0 lbs. | Chest, back, waist, right thigh, and left thigh | Good |
 | A lorica squamata | 16.0 lbs. | Chest, back, waist, right thigh, and left thigh | Very Good |
+
 
 ### Thighs
 | Armor Piece | Weight | Coverage | Protection |
@@ -217,6 +200,7 @@ All items listed above can be worn together. They can be put on in the following
 | A left leather greave | Less than a pound | Left shin | Fairly good |
 | A right bronze greave | 3 lbs. | Right shin | Very Good |
 | A left bronze greave | 3 lbs. | Left shin | Very Good |
+
 
 ### Feet
 | Armor Piece | Weight | Coverage | Protection |
@@ -387,6 +371,7 @@ All items listed above can be worn together. They can be put on in the following
 |  | a right bronze greave |  |  |  |
 | Left Foot |  |  |  |  |
 | Right Foot |  |  |  |  |
+
 
 some leather feminalia
 some leather breeches

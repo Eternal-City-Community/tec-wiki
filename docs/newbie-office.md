@@ -63,7 +63,9 @@ Priest Neathius will be accepting items that are listed above. The list below wa
 | An ill-fitting leather vest | 20d 2st 2s | 3 Pebbles |
 | A makeshift sagum | 31d | 4 Pebbles |
 | An old ceramic lantern | 38d | 4 Pebbles |
+
 |  |  | Apecuia |
+| --- | --- | --- |
 | Item | Price | Pebbles Required |
 | A bow string | 3d 2s | 0 Pebbles |
 | Some bandages | 13d 1st 2s | 1 Pebbles |

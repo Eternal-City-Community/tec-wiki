@@ -34,9 +34,9 @@ Pick your system below. All downloads live on the [GitHub releases page](https:/
 **1.** Open the [latest release](https://github.com/cyber-godzilla/praetor/releases/latest) and, under **Assets**, download the installer:
 
 
-```
+~~~
 Praetor_<version>_windows_amd64_installer.exe
-```
+~~~
 
 
 **2.** Run it. Windows may show a blue **Windows protected your PC** box because the installer isn't signed with a paid certificate. Click **More info**, then **Run anyway**.
@@ -50,10 +50,10 @@ Praetor_<version>_windows_amd64_installer.exe
 If you already use Chocolatey, you can install and update from there instead:
 
 
-```
+~~~
 choco source add -n=praetor -s="https://packages.buildkite.com/cybergodzilla-2099/praetor-nuget/nuget/index.json"
 choco install praetor
-```
+~~~
 
 
 #### macOS
@@ -65,9 +65,9 @@ If you already use Homebrew, this is the easiest route and it handles updates fo
 **1.** Open Terminal and run:
 
 
-```
+~~~
 brew install --cask cyber-godzilla/tap/praetor
-```
+~~~
 
 
 **2.** Open Praetor from Applications (or Spotlight).
@@ -77,9 +77,9 @@ brew install --cask cyber-godzilla/tap/praetor
 **4.** To update later, run:
 
 
-```
+~~~
 brew upgrade
-```
+~~~
 
 
 ##### Without Homebrew
@@ -87,9 +87,9 @@ brew upgrade
 **1.** Open the [latest release](https://github.com/cyber-godzilla/praetor/releases/latest) and, under **Assets**, download the zip. It works on both Apple Silicon and Intel Macs:
 
 
-```
+~~~
 Praetor_<version>_darwin_universal.zip
-```
+~~~
 
 
 **2.** Double-click the zip to unpack it, then drag **Praetor** into your Applications folder.
@@ -107,33 +107,33 @@ Each package adds Praetor to your desktop applications menu and installs a termi
 **1.** Add the signing key:
 
 
-```
+~~~
 curl -fsSL "https://packages.buildkite.com/cybergodzilla-2099/praetor-debian/gpgkey" | sudo gpg --dearmor -o /etc/apt/keyrings/praetor-archive-keyring.gpg
-```
+~~~
 
 
 **2.** Add the repository:
 
 
-```
+~~~
 echo "deb [signed-by=/etc/apt/keyrings/praetor-archive-keyring.gpg] https://packages.buildkite.com/cybergodzilla-2099/praetor-debian/any/ any main" | sudo tee /etc/apt/sources.list.d/praetor.list
-```
+~~~
 
 
 **3.** Install:
 
 
-```
+~~~
 sudo apt update && sudo apt install praetor
-```
+~~~
 
 
 **4.** Updates arrive with your normal upgrades:
 
 
-```
+~~~
 sudo apt upgrade
-```
+~~~
 
 
 ##### Fedora / RHEL
@@ -141,7 +141,7 @@ sudo apt upgrade
 **1.** Create the repository file as root:
 
 
-```
+~~~
 sudo tee /etc/yum.repos.d/praetor.repo <<'EOF'
 [praetor]
 name=Praetor
@@ -151,23 +151,23 @@ repo_gpgcheck=0
 gpgcheck=0
 priority=1
 EOF
-```
+~~~
 
 
 **2.** Install:
 
 
-```
+~~~
 sudo yum install praetor
-```
+~~~
 
 
 **3.** Updates arrive with your normal upgrades:
 
 
-```
+~~~
 sudo yum update
-```
+~~~
 
 
 ##### Arch
@@ -177,28 +177,28 @@ x86_64 only. The 1.0.0 in the section name is the repository's layout version an
 **1.** Add this to the pacman configuration file:
 
 
-```
+~~~
 # /etc/pacman.conf
 [praetor-1.0.0]
 SigLevel = Never
 Server = https://packages.buildkite.com/cybergodzilla-2099/praetor-arch/files
-```
+~~~
 
 
 **2.** Install:
 
 
-```
+~~~
 sudo pacman -Sy praetor
-```
+~~~
 
 
 **3.** Updates arrive with your normal upgrades:
 
 
-```
+~~~
 sudo pacman -Syu
-```
+~~~
 
 
 ##### Other distributions
@@ -206,10 +206,10 @@ sudo pacman -Syu
 **1.** Open the [latest release](https://github.com/cyber-godzilla/praetor/releases/latest) and download the archive for your machine:
 
 
-```
+~~~
 praetor_<version>_linux_amd64.tar.gz
 praetor_<version>_linux_arm64.tar.gz
-```
+~~~
 
 
 **2.** Unpack it and run the **praetor** binary inside. This route adds no menu entry, so make a shortcut to the binary if you want one.
@@ -250,9 +250,9 @@ Saved variables can be inserted into typed commands with {{${name}}}. Separate c
 Anything you type starting with a slash is a slash command, handled by Praetor itself and not sent to the game. A hint appears as you type showing what the command expects. To see them all in the app:
 
 
-```
+~~~
 /help
-```
+~~~
 
 
 Read more: [Praetor Guide](/praetor-guide/)
@@ -301,14 +301,14 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | /help |  | Open the Help window | Esc closes it |
 | /guide |  | Open the getting-started window with links to the Praetor overview, guide, and scripting pages | Esc closes it |
 | /list |  | Open the Switch Mode window to browse modes ([Run a mode](/praetor-scripts/#run)) | Esc closes it without starting anything |
-| /mode, /sm | name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | {{/mode disable}} or Alt+X stops it |
-| /toggle | label> | Flip a true/false value in the running mode | Run it again to flip it back |
-| /set | label> <value> | Set a value in the running mode | Set it again to the old value |
+| /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | {{/mode disable}} or Alt+X stops it |
+| /toggle | <label> | Flip a true/false value in the running mode | Run it again to flip it back |
+| /set | <label> <value> | Set a value in the running mode | Set it again to the old value |
 | /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#lookups)) | Esc closes it |
 | /wiki | [name] | List the wiki bookmarks, or open one in your browser ([Wiki bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
 | /maps | [name] | List the map bookmarks, or open one in your browser ([Map bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
 | /kudos | [name] [message] | Open the kudos window, add a favorite, or queue a message ([Kudos](/praetor-guide/#lookups)) | Esc closes the window. Queued kudos aren't sent until you click Send |
-| /notes | [add@@\|@@open@@\|@@delete@@\|@@list] [title] | The notepad ([Notes](/praetor-guide/#notes)) | Esc closes it |
+| /notes | [add\|open\|delete\|list] [title] | The notepad ([Notes](/praetor-guide/#notes)) | Esc closes it |
 | /send |  | Pick a text file and send it to the game ([Sending a file](/praetor-guide/#send)) | Cancel the file dialog, or close the preview without clicking Save. Alt+X aborts a send already in progress |
 | /play |  | Pick a play script, preview it, and start it ([Play scripts](/praetor-guide/#play)) | Close the preview without clicking Save. {{/stop}} or Alt+X ends a running performance |
 | /pause |  | Hold the running performance | {{/resume}} continues it |
@@ -323,9 +323,9 @@ A mode is a small Lua script that watches the game text as it scrolls by and sen
 A shared library of ready-made modes is available for you to drop in. Start one by name, and the hint line shows what arguments it takes as you type:
 
 
-```
+~~~
 /mode idle
-```
+~~~
 
 
 Combat modes lean on in-game **@macro** entries, which you have to set up once per character before the mode can use them.
@@ -348,9 +348,9 @@ When asking for help, include your Praetor version and the relevant lines from t
 On Windows, the tilde is your user folder, so the config folder is:
 
 
-```
+~~~
 C:\Users\<you>\.config\praetor
-```
+~~~
 
 
 Your Praetor version is shown on the splash screen when the app starts, and on the **Choose an account** screen.

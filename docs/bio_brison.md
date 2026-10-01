@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 In the early morning of the 3rd day of Palut in the 294th Year of the Republic, Brison has left the City of Iridine to reunite with his family in Altene.

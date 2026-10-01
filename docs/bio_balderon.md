@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 > "The Parcines is no place for dreamers, son. You'd do well to keep that in mind."

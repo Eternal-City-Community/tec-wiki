@@ -43,19 +43,19 @@ To build a Think/OOC tab:
 **2.** Add a new tab and name it:
 
 
-```
+~~~
 Think/OOC
-```
+~~~
 
 
 **3.** Add these three include patterns, one per rule:
 
 
-```
+~~~
 ?m OOC>
 thinks aloud
 You think aloud
-```
+~~~
 
 
 **4.** Click **Save**.
@@ -65,20 +65,20 @@ To build a Combat/Skills tab:
 **1.** In **Custom Tabs** again, add a new tab and name it:
 
 
-```
+~~~
 Combat/Skills
-```
+~~~
 
 
 **2.** Add these four include patterns, one per rule:
 
 
-```
+~~~
 [Success:
 You are no longer busy
 is stunned!
 is no longer stunned
-```
+~~~
 
 
 **3.** Click **Save**.
@@ -101,10 +101,10 @@ PraetorScript is intended for short command sequences. It does not replace Lua m
 Insert a saved variable with {{${name}}}:
 
 
-```
+~~~
 kill ${target}
 get ${weapon}
-```
+~~~
 
 
 Variables are managed through the sidebar's **Variables** tab or **Esc → Automation → Variables**.
@@ -112,10 +112,10 @@ Variables are managed through the sidebar's **Variables** tab or **Esc → Autom
 Add a fallback after a colon when a variable might be empty or missing:
 
 
-```
+~~~
 count ${count:25}
 get ${weapon:gladius}
-```
+~~~
 
 
 In the case above, if {{count}} has a non-empty saved value, Praetor inserts that value. Otherwise it inserts {{25}}. A value such as {{0}} is populated and does not use the fallback.
@@ -129,9 +129,9 @@ An unknown variable without a fallback rejects the entire submission before anyt
 Separate commands with {{;;}} to send them in order using the configured chain delay:
 
 
-```
+~~~
 stand;;look;;inventory
-```
+~~~
 
 
 Praetor sends {{stand}}, waits for the configured delay, sends {{look}}, waits again, and then sends {{inventory}}.
@@ -145,9 +145,9 @@ A single semicolon is ordinary text.
 Use {{&&}} when the next command should wait for the game to report that you are ready:
 
 
-```
+~~~
 stand&&climb wall&&look
-```
+~~~
 
 
 Praetor sends {{stand}} and waits for a recognized unbusy response. After the configured response delay, it sends {{climb wall}}. The next unbusy response advances the chain to {{look}}.
@@ -179,9 +179,9 @@ Each control must occupy a complete chain step.
 ##### Wait for a duration
 
 
-```
+~~~
 look;;$(wait 2.5);;inventory
-```
+~~~
 
 
 {{$(wait 2.5)}} pauses the chain for 2.5 seconds.
@@ -191,17 +191,17 @@ The surrounding {{;;}} separators retain their normal delays. In this example, P
 The number of seconds may come from a variable or fallback:
 
 
-```
+~~~
 look;;$(wait ${pause:2.5});;inventory
-```
+~~~
 
 
 ##### Wait for game text
 
 
-```
+~~~
 search here;;$(wait-for "You find a button");;push button
-```
+~~~
 
 
 {{wait-for}} pauses until a future game line contains the quoted text. Matching is case-sensitive.
@@ -213,9 +213,9 @@ There is no automatic timeout. Use the chain's **Stop** button or **Alt+X** if t
 ##### Show a notification
 
 
-```
+~~~
 look;;$(notify "Finished looking")
-```
+~~~
 
 
 {{notify}} displays a Praetor notification and requests an operating-system desktop notification, then continues the chain.
@@ -223,17 +223,17 @@ look;;$(notify "Finished looking")
 Variables and fallbacks work inside the message:
 
 
-```
+~~~
 $(notify "${item:sought item} acquired")
-```
+~~~
 
 
 ##### Repeat until successful
 
 
-```
+~~~
 $(repeat "unlock chest with lockpick" until "You hear a click")
-```
+~~~
 
 
 {{repeat}} sends the quoted game command immediately. Each recognized unbusy response causes Praetor to send it again after the configured {{&&}} response delay.
@@ -243,9 +243,9 @@ When a future game line contains the {{until}} text, the repeat ends and the sur
 Add {{cancel-on}} when a response should stop the entire chain instead:
 
 
-```
+~~~
 $(repeat "unlock chest with lockpick" until "You hear a click" cancel-on "Your lockpick broke");;look
-```
+~~~
 
 
 In this example:
@@ -265,9 +265,9 @@ PraetorScript features can be combined in the same submission.
 This example uses variables, fallbacks, a success-aware repeat, fixed pacing, and a notification:
 
 
-```
+~~~
 $(repeat "search ${container:chest}" until "You find ${item:key}" cancel-on "You find nothing");;get ${item:key};;$(notify "${item:key} acquired")
-```
+~~~
 
 
 Praetor:
@@ -282,9 +282,9 @@ Praetor:
 This example combines unbusy-aware commands with an explicit pause:
 
 
-```
+~~~
 stand&&get ${weapon:gladius};;$(wait ${pause:2});;wield ${weapon:gladius};;$(notify "Ready")
-```
+~~~
 
 
 #### Literal syntax and quoted text
@@ -301,17 +301,17 @@ Escape PraetorScript syntax when you want to send it literally:
 Inside quoted {{$()}} arguments, escape a quote as {{\"}} and a backslash as {{\\}}:
 
 
-```
+~~~
 $(notify "The guard said \"halt\"")
-```
+~~~
 
 
 Pipes, semicolons, {{&&}}, and other punctuation inside quoted arguments are ordinary text:
 
 
-```
+~~~
 $(wait-for "Result | success ;; continue && ready")
-```
+~~~
 
 
 #### Scope and safety
@@ -363,9 +363,9 @@ With **NumLock off**, the numpad walks. With it on, the numpad types digits as u
 You can also move with the mouse. Clicking a direction on the compass walks that way, and clicking the minimap sends:
 
 
-```
+~~~
 sizeup here
-```
+~~~
 
 
 ### Slash commands
@@ -378,14 +378,14 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 | /help |  | Search game help; show input syntax, key bindings, and commands |
 | /guide |  | Open the getting-started window and Praetor wiki links |
 | /list |  | Browse the loaded modes |
-| /mode (/sm) | name> [args…] | Start a mode |
-| /toggle | label> | Toggle a mode state value |
-| /set | label> <value> | Set a mode state value |
+| /mode (/sm) | <name> [args…] | Start a mode |
+| /toggle | <label> | Toggle a mode state value |
+| /set | <label> <value> | Set a mode state value |
 | /calc (/rb) |  | Rank-bonus calculator |
 | /wiki | [name] | Open a wiki bookmark, or list them |
 | /maps | [name] | Open a map bookmark, or list them |
 | /kudos | [name] [message] | Kudos menu, add a favorite, or queue one |
-| /notes | [add@@\|@@open@@\|@@delete@@\|@@list] [title] | Notepad |
+| /notes | [add\|open\|delete\|list] [title] | Notepad |
 | /send |  | Pick a text file, expand saved variables, and send it to the game |
 | /play |  | Pick a script and perform it |
 | /pause |  | Hold the running performance |
@@ -475,10 +475,10 @@ The settings are:
 **2.** Add the exact command text, one per entry:
 
 
-```
+~~~
 stand
 retreat
-```
+~~~
 
 
 **3.** Click **Save**.
@@ -497,9 +497,9 @@ Both filters match on the **name** shown in the line, and nothing else. Someone 
 A filtered line isn't deleted. It shows in the output as a short gray placeholder, so you can tell something was hidden. If you had ignored an account called Lucilla, her OOC lines would appear as:
 
 
-```
+~~~
 [suppressed: Lucilla OOC]
-```
+~~~
 
 
 Click the placeholder to reveal that one line, or press **Alt+I** to reveal every hidden line at once. Neither turns the filter off.
@@ -539,9 +539,9 @@ Each of these has its own section further down this page.
 **2.** Add a new highlight and type the text to match. It's a case-insensitive substring, not a wildcard:
 
 
-```
+~~~
 retalq
-```
+~~~
 
 
 **3.** It's created in the **gold** style by default. Cycle its style between **red**, **gold**, **green**, and **blue**.
@@ -587,9 +587,9 @@ The notepad keeps freeform notes: plans, backstory, who owes you what. Open it w
 Notes are plain text files, one file per note, so you can edit or back them up outside Praetor. Each is titled by its first line, with the rest of the file as the body. They're shared across every account you log in with, not per character. They live in:
 
 
-```
+~~~
 ~/.config/praetor/notes/
-```
+~~~
 
 
 ### Sending a file
@@ -613,25 +613,25 @@ How the file is sent:
 Two example files. A short one, sent as a single message:
 
 
-```
+~~~
 emote straightens his tunic and steps up to the rostrum.
 say Citizens! The games begin at dusk.
 emote raises a hand for quiet.
 say Bring your coin and your courage.
-```
+~~~
 
 
 A longer one with an empty line in the middle. The empty line ends the first batch, so the second group goes out after the 250ms pause:
 
 
-```
+~~~
 get pack
 open pack
 look in pack
 
 wear cloak
 wield sword
-```
+~~~
 
 
 **/send** is refused while a play script is running, and **/play** is refused during a send, so the two can never write to the game at the same time.
@@ -667,20 +667,20 @@ Only those commands are accepted while a performance runs. Everything else is tu
 A short example, opening on the performer's own cue:
 
 
-```
+~~~
 %wait-key
 emote unrolls a heavy vellum scroll, clearing his throat.
 %wait:3s
 say Hear me, citizens of the Eternal City!
 %wait-random:4s-7s
 say By decree of the Council, the north gate shall close at moonrise.
-```
+~~~
 
 
 A second example that waits on another player. The note line is shown to you only, and the wait-for line holds until Gaius laughs or 30 seconds pass:
 
 
-```
+~~~
 # Tavern toast. Stand at the bar before starting.
 %note:Wait for Gaius to finish his story before the first line.
 %wait-key
@@ -690,7 +690,7 @@ say To Gaius, who never lets the truth spoil a good tale!
 emote drinks deeply.
 %wait-random:3s-6s
 say Another round, on me.
-```
+~~~
 
 
 For the complete script-language reference: [full play-script reference](https://github.com/cyber-godzilla/praetor/blob/main/docs/play-scripts.md).
@@ -713,9 +713,9 @@ For the complete script-language reference: [full play-script reference](https:/
 Give it a bookmark's name to open that page in your browser:
 
 
-```
+~~~
 /wiki traits
-```
+~~~
 
 
 The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmarks**.
@@ -727,9 +727,9 @@ The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmar
 **/maps** on its own lists this wiki's maps by region: Iridine, The Steps, Invex River Delta, Salinae Swamp, Eastern Grasslands, Rock Valley, Franlius, Monlon, Seld, and Cullaiden Island. Each region expands to its individual maps. Give it a map's name to open that map in your browser, for example the Sewers and Sea Caves map:
 
 
-```
+~~~
 /maps sewers
-```
+~~~
 
 
 The same list is under **Tools & References**, as **Map Bookmarks**.
@@ -749,10 +749,10 @@ The training-cost section shows the Basics and Subskill rank changes and the cos
 **/kudos** opens the kudos window. It has a **Favorites** list of names you kudos often, and a **Queue** of name-and-message pairs waiting to be sent. When the queue has entries, the window offers **Send** to send them all. From the input, a name alone adds a favorite, and a name with a message queues a kudos:
 
 
-```
+~~~
 /kudos Lucilla
 /kudos Lucilla Thanks for the escort through the swamp.
-```
+~~~
 
 
 #### Help
@@ -767,17 +767,17 @@ The training-cost section shows the Basics and Subskill rank changes and the cos
 Session transcripts are turned on or off with the **Session transcript logging** setting and moved with the **Log path** setting. They're written to:
 
 
-```
+~~~
 ~/.config/praetor/logs/
-```
+~~~
 
 
 The app log (startup, connection, and error detail, not a copy of the game text) is at:
 
 
-```
+~~~
 ~/.local/state/praetor/tec.log
-```
+~~~
 
 
 ![](https://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-persistent-data.png)
@@ -791,17 +791,17 @@ To see what your modes have saved between sessions:
 Exports land in:
 
 
-```
+~~~
 ~/.config/praetor/exports/
-```
+~~~
 
 
 On Windows, the tilde is your user folder, so the config folder is:
 
 
-```
+~~~
 C:\Users\<you>\.config\praetor
-```
+~~~
 
 
 ### See also

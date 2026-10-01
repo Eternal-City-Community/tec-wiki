@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 My black flowing cloak ruffled slightly as I stepped into a broad cobblestone street. Gazing about, I am amazed at the prestigously built walls of Iridine. I was amazed to see this highly talked about city. Having just come from a hunting party, I reeked of things long dead. The layer of filth and grime that clung to my body was unimagineably thick from weaks of very poor hygene. I finally made it to this city by shear luck, after days of blindly stumbling along.

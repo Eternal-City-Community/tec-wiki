@@ -38,112 +38,113 @@ Most leatherworking projects are completed through a series of recipes. Individu
 | Recipes | Difficulty |  |  |
 | Basic Leatherworking | - | 94 |  |
 | Knee-high Leather Boots Recipe | Easy | 10 |  |
-| @@   @@ Leather Knee Boot Body Recipe | Easy | 10 |  |
-| @@   @@ Leather Knee Boot Shaft Recipe | Easy | 10 |  |
-| @@   @@ Leather Knee Boot Sole Recipe | Easy | 10 |  |
-| @@   @@ Leather Knee Boot Strap Recipe | Easy | 10 |  |
-| @@   @@ Leather Knee Boot Vamp Recipe | Easy | 10 |  |
+|     Leather Knee Boot Body Recipe | Easy | 10 |  |
+|     Leather Knee Boot Shaft Recipe | Easy | 10 |  |
+|     Leather Knee Boot Sole Recipe | Easy | 10 |  |
+|     Leather Knee Boot Strap Recipe | Easy | 10 |  |
+|     Leather Knee Boot Vamp Recipe | Easy | 10 |  |
 | Knife Sheath Recipe | Easy | 10 |  |
-| @@   @@ Knife Sheath Body Recipe | Easy | 10 |  |
+|     Knife Sheath Body Recipe | Easy | 10 |  |
 | Leather Backpack Recipe | Easy | 10 |  |
-| @@   @@ Leather Backpack Body Recipe | Easy | 10 |  |
-| @@   @@ Leather Backpack Flap Recipe | Easy | 10 |  |
-| @@   @@ Leather Backpack Shell Recipe | Easy | 10 |  |
-| @@   @@ Leather Backpack Strap Recipe | Easy | 10 |  |
+|     Leather Backpack Body Recipe | Easy | 10 |  |
+|     Leather Backpack Flap Recipe | Easy | 10 |  |
+|     Leather Backpack Shell Recipe | Easy | 10 |  |
+|     Leather Backpack Strap Recipe | Easy | 10 |  |
 | Leather Baldric Recipe | Easy | 10 |  |
-| @@   @@ Baldric Band Recipe | Easy | 10 |  |
-| @@   @@ Baldric Cinch Strap Recipe | Easy | 10 |  |
+|     Baldric Band Recipe | Easy | 10 |  |
+|     Baldric Cinch Strap Recipe | Easy | 10 |  |
 | Leather Belt Recipe | Easy | 10 |  |
-| @@   @@ Leather Belt Strip Recipe | Easy | 10 |  |
+|     Leather Belt Strip Recipe | Easy | 10 |  |
 | Leather Belt Hoop Recipe | Easy | 10 |  |
-| @@   @@ Belt Hoop Strip Recipe | Easy | 10 |  |
+|     Belt Hoop Strip Recipe | Easy | 10 |  |
 | Leather Breeches Recipe | Easy | 10 |  |
-| @@   @@ Leather Breeches Back Recipe | Easy | 10 |  |
-| @@   @@ Leather Breeches Body Recipe | Easy | 10 |  |
-| @@   @@ Leather Breeches Front Recipe | Easy | 10 |  |
-| @@   @@ Leather Breeches Strap Recipe | Easy | 10 |  |
+|     Leather Breeches Back Recipe | Easy | 10 |  |
+|     Leather Breeches Body Recipe | Easy | 10 |  |
+|     Leather Breeches Front Recipe | Easy | 10 |  |
+|     Leather Breeches Strap Recipe | Easy | 10 |  |
 | Leather Cuirass Recipe | Easy | 10 |  |
-| @@   @@ Cuirass Back Recipe | Easy | 10 |  |
-| @@   @@ Cuirass Body Recipe | Easy | 10 |  |
-| @@   @@ Cuirass Front Recipe | Average | 10 |  |
-| @@   @@ Cuirass Strap Recipe | Easy | 10 |  |
+|     Cuirass Back Recipe | Easy | 10 |  |
+|     Cuirass Body Recipe | Easy | 10 |  |
+|     Cuirass Front Recipe | Average | 10 |  |
+|     Cuirass Strap Recipe | Easy | 10 |  |
 | Leather Falcata Scabbard Recipe | Easy | 10 |  |
-| @@   @@ Falcata Scabbard Length Recipe | Easy | 10 |  |
+|     Falcata Scabbard Length Recipe | Easy | 10 |  |
 | Leather Fighting Harness Recipe | Easy | 10 |  |
-| @@   @@ Fighting Harness Chest Band Recipe | Easy | 10 |  |
-| @@   @@ Fighting Harness Left Panel Recipe | Easy | 10 |  |
-| @@   @@ Fighting Harness Right Panel Recipe | Easy | 10 |  |
-| @@   @@ Fighting Harness Strap Recipe | Easy | 10 |  |
+|     Fighting Harness Chest Band Recipe | Easy | 10 |  |
+|     Fighting Harness Left Panel Recipe | Easy | 10 |  |
+|     Fighting Harness Right Panel Recipe | Easy | 10 |  |
+|     Fighting Harness Strap Recipe | Easy | 10 |  |
 | Leather Gauntlets Recipe | Easy | 10 |  |
-| @@   @@ Gauntlets Back Plate Recipe | Easy | 10 |  |
-| @@   @@ Gauntlets Body Recipe | Easy | 10 |  |
-| @@   @@ Gauntlets Cuff Recipe | Easy | 10 |  |
-| @@   @@ Gauntlets Finger Recipe | Easy | 10 |  |
-| @@   @@ Gauntlets Palm Recipe | Easy | 10 |  |
-| @@   @@ Gauntlets Strap Recipe | Easy | 10 |  |
+|     Gauntlets Back Plate Recipe | Easy | 10 |  |
+|     Gauntlets Body Recipe | Easy | 10 |  |
+|     Gauntlets Cuff Recipe | Easy | 10 |  |
+|     Gauntlets Finger Recipe | Easy | 10 |  |
+|     Gauntlets Palm Recipe | Easy | 10 |  |
+|     Gauntlets Strap Recipe | Easy | 10 |  |
 | Leather Gloves Recipe | Easy | 10 |  |
-| @@   @@ Leather Gloves Back Recipe | Easy | 10 |  |
-| @@   @@ Leather Gloves Front Recipe | Easy | 10 |  |
+|     Leather Gloves Back Recipe | Easy | 10 |  |
+|     Leather Gloves Front Recipe | Easy | 10 |  |
 | Leather Greaves Recipe | Easy | 10 |  |
-| @@   @@ Greaves Plates Recipe | Easy | 10 |  |
-| @@   @@ Greaves Strap Recipe | Easy | 10 |  |
+|     Greaves Plates Recipe | Easy | 10 |  |
+|     Greaves Strap Recipe | Easy | 10 |  |
 | Leather Hat Recipe | Easy | 10 |  |
-| @@   @@ Leather Hat Brim Recipe | Easy | 10 |  |
-| @@   @@ Leather Hat Crown Recipe | Easy | 10 |  |
+|     Leather Hat Brim Recipe | Easy | 10 |  |
+|     Leather Hat Crown Recipe | Easy | 10 |  |
 | Leather Helmet Recipe | Easy | 10 |  |
-| @@   @@ Helmet Browguard Recipe | Easy | 10 |  |
-| @@   @@ Helmet Cheekguard Recipe | Easy | 10 |  |
-| @@   @@ Helmet Chinstrap Recipe | Easy | 10 |  |
-| @@   @@ Helmet Crown Recipe | Easy | 10 |  |
-| @@   @@ Helmet Neckguard Recipe | Easy | 10 |  |
+|     Helmet Browguard Recipe | Easy | 10 |  |
+|     Helmet Cheekguard Recipe | Easy | 10 |  |
+|     Helmet Chinstrap Recipe | Easy | 10 |  |
+|     Helmet Crown Recipe | Easy | 10 |  |
+|     Helmet Neckguard Recipe | Easy | 10 |  |
 | Leather Pouch Recipe | Easy | 10 |  |
-| @@   @@ Leather Pouch Square Recipe | Easy | 10 |  |
+|     Leather Pouch Square Recipe | Easy | 10 |  |
 | Leather Quiver Recipe | Easy | 10 |  |
-| @@   @@ Quiver Length Recipe | Easy | 10 |  |
-| @@   @@ Quiver Strap Recipe | Easy | 10 |  |
+|     Quiver Length Recipe | Easy | 10 |  |
+|     Quiver Strap Recipe | Easy | 10 |  |
 | Leather Scabbard Recipe | Easy | 10 |  |
-| @@   @@ Gladius Scabbard Length Recipe | Easy | 10 |  |
+|     Gladius Scabbard Length Recipe | Easy | 10 |  |
 | Leather Thigh Greaves Recipe | Easy | 10 |  |
-| @@   @@ Thigh Greaves Plates Recipe | Easy | 10 |  |
-| @@   @@ Thigh Greaves Strap Recipe | Easy | 10 |  |
+|     Thigh Greaves Plates Recipe | Easy | 10 |  |
+|     Thigh Greaves Strap Recipe | Easy | 10 |  |
 | Leather Tunic Recipe | Easy | 10 |  |
-| @@   @@ Leather Tunic Back Recipe | Easy | 10 |  |
-| @@   @@ Leather Tunic Body Recipe | Easy | 10 |  |
-| @@   @@ Leather Tunic Front Recipe | Easy | 10 |  |
-| @@   @@ Leather Tunic Sleeve Recipe | Easy | 10 |  |
+|     Leather Tunic Back Recipe | Easy | 10 |  |
+|     Leather Tunic Body Recipe | Easy | 10 |  |
+|     Leather Tunic Front Recipe | Easy | 10 |  |
+|     Leather Tunic Sleeve Recipe | Easy | 10 |  |
 | Leather Vest Recipe | Easy | 10 |  |
-| @@   @@ Leather Vest Back Recipe | Easy | 10 |  |
-| @@   @@ Leather Vest Body Recipe | Easy | 10 |  |
-| @@   @@ Leather Vest Left Recipe | Easy | 10 |  |
-| @@   @@ Leather Vest Right Recipe | Easy | 10 |  |
+|     Leather Vest Back Recipe | Easy | 10 |  |
+|     Leather Vest Body Recipe | Easy | 10 |  |
+|     Leather Vest Left Recipe | Easy | 10 |  |
+|     Leather Vest Right Recipe | Easy | 10 |  |
 | Leather Waistguard Recipe | Easy | 10 |  |
-| @@   @@ Waistguard Back Panel Recipe | Easy | 10 |  |
-| @@   @@ Waistguard Front Panel Recipe | Easy | 10 |  |
-| @@   @@ Waistguard Hanging Strap Recipe | Easy | 10 |  |
-| @@   @@ Waistguard Strap Recipe | Easy | 10 |  |
+|     Waistguard Back Panel Recipe | Easy | 10 |  |
+|     Waistguard Front Panel Recipe | Easy | 10 |  |
+|     Waistguard Hanging Strap Recipe | Easy | 10 |  |
+|     Waistguard Strap Recipe | Easy | 10 |  |
 | Left Leather Manica Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Hand Guard Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Plate Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Shoulder Guard Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Strap Recipe | Easy | 10 |  |
+|     Leather Manica Hand Guard Recipe | Easy | 10 |  |
+|     Leather Manica Plate Recipe | Easy | 10 |  |
+|     Leather Manica Shoulder Guard Recipe | Easy | 10 |  |
+|     Leather Manica Strap Recipe | Easy | 10 |  |
 | Open-Toed Leather Sandal Recipe | Average | 10 |  |
-| @@   @@ Leather Sandal Sole Recipe | Easy | 10 |  |
-| @@   @@ Leather Sandal Strap Recipe | Easy | 10 |  |
+|     Leather Sandal Sole Recipe | Easy | 10 |  |
+|     Leather Sandal Strap Recipe | Easy | 10 |  |
 | Right Leather Manica Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Hand Guard Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Plate Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Shoulder Guard Recipe | Easy | 10 |  |
-| @@   @@ Leather Manica Strap Recipe | Easy | 10 |  |
+|     Leather Manica Hand Guard Recipe | Easy | 10 |  |
+|     Leather Manica Plate Recipe | Easy | 10 |  |
+|     Leather Manica Shoulder Guard Recipe | Easy | 10 |  |
+|     Leather Manica Strap Recipe | Easy | 10 |  |
 | Shoulder Pteryges Recipe | Easy | 10 |  |
-| @@   @@ Shoulder Pteryges Left Strips Recipe | Easy | 10 |  |
-| @@   @@ Shoulder Pteryges Length Recipe | Easy | 10 |  |
-| @@   @@ Shoulder Pteryges Right Strips Recipe | Easy | 10 |  |
-| @@   @@ Shoulder Pteryges Strap Recipe | Easy | 10 |  |
+|     Shoulder Pteryges Left Strips Recipe | Easy | 10 |  |
+|     Shoulder Pteryges Length Recipe | Easy | 10 |  |
+|     Shoulder Pteryges Right Strips Recipe | Easy | 10 |  |
+|     Shoulder Pteryges Strap Recipe | Easy | 10 |  |
 | Stiff Leather Pteryges Recipe | Easy | 10 |  |
-| @@   @@ Pteryges Back Strips Recipe | Easy | 10 |  |
-| @@   @@ Pteryges Front Strips Recipe | Easy | 10 |  |
-| @@   @@ Pteryges Length Recipe | Easy | 10 |  |
-| @@   @@ Pteryges Strap Recipe | Easy | 10 |  |
+|     Pteryges Back Strips Recipe | Easy | 10 |  |
+|     Pteryges Front Strips Recipe | Easy | 10 |  |
+|     Pteryges Length Recipe | Easy | 10 |  |
+|     Pteryges Strap Recipe | Easy | 10 |  |
+
 
 </details>
 
@@ -172,7 +173,7 @@ Before performing actions such as [stitching](#Stitch-Pattern), your needle must
 
 <div class="skill-template">
 
-@@>@@ *thread need with my thread*
+> *thread need with my thread*
 You thread a silver sewing needle with a spiraled grip carefully with a spool of undyed homespun wool thread.
 
 </div>
@@ -188,7 +189,7 @@ What is a tailor to do with the remnants of their spools of thread? Combine them
 
 <div class="skill-template">
 
-@@>@@ *knot spool with 2 spool*
+> *knot spool with 2 spool*
  You knot a spool of undyed homespun wool thread carefully with a spool of undyed homespun wool thread.
 
 </div>

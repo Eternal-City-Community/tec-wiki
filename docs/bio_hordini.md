@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The man wept. He watched as all his home, all his memories, all his past was destroyed by the hungry, dancing flames. And he remembered....

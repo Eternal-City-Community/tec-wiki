@@ -27,21 +27,21 @@ Below you'll find everything important to know about using Slings.
 *  **Don't learn Slings**, they suck.
 
 
-```
+~~~
 > ammo
 USAGE: ammo bows|slings <ammo type>|none
 You have not specified any preferred ammunition.
 > ammo slings lead bullet
 Your ammunition preference for slings has been set to an lead bullet.
-```
+~~~
 
 
-```
+~~~
 > load
 USAGE: load <sling> with <bullet_type>
 >load sling with lead
 You load a military sling with a lead bullet.
-```
+~~~
 
 
 ##### Archery Target Locations
@@ -64,12 +64,13 @@ This is the list of Slings & Bullets that are recommended to use when using the 
 
 | Weapons | How to get it | Est. cost in shops |
 | --- | --- | --- |
-| A sling | Sold by [Shantaz](/shops/) ([Seld](/seld/)) | 182d |
+| A sling | Sold by [Shantaz](/shops/) ([Seld](/village-of-seld/)) | 182d |
 | Bullets | How to get it | Est. cost in shops (50 bullets) |
 | Sling stones | Buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
 | Ceramic Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
 | Iron Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
 | Lead Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
+
 
 #### Summary
 In most serious cases you'll want a to use **lead bullets**.
@@ -106,6 +107,7 @@ A rank of **1 signifies the best** in this category. All ammo has the same speed
 | Iron Sling Bullets | 1 |  | 1 |  |
 | Ceramic Sling Bullets | 1 |  | 1 |  |
 | Sling stones | 1 |  | 1 |  |
+
 
 #### Ammo Weight
 | Ammo | Weight Rank | Weight (per 50 bullets) |

@@ -9,7 +9,7 @@
 The Legio is Iridine's military arm and has been a formal institution since the days of Kings. Historically, armed service was the duty of every citizen in the Republic (with the exception of the Head Count class), as the [Comitia Centuriata](/comitia-centuriata/) and property classes attest. It has been reorganized more recently to reflect the Republic's newest enemies and to allow for additional manpower as the wars with Iridine's neighbors and barbarian tribes continue. It now hosts a number of foreigners and citizens alike all striving to defend, and extend, the Republic's land and influence. Those who survive may find great rewards through either monetary gain or citizenship for their time served.
 
 This military organization is responsible for upholding the **[law](/law/)** within its jurisdiction as well as working with other [law keepers](/orgs/).
-@@ @@
+ 
 > **Oath of Service**
 > The Legionary swears his life to the oath he takes upon graduating from a recruit class. This oath is precious and should it be broken, the legionary who breaks it shall be punished accordingly and their name added to annals of dishonour.
 > 
@@ -38,21 +38,10 @@ To view the current organization leaders, use the **officials** command.
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Legio I |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | 1^^st^^ Cohort _ |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  | 1^^st^^ Cohort<br><br>**Rearing Stallion** | 2^^nd^^ Cohort<br><br>**Wild Dog** | 3^^rd^^ Cohort<br><br>**Snarling Wildcat** | 4^^th^^ Cohort<br><br>**Charging Bull** | 5^^th^^ Cohort<br><br>**Leaping Dolphin** | 6^^th^^ Cohort<br><br>**Rampant Lion** | 7^^th^^ Cohort<br><br>**Snarling Badger** | 8^^th^^ Cohort<br><br>**Howling Wolf** | 9^^th^^ Cohort<br><br>**Diving Falcon** | 10^^th^^ Cohort<br><br>**Striking Snake** |  |  |  |  |
+|  | 1^^st^^ Century (**Eagle**) | ... | 6^^th^^ Century |  |  |  |  |  |  |  |  | 1^^st^^ - 6^^th^^ Centuries *(per Cohort)* |  |  |  |  |
+| Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |  |  |  |  |
 
-**Rearing Stallion** ||= 2^^nd^^ Cohort _
-**Wild Dog** ||= 3^^rd^^ Cohort _
-**Snarling Wildcat** ||= 4^^th^^ Cohort _
-**Charging Bull** ||= 5^^th^^ Cohort _
-**Leaping Dolphin** ||= 6^^th^^ Cohort _
-**Rampant Lion** ||= 7^^th^^ Cohort _
-**Snarling Badger** ||= 8^^th^^ Cohort _
-**Howling Wolf** ||= 9^^th^^ Cohort _
-**Diving Falcon** ||= 10^^th^^ Cohort _
-**Striking Snake**
-|  | 1^^st^^ Century (**Eagle**) | ... | 6^^th^^ Century |  |  |  |  |  |  |  |  | 1^^st^^ - 6^^th^^ Centuries *(per Cohort)* |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |
 
 [[f<image https://eternal-city.wdfiles.com/local--files/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg]]
 
@@ -132,7 +121,7 @@ Recruitments are held periodically for **Legio I**, as Legio II is active and in
 
 
 ### Policy
-Due to both the fear of a military coup and the tradition that citizens put down the plow, fight, and then return as private citizens, the Legio is not allowed to wield their weapons while within the city walls unless in matters of self defense or upon request for law enforcement purposes. Their training is conducted in the [Campus Martius](/campus-martius/), just beyond the walls and across the River Invex. Their primary fort is outside the village of [Vetallun](/vetallun/).
+Due to both the fear of a military coup and the tradition that citizens put down the plow, fight, and then return as private citizens, the Legio is not allowed to wield their weapons while within the city walls unless in matters of self defense or upon request for law enforcement purposes. Their training is conducted in the [Campus Martius](/campus-martius/), just beyond the walls and across the River Invex. Their primary fort is outside the village of [Vetallun](/town-of-vetallun/).
 
 
 ### History

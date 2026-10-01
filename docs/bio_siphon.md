@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I grew up in Remath. I spent many a day studying and learning. My mind grew with knowledge and I was smarter then most adults by the time I was 12. My uncle gave me a tin dagger to learn how to fight with incase I needed too. I used in occasionally, but wasn't good with in when I was young.

@@ -1,3 +1,5 @@
 # Transinvexium East
 
-> **Migration note:** Wikidot module `Redirect` omitted.
+<meta http-equiv="refresh" content="0; url=/transinvexium/">
+
+This page has moved to [/transinvexium/](/transinvexium/).

@@ -5,7 +5,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  -->
-[![](https://eternal-city.wikidot.com/local--files/files/Monlon_2022-11-25.png)](https://eternal-city.wikidot.com/local--files/files/Monlon_2022-11-25.png)
+[![](/local--files/files/Monlon_2022-11-25.png/)](/local--files/files/Monlon_2022-11-25.png/)
 
 
 **Related Maps**
@@ -14,8 +14,8 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 * [Monlon Battlefield](/monlon-battlefield/)
 * [Monlon Rockslide](/monlon-rockslide/)
 * [Monlon Mines](/monlon-mines/)
-* [Vetallun](/vetallun/)
-* [Seld](/seld/)
+* [Vetallun](/town-of-vetallun/)
+* [Seld](/village-of-seld/)
 * [Town of Rock Valley](/town-of-rock-valley-map/)
 
 **Guide**

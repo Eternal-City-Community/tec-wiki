@@ -4,7 +4,7 @@
 * All retalq weapons have a significantly improved chance for critical hits.
 
 
-+* Skill Sets
+## Skill Sets
 
 **No known changes** were made to the following skillsets: **Archery**, **Cestus**, **Combat Maneuvers**, **Falx**, **Cineran Knife Fighting**, **One-Handed Axes**, **One-Handed Crushing**, **One-Handed Swords**, **Avros**, **Nelsor**, **Pardelian**, **Shields**, **Spears**, **Tridents** & **Two Handed Axes**.
 
@@ -40,7 +40,7 @@
 ## New Self Training Chart
 
 
-```
+~~~
 New mingains look like this: 
                   0-750 = 0.025
                 751-850 = 0.020
@@ -60,4 +60,4 @@ New mingains look like this:
                 25000-99999 = base * 1.10
                      >99999 = base * 1.00
 * base threshold SP = 310
-```
+~~~

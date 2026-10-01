@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Sibyl was born in Altene on..well, that doesn't matter. One should never ask a girls age anyway. She had loving parents, though she slightly resented their choice in fighting, but knew it was her, and their, heritage. Though both of her parents were experienced stavespeople, Sibyl refused to even touch a stave.

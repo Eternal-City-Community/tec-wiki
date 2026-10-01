@@ -43,13 +43,13 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 | [Shield Missile Defense](#mDef) | Difficult | - | - | 100 | 100 | 110 | - | 85 | 90 | 100 | 100 | 154 | 500 | 175 |  |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
-**Directions to Hroth** ([Stromheim](/stromheim/)): Travel to Stromheim through the [Rock Valley](/rock-valley/) wilderness.
+**Directions to Hroth** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 **Directions to Majell** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, Nx3
 **Directions to Cottus** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx2, W
-**Directions to Cula** ([Blackvine](/blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx4, Ex3, N
-**Directions to Cralus** ([Blackvine](/blackvine/)): Walk to Blackvine, Ex4, Sx5, Wx2, S
-**Directions to Vashren** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, W
-**Directions to Concinnant** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, Wx3, N, W
+**Directions to Cula** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx4, Ex3, N
+**Directions to Cralus** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, Ex4, Sx5, Wx2, S
+**Directions to Vashren** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W
+**Directions to Concinnant** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, Wx3, N, W
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 **Directions to Varga** ([Monlon](/monlon/)): Travel to Monlon from Rock Valle or Vetallun / Seld Ferry route.
 
@@ -158,7 +158,7 @@ Cottus bashes upward at a thug with the foot of his shield!
 You slam the upper rim of the shield or buckler at the opponent. Typically this is aimed at the opponent's face or head, but you can also try to surprise them with an edge bash aimed low. The force of this attack is capable of stunning them momentarily and unlike the other shield attacks, delivers cutting damage as oppose to bruising.
 
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 

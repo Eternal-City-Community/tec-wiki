@@ -23,6 +23,7 @@ Languages are closely linked and often derived from the various [countries of Mi
 | Spoken Kelestian | [Monlon Battlefield](#Kelestian) |
 | Steps Lingo | [Eastern Steps](#Lingo) |
 
+
 *These are not the only languages within the world of Midlight, though **some are not so commonly known** due to their links to [religious heresy and false gods](/religion/)*.
 
 <a id="Learning"></a>
@@ -66,6 +67,7 @@ Every attempt to echo your tutor will earn you language SP. How much is based on
 | 76 - 80 | 0.030 |
 | 81 - 90 | 0.020 |
 | 91 - 95 | 0.010 |
+
 
 ### Switching Languages
 By default, every character in Midlight speaks in the **common** tongue. If you've mastered additional languages, you can speak and write in other tongues. Mastering a language means you've earned **50 ranks** in that language, allowing you to speak and understand it fluently. If you have not mastered a language, you cannot speak it and you may only understand bits and pieces from someone speaking it.

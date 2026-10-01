@@ -15,7 +15,7 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 
 
 |  EXAMPLE=
- @@>@@ *make torch with tinder*
+ > *make torch with tinder*
  **TBC**
 
 ]]
@@ -31,56 +31,13 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 2 _
 | Rank | Torch description | Torch quality |
 | --- | --- | --- |
-| Rank 1 | somewhat crude _ |  |
-
-somewhat simple _
-simple || below average _
-below average - average _
-average
-| Rank 10 | somewhat crude _ |
-| --- | --- |
-
-somewhat simple _
-simple || below average _
-below average - average _
-average
-| Rank 20 | somewhat simple _ |
-| --- | --- |
-
-simple _
-somewhat well-crafted || average _
-average _
-excellently made
-| Rank 30 | simple _ |
-| --- | --- |
-
-somewhat well-crafted _
-well-crafted || average _
-excellently made _
-excellently made - made by an expert
-| Rank 40 | somewhat well-crafted _ |
-| --- | --- |
-
-well-crafted _
-very well-crafted || excellently made _
-excellently made - made by an expert _
-made by an expert
-| Rank 50 | somewhat well-crafted _ |
-| --- | --- |
-
-well-crafted _
-very well-crafted _
-finely crafted || excellently made _
-excellently made - made by an expert _
-made by an expert _
-made by a master craftsman
-| Rank 60 | well-crafted _ |
-| --- | --- |
-
-very well-crafted _
-finely crafted || made by an expert _
-made by an expert _
-made by a master craftsman
+| Rank 1 | somewhat crude<br><br>somewhat simple<br><br>simple | below average<br><br>below average - average<br><br>average |
+| Rank 10 | somewhat crude<br><br>somewhat simple<br><br>simple | below average<br><br>below average - average<br><br>average |
+| Rank 20 | somewhat simple<br><br>simple<br><br>somewhat well-crafted | average<br><br>average<br><br>excellently made |
+| Rank 30 | simple<br><br>somewhat well-crafted<br><br>well-crafted | average<br><br>excellently made<br><br>excellently made - made by an expert |
+| Rank 40 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert |
+| Rank 50 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted<br><br>finely crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
+| Rank 60 | well-crafted<br><br>very well-crafted<br><br>finely crafted | made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
 3
 4
 5** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*
@@ -89,7 +46,7 @@ made by a master craftsman
 
 <div class="skill-template">
 
-@@>@@ *make torch with tinder*
+> *make torch with tinder*
  **TBC**
 
 </div>

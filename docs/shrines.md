@@ -21,17 +21,17 @@ Shrines can be found around the Republic for various [deities](/religion/). Most
 * [Shrine (Steps Sewers)](/the-steps-sewers/) **(8)**
 
 #### Vetallun
-* [Shrine (Beside Fiona)](/vetallun/)
+* [Shrine (Beside Fiona)](/town-of-vetallun/)
 
 #### Seld
-* [Shrine (Seld)](/seld/)
+* [Shrine (Seld)](/village-of-seld/)
 * [Shrine (Black Hand Caverns)](/black-hand-caverns/)
 
 
 #### Rock Valley
 * [Shrine (Near Piroska)](/town-of-rock-valley-map/)
 * [Altar (Fenri'Gifr Ruins)](/fenri-gifr-ruins/)
-* [Shrine of The Sun Father (Stromheim)](/stromheim/)
+* [Shrine of The Sun Father (Stromheim)](/village-of-stromheim/)
 
 
 #### Monlon

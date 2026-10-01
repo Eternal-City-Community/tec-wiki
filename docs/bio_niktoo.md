@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Niktoo was born In the city of Iridine, sometime nineteen years ago. No one really knows when he was born, His mother a Prostitute and his father , well you get the picture. His mother was around long enough to name him and see him out the door at the ripe age of 10. Very young and very afraid, Niktoo found himself in a world that was not suitable for most cutthroats, let alone a young boy. He came from the harbors and spent most of his time scouring the coastal alleys looking for food, and clothing he could sell to make a meager living. Many a time he found himself faced staring at some of the worlds most vile beings. 

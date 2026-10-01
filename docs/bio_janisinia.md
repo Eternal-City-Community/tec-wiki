@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The rich merchant Joseph Kiljaro and his wife Meretta of Windward had already gave birth to three sons, and were expecting another one. They were a little more than surprised to discover that this "son" turned out to be a daughter. Despite this setback, Janisinia still grew up like her brothers did...they were allowed to choose what they wanted to do in their lives. At first, she tried working at the Windward Hospice, but wasn't very interested in healing, and got sick at the sight of blood and broken bones. She gave up working there and stayed around the house, doing sterotypical "boy" chores. Of all of her brothers, she was closest to her oldest, Pepper.

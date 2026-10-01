@@ -33,19 +33,11 @@ Though spears have often been used in conjunction with shields, most who special
 | [Spear Impale](#Impale) | Difficult | 2 | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
 | [Spear Sweep](#Sweep) | Difficult | 2 | Either | - | - | 300 | 125 | 300 | 500 | 154 |
 | [Spear Round Strike](#Rstrike) | Impossible | 2 | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Parting Jab](#Pjab) | Easy | Either | Short | Pierce | 10 Ranks in [Spear Jab](#Jab) _ |  |  |  |  |  |
-
-*or* _
-10 Ranks in [Spear Stab](#Stab)|| 300 || 125 ||= 300 || 500 ||= 154
+| [Spear Parting Jab](#Pjab) | Easy | Either | Short | Pierce | 10 Ranks in [Spear Jab](#Jab)<br><br>*or*<br><br>10 Ranks in [Spear Stab](#Stab) | 300 | 125 | 300 | 500 | 154 |
 | [Spear Upward Slash](#Upslash) | Average | 2 | Either | Cut | 20 Ranks in [Spear Slash](#Slash) | 300 | 125 | 300 | 500 | 154 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Spear Parting Slash](#Pslash) | Average | 2 | Short | Cut | 40 Ranks in [Spear Slash](#Slash) | 300 | 125 | - | 500 | 154 |
-| [Spear Stepping Stab](#Sstab) | Average | Either | Either | Pierce _ |  |  |  |  |  |  |
-
-Pierce || 40 Ranks in [Spear Jab](#Jab) _
-40 Ranks in [Spear Stab](#Stab)  || 300 || 125 || - || 500 ||= 154
+| [Spear Stepping Stab](#Sstab) | Average | Either | Either | Pierce<br><br>Pierce | 40 Ranks in [Spear Jab](#Jab)<br><br>40 Ranks in [Spear Stab](#Stab) | 300 | 125 | - | 500 | 154 |
 | [Spear Simple Block](#Sblock) | Easy | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Spear Butt Block](#Bblock) | Easy | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
 | [Spear Rotation Block](#Rotation) | Difficult | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
 | [Spear Rounding Block](#Rblock) | Difficult | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
@@ -54,8 +46,8 @@ Pierce || 40 Ranks in [Spear Jab](#Jab) _
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Uiseann** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Sx5, Ex3, Sx2, W, Sx3, Ex12, S, E, N
-**Directions to Regul** ([Vetallun](/vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, Nx3, Wx5, S, W
-**Directions to Concinnant** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, Wx3, N, W 
+**Directions to Regul** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, Nx3, Wx5, S, W
+**Directions to Concinnant** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, Wx3, N, W 
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning

@@ -1,7 +1,7 @@
 # Franlius Release
 
 ### Release
-Release Post from [the TEC Forums](http://forum.skotos.net/showthread.php?t=105431) - Originally Posted by GM Tale.
+Release Post from [the TEC Forums](https://forum.skotos.net/showthread.php?t=105431) - Originally Posted by GM Tale.
 
 #### Franlius!
 

@@ -27,38 +27,14 @@ The falcata is a versatile weapon that could be used for both hacking and thrust
 | [Falcata Feint](#feint) | Average | Either | Short | - | - | 200 | 500 |
 | [Falcata Leg Strike](#legstrike) | Average | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
 | [Falcata Wide Strike](#wstrike) | Average | Either | Short | Pierce | [Falcata Striker's Stance](#stance) | 200 | 500 |
-| [Falcata Smash and Slash](#smash) | Average | 1 | Short | Bruise _ |  |  |  |
-
-Cut ||= Wielded **Shield** ||= 200 ||= 500
-| [Falcata Guarded Charge](#charge) | Average | 1 | Long | Pierce | Wielded **Shield** _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Falcata Lunge](#lunge)  ||= 200 ||= 500
-| [Falcata Triple Strike](#tstrike) | Average | Either | Short | Cut _ |
-| --- | --- | --- | --- | --- |
-
-Cut _
-Pierce ||= *No Shield* _
-[Falcata Striker's Stance](#stance) _
-10 Ranks in [Falcata Chop](#chop) _
-10 ranks in [Falcata Slash](#slash) _
-10 ranks in [Falcata Stab](#stab) ||= 200 ||= 500
-| [Falcata Heavy Slash](#hslash) | Average | Either | Short | Cut | [Falcata Striker's Stance](#stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-30 Ranks in [Falcata Slash](#slash) ||= 200 ||= 500
+| [Falcata Smash and Slash](#smash) | Average | 1 | Short | Bruise<br><br>Cut | Wielded **Shield** | 200 | 500 |
+| [Falcata Guarded Charge](#charge) | Average | 1 | Long | Pierce | Wielded **Shield**<br><br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
+| [Falcata Triple Strike](#tstrike) | Average | Either | Short | Cut<br><br>Cut<br><br>Pierce | *No Shield*<br><br>[Falcata Striker's Stance](#stance)<br><br>10 Ranks in [Falcata Chop](#chop)<br><br>10 ranks in [Falcata Slash](#slash)<br><br>10 ranks in [Falcata Stab](#stab) | 200 | 500 |
+| [Falcata Heavy Slash](#hslash) | Average | Either | Short | Cut | [Falcata Striker's Stance](#stance)<br><br>30 Ranks in [Falcata Slash](#slash) | 200 | 500 |
 | [Falcata Sudden Stab](#sustab) | Average | Either | Either | Pierce | 40 Ranks in *[# Falcata]* | 200 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| [Falcata Tumble Slash](#tslash) | Difficult | Either | Long | Cut | *No Shield* _ |  |  |
-
-[Falcata Striker's Stance](#stance) _
-20 Ranks in [Falcata Lunge](#lunge) ||= 200 ||= 500
-| [Falcata Feigning Thrust](#fthrust) | Difficult | Either | Short | - | [Falcata Striker's Stance](#stance) _ |
-| --- | --- | --- | --- | --- | --- |
-
-20 Ranks in [Falcata Feint](#feint) ||= 200 ||= 500
+| [Falcata Tumble Slash](#tslash) | Difficult | Either | Long | Cut | *No Shield*<br><br>[Falcata Striker's Stance](#stance)<br><br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
+| [Falcata Feigning Thrust](#fthrust) | Difficult | Either | Short | - | [Falcata Striker's Stance](#stance)<br><br>20 Ranks in [Falcata Feint](#feint) | 200 | 500 |
 | [Falcata Simple Block](#simple-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | [Falcata Wrist Block](#wrist-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
 | [Falcata Overhead Block](#overhead-block) | Average | Either | - | - | *No Shield* | 200 | 500 |
 | [Falcata Round Block](#round-block) | Average | Either | - | - | *No Shield* | 200 | 500 |
@@ -489,7 +465,7 @@ You swiftly lower your tin falcata and sweep outward, blocking a woman in a hood
 
 ### Falcata Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](http://eternal-city.wikidot.com/stats#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -498,6 +474,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Falcata Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](http://eternal-city.wikidot.com/stats#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

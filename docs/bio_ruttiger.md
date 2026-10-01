@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 The shadows stirred slightly in the darkened alley. If one closely, he would see the figure of a young man clutching a small knife.

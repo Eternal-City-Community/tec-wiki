@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 'Dad,' a shy eight year old Alriic slowly walked into his fathers shop. His father's slight frown turned to a smile as he looked up from his work. He turned to face his gangly son and put down his tools. Daslin reached over and ruffled his sons hair,

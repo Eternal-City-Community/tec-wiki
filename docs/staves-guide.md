@@ -73,6 +73,7 @@ A rank of **1 signifies the best** in this category.
 | An Altene double mace | 2 |  |  |  |
 | [ReForged] An Altene double mace | 1 |  |  |  |
 
+
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
@@ -88,6 +89,7 @@ A rank of **1 signifies the best** in this category.
 | A fangstave |  |
 | An dursc fangstave |  |
 | A bronze-capped quarterstave |  |
+
 
 #### Weapon Speed
 
@@ -105,6 +107,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | An iron-capped quarterstave |  |  |  |  |
 | An Altene double mace |  |  |  |  |
 
+
 #### Weapon Weight
 | Weapon | Weight Rank | Weight (lbs) |
 | --- | --- | --- |
@@ -115,6 +118,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | A dursc fangstave | 2 | 6 |
 | A bronze-capped quarterstave | 2 | 6 |
 | An Altene double mace | 3 | 10 |
+
 
 ### Moves
 #### Worthwhile

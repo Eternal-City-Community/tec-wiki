@@ -1,51 +1,39 @@
 # Test
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
-!!! note "Migrated include"
-    This page originally included `:scp-wiki:component:collapsible-sidebar` on Wikidot. The transcluded content still needs review.
+> **Archive include:** [:scp-wiki:component:collapsible-sidebar](/_scp-wiki_component_collapsible-sidebar/)
 
 
 ## ListPages
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.
 
 
 ## Orphaned Pages
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `ListPages` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module listpages was not portable and has been omitted.
 
 
 ## PageTree
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `PageTree` module here. This dynamic section needs a replacement on the new wiki.
+> **Archive note:** Wikidot module pagetree was not portable and has been omitted.
 
 
-!!! note "Migrated include"
-    This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.
+> **Archive include:** [:snippets:suo](/_snippets_suo/)
 
 
 **Hello Dragaxus!!!**
 
 
-!!! note "Migrated include"
-    This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.
+> **Archive include:** [:snippets:suo](/_snippets_suo/)
 
 
-!!! note "Migrated include"
-    This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.
+> **Archive include:** [:snippets:suo](/_snippets_suo/)
 
 
 **Hello Everybody Else!!!**
 
 
-!!! note "Migrated include"
-    This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.
+> **Archive include:** [:snippets:suo](/_snippets_suo/)

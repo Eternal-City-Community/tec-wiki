@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born seventeen years ago in the Territory of Altene, Vladmir Zhukov was the only son of a proud and loving couple. He had not lived long when his inquisitve, yet gentle nature and preference for solitude marked him as an unlikely warrior.

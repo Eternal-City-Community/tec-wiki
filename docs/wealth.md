@@ -49,10 +49,10 @@ In addition to the value of individual coins, there is the *"Talent"* unit of cu
 **Note:** You can **convert currency** on this wiki using the **[money calculator](/money-calculator/)** or by using the **in-game** command: **convert <#> <coin type> to <new coin type>**.
 
 
-```
+~~~
 > convert 250 denars to cents
 250 denars is equal to 10 cents.
-```
+~~~
 
 
 <a id="tokens"></a><a id="Nehal"></a>
@@ -74,6 +74,7 @@ The wealth command **does not** work with this currency.
 | Pentak | Bronze |
 | Shekel | Silver |
 
+
 <a id="banking"></a>
 ### [#](#banking)Banking
 Several banking institutions exist in Iridine, such as Seneda's Iridine Bank. Banking institutions that are linked allow transfers of money, between characters or between banking locations, for a fee. Funds may take approximately an hour to appear when transferred between locations.
@@ -83,9 +84,9 @@ Several banking institutions exist in Iridine, such as Seneda's Iridine Bank. Ba
 * [City of Iridine (Steps)](/the-steps-north/)
 * [City of Monlon](/monlon/)
 * [Town of Rock Valley](/town-of-rock-valley-map/)
-* [Town of Vetallun](/vetallun/)
-* [Village of Blackvine](/blackvine/)
-* [Village of Seld](/seld/)
+* [Town of Vetallun](/town-of-vetallun/)
+* [Village of Blackvine](/village-of-blackvine/)
+* [Village of Seld](/village-of-seld/)
 
 
 While inside a banking institution, these features are available using the bank command.

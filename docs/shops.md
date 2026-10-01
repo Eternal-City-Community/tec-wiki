@@ -9,8 +9,7 @@ You can search by item or shopkeeper name.
 **Note on *Franlius* Shopkeepers:**
 
 
-!!! note "Migrated include"
-    This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.
+The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 <head>
@@ -795,10 +794,6 @@ function filter(searchStrArray) {
    Not working? Enable javascript, use a different browser, or go to the <a href="https://eternal-city.wikidot.com/shops-old">old shops page</a>.
 </div>
 <div id="page-buffer" style="height:400px;" />
-
-
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
 
 
 Loading...

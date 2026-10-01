@@ -2,7 +2,7 @@
 
 ## Undertown <a id="Top"></a>
 
-Within [Rock Valley](/rock-valley/), mysterious, cryptic words are scrawled into the walls of a derelict building, providing would-be adventurous some hints as to how to navigate the area known as **Undertown**. As one ventures deeper down each level, challenges increase dramatically with difficulty. 
+Within [Rock Valley](/town-of-rock-valley/), mysterious, cryptic words are scrawled into the walls of a derelict building, providing would-be adventurous some hints as to how to navigate the area known as **Undertown**. As one ventures deeper down each level, challenges increase dramatically with difficulty. 
 
 This hunting ground consists over multiple levels. There are mechanics in place to **prevent a lone player from being able to descend without aide**. There are also several ***Boss Rooms*** along the way.
 

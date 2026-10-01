@@ -9,24 +9,24 @@ Those marked with ??? at the end need to be verified.
 ## [#](#Buyers)Buyers
 ### Carcass Buyers
 * **Caprarius** ([Transinvexium](/transinvexium/))
-* **Jalgris** ([Vetallun](/vetallun/))
+* **Jalgris** ([Vetallun](/town-of-vetallun/))
 * **Tauruu** ([Town of Rock Valley](/town-of-rock-valley/))
-* **Orentho** ([Stromheim](/stromheim/))
-* **Brantax** - pelts and hides ([Seld](/seld/))
+* **Orentho** ([Stromheim](/village-of-stromheim/))
+* **Brantax** - pelts and hides ([Seld](/village-of-seld/))
 
 
 ### Container Buyers (chests, coffers, etc.)
 * Apula ([Bronze Lane](/bronze-lane/))
-* Ititia ([Blackvine](/blackvine/))
-* Admina ([Rock Valley](/rock-valley/))
-* Fefellus ([Vetallun](/vetallun/))
+* Ititia ([Blackvine](/village-of-blackvine/))
+* Admina ([Rock Valley](/town-of-rock-valley/))
+* Fefellus ([Vetallun](/town-of-vetallun/))
 
 
 ### Fish Market
 * Polonia ([Harbor](/harbor/))
 * Sarrichim ([City of Monlon](/city-of-monlon/))
-* Nornius ([Blackvine](/blackvine/))
-* Flumen ([Seld](/seld/))
+* Nornius ([Blackvine](/village-of-blackvine/))
+* Flumen ([Seld](/village-of-seld/))
 
 
 <a id="Gem-Buyer"></a>
@@ -48,9 +48,9 @@ Those marked with ??? at the end need to be verified.
  * Bulk Assistant: **Ylsa**
 * Maciavus ([Quartz Heights](/quartz-heights/))
 * Keltemas ([Town of Rock Valley](/town-of-rock-valley/))
-* Otinus  ([Vetallun](/vetallun/))
-* Brantax ([Seld](/seld/))
-* Lundraus ([Blackvine](/blackvine/)) - Southeast of square
+* Otinus  ([Vetallun](/town-of-vetallun/))
+* Brantax ([Seld](/village-of-seld/))
+* Lundraus ([Blackvine](/village-of-blackvine/)) - Southeast of square
 
 
 ### Metal Buyers
@@ -68,8 +68,8 @@ Those marked with ??? at the end need to be verified.
 * **Grathus** [Bronze] ([City of Monlon](/city-of-monlon/))
 * **Jovinus** [Bronze] ([City of Monlon](/city-of-monlon/)) 
 * **Lepidus** [Iron] ([City of Monlon](/city-of-monlon/)) 
-* **Concinnant** [Bronze | Iron] ([Seld](/seld/))
-* Grindla [Non-rare metals] ([Blackvine](/blackvine/))
+* **Concinnant** [Bronze | Iron] ([Seld](/village-of-seld/))
+* Grindla [Non-rare metals] ([Blackvine](/village-of-blackvine/))
 
 
 <a id="Inns"></a>
@@ -101,16 +101,16 @@ Those marked with ??? at the end need to be verified.
  * 13 denars per night.
 * Julima (Warm Haven Insula, [The Steps South](/the-steps-south/))
  * 14 denars per night.
-* Bandus (Perry Inn, [Vetallun](/vetallun/))
+* Bandus (Perry Inn, [Vetallun](/town-of-vetallun/))
  * 30 denars per night.
-* Caesia (The Old Goat, [Vetallun](/vetallun/))
+* Caesia (The Old Goat, [Vetallun](/town-of-vetallun/))
 * Picus (Dew Drop Inn, [Town of Rock Valley](/town-of-rock-valley/))
  * Double quality room: 17 denars 2 sterces per night.
 * Elat'kazu (Mighty Magris Inn, [Town of Rock Valley](/town-of-rock-valley/))
 * Primarian (Barbarian's Feet Inn, [Town of Rock Valley](/town-of-rock-valley/))
 * Quillia (Lost Amulet Inn, [City of Monlon](/city-of-monlon/))
-* Elum (Pickled Kidney Inn, [Blackvine](/blackvine/))
-* Mnelos (Blue Breakwater Inn, [Seld](/seld/))
+* Elum (Pickled Kidney Inn, [Blackvine](/village-of-blackvine/))
+* Mnelos (Blue Breakwater Inn, [Seld](/village-of-seld/))
 
 
 ## Recovery
@@ -119,10 +119,10 @@ Those marked with ??? at the end need to be verified.
 * Hillus (Riverside Baths, [Riverside](/riverside/))
 * Laum (Corralarium, [Sandbar](/sandbar/))
 * Rayna ([Monlon](/monlon/))
-* BVM Baths ([Blackvine](/blackvine/))
+* BVM Baths ([Blackvine](/village-of-blackvine/))
 * Natreia ([Town of Rock Valley](/town-of-rock-valley/))
-* Eva ([Vetallun](/vetallun/))
-* Argium ([Franlius](/franlius/))
+* Eva ([Vetallun](/town-of-vetallun/))
+* Argium ([Franlius](/town-of-franlius/))
 * Nirvius ([The Steps Central](/the-steps-central/))
 * Penchal - Singing Bird Inn ([Quartz Heights](/quartz-heights/))
 
@@ -131,35 +131,35 @@ Those marked with ??? at the end need to be verified.
 * Ellyndel ([Gardens and Hospice](/gardens-and-hospice/))
 * Hilla ([Town of Rock Valley](/town-of-rock-valley/))
 * Cogita (Temple, [City of Monlon](/city-of-monlon/))
-* Mortima ([Franlius](/franlius/))
-* Hathrus ([Vetallun](/vetallun/))
+* Mortima ([Franlius](/town-of-franlius/))
+* Hathrus ([Vetallun](/town-of-vetallun/))
 
 <a id="Healers"></a>
 ### [#](#Healers)Healers
 * Melilia ([Gardens and Hospice](/gardens-and-hospice/))
 * Sinon ([Town of Rock Valley](/town-of-rock-valley/))
 * Cipus ([City of Monlon](/city-of-monlon/))
-* Fiona ([Vetallun](/vetallun/))
-* Tullaria ([Franlius](/franlius/))
-* Vai'Ran ([Blackvine](/blackvine/))
+* Fiona ([Vetallun](/town-of-vetallun/))
+* Tullaria ([Franlius](/town-of-franlius/))
+* Vai'Ran ([Blackvine](/village-of-blackvine/))
 
 <a id="Vendors"></a>
 ## [#](#Vendors)Vendors
 ### Reputation
-* Fama ([Vetallun](/vetallun/))
+* Fama ([Vetallun](/town-of-vetallun/))
 * Romulus ([Monlon](/monlon/))
 
 
 ## Weapons
 ### Weapon Enhancement
-* Ferrarias (Reforge, [Franlius](/franlius/))
-* Ghendrahda (Runic, [Stromheim](/stromheim/))
+* Ferrarias (Reforge, [Franlius](/town-of-franlius/))
+* Ghendrahda (Runic, [Stromheim](/village-of-stromheim/))
 
 
 ### Weapon Repair
 * Thimaro (tin, [Bronze Lane](/bronze-lane/))
 * Bibulus (bronze, [Bronze Lane](/bronze-lane/))
-* Bragran (bronze, [Vetallun](/vetallun/))
+* Bragran (bronze, [Vetallun](/town-of-vetallun/))
 * Cadmus (iron, [Bronze Lane](/bronze-lane/))
 * Ignius (alanti, boison, retalq, [Bronze Lane](/bronze-lane/))
 * Kaltil (wood, [Town of Rock Valley](/town-of-rock-valley/))
@@ -176,7 +176,7 @@ Those marked with ??? at the end need to be verified.
 
 ## Barber/Hairdresser
 * Krinus (Barber, [Quartz Heights](/quartz-heights/))
-* Staisos (Barber, [Blackvine](/blackvine/))
+* Staisos (Barber, [Blackvine](/village-of-blackvine/))
 
 
 ## Misc.

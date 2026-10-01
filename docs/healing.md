@@ -25,14 +25,16 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 | [Remove Splint](#Remove-Splint) | Easy | 100 | 150 | 30 | 80 |
 | [Apply Tourniquet](#Apply-Tourniquet) | Average | 100 | 150 | 30 | 80 |
 | [Remove Tourniquet](#Remove-Tourniquet) | Easy | 100 | 150 | 30 | 80 |
+
 |  | Healing Lores |  |  |  | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- |
 | Lores | Difficulty | Iskara | Cipus | Piroska | Tullaria |
 | [Pressure Wound Technique](#Pressure-Wound-Technique) | Easy | 25 | 25 | 25 | - |
 
 **Directions to Iskara** ([Iridine](/gardens-and-hospice/)): Walk to Hospice, Nx7, Wx1, Nx1
 **Directions to Piroska** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex15, S, W
 
-**Directions to Tullaria** ([Franlius](/franlius/)): Take the ship to Franlius from Blackvine. She's on the docks.
+**Directions to Tullaria** ([Franlius](/town-of-franlius/)): Take the ship to Franlius from Blackvine. She's on the docks.
 **--Directions to Cipus-- (Currently Unavailable)** ([Monlon](/monlon/)): Take the ferry to Monlon, Nx3, W, N, NW, W, Nx3, NEx2, Nx2, NE, Nx2, Wx3, NW, NEx3, N, NWx3, W, SWx2, NWx2, NE, Nx3, U, N, Ex3, S
 
 #### Notes on Learning
@@ -60,7 +62,7 @@ You can also tend a patient **thoroughly** to get more detailed information abou
 
 <div class="skill-template">
 
-@@>@@ *tend me*
+> *tend me*
  You examine yourself.
  On a quick examination, you determine that your right hand and left hand need to be diagnosed and tended; General Health: Uninjured.
  (You should now DIAGNOSE each wounded body part to get more information.)
@@ -70,7 +72,7 @@ You can also tend a patient **thoroughly** to get more detailed information abou
 You will be busy for nine more seconds.
 
 
- @@>@@ *tend me thorough*
+ > *tend me thorough*
  You examine yourself thoroughly.
  On a quick examination, you determine that your right hand and left hand need to be diagnosed and tended; Your waist has been stitched. General Health: Uninjured.
  Gilven appears to be somewhat dehydrated.
@@ -93,10 +95,10 @@ Diagnosing can give a healer more information about a specific type of wound. Di
 
 <div class="skill-template">
 
-@@>@@ *diagnose neck*
+> *diagnose neck*
 [Success: 48, Roll: 83] His neck is unwounded. This part does not need bandaging. There are no stitches on this part.
 
- @@>@@ *diagnose left hand*
+ > *diagnose left hand*
  You gently probe at the wound with your fingers.
  [Success: 48, Roll: 67] Her left hand is slashed open. It is bleeding. There are no broken bones. Her left hand is encrusted with filth. This part needs new bandages. There are no stitches on this part.
 
@@ -117,7 +119,7 @@ Bandages can be removed and reapplied, which makes this an excellent skill to pr
 
 <div class="skill-template">
 
-@@>@@ *bandage left hand with bandage*
+> *bandage left hand with bandage*
  [Success: 1, Roll: 47] You wrap a clean bandage around your left hand.
 
 </div>
@@ -133,13 +135,13 @@ Bandages can restrict a character's movement, so ofttimes bandage removal is req
 
 <div class="skill-template">
 
-@@>@@ *cut bandage from head*
+> *cut bandage from head*
  [Success: 1, Roll: 68] You remove the bandages from your head.
 
- @@>@@ *cut bandage from r hand*
+ > *cut bandage from r hand*
 [Success: 1, Roll: 44] You remove the bandages from your right hand.
 
- @@>@@ *cut bandage from left foot*
+ > *cut bandage from left foot*
 [Success: 1, Roll: 68] You remove the bandages from your left foot.
 
 </div>
@@ -164,7 +166,7 @@ Even without any training, it is possible to pull an arrow from someone but if y
 
 <div class="skill-template">
 
-@@>@@ *yank arrow from left arm*
+> *yank arrow from left arm*
  [Success: 71, Roll: 99] You carefully pull the arrow from a thug's left arm, causing minimal damage.
 
 </div>
@@ -180,7 +182,7 @@ Administer can be used to feed medicine, food, or beverages to characters unable
 
 <div class="skill-template">
 
-@@>@@ *feed fish to thug*
+> *feed fish to thug*
  [Success: 37, Roll: 87] You feed a fat, oily fish to a thug.
 
 </div>
@@ -194,13 +196,13 @@ Stitching is the only way to fully close a wound when it is bleeding. Cleaning t
 
 **Tools Required:** a surgical needle; suture thread
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **Perception** & **Reasoning**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Perception** & **Reasoning**.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *stitch left hand with thread*
+> *stitch left hand with thread*
  [Success: 18, Roll: 23] You carefully hold your left hand closed and stitch it shut.
 
 </div>
@@ -216,7 +218,7 @@ Stitches get itchy after a while, which can become an irritating distraction, wh
 
 <div class="skill-template">
 
-@@>@@ *cut stitches from right shin*
+> *cut stitches from right shin*
  [Success: 36, Roll: 42] You carefully remove the stitches from your right shin.
 
 </div>
@@ -234,7 +236,7 @@ Cleaning wounds is great practice, given that you have a large supply of antisep
 
 <div class="skill-template">
 
-@@>@@ *clean left hand with antiseptic*
+> *clean left hand with antiseptic*
  [Success: 5, Roll: 54] You clean your left hand.
 
 </div>
@@ -252,13 +254,13 @@ Apply salves & gels to injured body parts. The more knowledgeable you are with t
 
 <div class="skill-template">
 
-@@>@@ *get vial*
+> *get vial*
 You take a small stoppered clay vial labeled 'Painkiller Salve'.
 
- @@>@@ *apply gel to left hand*
+ > *apply gel to left hand*
  [Success: 1, Roll: 20] You apply some rich green gel to your left hand. As you apply some rich green gel to your left hand, your skin numbs and the pain recedes slightly.
 
- @@>@@ *apply gel to left hand*
+ > *apply gel to left hand*
  [Success: 1, Roll: 99] You apply some rich green gel to your left hand. As you apply some rich green gel to your left hand, your skin numbs and the pain recedes quite a bit.
 
 </div>
@@ -274,7 +276,7 @@ Before a broken bone can heal, it should be set and splinted. Setting bones is d
 
 <div class="skill-template">
 
-@@>@@ *align right hand*
+> *align right hand*
  [Success: 73, Roll: 91] Gritting your teeth, you pull and twist the bones of a thug's right hand back into their proper alignment.
 
 </div>
@@ -290,7 +292,7 @@ Before a broken bone can heal, it should be set and splinted. Splinting bones is
 
 <div class="skill-template">
 
-@@>@@ *splint right shoulder with splint*
+> *splint right shoulder with splint*
  [Success: 37, Roll: 62] You strap a wooden splint to a woman in a hooded cloak's right shoulder, holding it firmly in place.
 
 </div>
@@ -306,7 +308,7 @@ Removing splints is very similar to removing bandages and stitches. When you suc
 
 <div class="skill-template">
 
-@@>@@ *cut splint from right hand*
+> *cut splint from right hand*
  [Success: 23, Roll: 57] You cut away the splint from a woman in a hooded cloak's right hand.
 
 </div>
@@ -321,7 +323,7 @@ To attempt to stem the flow of blood from a wound you must ensure your patient i
 Applying pressure to a wound on your own body is more difficult. Lay down and do your best to pressure the wound with both hands where possible. To stop applying pressure, just type .
 
 |  EXAMPLE=
- @@>@@ *pressure waist*
+ > *pressure waist*
  [Success: 18, Roll: 99] Carefully positioning your hands you apply pressure to the wound on your waist.
 
 ]]

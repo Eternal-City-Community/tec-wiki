@@ -3,14 +3,14 @@
 <a id="Top"></a>
 ### **Getting Started:** 
 
-![](https://eternal-city.wikidot.com/local--files/files/The%20Road%20-%20Final.jpg)
+![](/local--files/files/The%20Road%20-%20Final.jpg/)
 
 
 <a id="GettingStarted"></a>
 
 #### **Create a character!**
 
-Welcome to The Eternal City! The first thing you'll want to do is to create a character. For more information regarding the character generator please visit this page: [Character Generator](/character-generator/). The [National Bonuses](/national-bonuses/) and [Traits](/traits/) pages will also offer helpful information regarding character creation. The various skillsets available at character creation will have a strong impact on your character's life and you should choose the one that best fits your playing style as well as your character's back story. The [Midlight](/game-world/) page offers insight on the various homelands from which your character will originate and it is very important for you to read the various countries' information to help your character fit in with the gameworld's lore. You can visit the [How to create a backstory](/how-to-create-a-backstory/) (not yet added) to help you construct your character's past history.
+Welcome to The Eternal City! The first thing you'll want to do is to create a character. For more information regarding the character generator please visit this page: [Character Generator](/character-generator/). The [National Bonuses](/national-advantages/) and [Traits](/traits/) pages will also offer helpful information regarding character creation. The various skillsets available at character creation will have a strong impact on your character's life and you should choose the one that best fits your playing style as well as your character's back story. The [Midlight](/game-world/) page offers insight on the various homelands from which your character will originate and it is very important for you to read the various countries' information to help your character fit in with the gameworld's lore. You can visit the [How to create a backstory](/how-to-create-a-backstory/) (not yet added) to help you construct your character's past history.
 ---
 #### **In Character or Out of Character?**
 When you’re exploring the world of Midlight, you’ll be playing a role—pretending that you’re a different person in a different place. Thus, while within the world of The Eternal City, you should be sure to stay In Character (IC). Other players will appreciate this courtesy. This means that you should act like your character would act, and do your best not to react to any knowledge that your character would not know. (This is particularly important if you decide to play multiple characters at a later time.) Don’t talk about your personal life or about your local weather or about how the Cubs lost the Pennant again. If you want to discuss those Out Of Character topics, you can do so in the Welcome Area of The Eternal City, which you’ll see whenever you log in or 

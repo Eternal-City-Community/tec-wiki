@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Hello, you all must know me as that foolhardy thief, but i have my reasons. When i was born i was orphaned by my Cineran parents. Unlike my brothers and sisters i never new my parents. I was taken in by a poor farmer's wife when i was just a baby. I never had enough to eat and had to steal just for a decent meal. Unlike his wife, the farmer was a ver cruel man, often beating me. That is why at the age of five I decided to run away. I soon found my way to Altene where I lived on the streets. This is where i learned to use my stave and developed my thieving skills into an art. I learned how to speak Altene along with my native tongue, Cineran. Before I was 7 years old i was caught stealing from a shopkeeper and was going to be arrested, but i fled. I came upon Iridine and it seemed to be a good city, for my purposes. I soon learned better. The connies are even worse here in Iridine. And that one constable Ox, man when he hits you with his club *winces* it hurts. When i was 12, I learned how to cut pouches (a skill which i don't use frequently, but is always good to know). Over the years i became better with my stave and my 'other skill'. Bla bla bla, a bunch of stuff you don't wanna know about. At 16 i was thrown in jail, again, and i saw that beautiful little thing Kylara. I couldn't keep my eyes off her, but apparently in Iridine that means you raping someone*laughs*. Well thats pretty much my story, until something else interesting happens, and i guarantee something will. *smirks*

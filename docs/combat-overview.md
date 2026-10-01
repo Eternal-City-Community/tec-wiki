@@ -50,12 +50,13 @@ To determine your Rank Bonus, you can use the [Rank Bonus Calculator](/rank-bonu
 | 501-1000 | Grand Master | +0.025 per rank |
 | 1001+ | Grand Master | +0.01 per rank |
 
+
 #### Basics & Sub-Skills
 You rank bonus in a move can be calculated as such.
 
-```
+~~~
 RB = ([RB in Basics] * [sub-skill difficulty modifier]) + [RB in sub-skill]
-```
+~~~
 
 
 Your RB in a skill is determined by the Rank Bonus from your Basics skill + your Rank Bonus in the actual sub-skill itself. For example, if you know One-Handed Swords, your ranks in the basics One-Handed Swords skillset will offer a bonus to your One-Handed Swords Jab sub-skill. The rank bonus offered to your sub-skill is dependent upon the difficulty of the sub-skill itself. Sub-skills are: Easy, Average, Difficult and Impossible. Harder maneuvers will not only cost more Skill Points, but they will also receive a much lower bonus from your Basics skill.
@@ -86,6 +87,7 @@ There are five stances that allow you to balance your fighting style.
 | Wary | 25% | 75% |
 | Defensive | 0% | 100% |
 
+
 [Back to Top](#Top)
 
 #### 'Fighting'
@@ -97,6 +99,7 @@ There are five stances that allow you to balance your fighting style.
 | Fight half-serious | 50% |
 | Fight barely-serious | 25% |
 | Fight toyingly | 10% |
+
 
 [Back to Top](#Top)
 
@@ -112,6 +115,7 @@ Only applies to humanoids.
 | Attacks | jab | chop | jab (-30) | swat | jab (-10)[-40] |
 | Attacks | jab | chop | swat | jab (-20) | slash |
 | Attacks | jab | chop | swat | slash | jab (-10) |
+
 
 [Back to Top](#Top)
 
@@ -139,6 +143,7 @@ When aiming at specific body parts, the penalty is greater, but if you connect y
 | Right thigh, Left thigh | -30 |
 | Right shin, Left Shin | -55 |
 | Right foot, Left foot | -65 |
+
 
 [Back to Top](#Top)
 
@@ -185,11 +190,15 @@ Itchy stitches will show as irritated, *"The aging stitches in your left thigh i
 | Bandages | -4 defense per bandage |
 | Stitches | -5 offense per *itchy* stitch |
 | Splints |  |
+
+
 | Current Hit Points % | Penalty |
+| --- | --- |
 | 100% | None |
 | 75% | -10 offense |
 | 50% | -20 offense + 400% fatigue loss |
 | 25% | -30 offense + 600% fatigue loss |
+
 
 [Back to Top](#Top)
 

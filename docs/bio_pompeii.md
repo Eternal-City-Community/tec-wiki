@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Pompeii Gnaeus has lived in Iridine for all thirty-six years of his life. He became a member of the Constables at the age of eighteen. He enforced and upheld the law for another eighteen years, during that period being promoted to the rank of Captain and later being appointed to supervise the training of new recruits. Pompeii was involved in a number of infamous investigations including the recent cases concerning Maran, M'kerron, Makar, Dytan, and Cerrus. Recent rumors of bribery and abuse of power, encouraged by a drinking problem and short temper, have tainted a once spotless career. In the 215th year of the People, Pompeii was suspended after a incident involving an elderly merchant woman. The details are known to only a handful of people, though many claim to know the full story, as to what followed.

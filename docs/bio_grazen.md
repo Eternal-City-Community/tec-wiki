@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I was born in Altene to a scout in the Altene army. I was trained to kill rabbits and such with a short bow from a very young age. My father was Iridinian and my mother Altene, knowing that the bow was not the weapon most commonly associated with and Altene Warrior my mother ensured that I had been trained in the use of a stave as well. My childhood was filled with happy memories. My father would come home as often as he could from scouting at the front. I remember listening to his stories of the great battles with the Cinerians and how on one occasion he had killed a cinner officer with an arrow to the neck. He told me of the high arcs that the seas of arrows made as they fired over the swordsman's heads deep into the enemy ranks and how much the men of the Altene army appreciated the bowsmen that they did have. His stories never failed to fill me with the desire to join him. As I grew up I trained harder and harder, however I was impatient and still not yet old enough to join him in the field of battle.

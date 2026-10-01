@@ -25,43 +25,21 @@ I'll not deny the existance of the other staves maneuvers popping up about the c
 | [Staves Defensive Sweep](#DSweep) | Average | 2 | Either | - | 40 Ranks in [Staves Leg Sweep](#Sweep) | 175 | 300 | 95 | - |
 | [Staves Parting Jab](#Pjab) | Easy | Either | Short | Bruise | 10 Ranks in [Staves End Jab](#Jab) | 175 | 300 | 95 | - |
 | [Staves Parting Swat](#Pswat) | Easy | Either | Short | Bruise | 10 Ranks in [Staves Swat](#Swat) | 175 | 300 | 95 | - |
-| [Staves Parting Smash](#Psmash) | Average | Either | Short | Bruise | 20 Ranks in [Staves Pivot Smash](#Smash) _ |  |  |  |  |
-
-20 Ranks in [Staves Parting Swat](#Pswat) || 175 || 300 || 95 || -
-| [Staves Stepping Spin](#SSpin) | Average | 2 | Either | Bruise _ |
-| --- | --- | --- | --- | --- |
-
-Bruise _
-Bruise || 40 Ranks in [Staves Parting Jab](#Pjab) _
-40 Ranks in [Staves Parting Swat](#Pswat) _
-40 Ranks in [Staves Parting Smash](#Psmash) || 175 || 300 || 95 || -
+| [Staves Parting Smash](#Psmash) | Average | Either | Short | Bruise | 20 Ranks in [Staves Pivot Smash](#Smash)<br><br>20 Ranks in [Staves Parting Swat](#Pswat) | 175 | 300 | 95 | - |
+| [Staves Stepping Spin](#SSpin) | Average | 2 | Either | Bruise<br><br>Bruise<br><br>Bruise | 40 Ranks in [Staves Parting Jab](#Pjab)<br><br>40 Ranks in [Staves Parting Swat](#Pswat)<br><br>40 Ranks in [Staves Parting Smash](#Psmash) | 175 | 300 | 95 | - |
 | [Staves Simple Block](#Sblock) | Easy | 2 | - | - | - | 175 | 300 | 95 | 40 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Staves Crossblock](#Cblock) | Average | 2 | - | - | - | 175 | 300 | 95 | 40 |
 | [Staves Overhead Block](#Oblock) | Average | 2 | - | - | - | 175 | 300 | 95 | 40 |
 | [Staves Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | - | - |
 | [Staves Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | - | - |
 |  |  |  |  |  |  |  |  |  | Custom Skills |
 | [Staves Snap Strike](#Snapstrike) | Average | 2 | Either | Bruise | - | - | - | - | - |
-| [Staves Sweep and Strike](#Sweepandstrike) | Difficult | 2 | Either | Bruise | 10 Ranks in [Staves Leg Sweep](#Sweep) _ |  |  |  |  |
-
-10 Ranks in [Staves Swat](#Swat) || - || - || - || -
-| [Staves Spinstrike](#Spinstrike) | Difficult | 2 | Either | Bruise _ |
-| --- | --- | --- | --- | --- |
-
-Bruise _
-Bruise || 40 Ranks in [Staves Snap Strike](#Snapstrike) || - || - || - || -
-| [Staves Triple Bash](#Triplebash) | Difficult | 2 | Either | Bruise _ |
-| --- | --- | --- | --- | --- |
-
-Bruise _
-Bruise || 20 Ranks in [Staves Pivot Smash](#Smash) _
-10 Ranks in [Staves Snap Strike](#Snapstrike) || - || - || - || -
+| [Staves Sweep and Strike](#Sweepandstrike) | Difficult | 2 | Either | Bruise | 10 Ranks in [Staves Leg Sweep](#Sweep)<br><br>10 Ranks in [Staves Swat](#Swat) | - | - | - | - |
+| [Staves Spinstrike](#Spinstrike) | Difficult | 2 | Either | Bruise<br><br>Bruise<br><br>Bruise | 40 Ranks in [Staves Snap Strike](#Snapstrike) | - | - | - | - |
+| [Staves Triple Bash](#Triplebash) | Difficult | 2 | Either | Bruise<br><br>Bruise<br><br>Bruise | 20 Ranks in [Staves Pivot Smash](#Smash)<br><br>10 Ranks in [Staves Snap Strike](#Snapstrike) | - | - | - | - |
 | [Staves Whirling Block](#Wblock) | Difficult | 2 | - | - | - | - | - | - | - |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Staves Pivoting Longarm](#Pivotinglongarm) | Difficult | Either | Long | Bruise | 20 Ranks in [Staves Pivot Smash](#Smash) _ |  |  |  |  |
+| [Staves Pivoting Longarm](#Pivotinglongarm) | Difficult | Either | Long | Bruise | 20 Ranks in [Staves Pivot Smash](#Smash)<br><br>20 Ranks in [Staves Longarm Strike](#Longarm) | - | - | - | - |
 
-20 Ranks in [Staves Longarm Strike](#Longarm) || - || - || - || -
 **Directions to Rook** ([Monlon](/monlon/)): Take the ferry to Monlon, Nx3, W, N, NW, W, Nx3, NEx2, S
 **Directions to Leda** ([Riverside, Iridine](/riverside/)): Walk to Toga, W, SW, S, E
 **Directions to Pelias** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx2, W
@@ -437,7 +415,7 @@ Antaeus deflects a thug's spear with his quarterstave, twirling it masterfully i
 
 ### Staves Pivoting Longarm  *pivot <target>*
 
-A little known staves maneuver **created by** [Constable Shara](http://eternal-city.wikidot.com/bio:shara), Pivoting Longarm combines the one-handed power strike of Longarm Strike with the pivoting motion of Pivot Smash to increase the power even more. This maneuver is the strongest single strike available to the stave, being able to give major bruises with a very poor stave provided by Rufus. It can easily fracture bones with a more adequate stave. Pivoting Longarm is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
+A little known staves maneuver **created by** [Constable Shara](/bio_shara/), Pivoting Longarm combines the one-handed power strike of Longarm Strike with the pivoting motion of Pivot Smash to increase the power even more. This maneuver is the strongest single strike available to the stave, being able to give major bruises with a very poor stave provided by Rufus. It can easily fracture bones with a more adequate stave. Pivoting Longarm is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
 **When you see this in use you see:**
 

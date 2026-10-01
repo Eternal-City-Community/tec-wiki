@@ -39,17 +39,17 @@ This is the list of weapons that can be used by the 2HA skill set.
 | --- | --- | --- |
 | Two-Handed Wooden Axe | [Usius](/shops/) ([Bronze Lane](/iridine/)) | 95d |
 | Two-Handed Tin Axe **[RF]** | [Apecuia](/newbie-office/) ([Officium de Humanitas](/newbie-office/)). | 44d 1st 1s + 19 Pebbles |
-| Two-Handed Tin Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/stromheim/)) | 25 tokens or NPC loot. |
-| Two-Handed Bronze Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/stromheim/)) | 200 tokens or NPC loot. |
+| Two-Handed Tin Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 25 tokens or NPC loot. |
+| Two-Handed Bronze Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 200 tokens or NPC loot. |
 | Two-Handed Alanti Axe **[RF]** | Occasionally sold by [Nayden](/shops/) ([Iridine Forum](/forum/)) | 4-6t |
-| Two-Handed Iron Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/stromheim/)) | 600 tokens |
+| Two-Handed Iron Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 600 tokens |
 | Two-Handed Boison Axe **[RF]** | Occasionally sold by [Nayden](/shops/) ([Iridine Forum](/forum/)) | 40-60t |
-| Blackroot war-axe (iron) **[RF]** | [Grouthar](/shops/) ([Stromheim](/stromheim/)) | 1200 tokens |
-| Tin Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/seld/)) | 950d or NPC loot. |
-| Bronze Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/seld/)) | 2t 675d |
-| Iron Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/seld/)) | 24t 500d |
-| Boison Pick Axe **[RF]** | Sold by [Nominis](/shops/) ([Seld](/seld/)) | 43t (+[Reputation#Seld](/reputation/#Seld)) |
-| Retalq Pick Axe | Sold by [???](/shops/) ([Vetallun](/vetallun/)) | ??? |
+| Blackroot war-axe (iron) **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 1200 tokens |
+| Tin Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 950d or NPC loot. |
+| Bronze Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 2t 675d |
+| Iron Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 24t 500d |
+| Boison Pick Axe **[RF]** | Sold by [Nominis](/shops/) ([Seld](/village-of-seld/)) | 43t (+[Reputation#Seld](/reputation/#Seld)) |
+| Retalq Pick Axe | Sold by [???](/shops/) ([Vetallun](/town-of-vetallun/)) | ??? |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 
@@ -75,6 +75,7 @@ A rank of **1 signifies the best** in this category.
 | Retalq Pick Axe | 2 | 1 | 1 | 1 |
 | [ReForged] Boison Pick Axe | 1 | 2 | 4 | 1 |
 
+
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
@@ -95,6 +96,7 @@ A rank of **1 signifies the best** in this category.
 | Tin Pick Axe | 6 |
 | Two-Handed Tin Axe | 6 |
 
+
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
@@ -114,6 +116,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Boison Pick Axe | 2 | 2+mos | 1 | 2+mos |
 | Retalq Pick Axe | 1 | 1+mos | 1 | 1+mos |
 
+
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
@@ -129,6 +132,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Two-Handed Iron Axe | 4 | 9 lbs |
 | Two-Handed Boison Axe | 5 | 12 lbs |
 | Retalq Pick Axe | 1 | 4  lbs |
+
 
 ### Moves
 #### Worthwhile

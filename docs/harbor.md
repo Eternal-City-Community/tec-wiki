@@ -5,14 +5,14 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  -->
-[![](https://eternal-city.wikidot.com/local--files/files/iridine-harbor-03-2023.png)](https://eternal-city.wikidot.com/local--files/files/iridine-harbor-03-2023.png)
+[![](/local--files/files/iridine-harbor-03-2023.png/)](/local--files/files/iridine-harbor-03-2023.png/)
 
 
 **Related Maps**
 [Sandbar](/sandbar/)
 [Riverside](/riverside/)
 [Quartz Heights](/quartz-heights/)
-[Franlius](/franlius/)
+[Franlius](/town-of-franlius/)
 [Sewers and Sea Caves](/sewers-and-sea-caves/)
 [Shipwreck](/shipwreck/)
 

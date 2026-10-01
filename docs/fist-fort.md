@@ -10,8 +10,8 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 
 **Related Maps**
 [Eastern Grasslands and Woods](/eastern-grasslands-and-woods/)
-[Blackvine](/blackvine/)
-[Seld](/seld/)
+[Blackvine](/village-of-blackvine/)
+[Seld](/village-of-seld/)
 
 
 **Guide**

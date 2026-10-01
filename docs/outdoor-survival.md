@@ -34,16 +34,18 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 | [Forester Conceal](#Conceal) | Average | 60 | 100 | 120 | 125 | 150 |
 | [Survival Weaving](#Weaving) | Average | 80 | - | - | - | - |
 | [Whittling](#Whittling) | Difficult | 80 | - | - | - | - |
+
 |  | Outdoor Survival Lores |  |  |  | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- |
 | Lore Name | Krimalus | Fern | Tauruu | Shantaz | Jarla |
 | [Advanced Camp Cooking Lore](#cooklore) | 25 | - | - | - | - |
 | [Survival Cordage Lore](#cordage) | 25 | - | - | - | - |
 
-**Directions to Fern** ([Vetallun](/vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Sx1, Wx1
+**Directions to Fern** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Sx1, Wx1
 **Directions to Krimalus** ([Wilderness](/the-west-grasslands/)): Near the cliffs in the coastal forest north of the Iridine. Krimalus is not a typical trainer, **see [Reputation Guide](/reputation/#Krimalus) for details.**
 **Directions to Tauruu** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx5, Ex1, Nx1, Wx3
-**Directions to Shantaz** ([Seld](/seld/)): Walk to Seld (Town Square), Wx8, N, E 
-**Directions to Jarla** ([Stromheim](/stromheim/)): Travel to Stromheim through the [Rock Valley](/rock-valley/) wilderness.
+**Directions to Shantaz** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Wx8, N, E 
+**Directions to Jarla** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Notes on Learning
 * **@<**>@Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
@@ -62,7 +64,7 @@ In the outdoors, it can be hard to predict the behavior of a campfire, and even 
 
 <div class="skill-template">
 
-@@>@@ *dig firepit*
+> *dig firepit*
  [Success: 1, Roll: 27] You find a suitable location and dig a crudely dug hole suitable for a firepit.
 
 </div>
@@ -78,7 +80,7 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 
 <div class="skill-template">
 
-@@>@@ *make torch with deadwood*
+> *make torch with deadwood*
  [Success: 1, Roll: 2] You successfully convert one of your pieces of deadwood into a well-crafted torch.
 
 </div>
@@ -90,56 +92,13 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 
 |  | Torch description | Torch quality |
 | --- | --- | --- |
-| Rank 1 | somewhat crude _ |  |
-
-somewhat simple _
-simple || below average _
-below average - average _
-average
-| Rank 10 | somewhat crude _ |
-| --- | --- |
-
-somewhat simple _
-simple || below average _
-below average - average _
-average
-| Rank 20 | somewhat simple _ |
-| --- | --- |
-
-simple _
-somewhat well-crafted || average _
-average _
-excellently made
-| Rank 30 | simple _ |
-| --- | --- |
-
-somewhat well-crafted _
-well-crafted || average _
-excellently made _
-excellently made - made by an expert
-| Rank 40 | somewhat well-crafted _ |
-| --- | --- |
-
-well-crafted _
-very well-crafted || excellently made _
-excellently made - made by an expert _
-made by an expert
-| Rank 50 | somewhat well-crafted _ |
-| --- | --- |
-
-well-crafted _
-very well-crafted _
-finely crafted || excellently made _
-excellently made - made by an expert _
-made by an expert _
-made by a master craftsman
-| Rank 60 | well-crafted _ |
-| --- | --- |
-
-very well-crafted _
-finely crafted || made by an expert _
-made by an expert _
-made by a master craftsman
+| Rank 1 | somewhat crude<br><br>somewhat simple<br><br>simple | below average<br><br>below average - average<br><br>average |
+| Rank 10 | somewhat crude<br><br>somewhat simple<br><br>simple | below average<br><br>below average - average<br><br>average |
+| Rank 20 | somewhat simple<br><br>simple<br><br>somewhat well-crafted | average<br><br>average<br><br>excellently made |
+| Rank 30 | simple<br><br>somewhat well-crafted<br><br>well-crafted | average<br><br>excellently made<br><br>excellently made - made by an expert |
+| Rank 40 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert |
+| Rank 50 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted<br><br>finely crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
+| Rank 60 | well-crafted<br><br>very well-crafted<br><br>finely crafted | made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
 ** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*
 
 </details>
@@ -155,7 +114,7 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 <div class="skill-template">
 
-@@>@@ *stoke fire with deadwood*
+> *stoke fire with deadwood*
  [Success: 1, Roll: 62] You carefully work a small dry piece of deadwood into the fire but notice that it isn't overly helpful.
 
 </div>
@@ -167,10 +126,10 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
-With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using '' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](http://eternal-city.wikidot.com/national-lores#Aestiva-Signalfire).
+With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using '' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
 
 |  EXAMPLE=
- @@>@@ *build fire with twigs*
+ > *build fire with twigs*
  [Success: 1, Roll: 96] You place the tinder on the ground and bring it to flame after a little effort.
 ]]
 
@@ -185,7 +144,7 @@ Whether being used to make torches, keep your camp fire going, or for use as a c
 
 <div class="skill-template">
 
-@@>@@ *find firewood*
+> *find firewood*
  [Success: 1, Roll: 89] You search the area, finding some wood that looks promising, and gather it as you go.
  [Success: 1, Roll: 52] You search the area, finding some wood that looks promising, and gather it as you go with the help of your axe.
 
@@ -204,7 +163,7 @@ To find a sapling, you'll need to be in an area with a lot of trees. You can fin
 
 <div class="skill-template">
 
-@@>@@ *find sapling*
+> *find sapling*
  [Success: 1, Roll: 81] You have found a suitable looking pine sapling and proceed to unearth it.
 
 </div>
@@ -220,7 +179,7 @@ While many things you forage for or skin may be fine to eat raw, there are count
 
 <div class="skill-template">
 
-@@>@@ *cook meat*
+> *cook meat*
  [Success: 1, Roll: 64] A piece of raw alligator meat sizzles as you hold it over a brightly glowing fire.
 
 </div>
@@ -236,7 +195,7 @@ As an outdoorsman you might encounter terrain which seems impassible to the norm
 
 <div class="skill-template">
 
-@@>@@ *climb cliff*
+> *climb cliff*
  [Success: 1, Roll: 35] You climb down a cliff.
 
 </div>
@@ -266,7 +225,7 @@ Notes:
 * You can pull a wagon or drag an item into a shelter with the pull wagon <shelter> or drag <item> <shelter> command. You can pull a wagon or drag an item out of a shelter with the pull wagon out or drag <item> out command.
 
 |  EXAMPLE=
- @@>@@ *build shelter*
+ > *build shelter*
  [Success: 1, Roll: 88] Your shelter is finished. You stand back to admire your masterfully crafted lean-to.
 ]]
 
@@ -281,7 +240,7 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 
 <div class="skill-template">
 
-@@>@@ *make rope with grass*
+> *make rope with grass*
  [Success: 1, Roll: 62] You finish weaving your rope, and are left holding a crudely braided grass rope.
 
 </div>
@@ -305,7 +264,6 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 | Rank 90 | finely braided | 41 blades | 1.8 lbs |
 | Rank 100 | masterfully braided | 40 blades | 1.8 lbs |
 | Rank 110 | masterfully braided | 40 blades | 1.8 lbs |
-
 * *Roll over success **does not** appear to have any effect on rope making.*
 
 
@@ -322,7 +280,7 @@ Iridine's vast fields and forests are covered with a great deal of foliage, with
 
 <div class="skill-template">
 
-@@>@@ *find berries*
+> *find berries*
  [Success: 10, Roll: 99] You walk around the area, picking berries and small fruits as you go.  You soon come up with a handful of them.
 
 </div>
@@ -338,7 +296,7 @@ Even in areas where the foliage seems completely barren, there is usually food t
 
 <div class="skill-template">
 
-@@>@@ *find grub*
+> *find grub*
  [Success: 26, Roll: 65] You dig through the earth and manage to scrounge up a reddish-brown root.
 
 </div>
@@ -354,13 +312,13 @@ The types of things you'll find while foraging for resources varies widely depen
 
 The difficulty of this skill varies depending on the environment where you are trying to use it. It is more difficult to forage in inhospitable terrain, such as mountains or underwater.
 
-Foraging can be affected by tools your character is holding, depending on the type of resource foraged. For example, if you forage in a swamp and are holding a knife, it will increase the amount of reeds that you forage during each attempt. Similarly, if you hold a **woven net bag** (made with [Survival Weaving](http://eternal-city.wikidot.com/outdoor-survival#Weaving)) while **foraging underwater**, you'll be able to find a **greater variety of resources** and the items you find are automatically stowed in the bag **^^[1](http://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/79385-minor-changes?p=1502240#post1502240)^^**.
+Foraging can be affected by tools your character is holding, depending on the type of resource foraged. For example, if you forage in a swamp and are holding a knife, it will increase the amount of reeds that you forage during each attempt. Similarly, if you hold a **woven net bag** (made with [Survival Weaving](/outdoor-survival/#Weaving)) while **foraging underwater**, you'll be able to find a **greater variety of resources** and the items you find are automatically stowed in the bag **^^[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/79385-minor-changes?p=1502240#post1502240)^^**.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *find resource*
+> *find resource*
  [Success: 1, Roll: 37] After searching the area a while, you find a length of thin but sturdy vine.
 
 </div>
@@ -378,7 +336,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 <div class="skill-template">
 
-@@>@@ *find grass*
+> *find grass*
  [Success: 1, Roll: 4] With a sickle in hand, you start quickly harvesting handfuls of the nearby grass, gathering them together as you go.
 
 </div>
@@ -398,7 +356,6 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 | Rank 50 | 9.5 | 13.5 | 17 | 20.5 |
 | Rank 60 | 9.5 | 13.5 | 17 | 20.5 |
 | Rank 70 | 9.5 | 13.5 | 17 | 20.5 |
-
 ** Each value represents a calculated average over 100 or more attempts.*
 
 
@@ -409,13 +366,13 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 ### Craft Fishing Pole  *craft pole with <sapling>*
 
-Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](http://eternal-city.wikidot.com/hunting#cordage) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
+Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/#cordage) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-@@>@@ *craft pole with sapling*
+> *craft pole with sapling*
  [Success: 18, Roll: 33] You measure out the length of the sapling and carve a grip at the fat end. Then, trimming the small end of the pole to fit the line and hook, you attach them and manage to create a rough oak fishing pole.
 
 </div>
@@ -431,7 +388,7 @@ There are times when you'll need to hide the things you find away, and using thi
 
 <div class="skill-template">
 
-@@>@@ *conceal torch*
+> *conceal torch*
  [Success: 37, Roll: 81] You find a passable place in which to hide a finely crafted torch and place it behind a very thick web of vibrant green and brown vines with wide leaves.
 
 </div>
@@ -447,7 +404,7 @@ Your ranks and the material used (twigs, grass, and reeds) determine what items 
 
 <div class="skill-template">
 
-@@>@@ *sweave twigs into bowl*
+> *sweave twigs into bowl*
  [Success: 1, Roll: 94] You carefully weave some assorted twigs into a masterfully woven bowl.
 
 </div>
@@ -471,6 +428,7 @@ Your ranks and the material used (twigs, grass, and reeds) determine what items 
 | Rank 90 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80), a vest (125), a skirt (90), a sling (180) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150) |
 | Rank 100 | bowl (20), basket (40), broiler (30), crate (60) | a bowl (20), a belt (30), some sandals (40), a mat (50), a hat (60), a bag (80), some armbands (110), a basket (70), a loincloth (80), a vest (125), a skirt (90), a sling (180), and a hammock (200) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150), shield (175), chair (200) |
 
+
 </details>
 
 
@@ -486,7 +444,7 @@ The whittle command doesn't like having two words for the subject of the command
 
 <div class="skill-template">
 
-@@>@@ *whittle rib into hook*
+> *whittle rib into hook*
  [Success: 45, Roll: 48] You carefully whittle an adder rib into a very poorly carved bone fishing hook.
 
 </div>
@@ -504,6 +462,7 @@ Some materials indicate that they are whittle-able, but never actually produce i
 | Branch | Sapling | Rib | Antler | Horn | Leg Bone | Seashell | Skull | Fish bones | Hoof | Beak |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | a hook, a peg, a bead, a hairpin, a spoon, a fork, a ring, a stylus, a whistle, a splint, a figurine, a candlestick, some nocks, a charm, a comb, a pipe, a toothscraper, a clasp and a flute | a skewer and a cane | a hook, a bead, a hairpin, a ring, a stylus, a charm, a toothscraper, a comb and a needle | a peg and some nocks | a trowel and some nocks | a figurine, some nocks, a pipe and a clasp | a hairpin and a comb | a bowl | a hook, a toothscraper and a needle | a cup | a trowel |
+
 
 **New items unlocked at each rank:**
 |  | Branch | Sapling | Rib | Antler | Horn | Leg Bone | Seashell | Skull | Fish bones | Hoof | Beak |
@@ -530,6 +489,7 @@ Some materials indicate that they are whittle-able, but never actually produce i
 | Rank 95 | flute | - | - | - | - | - | - | - | - | - | - |
 | Rank 100 | - | cane | - | some nocks | - | clasp | comb | - | - | - | - |
 
+
 </details>
 
 
@@ -545,7 +505,7 @@ There are a few ways you can cook something over an open flame to give it a bett
 
 These advanced cooking techniques will imbue your food with many interesting flavors and really impress anyone who is lucky enough to be sitting around the campfire with you.
 
-This skill has a chance of **[naturally increasing](http://eternal-city.wikidot.com/stats#naturalatt)** a character's **??** *"You feel as if you've learnt a better way to think about that."*.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **??** *"You feel as if you've learnt a better way to think about that."*.
 
 
 ##### Blackening
@@ -582,22 +542,22 @@ Requires **80 ranks of [Camp Cooking](#Cook)**.
 
 <div class="skill-template">
 
-@@>@@ *blacken meat*
+> *blacken meat*
  [Success: 1, Roll: 42] A wildcat heart sizzles as you hold it over a brightly glowing bonfire.
  [Success: 1, Roll: 69] A wildcat heart sizzles as you hold it over a brightly glowing bonfire. It appears to be done cooking.
 
 
- @@>@@ *sear meat*
+ > *sear meat*
  [Success: 1, Roll: 18] A piece of raw rattlesnake meat sizzles as you hold it over a brightly glowing fire.
  [Success: 1, Roll: 58] A piece of raw rattlesnake meat sizzles as you hold it over a brightly glowing fire. It appears to be done cooking.
 
- @@>@@ *broil meat*
+ > *broil meat*
  [Success: 1, Roll: 93] A piece of raw porcupine meat sizzles as you hold it over a brightly glowing hearth.
  [Success: 1, Roll: 46] A piece of raw porcupine meat sizzles as you hold it over a brightly glowing hearth. It appears to be done cooking.
  A finely woven flat rack of twigs is destroyed.
  You drop a finely woven flat rack of twigs as it is destroyed.
 
- @@>@@ *roast wing*
+ > *roast wing*
  [Success: 1, Roll: 7] A raw pheasant wing sizzles as you hold it over a brightly glowing bonfire.
  [Success: 1, Roll: 87] A raw pheasant wing sizzles as you hold it over a brightly glowing bonfire. It appears to be done cooking.
 
@@ -620,7 +580,7 @@ This command allows you to create cordage by unweaving a larger length of rope. 
 
 <div class="skill-template">
 
-@@>@@ *cord rope*
+> *cord rope*
  You carefully separate the fibers of a simply braided grass rope into a pile of fibers.
  Carefully re-weaving the fibers tightly with a zig-zag pattern, you tie in new fibers well before the previous fibers have ended, producing some usable cordage.
  You continue to repeat this process with the remaining fibers, ending up with two pieces of cordage in total.

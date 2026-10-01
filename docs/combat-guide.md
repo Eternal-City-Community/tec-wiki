@@ -215,6 +215,7 @@ The Eternal-City uses a Rank Bonus system. Every single rank that you learn in a
 | 501-1000 | Grand Master | +0.025 per rank |
 | 1001+ | Grand Master | +0.01 per rank |
 
+
 Your rank bonus in a skill is determined by the Rank Bonus from your Basics skill + your Rank Bonus in the actual sub-skill itself. For example, if you know One-Handed Swords, your ranks in the basics One-Handed Swords skillset will offer a bonus to your One-Handed Swords Jab sub-skill. The rank bonus offered to your sub-skill is dependent upon the difficulty of the sub-skill itself. Sub-skills are: Easy, Average, Difficult and Impossible. Harder maneuvers will not only cost more Skill Points, but they will also receive a much lower bonus from your Basics skill.
 
 
@@ -224,6 +225,7 @@ Your rank bonus in a skill is determined by the Rank Bonus from your Basics skil
 | Average | 50% |
 | Difficult | 25% |
 | Impossible | 10% |
+
 
 Stances. These are used to determine your current Rank Bonus usage. The Eternal-City uses an Offense and Defense system where attacks are considered part of the Offense system and blocks/dodges are part of the Defense system. Your rank bonus in an attack or a block/dodge determines how successful you will be at attacking or defending. There are five stances: berserk, aggressive, normal, wary and defensive. These allow you to customize your fighting style.
 
@@ -236,6 +238,7 @@ Stances. These are used to determine your current Rank Bonus usage. The Eternal-
 | Wary | 25% | 75% |
 | Defensive | 0% | 100% |
 
+
 The Eternal-City uses a layer system when it comes to its Defense system. If you use the one-handed weapons, Shields and Combat Maneuvers skills you will have access to up to three layers of defense. If you use a two-handed weapon, you will only have access to two layers of defense. Your block or dodge with the highest Rank Bonus will be your first layer of defense. It will make use of its complete rank bonus. Your second highest dodge/block will only use 50% of your rank bonus in said skill. 
 
 
@@ -244,6 +247,7 @@ The Eternal-City uses a layer system when it comes to its Defense system. If you
 | Highest RB Dodge/Block | 100% |
 | Second highest RB Dodge/Block | 50% |
 | Third highest RB Dodge/Block | 33% |
+
 
 The Eternal-City also allows you to change your fight level. This is something that you should -never- use unless for some reason or another you are trying to hide your skills when using a weapon or to even up the playing field when fighting someone who is lesser skilled than you are. Note: this can be used for testing mechanics effectively, as well. Do remember to fight all-out once you are done or it could be dangerous for your character.
 
@@ -255,9 +259,13 @@ The Eternal-City also allows you to change your fight level. This is something t
 | Fight half-serious | 50% |
 | Fight barely-serious | 25% |
 | Fight toyingly | 10% |
+
+
 | Postures | Penalty | Penalty range |
+| --- | --- | --- |
 | Standing | None |  |
 | Sitting, Kneeling, Laying | ??? | Slightly below average speed and agility = -52 |
+
 
 While the healing skillset will allow you to recover from injury faster, it also has a downside. If you are still wearing bandages or have unwanted stitches that need to be removed, you will receive combat penalties. Please note that these penalties -do- stack for each set that you have on your character. Additionally, having stitches and bandages on your hands will make your character more likely to fumble.
 
@@ -267,11 +275,15 @@ While the healing skillset will allow you to recover from injury faster, it also
 | Bandages | -4 defense per bandage |
 | Stitches | -5 offense per stitches |
 | Splint | ??? |
+
+
 | Current Hit Points % | Penalty |
+| --- | --- |
 | 100% | None |
 | 75% | -10 offense |
 | 50% | -20 offense + 400% fatigue loss |
 | 25% | -30 offense + 600% fatigue loss |
+
 
 * Dying of thirst: -5 HP and -10% fatigue per 'tick'. Every 'tick' happens at 5 minute intervals.
 
@@ -285,7 +297,10 @@ While the healing skillset will allow you to recover from injury faster, it also
 | Attacks | jab | chop | jab (-30) | swat | jab (-10)[-40] |
 | Attacks | jab | chop | swat | jab (-20) | slash |
 | Attacks | jab | chop | swat | slash | jab (-10) |
+
+
 | Encumbrance level | Pounds | Penalty per Pound | Strength | Stand up RT | Fatigue Loss % |
+| --- | --- | --- | --- | --- | --- |
 | No load to speak of | 0-9 | None | Below Average | 1+MoS | 100% |
 | Light load | 10-22 | None | Below Average | 1-2+MoS | 100% |
 | Moderate load | 22.5-44 | None | Below Average | 2-5+MoS | 100% |
@@ -295,7 +310,10 @@ While the healing skillset will allow you to recover from injury faster, it also
 | Extremely encumbered and having difficulty moving | 106.5-123 | -1 Offense/-2 Defense | Below Average | 12-14+MoS | 200% |
 | Carrying about all that you can, and can barely move | 124-131.5 | -1 Offense/-2 Defense | Below Average | 14-15+MoS | 200% |
 | Overloaded, and about to collapse under the weight | 132-152 | -1 Offense/-2 Defense | Below Average | 15-17+MoS | 200% |
+
+
 | Stats | Effect |
+| --- | --- |
 | Strength | Damage boost, carrying capacity (strength/2 = moderate/significant load change) |
 | Speed | Lowers Roundtime, defense bonus (speed / 4) |
 | Agility | Defense bonus (agility / 2) |
@@ -309,6 +327,7 @@ While the healing skillset will allow you to recover from injury faster, it also
 | Judgement | Bartering?, some non-combat skills? |
 | Charisma | Bartering? |
 | Appearance | Bartering? |
+
 
 Source 1: http://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/42426-the-new-change-to-defense?p=793473#post793473
 
@@ -336,11 +355,17 @@ Source 1: http://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-c
 | Incredible | 231 - 240 |
 | Inhuman | 241 - 250 |
 | Superhuman | 251 - oo |
+
+
 | Aiming | Body Parts | Aiming Penalty |
+| --- | --- | --- |
 | High | Head, Face, Neck, Right shoulder, Left shoulder, Right arm, Left arm, Right hand, Left hand, Chest | -20 Offense |
 | Mid | Waist, Right thigh, Left thigh | -20 Offense |
 | Low | Right thigh, Left thigh, Right leg, Left Leg, Right foot, Left foot | -20 Offense |
+
+
 | Body Part | Aiming Penalty |
+| --- | --- |
 | Head | -70 Offense |
 | Face | -75 Offense |
 | Neck | -75 Offense |
@@ -352,6 +377,7 @@ Source 1: http://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-c
 | Right thigh, Left thigh | -30 Offense |
 | Right shin, Left Shin | -55 Offense |
 | Right foot, Left foot | -65 Offense |
+
 
 Notes:
 

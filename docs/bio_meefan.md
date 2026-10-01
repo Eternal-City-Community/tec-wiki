@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 In children, one may find a natural order. Some lead, some follow... and some march to the sound of the drums that no one is playing. Of these few, Meefan found himself counted. Meefan was a strange boy born into a normal-enough household: his mother a homemaker, his father a loyal member of the Legio.

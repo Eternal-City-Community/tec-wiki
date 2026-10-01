@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born in the village of Taseth which is part of the Safelands north of the Torean River, Elrina Drieson is the daughter of a woodsman and a healer.Her sister Sorcha studied herbalism with their grandparents, while she studied with her father mostly though she did learn a few healing skills from her mother.

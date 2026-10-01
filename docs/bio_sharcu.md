@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Sharcu Isengard’s father Corcu protected the Tuchean King as a member of the Twenty-Four. While serving Altene in Tuchea Corcu took a wife Mari, and cherished her. Mari bore two sons and a daughter Kercu, Sharcu, and Marise. On the day Sharcu was to complete his childhood lessons and become a man, he awoke at his father’s shout.

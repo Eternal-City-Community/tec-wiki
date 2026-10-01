@@ -12,8 +12,7 @@
 ### Map
 
 
-!!! note "Migrated include"
-    This page originally included `spider-caverns` on Wikidot. The transcluded content still needs review.
+![](/local--files/spider-caverns/invexriverdelta-spidercaverns_updated112917.gif/)
 
 
 #### Directions

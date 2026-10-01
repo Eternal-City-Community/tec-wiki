@@ -39,13 +39,14 @@ Tanning tools are not consumed upon use, however ingredients have a limited numb
 | Brains | Tan Hide | FREE | Available from skinning some dead animals |
 | A bottle of leather dye | Dye Hide | 1t to 2t | Available for purchase in Arvane's shop |
 
+
 <details>
 <summary>+ Show Leather Dye</summary>
 
 
-```
+~~~
 Leather dye comes in the following colors: amber, ashen blue, azure, azurite blue, berry purple, black, blackberry, blood red, blue, bright yellow, brown, burnt orange, cinnabar red, clay brown, coral, crimson, cyan, dark blue, dark brown, dark green, dark grey, dark orange, dark purple, dark red, dark teal, deep black, deep blue, deep green, deep indigo, deep olive, deep purple, deep red, deep teal, dusk rose, dusky blue, dusky violet, dust brown, ember red, fiery red, fog grey, golden yellow, green, grey, indigo, iron grey, lapis blue, lavender, light blue, light green, light grey, light olive, light orange, light purple, light teal, lilac, malachite green, moss green, mottled blue, mottled brown, mottled green, mottled red, mottled yellow, mulberry, multi-colored, oiled, olive, orange, pale blue, pale green, pale grey, pale orange, pale pink, pale purple, pale sienna, pale teal, pale yellow, peat green, periwinkle, pink, purple, raw umber, red, red ochre, saffron gold, scarlet, sea-glass green, sienna, slate blue, smoke blue, smokey plum, smokey violet, snow white, sun-baked ochre, sunny yellow, tan, tawny, turquoise, umber black, violet, white, wine red, yellow, and yellow ochre.
-```
+~~~
 
 
 </details>

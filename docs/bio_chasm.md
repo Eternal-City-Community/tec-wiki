@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Chasm was born in Altene. She was born into a rich family of warriors, all with high prestige. The Brightwind family was renowed throughout Altene's cities for it's patriarch, Darius Josephus, a former General. 

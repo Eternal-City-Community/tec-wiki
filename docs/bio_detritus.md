@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Detritus was born in a small province of Altene. As with all of the other Altene boys, he learned and lived by the fangstave. But unlike the others, Detritus had a small nack with mechanics. So, one day he wandered into a nearly out of business locksmith shop. The locksmith agreed to let Detritus apprentice under him, but warned him that his business was not a very good one and the job would be steady.

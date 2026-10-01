@@ -13,4 +13,4 @@ The northeastern alley is home to footpads and scrawny rats during the nighttime
 
 ### Map:
 
-![](https://eternal-city.wikidot.com/local--files/hg-rock-valley-alley/rock%20valley%20alley.jpg)
+![](/local--files/hg-rock-valley-alley/rock%20valley%20alley.jpg/)

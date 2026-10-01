@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born in Cinera. Seppoko Tirantius was born to a Cineran mother and a father unknown to him. Captured at the young age of six by a slave caravan he was later sold to a mercenary school of Altene where he acquired the knowledge of staves and basic combat with the gladius. 

@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Sitting at the bar in Pego's slamming back some ale Sylven Tobias begins to ponder on what brought him to this exact time and place.

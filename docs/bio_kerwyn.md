@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Kerwyn 'Keyla' Thorne, born 8th day of Jemros, 195th day of the Rpublic

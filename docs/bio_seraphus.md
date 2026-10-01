@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I am thankful that I can still see their faces....they never fade from my memory, and I know without a shadow of doubt they never will...but their faces are a pleaure..the happenings on that faithful day, however, will plague me until the day I shuffle of this mortality....

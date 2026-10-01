@@ -39,7 +39,7 @@ To quickly convert currency in the game, use the command: *convert <#> <coin typ
 
 **What it looks like:**
 > *convert 250 denars to cents*
-> @@250 denars is equal to 10 cents.@@
+> 250 denars is equal to 10 cents.
 
 
 ### Protect your money and valuables!
@@ -60,7 +60,7 @@ The leather, metal, and gem economies are each separate and cyclical. Prices var
 
 ### Animal Parts
 
-Animal parts are generally available to be skinned from most non-humanoid enemies. For example, you can skin the hide from an alligator or the claws from a bear. Any character can attempt to skin parts from an animal. However, those who've learned the skinning skills from the [Hunting](/hunting/) skillset are less likely to ruin parts while skinning and can obtain much higher-quality skinned parts, which are worth more. Animal parts can be sold to a variety of carcass buyers, including Caprarius ([Iridine](/transinvexium/)), Jalgris ([Vetallun](/vetallun/)), Brantax ([Seld](/seld/)), Tauruu ([Rock Valley](/town-of-rock-valley/)), and Jarla ([Stromheim](/stromheim/)).
+Animal parts are generally available to be skinned from most non-humanoid enemies. For example, you can skin the hide from an alligator or the claws from a bear. Any character can attempt to skin parts from an animal. However, those who've learned the skinning skills from the [Hunting](/hunting/) skillset are less likely to ruin parts while skinning and can obtain much higher-quality skinned parts, which are worth more. Animal parts can be sold to a variety of carcass buyers, including Caprarius ([Iridine](/transinvexium/)), Jalgris ([Vetallun](/town-of-vetallun/)), Brantax ([Seld](/village-of-seld/)), Tauruu ([Rock Valley](/town-of-rock-valley/)), and Jarla ([Stromheim](/village-of-stromheim/)).
 
 The animal part market does not fluctuate over time like the leather, metal, and gem markets. Instead, you can expect to get the same amount whenever you sell an identical animal part with the same quality. Additionally, brokers have significantly reduced influence on carcass buyer vendors. A broker can still often fetch you a better price, but it is not nearly as significant a price difference as when selling leather, metal, or gems. Even a hunter with very poor charisma and negative bartering traits can sell his or her parts for a comparatively decent price, making the hunting profession a more self-sustainable profession for those who prefer not to interact with cityfolk.
 
@@ -74,4 +74,4 @@ The prices that Carcass buyers offer varies. Depending on how much you're sellin
 | Brantax | Seld | 37% |
 | Jarla | Rock Valley | * |
 
-@@*@@ *Jarla pays in amber tokens instead of Iridinian currency*
+* *Jarla pays in amber tokens instead of Iridinian currency*

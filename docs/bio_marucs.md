@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 *The Story of Marucs Pompei (no relation to any other Pompei or Pompeii)*

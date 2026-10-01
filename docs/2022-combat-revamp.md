@@ -7,7 +7,7 @@
 * The penalty to skill point gain for not rotating actions has been removed. This applies to both combat and non-combat actions. While there still is a cumulative penalty for using the same action a very large number of times, overall, players should notice an increase in skill point gain compared to the former system when using the same action over the course of the weekly cycle.
 
 
-+* Skill Sets
+## Skill Sets
 
 ### Archery
 * Shots not longer consume double fatigue.
@@ -210,7 +210,7 @@
 ## New Min-Gains Chart
 
 
-```
+~~~
 New mingains look like this: 
                   0-750 = 0.025
                 751-850 = 0.020
@@ -230,4 +230,4 @@ New mingains look like this:
                 25000-99999 = base * 1.10
                      >99999 = base * 1.00
 * base threshold SP = 310
-```
+~~~

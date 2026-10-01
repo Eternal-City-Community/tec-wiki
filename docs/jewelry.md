@@ -27,6 +27,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 | [Shape Gem](#Shape-Gem) | Average | 100 |  |
 | [Polish Gem](#Polish-Gem) | Average | 100 |  |
 
+
 <a id="Recipes"></a>
 
 <details>
@@ -123,6 +124,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 | Radiant Cut Recipe | Difficult | 100 |  |
 | Trillion Cut Recipe | Difficult | 100 |  |
 
+
 </details>
 
 
@@ -162,7 +164,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 #### Notes on Learning
 * You **cannot train 'Basic Jewelry' alone**. Your basic **jewelry rank increases as you train the jewelry actions and recipes**.
-* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore @@[@@<lore name>@@]@@ from <trainer>** commands.
+* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [<lore name>] from <trainer>** commands.
 * Jewelry work requires **[recipes](#Recipes)** recalled before many steps. Engraving patterns are **[lores](#Lores)** learned from the trainer.
 * Jewelers can use **[restyle](#Restyle)** on finished player-crafted pieces. No separate skill rank is required beyond owning the work.
 * You can unlearn recipes; engraving lores follow the same rules as other craft lores.
@@ -189,7 +191,7 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
 **Engraving patterns** are lores: use **learn lore** / **learn lore <name> from <trainer>**, then engrave the piece.
 
 |  EXAMPLE=
- @@>@@ *recipe-recall necklace*
+ > *recipe-recall necklace*
  Matching Recipes
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
   [1] Fine Chain Necklace Recipe
@@ -200,7 +202,7 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
  Recipes matching 'necklace':>
 
- @@>@@ *1*
+ > *1*
  Fine Chain Necklace Recipe
  Required:
   * Twenty matching tiny chain links (same metal)
@@ -212,7 +214,7 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
   * assemble <link> to <incomplete> until the necklace is complete
  Recipe recalled. You are now ready to begin crafting.
 
- @@>@@ *recall cast simple band*
+ > *recall cast simple band*
  Cast Simple Band Recipe
  Required:
   * Wax
@@ -238,7 +240,7 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
 Once player-crafted jewelry is complete, it can be altered slightly through the restyle menu. No skill training is required beyond owning the piece. Simply **** and you will be shown a menu of short names based on what has actually been done to the piece (metal, engraving, set stones, and similar features).
 
 |  EXAMPLE=
- @@>@@ *restyle ring*
+ > *restyle ring*
  Restyle
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
   [1] silver ring
@@ -264,7 +266,7 @@ Soften and shape wax into the form required by the recalled casting recipe. Low 
 
 <div class="skill-template">
 
-@@>@@ *form wax*
+> *form wax*
  [Success: 1, Roll: 57] You warm the wax and press it into shape. The size is right. The form is still rough and needs more work.
 
 </div>
@@ -280,7 +282,7 @@ Pack clay around a finished wax form, leaving a runoff, until the mold is ready 
 
 <div class="skill-template">
 
-@@>@@ *mold clay*
+> *mold clay*
  [Success: 1, Roll: 61] You finish the clay investment. The mold is ready to bake over a low flame.
 
 </div>
@@ -298,7 +300,7 @@ Pour molten metal from a crucible into a baked clay mold to produce the piece na
 
 <div class="skill-template">
 
-@@>@@ *cast mold*
+> *cast mold*
  [Success: 1, Roll: 95] You pour the metal into the mold. When it cools, the piece comes free of the clay.
 
 </div>
@@ -316,7 +318,7 @@ Work molten metal from a crucible under the hammer into solid stock ready for co
 
 <div class="skill-template">
 
-@@>@@ *hotwork cru*
+> *hotwork cru*
  [Success: 1, Roll: 60] A few careful strikes settle the glowing metal. The form comes out even and solid, with almost no waste.
 
 </div>
@@ -334,10 +336,10 @@ Draw or shape stock into wire, links, bands, or other forms the recalled recipe 
 
 <div class="skill-template">
 
-@@>@@ *coldwork stock*
+> *coldwork stock*
  [Success: 1, Roll: 47] You draw the metal under the hammer into a length of wire.
 
- @@>@@ *coldwork wire*
+ > *coldwork wire*
  [Success: 1, Roll: 52] You bend and close the wire under the hammer into chain links.
 
 </div>
@@ -355,10 +357,10 @@ Join links into an incomplete chain, then continue adding links until the recall
 
 <div class="skill-template">
 
-@@>@@ *assemble link to link*
+> *assemble link to link*
  [Success: 1, Roll: 47] You join the pieces under the hammer. The fit is rough, but it holds.
 
- @@>@@ *assemble link to incomplete*
+ > *assemble link to incomplete*
  [Success: 1, Roll: 61] You open a link, catch the chain, and close it under the hammer.
 
 </div>
@@ -376,7 +378,7 @@ Mark the stone for the recalled cut. This is the first step of every cutting rec
 
 <div class="skill-template">
 
-@@>@@ *layout stone*
+> *layout stone*
  [Success: 1, Roll: 48] You mark the stone in rough lines. The layout is uneven, but it is enough to work from.
 
 </div>
@@ -394,7 +396,7 @@ Reduce the stone toward the shape of the recalled cut. Harder cuts use more roug
 
 <div class="skill-template">
 
-@@>@@ *roughcut gem*
+> *roughcut gem*
  [Success: 1, Roll: 30] You reduce the stone with controlled cuts. The rough form begins to emerge.
 
 </div>
@@ -412,7 +414,7 @@ Work the faces and outline of the cut into place after the rough form is establi
 
 <div class="skill-template">
 
-@@>@@ *shape gem*
+> *shape gem*
  [Success: 1, Roll: 8] You work the facets into place. The cut is taking proper shape.
 
 </div>
@@ -430,7 +432,7 @@ Polish the finished cut so the faces take light cleanly. Last step of a cutting 
 
 <div class="skill-template">
 
-@@>@@ *polish gem*
+> *polish gem*
  [Success: 1, Roll: 22] The facets take a clear polish under your work. The stone begins to catch light.
 
 </div>
@@ -450,7 +452,7 @@ Cut a learned engraving pattern into player-crafted jewelry that will take engra
 
 <div class="skill-template">
 
-@@>@@ *engrave ring*
+> *engrave ring*
  Engraving Patterns
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
   [1] Maker's Mark (free)
@@ -458,7 +460,7 @@ Cut a learned engraving pattern into player-crafted jewelry that will take engra
   [3] Vines Engraving
  <u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u><u>_</u>___
 
- @@>@@ *engrave ring*
+ > *engrave ring*
  [Success: 1, Roll: 82] A final careful pass finishes the pattern. The lines read clean and deliberate.
 
 </div>
@@ -474,7 +476,7 @@ Seat a **finished cut** stone into player-crafted jewelry that can accept a sett
 
 <div class="skill-template">
 
-@@>@@ *set ring with ruby*
+> *set ring with ruby*
  [Success: 1, Roll: 40] You seat the stone and work the metal around it. The stone settles and holds.
 
 </div>

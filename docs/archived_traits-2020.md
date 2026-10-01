@@ -32,6 +32,7 @@
 | Self-Taught | 3 | Self-training costs 1.5x the normal skill points instead of the usual 2x the normal skill points. |
 | Luminescent | 2 | Character has increased magical potential. |
 
+
 ---
 ### Negative traits
 | Trait | Value | Description |
@@ -65,6 +66,7 @@
 | Sickly | -1 | Character more susceptible to disease. Disease symptoms may be amplified, to the point that non-fatal diseases can become deadly. |
 | Intense Nightmares | -3 | Character recovers fatigue at a reduced rate when asleep. Penalty to willpower. Character more susceptible to magic. |
 
+
 ---
 ### Neutral Traits
 | Trait | Description |
@@ -77,6 +79,7 @@
 | Berserker | Damage done to the character is increased by 10%. Damage done by the character is increased by 20%. Character cannot willingly assume defensive, wary or normal combat postures. |
 | Peaceful Spirit | Reduced SP gain for combat skills. Increased SP gain for non-combat skills. |
 | Increased Metabolism | Food demand doubled. Increased HP and fatigue recovery when full. No HP or fatigue recovery when even slightly hungry. |
+
 
 ---
 ### National Bonuses
@@ -92,6 +95,7 @@
 | Anonymity (Sostaera) | Bonus to hiding and crowd-blending actions. |
 | Tuchean Resistance (Tuchea) | Immunity to nausea and general disease resistance. |
 | Metal Affinity (Windward) | Bonus to crafting and mining skills related to metal and metal ores. |
+
 
 ---
 ### Trait Bonuses/Penalties

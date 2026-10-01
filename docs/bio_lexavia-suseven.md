@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Lexavia Suseven grew up in [Quartz Heights](/quartz-heights/) in [Iridine](/city-of-iridine/), where she took up tailoring at a young age. She was mostly taught by her mother, who mostly stitched as a hobby and quickly found Lexavia surpassing her skills. Knowing that Lexa would eventually need to get more training elsewhere, she sent Lexa to make her home in Iridine. Quickly, Lexa found herself in the [Vestis Formatae](/vestis-formatae/) and becoming an apprentice to Melina. She also became interested in the [Cult of Ereal](/cult-of-ereal/) and began studying to become an Acolyte at the Temple, and even served as a retainer for Celeres Illryia. 

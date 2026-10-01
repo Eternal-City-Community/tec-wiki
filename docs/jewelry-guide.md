@@ -5,10 +5,6 @@ Jewelry Crafting allows characters to create jewelry from a variety of metals, c
 The system is made up of several related skills. Different recipes use different combinations of those skills, and **only the skills actually used during the creation of an item contribute to its finished quality**. As a result, mastering one type of jewelry does not necessarily require mastering every skill in the skillset.
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `CSS` module here. This dynamic section needs a replacement on the new wiki.
-
-
 ![](https://eternal-city.wdfiles.com/local--files/jewelry-guide/gemcuts2.png)
 
 
@@ -73,6 +69,7 @@ Different cuts require different numbers of Rough Cut and Shape actions.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tin | Copper \\ Silver \\ Gold | Brass | Bronze | Seelan | Iron | Alanti | Boison | Caon |
 
+
 *Easiest → Hardest*
 
 Higher-value metals can be substantially more profitable, but also require greater skill to work reliably. Material loss should therefore be considered when choosing what metal to use for training versus production.
@@ -101,6 +98,7 @@ The following tables list known finished jewelry recipes according to whether th
 | Simple Band Ring | 1 |
 | Toe Ring | 1 |
 
+
 #### Gem Settable Only
 
 | Jewelry Recipe | Max Gems |
@@ -111,11 +109,13 @@ The following tables list known finished jewelry recipes according to whether th
 | Lip Stud | 1 |
 | Nose Stud | 1 |
 
+
 #### Engravable Only
 
 | Jewelry Recipe |
 | --- |
 | Locket |
+
 
 #### Neither
 
@@ -136,6 +136,7 @@ The following tables list known finished jewelry recipes according to whether th
 | Wire Earrings |
 | Wire Necklace |
 | Wire Ring |
+
 
 #### Special Jewelry Notes
 

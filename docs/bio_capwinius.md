@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Born to the house wife, Diane, and Mercenary warrior, Arthur, Capwinius *("Cap" for short)* was raised in Altene where he learned the art of staves as a young child. Slowly improving in staves as he grew he also started to grow tired and dreamed of being a swordsman like the ones in the stories he hears from Iridine. 

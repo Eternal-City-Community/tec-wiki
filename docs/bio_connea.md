@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Connea MacLeod became accustomed to hard work from a young age, farming and raising sheep in the hills of rural Parcines. He is a member of a little-known sub-culture with mysterious roots known as the "Caledon," by the inhabitants of Parcines. His surname of MacLeod was passed along by his mother, Tuatha Leod, an unusual custom native to the Caledon people. Tuatha died when Connea was only 10 years old, and he was raised by his half-Caledon, half-Iridian father, Crius, who was a veteran of the Iridian Legion in the wars against Cinera. He was determined to give his son a stable home and teach him an honest trade. He forbid Connea to use or own any weapon whatsoever. e

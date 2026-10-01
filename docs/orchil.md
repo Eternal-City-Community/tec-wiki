@@ -13,5 +13,5 @@ TEC Extender links:
 
 Do NOT download the extender from any websites other than the chrome web store or directly from Thric3blinded's GitHub page.
 
-![](https://eternal-city.wikidot.com/local--files/files/extenderinterface1.png)
-![](https://eternal-city.wikidot.com/local--files/files/extenderinterface2.png)
+![](/local--files/files/extenderinterface1.png/)
+![](/local--files/files/extenderinterface2.png/)

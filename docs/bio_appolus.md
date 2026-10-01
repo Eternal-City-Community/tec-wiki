@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I grew up in a large village in the beautiful hills of Gadaene, my childhood was full of adventures: following my father into battle against the Sosterans, wandering in the hills, making mischief in town. Early in my life it was decided that I would marry a beautiful merchants daughter, Lucana. Together, Lucana and I had many adventures. When I reached 12, I was eligible for conscription, because we were in a desperate war with the Sosterans and a mercenary army of Alteanes and all able men were to join the army.

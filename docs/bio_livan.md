@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Livan Stallion was born in Iridine to a wealthy couple at the Stone Toga Inn. She grew up there, living quite happily with her adoring mother and father, an only child. Her last name came her father. His real last name had been Darath, he changed it to Stallion and gave it to his daughter because his friends had bequeathed him 'the Stallion' for his stunning, smooth way with a bow. He hoped to somehow raise his daughter to be such as well an archer and carry along the family pride.

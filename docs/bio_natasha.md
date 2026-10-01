@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Natasha Cassadine was born to a powerful family in Remath.  Her father, Coban Cassadine is a Diplomat and one of Queen Alinissa Condaia's advisors.  Her mother, Maxima Cassadine is a well respected Herbalist who is well known for her prize winning roses. 

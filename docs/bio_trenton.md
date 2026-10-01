@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 I was born in Monlon...where my mother died during childbirth. May father Marcallie Vindarin was a skilled swordsman and well-known sailor. My father started taking my out on trips with him when I was about 6 years of age. He was a tradesman and a fisherman. I was not part of the richest family in Monlon but I was part of one of the most liked families. My dad tried to teach me everything he knew and as he did when I was about 8 I began learning some in swords. By the time I reached 14 I became a practiced swordsman...along with my father who was a Grandmaster. While my father went on an overnight fishing trip I stayed at home, where I went into our library to read about our family history. It seemed that I had the picture perfect family till I found a hidden passage behind a bookshelf. The passage was dark and damp, so I took a torch with me. Inside there was only one way to go. The passage seemed to go on forever till it came to a coffin. I was a bit frightened, but I opened the coffin. Inside I saw the remains of my long dead ancestors, Westeain Vindarin, His skeleton was holding a large book in its right hand, and a very, odd Red glassy stone in his left. As I opened the book and began to read I could tell my family was not so picture perfect...

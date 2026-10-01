@@ -5,11 +5,11 @@ The world of Midlight offers an abundance of opportunities for all types of char
 ### Related Commands
 
 These are useful commands for **learning & teaching skills**.
-* skills @@[@@?@@]@@ @@[@@*<skillset name>*@@]@@ 
-* ssk?ills @@[@@costs@@]@@
+* skills [?] [*<skillset name>*] 
+* ssk?ills [costs]
 * @cycle?-info
-* learn @@[@@lore@@]@@ @@[@@*<skill>*@@]@@ from <trainer> @@[@@with <skill>|general@@]@@ @@[@@# <1-50>@@]@@
-* teach @@[@@lore@@]@@ @@[@@*<skill>*@@]@@ @@[@@to <max rank>@@]@@
+* learn [lore] [*<skill>*] from <trainer> [with <skill>|general] [# <1-50>]
+* teach [lore] [*<skill>*] [to <max rank>]
 * lore
 * @sp-c?ount
 * @sp-to-gsp *<skill> <number-of-gsp>*
@@ -131,6 +131,7 @@ If no teacher is available for the ran you want to progress to, you will need to
 | 5,002 - 7,001 | 1,000% SP | 950% SP |
 | +7,002 | 1,200% SP | 1,150% SP |
 
+
 Example: Assuming an **Easy** skill in **1^^st^^ slot** that normally requires **5 SP** to learn from a teacher (if possible).
 
 | Scenario | Calculation | SP Cost |
@@ -141,6 +142,7 @@ Example: Assuming an **Easy** skill in **1^^st^^ slot** that normally requires *
 | Self-training rank 2,500 to 2,501 (with self-taught) | 5 SP x 350% | 17.5 SP |
 | Self-training rank 4,500 to 4,501 (no self-taught) | 5 SP x 800% | 40 SP |
 | Self-training rank 4,500 to 4,501 (with self-taught) | 5 SP x 750% | 37.5 SP |
+
 
 <a id="skill-actions"></a>
 ### Skill Actions
@@ -201,7 +203,7 @@ Combat skills can be used to fight opponents in the game world.
 * [Two-handed Crushing](/two-handed-crushing/) - Use warhammers to smash things.
 * [One-handed Swords](/one-handed-swords/) Fighting Styles: [Avros](/avros-one-handed-swords/), [Nelsor](/nelsor-one-handed-swords/) & [Pardelian](/pardelian-one-handed-swords/). - Skill sets that focuses on the use of one-handed swords in combat, including the Avros, Nelsor, and Pardelian fighting styles.
 * [Pankration](/pankration/) - Unarmed combat skill set that combines wrestling and striking techniques.
-* [Slings](/slings/) - Skill set that focuses on the use of slings for ranged attacks.
+* [Slings](/sling/) - Skill set that focuses on the use of slings for ranged attacks.
 * [Spears](/spears/) - Skill set that focuses on the use of spears in combat.
 * [Staves](/staves/) - Skill set that focuses on the use of quarterstaffs, fang staves, double maces and bladed staves in combat.
 * [Tridents](/tridents/) - Skill set that uses a three-pronged spear-like weapon called a trident.

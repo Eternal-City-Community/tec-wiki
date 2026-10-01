@@ -37,7 +37,7 @@ This is the list of weapons that can be used by the 1HA skill set.
 | Bronze Axe **[RF]** | Sold by several [shopkeepers](/shops/) (e.g. Salieste/Ksaia) or dropped in NPC loot. | 1t 1039d 2s |
 | Iron Axe **[RF]** | Sold by several [shopkeepers](/shops/) (e.g. Salieste/Ksaia) or dropped in NPC loot. | 16-30t |
 | Boison Axe **[RF]** | Sold by [Salieste](/shops/) ([Iridine](/bronze-lane/)) | 31-60t |
-| Retalq Axe | Sold by [Fama](/shops/) ([Vetallun](/vetallun/)) | 200t |
+| Retalq Axe | Sold by [Fama](/shops/) ([Vetallun](/town-of-vetallun/)) | 200t |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 
@@ -58,6 +58,7 @@ A rank of **1 signifies the best** in this category.
 | Tin Axe | 9 | 1 | 1 | 5 |
 | Askada | 7 | 2 | 3 | 6 |
 
+
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
@@ -73,6 +74,7 @@ A rank of **1 signifies the best** in this category.
 | Askada | 7 |
 | Bone Axe | 8 |
 | Tin Axe | 9 |
+
 
 #### Weapon Speed
 

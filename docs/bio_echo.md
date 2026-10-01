@@ -2,8 +2,6 @@
 
 [[>]]
 
-> **Migration note:** Wikidot module `Rate` omitted.
-
 [[/>]]
 
 Echo looks at you with a mischievious smile and says "Ah, you think my name is unusual heh?"
