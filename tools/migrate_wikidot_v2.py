@@ -112,8 +112,97 @@ def convert_images(text,page,warnings):
     pat=re.compile(r"\[\[image\s+([^\]]*)\]\]",re.I)
     def repl(m):
         arg=m.group(1).strip()
-        if not arg: warnings["empty_image"]+=1; return ""
-        q=re.match(r'''("[^"]+"|'[^']+'|\S+)(.*)
+        if not arg:
+            warnings["empty_image"]+=1
+            return ""
+        q=re.match(r"(\"[^\"]+\"|'[^']+'|\S+)(.*)$",arg,re.S)
+        if not q:
+            return ""
+        src=q.group(1).strip("\"'")
+        attrs=q.group(2)
+        altm=re.search(r'alt="([^"]*)"',attrs,re.I)
+        alt=altm.group(1) if altm else ""
+        linkm=re.search(r'link="\*?([^"]+)"',attrs,re.I)
+        img=f'![{alt}]({local_asset_url(page,src)})'
+        return f'[{img}]({linkm.group(1).replace("http://","https://")})' if linkm else img
+    return pat.sub(repl,text)
+
+def convert_alt_images(text,page,warnings):
+    def centered(m):
+        return "![image]("+local_asset_url(page,m.group(1).strip())+")"
+    text=re.sub(r"\[\[=image\s+([^\]]+)\]\]",centered,text,flags=re.I)
+
+    def floated(m):
+        src=m.group(1).strip()
+        url=src.replace("http://","https://") if src.startswith(("http://","https://")) else local_asset_url(page,src)
+        return "![image]("+url+")"
+    return re.sub(r"\[\[f[<>]image\s+([^\]]+)\]\]",floated,text,flags=re.I)
+
+def convert_structured_tables(text,warnings):
+    table_pat=re.compile(r"\[\[table[^\]]*\]\](.*?)\[\[/table\]\]",re.I|re.S)
+    row_pat=re.compile(r"\[\[row[^\]]*\]\](.*?)\[\[/row\]\]",re.I|re.S)
+    cell_pat=re.compile(r"\[\[(hcell|cell)[^\]]*\]\](.*?)\[\[/\1\]\]",re.I|re.S)
+
+    def table_repl(m):
+        raw=m.group(1)
+        rows=[]; header_flags=[]
+        for rm in row_pat.finditer(raw):
+            cells=[]; flags=[]
+            for cm in cell_pat.finditer(rm.group(1)):
+                kind=cm.group(1).lower()
+                val=cm.group(2).strip()
+                val=re.sub(r"\s*\n\s*","<br>",val)
+                val=val.replace("|","\\|")
+                cells.append(val); flags.append(kind=="hcell")
+            if cells:
+                rows.append(cells); header_flags.append(flags)
+        if not rows:
+            warnings["structured_table_unparsed"]+=1
+            return raw
+        width=max(len(r) for r in rows)
+        rows=[r+[""]*(width-len(r)) for r in rows]
+        out=[]
+        if any(header_flags[0]):
+            out.append("| "+" | ".join(rows[0])+" |")
+            start=1
+        else:
+            out.append("| "+" | ".join([""]*width)+" |")
+            start=0
+        out.append("| "+" | ".join(["---"]*width)+" |")
+        for r in rows[start:]:
+            out.append("| "+" | ".join(r)+" |")
+        warnings["structured_table"]+=1
+        return "\n".join(out)
+    return table_pat.sub(table_repl,text)
+
+def convert_tabs(text):
+    text=re.sub(r"\[\[tabview\]\]|\[\[/tabview\]\]","",text,flags=re.I)
+    text=re.sub(r"\[\[tab\s+([^\]]+)\]\]",lambda m:"\n#### "+m.group(1).strip()+"\n",text,flags=re.I)
+    return re.sub(r"\[\[/tab\]\]","",text,flags=re.I)
+
+def convert_embedvideo(text):
+    text=re.sub(r"\[\[embedvideo[^\]]*\]\]","",text,flags=re.I)
+    return re.sub(r"\[\[/embedvideo\]\]","",text,flags=re.I)
+
+def convert_simple_wikilinks(text,source_map):
+    text=re.sub(r"\[\[\*user\s+([^\]]+)\]\]",lambda m:m.group(1).strip(),text,flags=re.I)
+    def repl(m):
+        body=m.group(1).strip()
+        low=body.lower()
+        if not body or low.startswith(("/", "module ", "include ", "image ", "table", "row", "cell", "hcell", "code", "collapsible", "html", "a ", "div", "span", "toc")):
+            return m.group(0)
+        key=normalize_slug(body)
+        if key in source_map:
+            return "["+body+"](/"+key+"/)"
+        return body
+    return re.sub(r"\[\[([^\[\]\n]+)\]\]",repl,text)
+
+def convert_misc_inline(text):
+    text=re.sub(r"\[\[source\]\((https?://[^)]+)\)\]",r"[source](\1)",text,flags=re.I)
+    text=re.sub(r"\^\^(.+?)\^\^",r"<sup>\1</sup>",text,flags=re.S)
+    text=re.sub(r"\[\[toc(?:\s+[^\]]*)?\]\]","",text,flags=re.I)
+    return text
+
 def parse_table_row(raw):
     s=raw.strip()
     if not s.startswith("||"): return None
