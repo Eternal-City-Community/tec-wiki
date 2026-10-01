@@ -15,22 +15,22 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 **For guidance on using the skill set, see the [Jewelry Guide](/jewelry-guide/)***(in progress)*.
 
-|  | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Captuo |  |
-| <u>*Basic Jewelry*</u> | Average | 100 |  |
-| [Assemble Jewelry](#Assemble-Jewelry) | Average | 100 |  |
-| [Cast Jewelry](#Cast-Jewelry) | Average | 100 |  |
-| [Cold Work Stock](#Cold-Work-Stock) | Average | 100 |  |
-| [Engrave Jewelry](#Engrave-Jewelry) | Difficult | 100 |  |
-| [Form Wax](#Form-Wax) | Average | 100 |  |
-| [Hot Work Stock](#Hot-Work-Stock) | Difficult | 100 |  |
-| [Layout Gem](#Layout-Gem) | Average | 100 |  |
-| [Make Mold](#Make-Mold) | Average | 100 |  |
-| [Set Gem](#Set-Gem) | Difficult | 100 |  |
-| [Rough Cut Gem](#Rough-Cut-Gem) | Average | 100 |  |
-| [Shape Gem](#Shape-Gem) | Average | 100 |  |
-| [Polish Gem](#Polish-Gem) | Average | 100 |  |
+| Skill Info |  | Ranks Taught by Trainer |
+| --- | --- | --- |
+| Skills/Actions | Difficulty | Captuo |
+| <u>*Basic Jewelry*</u> | Average | 100 |
+| [Assemble Jewelry](#Assemble-Jewelry) | Average | 100 |
+| [Cast Jewelry](#Cast-Jewelry) | Average | 100 |
+| [Cold Work Stock](#Cold-Work-Stock) | Average | 100 |
+| [Engrave Jewelry](#Engrave-Jewelry) | Difficult | 100 |
+| [Form Wax](#Form-Wax) | Average | 100 |
+| [Hot Work Stock](#Hot-Work-Stock) | Difficult | 100 |
+| [Layout Gem](#Layout-Gem) | Average | 100 |
+| [Make Mold](#Make-Mold) | Average | 100 |
+| [Set Gem](#Set-Gem) | Difficult | 100 |
+| [Rough Cut Gem](#Rough-Cut-Gem) | Average | 100 |
+| [Shape Gem](#Shape-Gem) | Average | 100 |
+| [Polish Gem](#Polish-Gem) | Average | 100 |
 
 
 <a id="Recipes"></a>
@@ -39,95 +39,95 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 <summary>+ Show Jewelry Recipes</summary>
 
 
-|  | Jewelry Recipes |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- |
-| Recipes | Difficulty | Captuo |  |
-|  |  |  | Metal Stock |
-| Produce Metal Stock Recipe | Easy | 100 |  |
-| Produce Wire Stock Recipe | Easy | 100 |  |
-| Tiny Chain Link Recipe | Average | 100 |  |
-| Large Chain Link Recipe | Easy | 100 |  |
-|  |  |  | Rings |
-| Cast Simple Band Recipe | Easy | 100 |  |
-| Broad Cast Ring Recipe | Average | 100 |  |
-| Simple Band Ring Recipe | Easy | 100 |  |
-| Wire Ring Recipe | Easy | 100 |  |
-| Ornate Forged Ring Recipe | Difficult | 100 |  |
-| Toe Ring Recipe | Average | 100 |  |
-|  |  |  | Bracelets & Bangles |
-| Cast Bangle Recipe | Easy | 100 |  |
-| Forged Bangle Recipe | Easy | 100 |  |
-| Broad Cast Bracelet Recipe | Average | 100 |  |
-| Wire Bracelet Recipe | Easy | 100 |  |
-| Charm Bracelet Recipe | Easy | 100 |  |
-|  |  |  | Anklets |
-| Cast Anklet Recipe | Easy | 100 |  |
-| Wire Anklet Recipe | Easy | 100 |  |
-| Forged Anklet Recipe | Easy | 100 |  |
-| Charm Anklet Recipe | Easy | 100 |  |
-|  |  |  | Earrings |
-| Cast Stud Earrings Recipe | Easy | 100 |  |
-| Wire Earrings Recipe | Easy | 100 |  |
-| Hoop Earrings Recipe | Easy | 100 |  |
-| Drop Earrings Recipe | Average | 100 |  |
-|  |  |  | Necklaces & Pendants |
-| Fine Chain Necklace Recipe | Easy | 100 |  |
-| Heavy Chain Necklace Recipe | Easy | 100 |  |
-| Wire Necklace Recipe | Easy | 100 |  |
-| Cast Pendant Recipe | Easy | 100 |  |
-| Pendant Necklace Recipe | Easy | 100 |  |
-| Charm Necklace Recipe | Easy | 100 |  |
-|  |  |  | Head, Waist & Other Wear |
-| Forged Tiara Recipe | Impossible | 100 |  |
-| Waist Chain Recipe | Average | 100 |  |
-|  |  |  | Piercings |
-| Nose Stud Recipe | Easy | 100 |  |
-| Nose Ring Recipe | Easy | 100 |  |
-| Lip Stud Recipe | Easy | 100 |  |
-| Lip Ring Recipe | Easy | 100 |  |
-| Septum Ring Recipe | Easy | 100 |  |
-| Eyebrow Ring Recipe | Easy | 100 |  |
-|  |  |  | Charms |
-| Cast Charm Recipe *(grouping entry)* | Difficult | 100 |  |
-| Cast Bear Charm Recipe | Difficult | 100 |  |
-| Cast Fish Charm Recipe | Difficult | 100 |  |
-| Cast Star Charm Recipe | Difficult | 100 |  |
-| Cast Snake Charm Recipe | Difficult | 100 |  |
-| Cast Sun Charm Recipe | Difficult | 100 |  |
-| Cast Moon Charm Recipe | Difficult | 100 |  |
-| Cast Woman Charm Recipe | Difficult | 100 |  |
-| Cast Man Charm Recipe | Difficult | 100 |  |
-| Cast Horse Charm Recipe | Difficult | 100 |  |
-| Cast Dog Charm Recipe | Difficult | 100 |  |
-| Cast Cat Charm Recipe | Difficult | 100 |  |
-| Cast Turtle Charm Recipe | Difficult | 100 |  |
-| Cast Falcon Charm Recipe | Difficult | 100 |  |
-| Cast Eagle Charm Recipe | Difficult | 100 |  |
-| Cast Hawk Charm Recipe | Difficult | 100 |  |
-| Cast Owl Charm Recipe | Difficult | 100 |  |
-| Cast Dove Charm Recipe | Difficult | 100 |  |
-| Cast Duck Charm Recipe | Difficult | 100 |  |
-| Cast Chicken Charm Recipe | Difficult | 100 |  |
-| Cast Goat Charm Recipe | Difficult | 100 |  |
-| Cast Lion Charm Recipe | Difficult | 100 |  |
-| Cast Esecarnus Charm Recipe | Difficult | 100 |  |
-| Cast Bull Charm Recipe | Difficult | 100 |  |
-|  |  |  | Stone Cuts |
-| Cabochon Cut Recipe | Easy | 100 |  |
-| Baguette Cut Recipe | Easy | 100 |  |
-| Table Cut Recipe | Easy | 100 |  |
-| Emerald Cut Recipe | Difficult | 100 |  |
-| Heart Cut Recipe | Difficult | 100 |  |
-| Marquise Cut Recipe | Difficult | 100 |  |
-| Oval Cut Recipe | Average | 100 |  |
-| Pear Cut Recipe | Difficult | 100 |  |
-| Rose Cut Recipe | Average | 100 |  |
-| Cushion Cut Recipe | Average | 100 |  |
-| Round Cut Recipe | Difficult | 100 |  |
-| Princess Cut Recipe | Difficult | 100 |  |
-| Asscher Cut Recipe | Difficult | 100 |  |
-| Radiant Cut Recipe | Difficult | 100 |  |
-| Trillion Cut Recipe | Difficult | 100 |  |
+| Jewelry Recipes |  | Ranks Taught by Trainer |
+| --- | --- | --- |
+| Recipes | Difficulty | Captuo |
+| Metal Stock |  |  |
+| Produce Metal Stock Recipe | Easy | 100 |
+| Produce Wire Stock Recipe | Easy | 100 |
+| Tiny Chain Link Recipe | Average | 100 |
+| Large Chain Link Recipe | Easy | 100 |
+| Rings |  |  |
+| Cast Simple Band Recipe | Easy | 100 |
+| Broad Cast Ring Recipe | Average | 100 |
+| Simple Band Ring Recipe | Easy | 100 |
+| Wire Ring Recipe | Easy | 100 |
+| Ornate Forged Ring Recipe | Difficult | 100 |
+| Toe Ring Recipe | Average | 100 |
+| Bracelets & Bangles |  |  |
+| Cast Bangle Recipe | Easy | 100 |
+| Forged Bangle Recipe | Easy | 100 |
+| Broad Cast Bracelet Recipe | Average | 100 |
+| Wire Bracelet Recipe | Easy | 100 |
+| Charm Bracelet Recipe | Easy | 100 |
+| Anklets |  |  |
+| Cast Anklet Recipe | Easy | 100 |
+| Wire Anklet Recipe | Easy | 100 |
+| Forged Anklet Recipe | Easy | 100 |
+| Charm Anklet Recipe | Easy | 100 |
+| Earrings |  |  |
+| Cast Stud Earrings Recipe | Easy | 100 |
+| Wire Earrings Recipe | Easy | 100 |
+| Hoop Earrings Recipe | Easy | 100 |
+| Drop Earrings Recipe | Average | 100 |
+| Necklaces & Pendants |  |  |
+| Fine Chain Necklace Recipe | Easy | 100 |
+| Heavy Chain Necklace Recipe | Easy | 100 |
+| Wire Necklace Recipe | Easy | 100 |
+| Cast Pendant Recipe | Easy | 100 |
+| Pendant Necklace Recipe | Easy | 100 |
+| Charm Necklace Recipe | Easy | 100 |
+| Head, Waist & Other Wear |  |  |
+| Forged Tiara Recipe | Impossible | 100 |
+| Waist Chain Recipe | Average | 100 |
+| Piercings |  |  |
+| Nose Stud Recipe | Easy | 100 |
+| Nose Ring Recipe | Easy | 100 |
+| Lip Stud Recipe | Easy | 100 |
+| Lip Ring Recipe | Easy | 100 |
+| Septum Ring Recipe | Easy | 100 |
+| Eyebrow Ring Recipe | Easy | 100 |
+| Charms |  |  |
+| Cast Charm Recipe *(grouping entry)* | Difficult | 100 |
+| Cast Bear Charm Recipe | Difficult | 100 |
+| Cast Fish Charm Recipe | Difficult | 100 |
+| Cast Star Charm Recipe | Difficult | 100 |
+| Cast Snake Charm Recipe | Difficult | 100 |
+| Cast Sun Charm Recipe | Difficult | 100 |
+| Cast Moon Charm Recipe | Difficult | 100 |
+| Cast Woman Charm Recipe | Difficult | 100 |
+| Cast Man Charm Recipe | Difficult | 100 |
+| Cast Horse Charm Recipe | Difficult | 100 |
+| Cast Dog Charm Recipe | Difficult | 100 |
+| Cast Cat Charm Recipe | Difficult | 100 |
+| Cast Turtle Charm Recipe | Difficult | 100 |
+| Cast Falcon Charm Recipe | Difficult | 100 |
+| Cast Eagle Charm Recipe | Difficult | 100 |
+| Cast Hawk Charm Recipe | Difficult | 100 |
+| Cast Owl Charm Recipe | Difficult | 100 |
+| Cast Dove Charm Recipe | Difficult | 100 |
+| Cast Duck Charm Recipe | Difficult | 100 |
+| Cast Chicken Charm Recipe | Difficult | 100 |
+| Cast Goat Charm Recipe | Difficult | 100 |
+| Cast Lion Charm Recipe | Difficult | 100 |
+| Cast Esecarnus Charm Recipe | Difficult | 100 |
+| Cast Bull Charm Recipe | Difficult | 100 |
+| Stone Cuts |  |  |
+| Cabochon Cut Recipe | Easy | 100 |
+| Baguette Cut Recipe | Easy | 100 |
+| Table Cut Recipe | Easy | 100 |
+| Emerald Cut Recipe | Difficult | 100 |
+| Heart Cut Recipe | Difficult | 100 |
+| Marquise Cut Recipe | Difficult | 100 |
+| Oval Cut Recipe | Average | 100 |
+| Pear Cut Recipe | Difficult | 100 |
+| Rose Cut Recipe | Average | 100 |
+| Cushion Cut Recipe | Average | 100 |
+| Round Cut Recipe | Difficult | 100 |
+| Princess Cut Recipe | Difficult | 100 |
+| Asscher Cut Recipe | Difficult | 100 |
+| Radiant Cut Recipe | Difficult | 100 |
+| Trillion Cut Recipe | Difficult | 100 |
 
 
 </details>
@@ -139,24 +139,24 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 <summary>+ Show Jewelry Lores</summary>
 
 
-|  | Jewelry Lores |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- |
-| Lore | Difficulty | Captuo |  |
-|  |  |  | Engraving |
-| Geometric Engraving | Easy | 100 |  |
-| Vines Engraving | Easy | 100 |  |
-| Hearts Engraving | Easy | 100 |  |
-| Stars Engraving | Easy | 100 |  |
-| Crescent Moons Engraving | Easy | 100 |  |
-| Squares Engraving | Easy | 100 |  |
-| Circles Engraving | Easy | 100 |  |
-| Fish Engraving | Easy | 100 |  |
-| Feathers Engraving | Easy | 100 |  |
-| Knots Engraving | Easy | 100 |  |
-| Laurel Engraving | Easy | 100 |  |
-| Waves Engraving | Easy | 100 |  |
-| Triangles Engraving | Easy | 100 |  |
-| Spirals Engraving | Easy | 100 |  |
+| Jewelry Lores |  | Ranks Taught by Trainer |
+| --- | --- | --- |
+| Lore | Difficulty | Captuo |
+| Engraving |  |  |
+| Geometric Engraving | Easy | 100 |
+| Vines Engraving | Easy | 100 |
+| Hearts Engraving | Easy | 100 |
+| Stars Engraving | Easy | 100 |
+| Crescent Moons Engraving | Easy | 100 |
+| Squares Engraving | Easy | 100 |
+| Circles Engraving | Easy | 100 |
+| Fish Engraving | Easy | 100 |
+| Feathers Engraving | Easy | 100 |
+| Knots Engraving | Easy | 100 |
+| Laurel Engraving | Easy | 100 |
+| Waves Engraving | Easy | 100 |
+| Triangles Engraving | Easy | 100 |
+| Spirals Engraving | Easy | 100 |
 
 **Maker's mark** is available on jewelry that can be engraved. It is a short identifying mark of the craftsman and does not use a full decorative engraving pattern slot. It is cut with the engrave command rather than learned as a separate decorative lore.
 
