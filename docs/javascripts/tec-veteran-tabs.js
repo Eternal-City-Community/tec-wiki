@@ -1,8 +1,10 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecVeteranTabs() {
   if (window.location.pathname.replace(/\/+$/, "") !== "/veteran-characters") return;
 
   var root = document.querySelector(".md-typeset");
   if (!root) return;
+  if (root.dataset.tecVeteranTabs === "1") return;
+  root.dataset.tecVeteranTabs = "1";
 
   var groups = [
     [
@@ -130,4 +132,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
   buildTabset(groups[0], 0);
   buildTabset(groups[1], 1);
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecVeteranTabs, { once: true });
+} else {
+  initTecVeteranTabs();
+}
+document.addEventListener("DOMContentSwitch", initTecVeteranTabs);
