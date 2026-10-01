@@ -147,8 +147,7 @@ body::before {
 
 /* PRIMARY SIDEBAR — styled to resemble the Wikidot menu blocks. */
 .md-sidebar--primary {
-  position: sticky;
-  top: 6.9rem;
+  position: relative;
   width: var(--tec-sidebar-width);
   min-width: var(--tec-sidebar-width);
   height: auto;
@@ -371,25 +370,40 @@ body::before {
   .md-grid {
     max-width: none;
   }
+
+  .md-sidebar--primary {
+    position: sticky;
+    top: 6.9rem;
+    align-self: start;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap,
+  .md-sidebar--primary .md-sidebar__inner {
+    overflow: visible !important;
+    max-height: none !important;
+    height: auto !important;
+  }
 }
 
 /* Mobile: revert to a normal single-column layout. */
 @media screen and (max-width: 76.234375em) {
-  .md-sidebar--primary {
-    position: static;
-    top: auto;
-  }
-
   .md-main__inner {
     display: block;
     padding: 0;
   }
 
   .md-sidebar--primary {
-    width: auto;
-    min-width: 0;
+    width: 12.5rem;
+    min-width: 12.5rem;
     border: 0;
     border-radius: 0;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap,
+  .md-sidebar--primary .md-sidebar__inner {
+    overflow-y: auto !important;
+    max-height: 100vh !important;
+    height: auto !important;
   }
 
   .md-content {
@@ -407,8 +421,28 @@ body::before {
 }
 
 @media screen and (max-width: 44.984375em) {
+  .md-content {
+    width: 100%;
+    min-width: 0;
+  }
+
   .md-content__inner {
     padding: .8rem .72rem 2rem;
+  }
+
+  .md-header__inner {
+    min-height: 58px;
+    padding-left: .5rem;
+    padding-right: .5rem;
+  }
+
+  .md-header__topic:first-child {
+    max-width: 13rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: .9rem;
+    letter-spacing: .12em;
   }
 
   .md-typeset {
@@ -417,6 +451,14 @@ body::before {
 
   .md-typeset h1 {
     padding-left: 0;
+  }
+
+  .tec-side {
+    font-size: .66rem;
+  }
+
+  .tec-side__plaque {
+    font-size: .7rem;
   }
 }
 
