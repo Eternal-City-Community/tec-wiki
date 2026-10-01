@@ -25,13 +25,15 @@ jobs:
         run: python tools/migrate_wikidot_v2.py migration/tec-wikidot-source-only.zip --docs docs
       - name: Apply static-site replacements and link cleanup
         run: python tools/post_migration.py
+      - name: Localize imported attachments
+        run: python tools/import_wikidot_attachments.py
       - name: Audit result
         run: python tools/audit_migration.py
       - name: Commit full migration pass
         run: |
           git config user.name "tec-wiki-migration"
           git config user.email "actions@users.noreply.github.com"
-          git add docs MIGRATION_REPORT.md POST_MIGRATION_REPORT.md WIKI_AUDIT.md
+          git add docs MIGRATION_REPORT.md POST_MIGRATION_REPORT.md ATTACHMENT_MIGRATION_REPORT.md WIKI_AUDIT.md
           if git diff --cached --quiet; then
             echo "No changes."
           else
