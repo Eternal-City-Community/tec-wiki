@@ -1,6 +1,6 @@
 # TEC Wiki migration audit
 
-- Markdown pages scanned: **901**
+- Markdown pages scanned: **902**
 - Pages containing migration placeholders: **0**
 - Migrated include placeholders: **0**
 - Dynamic Wikidot placeholders: **0**
