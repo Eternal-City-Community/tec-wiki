@@ -106,7 +106,8 @@ for path in sorted(DOCS.rglob("*.md")):
         start = i+1
         counts = []
         while i < len(ls) and ls[i].lstrip().startswith("|"):
-            counts.append(table_cols(ls[i]))
+            safe = re.sub(r"\\\\\\|", "", ls[i])
+            counts.append(table_cols(safe))
             i += 1
         if len(counts) >= 2 and len(set(counts)) > 1:
             bad_tables.append((start, min(counts), max(counts)))
