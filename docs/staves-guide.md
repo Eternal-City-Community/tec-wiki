@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Staves Guide
 
-## Staves Guide *(in progress)*
-
 Below you'll find everything important to know about Staves.
 
 ### In a Nutshell

@@ -29,7 +29,7 @@ Worship of Ereal in one form or another is common throughout most civilized nati
 * [Sostaera](/sostaera/)
 
 
-<details>
+<details markdown="1">
 <summary>+ Daily worship of Ereal</summary>
 
 

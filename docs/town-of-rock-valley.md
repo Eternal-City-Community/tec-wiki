@@ -13,7 +13,7 @@ The current governor is [bio:Calastor Triarchus](/bio_calastor-triarchus/).
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

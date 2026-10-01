@@ -9,7 +9,7 @@ A compendium of lore, player submitted entries, and tidbits of flavor to support
 
 ## Songs
 
-<details>
+<details markdown="1">
 <summary>+ The Rite of The Path ~ By Malezzerai DaSallant</summary>
 
 
@@ -41,7 +41,7 @@ With eyes wide open you walk the paths .. Incarna welcome them in.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Song of the Morning - Amarad</summary>
 
 
@@ -78,7 +78,7 @@ Aya, aya, aya
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Iridine Man - Myouiijita</summary>
 
 
@@ -109,7 +109,7 @@ The Iridine Man!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Summer Rose - Cyanicus</summary>
 
 
@@ -177,7 +177,7 @@ That keeps my soul alightÖ
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Why of Saplings - Shade</summary>
 
 
@@ -205,7 +205,7 @@ in quicksand tests
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ A Simple Ballad - GreendaleIV</summary>
 
 
@@ -229,7 +229,7 @@ to come back home, we missed you here.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ And the Winds Rage - Alivian Kinsley</summary>
 
 
@@ -285,7 +285,7 @@ Love is no more than a dream
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Battle and Beverages - Ballouve</summary>
 
 
@@ -335,7 +335,7 @@ keep the good men soffer, and I'll cook up up the beast
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ An Ol&#x27; Sailing Song - Juilin</summary>
 
 
@@ -366,7 +366,7 @@ We're bound valla'va ride 'round the horn.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Battlefield - Ridelle Luminus</summary>
 
 
@@ -411,7 +411,7 @@ congradulations troop, you survived the battlefield!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Tribal Chant of Revenge - Amarad Nightsbane</summary>
 
 
@@ -447,7 +447,7 @@ Mercy for NO ONE
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Altene, Altene Ballad - Strider13sw</summary>
 
 
@@ -526,7 +526,7 @@ Bard, Altene Stavesm
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ It&#x27;s My Life - Amarad Nightsbane</summary>
 
 
@@ -578,7 +578,7 @@ IT'S MY LIFE!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Drinking Song - 200XR</summary>
 
 
@@ -618,7 +618,7 @@ Where's my wench?
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Jailtime - Mercinary</summary>
 
 
@@ -676,7 +676,7 @@ then they take you to a place that's dim.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Salute to Constantine - Hamburger</summary>
 
 
@@ -704,7 +704,7 @@ so we come here of course!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Antequides&#x27; Song - Dragonldee</summary>
 
 
@@ -739,7 +739,7 @@ In memory of Antequides, you are missed and never forgotten, my friend.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Wine is Good - Blackknight</summary>
 
 
@@ -778,7 +778,7 @@ Enjoy yourselves at the bar.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ A little Barbarian Song - Amarad Nightsbane</summary>
 
 
@@ -832,7 +832,7 @@ AYE!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Training Song - Taliseman</summary>
 
 
@@ -857,7 +857,7 @@ I'm on my way!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ An Ode To Iridine - Muracho Len</summary>
 
 
@@ -889,7 +889,7 @@ Expire
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Toshiro - Dragonldee</summary>
 
 
@@ -898,7 +898,7 @@ You talk about you and only you, and the things you can do for you. You say you'
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Secret Song - Dragonldee</summary>
 
 
@@ -911,7 +911,7 @@ This secret tune makes her smile As he stirs and wakes to kiss her She looks int
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ A fellow in a tunic - Dataylor</summary>
 
 
@@ -924,7 +924,7 @@ Well this story is a small one for the tale is very short. For that action a war
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ For You - Reshan</summary>
 
 
@@ -952,7 +952,7 @@ I'd die for you.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Greedy Mask - Granellius</summary>
 
 
@@ -965,7 +965,7 @@ But the klepto mask was yet undone, even though he had his fun. He looked in the
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ What Good Is Hair Anyways? - Granellius</summary>
 
 
@@ -974,7 +974,7 @@ My sister's feet, she's got a rather dainty pair. And my mum, her skin is cold a
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Let the Lighthouse Light be Burning - Seraph</summary>
 
 
@@ -1017,7 +1017,7 @@ Will be rescued, and be Saved!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Onward Ereal&#x27;s Soldiers - Seraph</summary>
 
 
@@ -1047,7 +1047,7 @@ Going on Before........!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Over the Sunset Mountains - Seraph</summary>
 
 
@@ -1084,7 +1084,7 @@ Ereal, my God, I will see!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Maybe this Old Song - Seraph</summary>
 
 
@@ -1151,7 +1151,7 @@ And.... our Love..... is.... here........ to Stay!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Wishes - Shade</summary>
 
 
@@ -1184,7 +1184,7 @@ These are the wishes of my heart.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ A Good Ole Drinking Song - Drunser</summary>
 
 
@@ -1207,7 +1207,7 @@ And drinking until... up comes the sun! Thank you very much.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ An Ode To Posca - Drunser</summary>
 
 
@@ -1228,7 +1228,7 @@ Good if you want the liquid out of your lungs!
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Things I could tell you about Iridine... -Malik</summary>
 
 
@@ -1255,7 +1255,7 @@ Who wore one with his glove
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ The Lyre Song - Malik</summary>
 
 
@@ -1274,7 +1274,7 @@ Without it falling apart
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Shade&#x27;s Songs - Shade</summary>
 
 
@@ -1396,7 +1396,7 @@ If sung solo, teach chant at beginning, and chant several times before singing c
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Stones - Shade</summary>
 
 
@@ -1430,7 +1430,7 @@ for me to mourn.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Altene Marching Song - Quintus</summary>
 
 
@@ -1510,7 +1510,7 @@ To the final, rattling breath.]
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Butterflies Bloom - Shade</summary>
 
 
@@ -1535,7 +1535,7 @@ Roses make me tall
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Embarrassments - Cyanicus</summary>
 
 
@@ -1582,7 +1582,7 @@ And I am going to enjoy it.
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ A Song by Dice - Dice</summary>
 
 

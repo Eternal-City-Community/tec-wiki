@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Ckf Guide
 
-## CKF Guide *(in progress)*
-
 Below you'll find everything important to know about using [Cineran Knife Fighting](/cineran-knife-fighting-knives/).
 
 This fighting style based on **an existing knowledge of [Knives](/knives/)**.

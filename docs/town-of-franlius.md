@@ -21,7 +21,7 @@ Years later, during the 315th Year of the Republic, whispers began circulating i
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

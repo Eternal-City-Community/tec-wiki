@@ -117,7 +117,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | [Knife Stab and Slash](#Dc) | 50 Ranks in [Knife Simple Stab](#Stab)<br><br>50 Ranks in [Knife Slash](#Slash) |
 
 
-<details>
+<details markdown="1">
 <summary>+ Show</summary>
 
 

@@ -14,7 +14,7 @@ At the center of the vast and civilized city of Iridine is the blood-stained san
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

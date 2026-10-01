@@ -35,7 +35,7 @@ walk to bronze, w, w
 
 #### Map:
 
-<details>
+<details markdown="1">
 <summary>+ Show</summary>
 
 

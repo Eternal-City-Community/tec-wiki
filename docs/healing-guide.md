@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Healing Guide
 
-## Healing Guide (in progress)
-
 Below you'll find everything important to know about [Healing](/healing/).
 
 ### In a Nutshell

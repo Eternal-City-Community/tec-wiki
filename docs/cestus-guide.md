@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Cestus Guide
 
-## Cestus Guide (in progress)
-
 Below you'll find everything important to know about using [Cestii](/cestus/).
 
 ### In a Nutshell

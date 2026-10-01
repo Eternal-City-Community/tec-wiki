@@ -19,7 +19,7 @@ These barbarians are friendly, but they do not talk our language or tolerate vio
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

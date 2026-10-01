@@ -60,7 +60,7 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 | an iron lorica squamata | 6,000 | 235t | 12 lbs | Very Good - Chest, Back, Waist, Thighs |
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Leather Armor Descriptors</summary>
 
 
@@ -72,7 +72,7 @@ That comes in the following colors: azure, black, blood red, blue, boison studde
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Alanti Armor Descriptors</summary>
 
 
@@ -84,7 +84,7 @@ That comes in the following colors: black, blackened, blue, brown, crimson, engr
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Show War Hammer Descriptors</summary>
 
 
@@ -96,7 +96,7 @@ That comes in the following colors: azure, balanced, black, black leather grippe
 </details>
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Short Spear Descriptors</summary>
 
 

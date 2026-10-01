@@ -144,7 +144,7 @@ Below are the Legio accounts of notable in-game story arcs.
 In death, the Enemies of the Republic provide a unique and useful service to the Republic. Their bodies, piked in front of various forts in the Republic, provide a display of strength and warning to those who would dare consider being traitor to Iridine’s causes. These are some of the stories:
 
 
-<details>
+<details markdown="1">
 <summary>+ Piked Enemies of the Republic 💀</summary>
 
 

@@ -12,7 +12,7 @@ The City of Iridine is only the capital of a swiftly-growing nation. There are d
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

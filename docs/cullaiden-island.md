@@ -8,7 +8,7 @@ category: "World & Maps"
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

@@ -16,7 +16,7 @@ A strategic village that serves as the last line of defense against northern inv
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

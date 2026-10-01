@@ -86,7 +86,7 @@ The sect of the Nurturing Light represents **Ereal of the Evening**. To them, Er
  
 
 
-<details>
+<details markdown="1">
 <summary>+ Show More</summary>
 
 
@@ -122,7 +122,7 @@ The Seed is considered **on par with the Mist**, in terms of ranking. They are r
  
 
 
-<details>
+<details markdown="1">
 <summary>+ Show More</summary>
 
 
@@ -157,7 +157,7 @@ The Sect of the Bright Hope *(aka Sect of the Morning Light)* is the most numero
  
 
 
-<details>
+<details markdown="1">
 <summary>+ Show More</summary>
 
 
@@ -252,7 +252,7 @@ They are the **Festival for Ereal of the Morning** which begins at the start of 
  
 
 
-<details>
+<details markdown="1">
 <summary>+ Show More</summary>
 
 

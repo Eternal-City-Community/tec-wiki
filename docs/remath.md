@@ -29,7 +29,7 @@ The constant threat of being swallowed whole by Cinera or Iridine notwithstandin
 * *"Many of Iridine's most famous locksmiths, or their parents, have immigrated from Remath."*
 
 
-<details>
+<details markdown="1">
 <summary>+ Trade is an art</summary>
 
 

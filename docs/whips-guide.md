@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Whips Guide
 
-## Whips Guide *(in progress)*
-
 Below you'll find everything important to know about **[Short Whips](/whips/)**.
 
 ### In a Nutshell

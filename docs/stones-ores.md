@@ -111,7 +111,7 @@ Ore may be found in a variety of sizes: **tiny chunk**, **very small chunk**, **
 The following table includes sample prices for most gems from all of the [gem buyers](/services/#toc4) in game. Note that prices will vary based on the current market and the person selling. Prices can also vary for stones of the same size and type that otherwise look the same. This is only a rough guide!
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Stone Prices</summary>
 
 

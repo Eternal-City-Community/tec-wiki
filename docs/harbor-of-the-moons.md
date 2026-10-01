@@ -16,7 +16,7 @@ While the arches of the Harbor of the Moons retain a mysterious and surreal air 
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

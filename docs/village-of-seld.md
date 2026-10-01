@@ -13,7 +13,7 @@ This small town is located along the river ferry ride from the [Town of Vetallun
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 
@@ -82,7 +82,7 @@ A.   Seld Square
 * Locksmithing **kiln** & **forge**, fueled by charcoal.
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Release Notes</summary>
 
 

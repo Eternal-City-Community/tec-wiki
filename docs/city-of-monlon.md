@@ -25,7 +25,7 @@ The current interim governor is **Paprius Aketoros**, who was appointed after th
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

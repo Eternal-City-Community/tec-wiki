@@ -58,7 +58,7 @@ The mission began at Vetallun Fortress with orders to rescue **Signifer Vespus**
 Despite the ambush and fierce fighting, the squad prevailed. Armagorus was located and executed by recruits Kirre and Takius, ending the threat of one of Cinera's most notorious spies. A search of the wagons revealed Signifer Vespus alive, though injured, and the legion standard secured. The mission concluded as a hard-won victory for the legions of Iridine, achieving all objectives under dire circumstances.
 
 
-<details>
+<details markdown="1">
 <summary>+ Read Optio Dahkneth&#x27;s Official Report</summary>
 
 

@@ -14,7 +14,7 @@ The Kelestian Outpost houses a reputation vendor, a resting room and trainers fo
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 

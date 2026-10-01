@@ -15,7 +15,7 @@ The current governor is [bio:Sedivain Oradanae](/bio_sedivain-oradanae/), assist
 
 ### Map
 
-<details>
+<details markdown="1">
 <summary>+ Show Map</summary>
 
 
