@@ -140,8 +140,8 @@ Characters use the brew <container> command. The **size of the [container](#Cont
 | Posca | Bunch of Grapes (5) 🪙<br><br>Tiny winkled black seedpod (20) | Mortar & Pestal | 20 Ranks in [Brew Fundamentals](/herbalism/#brew) |
 | Wine | Bunch of Grapes (10) 🪙<br><br>Ridged brilliant red mushroom cap (5) | Mortar & Pestal | 30 Ranks in [Brew Fundamentals](/herbalism/#brew) |
 | Vitis Amurensis Juice | Bunch of white grapes (5) 🪙 | Mortar & Pestal | 30 Ranks in [Brew Fundamentals](/herbalism/#brew) |
-| Beer | Barley grain (75) 🪙<br><br>Long, dark green tri-pointed leaf (10)<br><br>Ridged brilliant red mushroom cap (5) | Boiling Pot<br><br>Filter Paper<br><br>Fire<br><br>Mortar & Pestal<br><br>Water | ##red\|XX## Ranks in [Brew Fundamentals](/herbalism/#brew) |
-| Liquor | Wheat flour (5) 🪙<br><br>Barley grain (75) 🪙<br><br>Ridged brilliant red mushroom cap (50) | Boiling Pot<br><br>Filter Paper<br><br>Fire<br><br>Knife<br><br>Mortar & Pestal<br><br>Still<br><br>Stirring Stick<br><br>Water | ##red\|XX## Ranks in [Brew Fundamentals](/herbalism/#brew) |
+| Beer | Barley grain (75) 🪙<br><br>Long, dark green tri-pointed leaf (10)<br><br>Ridged brilliant red mushroom cap (5) | Boiling Pot<br><br>Filter Paper<br><br>Fire<br><br>Mortar & Pestal<br><br>Water | **XX** Ranks in [Brew Fundamentals](/herbalism/#brew) |
+| Liquor | Wheat flour (5) 🪙<br><br>Barley grain (75) 🪙<br><br>Ridged brilliant red mushroom cap (50) | Boiling Pot<br><br>Filter Paper<br><br>Fire<br><br>Knife<br><br>Mortar & Pestal<br><br>Still<br><br>Stirring Stick<br><br>Water | **XX** Ranks in [Brew Fundamentals](/herbalism/#brew) |
 
 
 <a id="BrewingPaint"></a>
@@ -157,14 +157,14 @@ Paints to paint... stuff.
 | Writing Ink | Scaley Grey Bark (50) | TBC | 20 Ranks in [Brew Paint](/herbalism/#paint) |
 | Blue Paint | Small furry green leaf (100)<br><br>Tiny soft blue flower (50) | TBC | 30 Ranks in [Brew Paint](/herbalism/#paint) |
 | Green Flame Torch Coating | Small furry green leaf (100)<br><br>Long stem covered in small spiky leaves (50)<br><br>Semi-transparent grey crystal (25) 🪙 | TBC | 30 Ranks in [Brew Paint](/herbalism/#paint) |
-| White Paint | Small furry green leaf (100)<br><br>Slender yellow stem (50)<br><br>Yellow fruit with a thick peel (5) 🪙 | (TBC) Mixing Stick<br><br>Mortar & Pestal | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Grey Paint | Small furry green leaf (100)<br><br>Piece of rough, dark-grey bark (50) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Crimson Paint | Small furry green leaf (100)<br><br>Piece of lacy red moss speckled with black (50)<br><br>Deep yellow flower with red veining (25) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Azure Paint | Small furry green leaf (100)<br><br>Tiny soft blue flower (50)<br><br>Piece of pale blue moss frosted with white (25) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Sable Paint | Small furry green leaf (100)<br><br>Tiny wrinkled black seedpod (50)<br><br>Enormous brownish-green leaf (25) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Inky Black Paint | Small furry green leaf (100)<br><br>Tiny wrinkled black seedpod (50)<br><br>Straight brown thorn that is very hard (25) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Jade Green Paint | Small furry green leaf (100)<br><br>Long stem covered in small spiky leaves (50)<br><br>Long, dark green tri-pointed leaf (25) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
-| Pearl White Paint | Small furry green leaf (100)<br><br>Slender yellow stem (50)<br><br>Piece of thin grey bark (25) | TBC | ##red\|XX## Ranks in [Brew Paint](/herbalism/#paint) |
+| White Paint | Small furry green leaf (100)<br><br>Slender yellow stem (50)<br><br>Yellow fruit with a thick peel (5) 🪙 | (TBC) Mixing Stick<br><br>Mortar & Pestal | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Grey Paint | Small furry green leaf (100)<br><br>Piece of rough, dark-grey bark (50) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Crimson Paint | Small furry green leaf (100)<br><br>Piece of lacy red moss speckled with black (50)<br><br>Deep yellow flower with red veining (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Azure Paint | Small furry green leaf (100)<br><br>Tiny soft blue flower (50)<br><br>Piece of pale blue moss frosted with white (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Sable Paint | Small furry green leaf (100)<br><br>Tiny wrinkled black seedpod (50)<br><br>Enormous brownish-green leaf (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Inky Black Paint | Small furry green leaf (100)<br><br>Tiny wrinkled black seedpod (50)<br><br>Straight brown thorn that is very hard (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Jade Green Paint | Small furry green leaf (100)<br><br>Long stem covered in small spiky leaves (50)<br><br>Long, dark green tri-pointed leaf (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
+| Pearl White Paint | Small furry green leaf (100)<br><br>Slender yellow stem (50)<br><br>Piece of thin grey bark (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
 
 
 <a id="BrewingFlasks"></a>
@@ -179,7 +179,7 @@ Paints to paint... stuff.
 | Lemon Soap | Oblong green fruit (100)<br><br>Yellow fruit with a thick peel (20) 🪙 | TBC | 30 Ranks in [Brew Flask](/herbalism/#flask) |
 | Pine Soap | Oblong green fruit (100)<br><br>Dark green tree needle (50) | TBC | 30 Ranks in [Brew Flask](/herbalism/#flask) |
 | Violet Soap | Oblong green fruit (100)<br><br>Deep blue flower with white edges (40) | TBC | 50 Ranks in [Brew Flask](/herbalism/#flask) |
-| Rose Soap | Oblong green fruit (100)<br><br>Blossoming red flower (40) | TBC | ##red\|XX## Ranks in [Brew Flask](/herbalism/#flask) |
+| Rose Soap | Oblong green fruit (100)<br><br>Blossoming red flower (40) | TBC | **XX** Ranks in [Brew Flask](/herbalism/#flask) |
 
 
 <a id="BrewingSalves"></a>
@@ -201,9 +201,9 @@ Items to help with character general health. Often combined with [healing](/heal
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
 | --- | --- | --- | --- |
-| Blue-Green Acceleration Drug | Ridged brilliant red mushroom cap (150)<br><br>Piece of pale blue moss frosted with white (40)<br><br>Yellow fruit with a thick peel (10) 🪙 | TBC | ##red\|XX## Ranks in [Brew Potion](/herbalism/#potion) |
-| Yellow Agility Drug | Ridged brilliant red mushroom cap (150)<br><br>Straight brown thorn that is very hard (50)<br><br>Yellow fruit with a thick peel (10) 🪙 | Boiling Pot<br><br>Fire<br><br>Knife<br><br>Mixing Stick<br><br>Mortar & Pestal | ##red\|XX## Ranks in [Brew Potion](/herbalism/#potion) |
-| Red Strength Drug | Ridged brilliant red mushroom cap (150)<br><br>Round reddish leaf (20)<br><br>Yellow fruit with a thick peel (10) 🪙 | Boiling Pot<br><br>Fire<br><br>Mortar & Pestal<br><br>Sponge | ##red\|XX## Ranks in [Brew Potion](/herbalism/#potion) |
+| Blue-Green Acceleration Drug | Ridged brilliant red mushroom cap (150)<br><br>Piece of pale blue moss frosted with white (40)<br><br>Yellow fruit with a thick peel (10) 🪙 | TBC | **XX** Ranks in [Brew Potion](/herbalism/#potion) |
+| Yellow Agility Drug | Ridged brilliant red mushroom cap (150)<br><br>Straight brown thorn that is very hard (50)<br><br>Yellow fruit with a thick peel (10) 🪙 | Boiling Pot<br><br>Fire<br><br>Knife<br><br>Mixing Stick<br><br>Mortar & Pestal | **XX** Ranks in [Brew Potion](/herbalism/#potion) |
+| Red Strength Drug | Ridged brilliant red mushroom cap (150)<br><br>Round reddish leaf (20)<br><br>Yellow fruit with a thick peel (10) 🪙 | Boiling Pot<br><br>Fire<br><br>Mortar & Pestal<br><br>Sponge | **XX** Ranks in [Brew Potion](/herbalism/#potion) |
 | Headache Potion | Tiny whitish berry (120)<br><br>Large domed gray mushroom cap (30) | TBC | 60 Ranks in [Brew Potion](/herbalism/#potion) |
 | Antivenom Potion | Yellow fruit with a thick peel (80) 🪙<br><br>Round reddish leaf (60) | TBC | 70 Ranks in [Brew Potion](/herbalism/#potion) |
 | Plague Cure Potion | Small crowned navy blue berry (209)<br><br>Fleshy bulbous brown mushroom cap (30) | TBC | 70 Ranks in [Brew Potion](/herbalism/#potion) |
