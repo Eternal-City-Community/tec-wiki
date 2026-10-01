@@ -1,0 +1,35 @@
+name: Prepare pages for CMS
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "tools/add_cms_frontmatter.py"
+      - ".github/workflows/prepare-cms.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Add CMS metadata
+        run: python tools/add_cms_frontmatter.py
+      - name: Commit CMS metadata
+        run: |
+          git config user.name "tec-wiki-cms"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No CMS metadata changes."
+          else
+            git commit -m "Add CMS title metadata to wiki pages"
+            git push
+          fi
