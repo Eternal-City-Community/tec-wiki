@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecSkillPages() {
   var root = document.querySelector(".md-typeset");
   if (!root || !root.querySelector(".skill-template")) return;
 
@@ -10,15 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
   root.querySelectorAll('details table').forEach(function (table) {
     var rows = Array.from(table.querySelectorAll('tr'));
     if (!rows.length) return;
-
-    // Remove the redundant decorative group row (e.g. "Jewelry Recipes"
-    // plus "Ranks Taught by Trainer"). The real column headings are below it.
-    var firstLabels = Array.from(rows[0].children).map(function (cell) {
-      return cell.textContent.trim();
-    });
-    if (firstLabels.indexOf("Ranks Taught by Trainer") !== -1) {
-      rows[0].remove();
-    }
 
     // Recreate Wikidot-style colspan category rows such as "Metal Stock",
     // "Rings", "Patterns", etc.
@@ -59,6 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Markdown cannot express colspan, so infer the split from the real
   // column-heading row beneath the migrated grouping row.
   Array.from(root.querySelectorAll("table")).forEach(function (table) {
+    if (table.dataset.tecGrouped === "1") return;
     var rows = Array.from(table.querySelectorAll("tr"));
     if (rows.length < 2) return;
 
@@ -80,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (prereqIndex >= 0) {
       infoCols = prereqIndex + 1;
-    } else if (/^(Skills\/Actions|Lore)$/i.test(headerCells[0] || "") &&
+    } else if (/^(Skills\/Actions|Lore|Recipes)$/i.test(headerCells[0] || "") &&
                /^Difficulty$/i.test(headerCells[1] || "")) {
       infoCols = 2;
     } else {
@@ -94,9 +86,10 @@ document.addEventListener("DOMContentLoaded", function () {
     var info = document.createElement("th");
     info.colSpan = infoCols;
     info.className = "tec-skill-group-heading";
-    info.textContent = labels.some(function (label) { return label === "Hunting Lores"; })
-      ? "Hunting Lores"
-      : "Skill Info";
+    var leftLabel = labels.find(function (label) {
+      return label && label !== "Ranks Taught by Trainer";
+    }) || "Skill Info";
+    info.textContent = leftLabel;
 
     var trainers = document.createElement("th");
     trainers.colSpan = headerCells.length - infoCols;
@@ -106,6 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
     groupRow.appendChild(info);
     groupRow.appendChild(trainers);
     table.classList.add("tec-skill-overview-table");
+    table.dataset.tecGrouped = "1";
   });
 
 
@@ -152,4 +146,12 @@ document.addEventListener("DOMContentLoaded", function () {
       last.insertAdjacentElement("afterend", back);
     }
   });
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecSkillPages, { once: true });
+} else {
+  initTecSkillPages();
+}
+
+document.addEventListener("DOMContentSwitch", initTecSkillPages);
