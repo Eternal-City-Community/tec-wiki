@@ -3,7 +3,7 @@
 <a id="Top"></a>
 
  
-<iframe width="444" height="240" src="https://www.youtube.com/embed/Mr4O37X1QpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="tec-video" width="444" height="240" src="https://www.youtube.com/embed/Mr4O37X1QpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 
@@ -16,15 +16,15 @@ A VC package includes [General Skill Points (GSPs)](/skills/#GSP) to learn [Skil
 * [Obtaining a VC](#Overview)
 * [Retiring an Existing Character](#Retire)
 * [Veteran Character Lobby](#Lobby)
- * [Credits](#Credits)
-  * [Vendors](#Vendors)
-  * [Weapons Vendor](#Weapons)
-  * [Clothing Vendor](#Clothing)
-  * [Armor Vendor](#Armor)
-  * [Jewelry Vendor](#Jewelry)
-  * [Miscellaneous Vendor](#Misc) 
- * [GSPs](#GSPs)   
-  * [Skill Trainers](#Skill)
+    * [Credits](#Credits)
+        * [Vendors](#Vendors)
+        * [Weapons Vendor](#Weapons)
+        * [Clothing Vendor](#Clothing)
+        * [Armor Vendor](#Armor)
+        * [Jewelry Vendor](#Jewelry)
+        * [Miscellaneous Vendor](#Misc)
+    * [GSPs](#GSPs)
+        * [Skill Trainers](#Skill)
 
 ---
 ### Related Commands
@@ -40,10 +40,10 @@ See **syntax** and all **[commands](/commands/)**.
 
 Veteran Character (VC) packages can be obtained in multiple ways. 
 
-# They can be **purchased using Role Points** (RPs). The costs to purchase are listed below.
-# They can be **received "randomly" for free** (e.g. via [@perks](/account/#Perks) or parchment event). 
-# They can be **received in exchange for 'retiring' your existing character**. The level of the received  VC package is calculated based on character age, RPs spent, and total skill points earned. If the character being retired was a VC themself, it defaults to the higher value between the original VC level and the new package calculation, with the max level for @retire being VC19. You can check what level your character qualifies for beforehand using the @vc-level command.
-# They can be **awarded for free** as the result of **your character's death in a storyline (e.g. @chop) or a [character Player-Kill (PK)](/pvp/#PKs)**. The VC level awarded from an @chop may be above VC19 if determined by the staff.
+1. They can be **purchased using Role Points** (RPs). The costs to purchase are listed below.
+2. They can be **received "randomly" for free** (e.g. via [@perks](/account/#Perks) or parchment event).
+3. They can be **received in exchange for 'retiring' your existing character**. The level of the received VC package is calculated based on character age, RPs spent, and total skill points earned. If the character being retired was a VC themself, it defaults to the higher value between the original VC level and the new package calculation, with the max level for @retire being VC19. You can check what level your character qualifies for beforehand using the @vc-level command.
+4. They can be **awarded for free** as the result of **your character's death in a storyline (e.g. @chop) or a [character Player-Kill (PK)](/pvp/#PKs)**. The VC level awarded from an @chop may be above VC19 if determined by the staff.
 
 > Pranzor (GM) says, "The calculation for the veteran package considers age (40%), RPs spent (30%), and total skill points earned (30%, divided by 7.5). For every 125 RPs spent, 1 month is added to the age in years, and for every total skill points divided by 7.5, 125 points add 1 month. The final package level defaults to the higher value between the original VC level and the new package calculation."
 
@@ -87,7 +87,7 @@ The table below shows the different VC packages available, with their correspond
 | Level 30 | 99,999 RPs | 50,000 | 300 | 350t | 350 | Makeover |
 
 
-#### Purchase:
+#### Purchase
 To purchase a VC package, go to the Welcome Area and type @play. Select the "Spend Role Points" option, then choose "Purchase a Veteran Character." Select the package available to yo, and you will be taken to the character generator.
 
 During character generation, you will be offered three different attribute layouts to choose from. After making your choice, you'll be prompted to verify that you want to keep the character. **Once you confirm you want to keep the character, any outstanding RPs will be charged at this time.** **No refunds will be given** after this point.
@@ -123,7 +123,7 @@ The process of retiring a character involves several technical and Role Point (R
 
 ---
 <a id="Lobby"></a> 
-### Lobby Veteran Character Lobby
+### Veteran Character Lobby
 
 Your new character will be placed in an out-of-character (OOC) lounge to spend their GSP, credits, stat points, and receive any extras that they are entitled to. Walk around to explore all the "stores" where you can spend those credits.
 
@@ -139,13 +139,13 @@ Use those credits to appoint your character:
 * [Miscellaneous](#Misc) 
 * Additional attribute increase points (25 VCCs for 1 point)
 * Citizenship (20 VCCs)
-* Additional skill slots 
- * Skill slots 1-5: 5 VCCs each
- * Skill slots 6-10: 10 VCCs each
- * Each skill slot past 10 costs its number in VCCs (11, 12, 13, etc.)
+* Additional skill slots
+    * Skill slots 1-5: 5 VCCs each
+    * Skill slots 6-10: 10 VCCs each
+    * Each skill slot past 10 costs its number in VCCs (11, 12, 13, etc.)
 * Additional skill points for any already-known skill (15 SPs per VCC).
- * You can only inject these skill points into already-known skills, so be sure to spend GSPs before spending VCCs here.
- * Coin (1.5 talents per VCC)
+    * You can only inject these skill points into already-known skills, so be sure to spend GSPs before spending VCCs here.
+* Coin (1.5 talents per VCC)
 
 <a id="Vendors"></a>
 
@@ -210,8 +210,9 @@ Use those credits to appoint your character:
 | 52. Short bow | 1 credit |
 | 53. Simple pine short bow | 2 credits |
 
-*Additional custom items will sometimes be in the display case, type and cost vary
-**Note: Weapon quality can be enhanced at the cost of additional credits. Upon purchasing the item you will see this follow-up prompt: "All base weapons sold here are of average quality (0).  You can increase the quality to Good, Great, or Excellent at a cost of 1 credit per step. You may also increase the quality to Superior for 15 credits extra. Enter the number of credits you wish to add to the price to increase the quality of this weapon."
+*Additional custom items will sometimes be in the display case; type and cost vary.*
+
+**Note:** Weapon quality can be enhanced at the cost of additional credits. Upon purchasing the item you will see this follow-up prompt: "All base weapons sold here are of average quality (0). You can increase the quality to Good, Great, or Excellent at a cost of 1 credit per step. You may also increase the quality to Superior for 15 credits extra. Enter the number of credits you wish to add to the price to increase the quality of this weapon."
 
 
 <a id="Clothing"></a>
@@ -241,8 +242,9 @@ Use those credits to appoint your character:
 | 19. Sagum | 1 credit |
 | 20. Hooded cloak | 50 credits |
 
-*Additional custom items will sometimes be in the display case, type and cost vary
-**Warning: These items have no options to enhance them. If you buy a hooded cloak, it will be just 'a hooded cloak'.
+*Additional custom items will sometimes be in the display case; type and cost vary.*
+
+**Warning:** These items have no options to enhance them. If you buy a hooded cloak, it will be just 'a hooded cloak'.
 
 <a id="Armor"></a>
 
@@ -278,15 +280,16 @@ Use those credits to appoint your character:
 | 26. Long shield | 3 credits |
 | 27. Bronze buckler | 1 credit |
 
-*Additional custom items will sometimes be in the display case, type and cost vary
-**Note: Shield quality can be enhanced at the cost of additional credits
+*Additional custom items will sometimes be in the display case; type and cost vary.*
+
+**Note:** Shield quality can be enhanced at the cost of additional credits.
 
 
 <a id="Jewelry"></a>
 
 ##### Jewelry Vendor
 
-*All items listed below are merely an example of pricing and style. This shop is entirely stocked by custom items.*
+*All items listed below are merely examples of pricing and style. This shop is entirely stocked by custom items.*
 
 | Item | Credit Cost |
 | --- | --- |
