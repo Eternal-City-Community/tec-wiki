@@ -4,6 +4,44 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.body.classList.add("tec-skill-page");
 
+  // Clean migrated recipe/lore tables inside collapsible sections.
+  // Wikidot used colspan rows for grouped headings and category labels;
+  // Markdown migration turns those into mostly-empty cells.
+  root.querySelectorAll('details table').forEach(function (table) {
+    var rows = Array.from(table.querySelectorAll('tr'));
+    if (!rows.length) return;
+
+    // Remove the redundant decorative group row (e.g. "Jewelry Recipes"
+    // plus "Ranks Taught by Trainer"). The real column headings are below it.
+    var firstLabels = Array.from(rows[0].children).map(function (cell) {
+      return cell.textContent.trim();
+    });
+    if (firstLabels.indexOf("Ranks Taught by Trainer") !== -1) {
+      rows[0].remove();
+    }
+
+    // Recreate Wikidot-style colspan category rows such as "Metal Stock",
+    // "Rings", "Patterns", etc.
+    Array.from(table.querySelectorAll('tr')).forEach(function (row) {
+      var cells = Array.from(row.children);
+      if (cells.length < 2) return;
+
+      var nonempty = cells.filter(function (cell) {
+        return cell.textContent.trim() !== "";
+      });
+      if (nonempty.length !== 1) return;
+
+      var label = nonempty[0].textContent.trim();
+      if (!label || /^---+$/.test(label)) return;
+
+      var lead = cells[0];
+      lead.textContent = label;
+      lead.colSpan = cells.length;
+      lead.classList.add("tec-skill-table-section");
+      cells.slice(1).forEach(function (cell) { cell.remove(); });
+    });
+  });
+
   // Migrated skill-template blocks often contain blank text nodes before
   // and after the example. Because the template preserves line breaks,
   // those blanks become visible vertical space. Trim only outer whitespace.
