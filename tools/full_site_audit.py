@@ -87,7 +87,7 @@ for path in sorted(DOCS.rglob("*.md")):
     scrub = re.sub(r"(?ms)^```.*?^```\s*$", "", scrub)
     scrub = re.sub(r"(?is)<script\b.*?</script>", "", scrub)
 
-    plain = scrub.replace("\\|\\|", "")
+    plain = re.sub(r"<[^>]+>", "", scrub).replace("\\|\\|", "")
     if "||" in plain:
         issues.append("possible leftover Wikidot || table markup")
     if re.search(r"@<[^>]*>@", scrub):
