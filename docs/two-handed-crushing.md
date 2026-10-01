@@ -40,7 +40,7 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 
 #### Notes on Learning
 
-**@<**>@short sturdy man (Blackvine)** will only teach you once you have enough [reputation#Franlius](/reputation/#Franlius).
+**A short sturdy man (Blackvine)** will only teach you once you have enough [reputation](/reputation/#Franlius).
 
 ### Skill Details
 
