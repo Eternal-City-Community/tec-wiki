@@ -240,6 +240,20 @@ export default {
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
     if (url.pathname === "/api/page-diff") return handlePageDiff(request);
+
+    if (url.pathname === "/admin/config.yml") {
+      const asset = await env.ASSETS.fetch(request);
+      const headers = new Headers(asset.headers);
+      headers.set("cache-control", "no-store, no-cache, must-revalidate");
+      headers.set("pragma", "no-cache");
+      headers.set("expires", "0");
+      return new Response(asset.body, {
+        status: asset.status,
+        statusText: asset.statusText,
+        headers,
+      });
+    }
+
     return env.ASSETS.fetch(request);
   },
 };
