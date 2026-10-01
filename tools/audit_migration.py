@@ -52,6 +52,8 @@ for rel, path in files.items():
         target = href.split("#", 1)[0].split("?", 1)[0].strip("/")
         if not target:
             continue
+        if target.startswith(("assets/", "admin/")):
+            continue
         if target.endswith(".md"):
             target = target[:-3]
         if target not in slugs:
