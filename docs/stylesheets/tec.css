@@ -164,10 +164,22 @@ body::before {
 
 .md-sidebar--primary .md-sidebar__scrollwrap {
   margin: 0;
+  overflow: visible !important;
+  max-height: none !important;
+  height: auto !important;
+}
+
+.md-sidebar--primary .md-sidebar__inner {
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
 }
 
 .md-sidebar--primary .md-sidebar__inner {
   padding: 0;
+  height: auto !important;
+  max-height: none !important;
+  overflow: visible !important;
 }
 
 /* Hide the generic big wiki title plaque. */
