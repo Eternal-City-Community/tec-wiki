@@ -9,14 +9,14 @@ category: "World & Maps"
 
 The **[City of Monlon](/city-of-monlon/) is being invaded!**
 
-> ##purple|A rumor is circulating around:
-> The Kelestians have invaded Monlon! Assistant governor Vaestia Elavia Santum has been reported dead, and the governor Cascar Olgulan remains missing. Although Iridine's heroes continue to come to their aid, the people of Monlon live in apprehension and take shelter when the fighting spills into the streets. Many speculate as to the reason for this attack, but for now it remains a mystery.##
+> A rumor is circulating around:
+> The Kelestians have invaded Monlon! Assistant governor Vaestia Elavia Santum has been reported dead, and the governor Cascar Olgulan remains missing. Although Iridine's heroes continue to come to their aid, the people of Monlon live in apprehension and take shelter when the fighting spills into the streets. Many speculate as to the reason for this attack, but for now it remains a mystery.
 
-> ##purple|303rd Year of the Republic, 6th day of Jemros:
-> The streets of Vetallun were full of commotion for several days as Legio II finished preparations for movement and began marching through the streets headed to the east. Tall standard poles bearing banners were held closely in front of the formations, wagons and carts in the middle closely guarded by the soldiers followed up by rear security and support personnel.##
+> 303rd Year of the Republic, 6th day of Jemros:
+> The streets of Vetallun were full of commotion for several days as Legio II finished preparations for movement and began marching through the streets headed to the east. Tall standard poles bearing banners were held closely in front of the formations, wagons and carts in the middle closely guarded by the soldiers followed up by rear security and support personnel.
 
-> ##purple|305th Year of the Republic, 4th day of The Festival of the Morning:
-> Voices of discontent begin to rise inside of the Republic as the news of an entire cohort being annihilated in fierce combat against the Kelestian forces in Astraea cannot be concealed any longer. Despite the somber news comes a ray of hope in a handful of Legio survivors on the front line doing incredible feats of unconventional warfare with astonishing bravery.##
+> 305th Year of the Republic, 4th day of The Festival of the Morning:
+> Voices of discontent begin to rise inside of the Republic as the news of an entire cohort being annihilated in fierce combat against the Kelestian forces in Astraea cannot be concealed any longer. Despite the somber news comes a ray of hope in a handful of Legio survivors on the front line doing incredible feats of unconventional warfare with astonishing bravery.
 
 The [Kelestians](/kelestia/) have begun their attack on [Monlon](/city-of-monlon/) and the city is no longer safe. These deadly barbarians now roam freely outside of the city walls, both day and night, while scouts and raiders manage to make their way within the city walls during night. It is **recommended to travel in groups** when venturing outside the city gates.
 
