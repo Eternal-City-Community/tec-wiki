@@ -5,7 +5,7 @@
 - Migrated include placeholders: **47**
 - Dynamic Wikidot placeholders: **25**
 - Other migration-note markers: **320**
-- Pages still containing direct eternal-city.wikidot.com links: **70**
+- Pages still containing direct eternal-city.wikidot.com links: **69**
 - Unique unresolved internal links: **153**
 
 ## Unresolved internal links
