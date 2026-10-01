@@ -33,7 +33,7 @@ The number of available slots is influenced by **Memory** as well as your leathe
 
 To examine the construction requirements for a recipe, use:
 
-{{recipe-recall}}
+`recipe-recall`
 
 and select **Basic Leatherworking**.
 
@@ -133,15 +133,15 @@ Leatherworking items are constructed from components rather than directly from r
 
 A component normally has a sequence of required preparation steps. A common sequence is:
 
-# Layout
+1. Layout
 
-# Cut
+2. Cut
 
-# Skive
+3. Skive
 
-# Bevel
+4. Bevel
 
-# Punch
+5. Punch
 
 Other components may require molding or another specialized action.
 
@@ -157,19 +157,19 @@ A leather gladius scabbard requires:
 
 Each scabbard length is made by:
 
-# Lay out a quarter length of leather.
+1. Lay out a quarter length of leather.
 
-# Cut the length.
+2. Cut the length.
 
-# Skive the edges.
+3. Skive the edges.
 
-# Bevel the edges.
+4. Bevel the edges.
 
-# Punch holes.
+5. Punch holes.
 
 Once both lengths are finished:
 
-# Lace the two lengths together to form the scabbard.
+1. Lace the two lengths together to form the scabbard.
 
 This illustrates the basic leatherworking workflow:
 
@@ -192,9 +192,9 @@ The body and flap are first assembled into the backpack shell.
 
 The final construction is then:
 
-# Rivet the first shoulder strap to the shell.
+1. Rivet the first shoulder strap to the shell.
 
-# Rivet the second shoulder strap to complete the backpack.
+2. Rivet the second shoulder strap to complete the backpack.
 
 #### Example: Leather Manica
 
@@ -208,15 +208,15 @@ A left or right leather manica requires:
 
 Assembly:
 
-# Lace the hand guard to the first plate.
+1. Lace the hand guard to the first plate.
 
-# Lace the remaining plates sequentially.
+2. Lace the remaining plates sequentially.
 
-# Lace the shoulder guard to the top.
+3. Lace the shoulder guard to the top.
 
-# Rivet the four straps.
+4. Rivet the four straps.
 
-# Sew on the four buckles.
+5. Sew on the four buckles.
 
 This requires approximately **1 7/8 lengths of leather per manica**, or **3 3/4 lengths for a pair**, before accounting for mistakes or failed work.
 
@@ -314,13 +314,13 @@ Commissioned goods have been reported as requiring **rawhide**, and customers ma
 
 After accepting a commission:
 
-# Use {{recipe-recall}} to determine the required components.
+1. Use `recipe-recall` to determine the required components.
 
-# Produce the requested item in the requested material and color.
+2. Produce the requested item in the requested material and color.
 
-# Give the completed item to **Priscia**, the consignment clerk.
+3. Give the completed item to **Priscia**, the consignment clerk.
 
-# Payment is credited through the shop.
+4. Payment is credited through the shop.
 
 Large balances may be paid using vellum in the same manner as other stores.
 
@@ -330,15 +330,15 @@ A convenient inexpensive training item is the **Leather Pouch Square** because i
 
 A pouch square uses:
 
-# Layout
+1. Layout
 
-# Cut
+2. Cut
 
-# Skive
+3. Skive
 
-# Bevel
+4. Bevel
 
-# Punch
+5. Punch
 
 Two prepared squares can then be joined, giving opportunities to practice assembly skills as well.
 
@@ -479,7 +479,7 @@ Leatherworkers who tan their own low-value pelts may substantially reduce their 
 * Keep your workspace clean when assembling complicated projects.
 * Required tools usually only need to be in your inventory.
 * Embossing may require the mallet and punch to actually be held.
-* Use {{recipe-recall}} frequently; complicated items may contain sub-assemblies.
+* Use `recipe-recall` frequently; complicated items may contain sub-assemblies.
 * Train difficult steps individually rather than assuming Basic Leatherworking alone will solve them.
 * Memory is particularly valuable to dedicated leatherworkers because it increases recipe capacity.
 * Tanning pairs naturally with leatherworking and can provide inexpensive practice material.
