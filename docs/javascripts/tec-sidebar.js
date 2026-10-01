@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecSidebar() {
   var host = document.querySelector(".md-sidebar--primary .md-sidebar__inner");
   if (!host || host.querySelector(".tec-side")) return;
 
@@ -295,4 +295,11 @@ document.addEventListener("DOMContentLoaded", function () {
       if (searchButton) searchButton.click();
     });
   }
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecSidebar, { once: true });
+} else {
+  initTecSidebar();
+}
+document.addEventListener("DOMContentSwitch", initTecSidebar);
