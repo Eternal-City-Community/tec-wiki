@@ -59,3 +59,4 @@ extra_javascript:
   - javascripts/tec-veteran-tabs.js
   - javascripts/tec-rank-bonus.js
   - javascripts/tec-money-calculator.js
+  - javascripts/tec-national-lores.js
