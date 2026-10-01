@@ -91,3 +91,15 @@ REPORT.write_text("\n".join(lines), encoding="utf-8")
 print("\n".join(lines[:12]))
 
 
+
+
+if syntax_pages["wikidot_markup"]:
+    with REPORT.open("a", encoding="utf-8") as fh:
+        fh.write("\n## Leftover Wikidot markup\n\n")
+        for rel in sorted(set(syntax_pages["wikidot_markup"])):
+            fh.write(f"- `{rel}`\n")
+if syntax_pages["wikidot_escape"]:
+    with REPORT.open("a", encoding="utf-8") as fh:
+        fh.write("\n## Leftover Wikidot escape markers\n\n")
+        for rel in sorted(set(syntax_pages["wikidot_escape"])):
+            fh.write(f"- `{rel}`\n")
