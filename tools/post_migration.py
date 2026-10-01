@@ -56,7 +56,7 @@ existing = slugs()
 
 # Convert old /local--files/... attachment URLs to WDFiles temporarily.
 # The attachment-import workflow later localizes these to /assets/wikidot/...
-attachment_rel = re.compile(r"\]\(/local--files/([^/]+)/([^\)]+)\)")
+attachment_rel = re.compile(r"/local--files/([^/\s)]+)/([^\s)]+)")
 pseudo_include = re.compile(
     r"^> \*\*Archive include:\*\* \[[^\]]+\]\(/_(?:modules|csi|scp|snippets)[^\)]*\)\s*$",
     re.M | re.I,
@@ -72,7 +72,7 @@ for p in DOCS.glob("*.md"):
 
     def attachment(m):
         stats["attachment_links"] += 1
-        return "](https://eternal-city.wdfiles.com/local--files/" + m.group(1) + "/" + m.group(2) + ")"
+        return "https://eternal-city.wdfiles.com/local--files/" + m.group(1) + "/" + m.group(2)
     text = attachment_rel.sub(attachment, text)
 
     def oldsite(m):
