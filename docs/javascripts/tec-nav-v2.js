@@ -152,9 +152,8 @@ function initTecTopNav() {
 
   var historyLink = nav.querySelector("[data-tec-page-history]");
   if (historyLink) {
-    historyLink.href = repo + "/commits/main/" + currentSourcePath();
-    historyLink.target = "_blank";
-    historyLink.rel = "noopener";
+    var historySlug = window.location.pathname.replace(/^\/+|\/+$/g, "") || "index";
+    historyLink.href = "/page-history/?page=" + encodeURIComponent(historySlug);
   }
 
   var sourceLink = nav.querySelector("[data-tec-view-source]");
