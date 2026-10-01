@@ -103,3 +103,15 @@ if syntax_pages["wikidot_escape"]:
         fh.write("\n## Leftover Wikidot escape markers\n\n")
         for rel in sorted(set(syntax_pages["wikidot_escape"])):
             fh.write(f"- `{rel}`\n")
+
+
+if syntax_pages["wdfiles"]:
+    with REPORT.open("a", encoding="utf-8") as fh:
+        fh.write("\n## Pages still using WDFiles\n\n")
+        for rel in sorted(set(syntax_pages["wdfiles"])):
+            fh.write(f"- `{rel}`\n")
+if wikidot_links:
+    with REPORT.open("a", encoding="utf-8") as fh:
+        fh.write("\n## Pages still linking directly to eternal-city.wikidot.com\n\n")
+        for rel in sorted(set(wikidot_links)):
+            fh.write(f"- `{rel}`\n")
