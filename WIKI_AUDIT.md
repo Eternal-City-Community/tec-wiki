@@ -5,8 +5,8 @@
 - Migrated include placeholders: **0**
 - Dynamic Wikidot placeholders: **0**
 - Other migration-note markers: **0**
-- Pages still containing direct eternal-city.wikidot.com links: **53**
-- Unique unresolved internal links: **60**
+- Pages still containing direct eternal-city.wikidot.com links: **6**
+- Unique unresolved internal links: **54**
 - Pages still using WDFiles assets: **103**
 - Pages with leftover Wikidot table syntax: **6**
 - Pages with leftover Wikidot heading syntax: **0**
@@ -43,10 +43,6 @@
 - `index.md` → `/local--files/files/IridineMapShortest.png/`
 - `iridine.md` → `/local--files/files/irdine-master.png/`
 - `kelestian-outpost.md` → `/local--files/files/kelestian%20outpost%202023-08-03.png/`
-- `legal_privacy-policy.md` → `/_modules_include_6/`
-- `legal_start.md` → `/_modules_include_4/`
-- `legal_terms-of-use.md` → `/_modules_include_5/`
-- `modules-reference.md` → `/_csi_include_module-summary/`
 - `monlon-kelestian-outpost.md` → `/local--files/files/kelestian%20outpost%202023-08-03.png/`
 - `monlon-ravines.md` → `/local--files/files/new-monlon-ravines-map-2023-08-03.png/`
 - `monlon.md` → `/local--files/files/Monlon_2022-11-25.png/`
@@ -67,8 +63,6 @@
 - `spider-caverns.md` → `/local--files/spider-caverns/invexriverdelta-spidercaverns_updated112917.gif/`
 - `stone-toga-inn.md` → `/local--files/stone-toga-inn/toga.gif/`
 - `stromheim.md` → `/local--files/files/Rockvalley-stromheim1.gif/`
-- `test.md` → `/_scp-wiki_component_collapsible-sidebar/`
-- `test.md` → `/_snippets_suo/`
 - `the-colosseum.md` → `/local--files/files/iridine-colosseum1.gif/`
 - `town-of-rock-valley-map.md` → `/local--files/files/Rockvalleytown.png/`
 - `town-of-rock-valley.md` → `/local--files/files/Rockvalleytown.png/`
