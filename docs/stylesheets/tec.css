@@ -32,7 +32,7 @@ body {
 
 body {
   color: var(--tec-ink);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
 }
 
 body::before {
@@ -247,15 +247,15 @@ body::before {
 
 /* Article typography */
 .md-typeset {
-  font-size: .69rem;
-  line-height: 1.52;
+  font-size: .78rem;
+  line-height: 1.58;
   color: var(--tec-ink);
 }
 
 .md-typeset h1 {
   margin: 0 0 .6rem;
   padding: 0 0 .22rem 1.2rem;
-  color: var(--tec-olive);
+  color: #39452d;
   font-family: Georgia, "Times New Roman", serif;
   font-weight: 400;
   font-size: 1.2rem;
@@ -278,7 +278,7 @@ body::before {
 .md-typeset h3 {
   margin: 1rem 0 .5rem;
   padding: 0 0 .16rem 1.15rem;
-  color: var(--tec-olive-soft);
+  color: #4a513b;
   border-bottom: 1px solid var(--tec-line);
   font-family: Georgia, "Times New Roman", serif;
   text-transform: uppercase;
@@ -288,7 +288,19 @@ body::before {
 }
 
 .md-typeset a {
-  color: #28550d;
+  color: #244a6b;
+  text-decoration-color: rgba(36,74,107,.42);
+  text-underline-offset: .08em;
+}
+
+.md-typeset a:visited {
+  color: #4b4267;
+}
+
+.md-typeset a:hover,
+.md-typeset a:focus {
+  color: #153651;
+  text-decoration: underline;
 }
 
 .md-typeset table:not([class]) {
@@ -568,18 +580,45 @@ body::before {
 
 /* Table link contrast: global TEC green is too dark on charcoal rows. */
 .md-typeset table:not([class]) td a {
-  color: #f0df9b;
+  color: #c9e3ff;
   font-weight: 600;
-  text-decoration-color: rgba(240,223,155,.55);
+  text-decoration-color: rgba(201,227,255,.6);
 }
 .md-typeset table:not([class]) td a:visited {
-  color: #e5d18a;
+  color: #d8c9ff;
 }
 .md-typeset table:not([class]) td a:hover,
 .md-typeset table:not([class]) td a:focus {
-  color: #fff7d6;
+  color: #ffffff;
   text-decoration: underline;
 }
 .md-typeset table:not([class]) th a {
-  color: #234707;
+  color: #244a6b;
+}
+
+
+/* Readability pass: keep TEC styling in the chrome, not in every text accent. */
+.md-typeset p,
+.md-typeset li,
+.md-typeset td {
+  letter-spacing: .002em;
+}
+
+.md-typeset strong {
+  color: #2d2b24;
+}
+
+.md-typeset table:not([class]) {
+  font-size: .73rem;
+  line-height: 1.42;
+}
+
+.md-typeset table:not([class]) th {
+  font-weight: 700;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset {
+    font-size: .82rem;
+  }
 }
