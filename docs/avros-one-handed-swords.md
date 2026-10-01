@@ -22,17 +22,17 @@ Avros is also a popular amongst patricians, noble families, and other members of
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Dreggo | Varga |
 | *<u>Avros Gladius Combat</u>* | Easy | - | - | - | - | 100 | 500 |
-| Avros Dueling Stance | Easy | - | - | - | - | 100 | 100 |
-| Avros Rapid Strike | Easy | Either | Short | Cut | 30 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
-| Avros Forced Thrust | Average | Either | Short | Cut | 10 Ranks in [Swords Jab](/one-handed-swords/#Jab)<br><br>10 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 100 | 500 |
-| Avros Needle Strike | Average | Either | Short | Pierce<br><br>Pierce<br><br>Pierce<br><br>Pierce | 40 Ranks in [Swords Jab](/one-handed-swords/#Jab) | 100 | 500 |
-| Avros Stab and Slash | Average | Either | Short | Pierce<br><br>Cut | 20 Ranks in [Swords Stab](/one-handed-swords/#Stab)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
-| Avros Whirling Strike | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
+| [Avros Dueling Stance](#Dueling) | Easy | - | - | - | - | 100 | 100 |
+| [Avros Rapid Strike](#Rapid) | Easy | Either | Short | Cut | 30 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
+| [Avros Forced Thrust](#Forced) | Average | Either | Short | Cut | 10 Ranks in [Swords Jab](/one-handed-swords/#Jab)<br><br>10 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 100 | 500 |
+| [Avros Needle Strike](#Needle) | Average | Either | Short | Pierce<br><br>Pierce<br><br>Pierce<br><br>Pierce | 40 Ranks in [Swords Jab](/one-handed-swords/#Jab) | 100 | 500 |
+| [Avros Stab and Slash](#Stab) | Average | Either | Short | Pierce<br><br>Cut | 20 Ranks in [Swords Stab](/one-handed-swords/#Stab)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
+| [Avros Whirling Strike](#Whirling) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
 | [Avros Strike and Smash](#Strike) | Difficult | Either | Short | - | 10 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
-| Avros Pivot Lunge | Difficult | Either | Short | Pierce | 20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 100 | 500 |
-| [Avros Sunrise Block](#Sunrise) | Average | Either | - | - | Avros Dueling Stance | 100 | 500 |
-| Avros Flailing Defense | Average | Either | Either | - | - | 100 | 175 |
-| Avros Flinging Disarm | Difficult | Either | Short | - | - | 100 | 175 |
+| [Avros Pivot Lunge](#Pivot) | Difficult | Either | Short | Pierce | 20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 100 | 500 |
+| [Avros Sunrise Block](#Sunrise) | Average | Either | - | - | [Avros Dueling Stance](#Dueling) | 100 | 500 |
+| [Avros Flailing Defense](#Flailing) | Average | Either | Either | - | - | 100 | 175 |
+| [Avros Flinging Disarm](#Flinging) | Difficult | Either | Short | - | - | 100 | 175 |
 
 **Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Ex4, Sx6
 **Directions to Varga** ([City of Monlon](/city-of-monlon/)): Walk to Monlon Bank, Sx2, NE, Ex3, S, Ex3
@@ -40,6 +40,104 @@ Avros is also a popular amongst patricians, noble families, and other members of
 
 ### Skill Details
 
+<a id="Dueling"></a>
+
+### Avros Dueling Stance  *duel*
+
+As maneuvers vary depending on which style a swordsman uses, one must learn how to stand properly in order to execute the attacks. It takes a while for those just learning the stance to properly enter it, but upon becoming a grand master in the stance, one is capable of falling into the stance immediately before striking.
+
+The maximum bonus for a weapon stance is generally achieved at 100 ranks.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Dreggo sweeps one foot back and spreads his legs slightly, keeping his weapon arm lowered and slightly bent. The gladius remains on guard, pointed towards his front.
+
+</div>
+
+<a id="Rapid"></a>
+
+### Avros Rapid Strike  *rstrike <target>*
+
+The wielder makes a chopping strike with exceptional speed and surety. If successful, this maneuver amounts to a very fast, very strong chop. If the strike is blocked or if it misses, however, the chance of losing one's weapon is higher—high enough to be a real possibility. Trading grip for speed can be dangerous.
+
+* This attack has a chance to lose your weapon on a missed roll. This can be **negated with 90 ranks in Avros Gladius Combat**.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+With blinding speed, Dreggo chops down his gladius in a blow aimed at a thug! He suffers a cut to his left arm.
+
+</div>
+
+<a id="Forced"></a>
+
+### Avros Forced Thrust  *fthrust <target>*
+
+The wielder strikes with the middle of his blade, trying to hit the enemy's weapon, but not to knock it aside. The follow-through of this maneuver is a wrist-flip that, if successful, results in a low-strength Slashing Strike that cannot be blocked with the opponent's main weapon. Failure leaves the wielder off-guard and off-balance, so against quick opponents this is not very safe.
+
+* This attack can leave the wielder open on a missed roll. This can be **negated with 90 ranks in Avros Gladius Combat**.
+* Can only be used on a target wielding a weapon.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Dreggo pushes forward with the center of his gladius, catching a thug's tin dagger and flipping a quick slash around it with a snap of the wrist! He suffers a cut to his right thigh.
+
+</div>
+
+<a id="Needle"></a>
+
+### Avros Needle Strike  *needlestrike <target>*
+
+Stepping towards the target sideways to present a narrower target, the Avros practitioner delivers a series of light but very rapid jabs. Lesser opponents are often very intimidated by this maneuver, overwhelmed by the sheer number of attacks. More experienced opponents will have learned to treat the range of jabs as "one" thrust, and block accordingly.
+
+* Multi-hitting attack, up to **4 hits**.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Extending his gladius in one arm, Dreggo steadily steps sideways towards a thug, unleashing several rapid jabs in quick succession! He suffers a puncture to his left thigh. He suffers a puncture to his left thigh.
+
+</div>
+
+<a id="Stab"></a>
+
+### Avros Stab and Slash  *sslash <target>*
+
+The wielder is now fast and skilled enough to turn a stab into a slash halfway through without really thinking about it. The wielder drags the blade out at a perfect angle instead of straight, resulting in an additional cutting attack.
+
+* Multi-hitting attack, up to **2 hits**.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Stabbing a thug suddenly with his gladius, Dreggo draws his arm back halfway and cuts across with a follow-up slash!
+
+</div>
+
+<a id="Whirling"></a>
+
+### Avros Whirling Strike  *whirl <target>*
+
+The wielder whirls around, extending his sword arm, and chops with all the accumulated momentum at the opponent. If it fails, the wielder may end up pivoting to one side, leaving his flank unguarded and creating an opening.
+
+* This attack has a chance to leave the wielder open on a missed roll. This can be **negated with 90 ranks in Avros Gladius Combat**.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Extending his gladius in one hand, Dreggo whirls around as he steps towards a thug, before finally bringing the blade down in a powerful diagonal slash! He suffers a severe cut to his left arm.
+
+Extending his gladius in one hand, Dreggo whirls around as he steps towards a thug, but fails to land a good hit with the blade.
+
+</div>
 
 <a id="Strike"></a>
 
@@ -61,6 +159,51 @@ Chopping quickly with his gladius, Dreggo manages to knock down a thug's tin dag
 
 </div>
 
+<a id="Pivot"></a>
+
+### Avros Pivot Lunge  *pivot <target>*
+
+The wielder pivots ninety degrees to the left or right. At the same time, he stabs in that direction and steps in behind the blade. This maneuver is useful in situations wherein the wielder is surrounded by opponents. This flanking attack allows him to place his target between him and the other attackers, in effect "retreating" from everyone except the target.
+
+* This attack has a chance to **retreat you** from all other approached opponents, aside from your target.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Dreggo retreats.
+Twirling as he pivots quickly to one side, Dreggo makes a sudden lunge with his tin gladius, catching thug on the flank! thug suffers a puncture hit to her waist.
+
+</div>
+
+<a id="Flailing"></a>
+
+### Avros Flailing Defense  *distract <target>*
+
+The wielder begins flailing his gladius in front of him like a bladed baton (still holding it by the handle, of course). The rapidly-moving blade is a distraction to an unskilled opponent, and if the opponent is really inexperienced, the next attack the wielder attempts gets a large bonus. If the opponent is of near-equal or superior skill, however, his next attack or block gets the bonus instead. Instructors often use this to demonstrate the value of focus to their pupils.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+With a tight grip on his tin gladius's handle, Dreggo attempts to wave it about in front of thug, but the motion comes off as clumsy and slow.
+With a tight grip on his tin gladius's handle, Dreggo rapidly waves it just in front of thug.
+
+</div>
+
+<a id="Flinging"></a>
+
+### Avros Flinging Disarm  *fling <gladius>*
+
+Used in situations wherein the wielder's gladius has been grappled by another, this technique allows him to reverse the situation, free his blade, and cause his opponent to lose his grip on his weapon. Through a circular movement, the wielder extricates the gladius and forces the opponent's weapon out of the center line, leaving the opponent vulnerable. This technique relies more on skill and dexterity rather than strength.
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+With a sudden twist, you fling your retalq gladius to the side, freeing it and knocking back a gladiator's arena trident!
+
+</div>
 
 <a id="Sunrise"></a>
 
