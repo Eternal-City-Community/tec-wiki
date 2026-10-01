@@ -102,6 +102,11 @@ for p in DOCS.glob("*.md"):
     if p.name == "two-handed-crushing.md":
         text = text.replace("Bruise<br><br>Bruise", "Bruise")
 
+    # A couple of legacy inline constructs survive normal Wikidot conversion.
+    text = text.replace("[[source](", "[source](")
+    if p.name == "aoden-hunting-guide.md":
+        text = text.replace("1s @@", "1s")
+
     text = re.sub(r"\n{4,}", "\n\n\n", text)
     p.write_text(text, encoding="utf-8")
 
