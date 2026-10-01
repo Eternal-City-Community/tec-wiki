@@ -1683,3 +1683,15 @@ html, body {
   .tec-shops-search-row button { grid-column:2; justify-self:start; }
   .tec-shop-card { margin-left:.2rem; }
 }
+
+
+/* Collapsible recipe/lore table section labels restored from Wikidot colspans. */
+.md-typeset details table .tec-skill-table-section {
+  background: #686d37 !important;
+  color: #fffdf4 !important;
+  text-align: left !important;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  letter-spacing: .06em;
+  padding: .34rem .5rem !important;
+}
