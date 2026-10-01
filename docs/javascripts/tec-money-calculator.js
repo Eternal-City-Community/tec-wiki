@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecTool() {
   var root = document.getElementById("tec-money-calculator");
   if (!root) return;
 
@@ -121,4 +121,12 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   renderTotals();
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecTool, { once: true });
+} else {
+  initTecTool();
+}
+
+document.addEventListener("DOMContentSwitch", initTecTool);
