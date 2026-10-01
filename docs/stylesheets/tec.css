@@ -533,3 +533,34 @@ body::before {
   border-radius: 2px;
 }
 .tec-side__discord strong { font-size: .88rem; letter-spacing: .03em; }
+
+
+/* Character biography index */
+.bio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+  gap: .55rem;
+  margin: .6rem 0 1rem;
+}
+.bio-card {
+  padding: .55rem .65rem;
+  background: rgba(244,236,203,.72);
+  border: 1px solid #8d8659;
+  box-shadow: inset 0 0 8px rgba(78,65,35,.08);
+}
+.bio-card h3 {
+  margin: 0 0 .3rem !important;
+  padding: 0 0 .18rem !important;
+  font-size: .72rem !important;
+  letter-spacing: .05em !important;
+  text-transform: none !important;
+}
+.bio-card p {
+  margin: 0 0 .35rem;
+  font-size: .61rem;
+  line-height: 1.35;
+}
+.bio-card__more {
+  font-size: .58rem;
+  font-weight: 700;
+}
