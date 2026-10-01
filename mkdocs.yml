@@ -44,3 +44,4 @@ extra_css:
 
 extra_javascript:
   - javascripts/tec-nav.js
+  - javascripts/tec-sidebar.js
