@@ -1,0 +1,40 @@
+name: Full Wikidot migration
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "tools/migrate_wikidot_v2.py"
+      - "tools/post_migration.py"
+      - ".github/workflows/full-migration.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Rebuild migrated pages from original Wikidot source
+        run: python tools/migrate_wikidot_v2.py migration/tec-wikidot-source-only.zip --docs docs
+      - name: Apply static-site replacements and link cleanup
+        run: python tools/post_migration.py
+      - name: Audit result
+        run: python tools/audit_migration.py
+      - name: Commit full migration pass
+        run: |
+          git config user.name "tec-wiki-migration"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs MIGRATION_REPORT.md POST_MIGRATION_REPORT.md WIKI_AUDIT.md
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Complete hardened Wikidot migration pass"
+            git push
+          fi
