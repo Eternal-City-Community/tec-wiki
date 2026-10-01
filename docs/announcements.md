@@ -9,7 +9,7 @@ category: "Lore & Community"
 Below are a list of all major game announcements:
 
 
-> **Restoration note:** The old wiki populated this announcement index dynamically. The static announcement list still needs to be reconstructed from the archived Wikidot source.
+<!-- TEC_LISTPAGES parent=announcements -->
 
 
 <a id="promos"></a>
