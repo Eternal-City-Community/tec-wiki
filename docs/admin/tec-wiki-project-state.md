@@ -101,6 +101,25 @@ Confirmed from user testing / GM clarification:
 - Commit: `5908a8d8321f16615af315b6ea2cfdd64b68483e`
 - Important confirmed rule: training cost is `0.25 reputation × rank purchased`.
 
+
+
+### Outdoor Survival
+
+- File: `docs/outdoor-survival.md`
+- Source content was present, but the rendered page was reported as missing its content.
+- Repaired migration/rendering issues conservatively:
+  - enabled Markdown parsing inside migrated `.skill-template` HTML blocks
+  - removed remaining Wikidot double-brace command markup
+  - fixed malformed emphasis in rank-note text
+  - cleaned minor migration typos without changing mechanics
+- Commit: `a2d6731ccecf778c9b1ee05ba965e01bcca19e62`
+
+### MkDocs fenced code support
+
+- Enabled the `fenced_code` Markdown extension globally so restored pages using triple-backtick code blocks render correctly instead of showing literal backticks.
+- This specifically fixes the Locksmithing formatting issue reported after restoration.
+- Commit: `b0c73c18135d56f1bc281bb9157aaf3f63d60e05`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
