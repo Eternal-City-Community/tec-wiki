@@ -86,9 +86,14 @@ Note: Material and Protection information is provided for relevant items only.
 
 #### Helmet Types
 
-|  |
-| --- |
-| \|\|~ Material \|\|~ Available Types** \|\|<br>\|\| Leather \|\| - Regular _<br>- Face Covering\|\|<br>\|\| Tin \|\| - Regular _<br>- Regular + Neckguard _<br>- Caged* \|\|<br>\|\| Bronze \|\| - Regular _<br>- Faceplate _<br>- Hidden Faceplate _<br>- Caged* \|\|<br>\|\| Alanti \|\| - Faceplate _<br>- Hidden Faceplate \|\|<br>\|\| Iron \|\| - Regular _<br>- Faceplate _<br>- Caged (covers face but does not conceal identity)\|\|<br>\|\| Boison \|\| - Faceplate _<br>- Hidden Faceplate _<br>- Caged* \|\| |
+| Material | Available Types |
+| --- | --- |
+| Leather | Regular<br>Face Covering |
+| Tin | Regular<br>Regular + Neckguard<br>Caged* |
+| Bronze | Regular<br>Faceplate<br>Hidden Faceplate<br>Caged* |
+| Alanti | Faceplate<br>Hidden Faceplate |
+| Iron | Regular<br>Faceplate<br>Caged (covers face but does not conceal identity) |
+| Boison | Faceplate<br>Hidden Faceplate<br>Caged* |
 
  ***Caged faceplates** can be pulled down to protect the face, but do not conceal your identity.
 
