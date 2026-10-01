@@ -4,6 +4,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.body.classList.add("tec-skill-page");
 
+  // Migrated skill-template blocks often contain blank text nodes before
+  // and after the example. Because the template preserves line breaks,
+  // those blanks become visible vertical space. Trim only outer whitespace.
+  root.querySelectorAll(".skill-template").forEach(function (box) {
+    while (box.firstChild && box.firstChild.nodeType === Node.TEXT_NODE && !box.firstChild.textContent.trim()) {
+      box.removeChild(box.firstChild);
+    }
+    while (box.lastChild && box.lastChild.nodeType === Node.TEXT_NODE && !box.lastChild.textContent.trim()) {
+      box.removeChild(box.lastChild);
+    }
+  });
+
 
   // Restore the grouped header row used by legacy skill tables.
   // Migrated Markdown cannot express colspan, so the first row arrives as
