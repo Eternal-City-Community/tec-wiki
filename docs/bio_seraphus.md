@@ -1,3 +1,7 @@
+---
+title: "Bio Seraphus"
+---
+
 # Bio Seraphus
 
 >

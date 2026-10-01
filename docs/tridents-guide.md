@@ -1,3 +1,7 @@
+---
+title: "Tridents Guide"
+---
+
 # Tridents Guide
 
 ### Tridents Guide

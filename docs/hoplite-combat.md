@@ -1,3 +1,7 @@
+---
+title: "Hoplite Combat"
+---
+
 # Hoplite Combat
 
 ### Skill Overview

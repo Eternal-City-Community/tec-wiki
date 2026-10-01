@@ -1,3 +1,7 @@
+---
+title: "Avros One Handed Swords"
+---
+
 # Avros One Handed Swords
 
 ### Skill Overview

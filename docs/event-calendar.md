@@ -1,3 +1,7 @@
+---
+title: "Event Calendar"
+---
+
 # Event Calendar
 
 ##### Calendar for The Eternal City's events managed by Silentio.

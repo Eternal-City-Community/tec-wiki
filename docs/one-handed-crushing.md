@@ -1,3 +1,7 @@
+---
+title: "One Handed Crushing"
+---
+
 # One Handed Crushing
 
 ### Skill Overview

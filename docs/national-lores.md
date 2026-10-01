@@ -1,3 +1,7 @@
+---
+title: "National Lores"
+---
+
 # National Lores
 
 ## Aestivan League

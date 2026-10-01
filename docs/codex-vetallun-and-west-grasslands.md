@@ -1,3 +1,7 @@
+---
+title: "Codex Vetallun And West Grasslands"
+---
+
 # Codex Vetallun And West Grasslands
 
 A Badgers Guide to Vetallun and the Western Grasslands

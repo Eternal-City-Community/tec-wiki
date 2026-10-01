@@ -1,3 +1,7 @@
+---
+title: "Astraea"
+---
+
 # Astraea
 
 ## Astraea Trading Post 

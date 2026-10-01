@@ -1,3 +1,7 @@
+---
+title: "Codex Birthstone Meanings"
+---
+
 # Codex Birthstone Meanings
 
 "Birthstones and their Meanings"

@@ -1,3 +1,7 @@
+---
+title: "Historic Map Marnevel"
+---
+
 # Historic Map Marnevel
 
 > In the time I spent mapping the gameworld (and I've stood in almost every single non-wilderness square that is accessible by players) I came to the realization that there is a real depth and beauty to the cities and the towns. It is simply incredible that a multi-mile-square realistic topographic map has been programmed into this simple grid system. The amount of detail given to the representation of areas like the harbor of the moons and the colosseum is so complex and so precise that even to map it all is a near-impossible task. And every one of those precisely-placed rooms has at least a paragraph of description; most are straightforward, some are funny, some are poignant, and some are haunting.

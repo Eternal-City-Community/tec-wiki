@@ -1,3 +1,7 @@
+---
+title: "Altene Language"
+---
+
 # Altene Language
 
 ### English-to-Altene

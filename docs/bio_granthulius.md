@@ -1,3 +1,7 @@
+---
+title: "Bio Granthulius"
+---
+
 # Bio Granthulius
 
 >

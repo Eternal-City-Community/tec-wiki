@@ -1,3 +1,7 @@
+---
+title: "Soldiers Of Ereal"
+---
+
 # Soldiers Of Ereal
 
 The Soldiers of Ereal personify Ereal the Conqueror. **Heralded as dangerous fanatics**, they nevertheless **proved invaluable in the defense of Iridine** lands against the invader. They preach the strength of the All Conquering Sun and condone violence if it is done for the greater glory of the God. In the last few years, and quite evidently during the last Cineran wars, the Soldiers of Ereal have gained more notice.

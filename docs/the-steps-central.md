@@ -1,3 +1,7 @@
+---
+title: "The Steps Central"
+---
+
 # The Steps Central
 
 ![](/assets/wikidot/the-steps-central/steps-central-n.gif)

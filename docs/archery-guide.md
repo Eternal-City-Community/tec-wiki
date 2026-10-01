@@ -1,3 +1,7 @@
+---
+title: "Archery Guide"
+---
+
 # Archery Guide
 
 ## Archery Guide

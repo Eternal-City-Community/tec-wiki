@@ -1,3 +1,7 @@
+---
+title: "Ckf Guide"
+---
+
 # Ckf Guide
 
 ## CKF Guide *(in progress)*

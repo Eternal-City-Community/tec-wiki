@@ -1,3 +1,7 @@
+---
+title: "Commands"
+---
+
 # Commands
 
 You can also view the [Advanced Commands](/advanced-commands/) page for more specific information regarding Emotes, Macros and Speech commands.

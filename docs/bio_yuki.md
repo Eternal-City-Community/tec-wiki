@@ -1,3 +1,7 @@
+---
+title: "Bio Yuki"
+---
+
 # Bio Yuki
 
 >

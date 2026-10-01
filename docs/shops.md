@@ -1,3 +1,7 @@
+---
+title: "Shops"
+---
+
 # Shops
 
 There are many shops, bars, armories, and other vendors throughout Midlight, each offering a unique stock of items. This page attempts to chronicle those items for the discerning shopper.

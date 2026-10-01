@@ -1,3 +1,7 @@
+---
+title: "Herbalism Guide"
+---
+
 # Herbalism Guide
 
 ## Herbalism Guide

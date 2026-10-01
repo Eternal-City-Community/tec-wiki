@@ -1,3 +1,7 @@
+---
+title: "Black Hand Caverns"
+---
+
 # Black Hand Caverns
 
 <!-- 

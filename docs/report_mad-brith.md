@@ -1,3 +1,7 @@
+---
+title: "Report Mad Brith"
+---
+
 # Report Mad Brith
 
 ## Mad Brith

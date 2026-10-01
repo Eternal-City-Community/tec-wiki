@@ -1,3 +1,7 @@
+---
+title: "Scroll Victory By Kale"
+---
+
 # Scroll Victory By Kale
 
 Victory

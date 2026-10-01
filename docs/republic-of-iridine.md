@@ -1,3 +1,7 @@
+---
+title: "Republic Of Iridine"
+---
+
 # Republic Of Iridine
 
 ## The Republic

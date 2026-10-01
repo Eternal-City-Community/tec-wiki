@@ -1,3 +1,7 @@
+---
+title: "Pankration Guide"
+---
+
 # Pankration Guide
 
 ## Pankration Guide

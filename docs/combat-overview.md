@@ -1,3 +1,7 @@
+---
+title: "Combat Overview"
+---
+
 # Combat Overview
 
 The Eternal-City offers a complex combat system. This guide will attempt to offer both basic and advanced knowledge of the mechanics surrounding the combat system as a whole.

@@ -1,3 +1,7 @@
+---
+title: "Services"
+---
+
 # Services
 
 **Services** | [Shops](/shops/) | [Trainers](/trainers/)

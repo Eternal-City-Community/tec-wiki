@@ -1,3 +1,7 @@
+---
+title: "Jewelry"
+---
+
 # Jewelry
 
 ### Skill Overview

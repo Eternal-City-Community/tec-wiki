@@ -1,3 +1,7 @@
+---
+title: "In Game News"
+---
+
 # In Game News
 
 ### What's New In-Game

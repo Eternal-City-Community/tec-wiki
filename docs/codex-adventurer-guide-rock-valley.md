@@ -1,3 +1,7 @@
+---
+title: "Codex Adventurer Guide Rock Valley"
+---
+
 # Codex Adventurer Guide Rock Valley
 
 Adventurer's Guide to Rock Valley

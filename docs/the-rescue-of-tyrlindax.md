@@ -1,3 +1,7 @@
+---
+title: "The Rescue Of Tyrlindax"
+---
+
 # The Rescue Of Tyrlindax
 
 THE RESCUE OF TYRLINDAX:

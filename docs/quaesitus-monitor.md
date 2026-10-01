@@ -1,3 +1,7 @@
+---
+title: "Quaesitus Monitor"
+---
+
 # Quaesitus Monitor
 
 This page is referenced by the migrated TEC wiki, but its source was not present in the Wikidot backup.

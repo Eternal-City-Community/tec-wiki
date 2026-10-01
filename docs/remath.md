@@ -1,3 +1,7 @@
+---
+title: "Remath"
+---
+
 # Remath
 
 ## Remath

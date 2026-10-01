@@ -1,3 +1,7 @@
+---
+title: "Bio Minos"
+---
+
 # Bio Minos
 
 >

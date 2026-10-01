@@ -1,3 +1,7 @@
+---
+title: "Bio Seppoko"
+---
+
 # Bio Seppoko
 
 >

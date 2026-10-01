@@ -1,3 +1,7 @@
+---
+title: "Rock Valley Mine"
+---
+
 # Rock Valley Mine
 
 ![](/assets/wikidot/rock-valley-mine/Rock_Valley_Mines.PNG)

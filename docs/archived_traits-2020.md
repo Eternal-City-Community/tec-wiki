@@ -1,3 +1,7 @@
+---
+title: "Archived Traits 2020"
+---
+
 # Archived Traits 2020
 
 ### Positive Traits

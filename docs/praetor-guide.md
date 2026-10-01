@@ -1,3 +1,7 @@
+---
+title: "Praetor Guide"
+---
+
 # Praetor Guide
 
 ## Praetor Guide

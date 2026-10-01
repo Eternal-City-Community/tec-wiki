@@ -1,3 +1,7 @@
+---
+title: "Codex Elsana Guide"
+---
+
 # Codex Elsana Guide
 
 PRACTICAL-LY SILLY GUIDE: LOCKSMITHING

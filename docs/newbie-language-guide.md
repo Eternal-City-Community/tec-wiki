@@ -1,3 +1,7 @@
+---
+title: "Newbie Language Guide"
+---
+
 # Newbie Language Guide
 
 ## Language Learning

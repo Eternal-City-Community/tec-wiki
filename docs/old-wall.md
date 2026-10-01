@@ -1,3 +1,7 @@
+---
+title: "Old Wall"
+---
+
 # Old Wall
 
 Constructed around the Old City on Basran Hill, the Old Wall surrounds what is said to be the first city of Iridine, founded by Tulcas.

@@ -1,3 +1,7 @@
+---
+title: "Superlatives"
+---
+
 # Superlatives
 
 Vote for your favorite character! 

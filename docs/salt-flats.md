@@ -1,3 +1,7 @@
+---
+title: "Salt Flats"
+---
+
 # Salt Flats
 
 ![](/assets/wikidot/salt-flats/invexriverdelta-saltflats.gif)

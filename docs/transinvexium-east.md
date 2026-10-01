@@ -1,3 +1,7 @@
+---
+title: "Transinvexium East"
+---
+
 # Transinvexium East
 
 <meta http-equiv="refresh" content="0; url=/transinvexium/">

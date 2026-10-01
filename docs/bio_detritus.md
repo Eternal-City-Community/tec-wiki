@@ -1,3 +1,7 @@
+---
+title: "Bio Detritus"
+---
+
 # Bio Detritus
 
 >

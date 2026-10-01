@@ -1,3 +1,7 @@
+---
+title: "Codex Lupatrus"
+---
+
 # Codex Lupatrus
 
 A story by the Festiv Shade.

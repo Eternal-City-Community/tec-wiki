@@ -1,3 +1,7 @@
+---
+title: "Little Black Book Of Thievery"
+---
+
 # Little Black Book Of Thievery
 
 <a id="Top"></a>

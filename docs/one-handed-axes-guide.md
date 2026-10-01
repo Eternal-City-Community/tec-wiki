@@ -1,3 +1,7 @@
+---
+title: "One Handed Axes Guide"
+---
+
 # One Handed Axes Guide
 
 ## One-Handed Axes Guide

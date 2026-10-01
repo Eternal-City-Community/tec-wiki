@@ -1,3 +1,7 @@
+---
+title: "One Handed Swords"
+---
+
 # One Handed Swords
 
 ### Skill Overview

@@ -1,3 +1,7 @@
+---
+title: "Codex Gol Poems Of Love"
+---
+
 # Codex Gol Poems Of Love
 
 This Tome has been collected and scribed down for the people of the 

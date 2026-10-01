@@ -1,3 +1,7 @@
+---
+title: "Hunting Guide"
+---
+
 # Hunting Guide
 
 ## Hunting Guide (in progress)

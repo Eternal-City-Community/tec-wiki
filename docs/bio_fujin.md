@@ -1,3 +1,7 @@
+---
+title: "Bio Fujin"
+---
+
 # Bio Fujin
 
 >

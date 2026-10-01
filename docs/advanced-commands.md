@@ -1,3 +1,7 @@
+---
+title: "Advanced Commands"
+---
+
 # Advanced Commands
 
 [Emotes](#Emotes)

@@ -1,3 +1,7 @@
+---
+title: "Bio Seredian Allende"
+---
+
 # Bio Seredian Allende
 
 >

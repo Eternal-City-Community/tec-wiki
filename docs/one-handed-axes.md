@@ -1,3 +1,7 @@
+---
+title: "One Handed Axes"
+---
+
 # One Handed Axes
 
 ### Skill Overview

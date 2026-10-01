@@ -1,3 +1,7 @@
+---
+title: "Tailoring"
+---
+
 # Tailoring
 
 ### Skill Overview

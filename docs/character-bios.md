@@ -1,3 +1,7 @@
+---
+title: "Character Bios"
+---
+
 # Character Bios
 
 Character biographies preserved from the original community wiki.

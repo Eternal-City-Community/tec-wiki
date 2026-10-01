@@ -1,3 +1,7 @@
+---
+title: "Newsforum 20010624news2"
+---
+
 # Newsforum 20010624news2
 
 Message 3 on *news:

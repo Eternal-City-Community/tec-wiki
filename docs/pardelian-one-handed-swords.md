@@ -1,3 +1,7 @@
+---
+title: "Pardelian One Handed Swords"
+---
+
 # Pardelian One Handed Swords
 
 ### Skill Overview

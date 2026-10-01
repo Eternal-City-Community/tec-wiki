@@ -1,3 +1,7 @@
+---
+title: "Monlon Kelestian Outpost"
+---
+
 # Monlon Kelestian Outpost
 
 ![](/assets/wikidot/files/kelestian%20outpost%202023-08-03.png)

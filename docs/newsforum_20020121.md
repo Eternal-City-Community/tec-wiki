@@ -1,3 +1,7 @@
+---
+title: "Newsforum 20020121"
+---
+
 # Newsforum 20020121
 
 Message 90 on *news:

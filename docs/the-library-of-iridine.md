@@ -1,3 +1,7 @@
+---
+title: "The Library Of Iridine"
+---
+
 # The Library Of Iridine
 
 ## Library Catalogue

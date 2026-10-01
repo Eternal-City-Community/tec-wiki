@@ -1,3 +1,7 @@
+---
+title: "Enemy Guide"
+---
+
 # Enemy Guide
 
 * [Full Enemy List](/full-enemy-list/)

@@ -1,3 +1,7 @@
+---
+title: "Archived Important Ig Notes"
+---
+
 # Archived Important Ig Notes
 
 Posted by Sceadu (forums) http://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/95674-official-in-game-announcements#post95674

@@ -1,3 +1,7 @@
+---
+title: "Riverside"
+---
+
 # Riverside
 
 [![](/assets/wikidot/files/iridine-riverside_new.gif)](/assets/wikidot/files/iridine-riverside_new.gif)

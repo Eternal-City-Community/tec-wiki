@@ -1,3 +1,7 @@
+---
+title: "House Of Mercantile"
+---
+
 # House Of Mercantile
 
 Something something House Of Mercantile has revolving stock.

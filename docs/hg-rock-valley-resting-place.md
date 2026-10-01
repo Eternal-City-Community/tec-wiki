@@ -1,3 +1,7 @@
+---
+title: "Hg Rock Valley Resting Place"
+---
+
 # Hg Rock Valley Resting Place
 
 ### Overview

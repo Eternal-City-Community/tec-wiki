@@ -1,3 +1,7 @@
+---
+title: "Codex Varrus Reports"
+---
+
 # Codex Varrus Reports
 
 Report 1

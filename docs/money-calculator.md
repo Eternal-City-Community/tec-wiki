@@ -1,3 +1,7 @@
+---
+title: "Money Calculator"
+---
+
 # Money Calculator
 
 <!-- new money calc -->

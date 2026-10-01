@@ -1,3 +1,7 @@
+---
+title: "Hg Monlon Mines"
+---
+
 # Hg Monlon Mines
 
 ### Overivew

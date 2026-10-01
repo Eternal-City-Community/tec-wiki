@@ -1,3 +1,7 @@
+---
+title: "Bio Amarad"
+---
+
 # Bio Amarad
 
 >

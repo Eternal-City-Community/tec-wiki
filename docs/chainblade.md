@@ -1,3 +1,7 @@
+---
+title: "Chainblade"
+---
+
 # Chainblade
 
 ### Skill Overview

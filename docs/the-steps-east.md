@@ -1,3 +1,7 @@
+---
+title: "The Steps East"
+---
+
 # The Steps East
 
 ![](/assets/wikidot/the-steps-east/Steps-East1.gif)

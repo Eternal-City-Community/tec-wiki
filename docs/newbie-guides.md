@@ -1,3 +1,7 @@
+---
+title: "Newbie Guides"
+---
+
 # Newbie Guides
 
 <a id="Top"></a>

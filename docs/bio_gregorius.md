@@ -1,3 +1,7 @@
+---
+title: "Bio Gregorius"
+---
+
 # Bio Gregorius
 
 >

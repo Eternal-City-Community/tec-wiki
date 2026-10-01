@@ -1,3 +1,7 @@
+---
+title: "Bio Jarin Seneda"
+---
+
 # Bio Jarin Seneda
 
 >

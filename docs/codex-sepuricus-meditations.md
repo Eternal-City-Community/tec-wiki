@@ -1,3 +1,7 @@
+---
+title: "Codex Sepuricus Meditations"
+---
+
 # Codex Sepuricus Meditations
 
 Meditations 

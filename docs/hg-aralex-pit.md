@@ -1,3 +1,7 @@
+---
+title: "Hg Aralex Pit"
+---
+
 # Hg Aralex Pit
 
 ## The Aralex Pit

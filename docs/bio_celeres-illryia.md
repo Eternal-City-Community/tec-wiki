@@ -1,3 +1,7 @@
+---
+title: "Bio Celeres Illryia"
+---
+
 # Bio Celeres Illryia
 
 This page is referenced by the migrated TEC wiki, but its source was not present in the Wikidot backup.

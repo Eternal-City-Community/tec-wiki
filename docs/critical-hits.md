@@ -1,3 +1,7 @@
+---
+title: "Critical Hits"
+---
+
 # Critical Hits
 
 Critical Hits will happen randomly during a fight. There are two sorts of critical hits. Those which can be done against standing Humanoid opponents and the rest which are done against either creatures or prone Humanoid opponents. Every time you land a hit against your opponent you will have a chance to score a critical hit. It is rumored that the frequency at which critical hits happen is based upon: 1) Dexterity, 2) Skill Level, 3) Skillset, 4) Traits. Critical Hits will have varying levels of success from minor all the way to fatal. It is rumored that the severity of the critical hit will be based upon: 1) Base damage of the skill, 2) Skill Level, 3) Skillset, 4) Difficulty of the skill, 5) Traits.

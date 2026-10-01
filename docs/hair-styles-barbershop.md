@@ -1,3 +1,7 @@
+---
+title: "Hair Styles Barbershop"
+---
+
 # Hair Styles Barbershop
 
 Getting a hair cut is a natural occurrence in the daily lives of those dwelling in Midlight. Sometimes, though, you just have to make a change and going to the barber is the thing to do! When you arrive at the barber you should ask the barber for a "hair cut". Once prompted, the barber will set a price and when you agree, a menu will appear asking you what length, texture and style you would like. Below, is a list of styles associated with each length of hair.

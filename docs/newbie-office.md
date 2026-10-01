@@ -1,3 +1,7 @@
+---
+title: "Newbie Office"
+---
+
 # Newbie Office
 
 ### Officium de Humanitas:

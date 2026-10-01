@@ -1,3 +1,7 @@
+---
+title: "Miscellaneous Maps"
+---
+
 # Miscellaneous Maps
 
 <meta http-equiv="refresh" content="0; url=/maps-miscmaps/">

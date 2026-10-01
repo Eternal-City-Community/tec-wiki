@@ -1,3 +1,7 @@
+---
+title: "Tailoring Guide"
+---
+
 # Tailoring Guide
 
 ## Tailoring Guide

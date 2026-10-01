@@ -1,3 +1,7 @@
+---
+title: "Franlius Rerelease"
+---
+
 # Franlius Rerelease
 
 ## Franlius' Ascent!

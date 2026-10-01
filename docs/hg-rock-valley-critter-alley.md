@@ -1,3 +1,7 @@
+---
+title: "Hg Rock Valley Critter Alley"
+---
+
 # Hg Rock Valley Critter Alley
 
 This page is referenced by the migrated TEC wiki, but its source was not present in the Wikidot backup.

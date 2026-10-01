@@ -1,3 +1,7 @@
+---
+title: "Bio Nathanial"
+---
+
 # Bio Nathanial
 
 >

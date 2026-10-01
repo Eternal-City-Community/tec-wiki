@@ -1,3 +1,7 @@
+---
+title: "Gardens And Hospice"
+---
+
 # Gardens And Hospice
 
 [![](/assets/wikidot/files/Iridine-Gardens.gif)](/assets/wikidot/files/Iridine-Gardens.gif)

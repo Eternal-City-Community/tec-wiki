@@ -1,3 +1,7 @@
+---
+title: "Bio Darius Allende"
+---
+
 # Bio Darius Allende
 
 >

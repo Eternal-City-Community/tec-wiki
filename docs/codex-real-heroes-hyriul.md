@@ -1,3 +1,7 @@
+---
+title: "Codex Real Heroes Hyriul"
+---
+
 # Codex Real Heroes Hyriul
 
 Aoden! Hero!

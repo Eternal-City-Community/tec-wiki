@@ -1,3 +1,7 @@
+---
+title: "Newsforum 20010621"
+---
+
 # Newsforum 20010621
 
 **Subject**: *news forum re-activated

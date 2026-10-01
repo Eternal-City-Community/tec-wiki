@@ -1,3 +1,7 @@
+---
+title: "Codex Badger Guide Monlon"
+---
+
 # Codex Badger Guide Monlon
 
 A Badger's Guide to Monlon, Volume 1: by Leonias Mellitas, a Badger.

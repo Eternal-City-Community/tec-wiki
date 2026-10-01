@@ -1,3 +1,7 @@
+---
+title: "Tanning Guide"
+---
+
 # Tanning Guide
 
 ## Tanning Guide

@@ -1,3 +1,7 @@
+---
+title: "Bio Rusty"
+---
+
 # Bio Rusty
 
 >

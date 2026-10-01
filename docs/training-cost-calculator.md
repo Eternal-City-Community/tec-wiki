@@ -1,3 +1,7 @@
+---
+title: "Training Cost Calculator"
+---
+
 # Training Cost Calculator
 
 NEW! As of Spring 2024, most NPC trainers teach above rank 200 and training costs were increased by 50%. The increased cost can be toggled off by selecting the new "**Legacy Cost**" button.

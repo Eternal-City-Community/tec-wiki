@@ -1,3 +1,7 @@
+---
+title: "Midlight Map"
+---
+
 # Midlight Map
 
 ---

@@ -1,3 +1,7 @@
+---
+title: "Combat Maneuvers"
+---
+
 # Combat Maneuvers
 
 ### Skill Overview

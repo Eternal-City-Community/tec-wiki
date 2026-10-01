@@ -1,3 +1,7 @@
+---
+title: "Aoden Hunting Guide"
+---
+
 # Aoden Hunting Guide
 
 Hunting Grounds Version 1 by Aoden:

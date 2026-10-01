@@ -1,3 +1,7 @@
+---
+title: "Scroll Remathen Tea Mastery"
+---
+
 # Scroll Remathen Tea Mastery
 
 The sublime herb known as 'tea' is essential to civilized life in the nation of Remath. Indeed, among the upper eschelons of Remathen society can be found a confederation of intense young men and women who call themselves the Tea Masters. These champions of stimulating beverages gather in fashionable locales to challenge one another with novel recipes.

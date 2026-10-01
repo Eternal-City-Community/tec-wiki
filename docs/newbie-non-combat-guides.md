@@ -1,3 +1,7 @@
+---
+title: "Newbie Non Combat Guides"
+---
+
 # Newbie Non Combat Guides
 
 ### Thievery Guides

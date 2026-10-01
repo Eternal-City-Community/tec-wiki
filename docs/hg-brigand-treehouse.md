@@ -1,3 +1,7 @@
+---
+title: "Hg Brigand Treehouse"
+---
+
 # Hg Brigand Treehouse
 
 ### Overview

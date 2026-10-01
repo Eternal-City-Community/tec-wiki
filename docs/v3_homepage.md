@@ -1,3 +1,7 @@
+---
+title: "V3 Homepage"
+---
+
 # V3 Homepage
 
 [![](/assets/wikidot/files/IridineMapShortest.png)](/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)

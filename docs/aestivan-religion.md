@@ -1,3 +1,7 @@
+---
+title: "Aestivan Religion"
+---
+
 # Aestivan Religion
 
 **[Aestivan League](/aestivan-league/)**

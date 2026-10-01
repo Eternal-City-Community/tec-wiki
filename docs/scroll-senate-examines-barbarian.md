@@ -1,3 +1,7 @@
+---
+title: "Scroll Senate Examines Barbarian"
+---
+
 # Scroll Senate Examines Barbarian
 
 The Senate Examines a Barbarian

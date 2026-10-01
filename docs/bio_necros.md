@@ -1,3 +1,7 @@
+---
+title: "Bio Necros"
+---
+
 # Bio Necros
 
 >

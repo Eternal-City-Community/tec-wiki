@@ -1,3 +1,7 @@
+---
+title: "Worm Temple"
+---
+
 # Worm Temple
 
 ![](/assets/wikidot/worm-temple/wormTempleMap.png)

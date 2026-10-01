@@ -1,3 +1,7 @@
+---
+title: "Staves Guide"
+---
+
 # Staves Guide
 
 ## Staves Guide *(in progress)*

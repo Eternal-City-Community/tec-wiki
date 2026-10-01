@@ -1,3 +1,7 @@
+---
+title: "Mining"
+---
+
 # Mining
 
 Mining is currently available in three locations. It does not require a skillset to be used. You must have a chisel hammer or pick axe wielded and you must be in one of these three locations to start mining. Usage: mine here

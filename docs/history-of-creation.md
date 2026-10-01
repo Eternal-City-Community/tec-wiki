@@ -1,3 +1,7 @@
+---
+title: "History Of Creation"
+---
+
 # History Of Creation
 
 Long, long ago, before Iridine was founded, and indeed, before any living thing existed, there was Ereal. Ereal was the bright, warm sun, and he walked through a void darker than the darkest night, and everywhere Ereal walked, the darkness was dispelled, but there was no one to notice or to care, for Ereal was alone.

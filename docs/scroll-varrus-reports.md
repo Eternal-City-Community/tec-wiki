@@ -1,3 +1,7 @@
+---
+title: "Scroll Varrus Reports"
+---
+
 # Scroll Varrus Reports
 
 Constable Reports:  Varrus

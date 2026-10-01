@@ -1,3 +1,7 @@
+---
+title: "2022 Combat Revamp"
+---
+
 # 2022 Combat Revamp
 
 ## General

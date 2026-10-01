@@ -1,3 +1,7 @@
+---
+title: "Hg Swamp Mansion"
+---
+
 # Hg Swamp Mansion
 
 More To Come...

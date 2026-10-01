@@ -1,3 +1,7 @@
+---
+title: "Pankration"
+---
+
 # Pankration
 
 ### Skill Overview

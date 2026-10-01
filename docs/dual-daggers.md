@@ -1,3 +1,7 @@
+---
+title: "Dual Daggers"
+---
+
 # Dual Daggers
 
 ### Skill Overview

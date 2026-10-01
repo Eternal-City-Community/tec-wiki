@@ -1,3 +1,7 @@
+---
+title: "Swamp Mansion"
+---
+
 # Swamp Mansion
 
 ![](/assets/wikidot/swamp-mansion/invexriverdelta-swampmansion.gif)

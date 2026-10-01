@@ -1,3 +1,7 @@
+---
+title: "Punishment"
+---
+
 # Punishment
 
 **XI. Punishment**

@@ -1,3 +1,7 @@
+---
+title: "Falcata Guide"
+---
+
 # Falcata Guide
 
 ### Falcata Sword Fighting Guide

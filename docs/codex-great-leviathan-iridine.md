@@ -1,3 +1,7 @@
+---
+title: "Codex Great Leviathan Iridine"
+---
+
 # Codex Great Leviathan Iridine
 
 What follows are the true memories and recollections of Peitho the

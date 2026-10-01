@@ -1,3 +1,7 @@
+---
+title: "Scroll How Do I Name Stupid"
+---
+
 # Scroll How Do I Name Stupid
 
 How do I name Stupid

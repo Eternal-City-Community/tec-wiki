@@ -1,3 +1,7 @@
+---
+title: "Setups"
+---
+
 # Setups
 
 ### Skill Overview

@@ -1,3 +1,7 @@
+---
+title: "Black Hand Mines"
+---
+
 # Black Hand Mines
 
 ![](/assets/wikidot/black-hand-mines/black-hand-mines.gif)

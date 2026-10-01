@@ -1,3 +1,7 @@
+---
+title: "Browser Editing"
+---
+
 # Browser Editing
 
 The replacement TEC wiki includes a browser-based editor at **/admin/**.

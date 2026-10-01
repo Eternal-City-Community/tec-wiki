@@ -1,3 +1,7 @@
+---
+title: "Dual Daggers Combat Guide"
+---
+
 # Dual Daggers Combat Guide
 
 This page is referenced by the migrated TEC wiki, but its source was not present in the Wikidot backup.

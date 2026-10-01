@@ -1,3 +1,7 @@
+---
+title: "Codex Vinian Quartz"
+---
+
 # Codex Vinian Quartz
 
 A Boy comes to Cinera

@@ -1,3 +1,7 @@
+---
+title: "Places"
+---
+
 # Places
 
 #### Iridine: The Eternal City

@@ -1,3 +1,7 @@
+---
+title: "Codex Sagitum Triarii Vol1"
+---
+
 # Codex Sagitum Triarii Vol1
 
 You see a simple drawing of an archery target, laden with only three arrows. 

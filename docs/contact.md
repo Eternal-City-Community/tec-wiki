@@ -1,3 +1,7 @@
+---
+title: "Contact"
+---
+
 # Contact
 
 **To send a message to the site owner, use this form:**

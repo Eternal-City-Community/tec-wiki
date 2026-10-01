@@ -1,3 +1,7 @@
+---
+title: "Brawling"
+---
+
 # Brawling
 
 ### Skill Overview

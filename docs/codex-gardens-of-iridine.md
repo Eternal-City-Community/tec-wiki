@@ -1,3 +1,7 @@
+---
+title: "Codex Gardens Of Iridine"
+---
+
 # Codex Gardens Of Iridine
 
 The Gardens of Iridine

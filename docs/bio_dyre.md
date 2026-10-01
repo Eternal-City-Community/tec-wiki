@@ -1,3 +1,7 @@
+---
+title: "Bio Dyre"
+---
+
 # Bio Dyre
 
 >

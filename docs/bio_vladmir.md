@@ -1,3 +1,7 @@
+---
+title: "Bio Vladmir"
+---
+
 # Bio Vladmir
 
 >

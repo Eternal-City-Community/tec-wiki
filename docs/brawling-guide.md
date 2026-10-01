@@ -1,3 +1,7 @@
+---
+title: "Brawling Guide"
+---
+
 # Brawling Guide
 
 ## Brawling Guide

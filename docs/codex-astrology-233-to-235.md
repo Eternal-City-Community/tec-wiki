@@ -1,3 +1,7 @@
+---
+title: "Codex Astrology 233 To 235"
+---
+
 # Codex Astrology 233 To 235
 
 Astrological studies as documented by Alsask Alfiero Kadath, citizen of Iridine.

@@ -1,3 +1,7 @@
+---
+title: "Healing Guide"
+---
+
 # Healing Guide
 
 ## Healing Guide (in progress)

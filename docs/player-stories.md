@@ -1,3 +1,7 @@
+---
+title: "Player Stories"
+---
+
 # Player Stories
 
 Based on actual events:

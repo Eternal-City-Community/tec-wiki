@@ -1,3 +1,7 @@
+---
+title: "Bio Amose And Sestus Fisthand"
+---
+
 # Bio Amose And Sestus Fisthand
 
 I walked in and a small man pointed me towards the back of the room. Upon approaching the bed I saw my father laying, quiet. I touched him tentatively and said, "father?" Nothing. "Father?" I said again. His eyes fluttered a little, then opened themselves and fixed on me. I looked down at his chest where a large bandage had been wrapped around. The thing was absolutely soaked through in blood. He winced, then spoke softly to me, "Where's Sestus?" I told him that Sestus was currently out at the barracks in Sevame training to join in the Black Wolves as I had a few years back. After I said that, he looked up towards the ceiling and sighed. I knew he was upset but Sestus couldnít help being so many miles away. My father sighed again and said to me "You know this is the way I told you it would end." I nodded and began to swell up with emotion. "Leave, anywhere but here; I donít want this to happen to you." I nodded again. "Take my quarterstave, find Sestus and get out." he was beginning to trail off. His eyes closed and I was pushed away from his bed as men began to feed him some sort of herb. I walked out frustrated and distraught.

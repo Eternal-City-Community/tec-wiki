@@ -1,3 +1,7 @@
+---
+title: "News Forum"
+---
+
 # News Forum
 
 page used for the *news forum found in-game, will test several formats. interested in an attempt to make something similar to the bio: system created by dragaxus

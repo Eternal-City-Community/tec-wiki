@@ -1,3 +1,7 @@
+---
+title: "Bio Joreick"
+---
+
 # Bio Joreick
 
 >

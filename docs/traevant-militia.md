@@ -1,3 +1,7 @@
+---
+title: "Traevant Militia"
+---
+
 # Traevant Militia
 
 ## The Traevant Militia

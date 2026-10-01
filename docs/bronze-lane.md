@@ -1,3 +1,7 @@
+---
+title: "Bronze Lane"
+---
+
 # Bronze Lane
 
 [![](/assets/wikidot/bronze-lane/iridine-bronzelane.gif)](/assets/wikidot/bronze-lane/iridine-bronzelane.gif)

@@ -1,3 +1,7 @@
+---
+title: "Rat Pits And Aralex Pits"
+---
+
 # Rat Pits And Aralex Pits
 
 [![](/assets/wikidot/files/RatPitsandAralexPits.gif)](/assets/wikidot/files/RatPitsandAralexPits.gif)

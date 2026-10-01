@@ -1,3 +1,7 @@
+---
+title: "Signal Tower Island"
+---
+
 # Signal Tower Island
 
 <!-- 

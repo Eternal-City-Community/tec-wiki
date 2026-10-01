@@ -1,3 +1,7 @@
+---
+title: "Bio Drekk Drykk"
+---
+
 # Bio Drekk Drykk
 
 Drekk and Drykk were born to a Blackvine merchant and his beautiful weaver wife. Their mother died shortly after the twins were born, and their father was left to care for them. 8 years passed.

@@ -1,3 +1,7 @@
+---
+title: "Character Generator"
+---
+
 # Character Generator
 
 ## Creating a Character - Step By Step Guide 

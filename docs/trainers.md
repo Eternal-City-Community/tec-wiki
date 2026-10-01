@@ -1,3 +1,7 @@
+---
+title: "Trainers"
+---
+
 # Trainers
 
 There are many trainers scattered throughout Midlight that will teach you to use a weapon more effectively or to improve in another craft of your choice. Typically these trainers charge for their teaching services, and certain trainers might even ask other favors of you as a condition of sharing their knowledge.

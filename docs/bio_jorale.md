@@ -1,3 +1,7 @@
+---
+title: "Bio Jorale"
+---
+
 # Bio Jorale
 
 >

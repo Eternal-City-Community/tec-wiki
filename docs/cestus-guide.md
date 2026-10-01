@@ -1,3 +1,7 @@
+---
+title: "Cestus Guide"
+---
+
 # Cestus Guide
 
 ## Cestus Guide (in progress)

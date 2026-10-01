@@ -1,3 +1,7 @@
+---
+title: "Praetor Scripts"
+---
+
 # Praetor Scripts
 
 ## Praetor Scripts

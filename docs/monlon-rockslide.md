@@ -1,3 +1,7 @@
+---
+title: "Monlon Rockslide"
+---
+
 # Monlon Rockslide
 
 ![](/assets/wikidot/monlon-rockslide/monlon-rockslide_updated101217.gif)

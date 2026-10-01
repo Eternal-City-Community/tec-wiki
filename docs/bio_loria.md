@@ -1,3 +1,7 @@
+---
+title: "Bio Loria"
+---
+
 # Bio Loria
 
 >

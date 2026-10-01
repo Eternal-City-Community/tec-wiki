@@ -1,3 +1,7 @@
+---
+title: "Influence"
+---
+
 # Influence
 
 ## (Political) Influence

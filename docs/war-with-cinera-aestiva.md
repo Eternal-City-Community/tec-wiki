@@ -1,3 +1,7 @@
+---
+title: "War With Cinera Aestiva"
+---
+
 # War With Cinera Aestiva
 
 **War Reaches a Turning Point**

@@ -1,3 +1,7 @@
+---
+title: "Bio Trittillius"
+---
+
 # Bio Trittillius
 
 >

@@ -1,3 +1,7 @@
+---
+title: "Report Nefarious Nyx"
+---
+
 # Report Nefarious Nyx
 
 ## Nefarious Nyx

@@ -1,3 +1,7 @@
+---
+title: "Hoplite Combat Guide"
+---
+
 # Hoplite Combat Guide
 
 ## Hoplite Combat Guide

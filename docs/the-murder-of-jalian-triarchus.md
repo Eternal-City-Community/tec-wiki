@@ -1,3 +1,7 @@
+---
+title: "The Murder Of Jalian Triarchus"
+---
+
 # The Murder Of Jalian Triarchus
 
 THE MURDER OF JALIAN TRIARCHUS:

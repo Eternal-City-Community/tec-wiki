@@ -1,3 +1,7 @@
+---
+title: "Historic Map Pepaquest"
+---
+
 # Historic Map Pepaquest
 
 Pepa provided the first extensive series of maps that covered the entire TEC gameworld, which were hosted on the [PepaQuest website](https://web.archive.org/web/20090728172014/https://geocities.com/pepa_quin/). Pepa's maps have a familiar *PQ* signature on them. Pepa also enlisted the help of a few other mappers, including:

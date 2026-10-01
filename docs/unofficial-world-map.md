@@ -1,3 +1,7 @@
+---
+title: "Unofficial World Map"
+---
+
 # Unofficial World Map
 
 Huge thanks go out to Rupert for all of his time and effort on an updated World Map based on the official Word Maps.

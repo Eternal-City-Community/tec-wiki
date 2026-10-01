@@ -1,3 +1,7 @@
+---
+title: "Nelsor One Handed Swords"
+---
+
 # Nelsor One Handed Swords
 
 ### Skill Overview

@@ -1,3 +1,7 @@
+---
+title: "Bio Kobald"
+---
+
 # Bio Kobald
 
 >

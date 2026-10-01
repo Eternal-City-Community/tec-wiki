@@ -1,3 +1,7 @@
+---
+title: "Hg Ludus Valerius"
+---
+
 # Hg Ludus Valerius
 
 [Fighting & Training Areas](/hunting-grounds/) >> Ludus Valerius

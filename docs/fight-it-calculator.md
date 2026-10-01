@@ -1,3 +1,7 @@
+---
+title: "Fight It Calculator"
+---
+
 # Fight It Calculator
 
 #### Fight It!™ Calculator

@@ -1,3 +1,7 @@
+---
+title: "Arandes Pardelian"
+---
+
 # Arandes Pardelian
 
 **Arandes Pardelian**

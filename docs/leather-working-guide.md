@@ -1,3 +1,7 @@
+---
+title: "Leather Working Guide"
+---
+
 # Leather Working Guide
 
 * Leatherworking

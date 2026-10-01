@@ -1,3 +1,7 @@
+---
+title: "Codex Tailor Guide To Fighting"
+---
+
 # Codex Tailor Guide To Fighting
 
 A Tailor's Guide to Fighting

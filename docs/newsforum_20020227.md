@@ -1,3 +1,7 @@
+---
+title: "Newsforum 20020227"
+---
+
 # Newsforum 20020227
 
 Message 100 on *news:

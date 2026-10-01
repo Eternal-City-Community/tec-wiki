@@ -1,3 +1,7 @@
+---
+title: "Languages"
+---
+
 # Languages
 
 ## Languages of Midlight

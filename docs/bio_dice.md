@@ -1,3 +1,7 @@
+---
+title: "Bio Dice"
+---
+
 # Bio Dice
 
 >

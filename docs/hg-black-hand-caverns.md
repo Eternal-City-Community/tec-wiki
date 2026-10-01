@@ -1,3 +1,7 @@
+---
+title: "Hg Black Hand Caverns"
+---
+
 # Hg Black Hand Caverns
 
 ## Black Hand Caverns (BHC)

@@ -1,3 +1,7 @@
+---
+title: "Guides"
+---
+
 # Guides
 
 [Newbie Guides](/newbie-guides/)

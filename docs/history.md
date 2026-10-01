@@ -1,3 +1,7 @@
+---
+title: "History"
+---
+
 # History
 
 ## History of the Republic

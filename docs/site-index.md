@@ -1,3 +1,7 @@
+---
+title: "Site Index"
+---
+
 # Site Index
 
 page for site index... work in progress...

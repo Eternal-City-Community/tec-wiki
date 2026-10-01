@@ -1,3 +1,7 @@
+---
+title: "Two Handed Crushing"
+---
+
 # Two Handed Crushing
 
 ### Skill Overview

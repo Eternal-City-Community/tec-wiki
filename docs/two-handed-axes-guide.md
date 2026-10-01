@@ -1,3 +1,7 @@
+---
+title: "Two Handed Axes Guide"
+---
+
 # Two Handed Axes Guide
 
 ## 2HA Guide

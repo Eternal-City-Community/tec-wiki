@@ -1,3 +1,7 @@
+---
+title: "Monlon Mines"
+---
+
 # Monlon Mines
 
 ---

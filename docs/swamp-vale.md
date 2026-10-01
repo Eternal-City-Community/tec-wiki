@@ -1,3 +1,7 @@
+---
+title: "Swamp Vale"
+---
+
 # Swamp Vale
 
 ![](/assets/wikidot/swamp-vale/invexriverdelta-swampvale.gif)

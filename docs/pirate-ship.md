@@ -1,3 +1,7 @@
+---
+title: "Pirate Ship"
+---
+
 # Pirate Ship
 
 <!-- 

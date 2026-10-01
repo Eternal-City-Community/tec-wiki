@@ -1,3 +1,7 @@
+---
+title: "Magistracies"
+---
+
 # Magistracies
 
 **VII. Magistracies**

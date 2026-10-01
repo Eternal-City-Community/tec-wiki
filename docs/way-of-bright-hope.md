@@ -1,3 +1,7 @@
+---
+title: "Way Of Bright Hope"
+---
+
 # Way Of Bright Hope
 
 The Fundamentals:

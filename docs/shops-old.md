@@ -1,3 +1,7 @@
+---
+title: "Shops Old"
+---
+
 # Shops Old
 
 > **Archive note:** Wikidot module redirect was not portable and has been omitted.

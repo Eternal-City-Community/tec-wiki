@@ -1,3 +1,7 @@
+---
+title: "Fenri Gifr Ruins"
+---
+
 # Fenri Gifr Ruins
 
 ![](/assets/wikidot/files/RockValley-FenriGifrRuins.gif)

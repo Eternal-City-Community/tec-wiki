@@ -1,3 +1,7 @@
+---
+title: "Esecarnus Caves"
+---
+
 # Esecarnus Caves
 
 ![](/assets/wikidot/esecarnus-caves/esecarnus.gif)

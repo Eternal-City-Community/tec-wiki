@@ -1,3 +1,7 @@
+---
+title: "Whips Guide"
+---
+
 # Whips Guide
 
 ## Whips Guide *(in progress)*

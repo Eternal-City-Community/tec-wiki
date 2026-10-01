@@ -1,3 +1,7 @@
+---
+title: "Lighthouse"
+---
+
 # Lighthouse
 
 Operating on the **banks of [Signal Tower Island](/signal-tower-island/)**, the **Lighthouse shines from the mouth of the Harbor of the Moons**, guiding ships toward safety in the docks to its south. 

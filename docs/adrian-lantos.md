@@ -1,3 +1,7 @@
+---
+title: "Adrian Lantos"
+---
+
 # Adrian Lantos
 
 **Adrian Lantos**

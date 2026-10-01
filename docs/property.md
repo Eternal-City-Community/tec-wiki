@@ -1,3 +1,7 @@
+---
+title: "Property"
+---
+
 # Property
 
 ## Owning Property

@@ -1,3 +1,7 @@
+---
+title: "Scroll Legend Of Aestivan"
+---
+
 # Scroll Legend Of Aestivan
 
 Related by Dret Rylas as passed down to him by his father and his father before him. 

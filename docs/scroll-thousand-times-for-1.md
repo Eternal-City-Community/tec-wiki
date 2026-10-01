@@ -1,3 +1,7 @@
+---
+title: "Scroll Thousand Times For 1"
+---
+
 # Scroll Thousand Times For 1
 
 1000 Times For 1

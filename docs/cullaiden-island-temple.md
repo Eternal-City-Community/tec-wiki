@@ -1,3 +1,7 @@
+---
+title: "Cullaiden Island Temple"
+---
+
 # Cullaiden Island Temple
 
 ### Abandoned Temple

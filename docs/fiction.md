@@ -1,3 +1,7 @@
+---
+title: "Fiction"
+---
+
 # Fiction
 
 A compendium of lore, player submitted entries, and tidbits of flavor to support The Eternal City.

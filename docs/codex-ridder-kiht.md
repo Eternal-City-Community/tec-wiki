@@ -1,3 +1,7 @@
+---
+title: "Codex Ridder Kiht"
+---
+
 # Codex Ridder Kiht
 
 Ridder Kiht.

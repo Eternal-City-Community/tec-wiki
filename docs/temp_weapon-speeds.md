@@ -1,3 +1,7 @@
+---
+title: "Temp Weapon Speeds"
+---
+
 # Temp Weapon Speeds
 
 |  |  |  |  | Short Whip (210 speed) |

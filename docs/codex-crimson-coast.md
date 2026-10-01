@@ -1,3 +1,7 @@
+---
+title: "Codex Crimson Coast"
+---
+
 # Codex Crimson Coast
 
 #### Dramatis Personae:

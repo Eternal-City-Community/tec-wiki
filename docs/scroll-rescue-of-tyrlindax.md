@@ -1,3 +1,7 @@
+---
+title: "Scroll Rescue Of Tyrlindax"
+---
+
 # Scroll Rescue Of Tyrlindax
 
 The Rescue Of Tyrlindax

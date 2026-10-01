@@ -1,3 +1,7 @@
+---
+title: "Codex Assemble Nehal Lore"
+---
+
 # Codex Assemble Nehal Lore
 
 Within the pages that follow, I will describe the allocation, properties, and significance of the barbarian artifacts known as dream tears.

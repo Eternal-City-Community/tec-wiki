@@ -1,3 +1,7 @@
+---
+title: "Orchil"
+---
+
 # Orchil
 
 Orchil is the official client for The Eternal City and can be accessed directly via the official web site for the game. It is a completely functional web client that lacks in functionality compared to other modern MUD games and web clients.

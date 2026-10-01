@@ -1,3 +1,7 @@
+---
+title: "Jewelry Guide"
+---
+
 # Jewelry Guide
 
 Jewelry Crafting allows characters to create jewelry from a variety of metals, cut and polish gemstones, engrave finished pieces, and set gemstones into compatible jewelry.

@@ -1,3 +1,7 @@
+---
+title: "The Way Of The Thief"
+---
+
 # The Way Of The Thief
 
 <a id="Top"></a>

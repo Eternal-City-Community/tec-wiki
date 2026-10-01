@@ -1,3 +1,7 @@
+---
+title: "Bio Lindsi"
+---
+
 # Bio Lindsi
 
 >

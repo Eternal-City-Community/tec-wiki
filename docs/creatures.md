@@ -1,3 +1,7 @@
+---
+title: "Creatures"
+---
+
 # Creatures
 
 Difficulty currently set to 0 until scaling/rating system is created.

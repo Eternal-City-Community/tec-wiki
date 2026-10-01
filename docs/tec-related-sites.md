@@ -1,3 +1,7 @@
+---
+title: "TEC Related Sites"
+---
+
 # TEC Related Sites
 
 Note that some player sites are quite old and outdated. They're preserved here for historic reasons and nostalgia.

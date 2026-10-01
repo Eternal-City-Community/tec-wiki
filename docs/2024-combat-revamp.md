@@ -1,3 +1,7 @@
+---
+title: "2024 Combat Revamp"
+---
+
 # 2024 Combat Revamp
 
 ## General

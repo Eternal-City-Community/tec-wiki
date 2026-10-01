@@ -1,3 +1,7 @@
+---
+title: "Magic Release Notes"
+---
+
 # Magic Release Notes
 
 ## Release Notes

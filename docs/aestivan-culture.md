@@ -1,3 +1,7 @@
+---
+title: "Aestivan Culture"
+---
+
 # Aestivan Culture
 
 **[Aestivan League](/aestivan-league/)**

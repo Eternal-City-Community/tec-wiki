@@ -1,3 +1,7 @@
+---
+title: "Locksmithing"
+---
+
 # Locksmithing
 
 ### Skill Overview

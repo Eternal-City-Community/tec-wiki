@@ -1,3 +1,7 @@
+---
+title: "Scroll Fauna Lingkius"
+---
+
 # Scroll Fauna Lingkius
 
 Fauna of the Iridinian Wilds or Where to and not to Hunt.

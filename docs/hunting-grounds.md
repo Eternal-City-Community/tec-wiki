@@ -1,3 +1,7 @@
+---
+title: "Hunting Grounds"
+---
+
 # Hunting Grounds
 
 These hunting areas are listed roughly in order of difficulty. Anything more challenging than the dumps should first be explored with a companion. Some areas should never be attempted solo.

@@ -1,3 +1,7 @@
+---
+title: "Humanoids"
+---
+
 # Humanoids
 
 ### ***(Work in Progress)***

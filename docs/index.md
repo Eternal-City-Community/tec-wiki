@@ -1,3 +1,7 @@
+---
+title: "The Eternal City Wiki"
+---
+
 # The Eternal City Wiki
 
 [![Map of Iridine - The Eternal City MUD](/assets/wikidot/files/IridineMapShortest.png)](/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)

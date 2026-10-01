@@ -1,3 +1,7 @@
+---
+title: "Historic Map Marnevel Iridine Outskirts"
+---
+
 # Historic Map Marnevel Iridine Outskirts
 
 ### Campus Martius

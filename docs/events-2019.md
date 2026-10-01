@@ -1,3 +1,7 @@
+---
+title: "Events 2019"
+---
+
 # Events 2019
 
 [Gameworld Events](/gameworld-events/)

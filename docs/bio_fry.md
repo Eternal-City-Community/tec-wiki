@@ -1,3 +1,7 @@
+---
+title: "Bio Fry"
+---
+
 # Bio Fry
 
 >

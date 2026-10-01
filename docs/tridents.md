@@ -1,3 +1,7 @@
+---
+title: "Tridents"
+---
+
 # Tridents
 
 ### Skill Overview

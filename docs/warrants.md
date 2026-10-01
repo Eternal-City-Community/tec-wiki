@@ -1,3 +1,7 @@
+---
+title: "Warrants"
+---
+
 # Warrants
 
 As the Twelve Tables of Iridinian law make clear, those who commit a crime must be punished. The Senate has defined a thorough list of recognized crimes, along with associated penalties and forfeitures.

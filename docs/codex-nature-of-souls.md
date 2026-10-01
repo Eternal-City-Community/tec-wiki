@@ -1,3 +1,7 @@
+---
+title: "Codex Nature Of Souls"
+---
+
 # Codex Nature Of Souls
 
 The Nature of Souls is a codex that shares the beliefs of the [Kelestian](/kelestia/) people. Sevius has been handing this codex to anyone wishing to learn more about the Kelestian religion.

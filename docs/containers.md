@@ -1,3 +1,7 @@
+---
+title: "Containers"
+---
+
 # Containers
 
 Containers - including the legendary "large sack" - hold items. Each container has a unique capacity and sometimes other mechanical features. Worn containers are worn on specific body parts and layer with other clothing or armor.

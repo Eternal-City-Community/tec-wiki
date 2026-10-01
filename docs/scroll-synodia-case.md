@@ -1,3 +1,7 @@
+---
+title: "Scroll Synodia Case"
+---
+
 # Scroll Synodia Case
 
 Why is Synodia a heretic?

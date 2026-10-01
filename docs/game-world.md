@@ -1,3 +1,7 @@
+---
+title: "Game World"
+---
+
 # Game World
 
 ## Welcome to Midlight

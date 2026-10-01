@@ -1,3 +1,7 @@
+---
+title: "Newbie Money Guide"
+---
+
 # Newbie Money Guide
 
 ## Money

@@ -1,3 +1,7 @@
+---
+title: "Combat Guide"
+---
+
 # Combat Guide
 
 ### work in progress 

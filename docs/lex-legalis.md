@@ -1,3 +1,7 @@
+---
+title: "Lex Legalis"
+---
+
 # Lex Legalis
 
 ## Lex Legalis

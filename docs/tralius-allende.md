@@ -1,3 +1,7 @@
+---
+title: "Tralius Allende"
+---
+
 # Tralius Allende
 
 **Tralius Allende**

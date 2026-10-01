@@ -1,3 +1,7 @@
+---
+title: "Grey Sands"
+---
+
 # Grey Sands
 
 [![](/assets/wikidot/files/GraySands.gif)](/assets/wikidot/files/GraySands.gif)

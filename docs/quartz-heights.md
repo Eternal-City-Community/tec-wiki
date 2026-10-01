@@ -1,3 +1,7 @@
+---
+title: "Quartz Heights"
+---
+
 # Quartz Heights
 
 [![](/assets/wikidot/files/iridine-quartzheights-02-29-2024.png)](/assets/wikidot/files/iridine-quartzheights-02-29-2024.png)

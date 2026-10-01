@@ -1,3 +1,7 @@
+---
+title: "Bio Denny"
+---
+
 # Bio Denny
 
 >

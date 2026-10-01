@@ -1,3 +1,7 @@
+---
+title: "Missions"
+---
+
 # Missions
 
 ### Active Mission System

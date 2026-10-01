@@ -1,3 +1,7 @@
+---
+title: "Rank Bonus Calculator Classic"
+---
+
 # Rank Bonus Calculator Classic
 
 <style>

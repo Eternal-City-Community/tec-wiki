@@ -1,3 +1,7 @@
+---
+title: "Monlon Vigiles"
+---
+
 # Monlon Vigiles
 
 Law keepers and protectors of the Holy City, the Monlon Vigiles are generally taller and more stalwart than the average citizen. They are simply clad in tunics and boots, and wield quarterstaves to keep the peace. They are also tattooed with small, geometric marking around the eyes and cheekbones. Many citizens like to joke about the Holy City and it's laws of "decency" revolving around kissing in public. One such saying goes, "It is safer to murder a man in Monlon than it is to kiss your wife in public."

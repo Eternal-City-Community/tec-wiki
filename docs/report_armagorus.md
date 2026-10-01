@@ -1,3 +1,7 @@
+---
+title: "Report Armagorus"
+---
+
 # Report Armagorus
 
 ## The Armagorus Cycle

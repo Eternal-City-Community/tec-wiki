@@ -1,3 +1,7 @@
+---
+title: "Tecelite"
+---
+
 # Tecelite
 
 **TECElite** is an unofficial client that that was created by a dedicated community member named **KimJongUgh** that makes use of AdiIRC which is a free to use program very similar in nature to mIRC. This client offers far more customization than the official Orchil client. As of now, the only way to download a copy of this client is by to the **[#unofficial-clients](https://discord.com/channels/443988880396386314/609794004850180140) channel of the community Discord**. The most recent copy of **the client can be found in the stickied topics**. Members can also help solve and issues you have using the client.

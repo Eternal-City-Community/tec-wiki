@@ -1,3 +1,7 @@
+---
+title: "Traits"
+---
+
 # Traits
 
 For the old, archived traits page, go here: [Old_Archived_Traits2020](/archived_traits-2020/)

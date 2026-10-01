@@ -1,3 +1,7 @@
+---
+title: "Newbie Combat Guide"
+---
+
 # Newbie Combat Guide
 
 Combat in the Eternal City is fast paced, in-depth, and unique. An advanced combat system of limb targeting, damage, armor absorption, and blocking contributes to your success or failure on the battlefield.

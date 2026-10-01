@@ -1,3 +1,7 @@
+---
+title: "Sinistrals"
+---
+
 # Sinistrals
 
 ## Sinistrals

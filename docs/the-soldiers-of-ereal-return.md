@@ -1,3 +1,7 @@
+---
+title: "The Soldiers Of Ereal Return"
+---
+
 # The Soldiers Of Ereal Return
 
 THE SOLDIERS OF EREAL RETURN:

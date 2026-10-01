@@ -1,3 +1,7 @@
+---
+title: "Outdoor Survival Guide"
+---
+
 # Outdoor Survival Guide
 
 ## Outdoor Survival Guide *(in progress)*

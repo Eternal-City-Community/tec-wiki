@@ -1,3 +1,7 @@
+---
+title: "Brigand Treehouse"
+---
+
 # Brigand Treehouse
 
 ![](/assets/wikidot/brigand-treehouse/EastoftheSalinaeRiver-brigandtreehouse.gif)

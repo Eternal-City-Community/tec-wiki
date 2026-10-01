@@ -1,3 +1,7 @@
+---
+title: "Skills"
+---
+
 # Skills
 
 The world of Midlight offers an abundance of opportunities for all types of characters. Whether you fancy yourself a soldier, tailor, mercenary, pickpocket or constable, there is a skill set that will suit your needs. Skills in The Eternal City are divided into specialized groups of knowledge called Skill Sets. These range from One-Handed Swords and Pickpocketing to Healing actions such as Basic Stitching or Clean Wound. Every Skill Set consists of a series of discrete Actions that characters learn and master to become proficient in a specific field. The Skill Set chosen during character creation is called the Primary Skill and is the set in which the character will advance most quickly. Progress in a skill or action is measured in ranks, with each rank contributing to the overall chance of success when attempting an action.

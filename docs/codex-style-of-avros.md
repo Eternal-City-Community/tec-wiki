@@ -1,3 +1,7 @@
+---
+title: "Codex Style Of Avros"
+---
+
 # Codex Style Of Avros
 
 I give my thanks to an old man who gave inspiration to a stranger

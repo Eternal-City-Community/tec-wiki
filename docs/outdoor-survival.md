@@ -1,3 +1,7 @@
+---
+title: "Outdoor Survival"
+---
+
 # Outdoor Survival
 
 ### Skill Overview

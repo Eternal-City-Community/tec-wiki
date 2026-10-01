@@ -1,3 +1,7 @@
+---
+title: "Old Cult Of Ereal"
+---
+
 # Old Cult Of Ereal
 
 ## **This page is an archive of old Cult of Ereal information.**

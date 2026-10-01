@@ -1,3 +1,7 @@
+---
+title: "Scroll Soldiers Of Ereal Return"
+---
+
 # Scroll Soldiers Of Ereal Return
 
 The Soldiers Of Ereal Return

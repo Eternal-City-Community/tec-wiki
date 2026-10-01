@@ -1,3 +1,7 @@
+---
+title: "Hg Fist Fort"
+---
+
 # Hg Fist Fort
 
 *main page: [Fist Fort](/fist-fort/)*

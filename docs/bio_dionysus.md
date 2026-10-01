@@ -1,3 +1,7 @@
+---
+title: "Bio Dionysus"
+---
+
 # Bio Dionysus
 
 >

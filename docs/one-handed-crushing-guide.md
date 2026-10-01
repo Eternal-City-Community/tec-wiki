@@ -1,3 +1,7 @@
+---
+title: "One Handed Crushing Guide"
+---
+
 # One Handed Crushing Guide
 
 ### One-Handed Crushing Guide

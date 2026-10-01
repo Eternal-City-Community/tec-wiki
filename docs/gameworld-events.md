@@ -1,3 +1,7 @@
+---
+title: "Gameworld Events"
+---
+
 # Gameworld Events
 
 #### Archived Events:

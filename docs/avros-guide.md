@@ -1,3 +1,7 @@
+---
+title: "Avros Guide"
+---
+
 # Avros Guide
 
 ## Avros Gladius Combat Guide

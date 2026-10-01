@@ -1,3 +1,7 @@
+---
+title: "Political Factions"
+---
+
 # Political Factions
 
 ## Iridinian Political Factions

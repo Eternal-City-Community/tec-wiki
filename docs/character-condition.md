@@ -1,3 +1,7 @@
+---
+title: "Character Condition"
+---
+
 # Character Condition
 
 ![](/assets/wikidot/files/Condition%20Graphic.png)

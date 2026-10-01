@@ -1,3 +1,7 @@
+---
+title: "Bio Aragoth"
+---
+
 # Bio Aragoth
 
 >

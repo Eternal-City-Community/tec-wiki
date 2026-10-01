@@ -1,3 +1,7 @@
+---
+title: "General Rules"
+---
+
 # General Rules
 
 ## The Eternal City Rules and Policies

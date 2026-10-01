@@ -1,3 +1,7 @@
+---
+title: "Maps"
+---
+
 # Maps
 
 #### World Map <a id="WorldMap"></a>

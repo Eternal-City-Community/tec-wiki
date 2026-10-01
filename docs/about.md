@@ -1,3 +1,7 @@
+---
+title: "About the TEC Wiki"
+---
+
 # About the TEC Wiki
 
 This is an independent, community-maintained reference for **The Eternal City MUD**.

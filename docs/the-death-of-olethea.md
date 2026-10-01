@@ -1,3 +1,7 @@
+---
+title: "The Death Of Olethea"
+---
+
 # The Death Of Olethea
 
 **THE DEATH OF OLETHEA:**

@@ -1,3 +1,7 @@
+---
+title: "Kelestian Outpost"
+---
+
 # Kelestian Outpost
 
 ## The Kelestian Outpost

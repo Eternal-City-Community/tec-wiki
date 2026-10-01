@@ -1,3 +1,7 @@
+---
+title: "Codex Tailor Guide To Fashion"
+---
+
 # Codex Tailor Guide To Fashion
 
 A Tailor's Guide

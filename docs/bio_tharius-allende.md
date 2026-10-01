@@ -1,3 +1,7 @@
+---
+title: "Bio Tharius Allende"
+---
+
 # Bio Tharius Allende
 
 >

@@ -1,3 +1,7 @@
+---
+title: "Weapons Overview"
+---
+
 # Weapons Overview
 
 ### Weapon Skillsets Overview

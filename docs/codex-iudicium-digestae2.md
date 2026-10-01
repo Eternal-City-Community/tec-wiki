@@ -1,3 +1,7 @@
+---
+title: "Codex Iudicium Digestae2"
+---
+
 # Codex Iudicium Digestae2
 
 Iudicium Digestae, Codex II

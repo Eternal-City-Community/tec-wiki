@@ -1,3 +1,7 @@
+---
+title: "Rank Bonus Calculator"
+---
+
 # Rank Bonus Calculator
 
 <head>

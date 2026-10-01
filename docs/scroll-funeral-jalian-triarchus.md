@@ -1,3 +1,7 @@
+---
+title: "Scroll Funeral Jalian Triarchus"
+---
+
 # Scroll Funeral Jalian Triarchus
 
 The Funeral Of Jalian Triarchus

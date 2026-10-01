@@ -1,3 +1,7 @@
+---
+title: "Codex Peitho Song Vol3"
+---
+
 # Codex Peitho Song Vol3
 
 What follows are the memories and recollections of Peitho the Iridinian.

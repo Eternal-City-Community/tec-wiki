@@ -1,3 +1,7 @@
+---
+title: "Hg Franlius"
+---
+
 # Hg Franlius
 
 ## Franlius Battlegrounds

@@ -1,3 +1,7 @@
+---
+title: "Cult Of Ereal"
+---
+
 # Cult Of Ereal
 
 ### Overview

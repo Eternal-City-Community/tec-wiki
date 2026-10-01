@@ -1,3 +1,7 @@
+---
+title: "Customization Guide"
+---
+
 # Customization Guide
 
 ## Guide to Custom Requests

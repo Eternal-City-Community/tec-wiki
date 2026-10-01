@@ -1,3 +1,7 @@
+---
+title: "Codex Founding Of The League"
+---
+
 # Codex Founding Of The League
 
 The Founding of the League

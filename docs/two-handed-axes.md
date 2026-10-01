@@ -1,3 +1,7 @@
+---
+title: "Two Handed Axes"
+---
+
 # Two Handed Axes
 
 ### Skill Overview

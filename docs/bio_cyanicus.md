@@ -1,3 +1,7 @@
+---
+title: "Bio Cyanicus"
+---
+
 # Bio Cyanicus
 
 >

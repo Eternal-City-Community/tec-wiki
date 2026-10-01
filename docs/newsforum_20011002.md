@@ -1,3 +1,7 @@
+---
+title: "Newsforum 20011002"
+---
+
 # Newsforum 20011002
 
 Message 53 on *news:

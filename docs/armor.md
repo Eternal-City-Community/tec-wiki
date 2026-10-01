@@ -1,3 +1,7 @@
+---
+title: "Armor"
+---
+
 # Armor
 
 Armor is what protects the people who protect the republic. Whether it be a scrap of leather across your chest or the best squamata out there, there is a good chance you'll need it at some point. 

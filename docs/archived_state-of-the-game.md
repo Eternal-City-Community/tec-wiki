@@ -1,3 +1,7 @@
+---
+title: "Archived State Of The Game"
+---
+
 # Archived State Of The Game
 
 What is The Eternal-City?

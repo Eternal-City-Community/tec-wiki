@@ -1,3 +1,7 @@
+---
+title: "Vestis Formatae"
+---
+
 # Vestis Formatae
 
 ## Charter of the Vestis Formatae

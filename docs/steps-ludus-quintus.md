@@ -1,3 +1,7 @@
+---
+title: "Steps Ludus Quintus"
+---
+
 # Steps Ludus Quintus
 
 ![](/assets/wikidot/steps-ludus-quintus/Steps-LudusQuintus.gif)

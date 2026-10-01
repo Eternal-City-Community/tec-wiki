@@ -1,3 +1,7 @@
+---
+title: "Newbie Mission Guide"
+---
+
 # Newbie Mission Guide
 
 ## Mission Guides *size 85%(UNDER CONSTRUCTION)*

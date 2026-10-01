@@ -1,3 +1,7 @@
+---
+title: "Specialty Items"
+---
+
 # Specialty Items
 
 <a id="Reforge"></a>

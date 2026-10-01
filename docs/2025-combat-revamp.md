@@ -1,3 +1,7 @@
+---
+title: "2025 Combat Revamp"
+---
+
 # 2025 Combat Revamp
 
 ## General

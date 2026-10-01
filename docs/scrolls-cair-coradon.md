@@ -1,3 +1,7 @@
+---
+title: "Scrolls Cair Coradon"
+---
+
 # Scrolls Cair Coradon
 
 **COPIED FROM THE GREAT LIBRARY OF CAIR CORADON BY RIPIROS NOONCAS SBIELIO, AUTHOR UNKNOWN.  SCROLL NUMBER ONE, OF SIX.**

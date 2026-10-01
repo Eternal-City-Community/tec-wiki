@@ -1,3 +1,7 @@
+---
+title: "Codex Medicinal Plants"
+---
+
 # Codex Medicinal Plants
 
 Plants with Medicinal Purposes

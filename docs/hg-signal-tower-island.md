@@ -1,3 +1,7 @@
+---
+title: "Hg Signal Tower Island"
+---
+
 # Hg Signal Tower Island
 
 <meta http-equiv="refresh" content="0; url=/signal-tower-island/">

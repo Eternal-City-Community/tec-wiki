@@ -1,3 +1,7 @@
+---
+title: "Magic"
+---
+
 # Magic
 
 ## Bright Hope Magic - "The Way"

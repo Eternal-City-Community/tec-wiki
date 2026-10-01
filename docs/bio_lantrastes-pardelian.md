@@ -1,3 +1,7 @@
+---
+title: "Bio Lantrastes Pardelian"
+---
+
 # Bio Lantrastes Pardelian
 
 >

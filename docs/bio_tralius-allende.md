@@ -1,3 +1,7 @@
+---
+title: "Bio Tralius Allende"
+---
+
 # Bio Tralius Allende
 
 >

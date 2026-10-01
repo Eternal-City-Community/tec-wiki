@@ -1,3 +1,7 @@
+---
+title: "Legio Misc"
+---
+
 # Legio Misc
 
 ### Commands

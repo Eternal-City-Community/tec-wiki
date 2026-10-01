@@ -1,3 +1,7 @@
+---
+title: "Bio Pandarus"
+---
+
 # Bio Pandarus
 
 ## Commander of the Phoenix Guard

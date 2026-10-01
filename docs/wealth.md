@@ -1,3 +1,7 @@
+---
+title: "Wealth"
+---
+
 # Wealth
 
 ## Wealth

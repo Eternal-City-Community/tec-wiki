@@ -1,3 +1,7 @@
+---
+title: "Text Blackvine Bank Robbery"
+---
+
 # Text Blackvine Bank Robbery
 
 House Seneda recently opened a new bank in the village of Blackvine. This would have been a very auspicious occasion; however, when we arrived in the company of Jolise Seneda, we learned that the bank had just been robbed of 300 talents by the hired guard and a dozen of his roguish friends. Mordheim of the Blackvine Militia and [bio:Kered](/bio_kered/) of the Traevant Militia, and others, offered to assist Jolise Seneda in the recovery of this money.

@@ -1,3 +1,7 @@
+---
+title: "Scroll Death Of Olethea"
+---
+
 # Scroll Death Of Olethea
 
 The Death of Olethea

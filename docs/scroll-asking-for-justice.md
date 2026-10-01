@@ -1,3 +1,7 @@
+---
+title: "Scroll Asking For Justice"
+---
+
 # Scroll Asking For Justice
 
 We've been assaulted with ignorance, our own.

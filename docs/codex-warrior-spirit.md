@@ -1,3 +1,7 @@
+---
+title: "Codex Warrior Spirit"
+---
+
 # Codex Warrior Spirit
 
 Realizing Death

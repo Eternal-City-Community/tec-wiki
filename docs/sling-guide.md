@@ -1,3 +1,7 @@
+---
+title: "Sling Guide"
+---
+
 # Sling Guide
 
 ## Sling Guide

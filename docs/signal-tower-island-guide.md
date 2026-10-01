@@ -1,3 +1,7 @@
+---
+title: "Signal Tower Island Guide"
+---
+
 # Signal Tower Island Guide
 
 ### Guide to Signal Tower Island

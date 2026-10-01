@@ -1,3 +1,7 @@
+---
+title: "The West Grasslands"
+---
+
 # The West Grasslands
 
 [![](/assets/wikidot/the-west-grasslands/invexriverdelta-westgrasslands2.gif)](/assets/wikidot/the-west-grasslands/invexriverdelta-westgrasslands2.gif)

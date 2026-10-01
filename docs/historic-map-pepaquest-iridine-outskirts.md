@@ -1,3 +1,7 @@
+---
+title: "Historic Map Pepaquest Iridine Outskirts"
+---
+
 # Historic Map Pepaquest Iridine Outskirts
 
 ### Campus Martius

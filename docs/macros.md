@@ -1,3 +1,7 @@
+---
+title: "Macros"
+---
+
 # Macros
 
 The [help file](https://tec.skotos.net:1180/bin/help?$help_commands_macros) states:

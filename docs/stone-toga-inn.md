@@ -1,3 +1,7 @@
+---
+title: "Stone Toga Inn"
+---
+
 # Stone Toga Inn
 
 Stone Toga Inn

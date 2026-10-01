@@ -1,3 +1,7 @@
+---
+title: "Metals"
+---
+
 # Metals
 
 Metals can be used in weapons, armor, jewelry or everyday common items. Some shopkeepers buy metal. Common metals are easier to have repaired than rare metals.

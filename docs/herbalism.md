@@ -1,3 +1,7 @@
+---
+title: "Herbalism"
+---
+
 # Herbalism
 
 ### Skill Overview

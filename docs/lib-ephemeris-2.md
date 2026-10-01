@@ -1,3 +1,7 @@
+---
+title: "Lib Ephemeris 2"
+---
+
 # Lib Ephemeris 2
 
 [Library Archive](/library-archive/)

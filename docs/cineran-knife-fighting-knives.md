@@ -1,3 +1,7 @@
+---
+title: "Cineran Knife Fighting Knives"
+---
+
 # Cineran Knife Fighting Knives
 
 ### Skill Overview

@@ -1,3 +1,7 @@
+---
+title: "Latest Updates"
+---
+
 # Latest Updates
 
 ### Latest Major Updates To The Game *size 85%(sorted chronologically↑)*

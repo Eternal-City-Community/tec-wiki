@@ -1,3 +1,7 @@
+---
+title: "Outdoor Survival Test"
+---
+
 # Outdoor Survival Test
 
 ## Test

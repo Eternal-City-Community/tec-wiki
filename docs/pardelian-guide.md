@@ -1,3 +1,7 @@
+---
+title: "Pardelian Guide"
+---
+
 # Pardelian Guide
 
 ## Pardelian Gladius Combat Guide

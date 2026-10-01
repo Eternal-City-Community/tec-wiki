@@ -1,3 +1,7 @@
+---
+title: "One Handed Swords Guide"
+---
+
 # One Handed Swords Guide
 
 ### One-Handed Swords Guide

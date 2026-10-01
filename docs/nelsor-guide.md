@@ -1,3 +1,7 @@
+---
+title: "Nelsor Guide"
+---
+
 # Nelsor Guide
 
 ## Nelsor Gladius Combat Guide

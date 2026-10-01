@@ -1,3 +1,7 @@
+---
+title: "The Senate Examines A Barbarian"
+---
+
 # The Senate Examines A Barbarian
 
 THE SENATE EXAMINES A BARBARIAN:

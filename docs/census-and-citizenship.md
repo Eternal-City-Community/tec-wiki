@@ -1,3 +1,7 @@
+---
+title: "Census And Citizenship"
+---
+
 # Census And Citizenship
 
 **I. Census and Citizenship** 

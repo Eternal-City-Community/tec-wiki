@@ -1,3 +1,7 @@
+---
+title: "Announcements"
+---
+
 # Announcements
 
 ## Staff Announcements & Information

@@ -1,3 +1,7 @@
+---
+title: "Tanning"
+---
+
 # Tanning
 
 ### Skill Overview

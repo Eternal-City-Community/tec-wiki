@@ -1,3 +1,7 @@
+---
+title: "Scroll Former Acolyte Notes"
+---
+
 # Scroll Former Acolyte Notes
 
 Sect of Revealing Light

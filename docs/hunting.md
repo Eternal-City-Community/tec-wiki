@@ -1,3 +1,7 @@
+---
+title: "Hunting"
+---
+
 # Hunting
 
 ### Skill Overview

@@ -1,3 +1,7 @@
+---
+title: "Leather Working"
+---
+
 # Leather Working
 
 ### Skill Overview

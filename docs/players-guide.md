@@ -1,3 +1,7 @@
+---
+title: "Players Guide"
+---
+
 # Players Guide
 
 ## Player's Guide

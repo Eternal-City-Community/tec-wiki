@@ -1,3 +1,7 @@
+---
+title: "Healing"
+---
+
 # Healing
 
 ### Skill Overview

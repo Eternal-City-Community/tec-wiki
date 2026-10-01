@@ -1,3 +1,7 @@
+---
+title: "RP Expenditure"
+---
+
 # RP Expenditure
 
 ## Spending Role Points

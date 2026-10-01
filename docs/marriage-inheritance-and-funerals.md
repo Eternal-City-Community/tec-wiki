@@ -1,3 +1,7 @@
+---
+title: "Marriage Inheritance And Funerals"
+---
+
 # Marriage Inheritance And Funerals
 
 **VIII. Marriage, Inheritance and Funerals**

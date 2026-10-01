@@ -1,3 +1,7 @@
+---
+title: "The Funeral Of Jalian Triarchus"
+---
+
 # The Funeral Of Jalian Triarchus
 
 **THE FUNERAL OF JALIAN TRIARCHUS:**

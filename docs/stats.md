@@ -1,3 +1,7 @@
+---
+title: "Stats"
+---
+
 # Stats
 
 <a id="Top"></a>
