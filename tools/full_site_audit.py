@@ -82,35 +82,55 @@ for path in sorted(DOCS.rglob("*.md")):
     c = text
     issues = []
 
-    if re.search(r"\\\|\\\||(?<!\|)\|\|(?!=)", c):
-        issues.append("possible leftover Wikidot || table markup")
-    if re.search(r"@<[^>]*>@", c):
-        issues.append("leftover Wikidot escape markup")
-    if re.search(r"##[A-Za-z]+\\?\|", c):
-        issues.append("leftover Wikidot color markup")
-    if re.search(r"^~~~\s*$", c, flags=re.M):
-        issues.append("fenced block present; verify not a table trapped as code")
+    # Strip fenced/code/script regions before looking for migration syntax.
+    scrub = re.sub(r"(?ms)^~~~.*?^~~~\\s*$", "", c)
+    scrub = re.sub(r"(?ms)^\`\`\`.*?^\`\`\`\\s*$", "", scrub)
+    scrub = re.sub(r"(?is)<script\\b.*?</script>", "", scrub)
 
-    # Multiple accidental H1s after the real page title are highly suspicious.
-    body_h1 = [i+1 for i,l in enumerate(c.splitlines()) if i != h1i and l.startswith("# ")]
+    if re.search(r"\\\\\\|\\\\\\||(?<!\\|)\\|\\|(?!=)", scrub):
+        issues.append("possible leftover Wikidot || table markup")
+    if re.search(r"@<[^>]*>@", scrub):
+        issues.append("leftover Wikidot escape markup")
+    if re.search(r"##[A-Za-z]+\\\\?\\|", scrub):
+        issues.append("leftover Wikidot color markup")
+
+    # Only flag fenced blocks when they look like a table accidentally trapped as code.
+    for fm in re.finditer(r"(?ms)^~~~\\s*\\n(.*?)\\n~~~\\s*$", c):
+        body = fm.group(1)
+        if re.search(r"(?m)^\\s*[^\\n]+\\|[^\\n]+$", body) and re.search(r"(?m)^\\s*-{3,}\\s*\\|", body):
+            issues.append("possible table trapped in fenced code")
+            break
+
+    # Additional H1s outside fenced blocks are suspicious.
+    body_h1 = []
+    fenced = False
+    for li, line in enumerate(c.splitlines(), 1):
+        stripped = line.strip()
+        if stripped.startswith("~~~") or stripped.startswith("\`\`\`"):
+            fenced = not fenced
+            continue
+        if not fenced and li - 1 != h1i and line.startswith("# "):
+            body_h1.append(li)
     if body_h1:
         issues.append("additional H1 headings at lines " + ",".join(map(str, body_h1[:12])))
 
     # Tables with inconsistent column counts inside one contiguous block.
+    # Ignore escaped pipes inside cell text.
     ls = c.splitlines()
     i = 0
     bad_tables = []
     while i < len(ls):
         if not ls[i].lstrip().startswith("|"):
-            i += 1; continue
-        start = i+1
+            i += 1
+            continue
+        start_line = i + 1
         counts = []
         while i < len(ls) and ls[i].lstrip().startswith("|"):
             safe = re.sub(r"\\\\\\|", "", ls[i])
             counts.append(table_cols(safe))
             i += 1
         if len(counts) >= 2 and len(set(counts)) > 1:
-            bad_tables.append((start, min(counts), max(counts)))
+            bad_tables.append((start_line, min(counts), max(counts)))
     if bad_tables:
         issues.append("inconsistent table columns: " + "; ".join(f"line {s} ({a}-{b})" for s,a,b in bad_tables[:8]))
 
