@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function () {
       link("Staves", page("staves"), "tec-side__sub"),
       link("Tridents", page("tridents"), "tec-side__sub"),
       link("Whips", page("whips"), "tec-side__sub")
-    ], true),
+    ], false),
     group("Defensive", [
       link("Combat Maneuvers", page("combat-maneuvers"), "tec-side__sub"),
       link("Shields", page("shields"), "tec-side__sub")
@@ -239,6 +239,43 @@ document.addEventListener("DOMContentLoaded", function () {
 
   html += "</div>";
   host.innerHTML = html;
+
+  function normalizePath(value) {
+    try {
+      var url = new URL(value, window.location.origin);
+      var path = url.pathname.replace(/\/+/g, "/").replace(/\/$/, "");
+      return path || "/";
+    } catch (e) {
+      return "";
+    }
+  }
+
+  var currentPath = normalizePath(window.location.href);
+  var activeLink = null;
+
+  host.querySelectorAll(".tec-side__link[href]").forEach(function (a) {
+    var href = a.getAttribute("href");
+    if (!href || href === "#" || /^https?:\/\//i.test(href)) return;
+
+    var linkPath = normalizePath(href);
+    if (linkPath && linkPath === currentPath) {
+      a.setAttribute("aria-current", "page");
+      activeLink = a;
+    }
+  });
+
+  if (activeLink) {
+    var parentGroup = activeLink.closest(".tec-side__group");
+    if (parentGroup) {
+      parentGroup.classList.add("is-open");
+      var parentToggle = parentGroup.querySelector(":scope > .tec-side__toggle");
+      if (parentToggle) {
+        parentToggle.setAttribute("aria-expanded", "true");
+        var sign = parentToggle.querySelector(".tec-side__sign");
+        if (sign) sign.textContent = "−";
+      }
+    }
+  }
 
   host.querySelectorAll(".tec-side__toggle").forEach(function (button) {
     button.addEventListener("click", function () {
