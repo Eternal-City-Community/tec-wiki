@@ -373,16 +373,16 @@ body::before {
 
   .md-sidebar--primary {
     position: sticky;
-    top: 6.9rem;
+    top: calc(var(--tec-header-stack-height, 103px) + .35rem);
     align-self: start;
-    max-height: calc(100vh - 7.4rem);
+    max-height: calc(100vh - var(--tec-header-stack-height, 103px) - .8rem);
     overflow: hidden;
   }
 
   .md-sidebar--primary .md-sidebar__scrollwrap {
     overflow-y: auto !important;
     overflow-x: hidden !important;
-    max-height: calc(100vh - 8.3rem) !important;
+    max-height: calc(100vh - var(--tec-header-stack-height, 103px) - 1.4rem) !important;
     height: auto !important;
     scrollbar-width: thin;
   }
@@ -403,13 +403,13 @@ body::before {
 
   .md-sidebar--primary {
     position: fixed !important;
-    top: 68px !important;
+    top: var(--tec-header-stack-height, 93px) !important;
     bottom: 0 !important;
     left: 0 !important;
     z-index: 20 !important;
     width: min(17rem, 86vw) !important;
     min-width: 0 !important;
-    height: calc(100dvh - 68px) !important;
+    height: calc(100dvh - var(--tec-header-stack-height, 93px)) !important;
     max-height: none !important;
     padding: .5rem .45rem .8rem !important;
     overflow: hidden !important;
@@ -504,6 +504,8 @@ body::before {
   position: relative;
   top: auto;
   z-index: 9;
+  width: 100%;
+  flex: 0 0 23px;
   height: 23px;
   background: #183500;
   border-top: 1px solid #0d2000;
@@ -2422,4 +2424,14 @@ html, body {
     max-width: 100%;
     max-height: none;
   }
+}
+
+
+/* TEC shortcut bar is part of the sticky Material header stack. */
+.md-header > .tec-topnav {
+  width: 100%;
+}
+
+.md-header {
+  height: auto;
 }
