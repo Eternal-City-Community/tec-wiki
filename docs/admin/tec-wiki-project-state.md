@@ -421,6 +421,23 @@ User-reported issues and fixes on 2026-10-01:
 - Page commit: `5032cbd6a726a151621c21df92c8fc2fe21d3b39`
 - CSS commit: `6e051ebc362d12f21c2d7e1d3baa83fce6b969e4`
 
+
+
+### Wikidot ListPages replacement
+
+- Recreated the old Wikidot dynamic child-page listing behavior in MkDocs using a build hook.
+- Added `hooks/listpages.py` and enabled it from `mkdocs.yml`.
+- Pages can declare a Wikidot-like parent relationship in front matter, e.g. `parent: announcements`.
+- A marker such as `<!-- TEC_LISTPAGES parent=announcements -->` is replaced at build time with linked child-page titles.
+- Child pages are sorted by slug/page name ascending to reproduce `order="name asc"`, while the visible link text uses each page's title to reproduce `%%title_linked%%`.
+- Generated links use 1.2em text, matching the old `[[size 120%]]` intent.
+- `docs/announcements.md` now uses the generated-list marker instead of the migration restoration warning.
+- Hook commit: `3168bca5fd0eb05f7416d3ad6117984223e643d1`
+- MkDocs config commit: `59267ee1bd2c7b31abc37f4837a7486800312b00`
+- Announcements marker commit: `fd0d8f37dce388d5cf5be0428267fec4c37ca414`
+- Styling commit: `4be999d174b779f65627b45395bd61b1bef81f92`
+- Remaining restoration work: identify which migrated pages were actual children of the old Wikidot `announcements` page and add `parent: announcements` to those files. Do not guess this relationship.
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
