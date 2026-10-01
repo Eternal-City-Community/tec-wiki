@@ -78,9 +78,8 @@ function initTecTool() {
       '</div>' +
       '<div class="tec-rb-body">' +
         '<div class="tec-rb-inputs">' +
-          '<input class="tec-rb-basics" type="number" min="0" inputmode="numeric" value="' + (state.basics == null ? "10" : state.basics) + '" placeholder="Basics rank..." aria-label="Basics rank">' +
-          '<input class="tec-rb-sub" type="number" min="0" inputmode="numeric" value="' + (state.sub == null ? "1" : state.sub) + '" placeholder="Subskill rank..." aria-label="Subskill rank">' +
-          '<input class="tec-rb-shift" type="number" inputmode="decimal" step="any" value="' + (state.shift == null ? "0" : state.shift) + '" placeholder="RB +/- Mod..." aria-label="Rank bonus modifier">' +
+          '<input class="tec-rb-basics" type="number" min="0" inputmode="numeric" value="' + (state.basics == null ? "" : state.basics) + '" placeholder="Basics rank..." aria-label="Basics rank">' +
+          '<input class="tec-rb-sub" type="number" min="0" inputmode="numeric" value="' + (state.sub == null ? "" : state.sub) + '" placeholder="Subskill rank..." aria-label="Subskill rank">' +
         '</div>' +
         '<div class="tec-rb-results-wrap">' +
           '<table class="tec-rb-results"><thead></thead><tbody></tbody></table>' +
@@ -104,7 +103,7 @@ function initTecTool() {
       return isNaN(n) ? 8 : n;
     }
 
-    function calculate(basicsRank, subRank, difficultyModifier, stanceModifier, basicOnly, shift) {
+    function calculate(basicsRank, subRank, difficultyModifier, stanceModifier, basicOnly) {
       if (basicOnly) {
         // Matches the old Wikidot Basic column: the entered Basics rank is
         // treated as the rank whose raw RB is being displayed.
@@ -117,7 +116,7 @@ function initTecTool() {
       return (
         (Math.floor(tierBonus(basicsRank)) * difficultyModifier + tierBonus(subRank)) *
         stanceModifier
-      ) + shift;
+      );
     }
 
     function render() {
@@ -128,10 +127,8 @@ function initTecTool() {
 
       var basicsInput = card.querySelector(".tec-rb-basics");
       var subInput = card.querySelector(".tec-rb-sub");
-      var shiftInput = card.querySelector(".tec-rb-shift");
       var basics = Number(basicsInput.value) || 0;
       var sub = Number(subInput.value) || 0;
-      var shift = Number(shiftInput.value) || 0;
 
       var title = mode === "offense"
         ? "Offensive Rank Bonus"
@@ -186,8 +183,7 @@ function initTecTool() {
               sub,
               def.modifier,
               row.mod,
-              def.basicOnly,
-              shift
+              def.basicOnly
             );
 
             return '<td><input readonly tabindex="-1" value="' +
@@ -242,8 +238,7 @@ function initTecTool() {
         cols: getCols(),
         decimals: getDecimals(),
         basics: card.querySelector(".tec-rb-basics").value,
-        sub: card.querySelector(".tec-rb-sub").value,
-        shift: card.querySelector(".tec-rb-shift").value
+        sub: card.querySelector(".tec-rb-sub").value
       };
     };
 
@@ -261,9 +256,8 @@ function initTecTool() {
     rows: 5,
     cols: 5,
     decimals: 8,
-    basics: 10,
-    sub: 1,
-    shift: 0
+    basics: "",
+    sub: ""
   }));
 
   root.querySelector(".tec-rb-add").addEventListener("click", function () {
