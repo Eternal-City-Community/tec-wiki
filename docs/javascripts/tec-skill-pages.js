@@ -4,6 +4,41 @@ document.addEventListener("DOMContentLoaded", function () {
 
   document.body.classList.add("tec-skill-page");
 
+
+  // Restore the grouped header row used by legacy skill tables.
+  // Migrated Markdown cannot express colspan, so the first row arrives as
+  // eight separate cells with labels only in columns 6 and 8.
+  Array.from(root.querySelectorAll("table")).forEach(function (table) {
+    var firstRow = table.querySelector("thead tr, tr");
+    if (!firstRow) return;
+
+    var cells = Array.from(firstRow.children);
+    if (cells.length !== 8) return;
+
+    var labels = cells.map(function (cell) {
+      return cell.textContent.trim();
+    });
+
+    if (labels[5] !== "Skill Info" || labels[7] !== "Ranks Taught by Trainer") return;
+
+    firstRow.innerHTML = "";
+
+    var skillInfo = document.createElement("th");
+    skillInfo.colSpan = 6;
+    skillInfo.className = "tec-skill-group-heading";
+    skillInfo.textContent = "Skill Info";
+
+    var trainers = document.createElement("th");
+    trainers.colSpan = 2;
+    trainers.className = "tec-skill-group-heading";
+    trainers.textContent = "Ranks Taught by Trainer";
+
+    firstRow.appendChild(skillInfo);
+    firstRow.appendChild(trainers);
+    table.classList.add("tec-skill-overview-table");
+  });
+
+
   var headings = Array.from(root.querySelectorAll("h3"));
   var inSkillDetails = false;
 
