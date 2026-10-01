@@ -5,7 +5,6 @@ category: "Skills & Combat"
 
 # Hunting Guide
 
-## Hunting Guide (in progress)
 
 Below you'll find everything important to know about [Hunting](/hunting/).
 
