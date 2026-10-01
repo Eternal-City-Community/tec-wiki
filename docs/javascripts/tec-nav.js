@@ -145,7 +145,7 @@ function initTecTopNav() {
   header.insertAdjacentElement("afterend", nav);
 
   function currentSourcePath() {
-    var path = window.location.pathname.replace(/^\\/+|\\/+$/g, "");
+    var path = window.location.pathname.replace(/^\/+|\/+$/g, "");
     var slug = path || "index";
     return "docs/" + slug + ".md";
   }
