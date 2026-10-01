@@ -564,3 +564,22 @@ body::before {
   font-size: .58rem;
   font-weight: 700;
 }
+
+
+/* Table link contrast: global TEC green is too dark on charcoal rows. */
+.md-typeset table:not([class]) td a {
+  color: #f0df9b;
+  font-weight: 600;
+  text-decoration-color: rgba(240,223,155,.55);
+}
+.md-typeset table:not([class]) td a:visited {
+  color: #e5d18a;
+}
+.md-typeset table:not([class]) td a:hover,
+.md-typeset table:not([class]) td a:focus {
+  color: #fff7d6;
+  text-decoration: underline;
+}
+.md-typeset table:not([class]) th a {
+  color: #234707;
+}
