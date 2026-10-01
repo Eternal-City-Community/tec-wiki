@@ -884,3 +884,142 @@ html, body {
     margin-right: .25rem;
   }
 }
+
+
+/* Legacy-density typography: smaller than the earlier accessibility pass, while retaining contrast. */
+.md-typeset {
+  font-size: .68rem;
+  line-height: 1.52;
+}
+
+.md-typeset h1 {
+  font-size: 1.08rem;
+}
+
+.md-typeset h2 {
+  font-size: .76rem;
+}
+
+.md-typeset h3 {
+  font-size: .70rem;
+}
+
+.md-typeset table:not([class]) {
+  font-size: .66rem;
+  line-height: 1.36;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: .27rem .42rem;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset {
+    font-size: .75rem;
+    line-height: 1.56;
+  }
+
+  .md-typeset table:not([class]) {
+    font-size: .69rem;
+  }
+}
+
+/* Skill pages: mirror the old Wikidot rhythm more closely. */
+.tec-skill-page .tec-skill-section-title {
+  margin: .75rem 0 .55rem !important;
+  padding: .13rem .55rem .12rem 1.4rem !important;
+  background: #315f00 !important;
+  color: #f3ebc2 !important;
+  border: 0 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: .78rem !important;
+  font-weight: 700 !important;
+  letter-spacing: .17em !important;
+  line-height: 1.25 !important;
+  text-transform: uppercase !important;
+}
+
+.tec-skill-page .tec-skill-action-title {
+  position: relative;
+  margin: 1.2rem 0 .45rem !important;
+  padding: .05rem 0 .18rem 1.8rem !important;
+  color: #2f5c0a !important;
+  background: transparent !important;
+  border-bottom: 1px solid #557a2e !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: .82rem !important;
+  font-weight: 400 !important;
+  letter-spacing: .16em !important;
+  line-height: 1.3 !important;
+  text-transform: uppercase !important;
+}
+
+.tec-skill-page .tec-skill-action-title::before {
+  content: "#";
+  position: absolute;
+  left: .55rem;
+  top: .05rem;
+  color: #315f00;
+  font-weight: 700;
+}
+
+.tec-skill-page .tec-skill-action-title em {
+  margin-left: 1rem;
+  color: #7a8061 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: .62em !important;
+  font-style: italic;
+  font-weight: 400 !important;
+  letter-spacing: .23em !important;
+  text-transform: uppercase !important;
+}
+
+.tec-skill-page .tec-skill-example-label {
+  margin: .5rem 0 .22rem .75rem !important;
+  color: #315f00 !important;
+  font-size: .62rem !important;
+  font-weight: 400 !important;
+}
+
+.tec-skill-page .skill-template {
+  margin: .18rem 9% .18rem .25rem !important;
+  padding: .55rem .65rem !important;
+  min-height: 2.4rem;
+  color: #fff !important;
+  background: rgba(58,56,48,.91) !important;
+  border: 1px dashed rgba(210,205,179,.55) !important;
+  border-radius: 6px !important;
+  box-shadow: inset 0 1px rgba(255,255,255,.05) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: .58rem !important;
+  line-height: 1.38 !important;
+  white-space: pre-line;
+}
+
+.tec-skill-page .skill-template p {
+  margin: 0 !important;
+  color: inherit !important;
+  max-width: none !important;
+}
+
+.tec-skill-page .tec-backtop {
+  display: block;
+  margin: .45rem 2rem .7rem 0;
+  text-align: right;
+  color: #47702a !important;
+  font-size: .58rem;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .tec-skill-page .tec-skill-action-title {
+    font-size: .76rem !important;
+    letter-spacing: .10em !important;
+  }
+
+  .tec-skill-page .skill-template {
+    margin-right: .25rem !important;
+    font-size: .64rem !important;
+  }
+}
