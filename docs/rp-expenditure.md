@@ -1,4 +1,4 @@
-# Rp Expenditure
+# RP Expenditure
 
 ## Spending Role Points
 
@@ -12,7 +12,7 @@ For the **more complex requests**, involving lengthy user-created descriptions, 
 
 For requests related to **purchasing or upgrading** character-owned property, **see [Property](/property/)**.
 
-#### Related Commands
+### Related Commands
 
 These are useful commands for spending Role Points.
 * PLAY (WA-only)
@@ -25,13 +25,13 @@ See the full list of [commands](/commands/).
 
 
 <a id="Creature"></a>
-### [#](#Creature)Creature Button Pushes
+### Creature Button Pushes
 Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** received as a [perk](/account/#perk). The creature button is located in **the creature controller room** (Ex1 & Nx1 from the main Welcome Room). Look for **"A big red button"** and push it.
 
 > **In-Game Prompt**
 > By pushing this button you will be given the opportunity to play an NPC that is already active in the game for a cost of 30 Role Points. The NPC will be chosen at random. Keep in mind that the creature could be in the middle of combat and about to die at any minute. The NPC could also be alone somewhere in the game world with no danger in sight. It is a gamble you take, but one that could open up many role-play opportunities for you. The list of available NPCs for you to play will NOT include any shopkeepers, law-keepers, or any other long-standing NPCs of the game. The list will be chosen from the creatures that spawn in hunting grounds or are pulled from crowds. You will lose control of the NPC once the NPC is killed, or you decide to quit (using the normal method you use to quit playing any of your characters) and return here. By pushing this button you agree that you fully understand the above and want to spend 30 role points to emulate a random NPC in the game world. Do you wish to continue? [Y/N]
 
-<u>**Notes**</u>
+**Notes**
 * Players emulating an NPC/creature are **barred from entering the Colosseum**, receiving the following message, ***"Creatures may not pass through this portal."***
 * You will be teleported into the "body" of an NPC that is **already active in the game**.
 * The NPC is be **chosen at random**. *(The creature could be in the middle of combat and about to die at any minute or be alone in the middle of nowhere.)*
@@ -42,16 +42,16 @@ Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** re
 * Player NPCs **cannot** **gain SP**.
 
 
-### @Play Menu
+## @Play Menu
 
-#### [1] General Skill Point Purchase
+### [1] General Skill Point Purchase
 Purchase 1 [General Skill Point (GSP)](/skills/#GSP) per 25 role points.
 
-#### [2] Luck Point Purchase
+### [2] Luck Point Purchase
 Purchase 1 Luck points per 100 role points.
 
 
-#### [3] Skill Slot Purchase
+### [3] Skill Slot Purchase
 This option has a variable cost, based on the number of skill slots already known by your character.
 * Purchasing a **3<sup>rd</sup>** skill slot on a character is **250** RPs.
 * Purchasing a **4<sup>th</sup>** skill slot on a character is **500** RPs.
@@ -59,20 +59,20 @@ This option has a variable cost, based on the number of skill slots already know
 * Purchasing a **6<sup>th</sup> or above** skill slot on a character is **1,250** RPs.
 
 
-#### [4] Rearrange Skill Slots
+### [4] Rearrange Skill Slots
 This role-point expenditure allows you to move any known skill up one slot on a single character. An example is if your character knows Swords, CMs & Shields (in that order) and you want to move Shields into the 2nd slot.
 * For each purchase, a single skill can be moved up 1 slot.
 
 <a id="moveCharacter"></a>
-#### [#](#moveCharacter)[5] Exchange Character Order on Playlist
+### [5] Exchange Character Order on Playlist
 Allows you to **move a character up 1 slot per purchase**. Meaning if you want to bring your character in slot 3 up to slot 1, you would need to purchase this twice.
 
 For accounts with more than one character, the @number-one command has a **one-time use** to change which character is in the 1<sup>st</sup> character slot.
 
-#### [6] Increase Markable Destinations
+### [6] Increase Markable Destinations
 Increase the capacity of your [personal markable destinations](/nav-overview/#Mark) by 1.
 
-#### [7] Automated Character Alteration
+### [7] Automated Character Alteration
 
 
 ~~~
@@ -80,7 +80,7 @@ Increase the capacity of your [personal markable destinations](/nav-overview/#Ma
 ~~~
 
 
-#### [8] Increase Attribute Potential
+### [8] Increase Attribute Potential
 This expenditure increases one of your character's [stat](/stats/) ***potential***. Your stats do not all need to remain at the same level forever. An example is if you want to raise a stat from **average** to **above average**. Adding potential will not raise the stat immediately, but will allow you to put in work which can raise a stat. 
 
 Note:Before increasing your stat potential, it is encouraged to understand how to [improve your stats](/stats/#improvingattributes).
@@ -101,7 +101,7 @@ The below stat potentials can be raised using RPs:
 * [T] Strength
 
 
-#### [9] Change Speech Pattern
+### [9] Change Speech Pattern
 Change your speech pattern within the Welcome Area.
 
 You may enter a verb or a verb and an adverb to use as your 'speech pattern'. This determines how other people will see you speak. 
@@ -109,14 +109,14 @@ You may enter a verb or a verb and an adverb to use as your 'speech pattern'. Th
 Example
 > Dragonus booms, "Hello there."
 
-<u>**Notes**</u>
+**Notes**
 * Your speech pattern may not be longer than 15 characters, and can be one or two words.
 * If you choose two words, the first word must be an adverb like kindly, or shyly.
 * The second word (or first word if there is only one) must be a verb that conjugates as a regular verb.
 * If you do use a verb that the staff deems inappropriate or requires editing, the staff may remove or change the speech pattern, and you will not receive a refund for the spent role-points.
 
 <a id="NPC"></a>
-#### [#](#NPC)[10] Create a Playable NPC character
+### [10] Create a Playable NPC character
 These are NPC 'creatures' that you can continue to play, like any of your characters. The rolepoint cost is displayed before it. 
 
 
@@ -138,46 +138,46 @@ Playable NPCs and associated costs are:
 ~~~
 
 
-<u>**Notes**</u>
+**Notes**
 * They can be killed at any time by other player characters.
 
 
-#### [11] Purchase a Veteran character package
+### [11] Purchase a Veteran Character Package
 See [Veteran Characters](/veteran-characters/).
 
 
 <a id="logout"></a>
-#### [#](#logout)[12] Custom Logout Message
+### [12] Custom Logout Message
 Create a custom Welcome Area logout message. The default is "<user> leaves The Eternal City." (e.g. Dragonus leaves The Eternal City.)
 
 Message will automatically start with your username. For example, if you want it to read "Dragonus jumps out the window.", you would enter "jumps out the window."
 
-<u>**Notes**</u>
+**Notes**
 * Limit of 50 characters for a custom logout message.
 * Any **inappropriate** logout messages will be **removed with no refund** of role points.
 
 
-#### [13] Purchase Character Slot
+### [13] Purchase Character Slot
 
-#### [14] Retrieve Deleted Character
+### [14] Retrieve Deleted Character
 * This can only be done if you have an **available slot** for the received character.
 
 
 <a id="superior"></a>
-#### [#](#superior)[15] Superior Weapon Upgrade
+### [15] Superior Weapon Upgrade
 Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
 
 
 ---
 <a id="properties"></a>
-### [#](#properties)Property
+## Property
 You are able to **buy** & **modify** certain types of [property](/property/) in-game. A **property owner** may modify their property **via @request** and have a **minimum in-game cost of 5 talents** each. Larger, fancier modifications will have higher prices. These prices are the same for domus and other property types.
 
 Property modifications may **only be requested by [premium](/account/#AccountSub) subscribers**.
 
 
 <a id="store"></a>
-#### [#](#store)Store (Package) Purchase
+#### Store (Package) Purchase
 
 The Store package includes:
 * An **NPC proprietor**
@@ -191,7 +191,7 @@ Players request the location of these special property types, but it must be in/
 
 
 <a id="club-house"></a>
-#### [#](#club-house)Club House (Package) Purchase
+#### Club House (Package) Purchase
 
 The Club House package includes:
 * An **NPC door guard**
@@ -207,7 +207,7 @@ Players request the location of these special property types, but it must be in/
 
 
 <a id="fixture"></a>
-#### [#](#fixture)Permanent Light Fixture
+#### Permanent Light Fixture
 This option allows the placement of a permanently fastened, everlasting lantern or torch. The requester can alter the item's appearance and placement style.
 
 Examples:
@@ -218,19 +218,20 @@ These requests should be made under [Item Alterations](/customization-guide/#Alt
 
 
 <a id="alteration"></a>
-#### [#](#alteration)Room Alteration
+#### Room Alteration
 An item alteration can be used as a room alteration, changing the name and description of a room as seen with the look command. This only includes things in the room that are described and not otherwise able to be interacted with because they are not items. You may change the order that fastened items appear in the room's description, but not the fastened items' descriptions themselves.
 
 
 Example:
-* **Change** *"You are in a simple triclinium. The floor and walls are made from planks of dark wood under thick square beams supporting the roof."* _
+* **Change** *"You are in a simple triclinium. The floor and walls are made from planks of dark wood under thick square beams supporting the roof."*
+
 **to** *"You are in a spacious room. The high ceiling is held by gently arching timbers spaced regularly along the bright blue painted walls. Polished gold-veined white marble floor slabs are expertly fitted underfoot."*
 
 These requests should be made under [Item Alterations](/customization-guide/#Alterations).
 
 
 <a id="keying"></a>
-#### [#](#keying)Quick Keying Door
+#### Quick Keying Door
 This modifies an existing lockable door to provide a convenience bonus - as long as the player has the key to the door, or has a lockpick and is allowed to work on the door, the **character may walk through** the door and it will **automatically unlock/open/close/lock** with no round time. This enhancement **may not be applied to the outer (first) door/gate** of a property.
 
 Anyone following you will not follow you through the door.
@@ -239,21 +240,21 @@ These requests should be made under [Custom Items](/customization-guide/#CustomI
 
 
 <a id="room"></a>
-#### [#](#room)Additional Room
+#### Additional Room
 Adds an additional room to an existing owned property. Restricted by map space availability. Appearance of the room can be altered and exits/locks are included. Discounted price for any special mechanics added.
 
 These requests should be made under [Custom Items](/customization-guide/#CustomItems).
 
 
 <a id="npc"></a>
-#### [#](#npc)Additional NPC
+#### Additional NPC
 An additional proprietor or door guard NPC that can be added to an existing Store or Club House building.
 
 These requests should be made under [Custom Items](/customization-guide/#CustomItems).
 
 
 <a id="customItem"></a>
-#### [#](#customItem)Custom Item
+#### Custom Item
 Custom Item requests can be used to change an owned property's room, exit, or item's mechanics, or edit which items are permanently fastened in a room.
 
 See [Custom Items](/customization-guide/#CustomItems).
