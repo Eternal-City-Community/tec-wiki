@@ -1495,3 +1495,47 @@ html, body {
     margin-left: .35rem;
   }
 }
+
+
+/* Stats page */
+.stats-page > h3 {
+  margin-top: 1.45rem;
+  padding: .32rem .55rem;
+  border-bottom: 2px solid #566126;
+  background: rgba(104,109,55,.10);
+  color: #39461f;
+}
+
+.stats-page > h4 {
+  margin: .8rem 0 .15rem .8rem;
+  padding: .36rem .55rem;
+  border-left: 4px solid #686d37;
+  background: rgba(226,219,186,.78);
+  color: #39461f;
+  font-size: .78rem;
+}
+
+.stats-page > h5 {
+  margin-left: .8rem;
+  color: #4d5229;
+}
+
+.stats-page > h4 + p {
+  margin-left: .8rem;
+}
+
+.stats-page table {
+  max-width: 720px;
+}
+
+.stats-page > p > strong:first-child:last-child {
+  color: #39461f;
+}
+
+@media (max-width:700px) {
+  .stats-page > h4,
+  .stats-page > h4 + p,
+  .stats-page > h5 {
+    margin-left: .25rem;
+  }
+}
