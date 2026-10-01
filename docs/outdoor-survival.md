@@ -19,7 +19,7 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 
 |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | **@<**>@**Krimalus | Fern | Tauruu | Shantaz | Jarla |
+| Skills/Actions | Difficulty | **Krimalus **| Fern | Tauruu | Shantaz | Jarla |
 | *<u>Outdoor Survival</u>* | Easy | 80 | 100 | 150 | 150 | 200 |
 | [Dig Firepit](#Firepit) | Easy | 60 | 100 | 120 | 125 | 150 |
 | [Craft Basic Torch](#Torch) | Easy | 60 | 100 | 120 | 125 | 150 |
@@ -53,7 +53,7 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 **Directions to Jarla** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Notes on Learning
-* **@<**>@Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
+* **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
 
 
 ### Skill Details
@@ -91,7 +91,7 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 </div>
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -260,7 +260,7 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 </div>
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -357,7 +357,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 </div>
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -426,7 +426,7 @@ Your ranks and the material used (twigs, grass, and reeds) determine what items 
 </div>
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -466,7 +466,7 @@ The whittle command doesn't like having two words for the subject of the command
 </div>
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
