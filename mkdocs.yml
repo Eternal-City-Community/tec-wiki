@@ -64,3 +64,4 @@ extra_javascript:
   - javascripts/tec-stats.js
   - javascripts/tec-shops.js
   - javascripts/tec-tables.js
+  - javascripts/tec-page-history.js
