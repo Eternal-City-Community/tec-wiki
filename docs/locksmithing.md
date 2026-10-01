@@ -5,350 +5,444 @@ category: "Crafting & Trade"
 
 # Locksmithing
 
-### Skill Overview
+## Skill Overview
 
-With as many doors as there are in the city of the size of Iridine. Those with the knowledge of how to install, repair and build locks for those doors are a much-needed commodity. A locksmiths duties aren't confined to just doors, there are always those who need a chest found on some adventure or other opened, and are more then willing to pay for the privilege of discovering what lies within.
+With as many doors as there are in a city the size of Iridine, those with the knowledge to install, repair, and build locks are a much-needed commodity. A locksmith's duties are not confined to doors: adventurers frequently need locked chests and containers opened and are often willing to pay for the privilege of discovering what lies within.
 
-The locksmiths of Iridine are primarily concentrated around Apula's place of business, and the Guildhall located across the Invex, along Vetallun Road. Apula is always happy to accept any freelance locksmith who wanders into her shop, and will occasionally offer out jobs, when her own hands are tied with other tasks.
+The locksmiths of Iridine are primarily concentrated around Apula's place of business and the Guildhall across the Invex along Vetallun Road. Apula accepts freelance locksmiths who wander into her shop and may occasionally offer work when her own hands are tied.
 
-Locksmiths are much sought after in Midlight. A locksmith starting out will be able to assist residents in opening their locked containers, which is the most essential skill of a smith. More advanced locksmiths focus on forging duplicate keys and/or installing new locks for their clients.
+A locksmith starting out can assist residents by opening locked containers. More advanced locksmiths can forge duplicate keys and lockpicks, make keyrings, jam or repair locks, and install or remove locking mechanisms.
 
-**For guidance on using the skill set, see the [Locksmithing Guide](/locksmithing-guide/)**.
+**For additional step-by-step guidance, see the [Locksmithing Guide](/locksmithing-guide/).**
 
-|  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Apula | Ititia | Fefellus | Admina | Clauditis |
+## Trainers
+
+| Skill / Action | Difficulty | Apula | Ititia | Fefellus | Admina | Clauditis |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
 | Locksmithing | Easy | 50 | 100 | 80 | 100 | 200 |
-| [Pick Lock-Unlocking](#Lock-Unlocking) | Easy | 50 | 90 | 65 | 70 | 150 |
-| [Pick Lock-Locking](#Lock-Locking) | Average | 50 | 90 | 60 | 70 | 150 |
-| [Study Lock](#Study-Lock) | Easy | 50 | 90 | 60 | 70 | 150 |
-| [Lock Lore](#Lock-Lore) | Easy | 50 | 90 | 60 | 70 | 150 |
-| [Unjam Lock](#Unjam-Lock) | Difficult | 50 | 90 | 65 | 70 | 150 |
-| [Jam Lock](#Jam-Lock) | Easy | 50 | 90 | 60 | 70 | 150 |
-| [Fashion Lockpick](#Fashion-Lockpick) | Average | 50 | 70 | 60 | 90 | 150 |
-| [Create Wax Imprint](#Wax-Imprint) | Average | 50 | 70 | 60 | 90 | 150 |
-| [Create Clay Mold](#Clay-Mold) | Difficult | 50 | 70 | 60 | 90 | 150 |
-| [Forge Lock Instrument](#Forge-Lock-Instrument) | Difficult | 50 | 70 | 60 | 90 | 150 |
-| [Install Lock](#Install-Lock) | Difficult | 50 | 70 | 65 | 90 | 150 |
-| [Uninstall Lock](#Uninstall-Lock) | Impossible | 50 | 70 | 65 | 90 | 150 |
-| [Wax Letter Etching](#Wax-Letter-Etching) | Average | 25 | 70 | 60 | 90 | 125 |
-| [Fashion Keyring](#Fashion-Keyring) | Difficult | 25 | 70 | 60 | 80 | 125 |
+| [Pick Lock - Unlocking](#pick-lock---unlocking) | Easy | 50 | 90 | 65 | 70 | 150 |
+| [Pick Lock - Locking](#pick-lock---locking) | Average | 50 | 90 | 60 | 70 | 150 |
+| [Study Lock](#study-lock) | Easy | 50 | 90 | 60 | 70 | 150 |
+| [Lock Lore](#lock-lore) | Easy | 50 | 90 | 60 | 70 | 150 |
+| [Unjam Lock](#unjam-lock) | Difficult | 50 | 90 | 65 | 70 | 150 |
+| [Jam Lock](#jam-lock) | Easy | 50 | 90 | 60 | 70 | 150 |
+| [Fashion Lockpick](#fashion-lockpick) | Average | 50 | 70 | 60 | 90 | 150 |
+| [Create Wax Imprint](#create-wax-imprint) | Average | 50 | 70 | 60 | 90 | 150 |
+| [Create Clay Mold](#create-clay-mold) | Difficult | 50 | 70 | 60 | 90 | 150 |
+| [Forge Lock Instrument](#forge-lock-instrument) | Difficult | 50 | 70 | 60 | 90 | 150 |
+| [Install Lock](#install-lock) | Difficult | 50 | 70 | 65 | 90 | 150 |
+| [Uninstall Lock](#uninstall-lock) | Impossible | 50 | 70 | 65 | 90 | 150 |
+| [Wax Letter Etching](#wax-letter-etching) | Average | 25 | 70 | 60 | 90 | 125 |
+| [Fashion Keyring](#fashion-keyring) | Difficult | 25 | 70 | 60 | 80 | 125 |
 
-**Directions to Apula** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Nx5, Wx1
-**Directions to Fefellus** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Wx2, Sx1, Ex1
-**Directions to Ititia** ([Blackvine](/village-of-blackvine/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Sx1, SEx1, Ex4, Sx4, Ex2, Sx1
-**Directions to Admina** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex10, Sx5, Wx1, Nx1
-**Directions to Clauditis** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, Wx4, N
+### Trainer Locations
 
+**Apula — [Iridine](/bronze-lane/)**  
+From Bronze Lane: north ×5, west ×1.
 
-#### Notes on Learning
-* For characters learning Locksmithing for the first time with **[GSP](/skills/#GSP)**, the **starting skills** are: [Pick Lock-Unlocking](#Lock-Unlocking), [Lock Lore](#Lock-Lore) and [Study Lock](#Study-Lock).
+**Fefellus — [Vetallun](/town-of-vetallun/)**  
+Travel to Vetallun Road, continue to the Vetallun Crossroads, then west ×2, south ×1, east ×1.
 
+**Ititia — [Blackvine](/village-of-blackvine/)**  
+Travel to Vetallun Road, continue to the Vetallun Crossroads, then toward Blackvine: south ×1, southeast ×1, east ×4, south ×4, east ×2, south ×1.
 
-### Skill Details
+**Admina — [Town of Rock Valley](/town-of-rock-valley/)**  
+The migrated directions were: walk to the Hospice, wait for the drover to appear, follow the drover, east ×12, north ×2, east ×10, south ×5, west ×1, north ×1.
 
+**Clauditis — [Seld](/village-of-seld/)**  
+From Seld Town Square: north ×2, west ×4, north ×1.
 
-<a id="Lock-Unlocking"></a>
+## Notes on Learning
 
-### Pick Lock-Unlocking  *unlock <lockable object> with <lockpick>*
+Characters learning Locksmithing for the first time with **[GSP](/skills/#GSP)** begin with:
 
-All people new to locksmithing will start with this sub-skill. There is a practice board at Riverside Locks (Apula's shop), which you can unlock indefinitely. With enough skill points, you can learn how to [lock containers](#Lock-Locking), which will allow you to carry a practice container around with you. Coffers are very good for this purpose, and many people will let you have one of their spares if you ask.
+- Pick Lock - Unlocking
+- Lock Lore
+- Study Lock
 
-This difficulty of this skill is affected by the lighting of your environment. Make sure you are in a well-lit room to have the best chance of success.
+## Skill Details
 
-**Required Tools**: Lockpick.
+### Pick Lock - Unlocking
 
+**Difficulty:** Easy
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Reasoning**, **Perception** & **Judgement**.
+```text
+unlock <lockable object> with <lockpick>
+```
 
-**When you see this in use you see:**
+All characters new to locksmithing begin with this action. There is a practice board at Riverside Locks, Apula's shop, which can be unlocked indefinitely. With enough training, a locksmith can learn to lock containers as well, allowing a portable practice container to be used.
 
-<div class="skill-template">
+The difficulty of this skill is affected by lighting. A well-lit room provides the best chance of success.
 
-> *unlock chest with lockpick*
- [Success: 5, Roll: 94] You hear a click as a tumbler mechanism releases.
+**Required Tools:** Lockpick
 
-</div>
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** Reasoning, Perception, and Judgement.
 
+**Example**
 
-<a id="Lock-Locking"></a>
+```text
+> unlock chest with lockpick
+[Success: 5, Roll: 94] You hear a click as a tumbler mechanism releases.
+```
 
-### Pick Lock-Locking  *lock <lockable object> with <lockpick>*
+### Pick Lock - Locking
 
-This sub-skill is primarily used for training purposes, but can be useful to locksmiths or clients who need a temporary replacement for a key.
+**Difficulty:** Average
 
-**Required Tools**: Lockpick.
+```text
+lock <lockable object> with <lockpick>
+```
 
+This action is primarily useful for training, but it can also serve as a temporary substitute when a key is missing.
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Reasoning** & **Perception**.
+**Required Tools:** Lockpick
 
-**When you see this in use you see:**
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** Reasoning and Perception.
 
-<div class="skill-template">
+**Example**
 
-> *lock chest with lockpick*
+```text
+> lock chest with lockpick
 [Success: 5, Roll: 38] You hear a click as a tumbler mechanism closes.
+```
 
-</div>
+### Study Lock
 
+**Difficulty:** Easy
 
-<a id="Study-Lock"></a>
+```text
+study <lockable object>
+```
 
-### Study Lock  *study <lockable object>*
+Studying a lock makes the locksmith's next relevant task easier, but the benefit applies only once and has a time limit that is not explicitly displayed.
 
-Studying a container will make your next task easier, but only once. It also has a time limit, which is not explicitly displayed. Studying is arguably the most important skill for a locksmith, because it can get you into a container you might otherwise never be able to crack with your current ranks. It can also speed the process of opening a container that would normally take you quite a few tries to get open.
+Study Lock can be especially useful against mechanisms that are otherwise too difficult to pick or repair efficiently. It can also reveal that a mechanism has been jammed.
 
-**When you see this in use you see:**
+**Example**
 
-<div class="skill-template">
-
-> *study chest*
+```text
+> study chest
 [Success: 1, Roll: 98] You carefully study a tumbler mechanism and feel that you have a pretty firm grasp of how its locking mechanism operates. The lock has been jammed, but after further study you are confident that can be fixed.
+```
 
-</div>
+### Lock Lore
 
+**Difficulty:** Easy
 
-<a id="Lock-Lore"></a>
+```text
+recall lock tumbler
+```
 
-### Lock Lore  *recall lock tumbler*
+Lock Lore offers no direct mechanical advantage, but it can be useful for gaining skill points because it requires no tools and can be practiced almost anywhere.
 
-Lock lore offers no mechanical advantage, but it can be useful in gaining skill points, as it can be done anywhere and no tools are required.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** Willpower, Reasoning, Judgement, and Memory.
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Willpower**, **Reasoning**, **Judgement** & **Memory**.
+**Example**
 
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *recall lock tumbler*
+```text
+> recall lock tumbler
 [Success: 1, Roll: 43] The lock mechanism consists of a basic collection of interlocked metal teeth that slide apart when opened with the appropriate key.
+```
 
-</div>
+### Unjam Lock
 
+**Difficulty:** Difficult
 
-<a id="Unjam-Lock"></a>
+```text
+unjam <jammed object> with <lockpick>
+```
 
-### Unjam Lock  *unjam <jammed object> with <lockpick>*
+A jammed container or door must be unjammed before it can be unlocked. Difficult mechanisms may require several successful attempts.
 
-When an object (container or door) is jammed, it must be unjammed before it can be unlocked. It may take several attempts at unjamming an object. When working on doors, if a locksmith tries to uninstall a lock and fails, it will jam the lock. The lock must then be unjammed and unlocked before the smith can attempt to uninstall it again.
+When working on doors, a failed attempt to uninstall a lock may jam it. The lock must then be unjammed and unlocked before another uninstall attempt can be made.
 
-This difficulty of this skill is affected by the lighting of your environment. Make sure you are in a well-lit room to have the best chance of success.
+Lighting affects the difficulty of this action.
 
-**Required Tools**: Lockpick.
+**Required Tools:** Lockpick
 
-***Note**: If you fail (roll under your success) when attempting to unjam an object, you may get an echo reading, "You manage to jam the mechanism even more." Jamming on object even more will take extra effort to unjam it. If an object is too tough, it is recommended that you study it before each attempt. If that doesn't help enough, leave the object for a more skilled smith. Jamming a container worse will make it more difficult for the next locksmith who attempts to open them, and will eat up both the possible client's and the smith's valuable time.*
+!!! warning
+    A failed unjamming attempt can make the mechanism even more jammed. If a lock is especially difficult, studying it before each attempt can help. Continuing to work on a lock beyond your ability can make the job harder for the next locksmith.
 
-**When you see this in use you see:**
+**Examples**
 
-<div class="skill-template">
-
-> *unjam chest with lockpick*
+```text
+> unjam chest with lockpick
 You manage to jam the mechanism even more.
 [Success: 5, Roll: 1] You carefully twist and manipulate a silver lockpick.
 
- > *unjam chest with lockpick*
+> unjam chest with lockpick
 The lock gives some, but is not completely unjammed.
 [Success: 5, Roll: 69] You carefully twist and manipulate a silver lockpick.
 
- > *unjam chest with lockpick*
+> unjam chest with lockpick
 [Success: 5, Roll: 100] You carefully twist and manipulate a silver lockpick. You feel an obstruction release, and you have confidence the lock will operate normally now.
+```
 
-</div>
+### Jam Lock
 
+**Difficulty:** Easy
 
-<a id="Jam-Lock"></a>
+```text
+jam <locked object> with <lockpick>
+```
 
-### Jam Lock  *jam <locked object> with lockpick*
+Useful mostly for training, Jam Lock can also make a container more difficult for another locksmith to open.
 
-Useful mostly for training, this sub-skill can also be used to make it slightly more difficult for another person to get a container open.
+**Required Tools:** Lockpick
 
-**Required Tools**: Lockpick.
+**Example**
 
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *jam chest with lockpick*
+```text
+> jam chest with lockpick
 [Success: 5, Roll: 93] You carefully twist and manipulate a silver lockpick.
+```
 
-</div>
+### Fashion Lockpick
 
+**Difficulty:** Average
 
-<a id="Fashion-Lockpick"></a>
+```text
+fashion lockpick from <thin wire>
+```
 
-### Fashion Lockpick  *fashion lockpick from <thin wire>*
+A locksmith can fashion temporary lockpicks from **thin wire**. These lockpicks degrade with use. Greater skill can produce better-quality lockpicks, which can make later locksmithing tasks easier.
 
-Skilled locksmiths can fashion temporary lockpicks from **thin wire** to give out or to use while traveling. They are easy to make and will degrade over time, but there is a marked benefit to mastering the skill. The greater the skill, the greater the quality of lockpick created, leading to easier locksmithing. 
+**Required Tools:** A thin length of wire
 
-**Required Tools**: A thin length or wire.
+**Example**
 
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *fashion lockpick from wire*
+```text
+> fashion lockpick from wire
 [Success: 1, Roll: 83] You take the thin length of tin wire firmly and work it into a carefully twisted tin lockpick.
+```
 
-</div>
+## Forging Keys and Lockpicks
 
+Duplicating a key or lockpick is a multi-stage process:
 
-<a id="Wax-Imprint"></a>
+1. Create a wax imprint of the original locking tool.
+2. Create a clay mold around the completed wax imprint.
+3. Heat the clay mold until it hardens.
+4. Heat a metal slag over a high-flame furnace until molten.
+5. Pour the molten metal into the hardened mold with Forge Lock Instrument.
+6. Keep or crack the mold after the finished copy is produced.
 
-### Create Wax Imprint  *imprint <wax> with <locking tool>*
+### Create Wax Imprint
 
-Creating a wax imprint is the first step in forging a new key or lockpick. You will need wax, which is sold at Apula's, as well as any other locksmithing shop. Advancing this sub-skill is useful past dropping the success to 5, because as a locksmith improves this skill, the number of attempts required to finish the imprint continues to drop. For example, when starting out, a locksmith might have to imprint the wax successfully 20-30 times before the imprint is complete. A master, however, may only require 4-5 successful attempts to finish the imprint.
+**Difficulty:** Average
 
-A stylus can be used to label your completed wax imprint. To do this, have the mold and a stylus in your hand, then **label wax <label text>**.
+```text
+imprint <wax> with <locking tool>
+```
 
-If you are unsatisfied with your current wax imprint due to some unfortunate rolls, you can always use the "**squeeze <wax>**" command to start over, saving your piece of wax.
+Creating a wax imprint is the first step in forging a new key or lockpick. Wax is sold at Apula's and other locksmithing shops.
 
-**Required Tools**: Jar of wax, a key/lockpick *(to copy)*.
+Higher ranks remain useful even after the displayed success reaches 5 because greater skill reduces the number of successful repetitions needed to complete the imprint. The migrated page notes that a new locksmith may need 20–30 successful attempts while a master may need only 4–5.
 
-This is a required step in **[/locksmithing-guide#Forging Forging Locking Tools]**.
+A completed wax imprint can be labeled with a stylus:
 
-**When you see this in use you see:**
+```text
+label wax <label text>
+```
 
-<div class="skill-template">
+If an imprint is going poorly, the wax can be reset and reused:
 
-> *get wax from yellow ceramic jar*
- You scoop out a bit of wax.
+```text
+squeeze <wax>
+```
 
- > *imprint wax with lockpick*
- [Success: 1, Roll: 44] You warm the wax in your hand in preparation for imprinting and form it around the silver lockpick.
+**Required Tools:** Jar of wax and the key or lockpick being copied
 
- > *imprint wax with lockpick*
- [Success: 1, Roll: 68] You painstakingly mold an unfinished wax imprint closely around the teeth of a silver lockpick.
+**Examples**
 
- > *imprint wax with lockpick*
- [Success: 1, Roll: 29] You carefully remove a silver lockpick from the wax imprint and survey your finished work.
+```text
+> get wax from yellow ceramic jar
+You scoop out a bit of wax.
 
-</div>
+> imprint wax with lockpick
+[Success: 1, Roll: 44] You warm the wax in your hand in preparation for imprinting and form it around the silver lockpick.
 
+> imprint wax with lockpick
+[Success: 1, Roll: 68] You painstakingly mold an unfinished wax imprint closely around the teeth of a silver lockpick.
 
-<a id="Clay-Mold"></a>
+> imprint wax with lockpick
+[Success: 1, Roll: 29] You carefully remove a silver lockpick from the wax imprint and survey your finished work.
+```
 
-### Create Clay Mold  *create mold of <imprinted wax> with <clay>*
+### Wax Letter Etching
 
-Creating a clay mold of a wax imprint is the second step in forging a new item. A completed clay mold must be **heated** to **harden** before it can be used to **[/locksmithing-guide#Forging forge a locking tool]**.
+**Difficulty:** Average
 
-A stylus can be used to label your mold. To do this, have the mold and a stylus in your hand, then **label mold <label text>**.
+```text
+etch <imprinted wax> <text>
+```
 
-If you are unsatisfied with an in-progress clay mold due to some unfortunate rolls, you can recycle the clay by putting the incomplete mold back into your clay jar, and the scooping it back out as a fresh chunk of clay. This can help you preserve clay.
+Wax Letter Etching adds text to a completed wax imprint. When the imprint is later used to forge a locking tool, the etched text appears on the finished item. Greater skill allows longer inscriptions.
 
-If you are unhappy with your mold, or wish to get rid of it after forging the desired item, you can use the "crack <mold>" command to destroy it.
+**Required Tools:** Thin wooden stylus
 
-**Required Tools**: Fully Imprinted wax, clay, low-heat source.
+This step is optional.
 
-This is a required step in **[/locksmithing-guide#Forging Forging Locking Tools]**.
+**Example**
 
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *get clay from small white ceramic jar*
- You scoop out a bit of clay.
-
- > *create mold of wax with clay*
- [Success: 1, Roll: 51] You massage some clay in your hands, softening it, before applying some to the wax imprint.
-
- > *imprint wax with lockpick*
- [Success: 1, Roll: 46] Using the warm clay, you work on wrapping it around the raised wax formation that mimics the original metal.
-
- > *imprint wax with lockpick*
- [Success: 1, Roll: 86] Adding some final touches to the mold, you soon have the imprint completely encased in clay with a small hole for the wax to runoff from.  It is ready to be baked.
-
-</div>
-
-
-<a id="Forge-Lock-Instrument"></a>
-
-### Forge Lock Instrument  *forge tool with <crucible> and <mold>*
-
-With crucible and tongs in-hand, you pour the molten metal into the ready mold in front of you. The metal can always be reheated and this process can be repeated as many times as necessary to obtain the best results. Simply refill the crucible and repeat the steps. Once finished, you can either crack or keep the mold for future copies. **Don't forget** to extinguish the furnace once you're done, to save fuel for the next time.
-
-To prepare the **molten metal**, a slag of metal must first be heated over a **high-flame furnace**. *(no skill required)*
-
-**Required Tools**: Hardened mold, crucible (metal within), tongs, high-heat source.
-
-This is a required step in **[/locksmithing-guide#Forging Forging Locking Tools]**.
-
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *forge tool with crucible and mold*
- [Success: 1, Roll: 76] You pour some molten metal from a crucible into a hole on top of the mold. After a short while, you crack the clay open to reveal a silver lockpick.
-
-</div>
-
-
-<a id="Install-Lock"></a>
-
-### Install Lock  *install <tumbler> in <object>*
-
-Installing a new lock takes patience, as the round-time is very long, and it takes a fair amount of training to have a decent chance of success. Locks can be installed on any lockable object on which the locksmith has permission to work. In many cases, a lock must first be uninstalled before a new lock may be put in place.
-
-**Required Tools**: A tumbler mechanism.
-
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *install tumbler in trunk*
- [Success: 1, Roll: 73] You set the placement of the new tumbler mechanism with great care.
-
-</div>
-
-
-<a id="Uninstall-Lock"></a>
-
-### Uninstall Lock  *uninstall lock from <object>*
-
-If you fail, there is a chance that you will jam the lock in the process. A lock must be unjammed and unlocked before you can begin extraction. The round-time for uninstalling a lock is much shorter than for installing a new one, but can be especially time-consuming for poorly-trained smiths.
-
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *uninstall lock from coffer*
- [Success: 76, Roll: 80] You manage to break the lock apart into manageable pieces for extraction.
-
-</div>
-
-
-<a id="Wax-Letter-Etching"></a>
-
-### Wax Letter Etching  *etch <imprinted wax> <text>*
-
-This skill allows a locksmith to imprint a wax imprint with text. Once the wax is used to **[/locksmithing-guide#Forging forge a locking tool]**, the etched text will be visible. The better a locksmith knows this skill, the more characters they will be able to etch into the items.
-
-Required Tools: A thin wooden stylus.
-
-This is an optional step in **[/locksmithing-guide#Forging Forging Locking Tools]**.
-
-**When you see this in use you see:**
-
-<div class="skill-template">
-
-> *etch wax Apula*
+```text
+> etch wax Apula
 [Success: 5, Roll: 65] You lift up your thin wooden stylus and quickly etch 'Apula' onto a wax imprint of a lockpick. You finish and consider your work.
+```
 
-</div>
+### Create Clay Mold
 
+**Difficulty:** Difficult
 
-<a id="Fashion-Keyring"></a>
+```text
+create mold of <imprinted wax> with <clay>
+```
 
-### Fashion Keyring  *fashion keyring from <thick wire>*
+Creating a clay mold is the second step in forging a new locking tool. A completed mold must be heated until hardened before it can be used for casting.
 
-This skill allows a locksmith to craft keyrings. The more skilled the locksmith, the larger the keyring they will be able to create. Note that this skill requires the use of **thick wire**, not a thin wire.
+A stylus can be used to label the mold:
 
-**Required Tools**: A thick length of wire.
+```text
+label mold <label text>
+```
 
-**When you see this in use you see:**
+An unfinished clay mold can be recycled by putting it back into the clay jar and scooping the clay back out.
 
-<div class="skill-template">
+Unwanted molds can be destroyed with:
 
-> *fashion keyring from wire*
+```text
+crack <mold>
+```
+
+**Required Tools:** Fully imprinted wax, clay, and a low-heat source for baking
+
+**Examples**
+
+```text
+> get clay from small white ceramic jar
+You scoop out a bit of clay.
+
+> create mold of wax with clay
+[Success: 1, Roll: 51] You massage some clay in your hands, softening it, before applying some to the wax imprint.
+
+> create mold of wax with clay
+[Success: 1, Roll: 46] Using the warm clay, you work on wrapping it around the raised wax formation that mimics the original metal.
+
+> create mold of wax with clay
+[Success: 1, Roll: 86] Adding some final touches to the mold, you soon have the imprint completely encased in clay with a small hole for the wax to runoff from. It is ready to be baked.
+```
+
+### Forge Lock Instrument
+
+**Difficulty:** Difficult
+
+```text
+forge tool with <crucible> and <mold>
+```
+
+With crucible and tongs in hand, the locksmith pours molten metal into a hardened mold. Metal can be reheated and the process repeated as necessary. Once finished, the mold can be retained for future copies or cracked.
+
+To prepare molten metal, a slag of metal must first be heated over a **high-flame furnace**. The migrated page notes that heating the slag itself requires no Locksmithing skill action.
+
+**Required Tools:** Hardened mold, crucible containing molten metal, tongs, and a high-heat source
+
+**Example**
+
+```text
+> forge tool with crucible and mold
+[Success: 1, Roll: 76] You pour some molten metal from a crucible into a hole on top of the mold. After a short while, you crack the clay open to reveal a silver lockpick.
+```
+
+## Locks
+
+### Install Lock
+
+**Difficulty:** Difficult
+
+```text
+install <tumbler> in <object>
+```
+
+Installing a new lock has a long roundtime and requires substantial training to perform reliably. Locks can be installed on lockable objects on which the locksmith has permission to work.
+
+In many cases, an existing lock must be uninstalled before a new mechanism can be installed.
+
+**Required Tools:** Tumbler mechanism
+
+**Example**
+
+```text
+> install tumbler in trunk
+[Success: 1, Roll: 73] You set the placement of the new tumbler mechanism with great care.
+```
+
+### Uninstall Lock
+
+**Difficulty:** Impossible
+
+```text
+uninstall lock from <object>
+```
+
+A failed uninstall attempt can jam the lock. A jammed lock must be unjammed and unlocked before another extraction attempt can be made.
+
+The roundtime for uninstalling a lock is shorter than installing one, but the action can still be time-consuming for an inexperienced locksmith.
+
+**Example**
+
+```text
+> uninstall lock from coffer
+[Success: 76, Roll: 80] You manage to break the lock apart into manageable pieces for extraction.
+```
+
+### Fashion Keyring
+
+**Difficulty:** Difficult
+
+```text
+fashion keyring from <thick wire>
+```
+
+Fashion Keyring allows a locksmith to create keyrings from **thick wire**. Greater skill allows larger keyrings to be produced.
+
+Thin wire used for Fashion Lockpick will not work for this action.
+
+**Required Tools:** A thick length of wire
+
+**Example**
+
+```text
+> fashion keyring from wire
 [Success: 5, Roll: 65] You take the thick length of tin wire firmly and work it into a large tin keyring.
+```
 
-</div>
+## Quick Command Reference
+
+```text
+unlock <object> with <lockpick>
+lock <object> with <lockpick>
+study <object>
+recall lock tumbler
+unjam <object> with <lockpick>
+jam <object> with <lockpick>
+fashion lockpick from <thin wire>
+imprint <wax> with <locking tool>
+squeeze <wax>
+label wax <label text>
+etch <imprinted wax> <text>
+create mold of <imprinted wax> with <clay>
+label mold <label text>
+crack <mold>
+forge tool with <crucible> and <mold>
+install <tumbler> in <object>
+uninstall lock from <object>
+fashion keyring from <thick wire>
+```
+
+## See Also
+
+- [Locksmithing Guide](/locksmithing-guide/)
+- [Skills](/skills/)
+- [Commands](/commands/)
+- [Village of Seld](/village-of-seld/)
+- [Town of Rock Valley](/town-of-rock-valley/)
