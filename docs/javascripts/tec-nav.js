@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecTopNav() {
   if (document.querySelector(".tec-topnav")) return;
   var header = document.querySelector(".md-header");
   if (!header) return;
@@ -158,4 +158,11 @@ document.addEventListener("DOMContentLoaded", function () {
     });
     if (button) button.parentElement.classList.toggle("is-open");
   });
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecTopNav, { once: true });
+} else {
+  initTecTopNav();
+}
+document.addEventListener("DOMContentSwitch", initTecTopNav);
