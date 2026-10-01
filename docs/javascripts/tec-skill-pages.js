@@ -17,36 +17,56 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 
-  // Restore the grouped header row used by legacy skill tables.
-  // Migrated Markdown cannot express colspan, so the first row arrives as
-  // eight separate cells with labels only in columns 6 and 8.
+  // Restore grouped headers used by legacy skill tables.
+  // Markdown cannot express colspan, so infer the split from the real
+  // column-heading row beneath the migrated grouping row.
   Array.from(root.querySelectorAll("table")).forEach(function (table) {
-    var firstRow = table.querySelector("thead tr, tr");
-    if (!firstRow) return;
+    var rows = Array.from(table.querySelectorAll("tr"));
+    if (rows.length < 2) return;
 
-    var cells = Array.from(firstRow.children);
-    if (cells.length !== 8) return;
-
-    var labels = cells.map(function (cell) {
+    var groupRow = rows[0];
+    var labels = Array.from(groupRow.children).map(function (cell) {
       return cell.textContent.trim();
     });
 
-    if (labels[5] !== "Skill Info" || labels[7] !== "Ranks Taught by Trainer") return;
+    if (!labels.some(function (label) { return label === "Ranks Taught by Trainer"; })) return;
 
-    firstRow.innerHTML = "";
+    var headerCells = Array.from(rows[1].children).map(function (cell) {
+      return cell.textContent.trim();
+    });
 
-    var skillInfo = document.createElement("th");
-    skillInfo.colSpan = 6;
-    skillInfo.className = "tec-skill-group-heading";
-    skillInfo.textContent = "Skill Info";
+    var infoCols = 0;
+    var prereqIndex = headerCells.findIndex(function (label) {
+      return /^Prerequisite$/i.test(label);
+    });
+
+    if (prereqIndex >= 0) {
+      infoCols = prereqIndex + 1;
+    } else if (/^(Skills\/Actions|Lore)$/i.test(headerCells[0] || "") &&
+               /^Difficulty$/i.test(headerCells[1] || "")) {
+      infoCols = 2;
+    } else {
+      return;
+    }
+
+    if (infoCols <= 0 || infoCols >= headerCells.length) return;
+
+    groupRow.innerHTML = "";
+
+    var info = document.createElement("th");
+    info.colSpan = infoCols;
+    info.className = "tec-skill-group-heading";
+    info.textContent = labels.some(function (label) { return label === "Hunting Lores"; })
+      ? "Hunting Lores"
+      : "Skill Info";
 
     var trainers = document.createElement("th");
-    trainers.colSpan = 2;
+    trainers.colSpan = headerCells.length - infoCols;
     trainers.className = "tec-skill-group-heading";
     trainers.textContent = "Ranks Taught by Trainer";
 
-    firstRow.appendChild(skillInfo);
-    firstRow.appendChild(trainers);
+    groupRow.appendChild(info);
+    groupRow.appendChild(trainers);
     table.classList.add("tec-skill-overview-table");
   });
 
