@@ -107,11 +107,15 @@ for rel,path in files.items():
             table_issues.append((rel,i+1,"pipe row outside a recognized Markdown table"))
         i+=1
 
-    if "Migrated include" in text or "Dynamic Wikidot content" in text or "Migration note" in text:
+    if ("Migrated include" in text or "Dynamic Wikidot content" in text or
+            "Migration note" in text or "Archive note:" in text or
+            "Wikidot module" in text):
         migration_pages.append(rel)
     counts["migrated_include"]+=text.count("Migrated include")
     counts["dynamic_wikidot"]+=text.count("Dynamic Wikidot content")
     counts["migration_note"]+=text.count("Migration note")
+    counts["archive_note"]+=text.count("Archive note:")
+    counts["wikidot_module_note"]+=text.count("Wikidot module")
     if "eternal-city.wikidot.com" in text:
         wikidot_links.append(rel)
 
@@ -151,6 +155,8 @@ lines=[
     f"- Migrated include placeholders: **{counts['migrated_include']}**",
     f"- Dynamic Wikidot placeholders: **{counts['dynamic_wikidot']}**",
     f"- Other migration-note markers: **{counts['migration_note']}**",
+    f"- Archive-note markers: **{counts['archive_note']}**",
+    f"- Wikidot-module warning markers: **{counts['wikidot_module_note']}**",
     f"- Pages still containing direct eternal-city.wikidot.com links: **{len(set(wikidot_links))}**",
     f"- Unique unresolved internal links: **{len(broken)}**",
     f"- Pages still using WDFiles assets: **{len(set(syntax_pages['wdfiles']))}**",
