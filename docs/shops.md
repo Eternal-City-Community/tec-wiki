@@ -7,14 +7,14 @@ category: "Items & Economy"
 
 There are many shops, bars, armories, and other vendors throughout Midlight, each offering a unique stock of items. This page attempts to chronicle those items for the discerning shopper.
 
-Keep in mind that the prices listed here are only a rough guide. If your character is charismatic or has certain bartering traits, such as Trader's Tongue, you'll probably fetch better prices than those listed here. In addition, certain shopkeepers such as Belhrad rotate their stock with unique and unpredictable items. For such shopkeepers, the items listed here (marked with a ##green|☘## symbol) are only examples of what you might find for sale.
+Keep in mind that the prices listed here are only a rough guide. If your character is charismatic or has certain bartering traits, such as Trader's Tongue, you'll probably fetch better prices than those listed here. In addition, certain shopkeepers such as Belhrad rotate their stock with unique and unpredictable items. For such shopkeepers, the items listed here (marked with a ☘ symbol) are only examples of what you might find for sale.
 
 You can search by item or shopkeeper name.
 
 **Note on *Franlius* Shopkeepers:**
 
 
-size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
+The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
 <head>
@@ -176,10 +176,10 @@ body {
     float: right;
     text-align: center;
     width: 280px;
-    border: 2px solid #737365;
+    border: 1px solid #565c2f;
     background: #717162;
     border-radius: 6px;
-    box-shadow: 0px 0px 2px 0px black;
+    box-shadow: none;\n   background: #f8f3df;
 }
 #shop-location-toc p {
     margin: 0px;
@@ -211,10 +211,10 @@ body {
 input[type=text] {
   width: 100%;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 1px solid #8d876d;
     border-radius: 4px;
     font-size: 125%;
-    background-color: white;
+    background-color: #fffdf4;
     background-image: url('https://www.w3schools.com/css/searchicon.png');
     background-position: 10px 10px;
     background-repeat: no-repeat;
@@ -239,7 +239,7 @@ input[type=text] {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #6d6d5f;
+  background-color: #b8b08e;
   -webkit-transition: .4s;
   transition: .4s;
   box-shadow: 0px 0px 1px 0px lightgrey;
@@ -256,7 +256,7 @@ input[type=text] {
   transition: .4s;
 }
 input:checked + .slider {
-  background-color: #44443b;
+  background-color: #686d37;
 }
 input:focus + .slider {
   box-shadow: 0 0 1px #44443b;
@@ -310,9 +310,9 @@ input:checked + .slider:before {
 #search-op-accordian {
    display:none;
    padding: 0 20px 6px 20px;
-   border: 2px solid #ccc;
+   border: 1px solid #aaa38a;
    border-radius: 4px;
-   box-shadow: 0px 0px 2px 0px black;
+   box-shadow: none;\n   background: #f8f3df;
 }
 #search-op-accordian h3 {
    margin: 0 -20px 2px -20px;
@@ -358,9 +358,9 @@ input:checked + .slider:before {
     font-size: 200%;
 }
 #shop-table tr.shop-name h3 {
-    border: 2px solid #737365;
+    border: 1px solid #565c2f;
     /* background: #717162;*/
-    background-color: #315203;
+    background-color: #686d37;
     border-radius: 6px;
     margin-left: -8px;
     padding-left: 6px;
@@ -403,12 +403,12 @@ input:checked + .slider:before {
     font-size: 1.7ex;
     font-style: normal;
     font-family: verdana,arial,helvetica,sans-serif,'Segoe UI Symbol'; /* this line is only to fix icon rendering in Edge */
-    color: green !important;
+    color: #456b20 !important;
 }
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 300px;
-    background-color: #5f5f53;
+    background-color: #4d5229;
     border: 1px solid #b7b7ae;
     color: #fff;
     text-align: center;
