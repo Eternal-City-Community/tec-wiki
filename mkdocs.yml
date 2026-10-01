@@ -43,6 +43,9 @@ nav:
 plugins:
   - search
 
+hooks:
+  - hooks/listpages.py
+
 markdown_extensions:
   - admonition
   - fenced_code
