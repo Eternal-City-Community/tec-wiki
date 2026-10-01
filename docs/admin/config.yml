@@ -1,0 +1,35 @@
+backend:
+  name: github
+  repo: herdias/tec-wiki
+  branch: main
+  open_authoring: true
+
+publish_mode: editorial_workflow
+
+site_url: https://tec-wiki.tecwiki.workers.dev
+display_url: https://tec-wiki.tecwiki.workers.dev
+logo_url: https://tec-wiki.tecwiki.workers.dev/favicon.ico
+
+media_folder: docs/assets/uploads
+public_folder: /assets/uploads
+
+collections:
+  - name: pages
+    label: Wiki Pages
+    label_singular: Wiki Page
+    folder: docs
+    create: true
+    extension: md
+    format: frontmatter
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: false
+        hint: Optional metadata title. The visible page heading can also remain in the body.
+      - label: Body
+        name: body
+        widget: markdown
