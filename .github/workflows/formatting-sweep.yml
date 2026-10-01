@@ -1,0 +1,39 @@
+name: Site formatting sweep
+
+on:
+  push:
+    paths:
+      - "tools/fix_formatting_artifacts.py"
+      - ".github/workflows/formatting-sweep.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: formatting-sweep
+  cancel-in-progress: true
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Repair known migration artifacts
+        run: python tools/fix_formatting_artifacts.py
+      - name: Commit repairs and report
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs FORMATTING_SWEEP.md
+          if git diff --cached --quiet; then
+            echo "No formatting repairs required."
+          else
+            git commit -m "Repair site-wide migration formatting artifacts"
+            git pull --rebase origin main
+            git push
+          fi
