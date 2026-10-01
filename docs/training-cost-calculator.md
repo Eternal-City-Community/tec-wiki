@@ -9,7 +9,7 @@ NEW! As of Spring 2024, most NPC trainers teach above rank 200 and training cost
 
 Use this tool to calculate the cost of training your skill from its current rank to a desired (higher) rank. 
 
-size 90% The calculator displays how much in-game currency it costs to learn the indicated number of ranks from an NPC trainer (in talents, denars, sens or tokens). It also calculates the amount of Skill Points (SP) requires based on skill slot position.
+The calculator displays how much in-game currency it costs to learn the indicated number of ranks from an NPC trainer (in talents, denars, sens or tokens). It also calculates the amount of Skill Points (SP) required based on skill slot position.
 
 **Token calculation** is more related to current rank than desired rank. Meaning learning from rank 10 to 20, then from rank 20 to 30 is more expensive than learning from rank 10 to 30 directly. 
 The displayed cost also assumes # is always used in LEARN command. When # is not present, there is a 5 token minimum. 
@@ -23,8 +23,60 @@ The displayed cost also assumes # is always used in LEARN command. When # is not
 /********************************************* FOR TRAINING COST CALCULATOR  *********************************************/
 /*************************************************************************************************************************/
 
-a {
-    color: #005604;
+.tcc-calculator a {
+    color: #4f6428;
+}
+
+.tcc-calculator {
+  --tcc-ink: #322E1E;
+  --tcc-olive: #686d37;
+  --tcc-olive-dark: #4d5229;
+  --tcc-parchment: #E2DBBA;
+  --tcc-paper: #F3EED7;
+  --tcc-field: #FFFDF4;
+  --tcc-border: #77735E;
+  color: var(--tcc-ink);
+}
+
+table.tcc-layout,
+table.tcc-layout > tbody > tr > td {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+table.tcc-layout {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 12px 8px;
+}
+
+.tcc-calculator input {
+  color: var(--tcc-ink);
+}
+
+.tcc-calculator input[type="tel"] {
+  background: var(--tcc-field);
+  border: 1px solid var(--tcc-border);
+  border-radius: 4px;
+  padding: 5px 6px;
+}
+
+@media (max-width: 760px) {
+  table.tcc-layout,
+  table.tcc-layout > tbody,
+  table.tcc-layout > tbody > tr,
+  table.tcc-layout > tbody > tr > td {
+    display: block;
+    width: 100%;
+  }
+
+  table.tcc-npc-cost,
+  table.tcc-sp-cost,
+  table.mod-buttons-table {
+    float: none;
+    width: 100%;
+  }
 }
 
 .fine-print {
@@ -58,17 +110,17 @@ table.tcc-npc-cost {
 
 table.tcc-npc-cost th {
   padding: 3px; 
-  background-color: #E2DBBAD0;
-  border: 1px solid #888888; 
+  background-color: #E2DBBA;
+  border: 1px solid #77735E; 
   text-align: center;
 }
 
 
 table.tcc-npc-cost td {
   padding: 2px 5px;  
-  background-color: #EDEDED;
+  background-color: #F3EED7;
   border: 0px; 
-  border-bottom: 1px solid #888888; 
+  border-bottom: 1px solid #77735E; 
   border-bottom-style: dotted;
 }
 
@@ -76,24 +128,24 @@ table.tcc-npc-cost td {
 table.tcc-npc-cost tr td:first-of-type {
   padding: 4px; 
   font-weight: bold;
-  background-color: #E2DBBAD0;
-  border-left: 1px solid #888888; 
+  background-color: #E2DBBA;
+  border-left: 1px solid #77735E; 
   text-align: left; 
   width: 90px;
 }
 
 /* Consistent solid border around the table */
 table.tcc-npc-cost tr td:last-of-type {
-  border-right: 1px solid #888888; 
+  border-right: 1px solid #77735E; 
 }
 
 /* Consistent solid border around the table */
 table.tcc-npc-cost tr:last-of-type td {
-  border-bottom: 1px solid #888888; 
+  border-bottom: 1px solid #77735E; 
 }
 
 table.tcc-npc-cost input {
-  color: #5B5B52;
+  color: #322E1E;
   border: 0px;
   background: transparent;
   padding-right: 1px;
@@ -114,28 +166,28 @@ table.tcc-sp-cost {
 
 table.tcc-sp-cost th {
   padding: 4px 2px; 
-  background-color: #E2DBBAD0;
+  background-color: #E2DBBA;
   border: 0px;
-  border-top: 1px solid #888888; 
-  border-bottom: 1px solid #888888; 
+  border-top: 1px solid #77735E; 
+  border-bottom: 1px solid #77735E; 
   text-align: center;
 }
 
 table.tcc-sp-cost tr th:first-of-type {
-  border-left: 1px solid #888888; 
+  border-left: 1px solid #77735E; 
 }
 
 table.tcc-sp-cost tr th:last-of-type {
-  border-right: 1px solid #888888;
+  border-right: 1px solid #77735E;
   padding-right: 5px;
 }
 
 
 table.tcc-sp-cost td {
   padding: 2px 5px;  
-  background-color: #EDEDED;
+  background-color: #F3EED7;
   border: 0px; 
-  border-bottom: 1px solid #888888; 
+  border-bottom: 1px solid #77735E; 
   border-bottom-style: dotted;
   text-align: center;
   font-size: 1;
@@ -144,23 +196,23 @@ table.tcc-sp-cost td {
 /* Make first TD look like table header.*/
 table.tcc-sp-cost tr td:first-of-type {
   padding: 3px; 
-  background-color: #E2DBBAD0;
-  border-left: 1px solid #888888; 
+  background-color: #E2DBBA;
+  border-left: 1px solid #77735E; 
   width: 105px;
 }
 
 /* Consistent solid border around the table */
 table.tcc-sp-cost tr td:last-of-type {
-  border-right: 1px solid #888888; 
+  border-right: 1px solid #77735E; 
 }
 
 /* Consistent solid border around the table */
 table.tcc-sp-cost tr:last-of-type td {
-  border-bottom: 1px solid #888888; 
+  border-bottom: 1px solid #77735E; 
 }
 
 table.tcc-sp-cost input {
-  color: #5B5B52;
+  color: #322E1E;
   border: 0px;
   background: transparent;
   padding-right: 1px;
@@ -186,13 +238,13 @@ table.mod-buttons-table tr td {
 }
 
 input.mod-buttons-btn {
-  color: #000000;
+  color: #322E1E;
   font-size: 1em;
   font-weight: normal;
   text-align: center;
   width: 3em;
-  background-color: #EFEFEF;
-  border: 1px solid #888888; 
+  background-color: #E9E1C3;
+  border: 1px solid #77735E; 
   border-radius: 12px;
   padding: 2px 10px;
   margin: 1px;
@@ -202,7 +254,8 @@ input.mod-buttons-btn {
 </style>
 
 
-<table>
+<div class="tcc-calculator">
+<table class="tcc-layout">
 
 
 <tr><td>
@@ -452,7 +505,7 @@ input.mod-buttons-btn {
   <tr>
     <td>
       5<sup>th</sup> Skill Slot
-    </th>
+    </td>
     <td>
       <input onchange="fill()" id=TextBox27 value="-" tabindex="-1" readonly />
     </td>
@@ -759,7 +812,7 @@ input.mod-buttons-btn {
 
 
 <br /><br />
-<u>NOTES</u>
+<strong>NOTES</strong>
 <br />
 <sup>&#8224;</sup> <span class="fine-print">If learning 50 or more ranks, token calculation assumes the character will learn 50 ranks at a time, then finish with any remainder.</span><br>
 <sup>&#8225;</sup> <span class="fine-print">Advancing in a skill by selftraining costs double the normal amount of skill points. This only applies to ranks below 1,150. For ranks above 1,150 selftraining is assumed. This penalty is reduced with the <a href="/traits/#SelfTaught" target="_blank">self taught</a> trait.</span><br>
@@ -770,7 +823,7 @@ input.mod-buttons-btn {
 <br />
 <sup>7</sup>      <span class="fine-print">Adjust Franlius armband requirements by Region.</span>
 <br /><br />
-
+</div>
 
 <script>
   /*
@@ -793,12 +846,12 @@ input.mod-buttons-btn {
 
         if (document.getElementById("HealingModButton").value == "No") {
             document.getElementById("HealingModButton").value = "Yes";
-            document.getElementById("HealingModButton").style.backgroundColor="green";
+            document.getElementById("HealingModButton").style.backgroundColor="#B5A365";
             healMod = true;
 
         } else {
             document.getElementById("HealingModButton").value = "No";
-            document.getElementById("HealingModButton").style.backgroundColor="#efefef";
+            document.getElementById("HealingModButton").style.backgroundColor="#E9E1C3";
             healMod = false;
         }
 
@@ -812,11 +865,11 @@ input.mod-buttons-btn {
 
         if (document.getElementById("hideSneakModButton").value == "No") {
             document.getElementById("hideSneakModButton").value = "Yes";
-            document.getElementById("hideSneakModButton").style.backgroundColor="green";
+            document.getElementById("hideSneakModButton").style.backgroundColor="#B5A365";
             hideSneakMod = true;
         } else {
             document.getElementById("hideSneakModButton").value = "No";
-            document.getElementById("hideSneakModButton").style.backgroundColor="#efefef";
+            document.getElementById("hideSneakModButton").style.backgroundColor="#E9E1C3";
             hideSneakMod = false;
         }
 
@@ -830,15 +883,15 @@ input.mod-buttons-btn {
 
         if (document.getElementById("SelftrainModButton").value == "No") {
             document.getElementById("SelftrainModButton").value = "Yes";
-            document.getElementById("SelftrainModButton").style.backgroundColor="green";
+            document.getElementById("SelftrainModButton").style.backgroundColor="#B5A365";
             selftrainMod = true;
         } else {
             document.getElementById("SelftrainModButton").value = "No";
-            document.getElementById("SelftrainModButton").style.backgroundColor="#efefef";
+            document.getElementById("SelftrainModButton").style.backgroundColor="#E9E1C3";
             selftrainMod = false;
 
 /*            document.getElementById("selfTaughtModButton").value = "No";
-            document.getElementById("selfTaughtModButton").style.backgroundColor="#efefef";
+            document.getElementById("selfTaughtModButton").style.backgroundColor="#E9E1C3";
             selfTaughtMod = false;
 */
         }
@@ -853,13 +906,13 @@ input.mod-buttons-btn {
 
         if (document.getElementById("selfTaughtModButton").value == "No") {
             document.getElementById("selfTaughtModButton").value = "Yes";
-            document.getElementById("selfTaughtModButton").style.backgroundColor="green";
+            document.getElementById("selfTaughtModButton").style.backgroundColor="#B5A365";
             selfTaughtMod = true;
 
 
         } else {
             document.getElementById("selfTaughtModButton").value = "No";
-            document.getElementById("selfTaughtModButton").style.backgroundColor="#efefef";
+            document.getElementById("selfTaughtModButton").style.backgroundColor="#E9E1C3";
             selfTaughtMod = false;
         }
 
@@ -873,11 +926,11 @@ input.mod-buttons-btn {
 
         if (document.getElementById("thiefSkillModButton").value == "No") {
             document.getElementById("thiefSkillModButton").value = "Yes";
-            document.getElementById("thiefSkillModButton").style.backgroundColor="green";
+            document.getElementById("thiefSkillModButton").style.backgroundColor="#B5A365";
             thiefSkillMod = true;
         } else {
             document.getElementById("thiefSkillModButton").value = "No";
-            document.getElementById("thiefSkillModButton").style.backgroundColor="#efefef";
+            document.getElementById("thiefSkillModButton").style.backgroundColor="#E9E1C3";
             thiefSkillMod = false;
         }
 
@@ -891,11 +944,11 @@ input.mod-buttons-btn {
 
         if (document.getElementById("legacyTeacherModButton").value == "No") {
             document.getElementById("legacyTeacherModButton").value = "Yes";
-            document.getElementById("legacyTeacherModButton").style.backgroundColor="green";
+            document.getElementById("legacyTeacherModButton").style.backgroundColor="#B5A365";
             legacyTeacherMod = true;
         } else {
             document.getElementById("legacyTeacherModButton").value = "No";
-            document.getElementById("legacyTeacherModButton").style.backgroundColor="#efefef";
+            document.getElementById("legacyTeacherModButton").style.backgroundColor="#E9E1C3";
             legacyTeacherMod = false;
         }
 
@@ -911,7 +964,7 @@ input.mod-buttons-btn {
         if (document.getElementById("franliusRegionModButton").value == "NE") {
 
             document.getElementById("franliusRegionModButton").value = "NW";
-            //document.getElementById("franliusRegionModButton").style.backgroundColor="green";
+            //document.getElementById("franliusRegionModButton").style.backgroundColor="#B5A365";
             franliusRegionMod = 3.0;
 
         } else if (document.getElementById("franliusRegionModButton").value == "NW") {
@@ -932,7 +985,7 @@ input.mod-buttons-btn {
         } else if (document.getElementById("franliusRegionModButton").value == "SW") {
 
             document.getElementById("franliusRegionModButton").value = "NE";
-            //document.getElementById("franliusRegionModButton").style.backgroundColor="#efefef";
+            //document.getElementById("franliusRegionModButton").style.backgroundColor="#E9E1C3";
             franliusRegionMod = 1.0;
 
         } else {
@@ -1198,27 +1251,25 @@ input.mod-buttons-btn {
 ---
 #### Base Skill Point Costs
 
-~~~
-Skill                    Easy   Average Difficult Impossible  
------------------------ ------- ------- --------- ---------
-1st Skill Slot           10/ 5   15/ 7    17/ 9     19/11
-2nd Skill Slot           13/ 6   18/ 8    20/10     22/12
-3rd Skill Slot           16/ 7   21/ 9    23/11     25/13
-4th Skill Slot           19/ 8   24/10    26/12     28/14
-5th Skill Slot           22/ 9   27/11    29/13     31/15
-6th Skill Slot           25/10   30/12    32/14     34/16
-7th Skill Slot           28/11   33/13    35/15     37/17
-8th Skill Slot           31/12   36/14    38/16     40/18
-9th Skill Slot           34/13   39/15    41/17     43/19
-10th Skill Slot          37/14   42/16    44/18     46/20
-11th Skill Slot          40/15   45/17    47/19     49/21
-12th Skill Slot          43/16   48/18    50/20     52/22
-13th Skill Slot          46/17   51/19    53/21     55/23
-14th Skill Slot          49/18   54/20    56/22     58/24
-15th Skill Slot          52/19   57/21    59/23     61/25
-16th Skill Slot          55/20   60/22    62/24     64/26
-17th Skill Slot          58/21   63/23    65/25     67/27
-18th Skill Slot          61/22   66/24    68/26     70/28
-19th Skill Slot          64/23   69/25    71/27     73/29
-20th Skill Slot          67/24   72/26    74/28     76/30
-~~~
+| Skill Slot | Easy | Average | Difficult | Impossible |
+| --- | ---: | ---: | ---: | ---: |
+| 1st Skill Slot | 10 / 5 | 15 / 7 | 17 / 9 | 19 / 11 |
+| 2nd Skill Slot | 13 / 6 | 18 / 8 | 20 / 10 | 22 / 12 |
+| 3rd Skill Slot | 16 / 7 | 21 / 9 | 23 / 11 | 25 / 13 |
+| 4th Skill Slot | 19 / 8 | 24 / 10 | 26 / 12 | 28 / 14 |
+| 5th Skill Slot | 22 / 9 | 27 / 11 | 29 / 13 | 31 / 15 |
+| 6th Skill Slot | 25 / 10 | 30 / 12 | 32 / 14 | 34 / 16 |
+| 7th Skill Slot | 28 / 11 | 33 / 13 | 35 / 15 | 37 / 17 |
+| 8th Skill Slot | 31 / 12 | 36 / 14 | 38 / 16 | 40 / 18 |
+| 9th Skill Slot | 34 / 13 | 39 / 15 | 41 / 17 | 43 / 19 |
+| 10th Skill Slot | 37 / 14 | 42 / 16 | 44 / 18 | 46 / 20 |
+| 11th Skill Slot | 40 / 15 | 45 / 17 | 47 / 19 | 49 / 21 |
+| 12th Skill Slot | 43 / 16 | 48 / 18 | 50 / 20 | 52 / 22 |
+| 13th Skill Slot | 46 / 17 | 51 / 19 | 53 / 21 | 55 / 23 |
+| 14th Skill Slot | 49 / 18 | 54 / 20 | 56 / 22 | 58 / 24 |
+| 15th Skill Slot | 52 / 19 | 57 / 21 | 59 / 23 | 61 / 25 |
+| 16th Skill Slot | 55 / 20 | 60 / 22 | 62 / 24 | 64 / 26 |
+| 17th Skill Slot | 58 / 21 | 63 / 23 | 65 / 25 | 67 / 27 |
+| 18th Skill Slot | 61 / 22 | 66 / 24 | 68 / 26 | 70 / 28 |
+| 19th Skill Slot | 64 / 23 | 69 / 25 | 71 / 27 | 73 / 29 |
+| 20th Skill Slot | 67 / 24 | 72 / 26 | 74 / 28 | 76 / 30 |
