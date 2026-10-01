@@ -105,6 +105,8 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Bone Break](/pvp/#bone-break) | N/A | 250 | 250 | [See PvP info](/pvp/) |
 | [Branding/Scarring](/pvp/#bone-break) (GM Approval) | N/A | 1,000 | 1,000 | [See PvP info](/pvp/) |
 | [Cut Tongue](/pvp/#bone-break) (GM Approval) | N/A | 2,000 | 2,000 | [See PvP info](/pvp/) |
+<a id="requests-property"></a>
+
 | [Permanent Light Fixture](/rp-expenditure/#fixture) | N/A | N/A | 500 | @request |
 | [Room Alteration](/rp-expenditure/#alteration) | N/A | N/A | 500 | @request |
 | [Quick Keying Door](/rp-expenditure/#keying) | N/A | N/A | 1,000 | @request |
