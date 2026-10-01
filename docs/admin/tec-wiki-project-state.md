@@ -202,6 +202,33 @@ Confirmed from user testing / GM clarification:
   - preserved all existing descriptions, tables, command examples, and lore content
 - Commit: `545561bd29b299af238f10700d1643e710cd94bf`
 
+
+
+### Migration presentation cleanup batch
+
+User-reported issues and fixes on 2026-10-01:
+
+- **Character bios:** migrated bio pages had inconsistent/broken quote markup. Added `docs/javascripts/tec-content.js` to normalize `/bio_*/` pages into a single quote-style biography frame at runtime without rewriting hundreds of source files.
+  - Commit: `0f8a9adfe1418f509a0fb8a280ac50eea6133143`
+- **Skill example spacing:** normalized blank source lines inside migrated `.skill-template` blocks and trimmed leading/trailing whitespace.
+  - Commits: `bcc5af28190cbafc4741b52d32d67663ea59d618`, `191284a01a5ab49668d70d7caa643ac5a3d61aae`
+- **Legacy single-line breaks:** enabled the Markdown `nl2br` extension because many migrated map legends, related-map lists, and guide instructions preserve meaningful single newlines in source.
+  - Commit: `53f6d03da63f4dd104d703f52456c9ba49a97c17`
+- **H5 readability:** added distinct, larger fifth-level heading styling.
+- **Map images:** linked images may use the full article-column width instead of the prose-width cap, and linked image/map assets now open in a new tab.
+- **Top navigation:** removed the old CSS rule that completely hid the TEC top navigation below the desktop breakpoint; compact responsive navigation remains available on narrow desktop and mobile.
+  - Shared styling commit: `4e59a2eaf52a613fc3275356a1a0c12b6b5d0303`
+- **Maps index:** restored concrete map links under the regional headings in `docs/maps.md` using known current wiki map pages.
+  - Commit: `ef3066001becbbc26727403a2c3cc37e21f05c1c`
+- **Rank Bonus Calculator:** allow calculations when either basics or subskill input is present rather than suppressing combat output when subskill is empty; seeded the calculator with the classic defaults of basics 10 / subskill 1 so combat results display immediately.
+  - Commits: `76cf6d9ed4fade917b407c36377156e9f8464261`, `793e8b2f4e1c672458ec7ccb327712f44e951a76`
+  - User also expressed a preference concern about the current `+` button behavior; that interaction has not been redesigned yet.
+- **Announcements / ListPages:** the old Announcements page used a Wikidot `ListPages` module whose generated content was not captured by migration. Replaced the raw technical warning with a clearer restoration note, but the actual historical announcement index still needs reconstruction from archived Wikidot source.
+  - Announcements note commit: `3cf922d0c5fb7457ca4026f95071f14bc9c900e6`
+- **Migration audit:** updated `tools/audit_migration.py` to flag `Archive note:` and `Wikidot module` markers so remaining dynamic-module losses are visible in future audits.
+  - Commit: `3533db56834eda4581ee954285bbb2b0f2538ddc`
+
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
