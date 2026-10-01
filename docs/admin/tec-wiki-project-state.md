@@ -120,6 +120,17 @@ Confirmed from user testing / GM clarification:
 - This specifically fixes the Locksmithing formatting issue reported after restoration.
 - Commit: `b0c73c18135d56f1bc281bb9157aaf3f63d60e05`
 
+
+
+### Pickpocketing
+
+- File: `docs/pickpocketing.md`
+- Source content was present, but the rendered page was reported as empty.
+- Repaired migrated `.skill-template` HTML blocks so Markdown inside them is parsed correctly.
+- Normalized broken/case-sensitive section links to MkDocs-generated heading anchors.
+- Did not invent missing Silent Slip / Silent Draw mechanics; those actions are listed in the trainer table but no surviving sections were found in the current source or repository search.
+- Commit: `b6eb6b92526100a293fd3e1477fe02b67c30da5b`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
