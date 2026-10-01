@@ -315,8 +315,7 @@ body::before {
   text-decoration: underline;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+.md-typeset table:not([class]) {
   display: table;
   width: max-content;
   max-width: none;
@@ -327,22 +326,19 @@ body::before {
   box-shadow: none;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th {
+.md-typeset table:not([class]) th {
   background: var(--tec-table-head);
   color: #242424;
   border: 1px solid #777;
   text-align: center;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td {
+.md-typeset table:not([class]) td {
   border: 1px solid #575757;
   padding: .32rem .5rem;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table tbody tr:nth-child(even) {
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
   background: var(--tec-table-alt);
 }
 
@@ -682,25 +678,20 @@ body::before {
 
 
 /* Table link contrast: global TEC green is too dark on charcoal rows. */
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td a {
+.md-typeset table:not([class]) td a {
   color: #c9e3ff;
   font-weight: 600;
   text-decoration-color: rgba(201,227,255,.6);
 }
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td a:visited {
+.md-typeset table:not([class]) td a:visited {
   color: #d8c9ff;
 }
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td a:hover,
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td a:focus {
+.md-typeset table:not([class]) td a:hover,
+.md-typeset table:not([class]) td a:focus {
   color: #ffffff;
   text-decoration: underline;
 }
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th a {
+.md-typeset table:not([class]) th a {
   color: #244a6b;
 }
 
@@ -716,14 +707,12 @@ body::before {
   color: #2d2b24;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+.md-typeset table:not([class]) {
   font-size: .73rem;
   line-height: 1.42;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th {
+.md-typeset table:not([class]) th {
   font-weight: 700;
 }
 
@@ -772,8 +761,7 @@ html, body {
   -webkit-overflow-scrolling: touch;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+.md-typeset table:not([class]) {
   width: auto;
   min-width: 0;
   max-width: 100%;
@@ -782,25 +770,21 @@ html, body {
   line-height: 1.45;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th {
+.md-typeset table:not([class]) th {
   padding: .38rem .5rem;
   vertical-align: middle;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td {
+.md-typeset table:not([class]) td {
   padding: .34rem .5rem;
   vertical-align: top;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table tbody tr:hover {
+.md-typeset table:not([class]) tbody tr:hover {
   background: #4a4a43;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table code {
+.md-typeset table:not([class]) code {
   color: #fff2c4;
   background: rgba(0,0,0,.18);
 }
@@ -874,8 +858,7 @@ html, body {
     letter-spacing: .10em;
   }
 
-  .md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+  .md-typeset table:not([class]) {
     font-size: .76rem;
   }
 
@@ -902,24 +885,19 @@ html, body {
 
 
 /* Let prose-heavy TEC tables wrap instead of becoming screen-width monsters. */
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th,
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td {
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
   white-space: normal;
   overflow-wrap: anywhere;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td:first-child,
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th:first-child {
+.md-typeset table:not([class]) td:first-child,
+.md-typeset table:not([class]) th:first-child {
   overflow-wrap: normal;
 }
 
 @media screen and (min-width: 60em) {
-  .md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+  .md-typeset table:not([class]) {
     min-width: min(100%, 32rem);
   }
 }
@@ -1025,16 +1003,13 @@ html, body {
   font-size: .70rem;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+.md-typeset table:not([class]) {
   font-size: .66rem;
   line-height: 1.36;
 }
 
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table th,
-.md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table td {
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
   padding: .27rem .42rem;
 }
 
@@ -1044,8 +1019,7 @@ html, body {
     line-height: 1.56;
   }
 
-  .md-typeset table:not([class]),
-.md-typeset table.tec-skill-overview-table {
+  .md-typeset table:not([class]) {
     font-size: .69rem;
   }
 }
@@ -1902,3 +1876,80 @@ html, body {
 }
 
 /* Deployment retry: page history interface */
+
+
+/* Grouped trainer tables are assigned this class by tec-skill-pages.js.
+   Keep the same TEC table skin used by ordinary Markdown tables. */
+.md-typeset table.tec-skill-overview-table {
+  display: table;
+  width: auto;
+  min-width: min(100%, 32rem);
+  max-width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  background: var(--tec-table);
+  color: #f2f2f2;
+  border: 1px solid #2b2b2b;
+  box-shadow: none;
+  font-size: .66rem;
+  line-height: 1.36;
+}
+
+.md-typeset table.tec-skill-overview-table th {
+  background: var(--tec-table-head);
+  color: #242424;
+  border: 1px solid #777;
+  text-align: center;
+  font-weight: 700;
+  padding: .27rem .42rem;
+  vertical-align: middle;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.md-typeset table.tec-skill-overview-table td {
+  border: 1px solid #575757;
+  padding: .27rem .42rem;
+  vertical-align: top;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.md-typeset table.tec-skill-overview-table tbody tr:nth-child(even) {
+  background: var(--tec-table-alt);
+}
+
+.md-typeset table.tec-skill-overview-table tbody tr:hover {
+  background: #4a4a43;
+}
+
+.md-typeset table.tec-skill-overview-table td a {
+  color: #c9e3ff;
+  font-weight: 600;
+  text-decoration-color: rgba(201,227,255,.6);
+}
+
+.md-typeset table.tec-skill-overview-table td a:visited {
+  color: #d8c9ff;
+}
+
+.md-typeset table.tec-skill-overview-table td a:hover,
+.md-typeset table.tec-skill-overview-table td a:focus {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.md-typeset table.tec-skill-overview-table th a {
+  color: #244a6b;
+}
+
+.md-typeset table.tec-skill-overview-table td:first-child,
+.md-typeset table.tec-skill-overview-table th:first-child {
+  overflow-wrap: normal;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset table.tec-skill-overview-table {
+    font-size: .69rem;
+  }
+}
