@@ -1,0 +1,35 @@
+name: Clean migrated content
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "tools/cleanup_migrated_content.py"
+      - ".github/workflows/cleanup-content.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Clean migrated content
+        run: python tools/cleanup_migrated_content.py
+      - name: Commit cleanup
+        run: |
+          git config user.name "tec-wiki-cleanup"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs CONTENT_CLEANUP_REPORT.md
+          if git diff --cached --quiet; then
+            echo "No cleanup changes."
+          else
+            git commit -m "Clean migrated content and rebuild bio index"
+            git push
+          fi
