@@ -5,8 +5,6 @@ category: "Reference"
 
 # Parcines
 
-## Parcines
-
 Situated to the south of the Republic, this is a small but ferocious nation. Centuries ago, its people were driven from the plains where they dwelled and forced into the lower reaches of the Blackroot mountains by the armies of [bio:Quintus the Marauder](/bio_quintus-the-marauder/), one of the last kings of Iridine, and relations between  the two countries are cold to this day. Despite this their people mix freely, and mountain-born folk often travel to the warmer, more virile Republic to  get a fresh start. The Parcines are often considered to be very self-serving and covetous by others. They also tend to be quite good at making do with very little.
 
 

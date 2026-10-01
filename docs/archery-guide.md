@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Archery Guide
 
-## Archery Guide
-
 Below you'll find everything important to know about using Missile Bows.
 
 ### In a Nutshell

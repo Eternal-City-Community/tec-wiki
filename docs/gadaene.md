@@ -5,8 +5,6 @@ category: "Reference"
 
 # Gadaene
 
-## Gadaene
-
 Gadaene spends most of its time preparing for war. Its people are indifferent sailors and a rather raucous bunch of soldiers, being entirely too often undisciplined and unmanageable. On the other hand they have proven superbly imaginative, albeit individualistic, fighters and their natural instincts have often saved the day for them. Most other countries (with the exception of Sostaeran) take little notice of the Gadaenes. The Sostaerani, on the other hand, will gladly tell you that the only thing you can rely on a Gadaene for is to be unreliable. They will tell you their neighbors are lazy, frivolous and impulsive. None of these accusations will the Gadaene deny -- they merely call it living for the moment.
 
 The kingdom of Gadaene lies on the coast north of [Remath](/remath/) and the [Safelands](/safelands/). It is situated south of the more imposing kingdom of [Tuchea](/tuchea/). Lying largely unnoticed by the rest of the world, [Sostaera](/sostaera/) and Gadaene are two ferocious adversaries. Gadaene and Sostaeran are lands of marked contrasts and hidden similarities. Its people are often forced into uneasy cohabitation because of proximity, but they would rather fight than live and work side by side.

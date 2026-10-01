@@ -5,8 +5,6 @@ category: "Reference"
 
 # Sostaera
 
-## Sostaera
-
 The Sostaerani follow the same warlike path as the Gadaenes. Unlike Gadaenes though, they are very adequate sailors and disciplined soldiers. They pride themselves on the fact that their forces have never been completely routed. While the Gadene are imaginative and individualistic, the Sostas almost totally lack flexibility and adaptability. But just like their perennial enemy, mention of the country usually draws a blank with foreigners. Those who do take notice consider the Sostaerani much the same as the Gadaenes. At this the Gadaenes will never fail to point out that the Sostaerani are dour, serious, and have no sense of humor. The Sostaerani claim they are simply being practical and organized.
 
 

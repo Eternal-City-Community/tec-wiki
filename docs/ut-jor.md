@@ -5,7 +5,6 @@ category: "Reference"
 
 # Ut Jor
 
-## Ut-Jor
 The Ut-jor are a tribe of peoples who live in the Blackroot Mountains. 
 
 Being a rather uncivilized group of peoples, the Ut-Jor (much like the [Parcines](/parcines/) and other barbarian tribes) worship what they see around them, in nature. 

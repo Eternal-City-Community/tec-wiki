@@ -5,8 +5,6 @@ category: "Reference"
 
 # Windward
 
-## Windward
-
 Known to the natives and [Tucheans](/tuchea/) as "Selm", **the island was renamed Windward after the [Republic of Iridine](/republic-of-iridine/) assumed control of it**. The island’s mountainous west coast is famous for its rich copper mines, while the sloping east coast is green and fertile, if somewhat narrow. The inhabitants are resilient and stubborn, and many of the elders of the island were alive during the Second Aestivan War. Most of the younger folk have a tendency to leave Windward in search of wealth and glory on the mainland. Because of this, the population has been decreasing steadily for over three decades.
 
 

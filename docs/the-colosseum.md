@@ -5,8 +5,6 @@ category: "World & Maps"
 
 # The Colosseum
 
-## The Colosseum
-
 
 [![Illustrated image of Map of The Harbor of the Moons](/assets/wikidot/files/The_Arena_-_Final.jpg)](/assets/wikidot/files/The_Arena_-_Final.jpg)
 

@@ -5,8 +5,6 @@ category: "Reference"
 
 # Tuchea
 
-## Tuchea
-
 The furthest north of the "civilized" nations, Tuchea is half on a large island and half on the nearby mainland. Its people have a long tradition of sailing, mostly as either fishermen or pirates. Tuchea was defeated in an embarrassingly short war by the Republic about thirty years ago. Its soldiers are considered the worst of all warriors; a mercenary from Tuchea can't get hired if he's honest about where he comes from.
 
 The exact borders of Tuchea are not very well defined. Ask a Tuchean and he will say as far as the Safelands to the south, the Cantasir mountains to the east and the whole of Kingsheart Island. In practice the Kingdom controls little more than the western coast of the mainland, the eastern coast of the island and the banks of the river Amen. A societal trait of Tuchea is a dislike to being far from water for any extended period of time. For this reason, the heart of the kingdom is generally wild and uninhabited. Almost all major settlements are on the coast, with one along the Amen River.

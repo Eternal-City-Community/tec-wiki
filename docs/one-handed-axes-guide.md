@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # One Handed Axes Guide
 
-## One-Handed Axes Guide
-
 Below you'll find everything important to know about One-Handed Axes (1HA).
 
 ### In a Nutshell

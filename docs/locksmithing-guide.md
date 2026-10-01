@@ -5,8 +5,6 @@ category: "Crafting & Trade"
 
 # Locksmithing Guide
 
-## Locksmithing Guide
-
 Below you'll find everything important to know about [Locksmithing](/locksmithing/).
 
 ### In a Nutshell

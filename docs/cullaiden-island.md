@@ -5,8 +5,6 @@ category: "World & Maps"
 
 # Cullaiden Island
 
-## Cullaiden Island
-
 
 ### Map
 

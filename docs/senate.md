@@ -5,7 +5,6 @@ category: "Reference"
 
 # Senate
 
-## Senate
 The body of the senate numbers 300, divided into 30 groups of 10 called decaren. Every decaren is led by a senior member of the senate. A  person is eligible for membership in the senate at the age of 30. Any senator who 'stood too tall' over his peers was enough to get him settled quickly back down into an inconspicuous position, for fear of another monarchy,  demagoguery, or rabble-rousing.
  
 Membership in the senate is for life. To be considered for the senate, an individual must own property bringing in about 1 million silver pieces per year. This money can only be earned by profits from property holdings, and cannot be earned through commerce or trade.

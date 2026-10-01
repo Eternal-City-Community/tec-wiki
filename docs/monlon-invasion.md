@@ -5,8 +5,6 @@ category: "World & Maps"
 
 # Monlon Invasion
 
-## Monlon Invasion!
-
 The **[City of Monlon](/city-of-monlon/) is being invaded!**
 
 > A rumor is circulating around:

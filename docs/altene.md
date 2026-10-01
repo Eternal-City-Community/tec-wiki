@@ -5,8 +5,6 @@ category: "Reference"
 
 # Altene
 
-## Altene
-
 The northwestern corner of the island nation of Tuchea is actually a separate city-state. The Altenes are descended from mercenaries who, only a few centuries ago, lost their land to vengeful enemies and were forced to find new homes. They did so, and have thrived. Altene children are trained in the arts of combat and mass battle from the time they are old enough to walk. The tiny nation's only exports are its mercenaries, which are the finest in the world. Altene mercenaries can be found almost anywhere; they are not cheap but they never retreat unless ordered to. Altenes who aren't members of such groups sometimes wander for a few years, mostly to pick up new knowledge and weapon techniques before returning home.
 
 ### Geography

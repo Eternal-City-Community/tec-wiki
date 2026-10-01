@@ -5,8 +5,6 @@ category: "Reference"
 
 # Praetor Scripts
 
-## Praetor Scripts
-
 
 ### What a mode is
 

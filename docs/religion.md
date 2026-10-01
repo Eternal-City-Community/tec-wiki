@@ -5,7 +5,6 @@ category: "Lore & Community"
 
 # Religion
 
-## Religion
 The [Cult of Ereal](/cult-of-ereal/) (aka The Cult) is the official state religion of Iridine. The [Cult of Ereal](/cult-of-ereal/) insists that **there is only one God** gracing the entirety of Midlight: **Ereal**. However, there have been **distant rumors stating otherwise**, though saying such things publicly would **incur the wrath of the [Cult of Ereal](/cult-of-ereal/)** as blasphemy, and it is advised against.
 
 

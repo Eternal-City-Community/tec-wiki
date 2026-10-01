@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Hoplite Combat Guide
 
-## Hoplite Combat Guide
-
 Below you'll find everything important to know about Hoplite Combat.
 
 ### In a Nutshell

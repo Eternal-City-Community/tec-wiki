@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Herbalism Guide
 
-## Herbalism Guide
-
 Below you'll find everything important to know about [Herbalism](/herbalism/).
 
 ### In a Nutshell

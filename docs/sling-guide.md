@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Sling Guide
 
-## Sling Guide
-
 Below you'll find everything important to know about using Slings.
 
 ### In a Nutshell

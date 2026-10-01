@@ -5,8 +5,6 @@ category: "Reference"
 
 # Kelestia
 
-## Kelestia
-
 ### Geography
 TBC
 

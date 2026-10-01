@@ -5,7 +5,6 @@ category: "Skills & Combat"
 
 # Brawling Guide
 
-## Brawling Guide
 Below you'll find everything important to know about using [Brawling](/brawling/).
 
 ### In a Nutshell

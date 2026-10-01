@@ -5,7 +5,6 @@ category: "Reference"
 
 # Wealth
 
-## Wealth
 Currencies are a necessity for life in Iridine. Weapons, clothing, armor, training. All of these require payment. 
 
 While there are numerous forms of currency throughout Midlight, **the most common** type you will encounter is **[Iridinian](/republic-of-iridine/) currency**.

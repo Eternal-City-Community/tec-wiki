@@ -5,8 +5,6 @@ category: "Reference"
 
 # Cinera
 
-## Cinera
-
 Directly north of the Republic it shares a border from [Franlius](/town-of-franlius/) to [Astraea](/astraea/) along the north fork of the Invex river. It is a hotbed of intrigue and divided loyalties as ambitious warlords rise and fall. Cinera is a nation that thrives in the atmosphere of constant conflict and warfare. Life there is hard and rough, as death always lurks around the next corner. The warrior class is praised for its might, a status they protect jealously. There are extreme divisions between warriors and commoners, who are considered little more then slaves. The few citizens that relocate outside of Cinera are usually fleeing from some intrigue or dishonor that would cost them their lives.
 
 

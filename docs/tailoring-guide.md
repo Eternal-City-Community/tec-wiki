@@ -5,7 +5,6 @@ category: "Crafting & Trade"
 
 # Tailoring Guide
 
-## Tailoring Guide
 Below you'll find everything important to know about [Tailoring](/tailoring/).
 
 *Much of this page is created from or inspired by [Rehnn's Needle Wielders Anonymous](/tec-related-sites/#NWA) site.*

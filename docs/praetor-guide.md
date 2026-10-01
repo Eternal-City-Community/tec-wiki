@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Praetor Guide
 
-## Praetor Guide
-
 
 This page covers using the desktop app once it's installed. For installing it, and for a quick reference of every shortcut and slash command, see [Praetor](/praetor/).
 

@@ -5,8 +5,6 @@ category: "Reference"
 
 # Praetor
 
-## Praetor
-
 Praetor is a free, open-source desktop client for The Eternal City. It runs on Windows, macOS, and Linux.
 
 ![](/assets/wikidot/praetor/praetor-action-screen.png)

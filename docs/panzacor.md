@@ -5,8 +5,6 @@ category: "Reference"
 
 # Panzacor
 
-## Panzacor
-
 *Preferred vacation spot of Credinus.*
 
 

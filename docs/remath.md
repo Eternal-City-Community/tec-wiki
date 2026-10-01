@@ -5,7 +5,6 @@ category: "Reference"
 
 # Remath
 
-## Remath
 A small northern kingdom, its main accesses are a Cineran controlled highway from the south and a Iridine controlled trading port to the north. Over the past few decades, the rulers of Remath have witnessed Cinera's growing power as five equally small states have been annexed by their ambitious neighbor.  The Remathen work ceaselessly to avoid such a fate at the hands of the Cineran warlords and therefore cultivate strong ties with the Republic of Iridine to maintain a balance of power. The resourcefulness of the Remathen and their capacity of adapting quickly to any changes in current affairs, have helped them in assuring a balance in the influence of [Iridine](/iridine/) and [Cinera](/cinera/) while maintaining their own independence.
 
 ### Geography

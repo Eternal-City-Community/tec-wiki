@@ -8,7 +8,6 @@ category: "Skills & Combat"
 The Eternal-City offers a complex combat system. This guide will attempt to offer both basic and advanced knowledge of the mechanics surrounding the combat system as a whole.
 
 ---
-## Combat Overview
 Getting involved in combat is as easy as walking up to a rat and trying to pet it. Determining if you hit or dodge your opponent involves many different factors, all of which are explained below. 
 
 Of course, there's a bit more to it than that. If you're **new to combat** in The Eternal City, you may want to start with **[Combat Guide](/newbie-combat-guide/)**. 

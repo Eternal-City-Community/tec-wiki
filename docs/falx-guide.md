@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Falx Guide
 
-## Falx Guide
-
 ### Weapon Speeds
 
 | Move | Tin | Bronze | Iron | Alanti | Retalq | Boison |

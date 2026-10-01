@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Tanning Guide
 
-## Tanning Guide
-
 Below you'll find everything important to know about [Tanning](/tanning/).
 
 ### In a Nutshell

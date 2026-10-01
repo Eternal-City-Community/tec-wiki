@@ -5,8 +5,6 @@ category: "Guides & Commands"
 
 # Knives Guide
 
-## Knives Guide
-
 Below you'll find everything important to know about the [Knives](/knives/) skill set.
 
 ### In a Nutshell

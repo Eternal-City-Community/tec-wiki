@@ -5,8 +5,6 @@ category: "Skills & Combat"
 
 # Pankration Guide
 
-## Pankration Guide
-
 Below you'll find everything important to know about using [Pankration](/pankration/).
 
 ### In a Nutshell
