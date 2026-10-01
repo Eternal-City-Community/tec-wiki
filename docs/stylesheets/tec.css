@@ -1366,7 +1366,14 @@ html, body {
 .tec-rb-five-row { background-image:url("/assets/wikidot/rank-bonus-calculator/five-row.png"); }
 .tec-rb-three-row { background-image:url("/assets/wikidot/rank-bonus-calculator/three-row.png"); }
 .tec-rb-one-row { background-image:url("/assets/wikidot/rank-bonus-calculator/one-row.png"); }
-.tec-rb-dec { font-size:10px; font-weight:700; line-height:1; padding:0!important; }
+.tec-rb-dec { position:relative; padding:0!important; font-family:verdana, arial, helvetica, sans-serif; font-weight:700; line-height:1; color:#2f2f24; }
+.tec-rb-dec::before, .tec-rb-dec::after { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; white-space:pre; }
+.tec-rb-dec-none::before { content:".0"; font-size:15px; color:#79796a; }
+.tec-rb-dec-none::after { content:"\2573"; font-size:12px; }
+.tec-rb-dec-one::after { content:".0"; font-size:15px; }
+.tec-rb-dec-two::after { content:".00"; font-size:12px; }
+.tec-rb-dec-three::after { content:".000"; font-size:9px; }
+.tec-rb-dec-infin::after { content:".000\A  000\A  000"; font-size:8px; line-height:1; text-align:left; }
 .tec-rb-body { display:grid; grid-template-columns:150px minmax(0,1fr); gap:18px; align-items:center; padding:16px 18px; }
 .tec-rb-inputs { display:grid; gap:10px; }
 .tec-rb-inputs input, .tec-rb-copy-inputs input { width:100%; box-sizing:border-box; font-size:13px; padding:6px 8px; border:1px solid #444; border-radius:4px; background:#fffdf5; color:#322e1e; }
@@ -1374,8 +1381,9 @@ html, body {
 .md-typeset table.tec-rb-results th, .md-typeset table.tec-rb-results td { border:0!important; background:transparent!important; padding:0!important; color:#322e1e!important; font-size:.65rem; text-align:center; }
 .md-typeset table.tec-rb-results tbody th { text-align:right; padding-right:3px!important; font-weight:400; }
 .tec-rb-results input { width:100%; min-width:0; box-sizing:border-box; border:0; border-radius:4px; background:#fff; padding:4px 5px; text-align:center; color:#322e1e; font-size:.7rem; }
-.tec-rb-add { display:block; width:40px; height:40px; margin:18px auto 0; border:2px solid #4b4a39; border-radius:50%; background:#dfd5a9; color:#333; font-size:28px; line-height:32px; cursor:pointer; }
-.tec-rb-add:hover { background:#d1c27f; }
+.tec-rb-add { display:block; width:40%; height:50px; margin:20px auto 0; padding:0; border:1px solid transparent; border-radius:25px; background:url("/assets/wikidot/rank-bonus-calculator/plus.png") no-repeat center / 40px; cursor:pointer; transition:background-color .25s, transform .15s, border-color .25s; }
+.tec-rb-add:hover { background-color:#dcc475; border-color:#6e6e5e; transform:scale(1.02); }
+.tec-rb-add:active { transform:scale(.97); }
 .tec-rb-copy { display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-top:12px; padding:12px; border:1px solid #8d876d; border-radius:8px; background:rgba(226,219,186,.7); }
 .tec-rb-copy-inputs { display:grid; gap:8px; }
 .tec-rb-copy-value { align-self:center; font-size:.72rem; }
@@ -2016,10 +2024,21 @@ html, body {
 /* Multiple RB calculators created by the classic-style + control. */
 .tec-rb-stack {
   display: grid;
-  gap: 14px;
 }
 .tec-rb-calculator-card {
   margin: 0;
+  animation: tec-rb-fade-in .3s ease-in-out;
+}
+.tec-rb-calculator-card + .tec-rb-calculator-card {
+  border-top: 1px solid #8d876d;
+}
+@keyframes tec-rb-fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tec-rb-calculator-card { animation: none; }
+  .tec-rb-add, .tec-rb-add:hover, .tec-rb-add:active { transition: none; transform: none; }
 }
 
 

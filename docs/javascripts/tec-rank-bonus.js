@@ -6,6 +6,63 @@ function initTecTool() {
   var tierEnds = [0, 10, 30, 50, 100, 150, 200, 500, 1000];
   var tierMods = [3, 2, 1, 0.5, 0.25, 0.125, 0.0675, 0.025, 0.01];
 
+  // ---- Saved settings (same cookie names/values as the old calculator) ----
+  var modeCookie = { offense: "sword", defense: "shield", noncombat: "tree" };
+  var rowCookie = { "5": "five", "3": "three", "1": "one" };
+  var colCookie = { "5": "five", "3": "three" };
+  var decCookie = { "0": "none", "1": "one", "2": "two", "3": "three", "8": "infin" };
+
+  function setCookie(name, value) {
+    try {
+      var d = new Date();
+      d.setTime(d.getTime() + 999 * 24 * 60 * 60 * 1000);
+      document.cookie = name + "=" + value + ";expires=" + d.toUTCString() + ";path=/;SameSite=Lax";
+    } catch (e) {}
+  }
+
+  function getCookie(name) {
+    try {
+      var prefix = name + "=";
+      var parts = document.cookie.split(";");
+      for (var i = 0; i < parts.length; i++) {
+        var c = parts[i].trim();
+        if (c.indexOf(prefix) === 0) return c.substring(prefix.length);
+      }
+    } catch (e) {}
+    return "";
+  }
+
+  function loadSetting(map, cookieName, fallback) {
+    var saved = getCookie(cookieName);
+    for (var key in map) {
+      if (map[key] === saved) return key;
+    }
+    return fallback;
+  }
+
+  // One set of settings shared by every calculator on the page,
+  // like the single toolbar in the old version.
+  var settings = {
+    mode: loadSetting(modeCookie, "rbTypeButton", "offense"),
+    rows: Number(loadSetting(rowCookie, "rbRowButton", "5")),
+    cols: Number(loadSetting(colCookie, "rbColButton", "5")),
+    decimals: Number(loadSetting(decCookie, "rbDecButton", "8"))
+  };
+
+  function saveSettings() {
+    setCookie("rbTypeButton", modeCookie[settings.mode]);
+    setCookie("rbRowButton", rowCookie[settings.rows]);
+    setCookie("rbColButton", colCookie[settings.cols]);
+    setCookie("rbDecButton", decCookie[settings.decimals]);
+  }
+
+  function renderAll() {
+    renderToolbar();
+    root.querySelectorAll(".tec-rb-calculator-card").forEach(function (c) {
+      c.tecRender();
+    });
+  }
+
   function tierBonus(rank) {
     rank = Math.max(0, Number(rank) || 0);
     var bonus = 0;
@@ -19,23 +76,31 @@ function initTecTool() {
       if (rank <= end) break;
     }
 
-    return bonus;
+    // All tier values are exact to 8 decimal places; rounding here removes
+    // float noise (e.g. 29.999999999999996) so Math.floor() behaves correctly.
+    return Math.round(bonus * 1e8) / 1e8;
   }
 
   function formatNumber(n, decimals) {
-    if (!isFinite(n)) return "";
+    if (n == null || !isFinite(n)) return "";
+
+    // Work in whole units of 1e-8 so truncation is exact (matches the old
+    // Decimal.js behavior), then truncate down to the requested places.
+    var units = Math.round(n * 1e8);
 
     if (decimals >= 8) {
-      return String(Math.floor(n * 1e8) / 1e8).replace(/\.0+$/, "");
+      return String(units / 1e8);
     }
 
-    var p = Math.pow(10, decimals);
-    return String(Math.floor(n * p) / p);
+    var step = Math.pow(10, 8 - decimals);
+    return String((units - (units % step)) / step / Math.pow(10, decimals));
   }
 
   function stanceRows(mode, rowCount) {
+    // Non-combat has a single unlabeled row; the old calculator hid the
+    // stance label column entirely in this mode.
     if (mode === "noncombat") {
-      return [{ label: "", mod: 1 }];
+      return [{ label: null, mod: 1 }];
     }
 
     var rows = [
@@ -51,107 +116,89 @@ function initTecTool() {
       };
     });
 
+    // Old calculator listed defense rows top-to-bottom as Def, Wary, Norm, Aggr, Bers
+    if (mode === "defense") rows.reverse();
+
     if (rowCount === 1) return [rows[2]];
-    if (rowCount === 3) return [rows[0], rows[2], rows[4]];
+    if (rowCount === 3) return [rows[1], rows[2], rows[3]];
     return rows;
   }
 
-  function makeCard(state) {
-    state = state || {};
+  function calculate(basicsRaw, subRaw, difficultyModifier, stanceModifier, basicOnly) {
+    var basicsRank = Number(basicsRaw) || 0;
+    var subRank = Number(subRaw) || 0;
 
-    var card = document.createElement("div");
-    card.className = "tec-rb-shell tec-rb-calculator-card";
-    card.dataset.mode = state.mode || "offense";
-    card.dataset.rows = String(state.rows || 5);
-    card.dataset.cols = String(state.cols || 5);
-    card.dataset.decimals = String(state.decimals == null ? 8 : state.decimals);
+    if (basicOnly) {
+      // Old behavior: Basic column is blank when Basics rank is empty or < 1.
+      if (basicsRaw === "" || basicsRank < 1) return null;
 
-    card.innerHTML =
-      '<div class="tec-rb-toolbar">' +
-        '<strong class="tec-rb-title">Offensive Rank Bonus</strong>' +
-        '<div class="tec-rb-tools">' +
-          '<button type="button" class="tec-rb-mode tec-rb-icon tec-rb-sword" title="Switch rank bonus type" aria-label="Switch rank bonus type"></button>' +
-          '<button type="button" class="tec-rb-cols tec-rb-icon tec-rb-five-col" title="Toggle columns" aria-label="Toggle columns"></button>' +
-          '<button type="button" class="tec-rb-rows tec-rb-icon tec-rb-five-row" title="Toggle stance rows" aria-label="Toggle stance rows"></button>' +
-          '<button type="button" class="tec-rb-dec" title="Change decimal precision">.000…</button>' +
-        '</div>' +
-      '</div>' +
-      '<div class="tec-rb-body">' +
-        '<div class="tec-rb-inputs">' +
-          '<input class="tec-rb-basics" type="number" min="0" inputmode="numeric" value="' + (state.basics == null ? "" : state.basics) + '" placeholder="Basics rank..." aria-label="Basics rank">' +
-          '<input class="tec-rb-sub" type="number" min="0" inputmode="numeric" value="' + (state.sub == null ? "" : state.sub) + '" placeholder="Subskill rank..." aria-label="Subskill rank">' +
-        '</div>' +
-        '<div class="tec-rb-results-wrap">' +
-          '<table class="tec-rb-results"><thead></thead><tbody></tbody></table>' +
-        '</div>' +
-      '</div>';
-
-    function getMode() {
-      return card.dataset.mode || "offense";
+      // Matches the old Wikidot Basic column: the entered Basics rank is
+      // treated as the rank whose raw RB is being displayed.
+      return tierBonus(basicsRank) * stanceModifier;
     }
 
-    function getRows() {
-      return Number(card.dataset.rows) || 5;
-    }
+    // Old behavior: Easy/Avg./Diff./Impos. are blank when Subskill rank is empty.
+    if (subRaw === "") return null;
 
-    function getCols() {
-      return Number(card.dataset.cols) || 5;
-    }
+    // Preserve the old Wikidot formula exactly:
+    // floor(Basics RB) * difficulty modifier + Subskill RB, then apply stance.
+    return (
+      (Math.floor(tierBonus(basicsRank)) * difficultyModifier + tierBonus(subRank)) *
+      stanceModifier
+    );
+  }
 
-    function getDecimals() {
-      var n = Number(card.dataset.decimals);
-      return isNaN(n) ? 8 : n;
-    }
+  // The toolbar is rendered once above all calculators, like the old version.
+  function renderToolbar() {
+    var mode = settings.mode;
+    var rowCount = settings.rows;
+    var colCount = settings.cols;
+    var decimals = settings.decimals;
 
-    function calculate(basicsRank, subRank, difficultyModifier, stanceModifier, basicOnly) {
-      if (basicOnly) {
-        // Matches the old Wikidot Basic column: the entered Basics rank is
-        // treated as the rank whose raw RB is being displayed.
-        return tierBonus(basicsRank) * stanceModifier;
-      }
-
-      // Preserve the old Wikidot formula exactly:
-      // floor(Basics RB) * difficulty modifier + Subskill RB,
-      // then apply stance, then apply the RB +/- modifier.
-      return (
-        (Math.floor(tierBonus(basicsRank)) * difficultyModifier + tierBonus(subRank)) *
-        stanceModifier
-      );
-    }
-
-    function render() {
-      var mode = getMode();
-      var rowCount = getRows();
-      var colCount = getCols();
-      var decimals = getDecimals();
-
-      var basicsInput = card.querySelector(".tec-rb-basics");
-      var subInput = card.querySelector(".tec-rb-sub");
-      var basics = Number(basicsInput.value) || 0;
-      var sub = Number(subInput.value) || 0;
-
-      var title = mode === "offense"
+    root.querySelector(".tec-rb-title").textContent =
+      mode === "offense"
         ? "Offensive Rank Bonus"
         : mode === "defense"
           ? "Defensive Rank Bonus"
           : "Non-Combat Rank Bonus";
-      card.querySelector(".tec-rb-title").textContent = title;
 
-      var modeBtn = card.querySelector(".tec-rb-mode");
-      modeBtn.className = "tec-rb-mode tec-rb-icon " +
-        (mode === "offense" ? "tec-rb-sword" : mode === "defense" ? "tec-rb-shield" : "tec-rb-tree");
+    root.querySelector(".tec-rb-mode").className = "tec-rb-mode tec-rb-icon " +
+      (mode === "offense" ? "tec-rb-sword" : mode === "defense" ? "tec-rb-shield" : "tec-rb-tree");
 
-      var rowBtn = card.querySelector(".tec-rb-rows");
-      rowBtn.className = "tec-rb-rows tec-rb-icon " +
-        (rowCount === 5 ? "tec-rb-five-row" : rowCount === 3 ? "tec-rb-three-row" : "tec-rb-one-row");
-      rowBtn.disabled = mode === "noncombat";
+    var rowBtn = root.querySelector(".tec-rb-rows");
+    rowBtn.className = "tec-rb-rows tec-rb-icon " +
+      (rowCount === 5 ? "tec-rb-five-row" : rowCount === 3 ? "tec-rb-three-row" : "tec-rb-one-row");
+    rowBtn.disabled = mode === "noncombat";
 
-      var colBtn = card.querySelector(".tec-rb-cols");
-      colBtn.className = "tec-rb-cols tec-rb-icon " +
-        (colCount === 5 ? "tec-rb-five-col" : "tec-rb-three-col");
+    root.querySelector(".tec-rb-cols").className = "tec-rb-cols tec-rb-icon " +
+      (colCount === 5 ? "tec-rb-five-col" : "tec-rb-three-col");
 
-      card.querySelector(".tec-rb-dec").textContent =
-        decimals === 0 ? ".0×" : decimals >= 8 ? ".000…" : "." + "0".repeat(decimals);
+    // The decimal icon is drawn in CSS from the class, as in the old version.
+    var decBtn = root.querySelector(".tec-rb-dec");
+    var decLabel = "Decimal places: " +
+      (decimals === 0 ? "none" : decimals >= 8 ? "all" : decimals);
+    decBtn.className = "tec-rb-dec tec-rb-dec-" + decCookie[decimals];
+    decBtn.title = decLabel;
+    decBtn.setAttribute("aria-label", decLabel);
+  }
+
+  function makeCard() {
+    var card = document.createElement("div");
+    card.className = "tec-rb-body tec-rb-calculator-card";
+
+    card.innerHTML =
+      '<div class="tec-rb-inputs">' +
+        '<input class="tec-rb-basics" type="number" min="0" inputmode="numeric" autocomplete="off" placeholder="Basics rank..." aria-label="Basics rank">' +
+        '<input class="tec-rb-sub" type="number" min="0" inputmode="numeric" autocomplete="off" placeholder="Subskill rank..." aria-label="Subskill rank">' +
+      '</div>' +
+      '<div class="tec-rb-results-wrap">' +
+        '<table class="tec-rb-results"><thead></thead><tbody></tbody></table>' +
+      '</div>';
+
+    function render() {
+      var decimals = settings.decimals;
+      var basicsRaw = card.querySelector(".tec-rb-basics").value;
+      var subRaw = card.querySelector(".tec-rb-sub").value;
 
       var defs = [
         { label: "Basic", modifier: 1, basicOnly: true },
@@ -161,26 +208,26 @@ function initTecTool() {
         { label: "Impos.", modifier: 0.1, basicOnly: false }
       ];
 
-      if (colCount === 3) {
+      if (settings.cols === 3) {
         defs = defs.slice(1, 4);
       }
 
-      var thead = card.querySelector("thead");
-      var tbody = card.querySelector("tbody");
+      var rows = stanceRows(settings.mode, settings.rows);
+      var hasLabels = rows[0].label !== null;
 
-      thead.innerHTML =
-        "<tr><th></th>" +
+      card.querySelector("thead").innerHTML =
+        "<tr>" + (hasLabels ? "<th></th>" : "") +
         defs.map(function (def) {
           return "<th>" + def.label + "</th>";
         }).join("") +
         "</tr>";
 
-      tbody.innerHTML = stanceRows(mode, rowCount).map(function (row) {
-        return "<tr><th>" + row.label + "</th>" +
+      card.querySelector("tbody").innerHTML = rows.map(function (row) {
+        return "<tr>" + (hasLabels ? "<th>" + row.label + "</th>" : "") +
           defs.map(function (def) {
             var value = calculate(
-              basics,
-              sub,
+              basicsRaw,
+              subRaw,
               def.modifier,
               row.mod,
               def.basicOnly
@@ -199,74 +246,72 @@ function initTecTool() {
       input.addEventListener("change", render);
     });
 
-    card.querySelector(".tec-rb-mode").addEventListener("click", function () {
-      var mode = getMode();
-      card.dataset.mode =
-        mode === "offense" ? "defense" :
-        mode === "defense" ? "noncombat" :
-        "offense";
-      render();
-    });
-
-    card.querySelector(".tec-rb-cols").addEventListener("click", function () {
-      card.dataset.cols = getCols() === 5 ? "3" : "5";
-      render();
-    });
-
-    card.querySelector(".tec-rb-rows").addEventListener("click", function () {
-      if (getMode() === "noncombat") return;
-      var rows = getRows();
-      card.dataset.rows = rows === 5 ? "3" : rows === 3 ? "1" : "5";
-      render();
-    });
-
-    card.querySelector(".tec-rb-dec").addEventListener("click", function () {
-      var decimals = getDecimals();
-      card.dataset.decimals =
-        decimals === 8 ? "0" :
-        decimals === 0 ? "1" :
-        decimals === 1 ? "2" :
-        decimals === 2 ? "3" :
-        "8";
-      render();
-    });
-
-    card.getCalculatorState = function () {
-      return {
-        mode: getMode(),
-        rows: getRows(),
-        cols: getCols(),
-        decimals: getDecimals(),
-        basics: card.querySelector(".tec-rb-basics").value,
-        sub: card.querySelector(".tec-rb-sub").value
-      };
-    };
+    card.tecRender = render;
 
     render();
     return card;
   }
 
   root.innerHTML =
-    '<div class="tec-rb-stack"></div>' +
-    '<button type="button" class="tec-rb-add" title="Copy first calculator" aria-label="Copy first calculator">+</button>';
+    '<div class="tec-rb-shell">' +
+      '<div class="tec-rb-toolbar">' +
+        '<strong class="tec-rb-title">Offensive Rank Bonus</strong>' +
+        '<div class="tec-rb-tools">' +
+          '<button type="button" class="tec-rb-mode tec-rb-icon tec-rb-sword" title="Switch rank bonus type" aria-label="Switch rank bonus type"></button>' +
+          '<button type="button" class="tec-rb-cols tec-rb-icon tec-rb-five-col" title="Toggle columns" aria-label="Toggle columns"></button>' +
+          '<button type="button" class="tec-rb-rows tec-rb-icon tec-rb-five-row" title="Toggle stance rows" aria-label="Toggle stance rows"></button>' +
+          '<button type="button" class="tec-rb-dec tec-rb-dec-infin" title="Decimal places: all" aria-label="Decimal places: all"></button>' +
+        '</div>' +
+      '</div>' +
+      '<div class="tec-rb-stack"></div>' +
+    '</div>' +
+    '<button type="button" class="tec-rb-add" title="Add another calculator" aria-label="Add another calculator"></button>';
 
   var stack = root.querySelector(".tec-rb-stack");
-  stack.appendChild(makeCard({
-    mode: "offense",
-    rows: 5,
-    cols: 5,
-    decimals: 8,
-    basics: "",
-    sub: ""
-  }));
+
+  // The toolbar buttons change the shared settings, then re-render every
+  // calculator so they all stay in sync (as in the old version).
+  root.querySelector(".tec-rb-mode").addEventListener("click", function () {
+    settings.mode =
+      settings.mode === "offense" ? "defense" :
+      settings.mode === "defense" ? "noncombat" :
+      "offense";
+    saveSettings();
+    renderAll();
+  });
+
+  root.querySelector(".tec-rb-cols").addEventListener("click", function () {
+    settings.cols = settings.cols === 5 ? 3 : 5;
+    saveSettings();
+    renderAll();
+  });
+
+  root.querySelector(".tec-rb-rows").addEventListener("click", function () {
+    if (settings.mode === "noncombat") return;
+    settings.rows = settings.rows === 5 ? 3 : settings.rows === 3 ? 1 : 5;
+    saveSettings();
+    renderAll();
+  });
+
+  root.querySelector(".tec-rb-dec").addEventListener("click", function () {
+    var decimals = settings.decimals;
+    settings.decimals =
+      decimals === 8 ? 0 :
+      decimals === 0 ? 1 :
+      decimals === 1 ? 2 :
+      decimals === 2 ? 3 :
+      8;
+    saveSettings();
+    renderAll();
+  });
+
+  renderToolbar();
+  stack.appendChild(makeCard());
 
   root.querySelector(".tec-rb-add").addEventListener("click", function () {
-    var first = stack.querySelector(".tec-rb-calculator-card");
-    if (!first || typeof first.getCalculatorState !== "function") return;
-
-    // Restore the old behavior: "+" creates another full calculator,
-    // initialized as an exact copy of the first one.
-    stack.appendChild(makeCard(first.getCalculatorState()));
+    // Old behavior: "+" adds another calculator with empty rank inputs
+    // below the existing ones, sharing the single toolbar.
+    stack.appendChild(makeCard());
   });
 }
 
