@@ -324,6 +324,26 @@ User-reported issues and fixes on 2026-10-01:
 - Added matching CSS in `docs/stylesheets/tec.css`.
 - Commit: `a75b09986faadb12ec09dbca9475f8d0a1fd3d8a`
 
+
+
+### Obsolete map legend migration-note cleanup
+
+- User identified old Wikidot map-template instructions containing `display_legend` that had survived migration and were rendering as ordinary text on some pages.
+- Repository search found **47 affected Markdown pages**.
+- Removed the obsolete instruction block from all affected pages, including both properly formed HTML comments and malformed migrated `[!-- ... --]` variants.
+- Verified representative pages such as `docs/storm-drain-system.md`, `docs/franlius.md`, and `docs/harbor-of-the-moons.md` no longer contain the block in source.
+- Cleanup commits:
+  - `f7f2911c0fab525124df983db0b871816dbd1f28`
+  - `e9ff076406baf736337a9fa3cca26d0c4e190860`
+  - `58bedf876fd2b8439e06fc1b62405e3a2445032b`
+  - `14bbcdef9136c1509cf6d243a492aa76a303c6a5`
+  - `c917e30a0bf0a5b5b81e7bbfeae9688199cc30ff`
+  - `828114a81db9ebe5ef3b41523d0318c5f19c7334`
+  - `8518042deee717e8e322b09abe4c34fb724c2f62`
+  - `b0199a85dfee0c1c0cbc84d276b7ce9ae2a118ff`
+  - `90de8c65988c823c0d336dd7f855658ef78f0549`
+  - `f421a74d7211a410ccd4a9d2479e5c0d2b6b436c`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
