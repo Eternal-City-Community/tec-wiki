@@ -23,6 +23,9 @@ collections:
     create: true
     extension: md
     format: frontmatter
+    identifier_field: title
+    summary: "{{title}}"
+    sortable_fields: ["title"]
     slug: "{{slug}}"
     editor:
       preview: true
