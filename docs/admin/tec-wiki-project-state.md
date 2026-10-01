@@ -189,6 +189,19 @@ Confirmed from user testing / GM clarification:
 - Outdoor Survival fix commit: `c76dc3a73ebbe51381f0e440bfa0399e3b4ae78b`
 - The Pickpocketing source still has no surviving detailed sections for Silent Slip or Silent Draw; do not invent those mechanics.
 
+
+
+### Outdoor Survival tail rebuilt as plain Markdown
+
+- User reported that live rendering still stopped after **Forester Conceal**, even though the repository contained Survival Weaving, Whittling, and lore sections.
+- The break point aligned with the remaining legacy raw-HTML tail of the page.
+- Rebuilt everything from **Survival Weaving onward** as plain MkDocs Markdown:
+  - converted legacy `<a id=...>` anchors to heading attr-list IDs
+  - converted `.skill-template` raw HTML blocks to fenced text blocks
+  - converted collapsible `<details markdown="1">` rank sections to normal visible Markdown sections/tables
+  - preserved all existing descriptions, tables, command examples, and lore content
+- Commit: `545561bd29b299af238f10700d1643e710cd94bf`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
