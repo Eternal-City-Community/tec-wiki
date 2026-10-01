@@ -2390,3 +2390,35 @@ html, body {
   color: #7e1010 !important;
   background: rgba(165,31,31,.08);
 }
+
+
+/* Large illustrative artwork should not be mistaken for a full-width map. */
+.md-typeset a.tec-feature-image-link {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin: .55rem auto 1rem;
+}
+
+.md-typeset img.tec-feature-image {
+  display: block;
+  width: auto;
+  max-width: min(100%, 900px);
+  max-height: 68vh;
+  height: auto;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset a.tec-feature-image-link {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .md-typeset img.tec-feature-image {
+    width: 100%;
+    max-width: 100%;
+    max-height: none;
+  }
+}
