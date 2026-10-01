@@ -80,6 +80,18 @@ for p in DOCS.glob("*.md"):
         return "](/" + m.group(1).strip("/") + "/" + m.group(2) + ")"
     text = wikidot.sub(oldsite, text)
 
+    # Also rewrite bare same-site Wikidot URLs found inside HTML or legacy text
+    # when the referenced page exists in the migrated corpus.
+    bare_wikidot = re.compile(r"https?://eternal-city\\.wikidot\\.com/([A-Za-z0-9:_-]+)(#[A-Za-z0-9_.:-]+)?", re.I)
+    def bare_local(m):
+        target = m.group(1).replace(":", "_").lower()
+        target = ALIASES.get(target, target)
+        if target in existing:
+            stats["wikidot_links"] += 1
+            return "/" + target + "/" + (m.group(2) or "")
+        return m.group(0)
+    text = bare_wikidot.sub(bare_local, text)
+
     def alias(m):
         target = m.group(1)
         suffix = m.group(2)
