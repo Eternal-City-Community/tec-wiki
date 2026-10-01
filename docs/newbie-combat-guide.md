@@ -119,7 +119,7 @@ Gear won't make or break your experience, so unless you're in the upper echelon 
 The initial 250+ SP are easy to get, and take only approximately 2-4 fatigue bars to earn, if you're doing it efficiently. You want to take advantage of mechanics that give you "bonuses" during this period. After this, you will hit 0.025 SP per attack, which are called "Minimum Gains," at which time bonuses no longer apply. The more a particular move is repeated, the closer it gets to 0.025 per hit.
 
 During the first 250+ SP of your cycle, try to:
-- Rotate at least 5 attacks as you train. 5 attacks is the minimum for avoiding a repeat attack penalty. Check your weapon's wikidot page to find 5 attacks that would be easy to rotate. ( http://eternal-city.wikidot.com/combat-skills .) For your first 5 moves, avoid things like parting jab, or stance changing maneuvers, which are annoying to deal with during simple training.
+- Rotate at least 5 attacks as you train. 5 attacks is the minimum for avoiding a repeat attack penalty. Check your weapon's wikidot page to find 5 attacks that would be easy to rotate. ( /combat-skills/ .) For your first 5 moves, avoid things like parting jab, or stance changing maneuvers, which are annoying to deal with during simple training.
 - Your first skill slot seems to earn SP better.
 - Humanoid opponents give you a bonus.
 - More difficult opponents give more SP.

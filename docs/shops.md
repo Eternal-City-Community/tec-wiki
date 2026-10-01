@@ -126,7 +126,7 @@ function addShopTableRow(tbl, locObj, shopObj, itemObj) {
       a = document.createElement("a");
       a.appendChild(document.createTextNode(locObj[1]));
       a.title = "Map of " + locObj[1];
-      a.href = "https://eternal-city.wikidot.com/" + locObj[2];
+      a.href = "/" + locObj[2] + "/";
       a.target = "_blank";
       td4.appendChild(a);
     }
