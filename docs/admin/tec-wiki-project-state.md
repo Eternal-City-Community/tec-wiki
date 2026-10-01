@@ -356,6 +356,17 @@ User-reported issues and fixes on 2026-10-01:
 - Page commit: `c39f147ad41abbd4bd5d2a26d6dc1c6c148053e4`
 - CSS commit: `175d89cdb3a2797211066961648c879c9b5746be`
 
+
+
+### Top navigation overlap fix
+
+- User reported the TEC top navigation overlapping page content at certain desktop/mobile breakpoints and scroll positions.
+- Root cause: `.tec-topnav` was independently sticky with hard-coded `top: 80px` on desktop and `top: 48px` below the responsive breakpoint, while Material's header changes size/position across those states.
+- Removed sticky positioning and breakpoint-specific top offsets from the TEC top nav.
+- The shortcut bar now remains in normal document flow directly beneath the masthead, matching the old wiki behavior and preventing the closed bar from covering page content.
+- Dropdown/flyout menus remain positioned overlays only while intentionally open.
+- Commit: `89315e315031477a6889542edce2a37cfd78a3b7`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
