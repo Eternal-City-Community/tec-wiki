@@ -28,11 +28,13 @@ jobs:
           done
       - name: Import attachments and rewrite image links
         run: python tools/import_wikidot_attachments.py
+      - name: Audit migrated wiki
+        run: python tools/audit_migration.py
       - name: Commit attachments
         run: |
           git config user.name "tec-wiki-attachments"
           git config user.email "actions@users.noreply.github.com"
-          git add docs ATTACHMENT_MIGRATION_REPORT.md
+          git add docs ATTACHMENT_MIGRATION_REPORT.md WIKI_AUDIT.md
           git commit -m "Import Wikidot attachments and localize assets"
           git pull --rebase origin main
           git push
