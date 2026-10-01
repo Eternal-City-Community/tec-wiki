@@ -229,6 +229,24 @@ User-reported issues and fixes on 2026-10-01:
   - Commit: `3533db56834eda4581ee954285bbb2b0f2538ddc`
 
 
+
+
+### Rank Bonus Calculator classic functionality restoration
+
+- User confirmed Offensive and Defensive modes still rendered blank while Non-Combat worked.
+- Root cause: combat stance rows were represented as arrays, but the renderer read `row.mod`; only Non-Combat used an object with a valid `mod` property. This produced `NaN`/blank combat results.
+- Rebuilt `docs/javascripts/tec-rank-bonus.js` around a consistent calculator-card model while preserving the polished UI.
+- Restored the original Wikidot calculation behavior:
+  - Basic column uses raw RB for the entered Basics rank.
+  - Easy/Average/Difficult/Impossible subskills use `floor(Basics RB) × difficulty modifier + Subskill RB`.
+  - Combat stance modifier is applied to the calculated RB.
+  - Defensive mode uses the inverse stance modifiers.
+  - Non-combat uses 100% stance modifier.
+  - Restored the original `RB +/- Mod` field; the modifier is applied after stance to subskill results, matching the classic calculator.
+- Restored `+` behavior: clicking `+` now creates a complete independent copy of the **first calculator box**, including its current ranks, modifier, mode, row/column settings, and decimal precision. The temporary one-line comparison widget was removed.
+- Main functionality commit: `fe2d9a9ef388a3b8bd08dc178641a70a074d75af`
+- Duplicate-card spacing/style commit: `0f54ee779872904bf95d2fc5028d0df281dbc4c2`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
