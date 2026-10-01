@@ -5,6 +5,8 @@ category: "Reference"
 
 # National Lores
 
+<div class="national-lores-page">
+
 ## Aestivan League
 #### Aestiva Surveyor Lore
 The Aestivan League is a nation solidly built upon some of the most wild lands. Just as the Aestivan engineer can pave over rugged mountains and deep marshes, unyielding determination is the path to success the nation has become famous for. In taming these wild lands, scouts and surveyors plot the way with order and precision, spending many of their nights in self-made shelters.
@@ -267,3 +269,4 @@ The island of Windward has an expansive coastline, rich with the bounty of the s
 
 
 Usage: cast <pole>
+</div>
