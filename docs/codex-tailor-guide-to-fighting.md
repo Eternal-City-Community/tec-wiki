@@ -1,5 +1,6 @@
 ---
 title: "Codex Tailor Guide To Fighting"
+category: "Crafting & Trade"
 ---
 
 # Codex Tailor Guide To Fighting

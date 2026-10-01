@@ -1,5 +1,6 @@
 ---
 title: "Pirate Ship"
+category: "Reference"
 ---
 
 # Pirate Ship

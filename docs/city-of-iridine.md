@@ -1,5 +1,6 @@
 ---
 title: "City Of Iridine"
+category: "World & Maps"
 ---
 
 # City Of Iridine

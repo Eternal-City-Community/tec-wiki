@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Pepaquest Salinae"
+category: "World & Maps"
 ---
 
 # Historic Map Pepaquest Salinae

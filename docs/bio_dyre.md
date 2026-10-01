@@ -1,5 +1,6 @@
 ---
 title: "Bio Dyre"
+category: "Character Bios"
 ---
 
 # Bio Dyre

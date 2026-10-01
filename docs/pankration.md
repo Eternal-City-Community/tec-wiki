@@ -1,5 +1,6 @@
 ---
 title: "Pankration"
+category: "Skills & Combat"
 ---
 
 # Pankration

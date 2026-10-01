@@ -1,5 +1,6 @@
 ---
 title: "Bio Lacide"
+category: "Character Bios"
 ---
 
 # Bio Lacide

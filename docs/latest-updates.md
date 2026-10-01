@@ -1,5 +1,6 @@
 ---
 title: "Latest Updates"
+category: "Reference"
 ---
 
 # Latest Updates

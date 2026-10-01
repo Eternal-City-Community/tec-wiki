@@ -1,5 +1,6 @@
 ---
 title: "Fenri Gifr Ruins"
+category: "Reference"
 ---
 
 # Fenri Gifr Ruins

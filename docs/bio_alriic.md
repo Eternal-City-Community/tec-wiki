@@ -1,5 +1,6 @@
 ---
 title: "Bio Alriic"
+category: "Character Bios"
 ---
 
 # Bio Alriic

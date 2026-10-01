@@ -1,5 +1,6 @@
 ---
 title: "The Library Of Iridine"
+category: "World & Maps"
 ---
 
 # The Library Of Iridine

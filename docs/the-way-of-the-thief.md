@@ -1,5 +1,6 @@
 ---
 title: "The Way Of The Thief"
+category: "Reference"
 ---
 
 # The Way Of The Thief

@@ -1,5 +1,6 @@
 ---
 title: "Bio Duranth"
+category: "Character Bios"
 ---
 
 # Bio Duranth

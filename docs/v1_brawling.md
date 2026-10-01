@@ -1,5 +1,6 @@
 ---
 title: "V1 Brawling"
+category: "Skills & Combat"
 ---
 
 # V1 Brawling

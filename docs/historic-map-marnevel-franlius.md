@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Franlius"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Franlius

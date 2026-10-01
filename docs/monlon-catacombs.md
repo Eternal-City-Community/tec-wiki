@@ -1,5 +1,6 @@
 ---
 title: "Monlon Catacombs"
+category: "World & Maps"
 ---
 
 # Monlon Catacombs

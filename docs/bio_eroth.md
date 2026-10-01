@@ -1,5 +1,6 @@
 ---
 title: "Bio Eroth"
+category: "Character Bios"
 ---
 
 # Bio Eroth

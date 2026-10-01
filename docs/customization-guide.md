@@ -1,5 +1,6 @@
 ---
 title: "Customization Guide"
+category: "Guides & Commands"
 ---
 
 # Customization Guide

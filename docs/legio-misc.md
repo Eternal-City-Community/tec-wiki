@@ -1,5 +1,6 @@
 ---
 title: "Legio Misc"
+category: "Reference"
 ---
 
 # Legio Misc

@@ -1,5 +1,6 @@
 ---
 title: "Bio Grath"
+category: "Character Bios"
 ---
 
 # Bio Grath

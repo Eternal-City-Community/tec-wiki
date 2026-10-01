@@ -1,5 +1,6 @@
 ---
 title: "Codex Miri Wild Poems"
+category: "Reference"
 ---
 
 # Codex Miri Wild Poems

@@ -1,5 +1,6 @@
 ---
 title: "Bio Cascar Olgulan"
+category: "Character Bios"
 ---
 
 # Bio Cascar Olgulan

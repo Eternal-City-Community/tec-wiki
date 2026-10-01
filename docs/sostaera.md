@@ -1,5 +1,6 @@
 ---
 title: "Sostaera"
+category: "Reference"
 ---
 
 # Sostaera

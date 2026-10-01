@@ -1,5 +1,6 @@
 ---
 title: "Bio Appolus"
+category: "Character Bios"
 ---
 
 # Bio Appolus

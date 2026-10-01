@@ -1,5 +1,6 @@
 ---
 title: "Bio Livan"
+category: "Character Bios"
 ---
 
 # Bio Livan

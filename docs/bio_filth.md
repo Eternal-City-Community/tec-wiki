@@ -1,5 +1,6 @@
 ---
 title: "Bio Filth"
+category: "Character Bios"
 ---
 
 # Bio Filth

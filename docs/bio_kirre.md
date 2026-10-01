@@ -1,5 +1,6 @@
 ---
 title: "Bio Kirre"
+category: "Character Bios"
 ---
 
 # Bio Kirre

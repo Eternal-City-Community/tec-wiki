@@ -1,5 +1,6 @@
 ---
 title: "Codex Ridder Kiht"
+category: "Reference"
 ---
 
 # Codex Ridder Kiht

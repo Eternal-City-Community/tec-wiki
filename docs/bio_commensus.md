@@ -1,5 +1,6 @@
 ---
 title: "Bio Commensus"
+category: "Character Bios"
 ---
 
 # Bio Commensus

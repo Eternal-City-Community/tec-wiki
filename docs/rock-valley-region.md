@@ -1,5 +1,6 @@
 ---
 title: "Rock Valley Region"
+category: "World & Maps"
 ---
 
 # Rock Valley Region

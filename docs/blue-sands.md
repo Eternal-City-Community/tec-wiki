@@ -1,5 +1,6 @@
 ---
 title: "Blue Sands"
+category: "Reference"
 ---
 
 # Blue Sands

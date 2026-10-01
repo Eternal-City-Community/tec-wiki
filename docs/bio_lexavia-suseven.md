@@ -1,5 +1,6 @@
 ---
 title: "Bio Lexavia Suseven"
+category: "Character Bios"
 ---
 
 # Bio Lexavia Suseven

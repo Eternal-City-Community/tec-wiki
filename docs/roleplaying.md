@@ -1,5 +1,6 @@
 ---
 title: "Roleplaying"
+category: "Reference"
 ---
 
 # Roleplaying

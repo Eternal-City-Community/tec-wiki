@@ -1,5 +1,6 @@
 ---
 title: "Temp Axesdamagevalues"
+category: "Skills & Combat"
 ---
 
 # Temp Axesdamagevalues

@@ -1,5 +1,6 @@
 ---
 title: "Bio Kassandra"
+category: "Character Bios"
 ---
 
 # Bio Kassandra

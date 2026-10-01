@@ -1,5 +1,6 @@
 ---
 title: "Archived Important Ig Notes"
+category: "Archive"
 ---
 
 # Archived Important Ig Notes

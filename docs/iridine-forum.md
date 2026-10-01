@@ -1,5 +1,6 @@
 ---
 title: "Iridine Forum"
+category: "World & Maps"
 ---
 
 # Iridine Forum

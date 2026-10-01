@@ -1,5 +1,6 @@
 ---
 title: "Aestivan Religion"
+category: "Lore & Community"
 ---
 
 # Aestivan Religion

@@ -1,5 +1,6 @@
 ---
 title: "Hg Swamp Vale"
+category: "World & Maps"
 ---
 
 # Hg Swamp Vale

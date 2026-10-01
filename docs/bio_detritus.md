@@ -1,5 +1,6 @@
 ---
 title: "Bio Detritus"
+category: "Character Bios"
 ---
 
 # Bio Detritus

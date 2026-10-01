@@ -1,5 +1,6 @@
 ---
 title: "Gmauction28082021"
+category: "Reference"
 ---
 
 # Gmauction28082021

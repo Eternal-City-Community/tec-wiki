@@ -1,5 +1,6 @@
 ---
 title: "Warlord Juxta"
+category: "Reference"
 ---
 
 # Warlord Juxta

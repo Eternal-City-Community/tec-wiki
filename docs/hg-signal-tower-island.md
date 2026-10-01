@@ -1,5 +1,6 @@
 ---
 title: "Hg Signal Tower Island"
+category: "World & Maps"
 ---
 
 # Hg Signal Tower Island

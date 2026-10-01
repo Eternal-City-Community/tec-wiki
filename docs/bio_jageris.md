@@ -1,5 +1,6 @@
 ---
 title: "Bio Jageris"
+category: "Character Bios"
 ---
 
 # Bio Jageris

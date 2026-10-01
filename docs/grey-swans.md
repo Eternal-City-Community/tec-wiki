@@ -1,5 +1,6 @@
 ---
 title: "Grey Swans"
+category: "Reference"
 ---
 
 # Grey Swans

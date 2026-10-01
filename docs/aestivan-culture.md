@@ -1,5 +1,6 @@
 ---
 title: "Aestivan Culture"
+category: "Lore & Community"
 ---
 
 # Aestivan Culture

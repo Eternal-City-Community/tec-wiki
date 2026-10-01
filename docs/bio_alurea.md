@@ -1,5 +1,6 @@
 ---
 title: "Bio Alurea"
+category: "Character Bios"
 ---
 
 # Bio Alurea

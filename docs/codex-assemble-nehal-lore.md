@@ -1,5 +1,6 @@
 ---
 title: "Codex Assemble Nehal Lore"
+category: "Reference"
 ---
 
 # Codex Assemble Nehal Lore

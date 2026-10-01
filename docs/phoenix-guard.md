@@ -1,5 +1,6 @@
 ---
 title: "Phoenix Guard"
+category: "Reference"
 ---
 
 # Phoenix Guard

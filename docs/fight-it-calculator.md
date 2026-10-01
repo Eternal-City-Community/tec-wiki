@@ -1,5 +1,6 @@
 ---
 title: "Fight It Calculator"
+category: "Reference"
 ---
 
 # Fight It Calculator

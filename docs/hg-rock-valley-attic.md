@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Attic"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Attic

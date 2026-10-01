@@ -1,5 +1,6 @@
 ---
 title: "Gadaene"
+category: "Reference"
 ---
 
 # Gadaene

@@ -1,5 +1,6 @@
 ---
 title: "Grey Sands"
+category: "Reference"
 ---
 
 # Grey Sands

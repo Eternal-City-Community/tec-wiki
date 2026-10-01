@@ -1,5 +1,6 @@
 ---
 title: "Gardens Of Sunset"
+category: "Reference"
 ---
 
 # Gardens Of Sunset

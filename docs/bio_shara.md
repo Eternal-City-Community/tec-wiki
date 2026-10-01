@@ -1,5 +1,6 @@
 ---
 title: "Bio Shara"
+category: "Character Bios"
 ---
 
 # Bio Shara

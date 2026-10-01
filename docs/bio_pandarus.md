@@ -1,5 +1,6 @@
 ---
 title: "Bio Pandarus"
+category: "Character Bios"
 ---
 
 # Bio Pandarus

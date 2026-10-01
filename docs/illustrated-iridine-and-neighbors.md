@@ -1,5 +1,6 @@
 ---
 title: "Illustrated Iridine And Neighbors"
+category: "World & Maps"
 ---
 
 # Illustrated Iridine And Neighbors

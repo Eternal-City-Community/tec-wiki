@@ -1,5 +1,6 @@
 ---
 title: "Bio Carlos"
+category: "Character Bios"
 ---
 
 # Bio Carlos

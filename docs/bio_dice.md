@@ -1,5 +1,6 @@
 ---
 title: "Bio Dice"
+category: "Character Bios"
 ---
 
 # Bio Dice

@@ -1,5 +1,6 @@
 ---
 title: "Bio Necros"
+category: "Character Bios"
 ---
 
 # Bio Necros

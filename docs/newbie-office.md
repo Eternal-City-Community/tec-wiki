@@ -1,5 +1,6 @@
 ---
 title: "Newbie Office"
+category: "Guides & Commands"
 ---
 
 # Newbie Office

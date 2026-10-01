@@ -1,5 +1,6 @@
 ---
 title: "Missile Weapons Bows"
+category: "Skills & Combat"
 ---
 
 # Missile Weapons Bows

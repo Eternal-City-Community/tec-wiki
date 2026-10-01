@@ -1,5 +1,6 @@
 ---
 title: "Files"
+category: "Reference"
 ---
 
 # Files

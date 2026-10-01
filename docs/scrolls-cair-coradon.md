@@ -1,5 +1,6 @@
 ---
 title: "Scrolls Cair Coradon"
+category: "Reference"
 ---
 
 # Scrolls Cair Coradon

@@ -1,5 +1,6 @@
 ---
 title: "Bio Connea"
+category: "Character Bios"
 ---
 
 # Bio Connea

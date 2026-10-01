@@ -1,5 +1,6 @@
 ---
 title: "Lib Ephemeris 2"
+category: "Reference"
 ---
 
 # Lib Ephemeris 2

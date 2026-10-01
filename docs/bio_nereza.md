@@ -1,5 +1,6 @@
 ---
 title: "Bio Nereza"
+category: "Character Bios"
 ---
 
 # Bio Nereza

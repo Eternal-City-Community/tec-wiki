@@ -1,5 +1,6 @@
 ---
 title: "The Steps Riot Of 117"
+category: "World & Maps"
 ---
 
 # The Steps Riot Of 117

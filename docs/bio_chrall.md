@@ -1,5 +1,6 @@
 ---
 title: "Bio Chrall"
+category: "Character Bios"
 ---
 
 # Bio Chrall

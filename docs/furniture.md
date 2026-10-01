@@ -1,5 +1,6 @@
 ---
 title: "Furniture"
+category: "Reference"
 ---
 
 # Furniture

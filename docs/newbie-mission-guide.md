@@ -1,5 +1,6 @@
 ---
 title: "Newbie Mission Guide"
+category: "Guides & Commands"
 ---
 
 # Newbie Mission Guide

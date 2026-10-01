@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Critter Alley"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Critter Alley

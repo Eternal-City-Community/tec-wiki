@@ -1,5 +1,6 @@
 ---
 title: "Bio Melchoir"
+category: "Character Bios"
 ---
 
 # Bio Melchoir

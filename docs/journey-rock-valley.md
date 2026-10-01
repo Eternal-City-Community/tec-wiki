@@ -1,5 +1,6 @@
 ---
 title: "Journey Rock Valley"
+category: "World & Maps"
 ---
 
 # Journey Rock Valley

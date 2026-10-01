@@ -1,5 +1,6 @@
 ---
 title: "War With Cinera Aestiva"
+category: "Reference"
 ---
 
 # War With Cinera Aestiva

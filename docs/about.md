@@ -1,5 +1,6 @@
 ---
 title: "About the TEC Wiki"
+category: "Wiki & Help"
 ---
 
 # About the TEC Wiki

@@ -1,5 +1,6 @@
 ---
 title: "Parcines"
+category: "Reference"
 ---
 
 # Parcines

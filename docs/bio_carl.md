@@ -1,5 +1,6 @@
 ---
 title: "Bio Carl"
+category: "Character Bios"
 ---
 
 # Bio Carl

@@ -1,5 +1,6 @@
 ---
 title: "Outdoor Survival Test"
+category: "Reference"
 ---
 
 # Outdoor Survival Test

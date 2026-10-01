@@ -1,5 +1,6 @@
 ---
 title: "Bio Caucus"
+category: "Character Bios"
 ---
 
 # Bio Caucus

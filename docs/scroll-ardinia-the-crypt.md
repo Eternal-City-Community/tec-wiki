@@ -1,5 +1,6 @@
 ---
 title: "Scroll Ardinia The Crypt"
+category: "Reference"
 ---
 
 # Scroll Ardinia The Crypt

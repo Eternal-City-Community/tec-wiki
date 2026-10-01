@@ -1,5 +1,6 @@
 ---
 title: "Hg Fist Fort"
+category: "Reference"
 ---
 
 # Hg Fist Fort

@@ -1,5 +1,6 @@
 ---
 title: "Knives Guide"
+category: "Guides & Commands"
 ---
 
 # Knives Guide

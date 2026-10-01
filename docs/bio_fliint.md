@@ -1,5 +1,6 @@
 ---
 title: "Bio Fliint"
+category: "Character Bios"
 ---
 
 # Bio Fliint

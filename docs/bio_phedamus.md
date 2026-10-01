@@ -1,5 +1,6 @@
 ---
 title: "Bio Phedamus"
+category: "Character Bios"
 ---
 
 # Bio Phedamus

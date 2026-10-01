@@ -1,5 +1,6 @@
 ---
 title: "Bio Jelkir"
+category: "Character Bios"
 ---
 
 # Bio Jelkir

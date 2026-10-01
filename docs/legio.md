@@ -1,5 +1,6 @@
 ---
 title: "Legio"
+category: "Reference"
 ---
 
 # Legio

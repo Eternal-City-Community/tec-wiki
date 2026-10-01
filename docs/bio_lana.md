@@ -1,5 +1,6 @@
 ---
 title: "Bio Lana"
+category: "Character Bios"
 ---
 
 # Bio Lana

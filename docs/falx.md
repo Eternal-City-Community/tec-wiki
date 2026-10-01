@@ -1,5 +1,6 @@
 ---
 title: "Falx"
+category: "Skills & Combat"
 ---
 
 # Falx

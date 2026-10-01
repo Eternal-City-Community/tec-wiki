@@ -1,5 +1,6 @@
 ---
 title: "Scroll Remathen Tea Mastery"
+category: "Reference"
 ---
 
 # Scroll Remathen Tea Mastery

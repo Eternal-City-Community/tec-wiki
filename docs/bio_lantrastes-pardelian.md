@@ -1,5 +1,6 @@
 ---
 title: "Bio Lantrastes Pardelian"
+category: "Character Bios"
 ---
 
 # Bio Lantrastes Pardelian

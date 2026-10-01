@@ -1,5 +1,6 @@
 ---
 title: "Bio King Vetallun"
+category: "Character Bios"
 ---
 
 # Bio King Vetallun

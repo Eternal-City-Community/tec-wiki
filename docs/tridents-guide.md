@@ -1,5 +1,6 @@
 ---
 title: "Tridents Guide"
+category: "Skills & Combat"
 ---
 
 # Tridents Guide

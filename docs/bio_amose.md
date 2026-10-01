@@ -1,5 +1,6 @@
 ---
 title: "Bio Amose"
+category: "Character Bios"
 ---
 
 # Bio Amose

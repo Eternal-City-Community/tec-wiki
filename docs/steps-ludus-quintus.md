@@ -1,5 +1,6 @@
 ---
 title: "Steps Ludus Quintus"
+category: "World & Maps"
 ---
 
 # Steps Ludus Quintus

@@ -1,5 +1,6 @@
 ---
 title: "Advanced Commands"
+category: "Guides & Commands"
 ---
 
 # Advanced Commands

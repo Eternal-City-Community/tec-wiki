@@ -1,5 +1,6 @@
 ---
 title: "TEC Related Sites"
+category: "Reference"
 ---
 
 # TEC Related Sites

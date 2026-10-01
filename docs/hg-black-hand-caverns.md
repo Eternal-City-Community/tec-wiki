@@ -1,5 +1,6 @@
 ---
 title: "Hg Black Hand Caverns"
+category: "World & Maps"
 ---
 
 # Hg Black Hand Caverns

@@ -1,5 +1,6 @@
 ---
 title: "Bio Umbran Arxaeth"
+category: "Character Bios"
 ---
 
 # Bio Umbran Arxaeth

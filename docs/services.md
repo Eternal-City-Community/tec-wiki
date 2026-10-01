@@ -1,5 +1,6 @@
 ---
 title: "Services"
+category: "Reference"
 ---
 
 # Services

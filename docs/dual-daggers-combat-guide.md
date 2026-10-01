@@ -1,5 +1,6 @@
 ---
 title: "Dual Daggers Combat Guide"
+category: "Skills & Combat"
 ---
 
 # Dual Daggers Combat Guide

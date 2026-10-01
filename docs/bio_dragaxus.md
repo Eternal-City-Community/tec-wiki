@@ -1,5 +1,6 @@
 ---
 title: "Bio Dragaxus"
+category: "Character Bios"
 ---
 
 # Bio Dragaxus

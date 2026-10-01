@@ -1,5 +1,6 @@
 ---
 title: "Bio Seranthus"
+category: "Character Bios"
 ---
 
 # Bio Seranthus

@@ -1,5 +1,6 @@
 ---
 title: "Bio Danasei"
+category: "Character Bios"
 ---
 
 # Bio Danasei

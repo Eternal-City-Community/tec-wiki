@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Pepaquest Iridine"
+category: "World & Maps"
 ---
 
 # Historic Map Pepaquest Iridine

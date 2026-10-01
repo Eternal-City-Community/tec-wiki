@@ -1,5 +1,6 @@
 ---
 title: "Trainers"
+category: "Reference"
 ---
 
 # Trainers

@@ -1,5 +1,6 @@
 ---
 title: "Bio Melilia Saprius"
+category: "Character Bios"
 ---
 
 # Bio Melilia Saprius

@@ -1,5 +1,6 @@
 ---
 title: "Colosseum"
+category: "World & Maps"
 ---
 
 # Colosseum

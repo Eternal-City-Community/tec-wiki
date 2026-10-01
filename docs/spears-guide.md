@@ -1,5 +1,6 @@
 ---
 title: "Spears Guide"
+category: "Skills & Combat"
 ---
 
 # Spears Guide

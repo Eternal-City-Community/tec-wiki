@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Burial Grounds"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Burial Grounds

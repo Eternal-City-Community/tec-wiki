@@ -1,5 +1,6 @@
 ---
 title: "Shipwreck"
+category: "Reference"
 ---
 
 # Shipwreck

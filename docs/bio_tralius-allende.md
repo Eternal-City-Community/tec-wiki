@@ -1,5 +1,6 @@
 ---
 title: "Bio Tralius Allende"
+category: "Character Bios"
 ---
 
 # Bio Tralius Allende

@@ -1,5 +1,6 @@
 ---
 title: "Bio Janisinia"
+category: "Character Bios"
 ---
 
 # Bio Janisinia

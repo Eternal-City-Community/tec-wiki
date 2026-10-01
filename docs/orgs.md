@@ -1,5 +1,6 @@
 ---
 title: "Orgs"
+category: "Lore & Community"
 ---
 
 # Orgs

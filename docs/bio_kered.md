@@ -1,5 +1,6 @@
 ---
 title: "Bio Kered"
+category: "Character Bios"
 ---
 
 # Bio Kered

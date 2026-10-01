@@ -1,5 +1,6 @@
 ---
 title: "Panzacor"
+category: "Reference"
 ---
 
 # Panzacor

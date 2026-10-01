@@ -1,5 +1,6 @@
 ---
 title: "Midlight Map"
+category: "World & Maps"
 ---
 
 # Midlight Map

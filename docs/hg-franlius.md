@@ -1,5 +1,6 @@
 ---
 title: "Hg Franlius"
+category: "World & Maps"
 ---
 
 # Hg Franlius

@@ -1,5 +1,6 @@
 ---
 title: "Bio Bobith"
+category: "Character Bios"
 ---
 
 # Bio Bobith

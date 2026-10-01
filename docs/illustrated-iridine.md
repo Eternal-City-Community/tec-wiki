@@ -1,5 +1,6 @@
 ---
 title: "Illustrated Iridine"
+category: "World & Maps"
 ---
 
 # Illustrated Iridine

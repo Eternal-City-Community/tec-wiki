@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Salinae"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Salinae

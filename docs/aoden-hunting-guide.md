@@ -1,5 +1,6 @@
 ---
 title: "Aoden Hunting Guide"
+category: "Skills & Combat"
 ---
 
 # Aoden Hunting Guide

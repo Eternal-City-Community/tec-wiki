@@ -1,5 +1,6 @@
 ---
 title: "Archery Guide"
+category: "Skills & Combat"
 ---
 
 # Archery Guide

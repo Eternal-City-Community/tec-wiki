@@ -1,5 +1,6 @@
 ---
 title: "Bio Keylo"
+category: "Character Bios"
 ---
 
 # Bio Keylo

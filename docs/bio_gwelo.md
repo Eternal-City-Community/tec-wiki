@@ -1,5 +1,6 @@
 ---
 title: "Bio Gwelo"
+category: "Character Bios"
 ---
 
 # Bio Gwelo

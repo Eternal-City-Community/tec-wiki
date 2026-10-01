@@ -1,5 +1,6 @@
 ---
 title: "Brawling"
+category: "Skills & Combat"
 ---
 
 # Brawling

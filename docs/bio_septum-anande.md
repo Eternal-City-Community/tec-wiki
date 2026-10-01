@@ -1,5 +1,6 @@
 ---
 title: "Bio Septum Anande"
+category: "Character Bios"
 ---
 
 # Bio Septum Anande

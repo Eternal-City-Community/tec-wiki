@@ -1,5 +1,6 @@
 ---
 title: "Bio Actavious"
+category: "Character Bios"
 ---
 
 # Bio Actavious

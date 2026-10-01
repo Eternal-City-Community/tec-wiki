@@ -1,5 +1,6 @@
 ---
 title: "Official Account Age Of Kings"
+category: "Guides & Commands"
 ---
 
 # Official Account Age Of Kings

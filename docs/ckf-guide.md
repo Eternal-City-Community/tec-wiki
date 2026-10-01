@@ -1,5 +1,6 @@
 ---
 title: "Ckf Guide"
+category: "Guides & Commands"
 ---
 
 # Ckf Guide

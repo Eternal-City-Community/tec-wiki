@@ -1,5 +1,6 @@
 ---
 title: "Combat Overview"
+category: "Skills & Combat"
 ---
 
 # Combat Overview

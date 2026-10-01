@@ -1,5 +1,6 @@
 ---
 title: "Report Monlon Saga"
+category: "World & Maps"
 ---
 
 # Report Monlon Saga

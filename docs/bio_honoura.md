@@ -1,5 +1,6 @@
 ---
 title: "Bio Honoura"
+category: "Character Bios"
 ---
 
 # Bio Honoura

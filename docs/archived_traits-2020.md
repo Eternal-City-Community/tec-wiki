@@ -1,5 +1,6 @@
 ---
 title: "Archived Traits 2020"
+category: "Archive"
 ---
 
 # Archived Traits 2020

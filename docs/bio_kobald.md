@@ -1,5 +1,6 @@
 ---
 title: "Bio Kobald"
+category: "Character Bios"
 ---
 
 # Bio Kobald

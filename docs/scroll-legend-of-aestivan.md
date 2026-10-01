@@ -1,5 +1,6 @@
 ---
 title: "Scroll Legend Of Aestivan"
+category: "Reference"
 ---
 
 # Scroll Legend Of Aestivan

@@ -1,5 +1,6 @@
 ---
 title: "Bio Aescapes"
+category: "Character Bios"
 ---
 
 # Bio Aescapes

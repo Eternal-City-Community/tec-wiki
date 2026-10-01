@@ -1,5 +1,6 @@
 ---
 title: "Bio Xamaes"
+category: "Character Bios"
 ---
 
 # Bio Xamaes

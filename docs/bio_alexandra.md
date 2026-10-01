@@ -1,5 +1,6 @@
 ---
 title: "Bio Alexandra"
+category: "Character Bios"
 ---
 
 # Bio Alexandra

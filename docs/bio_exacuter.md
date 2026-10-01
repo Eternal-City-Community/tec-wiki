@@ -1,5 +1,6 @@
 ---
 title: "Bio Exacuter"
+category: "Character Bios"
 ---
 
 # Bio Exacuter

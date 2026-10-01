@@ -1,5 +1,6 @@
 ---
 title: "Bio Sernak"
+category: "Character Bios"
 ---
 
 # Bio Sernak

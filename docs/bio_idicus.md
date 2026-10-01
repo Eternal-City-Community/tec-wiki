@@ -1,5 +1,6 @@
 ---
 title: "Bio Idicus"
+category: "Character Bios"
 ---
 
 # Bio Idicus

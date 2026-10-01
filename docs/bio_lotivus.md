@@ -1,5 +1,6 @@
 ---
 title: "Bio Lotivus"
+category: "Character Bios"
 ---
 
 # Bio Lotivus

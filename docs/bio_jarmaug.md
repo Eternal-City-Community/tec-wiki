@@ -1,5 +1,6 @@
 ---
 title: "Bio Jarmaug"
+category: "Character Bios"
 ---
 
 # Bio Jarmaug

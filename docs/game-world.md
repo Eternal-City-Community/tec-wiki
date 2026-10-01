@@ -1,5 +1,6 @@
 ---
 title: "Game World"
+category: "Reference"
 ---
 
 # Game World

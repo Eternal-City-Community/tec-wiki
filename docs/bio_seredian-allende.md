@@ -1,5 +1,6 @@
 ---
 title: "Bio Seredian Allende"
+category: "Character Bios"
 ---
 
 # Bio Seredian Allende

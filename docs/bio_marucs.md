@@ -1,5 +1,6 @@
 ---
 title: "Bio Marucs"
+category: "Character Bios"
 ---
 
 # Bio Marucs

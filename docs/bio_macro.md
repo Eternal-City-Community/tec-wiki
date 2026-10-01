@@ -1,5 +1,6 @@
 ---
 title: "Bio Macro"
+category: "Character Bios"
 ---
 
 # Bio Macro

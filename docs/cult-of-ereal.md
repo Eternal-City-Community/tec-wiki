@@ -1,5 +1,6 @@
 ---
 title: "Cult Of Ereal"
+category: "Reference"
 ---
 
 # Cult Of Ereal

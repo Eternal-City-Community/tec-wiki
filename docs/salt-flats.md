@@ -1,5 +1,6 @@
 ---
 title: "Salt Flats"
+category: "Reference"
 ---
 
 # Salt Flats

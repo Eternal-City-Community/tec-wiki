@@ -1,5 +1,6 @@
 ---
 title: "Bio Sarai"
+category: "Character Bios"
 ---
 
 # Bio Sarai

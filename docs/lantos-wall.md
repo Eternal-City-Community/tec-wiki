@@ -1,5 +1,6 @@
 ---
 title: "Lantos Wall"
+category: "Reference"
 ---
 
 # Lantos Wall

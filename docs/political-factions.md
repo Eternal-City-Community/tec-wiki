@@ -1,5 +1,6 @@
 ---
 title: "Political Factions"
+category: "Reference"
 ---
 
 # Political Factions

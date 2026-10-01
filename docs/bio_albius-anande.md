@@ -1,5 +1,6 @@
 ---
 title: "Bio Albius Anande"
+category: "Character Bios"
 ---
 
 # Bio Albius Anande

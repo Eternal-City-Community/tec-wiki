@@ -1,5 +1,6 @@
 ---
 title: "Bio Quintillus Granius"
+category: "Character Bios"
 ---
 
 # Bio Quintillus Granius

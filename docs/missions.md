@@ -1,5 +1,6 @@
 ---
 title: "Missions"
+category: "Reference"
 ---
 
 # Missions

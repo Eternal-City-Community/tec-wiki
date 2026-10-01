@@ -1,5 +1,6 @@
 ---
 title: "Argosius"
+category: "Reference"
 ---
 
 # Argosius

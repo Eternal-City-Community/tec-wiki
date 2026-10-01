@@ -1,5 +1,6 @@
 ---
 title: "Bio Sartor Mithus"
+category: "Character Bios"
 ---
 
 # Bio Sartor Mithus

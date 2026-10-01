@@ -1,5 +1,6 @@
 ---
 title: "Harbor"
+category: "World & Maps"
 ---
 
 # Harbor

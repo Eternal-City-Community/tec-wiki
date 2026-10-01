@@ -1,5 +1,6 @@
 ---
 title: "Blockade Of Astraea"
+category: "Skills & Combat"
 ---
 
 # Blockade Of Astraea

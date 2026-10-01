@@ -1,5 +1,6 @@
 ---
 title: "Hg Aralex Pit"
+category: "Reference"
 ---
 
 # Hg Aralex Pit

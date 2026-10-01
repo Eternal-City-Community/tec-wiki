@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel The Steps"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel The Steps

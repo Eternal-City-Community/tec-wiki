@@ -1,5 +1,6 @@
 ---
 title: "Bio Morgyn"
+category: "Character Bios"
 ---
 
 # Bio Morgyn

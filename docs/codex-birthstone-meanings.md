@@ -1,5 +1,6 @@
 ---
 title: "Codex Birthstone Meanings"
+category: "Reference"
 ---
 
 # Codex Birthstone Meanings

@@ -1,5 +1,6 @@
 ---
 title: "Brawling Guide"
+category: "Skills & Combat"
 ---
 
 # Brawling Guide

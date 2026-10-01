@@ -1,5 +1,6 @@
 ---
 title: "Bio Necephorus"
+category: "Character Bios"
 ---
 
 # Bio Necephorus

@@ -1,5 +1,6 @@
 ---
 title: "Hg Brigand Treehouse"
+category: "Reference"
 ---
 
 # Hg Brigand Treehouse

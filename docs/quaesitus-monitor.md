@@ -1,5 +1,6 @@
 ---
 title: "Quaesitus Monitor"
+category: "Reference"
 ---
 
 # Quaesitus Monitor

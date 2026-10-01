@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Forests"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Forests

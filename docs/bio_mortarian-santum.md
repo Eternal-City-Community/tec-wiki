@@ -1,5 +1,6 @@
 ---
 title: "Bio Mortarian Santum"
+category: "Character Bios"
 ---
 
 # Bio Mortarian Santum

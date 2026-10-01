@@ -1,5 +1,6 @@
 ---
 title: "Combat Maneuvers"
+category: "Skills & Combat"
 ---
 
 # Combat Maneuvers

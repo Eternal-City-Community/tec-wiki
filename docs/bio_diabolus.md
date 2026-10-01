@@ -1,5 +1,6 @@
 ---
 title: "Bio Diabolus"
+category: "Character Bios"
 ---
 
 # Bio Diabolus

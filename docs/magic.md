@@ -1,5 +1,6 @@
 ---
 title: "Magic"
+category: "Reference"
 ---
 
 # Magic

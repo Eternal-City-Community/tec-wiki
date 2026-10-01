@@ -1,5 +1,6 @@
 ---
 title: "Hg Iridine Sewers"
+category: "World & Maps"
 ---
 
 # Hg Iridine Sewers

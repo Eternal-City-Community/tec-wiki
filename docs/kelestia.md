@@ -1,5 +1,6 @@
 ---
 title: "Kelestia"
+category: "Reference"
 ---
 
 # Kelestia

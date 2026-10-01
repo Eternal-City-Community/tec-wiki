@@ -1,5 +1,6 @@
 ---
 title: "Bio Hordini"
+category: "Character Bios"
 ---
 
 # Bio Hordini

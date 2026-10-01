@@ -1,5 +1,6 @@
 ---
 title: "Bio Athaliah"
+category: "Character Bios"
 ---
 
 # Bio Athaliah

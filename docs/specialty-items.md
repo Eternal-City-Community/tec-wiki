@@ -1,5 +1,6 @@
 ---
 title: "Specialty Items"
+category: "Items & Economy"
 ---
 
 # Specialty Items

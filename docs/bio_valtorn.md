@@ -1,5 +1,6 @@
 ---
 title: "Bio Valtorn"
+category: "Character Bios"
 ---
 
 # Bio Valtorn

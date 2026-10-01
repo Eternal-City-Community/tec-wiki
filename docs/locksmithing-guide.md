@@ -1,5 +1,6 @@
 ---
 title: "Locksmithing Guide"
+category: "Crafting & Trade"
 ---
 
 # Locksmithing Guide

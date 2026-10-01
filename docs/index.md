@@ -1,5 +1,6 @@
 ---
 title: "The Eternal City Wiki"
+category: "Wiki & Help"
 ---
 
 # The Eternal City Wiki

@@ -1,5 +1,6 @@
 ---
 title: "Bio Gadwin"
+category: "Character Bios"
 ---
 
 # Bio Gadwin

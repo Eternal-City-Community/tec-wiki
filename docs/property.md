@@ -1,5 +1,6 @@
 ---
 title: "Property"
+category: "Reference"
 ---
 
 # Property

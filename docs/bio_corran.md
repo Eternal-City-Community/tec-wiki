@@ -1,5 +1,6 @@
 ---
 title: "Bio Corran"
+category: "Character Bios"
 ---
 
 # Bio Corran

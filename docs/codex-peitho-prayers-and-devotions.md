@@ -1,5 +1,6 @@
 ---
 title: "Codex Peitho Prayers And Devotions"
+category: "Reference"
 ---
 
 # Codex Peitho Prayers And Devotions

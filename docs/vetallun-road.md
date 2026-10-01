@@ -1,5 +1,6 @@
 ---
 title: "Vetallun Road"
+category: "World & Maps"
 ---
 
 # Vetallun Road

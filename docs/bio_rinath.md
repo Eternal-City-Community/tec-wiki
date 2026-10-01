@@ -1,5 +1,6 @@
 ---
 title: "Bio Rinath"
+category: "Character Bios"
 ---
 
 # Bio Rinath

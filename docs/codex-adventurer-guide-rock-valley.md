@@ -1,5 +1,6 @@
 ---
 title: "Codex Adventurer Guide Rock Valley"
+category: "World & Maps"
 ---
 
 # Codex Adventurer Guide Rock Valley

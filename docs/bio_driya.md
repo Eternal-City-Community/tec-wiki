@@ -1,5 +1,6 @@
 ---
 title: "Bio Driya"
+category: "Character Bios"
 ---
 
 # Bio Driya

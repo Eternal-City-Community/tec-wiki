@@ -1,5 +1,6 @@
 ---
 title: "Bio Elrina"
+category: "Character Bios"
 ---
 
 # Bio Elrina

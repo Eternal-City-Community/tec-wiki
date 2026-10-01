@@ -1,5 +1,6 @@
 ---
 title: "Bio Kili"
+category: "Character Bios"
 ---
 
 # Bio Kili

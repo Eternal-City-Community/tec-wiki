@@ -1,5 +1,6 @@
 ---
 title: "Bio Neptune"
+category: "Character Bios"
 ---
 
 # Bio Neptune

@@ -1,5 +1,6 @@
 ---
 title: "Bio Minos"
+category: "Character Bios"
 ---
 
 # Bio Minos

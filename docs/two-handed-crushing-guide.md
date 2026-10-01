@@ -1,5 +1,6 @@
 ---
 title: "Two Handed Crushing Guide"
+category: "Skills & Combat"
 ---
 
 # Two Handed Crushing Guide

@@ -1,5 +1,6 @@
 ---
 title: "Marriage Inheritance And Funerals"
+category: "Reference"
 ---
 
 # Marriage Inheritance And Funerals

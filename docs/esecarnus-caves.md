@@ -1,5 +1,6 @@
 ---
 title: "Esecarnus Caves"
+category: "Reference"
 ---
 
 # Esecarnus Caves

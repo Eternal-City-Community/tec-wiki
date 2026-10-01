@@ -1,5 +1,6 @@
 ---
 title: "Bio Quintus The Marauder"
+category: "Character Bios"
 ---
 
 # Bio Quintus The Marauder

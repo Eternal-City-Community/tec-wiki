@@ -1,5 +1,6 @@
 ---
 title: "Bio Metiades"
+category: "Character Bios"
 ---
 
 # Bio Metiades

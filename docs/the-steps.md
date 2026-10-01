@@ -1,5 +1,6 @@
 ---
 title: "The Steps"
+category: "World & Maps"
 ---
 
 # The Steps

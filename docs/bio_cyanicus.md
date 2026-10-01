@@ -1,5 +1,6 @@
 ---
 title: "Bio Cyanicus"
+category: "Character Bios"
 ---
 
 # Bio Cyanicus

@@ -1,5 +1,6 @@
 ---
 title: "Bio Willace"
+category: "Character Bios"
 ---
 
 # Bio Willace

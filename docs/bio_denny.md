@@ -1,5 +1,6 @@
 ---
 title: "Bio Denny"
+category: "Character Bios"
 ---
 
 # Bio Denny

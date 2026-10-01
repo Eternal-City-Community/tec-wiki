@@ -1,5 +1,6 @@
 ---
 title: "Money Calculator"
+category: "Items & Economy"
 ---
 
 # Money Calculator

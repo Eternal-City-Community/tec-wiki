@@ -1,5 +1,6 @@
 ---
 title: "Bio Yuki"
+category: "Character Bios"
 ---
 
 # Bio Yuki

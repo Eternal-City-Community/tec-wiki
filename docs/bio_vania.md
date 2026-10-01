@@ -1,5 +1,6 @@
 ---
 title: "Bio Vania"
+category: "Character Bios"
 ---
 
 # Bio Vania

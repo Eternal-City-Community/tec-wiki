@@ -1,5 +1,6 @@
 ---
 title: "Little Black Book Of Thievery"
+category: "Reference"
 ---
 
 # Little Black Book Of Thievery

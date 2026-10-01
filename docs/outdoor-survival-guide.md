@@ -1,5 +1,6 @@
 ---
 title: "Outdoor Survival Guide"
+category: "Guides & Commands"
 ---
 
 # Outdoor Survival Guide

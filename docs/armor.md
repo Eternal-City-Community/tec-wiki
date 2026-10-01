@@ -1,5 +1,6 @@
 ---
 title: "Armor"
+category: "Skills & Combat"
 ---
 
 # Armor

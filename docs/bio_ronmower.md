@@ -1,5 +1,6 @@
 ---
 title: "Bio Ronmower"
+category: "Character Bios"
 ---
 
 # Bio Ronmower

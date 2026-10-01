@@ -1,5 +1,6 @@
 ---
 title: "Text Blackvine Bank Robbery"
+category: "World & Maps"
 ---
 
 # Text Blackvine Bank Robbery

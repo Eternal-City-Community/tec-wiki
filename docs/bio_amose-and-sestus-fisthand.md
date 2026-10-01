@@ -1,5 +1,6 @@
 ---
 title: "Bio Amose And Sestus Fisthand"
+category: "Character Bios"
 ---
 
 # Bio Amose And Sestus Fisthand

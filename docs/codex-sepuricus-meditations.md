@@ -1,5 +1,6 @@
 ---
 title: "Codex Sepuricus Meditations"
+category: "Reference"
 ---
 
 # Codex Sepuricus Meditations

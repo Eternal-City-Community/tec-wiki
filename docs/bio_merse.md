@@ -1,5 +1,6 @@
 ---
 title: "Bio Merse"
+category: "Character Bios"
 ---
 
 # Bio Merse

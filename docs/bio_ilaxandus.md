@@ -1,5 +1,6 @@
 ---
 title: "Bio Ilaxandus"
+category: "Character Bios"
 ---
 
 # Bio Ilaxandus

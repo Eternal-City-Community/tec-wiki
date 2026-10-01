@@ -1,5 +1,6 @@
 ---
 title: "Bio Morgan"
+category: "Character Bios"
 ---
 
 # Bio Morgan

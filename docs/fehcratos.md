@@ -1,5 +1,6 @@
 ---
 title: "Fehcratos"
+category: "Reference"
 ---
 
 # Fehcratos

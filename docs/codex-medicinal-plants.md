@@ -1,5 +1,6 @@
 ---
 title: "Codex Medicinal Plants"
+category: "Reference"
 ---
 
 # Codex Medicinal Plants

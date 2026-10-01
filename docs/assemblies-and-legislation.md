@@ -1,5 +1,6 @@
 ---
 title: "Assemblies And Legislation"
+category: "Lore & Community"
 ---
 
 # Assemblies And Legislation

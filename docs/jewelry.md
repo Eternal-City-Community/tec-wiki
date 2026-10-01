@@ -1,5 +1,6 @@
 ---
 title: "Jewelry"
+category: "Crafting & Trade"
 ---
 
 # Jewelry

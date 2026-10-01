@@ -1,5 +1,6 @@
 ---
 title: "Bio Quintarius"
+category: "Character Bios"
 ---
 
 # Bio Quintarius

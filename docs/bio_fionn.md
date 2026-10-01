@@ -1,5 +1,6 @@
 ---
 title: "Bio Fionn"
+category: "Character Bios"
 ---
 
 # Bio Fionn

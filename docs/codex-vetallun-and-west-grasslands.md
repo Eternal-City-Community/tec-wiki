@@ -1,5 +1,6 @@
 ---
 title: "Codex Vetallun And West Grasslands"
+category: "World & Maps"
 ---
 
 # Codex Vetallun And West Grasslands

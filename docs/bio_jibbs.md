@@ -1,5 +1,6 @@
 ---
 title: "Bio Jibbs"
+category: "Character Bios"
 ---
 
 # Bio Jibbs

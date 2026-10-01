@@ -1,5 +1,6 @@
 ---
 title: "Bio Aestro"
+category: "Character Bios"
 ---
 
 # Bio Aestro

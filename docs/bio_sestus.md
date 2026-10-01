@@ -1,5 +1,6 @@
 ---
 title: "Bio Sestus"
+category: "Character Bios"
 ---
 
 # Bio Sestus

@@ -1,5 +1,6 @@
 ---
 title: "Rank Bonus Calculator"
+category: "Reference"
 ---
 
 # Rank Bonus Calculator

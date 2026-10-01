@@ -1,5 +1,6 @@
 ---
 title: "Rock Valley Dumps"
+category: "World & Maps"
 ---
 
 # Rock Valley Dumps

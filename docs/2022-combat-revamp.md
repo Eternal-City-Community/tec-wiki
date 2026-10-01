@@ -1,5 +1,6 @@
 ---
 title: "2022 Combat Revamp"
+category: "Skills & Combat"
 ---
 
 # 2022 Combat Revamp

@@ -1,5 +1,6 @@
 ---
 title: "Bio Grazen"
+category: "Character Bios"
 ---
 
 # Bio Grazen

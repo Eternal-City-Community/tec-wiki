@@ -1,5 +1,6 @@
 ---
 title: "Bio Tef"
+category: "Character Bios"
 ---
 
 # Bio Tef

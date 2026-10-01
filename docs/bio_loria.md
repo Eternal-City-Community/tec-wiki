@@ -1,5 +1,6 @@
 ---
 title: "Bio Loria"
+category: "Character Bios"
 ---
 
 # Bio Loria

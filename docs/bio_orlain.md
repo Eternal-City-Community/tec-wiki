@@ -1,5 +1,6 @@
 ---
 title: "Bio Orlain"
+category: "Character Bios"
 ---
 
 # Bio Orlain

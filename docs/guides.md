@@ -1,5 +1,6 @@
 ---
 title: "Guides"
+category: "Guides & Commands"
 ---
 
 # Guides

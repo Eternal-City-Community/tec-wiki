@@ -1,5 +1,6 @@
 ---
 title: "Village Of Seld"
+category: "World & Maps"
 ---
 
 # Village Of Seld

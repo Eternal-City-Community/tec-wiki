@@ -1,5 +1,6 @@
 ---
 title: "Bio Rajean"
+category: "Character Bios"
 ---
 
 # Bio Rajean

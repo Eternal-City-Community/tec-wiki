@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Pepaquest Far East"
+category: "World & Maps"
 ---
 
 # Historic Map Pepaquest Far East

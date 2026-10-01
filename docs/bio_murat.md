@@ -1,5 +1,6 @@
 ---
 title: "Bio Murat"
+category: "Character Bios"
 ---
 
 # Bio Murat

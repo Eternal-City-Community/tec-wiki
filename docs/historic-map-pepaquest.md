@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Pepaquest"
+category: "World & Maps"
 ---
 
 # Historic Map Pepaquest

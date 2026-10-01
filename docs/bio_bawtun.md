@@ -1,5 +1,6 @@
 ---
 title: "Bio Bawtun"
+category: "Character Bios"
 ---
 
 # Bio Bawtun

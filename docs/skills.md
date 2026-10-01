@@ -1,5 +1,6 @@
 ---
 title: "Skills"
+category: "Reference"
 ---
 
 # Skills

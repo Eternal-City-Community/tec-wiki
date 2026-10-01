@@ -1,5 +1,6 @@
 ---
 title: "Praetor Scripts"
+category: "Reference"
 ---
 
 # Praetor Scripts

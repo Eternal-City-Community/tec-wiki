@@ -1,5 +1,6 @@
 ---
 title: "History Of Creation"
+category: "Lore & Community"
 ---
 
 # History Of Creation

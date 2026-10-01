@@ -1,5 +1,6 @@
 ---
 title: "Warlord Kars"
+category: "Reference"
 ---
 
 # Warlord Kars

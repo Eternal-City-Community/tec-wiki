@@ -1,5 +1,6 @@
 ---
 title: "One Handed Swords"
+category: "Skills & Combat"
 ---
 
 # One Handed Swords

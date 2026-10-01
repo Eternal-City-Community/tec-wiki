@@ -1,5 +1,6 @@
 ---
 title: "Character Bios"
+category: "Character Bios"
 ---
 
 # Character Bios

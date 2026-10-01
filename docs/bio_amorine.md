@@ -1,5 +1,6 @@
 ---
 title: "Bio Amorine"
+category: "Character Bios"
 ---
 
 # Bio Amorine

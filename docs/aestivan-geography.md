@@ -1,5 +1,6 @@
 ---
 title: "Aestivan Geography"
+category: "Lore & Community"
 ---
 
 # Aestivan Geography

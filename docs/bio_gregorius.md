@@ -1,5 +1,6 @@
 ---
 title: "Bio Gregorius"
+category: "Character Bios"
 ---
 
 # Bio Gregorius

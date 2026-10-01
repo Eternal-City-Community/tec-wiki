@@ -1,5 +1,6 @@
 ---
 title: "Bio Valstaron Martius"
+category: "Character Bios"
 ---
 
 # Bio Valstaron Martius

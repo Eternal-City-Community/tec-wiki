@@ -1,5 +1,6 @@
 ---
 title: "Feysals Story"
+category: "Reference"
 ---
 
 # Feysals Story

@@ -1,5 +1,6 @@
 ---
 title: "Sandbar"
+category: "Reference"
 ---
 
 # Sandbar

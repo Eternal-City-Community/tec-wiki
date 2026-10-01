@@ -1,5 +1,6 @@
 ---
 title: "One Handed Axes"
+category: "Skills & Combat"
 ---
 
 # One Handed Axes

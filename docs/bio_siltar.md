@@ -1,5 +1,6 @@
 ---
 title: "Bio Siltar"
+category: "Character Bios"
 ---
 
 # Bio Siltar

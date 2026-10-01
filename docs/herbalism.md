@@ -1,5 +1,6 @@
 ---
 title: "Herbalism"
+category: "Reference"
 ---
 
 # Herbalism

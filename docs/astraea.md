@@ -1,5 +1,6 @@
 ---
 title: "Astraea"
+category: "Reference"
 ---
 
 # Astraea

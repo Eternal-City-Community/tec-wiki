@@ -1,5 +1,6 @@
 ---
 title: "Bio Teresa"
+category: "Character Bios"
 ---
 
 # Bio Teresa

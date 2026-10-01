@@ -1,5 +1,6 @@
 ---
 title: "Bio Grier"
+category: "Character Bios"
 ---
 
 # Bio Grier

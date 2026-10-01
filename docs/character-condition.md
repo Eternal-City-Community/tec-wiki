@@ -1,5 +1,6 @@
 ---
 title: "Character Condition"
+category: "Reference"
 ---
 
 # Character Condition

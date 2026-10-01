@@ -1,5 +1,6 @@
 ---
 title: "Codex Histories Of Altene Vol1"
+category: "Reference"
 ---
 
 # Codex Histories Of Altene Vol1

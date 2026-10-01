@@ -1,5 +1,6 @@
 ---
 title: "Bio Toshiro"
+category: "Character Bios"
 ---
 
 # Bio Toshiro

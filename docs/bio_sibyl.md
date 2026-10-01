@@ -1,5 +1,6 @@
 ---
 title: "Bio Sibyl"
+category: "Character Bios"
 ---
 
 # Bio Sibyl

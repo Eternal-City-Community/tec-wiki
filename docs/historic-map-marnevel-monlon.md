@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Monlon"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Monlon

@@ -1,5 +1,6 @@
 ---
 title: "Bio Marnicus"
+category: "Character Bios"
 ---
 
 # Bio Marnicus

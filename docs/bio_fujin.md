@@ -1,5 +1,6 @@
 ---
 title: "Bio Fujin"
+category: "Character Bios"
 ---
 
 # Bio Fujin

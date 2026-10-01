@@ -1,5 +1,6 @@
 ---
 title: "Harbor Rats"
+category: "World & Maps"
 ---
 
 # Harbor Rats

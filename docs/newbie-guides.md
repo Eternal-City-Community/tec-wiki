@@ -1,5 +1,6 @@
 ---
 title: "Newbie Guides"
+category: "Guides & Commands"
 ---
 
 # Newbie Guides

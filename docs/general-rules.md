@@ -1,5 +1,6 @@
 ---
 title: "General Rules"
+category: "Reference"
 ---
 
 # General Rules

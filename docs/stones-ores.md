@@ -1,5 +1,6 @@
 ---
 title: "Stones Ores"
+category: "Reference"
 ---
 
 # Stones Ores

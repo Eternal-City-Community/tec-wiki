@@ -1,5 +1,6 @@
 ---
 title: "Bio Jorale"
+category: "Character Bios"
 ---
 
 # Bio Jorale

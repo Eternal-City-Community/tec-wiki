@@ -1,5 +1,6 @@
 ---
 title: "Forum"
+category: "World & Maps"
 ---
 
 # Forum

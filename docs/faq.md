@@ -1,5 +1,6 @@
 ---
 title: "FAQ"
+category: "Wiki & Help"
 ---
 
 # FAQ

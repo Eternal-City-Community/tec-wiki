@@ -1,5 +1,6 @@
 ---
 title: "Military Service"
+category: "Reference"
 ---
 
 # Military Service

@@ -1,5 +1,6 @@
 ---
 title: "Spider Caverns"
+category: "World & Maps"
 ---
 
 # Spider Caverns

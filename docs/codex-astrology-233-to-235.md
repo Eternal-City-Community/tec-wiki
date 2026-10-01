@@ -1,5 +1,6 @@
 ---
 title: "Codex Astrology 233 To 235"
+category: "Reference"
 ---
 
 # Codex Astrology 233 To 235

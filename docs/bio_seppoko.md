@@ -1,5 +1,6 @@
 ---
 title: "Bio Seppoko"
+category: "Character Bios"
 ---
 
 # Bio Seppoko

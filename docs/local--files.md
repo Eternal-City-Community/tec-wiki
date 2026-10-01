@@ -1,5 +1,6 @@
 ---
 title: "Local Files"
+category: "Reference"
 ---
 
 # Local Files

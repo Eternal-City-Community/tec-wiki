@@ -1,5 +1,6 @@
 ---
 title: "Divortium Auxilii"
+category: "Reference"
 ---
 
 # Divortium Auxilii

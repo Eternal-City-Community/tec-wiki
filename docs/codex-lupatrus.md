@@ -1,5 +1,6 @@
 ---
 title: "Codex Lupatrus"
+category: "Reference"
 ---
 
 # Codex Lupatrus

@@ -1,5 +1,6 @@
 ---
 title: "Combat"
+category: "Skills & Combat"
 ---
 
 # Combat

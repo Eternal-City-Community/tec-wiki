@@ -1,5 +1,6 @@
 ---
 title: "Bio Mishka"
+category: "Character Bios"
 ---
 
 # Bio Mishka

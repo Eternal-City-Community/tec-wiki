@@ -1,5 +1,6 @@
 ---
 title: "Bio Sahar"
+category: "Character Bios"
 ---
 
 # Bio Sahar

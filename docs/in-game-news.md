@@ -1,5 +1,6 @@
 ---
 title: "In Game News"
+category: "Reference"
 ---
 
 # In Game News

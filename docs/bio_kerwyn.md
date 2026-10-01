@@ -1,5 +1,6 @@
 ---
 title: "Bio Kerwyn"
+category: "Character Bios"
 ---
 
 # Bio Kerwyn

@@ -1,5 +1,6 @@
 ---
 title: "Bronze Lane"
+category: "Reference"
 ---
 
 # Bronze Lane

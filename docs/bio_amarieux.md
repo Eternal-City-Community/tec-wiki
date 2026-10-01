@@ -1,5 +1,6 @@
 ---
 title: "Bio Amarieux"
+category: "Character Bios"
 ---
 
 # Bio Amarieux

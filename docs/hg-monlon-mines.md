@@ -1,5 +1,6 @@
 ---
 title: "Hg Monlon Mines"
+category: "World & Maps"
 ---
 
 # Hg Monlon Mines

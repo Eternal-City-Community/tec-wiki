@@ -1,5 +1,6 @@
 ---
 title: "Tanning"
+category: "Reference"
 ---
 
 # Tanning

@@ -1,5 +1,6 @@
 ---
 title: "Burnt Villa"
+category: "World & Maps"
 ---
 
 # Burnt Villa

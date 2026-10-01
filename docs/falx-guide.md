@@ -1,5 +1,6 @@
 ---
 title: "Falx Guide"
+category: "Skills & Combat"
 ---
 
 # Falx Guide

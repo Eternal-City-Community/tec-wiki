@@ -1,5 +1,6 @@
 ---
 title: "Bio Leptanious"
+category: "Character Bios"
 ---
 
 # Bio Leptanious

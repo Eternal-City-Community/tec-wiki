@@ -1,5 +1,6 @@
 ---
 title: "Debt"
+category: "Reference"
 ---
 
 # Debt

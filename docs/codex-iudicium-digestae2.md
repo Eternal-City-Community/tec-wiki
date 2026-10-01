@@ -1,5 +1,6 @@
 ---
 title: "Codex Iudicium Digestae2"
+category: "Reference"
 ---
 
 # Codex Iudicium Digestae2

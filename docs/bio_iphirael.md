@@ -1,5 +1,6 @@
 ---
 title: "Bio Iphirael"
+category: "Character Bios"
 ---
 
 # Bio Iphirael

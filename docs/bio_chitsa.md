@@ -1,5 +1,6 @@
 ---
 title: "Bio Chitsa"
+category: "Character Bios"
 ---
 
 # Bio Chitsa

@@ -1,5 +1,6 @@
 ---
 title: "Bio Jjike"
+category: "Character Bios"
 ---
 
 # Bio Jjike

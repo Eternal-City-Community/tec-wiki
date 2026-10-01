@@ -1,5 +1,6 @@
 ---
 title: "Hoplite Combat"
+category: "Skills & Combat"
 ---
 
 # Hoplite Combat

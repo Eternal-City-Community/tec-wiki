@@ -1,5 +1,6 @@
 ---
 title: "Bio Vladmir"
+category: "Character Bios"
 ---
 
 # Bio Vladmir

@@ -1,5 +1,6 @@
 ---
 title: "Bio Skye"
+category: "Character Bios"
 ---
 
 # Bio Skye

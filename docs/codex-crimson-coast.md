@@ -1,5 +1,6 @@
 ---
 title: "Codex Crimson Coast"
+category: "Reference"
 ---
 
 # Codex Crimson Coast

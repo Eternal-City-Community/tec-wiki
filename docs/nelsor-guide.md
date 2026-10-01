@@ -1,5 +1,6 @@
 ---
 title: "Nelsor Guide"
+category: "Guides & Commands"
 ---
 
 # Nelsor Guide

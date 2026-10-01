@@ -1,5 +1,6 @@
 ---
 title: "Bio Drusus Rustius"
+category: "Character Bios"
 ---
 
 # Bio Drusus Rustius

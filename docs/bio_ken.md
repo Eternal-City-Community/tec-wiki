@@ -1,5 +1,6 @@
 ---
 title: "Bio Ken"
+category: "Character Bios"
 ---
 
 # Bio Ken

@@ -1,5 +1,6 @@
 ---
 title: "Bio Brask"
+category: "Character Bios"
 ---
 
 # Bio Brask

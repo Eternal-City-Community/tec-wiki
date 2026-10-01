@@ -1,5 +1,6 @@
 ---
 title: "Characters"
+category: "Reference"
 ---
 
 # Characters

@@ -1,5 +1,6 @@
 ---
 title: "Pickpocketing"
+category: "Reference"
 ---
 
 # Pickpocketing

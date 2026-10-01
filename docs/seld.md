@@ -1,5 +1,6 @@
 ---
 title: "Seld"
+category: "World & Maps"
 ---
 
 # Seld

@@ -1,5 +1,6 @@
 ---
 title: "Healing"
+category: "Reference"
 ---
 
 # Healing

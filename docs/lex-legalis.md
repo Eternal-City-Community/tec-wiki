@@ -1,5 +1,6 @@
 ---
 title: "Lex Legalis"
+category: "Reference"
 ---
 
 # Lex Legalis

@@ -1,5 +1,6 @@
 ---
 title: "Bio Moonshade"
+category: "Character Bios"
 ---
 
 # Bio Moonshade

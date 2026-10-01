@@ -1,5 +1,6 @@
 ---
 title: "Kelestian Outpost"
+category: "Reference"
 ---
 
 # Kelestian Outpost

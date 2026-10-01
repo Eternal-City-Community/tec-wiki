@@ -1,5 +1,6 @@
 ---
 title: "Bio Jacob"
+category: "Character Bios"
 ---
 
 # Bio Jacob

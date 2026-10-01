@@ -1,5 +1,6 @@
 ---
 title: "Languages"
+category: "Guides & Commands"
 ---
 
 # Languages

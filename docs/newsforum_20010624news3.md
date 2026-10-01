@@ -1,5 +1,6 @@
 ---
 title: "Newsforum 20010624news3"
+category: "World & Maps"
 ---
 
 # Newsforum 20010624news3

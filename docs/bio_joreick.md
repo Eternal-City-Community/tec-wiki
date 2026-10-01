@@ -1,5 +1,6 @@
 ---
 title: "Bio Joreick"
+category: "Character Bios"
 ---
 
 # Bio Joreick

@@ -1,5 +1,6 @@
 ---
 title: "Bio Vanir"
+category: "Character Bios"
 ---
 
 # Bio Vanir

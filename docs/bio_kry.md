@@ -1,5 +1,6 @@
 ---
 title: "Bio Kry"
+category: "Character Bios"
 ---
 
 # Bio Kry

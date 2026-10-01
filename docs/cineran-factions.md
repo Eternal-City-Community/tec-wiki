@@ -1,5 +1,6 @@
 ---
 title: "Cineran Factions"
+category: "Reference"
 ---
 
 # Cineran Factions

@@ -1,5 +1,6 @@
 ---
 title: "Bio Astri"
+category: "Character Bios"
 ---
 
 # Bio Astri

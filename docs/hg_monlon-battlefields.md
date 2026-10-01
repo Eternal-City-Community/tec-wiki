@@ -1,5 +1,6 @@
 ---
 title: "Hg Monlon Battlefields"
+category: "World & Maps"
 ---
 
 # Hg Monlon Battlefields

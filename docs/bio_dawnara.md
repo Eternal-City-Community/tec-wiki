@@ -1,5 +1,6 @@
 ---
 title: "Bio Dawnara"
+category: "Character Bios"
 ---
 
 # Bio Dawnara

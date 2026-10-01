@@ -1,5 +1,6 @@
 ---
 title: "Swamp Mansion"
+category: "World & Maps"
 ---
 
 # Swamp Mansion

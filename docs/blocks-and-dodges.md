@@ -1,5 +1,6 @@
 ---
 title: "Blocks And Dodges"
+category: "Skills & Combat"
 ---
 
 # Blocks And Dodges

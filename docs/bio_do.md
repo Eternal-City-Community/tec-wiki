@@ -1,5 +1,6 @@
 ---
 title: "Bio Do"
+category: "Character Bios"
 ---
 
 # Bio Do

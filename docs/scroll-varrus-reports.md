@@ -1,5 +1,6 @@
 ---
 title: "Scroll Varrus Reports"
+category: "Reference"
 ---
 
 # Scroll Varrus Reports

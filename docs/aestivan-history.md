@@ -1,5 +1,6 @@
 ---
 title: "Aestivan History"
+category: "Lore & Community"
 ---
 
 # Aestivan History

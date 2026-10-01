@@ -1,5 +1,6 @@
 ---
 title: "Scroll Death Of Olethea"
+category: "Reference"
 ---
 
 # Scroll Death Of Olethea

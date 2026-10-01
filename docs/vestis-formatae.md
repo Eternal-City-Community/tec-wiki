@@ -1,5 +1,6 @@
 ---
 title: "Vestis Formatae"
+category: "Reference"
 ---
 
 # Vestis Formatae

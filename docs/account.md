@@ -1,5 +1,6 @@
 ---
 title: "Account"
+category: "Guides & Commands"
 ---
 
 # Account

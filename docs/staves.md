@@ -1,5 +1,6 @@
 ---
 title: "Staves"
+category: "Reference"
 ---
 
 # Staves

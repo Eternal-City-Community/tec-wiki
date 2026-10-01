@@ -1,5 +1,6 @@
 ---
 title: "Bio Excalibur"
+category: "Character Bios"
 ---
 
 # Bio Excalibur

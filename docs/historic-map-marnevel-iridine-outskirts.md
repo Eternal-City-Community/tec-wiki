@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Iridine Outskirts"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Iridine Outskirts

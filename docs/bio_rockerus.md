@@ -1,5 +1,6 @@
 ---
 title: "Bio Rockerus"
+category: "Character Bios"
 ---
 
 # Bio Rockerus

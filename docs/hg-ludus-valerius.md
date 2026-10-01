@@ -1,5 +1,6 @@
 ---
 title: "Hg Ludus Valerius"
+category: "Reference"
 ---
 
 # Hg Ludus Valerius

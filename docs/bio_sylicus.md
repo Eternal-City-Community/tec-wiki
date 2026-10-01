@@ -1,5 +1,6 @@
 ---
 title: "Bio Sylicus"
+category: "Character Bios"
 ---
 
 # Bio Sylicus

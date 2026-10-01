@@ -1,5 +1,6 @@
 ---
 title: "Old Cult Of Ereal"
+category: "Reference"
 ---
 
 # Old Cult Of Ereal

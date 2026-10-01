@@ -1,5 +1,6 @@
 ---
 title: "Newsforum 20010629"
+category: "World & Maps"
 ---
 
 # Newsforum 20010629

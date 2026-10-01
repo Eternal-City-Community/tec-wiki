@@ -1,5 +1,6 @@
 ---
 title: "Stone Toga Inn"
+category: "Reference"
 ---
 
 # Stone Toga Inn

@@ -1,5 +1,6 @@
 ---
 title: "Bio Elis"
+category: "Character Bios"
 ---
 
 # Bio Elis

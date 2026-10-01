@@ -1,5 +1,6 @@
 ---
 title: "Full Enemy List"
+category: "Reference"
 ---
 
 # Full Enemy List

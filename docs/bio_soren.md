@@ -1,5 +1,6 @@
 ---
 title: "Bio Soren"
+category: "Character Bios"
 ---
 
 # Bio Soren

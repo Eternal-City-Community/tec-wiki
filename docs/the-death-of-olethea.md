@@ -1,5 +1,6 @@
 ---
 title: "The Death Of Olethea"
+category: "Reference"
 ---
 
 # The Death Of Olethea

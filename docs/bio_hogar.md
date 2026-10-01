@@ -1,5 +1,6 @@
 ---
 title: "Bio Hogar"
+category: "Character Bios"
 ---
 
 # Bio Hogar

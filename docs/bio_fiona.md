@@ -1,5 +1,6 @@
 ---
 title: "Bio Fiona"
+category: "Character Bios"
 ---
 
 # Bio Fiona

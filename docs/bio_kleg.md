@@ -1,5 +1,6 @@
 ---
 title: "Bio Kleg"
+category: "Character Bios"
 ---
 
 # Bio Kleg

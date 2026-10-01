@@ -1,5 +1,6 @@
 ---
 title: "Bio Sheesh"
+category: "Character Bios"
 ---
 
 # Bio Sheesh

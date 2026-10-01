@@ -1,5 +1,6 @@
 ---
 title: "Monlon Kelestian Outpost"
+category: "World & Maps"
 ---
 
 # Monlon Kelestian Outpost

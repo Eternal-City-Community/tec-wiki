@@ -1,5 +1,6 @@
 ---
 title: "Report Armagorus"
+category: "Reference"
 ---
 
 # Report Armagorus

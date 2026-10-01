@@ -1,5 +1,6 @@
 ---
 title: "Monlon Mines"
+category: "World & Maps"
 ---
 
 # Monlon Mines

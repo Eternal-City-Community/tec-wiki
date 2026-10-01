@@ -1,5 +1,6 @@
 ---
 title: "Campus Martius"
+category: "Reference"
 ---
 
 # Campus Martius

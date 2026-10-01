@@ -1,5 +1,6 @@
 ---
 title: "Tuchea"
+category: "Reference"
 ---
 
 # Tuchea

@@ -1,5 +1,6 @@
 ---
 title: "Superlatives"
+category: "Reference"
 ---
 
 # Superlatives

@@ -1,5 +1,6 @@
 ---
 title: "Fiction"
+category: "Reference"
 ---
 
 # Fiction

@@ -1,5 +1,6 @@
 ---
 title: "Bio Kain"
+category: "Character Bios"
 ---
 
 # Bio Kain

@@ -1,5 +1,6 @@
 ---
 title: "Veteran Characters"
+category: "Reference"
 ---
 
 # Veteran Characters

@@ -1,5 +1,6 @@
 ---
 title: "Scroll Rescue Of Tyrlindax"
+category: "Reference"
 ---
 
 # Scroll Rescue Of Tyrlindax

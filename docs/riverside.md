@@ -1,5 +1,6 @@
 ---
 title: "Riverside"
+category: "Reference"
 ---
 
 # Riverside

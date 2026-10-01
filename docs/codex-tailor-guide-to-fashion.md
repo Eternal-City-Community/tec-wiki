@@ -1,5 +1,6 @@
 ---
 title: "Codex Tailor Guide To Fashion"
+category: "Crafting & Trade"
 ---
 
 # Codex Tailor Guide To Fashion

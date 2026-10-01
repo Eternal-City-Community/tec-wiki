@@ -1,5 +1,6 @@
 ---
 title: "Tailoring Guide"
+category: "Crafting & Trade"
 ---
 
 # Tailoring Guide

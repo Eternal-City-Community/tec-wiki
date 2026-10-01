@@ -1,5 +1,6 @@
 ---
 title: "Report Mad Brith"
+category: "Reference"
 ---
 
 # Report Mad Brith

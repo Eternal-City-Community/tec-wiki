@@ -1,5 +1,6 @@
 ---
 title: "Bio Mestanes"
+category: "Character Bios"
 ---
 
 # Bio Mestanes

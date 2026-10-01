@@ -1,5 +1,6 @@
 ---
 title: "Bio Damion"
+category: "Character Bios"
 ---
 
 # Bio Damion

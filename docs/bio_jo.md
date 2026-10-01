@@ -1,5 +1,6 @@
 ---
 title: "Bio Jo"
+category: "Character Bios"
 ---
 
 # Bio Jo

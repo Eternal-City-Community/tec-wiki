@@ -1,5 +1,6 @@
 ---
 title: "Bio Oman Anande"
+category: "Character Bios"
 ---
 
 # Bio Oman Anande

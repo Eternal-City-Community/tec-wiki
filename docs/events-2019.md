@@ -1,5 +1,6 @@
 ---
 title: "Events 2019"
+category: "Reference"
 ---
 
 # Events 2019

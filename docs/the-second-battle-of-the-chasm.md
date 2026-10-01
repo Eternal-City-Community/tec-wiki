@@ -1,5 +1,6 @@
 ---
 title: "The Second Battle Of The Chasm"
+category: "Lore & Community"
 ---
 
 # The Second Battle Of The Chasm

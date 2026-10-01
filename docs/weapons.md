@@ -1,5 +1,6 @@
 ---
 title: "Weapons"
+category: "Skills & Combat"
 ---
 
 # Weapons

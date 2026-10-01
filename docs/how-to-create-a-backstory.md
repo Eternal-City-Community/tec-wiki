@@ -1,5 +1,6 @@
 ---
 title: "How To Create A Backstory"
+category: "Reference"
 ---
 
 # How To Create A Backstory

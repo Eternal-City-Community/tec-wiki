@@ -1,5 +1,6 @@
 ---
 title: "Soldiers Of Ereal"
+category: "Reference"
 ---
 
 # Soldiers Of Ereal

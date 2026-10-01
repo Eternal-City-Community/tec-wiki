@@ -1,5 +1,6 @@
 ---
 title: "Bio Carnseth"
+category: "Character Bios"
 ---
 
 # Bio Carnseth

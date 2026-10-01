@@ -1,5 +1,6 @@
 ---
 title: "Battle Of The Legion Of Oaks"
+category: "Lore & Community"
 ---
 
 # Battle Of The Legion Of Oaks

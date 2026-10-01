@@ -1,5 +1,6 @@
 ---
 title: "Bio Benignus"
+category: "Character Bios"
 ---
 
 # Bio Benignus

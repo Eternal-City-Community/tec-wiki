@@ -1,5 +1,6 @@
 ---
 title: "Bio Sriker"
+category: "Character Bios"
 ---
 
 # Bio Sriker

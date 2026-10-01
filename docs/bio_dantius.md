@@ -1,5 +1,6 @@
 ---
 title: "Bio Dantius"
+category: "Character Bios"
 ---
 
 # Bio Dantius

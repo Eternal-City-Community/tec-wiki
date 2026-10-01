@@ -1,5 +1,6 @@
 ---
 title: "Bio Lydie"
+category: "Character Bios"
 ---
 
 # Bio Lydie

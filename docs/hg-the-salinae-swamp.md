@@ -1,5 +1,6 @@
 ---
 title: "Hg The Salinae Swamp"
+category: "World & Maps"
 ---
 
 # Hg The Salinae Swamp

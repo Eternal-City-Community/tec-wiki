@@ -1,5 +1,6 @@
 ---
 title: "Codex Elsana Guide"
+category: "Guides & Commands"
 ---
 
 # Codex Elsana Guide

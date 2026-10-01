@@ -1,5 +1,6 @@
 ---
 title: "Arandes Pardelian"
+category: "Reference"
 ---
 
 # Arandes Pardelian

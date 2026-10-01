@@ -1,5 +1,6 @@
 ---
 title: "Bio Sylven"
+category: "Character Bios"
 ---
 
 # Bio Sylven

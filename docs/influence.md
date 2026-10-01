@@ -1,5 +1,6 @@
 ---
 title: "Influence"
+category: "Reference"
 ---
 
 # Influence

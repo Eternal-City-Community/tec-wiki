@@ -1,5 +1,6 @@
 ---
 title: "Codex Founding Of The League"
+category: "Reference"
 ---
 
 # Codex Founding Of The League

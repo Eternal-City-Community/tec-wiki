@@ -1,5 +1,6 @@
 ---
 title: "Herbalism Guide"
+category: "Guides & Commands"
 ---
 
 # Herbalism Guide

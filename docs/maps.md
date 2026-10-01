@@ -1,5 +1,6 @@
 ---
 title: "Maps"
+category: "World & Maps"
 ---
 
 # Maps

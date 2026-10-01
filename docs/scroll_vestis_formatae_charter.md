@@ -1,5 +1,6 @@
 ---
 title: "Scroll Vestis Formatae Charter"
+category: "Reference"
 ---
 
 # Scroll Vestis Formatae Charter

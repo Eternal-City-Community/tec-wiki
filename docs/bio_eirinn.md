@@ -1,5 +1,6 @@
 ---
 title: "Bio Eirinn"
+category: "Character Bios"
 ---
 
 # Bio Eirinn

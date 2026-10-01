@@ -1,5 +1,6 @@
 ---
 title: "Healing Guide"
+category: "Guides & Commands"
 ---
 
 # Healing Guide

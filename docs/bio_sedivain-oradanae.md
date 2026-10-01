@@ -1,5 +1,6 @@
 ---
 title: "Bio Sedivain Oradanae"
+category: "Character Bios"
 ---
 
 # Bio Sedivain Oradanae

@@ -1,5 +1,6 @@
 ---
 title: "Bio Corvus"
+category: "Character Bios"
 ---
 
 # Bio Corvus

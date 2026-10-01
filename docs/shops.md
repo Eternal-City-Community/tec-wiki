@@ -1,5 +1,6 @@
 ---
 title: "Shops"
+category: "Items & Economy"
 ---
 
 # Shops

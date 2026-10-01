@@ -1,5 +1,6 @@
 ---
 title: "Bio Ton"
+category: "Character Bios"
 ---
 
 # Bio Ton

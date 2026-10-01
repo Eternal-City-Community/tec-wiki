@@ -1,5 +1,6 @@
 ---
 title: "Bio Hirtius"
+category: "Character Bios"
 ---
 
 # Bio Hirtius

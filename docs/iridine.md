@@ -1,5 +1,6 @@
 ---
 title: "Iridine"
+category: "World & Maps"
 ---
 
 # Iridine

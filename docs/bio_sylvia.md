@@ -1,5 +1,6 @@
 ---
 title: "Bio Sylvia"
+category: "Character Bios"
 ---
 
 # Bio Sylvia

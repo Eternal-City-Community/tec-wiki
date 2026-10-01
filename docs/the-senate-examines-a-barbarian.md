@@ -1,5 +1,6 @@
 ---
 title: "The Senate Examines A Barbarian"
+category: "World & Maps"
 ---
 
 # The Senate Examines A Barbarian

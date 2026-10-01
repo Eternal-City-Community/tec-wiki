@@ -1,5 +1,6 @@
 ---
 title: "Shields"
+category: "Skills & Combat"
 ---
 
 # Shields

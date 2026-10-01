@@ -1,5 +1,6 @@
 ---
 title: "Tailoring"
+category: "Crafting & Trade"
 ---
 
 # Tailoring

@@ -1,5 +1,6 @@
 ---
 title: "Filinius Villa"
+category: "World & Maps"
 ---
 
 # Filinius Villa

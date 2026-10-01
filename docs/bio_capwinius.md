@@ -1,5 +1,6 @@
 ---
 title: "Bio Capwinius"
+category: "Character Bios"
 ---
 
 # Bio Capwinius

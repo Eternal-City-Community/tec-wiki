@@ -1,5 +1,6 @@
 ---
 title: "Miscellaneous Maps"
+category: "World & Maps"
 ---
 
 # Miscellaneous Maps

@@ -1,5 +1,6 @@
 ---
 title: "Taxes And Civic Finance"
+category: "Skills & Combat"
 ---
 
 # Taxes And Civic Finance

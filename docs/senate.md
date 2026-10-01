@@ -1,5 +1,6 @@
 ---
 title: "Senate"
+category: "Reference"
 ---
 
 # Senate

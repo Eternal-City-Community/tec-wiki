@@ -1,5 +1,6 @@
 ---
 title: "Bio Tulca Ii"
+category: "Character Bios"
 ---
 
 # Bio Tulca Ii

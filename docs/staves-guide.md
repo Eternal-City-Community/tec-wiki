@@ -1,5 +1,6 @@
 ---
 title: "Staves Guide"
+category: "Guides & Commands"
 ---
 
 # Staves Guide

@@ -1,5 +1,6 @@
 ---
 title: "Rock Valley Mine"
+category: "World & Maps"
 ---
 
 # Rock Valley Mine

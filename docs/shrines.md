@@ -1,5 +1,6 @@
 ---
 title: "Shrines"
+category: "Reference"
 ---
 
 # Shrines

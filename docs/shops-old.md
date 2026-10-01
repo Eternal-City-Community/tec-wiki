@@ -1,5 +1,6 @@
 ---
 title: "Shops Old"
+category: "Items & Economy"
 ---
 
 # Shops Old

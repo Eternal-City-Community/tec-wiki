@@ -1,5 +1,6 @@
 ---
 title: "Bio Alexxandria"
+category: "Character Bios"
 ---
 
 # Bio Alexxandria

@@ -1,5 +1,6 @@
 ---
 title: "Religion"
+category: "Lore & Community"
 ---
 
 # Religion

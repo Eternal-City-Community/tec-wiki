@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+category: "Reference"
 ---
 
 # Contact

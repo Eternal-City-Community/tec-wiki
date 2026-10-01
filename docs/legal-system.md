@@ -1,5 +1,6 @@
 ---
 title: "Legal System"
+category: "Reference"
 ---
 
 # Legal System

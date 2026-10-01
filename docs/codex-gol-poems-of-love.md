@@ -1,5 +1,6 @@
 ---
 title: "Codex Gol Poems Of Love"
+category: "Reference"
 ---
 
 # Codex Gol Poems Of Love

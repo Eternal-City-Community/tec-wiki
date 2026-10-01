@@ -1,5 +1,6 @@
 ---
 title: "Site Index"
+category: "Reference"
 ---
 
 # Site Index

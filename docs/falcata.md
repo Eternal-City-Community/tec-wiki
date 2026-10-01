@@ -1,5 +1,6 @@
 ---
 title: "Falcata"
+category: "Skills & Combat"
 ---
 
 # Falcata

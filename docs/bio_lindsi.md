@@ -1,5 +1,6 @@
 ---
 title: "Bio Lindsi"
+category: "Character Bios"
 ---
 
 # Bio Lindsi

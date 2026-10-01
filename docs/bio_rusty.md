@@ -1,5 +1,6 @@
 ---
 title: "Bio Rusty"
+category: "Character Bios"
 ---
 
 # Bio Rusty

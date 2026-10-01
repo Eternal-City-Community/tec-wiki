@@ -1,5 +1,6 @@
 ---
 title: "Bio Fry"
+category: "Character Bios"
 ---
 
 # Bio Fry

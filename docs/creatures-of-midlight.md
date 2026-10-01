@@ -1,5 +1,6 @@
 ---
 title: "Creatures Of Midlight"
+category: "Reference"
 ---
 
 # Creatures Of Midlight

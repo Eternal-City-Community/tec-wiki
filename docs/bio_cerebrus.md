@@ -1,5 +1,6 @@
 ---
 title: "Bio Cerebrus"
+category: "Character Bios"
 ---
 
 # Bio Cerebrus

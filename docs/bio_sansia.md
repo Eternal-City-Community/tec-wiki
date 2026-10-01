@@ -1,5 +1,6 @@
 ---
 title: "Bio Sansia"
+category: "Character Bios"
 ---
 
 # Bio Sansia

@@ -1,5 +1,6 @@
 ---
 title: "Combat Guide"
+category: "Skills & Combat"
 ---
 
 # Combat Guide

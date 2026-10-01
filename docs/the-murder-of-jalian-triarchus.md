@@ -1,5 +1,6 @@
 ---
 title: "The Murder Of Jalian Triarchus"
+category: "Reference"
 ---
 
 # The Murder Of Jalian Triarchus

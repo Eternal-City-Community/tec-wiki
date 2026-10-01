@@ -1,5 +1,6 @@
 ---
 title: "Browser Editing"
+category: "Wiki & Help"
 ---
 
 # Browser Editing

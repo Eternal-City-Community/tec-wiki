@@ -1,5 +1,6 @@
 ---
 title: "Scroll Soldiers Of Ereal Return"
+category: "Reference"
 ---
 
 # Scroll Soldiers Of Ereal Return

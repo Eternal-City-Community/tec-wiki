@@ -1,5 +1,6 @@
 ---
 title: "Whips Guide"
+category: "Skills & Combat"
 ---
 
 # Whips Guide

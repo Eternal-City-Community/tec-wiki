@@ -1,5 +1,6 @@
 ---
 title: "Bio Avril"
+category: "Character Bios"
 ---
 
 # Bio Avril

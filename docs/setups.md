@@ -1,5 +1,6 @@
 ---
 title: "Setups"
+category: "Reference"
 ---
 
 # Setups

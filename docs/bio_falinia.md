@@ -1,5 +1,6 @@
 ---
 title: "Bio Falinia"
+category: "Character Bios"
 ---
 
 # Bio Falinia

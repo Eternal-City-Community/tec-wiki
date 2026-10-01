@@ -1,5 +1,6 @@
 ---
 title: "Rescue Of Seredian Allende"
+category: "Reference"
 ---
 
 # Rescue Of Seredian Allende

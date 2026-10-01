@@ -1,5 +1,6 @@
 ---
 title: "Bio Lillith"
+category: "Character Bios"
 ---
 
 # Bio Lillith

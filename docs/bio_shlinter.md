@@ -1,5 +1,6 @@
 ---
 title: "Bio Shlinter"
+category: "Character Bios"
 ---
 
 # Bio Shlinter

@@ -1,5 +1,6 @@
 ---
 title: "Codex Nature Of Souls"
+category: "Reference"
 ---
 
 # Codex Nature Of Souls

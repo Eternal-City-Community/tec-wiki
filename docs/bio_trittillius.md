@@ -1,5 +1,6 @@
 ---
 title: "Bio Trittillius"
+category: "Character Bios"
 ---
 
 # Bio Trittillius

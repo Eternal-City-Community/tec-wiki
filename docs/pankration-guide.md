@@ -1,5 +1,6 @@
 ---
 title: "Pankration Guide"
+category: "Skills & Combat"
 ---
 
 # Pankration Guide

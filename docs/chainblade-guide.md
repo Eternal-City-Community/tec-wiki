@@ -1,5 +1,6 @@
 ---
 title: "Chainblade Guide"
+category: "Guides & Commands"
 ---
 
 # Chainblade Guide

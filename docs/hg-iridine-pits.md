@@ -1,5 +1,6 @@
 ---
 title: "Hg Iridine Pits"
+category: "World & Maps"
 ---
 
 # Hg Iridine Pits

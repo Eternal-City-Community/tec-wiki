@@ -1,5 +1,6 @@
 ---
 title: "News Forum"
+category: "World & Maps"
 ---
 
 # News Forum

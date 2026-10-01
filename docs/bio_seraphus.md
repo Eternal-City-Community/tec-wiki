@@ -1,5 +1,6 @@
 ---
 title: "Bio Seraphus"
+category: "Character Bios"
 ---
 
 # Bio Seraphus

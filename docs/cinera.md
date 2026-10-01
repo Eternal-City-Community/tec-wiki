@@ -1,5 +1,6 @@
 ---
 title: "Cinera"
+category: "Reference"
 ---
 
 # Cinera

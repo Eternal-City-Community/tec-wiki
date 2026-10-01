@@ -1,5 +1,6 @@
 ---
 title: "Codex Warrior Spirit"
+category: "Reference"
 ---
 
 # Codex Warrior Spirit

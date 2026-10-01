@@ -1,5 +1,6 @@
 ---
 title: "Codex Badger Guide Monlon"
+category: "World & Maps"
 ---
 
 # Codex Badger Guide Monlon

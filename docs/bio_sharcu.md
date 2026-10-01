@@ -1,5 +1,6 @@
 ---
 title: "Bio Sharcu"
+category: "Character Bios"
 ---
 
 # Bio Sharcu

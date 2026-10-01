@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Vetallun Blackvine"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Vetallun Blackvine

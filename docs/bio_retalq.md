@@ -1,5 +1,6 @@
 ---
 title: "Bio Retalq"
+category: "Character Bios"
 ---
 
 # Bio Retalq

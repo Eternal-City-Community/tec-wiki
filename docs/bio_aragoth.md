@@ -1,5 +1,6 @@
 ---
 title: "Bio Aragoth"
+category: "Character Bios"
 ---
 
 # Bio Aragoth

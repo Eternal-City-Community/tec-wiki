@@ -1,5 +1,6 @@
 ---
 title: "Vetallun"
+category: "World & Maps"
 ---
 
 # Vetallun

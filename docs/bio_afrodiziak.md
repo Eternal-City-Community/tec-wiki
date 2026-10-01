@@ -1,5 +1,6 @@
 ---
 title: "Bio Afrodiziak"
+category: "Character Bios"
 ---
 
 # Bio Afrodiziak

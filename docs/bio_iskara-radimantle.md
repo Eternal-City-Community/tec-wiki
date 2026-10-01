@@ -1,5 +1,6 @@
 ---
 title: "Bio Iskara Radimantle"
+category: "Character Bios"
 ---
 
 # Bio Iskara Radimantle

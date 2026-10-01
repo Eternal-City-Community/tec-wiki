@@ -1,5 +1,6 @@
 ---
 title: "The Rescue Of Tyrlindax"
+category: "Reference"
 ---
 
 # The Rescue Of Tyrlindax

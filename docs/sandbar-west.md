@@ -1,5 +1,6 @@
 ---
 title: "Sandbar West"
+category: "Reference"
 ---
 
 # Sandbar West

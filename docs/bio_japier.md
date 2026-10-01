@@ -1,5 +1,6 @@
 ---
 title: "Bio Japier"
+category: "Character Bios"
 ---
 
 # Bio Japier

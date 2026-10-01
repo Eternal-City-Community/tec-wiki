@@ -1,5 +1,6 @@
 ---
 title: "Flora Fauna"
+category: "Reference"
 ---
 
 # Flora Fauna

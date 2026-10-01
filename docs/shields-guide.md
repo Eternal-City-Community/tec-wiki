@@ -1,5 +1,6 @@
 ---
 title: "Shields Guide"
+category: "Skills & Combat"
 ---
 
 # Shields Guide

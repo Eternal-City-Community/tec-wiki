@@ -1,5 +1,6 @@
 ---
 title: "Bio Siphon"
+category: "Character Bios"
 ---
 
 # Bio Siphon

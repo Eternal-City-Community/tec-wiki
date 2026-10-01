@@ -1,5 +1,6 @@
 ---
 title: "Bio Brison"
+category: "Character Bios"
 ---
 
 # Bio Brison

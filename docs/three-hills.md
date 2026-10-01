@@ -1,5 +1,6 @@
 ---
 title: "Three Hills"
+category: "Reference"
 ---
 
 # Three Hills

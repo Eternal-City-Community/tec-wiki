@@ -1,5 +1,6 @@
 ---
 title: "Hunting Grounds"
+category: "Skills & Combat"
 ---
 
 # Hunting Grounds

@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Invex Delta"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Invex Delta

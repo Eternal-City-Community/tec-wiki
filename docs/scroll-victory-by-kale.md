@@ -1,5 +1,6 @@
 ---
 title: "Scroll Victory By Kale"
+category: "Reference"
 ---
 
 # Scroll Victory By Kale

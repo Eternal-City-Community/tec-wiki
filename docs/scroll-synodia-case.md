@@ -1,5 +1,6 @@
 ---
 title: "Scroll Synodia Case"
+category: "Reference"
 ---
 
 # Scroll Synodia Case

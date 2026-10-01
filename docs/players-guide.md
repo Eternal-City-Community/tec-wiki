@@ -1,5 +1,6 @@
 ---
 title: "Players Guide"
+category: "Guides & Commands"
 ---
 
 # Players Guide

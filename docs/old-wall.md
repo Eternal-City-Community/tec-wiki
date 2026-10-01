@@ -1,5 +1,6 @@
 ---
 title: "Old Wall"
+category: "Reference"
 ---
 
 # Old Wall

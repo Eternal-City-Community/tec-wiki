@@ -1,5 +1,6 @@
 ---
 title: "Monlon Vigiles"
+category: "World & Maps"
 ---
 
 # Monlon Vigiles

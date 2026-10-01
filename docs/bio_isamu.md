@@ -1,5 +1,6 @@
 ---
 title: "Bio Isamu"
+category: "Character Bios"
 ---
 
 # Bio Isamu

@@ -1,5 +1,6 @@
 ---
 title: "Archived Historic Map Marnevel Franlius"
+category: "Archive"
 ---
 
 # Archived Historic Map Marnevel Franlius

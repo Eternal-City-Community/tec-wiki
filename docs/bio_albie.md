@@ -1,5 +1,6 @@
 ---
 title: "Bio Albie"
+category: "Character Bios"
 ---
 
 # Bio Albie

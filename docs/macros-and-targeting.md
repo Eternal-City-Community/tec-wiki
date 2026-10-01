@@ -1,5 +1,6 @@
 ---
 title: "Macros And Targeting"
+category: "Reference"
 ---
 
 # Macros And Targeting

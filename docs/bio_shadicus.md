@@ -1,5 +1,6 @@
 ---
 title: "Bio Shadicus"
+category: "Character Bios"
 ---
 
 # Bio Shadicus

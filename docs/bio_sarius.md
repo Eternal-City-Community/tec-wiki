@@ -1,5 +1,6 @@
 ---
 title: "Bio Sarius"
+category: "Character Bios"
 ---
 
 # Bio Sarius

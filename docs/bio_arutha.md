@@ -1,5 +1,6 @@
 ---
 title: "Bio Arutha"
+category: "Character Bios"
 ---
 
 # Bio Arutha

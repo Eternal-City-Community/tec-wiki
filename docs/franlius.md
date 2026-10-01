@@ -1,5 +1,6 @@
 ---
 title: "Franlius"
+category: "World & Maps"
 ---
 
 # Franlius

@@ -1,5 +1,6 @@
 ---
 title: "Town Of Franlius"
+category: "World & Maps"
 ---
 
 # Town Of Franlius

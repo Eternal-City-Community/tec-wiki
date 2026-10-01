@@ -1,5 +1,6 @@
 ---
 title: "Village Of Viron"
+category: "World & Maps"
 ---
 
 # Village Of Viron

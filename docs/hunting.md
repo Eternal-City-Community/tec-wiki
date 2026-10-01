@@ -1,5 +1,6 @@
 ---
 title: "Hunting"
+category: "Skills & Combat"
 ---
 
 # Hunting

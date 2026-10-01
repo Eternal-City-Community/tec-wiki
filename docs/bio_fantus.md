@@ -1,5 +1,6 @@
 ---
 title: "Bio Fantus"
+category: "Character Bios"
 ---
 
 # Bio Fantus

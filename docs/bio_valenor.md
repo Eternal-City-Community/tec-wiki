@@ -1,5 +1,6 @@
 ---
 title: "Bio Valenor"
+category: "Character Bios"
 ---
 
 # Bio Valenor

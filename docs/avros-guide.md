@@ -1,5 +1,6 @@
 ---
 title: "Avros Guide"
+category: "Skills & Combat"
 ---
 
 # Avros Guide

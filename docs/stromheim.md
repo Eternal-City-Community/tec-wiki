@@ -1,5 +1,6 @@
 ---
 title: "Stromheim"
+category: "World & Maps"
 ---
 
 # Stromheim

@@ -1,5 +1,6 @@
 ---
 title: "Rat Pits And Aralex Pits"
+category: "Reference"
 ---
 
 # Rat Pits And Aralex Pits

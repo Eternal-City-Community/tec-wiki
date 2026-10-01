@@ -1,5 +1,6 @@
 ---
 title: "Bio Ashen"
+category: "Character Bios"
 ---
 
 # Bio Ashen

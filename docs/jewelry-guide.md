@@ -1,5 +1,6 @@
 ---
 title: "Jewelry Guide"
+category: "Crafting & Trade"
 ---
 
 # Jewelry Guide

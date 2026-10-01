@@ -1,5 +1,6 @@
 ---
 title: "Player Stories"
+category: "Reference"
 ---
 
 # Player Stories

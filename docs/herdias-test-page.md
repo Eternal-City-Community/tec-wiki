@@ -1,5 +1,6 @@
 ---
 title: "Herdias Test Page"
+category: "Reference"
 ---
 
 # Herdias Test Page

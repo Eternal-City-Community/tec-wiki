@@ -1,5 +1,6 @@
 ---
 title: "Bio Antequides"
+category: "Character Bios"
 ---
 
 # Bio Antequides

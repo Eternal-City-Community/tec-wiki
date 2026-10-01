@@ -1,5 +1,6 @@
 ---
 title: "Bio Echo"
+category: "Character Bios"
 ---
 
 # Bio Echo

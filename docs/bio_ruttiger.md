@@ -1,5 +1,6 @@
 ---
 title: "Bio Ruttiger"
+category: "Character Bios"
 ---
 
 # Bio Ruttiger

@@ -1,5 +1,6 @@
 ---
 title: "Bio Kaeis"
+category: "Character Bios"
 ---
 
 # Bio Kaeis

@@ -1,5 +1,6 @@
 ---
 title: "Bio Katerina"
+category: "Character Bios"
 ---
 
 # Bio Katerina

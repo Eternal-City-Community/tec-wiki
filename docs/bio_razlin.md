@@ -1,5 +1,6 @@
 ---
 title: "Bio Razlin"
+category: "Character Bios"
 ---
 
 # Bio Razlin

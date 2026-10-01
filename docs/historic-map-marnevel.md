@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel

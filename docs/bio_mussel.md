@@ -1,5 +1,6 @@
 ---
 title: "Bio Mussel"
+category: "Character Bios"
 ---
 
 # Bio Mussel

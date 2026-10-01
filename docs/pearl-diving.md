@@ -1,5 +1,6 @@
 ---
 title: "Pearl Diving"
+category: "Reference"
 ---
 
 # Pearl Diving

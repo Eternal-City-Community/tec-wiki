@@ -1,5 +1,6 @@
 ---
 title: "Cullaiden Island"
+category: "World & Maps"
 ---
 
 # Cullaiden Island

@@ -1,5 +1,6 @@
 ---
 title: "Bio Gabrie"
+category: "Character Bios"
 ---
 
 # Bio Gabrie

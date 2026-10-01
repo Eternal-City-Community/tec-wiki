@@ -1,5 +1,6 @@
 ---
 title: "Bio Joshius"
+category: "Character Bios"
 ---
 
 # Bio Joshius

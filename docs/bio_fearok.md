@@ -1,5 +1,6 @@
 ---
 title: "Bio Fearok"
+category: "Character Bios"
 ---
 
 # Bio Fearok

@@ -1,5 +1,6 @@
 ---
 title: "Bio Bandi"
+category: "Character Bios"
 ---
 
 # Bio Bandi

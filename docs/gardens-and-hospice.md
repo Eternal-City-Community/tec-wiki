@@ -1,5 +1,6 @@
 ---
 title: "Gardens And Hospice"
+category: "Reference"
 ---
 
 # Gardens And Hospice

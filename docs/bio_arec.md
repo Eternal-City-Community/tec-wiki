@@ -1,5 +1,6 @@
 ---
 title: "Bio Arec"
+category: "Character Bios"
 ---
 
 # Bio Arec

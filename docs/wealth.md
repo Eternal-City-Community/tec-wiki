@@ -1,5 +1,6 @@
 ---
 title: "Wealth"
+category: "Reference"
 ---
 
 # Wealth

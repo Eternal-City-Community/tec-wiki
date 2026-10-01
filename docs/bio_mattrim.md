@@ -1,5 +1,6 @@
 ---
 title: "Bio Mattrim"
+category: "Character Bios"
 ---
 
 # Bio Mattrim

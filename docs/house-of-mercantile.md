@@ -1,5 +1,6 @@
 ---
 title: "House Of Mercantile"
+category: "Reference"
 ---
 
 # House Of Mercantile

@@ -1,5 +1,6 @@
 ---
 title: "Bio Cheraa"
+category: "Character Bios"
 ---
 
 # Bio Cheraa

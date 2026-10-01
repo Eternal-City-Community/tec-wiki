@@ -1,5 +1,6 @@
 ---
 title: "Bio Willhelm"
+category: "Character Bios"
 ---
 
 # Bio Willhelm

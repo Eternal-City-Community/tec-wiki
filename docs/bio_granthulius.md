@@ -1,5 +1,6 @@
 ---
 title: "Bio Granthulius"
+category: "Character Bios"
 ---
 
 # Bio Granthulius

@@ -1,5 +1,6 @@
 ---
 title: "Codex Varrus Reports"
+category: "Reference"
 ---
 
 # Codex Varrus Reports

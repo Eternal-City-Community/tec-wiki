@@ -1,5 +1,6 @@
 ---
 title: "Bio Nathanial"
+category: "Character Bios"
 ---
 
 # Bio Nathanial

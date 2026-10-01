@@ -1,5 +1,6 @@
 ---
 title: "Newbie Non Combat Guides"
+category: "Skills & Combat"
 ---
 
 # Newbie Non Combat Guides

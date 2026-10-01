@@ -1,5 +1,6 @@
 ---
 title: "Bio Jarin Seneda"
+category: "Character Bios"
 ---
 
 # Bio Jarin Seneda

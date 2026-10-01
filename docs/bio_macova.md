@@ -1,5 +1,6 @@
 ---
 title: "Bio Macova"
+category: "Character Bios"
 ---
 
 # Bio Macova

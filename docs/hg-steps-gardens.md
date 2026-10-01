@@ -1,5 +1,6 @@
 ---
 title: "Hg Steps Gardens"
+category: "World & Maps"
 ---
 
 # Hg Steps Gardens

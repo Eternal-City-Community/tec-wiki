@@ -1,5 +1,6 @@
 ---
 title: "Codex Sagitum Triarii Vol1"
+category: "Reference"
 ---
 
 # Codex Sagitum Triarii Vol1

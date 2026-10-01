@@ -1,5 +1,6 @@
 ---
 title: "Bio Jalian Triarchus"
+category: "Character Bios"
 ---
 
 # Bio Jalian Triarchus

@@ -1,5 +1,6 @@
 ---
 title: "Bio Olaric"
+category: "Character Bios"
 ---
 
 # Bio Olaric

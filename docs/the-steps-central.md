@@ -1,5 +1,6 @@
 ---
 title: "The Steps Central"
+category: "World & Maps"
 ---
 
 # The Steps Central

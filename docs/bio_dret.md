@@ -1,5 +1,6 @@
 ---
 title: "Bio Dret"
+category: "Character Bios"
 ---
 
 # Bio Dret

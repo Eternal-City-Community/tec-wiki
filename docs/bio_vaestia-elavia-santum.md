@@ -1,5 +1,6 @@
 ---
 title: "Bio Vaestia Elavia Santum"
+category: "Character Bios"
 ---
 
 # Bio Vaestia Elavia Santum

@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Alley"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Alley

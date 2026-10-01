@@ -1,5 +1,6 @@
 ---
 title: "Bio Junia Gracious"
+category: "Character Bios"
 ---
 
 # Bio Junia Gracious

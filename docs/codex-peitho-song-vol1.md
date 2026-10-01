@@ -1,5 +1,6 @@
 ---
 title: "Codex Peitho Song Vol1"
+category: "Reference"
 ---
 
 # Codex Peitho Song Vol1

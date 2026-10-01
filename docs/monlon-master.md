@@ -1,5 +1,6 @@
 ---
 title: "Monlon Master"
+category: "World & Maps"
 ---
 
 # Monlon Master

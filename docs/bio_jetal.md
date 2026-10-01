@@ -1,5 +1,6 @@
 ---
 title: "Bio Jetal"
+category: "Character Bios"
 ---
 
 # Bio Jetal

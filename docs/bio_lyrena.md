@@ -1,5 +1,6 @@
 ---
 title: "Bio Lyrena"
+category: "Character Bios"
 ---
 
 # Bio Lyrena

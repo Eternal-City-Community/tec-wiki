@@ -1,5 +1,6 @@
 ---
 title: "Bio Co"
+category: "Character Bios"
 ---
 
 # Bio Co

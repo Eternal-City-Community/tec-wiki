@@ -1,5 +1,6 @@
 ---
 title: "Archived State Of The Game"
+category: "Archive"
 ---
 
 # Archived State Of The Game

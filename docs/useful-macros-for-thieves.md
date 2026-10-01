@@ -1,5 +1,6 @@
 ---
 title: "Useful Macros For Thieves"
+category: "Reference"
 ---
 
 # Useful Macros For Thieves

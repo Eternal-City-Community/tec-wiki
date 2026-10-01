@@ -1,5 +1,6 @@
 ---
 title: "Bio Arinu"
+category: "Character Bios"
 ---
 
 # Bio Arinu

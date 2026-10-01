@@ -1,5 +1,6 @@
 ---
 title: "Village Of Stromheim"
+category: "World & Maps"
 ---
 
 # Village Of Stromheim

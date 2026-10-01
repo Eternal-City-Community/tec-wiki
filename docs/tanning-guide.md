@@ -1,5 +1,6 @@
 ---
 title: "Tanning Guide"
+category: "Guides & Commands"
 ---
 
 # Tanning Guide

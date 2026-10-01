@@ -1,5 +1,6 @@
 ---
 title: "Scroll How Do I Name Stupid"
+category: "Reference"
 ---
 
 # Scroll How Do I Name Stupid

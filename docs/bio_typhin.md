@@ -1,5 +1,6 @@
 ---
 title: "Bio Typhin"
+category: "Character Bios"
 ---
 
 # Bio Typhin

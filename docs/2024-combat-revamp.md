@@ -1,5 +1,6 @@
 ---
 title: "2024 Combat Revamp"
+category: "Skills & Combat"
 ---
 
 # 2024 Combat Revamp

@@ -1,5 +1,6 @@
 ---
 title: "Town Of Rock Valley"
+category: "World & Maps"
 ---
 
 # Town Of Rock Valley

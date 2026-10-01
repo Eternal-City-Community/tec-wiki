@@ -1,5 +1,6 @@
 ---
 title: "Unofficial World Map"
+category: "World & Maps"
 ---
 
 # Unofficial World Map

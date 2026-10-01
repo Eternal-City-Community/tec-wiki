@@ -1,5 +1,6 @@
 ---
 title: "Bio Sthenos"
+category: "Character Bios"
 ---
 
 # Bio Sthenos

@@ -1,5 +1,6 @@
 ---
 title: "Nations"
+category: "Reference"
 ---
 
 # Nations

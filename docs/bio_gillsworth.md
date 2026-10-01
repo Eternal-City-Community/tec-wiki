@@ -1,5 +1,6 @@
 ---
 title: "Bio Gillsworth"
+category: "Character Bios"
 ---
 
 # Bio Gillsworth

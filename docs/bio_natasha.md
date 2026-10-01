@@ -1,5 +1,6 @@
 ---
 title: "Bio Natasha"
+category: "Character Bios"
 ---
 
 # Bio Natasha

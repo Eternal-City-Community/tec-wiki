@@ -1,5 +1,6 @@
 ---
 title: "Warrants"
+category: "Reference"
 ---
 
 # Warrants

@@ -1,5 +1,6 @@
 ---
 title: "Traits"
+category: "Reference"
 ---
 
 # Traits

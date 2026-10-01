@@ -1,5 +1,6 @@
 ---
 title: "Bio Morphius"
+category: "Character Bios"
 ---
 
 # Bio Morphius

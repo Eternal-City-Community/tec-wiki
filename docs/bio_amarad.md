@@ -1,5 +1,6 @@
 ---
 title: "Bio Amarad"
+category: "Character Bios"
 ---
 
 # Bio Amarad

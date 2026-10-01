@@ -1,5 +1,6 @@
 ---
 title: "Cestus Guide"
+category: "Skills & Combat"
 ---
 
 # Cestus Guide

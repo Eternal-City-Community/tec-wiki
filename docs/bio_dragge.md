@@ -1,5 +1,6 @@
 ---
 title: "Bio Dragge"
+category: "Character Bios"
 ---
 
 # Bio Dragge

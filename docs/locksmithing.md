@@ -1,5 +1,6 @@
 ---
 title: "Locksmithing"
+category: "Crafting & Trade"
 ---
 
 # Locksmithing

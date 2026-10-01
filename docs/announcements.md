@@ -1,5 +1,6 @@
 ---
 title: "Announcements"
+category: "Lore & Community"
 ---
 
 # Announcements

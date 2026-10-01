@@ -1,5 +1,6 @@
 ---
 title: "Bio Cladius"
+category: "Character Bios"
 ---
 
 # Bio Cladius

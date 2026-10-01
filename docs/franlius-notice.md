@@ -1,5 +1,6 @@
 ---
 title: "Franlius Notice"
+category: "World & Maps"
 ---
 
 # Franlius Notice

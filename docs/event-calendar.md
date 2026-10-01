@@ -1,5 +1,6 @@
 ---
 title: "Event Calendar"
+category: "Lore & Community"
 ---
 
 # Event Calendar

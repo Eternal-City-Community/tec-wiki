@@ -1,5 +1,6 @@
 ---
 title: "RP Expenditure"
+category: "Reference"
 ---
 
 # RP Expenditure

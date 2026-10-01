@@ -1,5 +1,6 @@
 ---
 title: "Bio Altaran Calsuan"
+category: "Character Bios"
 ---
 
 # Bio Altaran Calsuan

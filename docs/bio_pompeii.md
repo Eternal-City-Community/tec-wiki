@@ -1,5 +1,6 @@
 ---
 title: "Bio Pompeii"
+category: "Character Bios"
 ---
 
 # Bio Pompeii

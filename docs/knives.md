@@ -1,5 +1,6 @@
 ---
 title: "Knives"
+category: "Reference"
 ---
 
 # Knives

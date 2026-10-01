@@ -1,5 +1,6 @@
 ---
 title: "Bio Kylara"
+category: "Character Bios"
 ---
 
 # Bio Kylara

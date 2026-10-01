@@ -1,5 +1,6 @@
 ---
 title: "Hair Styles Barbershop"
+category: "Items & Economy"
 ---
 
 # Hair Styles Barbershop

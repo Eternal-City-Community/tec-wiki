@@ -1,5 +1,6 @@
 ---
 title: "Bio Jin"
+category: "Character Bios"
 ---
 
 # Bio Jin

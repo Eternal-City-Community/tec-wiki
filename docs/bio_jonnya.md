@@ -1,5 +1,6 @@
 ---
 title: "Bio Jonnya"
+category: "Character Bios"
 ---
 
 # Bio Jonnya

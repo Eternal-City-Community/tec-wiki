@@ -1,5 +1,6 @@
 ---
 title: "Hg Burnt Villa"
+category: "World & Maps"
 ---
 
 # Hg Burnt Villa

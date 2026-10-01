@@ -1,5 +1,6 @@
 ---
 title: "Bio Drunser"
+category: "Character Bios"
 ---
 
 # Bio Drunser

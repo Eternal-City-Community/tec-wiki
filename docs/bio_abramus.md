@@ -1,5 +1,6 @@
 ---
 title: "Bio Abramus"
+category: "Character Bios"
 ---
 
 # Bio Abramus

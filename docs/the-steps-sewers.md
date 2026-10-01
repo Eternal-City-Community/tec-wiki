@@ -1,5 +1,6 @@
 ---
 title: "The Steps Sewers"
+category: "World & Maps"
 ---
 
 # The Steps Sewers

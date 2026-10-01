@@ -1,5 +1,6 @@
 ---
 title: "Codex Kimalei Poems"
+category: "Reference"
 ---
 
 # Codex Kimalei Poems

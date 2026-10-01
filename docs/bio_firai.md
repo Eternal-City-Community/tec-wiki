@@ -1,5 +1,6 @@
 ---
 title: "Bio Firai"
+category: "Character Bios"
 ---
 
 # Bio Firai

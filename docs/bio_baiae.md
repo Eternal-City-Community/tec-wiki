@@ -1,5 +1,6 @@
 ---
 title: "Bio Baiae"
+category: "Character Bios"
 ---
 
 # Bio Baiae

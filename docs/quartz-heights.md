@@ -1,5 +1,6 @@
 ---
 title: "Quartz Heights"
+category: "Reference"
 ---
 
 # Quartz Heights

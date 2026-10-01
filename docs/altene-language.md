@@ -1,5 +1,6 @@
 ---
 title: "Altene Language"
+category: "Guides & Commands"
 ---
 
 # Altene Language

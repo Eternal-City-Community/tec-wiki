@@ -1,5 +1,6 @@
 ---
 title: "Swamp Vale"
+category: "World & Maps"
 ---
 
 # Swamp Vale

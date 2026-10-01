@@ -1,5 +1,6 @@
 ---
 title: "Bio Shin"
+category: "Character Bios"
 ---
 
 # Bio Shin

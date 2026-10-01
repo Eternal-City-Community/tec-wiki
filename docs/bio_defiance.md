@@ -1,5 +1,6 @@
 ---
 title: "Bio Defiance"
+category: "Character Bios"
 ---
 
 # Bio Defiance

@@ -1,5 +1,6 @@
 ---
 title: "Bio Robus"
+category: "Character Bios"
 ---
 
 # Bio Robus

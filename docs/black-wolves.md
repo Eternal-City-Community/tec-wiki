@@ -1,5 +1,6 @@
 ---
 title: "Black Wolves"
+category: "Reference"
 ---
 
 # Black Wolves

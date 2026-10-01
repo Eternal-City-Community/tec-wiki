@@ -1,5 +1,6 @@
 ---
 title: "Eastern Grasslands And Woods"
+category: "World & Maps"
 ---
 
 # Eastern Grasslands And Woods

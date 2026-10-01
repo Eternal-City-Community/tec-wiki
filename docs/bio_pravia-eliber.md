@@ -1,5 +1,6 @@
 ---
 title: "Bio Pravia Eliber"
+category: "Character Bios"
 ---
 
 # Bio Pravia Eliber

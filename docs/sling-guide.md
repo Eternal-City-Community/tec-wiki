@@ -1,5 +1,6 @@
 ---
 title: "Sling Guide"
+category: "Skills & Combat"
 ---
 
 # Sling Guide

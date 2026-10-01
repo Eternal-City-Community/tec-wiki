@@ -1,5 +1,6 @@
 ---
 title: "Weapons Overview"
+category: "Skills & Combat"
 ---
 
 # Weapons Overview

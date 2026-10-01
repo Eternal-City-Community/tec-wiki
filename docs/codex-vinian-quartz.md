@@ -1,5 +1,6 @@
 ---
 title: "Codex Vinian Quartz"
+category: "Reference"
 ---
 
 # Codex Vinian Quartz

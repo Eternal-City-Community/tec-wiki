@@ -1,5 +1,6 @@
 ---
 title: "Bio Atua"
+category: "Character Bios"
 ---
 
 # Bio Atua

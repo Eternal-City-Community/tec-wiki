@@ -1,5 +1,6 @@
 ---
 title: "History"
+category: "Lore & Community"
 ---
 
 # History

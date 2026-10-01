@@ -1,5 +1,6 @@
 ---
 title: "Bio Moonlite"
+category: "Character Bios"
 ---
 
 # Bio Moonlite

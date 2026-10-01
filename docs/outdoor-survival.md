@@ -1,5 +1,6 @@
 ---
 title: "Outdoor Survival"
+category: "Reference"
 ---
 
 # Outdoor Survival

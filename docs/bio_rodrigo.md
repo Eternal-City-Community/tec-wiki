@@ -1,5 +1,6 @@
 ---
 title: "Bio Rodrigo"
+category: "Character Bios"
 ---
 
 # Bio Rodrigo

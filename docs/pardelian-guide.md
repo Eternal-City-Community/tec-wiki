@@ -1,5 +1,6 @@
 ---
 title: "Pardelian Guide"
+category: "Guides & Commands"
 ---
 
 # Pardelian Guide

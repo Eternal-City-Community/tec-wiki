@@ -1,5 +1,6 @@
 ---
 title: "Bio Violeta"
+category: "Character Bios"
 ---
 
 # Bio Violeta

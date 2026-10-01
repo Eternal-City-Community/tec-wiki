@@ -1,5 +1,6 @@
 ---
 title: "Hg Bandit Complex"
+category: "Reference"
 ---
 
 # Hg Bandit Complex

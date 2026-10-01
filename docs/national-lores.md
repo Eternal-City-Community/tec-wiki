@@ -1,5 +1,6 @@
 ---
 title: "National Lores"
+category: "Reference"
 ---
 
 # National Lores

@@ -1,5 +1,6 @@
 ---
 title: "Bio Exit"
+category: "Character Bios"
 ---
 
 # Bio Exit

@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Well"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Well

@@ -1,5 +1,6 @@
 ---
 title: "Bio Baylii"
+category: "Character Bios"
 ---
 
 # Bio Baylii

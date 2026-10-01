@@ -1,5 +1,6 @@
 ---
 title: "Bio Pepa"
+category: "Character Bios"
 ---
 
 # Bio Pepa

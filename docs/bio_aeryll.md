@@ -1,5 +1,6 @@
 ---
 title: "Bio Aeryll"
+category: "Character Bios"
 ---
 
 # Bio Aeryll

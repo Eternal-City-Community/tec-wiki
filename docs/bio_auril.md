@@ -1,5 +1,6 @@
 ---
 title: "Bio Auril"
+category: "Character Bios"
 ---
 
 # Bio Auril

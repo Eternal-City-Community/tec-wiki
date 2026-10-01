@@ -1,5 +1,6 @@
 ---
 title: "Bio Hurnit"
+category: "Character Bios"
 ---
 
 # Bio Hurnit

@@ -1,5 +1,6 @@
 ---
 title: "Scroll Sack Of Rock Valley"
+category: "World & Maps"
 ---
 
 # Scroll Sack Of Rock Valley

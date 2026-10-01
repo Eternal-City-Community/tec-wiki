@@ -1,5 +1,6 @@
 ---
 title: "Gameworld Events"
+category: "Reference"
 ---
 
 # Gameworld Events

@@ -1,5 +1,6 @@
 ---
 title: "Codex Gardens Of Iridine"
+category: "World & Maps"
 ---
 
 # Codex Gardens Of Iridine

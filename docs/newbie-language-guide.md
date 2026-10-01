@@ -1,5 +1,6 @@
 ---
 title: "Newbie Language Guide"
+category: "Guides & Commands"
 ---
 
 # Newbie Language Guide

@@ -1,5 +1,6 @@
 ---
 title: "Bio Chaos"
+category: "Character Bios"
 ---
 
 # Bio Chaos

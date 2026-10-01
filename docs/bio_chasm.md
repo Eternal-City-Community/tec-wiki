@@ -1,5 +1,6 @@
 ---
 title: "Bio Chasm"
+category: "Character Bios"
 ---
 
 # Bio Chasm

@@ -1,5 +1,6 @@
 ---
 title: "Bio Wayreth"
+category: "Character Bios"
 ---
 
 # Bio Wayreth

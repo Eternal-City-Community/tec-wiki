@@ -1,5 +1,6 @@
 ---
 title: "Bio Belle"
+category: "Character Bios"
 ---
 
 # Bio Belle

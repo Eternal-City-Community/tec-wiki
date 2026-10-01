@@ -1,5 +1,6 @@
 ---
 title: "Way Of Bright Hope"
+category: "Reference"
 ---
 
 # Way Of Bright Hope

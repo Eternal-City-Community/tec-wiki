@@ -1,5 +1,6 @@
 ---
 title: "Newsforum 20010701news1"
+category: "World & Maps"
 ---
 
 # Newsforum 20010701news1

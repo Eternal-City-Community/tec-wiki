@@ -1,5 +1,6 @@
 ---
 title: "Archived National Bonuses"
+category: "Archive"
 ---
 
 # Archived National Bonuses

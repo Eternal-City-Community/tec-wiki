@@ -1,5 +1,6 @@
 ---
 title: "Bio Ielios Pardelian"
+category: "Character Bios"
 ---
 
 # Bio Ielios Pardelian

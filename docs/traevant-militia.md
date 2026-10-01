@@ -1,5 +1,6 @@
 ---
 title: "Traevant Militia"
+category: "Reference"
 ---
 
 # Traevant Militia

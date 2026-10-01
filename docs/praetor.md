@@ -1,5 +1,6 @@
 ---
 title: "Praetor"
+category: "Reference"
 ---
 
 # Praetor

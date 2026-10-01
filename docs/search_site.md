@@ -1,5 +1,6 @@
 ---
 title: "Search the Site"
+category: "Reference"
 ---
 
 # Search the Site

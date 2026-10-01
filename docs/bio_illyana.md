@@ -1,5 +1,6 @@
 ---
 title: "Bio Illyana"
+category: "Character Bios"
 ---
 
 # Bio Illyana

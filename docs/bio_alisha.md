@@ -1,5 +1,6 @@
 ---
 title: "Bio Alisha"
+category: "Character Bios"
 ---
 
 # Bio Alisha

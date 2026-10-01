@@ -1,5 +1,6 @@
 ---
 title: "Bio Mensa"
+category: "Character Bios"
 ---
 
 # Bio Mensa

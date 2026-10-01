@@ -1,5 +1,6 @@
 ---
 title: "Training Cost Calculator"
+category: "Reference"
 ---
 
 # Training Cost Calculator

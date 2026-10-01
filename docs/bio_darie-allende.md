@@ -1,5 +1,6 @@
 ---
 title: "Bio Darie Allende"
+category: "Character Bios"
 ---
 
 # Bio Darie Allende

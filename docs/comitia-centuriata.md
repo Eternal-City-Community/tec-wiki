@@ -1,5 +1,6 @@
 ---
 title: "Comitia Centuriata"
+category: "Reference"
 ---
 
 # Comitia Centuriata

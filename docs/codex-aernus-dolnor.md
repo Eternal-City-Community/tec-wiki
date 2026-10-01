@@ -1,5 +1,6 @@
 ---
 title: "Codex Aernus Dolnor"
+category: "Reference"
 ---
 
 # Codex Aernus Dolnor

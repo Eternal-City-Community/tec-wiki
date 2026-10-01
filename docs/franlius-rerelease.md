@@ -1,5 +1,6 @@
 ---
 title: "Franlius Rerelease"
+category: "World & Maps"
 ---
 
 # Franlius Rerelease

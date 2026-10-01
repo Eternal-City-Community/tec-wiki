@@ -1,5 +1,6 @@
 ---
 title: "Hunting Guide"
+category: "Skills & Combat"
 ---
 
 # Hunting Guide

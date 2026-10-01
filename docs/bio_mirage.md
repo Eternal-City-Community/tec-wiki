@@ -1,5 +1,6 @@
 ---
 title: "Bio Mirage"
+category: "Character Bios"
 ---
 
 # Bio Mirage

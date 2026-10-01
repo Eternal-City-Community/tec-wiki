@@ -1,5 +1,6 @@
 ---
 title: "Events"
+category: "Reference"
 ---
 
 # Events

@@ -1,5 +1,6 @@
 ---
 title: "Advanced Speech"
+category: "Guides & Commands"
 ---
 
 # Advanced Speech

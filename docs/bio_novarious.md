@@ -1,5 +1,6 @@
 ---
 title: "Bio Novarious"
+category: "Character Bios"
 ---
 
 # Bio Novarious

@@ -1,5 +1,6 @@
 ---
 title: "Scroll Asking For Justice"
+category: "Reference"
 ---
 
 # Scroll Asking For Justice

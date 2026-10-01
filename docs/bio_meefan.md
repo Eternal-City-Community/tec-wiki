@@ -1,5 +1,6 @@
 ---
 title: "Bio Meefan"
+category: "Character Bios"
 ---
 
 # Bio Meefan

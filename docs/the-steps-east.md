@@ -1,5 +1,6 @@
 ---
 title: "The Steps East"
+category: "World & Maps"
 ---
 
 # The Steps East

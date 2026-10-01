@@ -1,5 +1,6 @@
 ---
 title: "Cenath"
+category: "Reference"
 ---
 
 # Cenath

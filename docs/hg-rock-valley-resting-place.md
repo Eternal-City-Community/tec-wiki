@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Resting Place"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Resting Place

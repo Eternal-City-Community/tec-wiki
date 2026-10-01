@@ -1,5 +1,6 @@
 ---
 title: "Bio Callisto"
+category: "Character Bios"
 ---
 
 # Bio Callisto

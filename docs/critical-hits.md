@@ -1,5 +1,6 @@
 ---
 title: "Critical Hits"
+category: "Reference"
 ---
 
 # Critical Hits

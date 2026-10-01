@@ -1,5 +1,6 @@
 ---
 title: "Temp Weapon Speeds"
+category: "Skills & Combat"
 ---
 
 # Temp Weapon Speeds

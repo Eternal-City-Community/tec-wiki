@@ -1,5 +1,6 @@
 ---
 title: "Places"
+category: "Reference"
 ---
 
 # Places

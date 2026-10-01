@@ -1,5 +1,6 @@
 ---
 title: "Hg Sea Caves"
+category: "Reference"
 ---
 
 # Hg Sea Caves

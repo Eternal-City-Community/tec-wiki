@@ -1,5 +1,6 @@
 ---
 title: "Tridents"
+category: "Skills & Combat"
 ---
 
 # Tridents

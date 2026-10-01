@@ -1,5 +1,6 @@
 ---
 title: "Bio Bacillum"
+category: "Character Bios"
 ---
 
 # Bio Bacillum

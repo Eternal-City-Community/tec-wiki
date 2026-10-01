@@ -1,5 +1,6 @@
 ---
 title: "Avros One Handed Swords"
+category: "Skills & Combat"
 ---
 
 # Avros One Handed Swords

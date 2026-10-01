@@ -1,5 +1,6 @@
 ---
 title: "Bio Fik"
+category: "Character Bios"
 ---
 
 # Bio Fik

@@ -1,5 +1,6 @@
 ---
 title: "Monlon"
+category: "World & Maps"
 ---
 
 # Monlon

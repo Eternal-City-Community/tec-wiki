@@ -1,5 +1,6 @@
 ---
 title: "Bio Methodios"
+category: "Character Bios"
 ---
 
 # Bio Methodios

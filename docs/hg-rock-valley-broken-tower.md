@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Broken Tower"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Broken Tower

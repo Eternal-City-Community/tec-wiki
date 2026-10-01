@@ -1,5 +1,6 @@
 ---
 title: "Bio Fira"
+category: "Character Bios"
 ---
 
 # Bio Fira

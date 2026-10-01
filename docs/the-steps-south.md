@@ -1,5 +1,6 @@
 ---
 title: "The Steps South"
+category: "World & Maps"
 ---
 
 # The Steps South

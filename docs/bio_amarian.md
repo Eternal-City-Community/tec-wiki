@@ -1,5 +1,6 @@
 ---
 title: "Bio Amarian"
+category: "Character Bios"
 ---
 
 # Bio Amarian

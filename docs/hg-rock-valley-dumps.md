@@ -1,5 +1,6 @@
 ---
 title: "Hg Rock Valley Dumps"
+category: "World & Maps"
 ---
 
 # Hg Rock Valley Dumps

@@ -1,5 +1,6 @@
 ---
 title: "Bio Alivian"
+category: "Character Bios"
 ---
 
 # Bio Alivian

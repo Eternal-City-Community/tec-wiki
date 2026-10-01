@@ -1,5 +1,6 @@
 ---
 title: "Praetor Guide"
+category: "Guides & Commands"
 ---
 
 # Praetor Guide

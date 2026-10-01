@@ -1,5 +1,6 @@
 ---
 title: "Hg Vetallun Apple Orchard"
+category: "World & Maps"
 ---
 
 # Hg Vetallun Apple Orchard

@@ -1,5 +1,6 @@
 ---
 title: "Leather Working"
+category: "Crafting & Trade"
 ---
 
 # Leather Working

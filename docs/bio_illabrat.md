@@ -1,5 +1,6 @@
 ---
 title: "Bio Illabrat"
+category: "Character Bios"
 ---
 
 # Bio Illabrat

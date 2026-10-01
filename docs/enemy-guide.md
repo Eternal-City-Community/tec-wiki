@@ -1,5 +1,6 @@
 ---
 title: "Enemy Guide"
+category: "Guides & Commands"
 ---
 
 # Enemy Guide

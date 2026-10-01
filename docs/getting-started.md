@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+category: "Guides & Commands"
 ---
 
 # Getting Started

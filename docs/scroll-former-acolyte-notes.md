@@ -1,5 +1,6 @@
 ---
 title: "Scroll Former Acolyte Notes"
+category: "Reference"
 ---
 
 # Scroll Former Acolyte Notes

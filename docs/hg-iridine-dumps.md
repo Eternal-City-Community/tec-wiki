@@ -1,5 +1,6 @@
 ---
 title: "Hg Iridine Dumps"
+category: "World & Maps"
 ---
 
 # Hg Iridine Dumps

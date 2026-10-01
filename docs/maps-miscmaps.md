@@ -1,5 +1,6 @@
 ---
 title: "Maps Miscmaps"
+category: "World & Maps"
 ---
 
 # Maps Miscmaps

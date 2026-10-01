@@ -1,5 +1,6 @@
 ---
 title: "Bio Sefrit"
+category: "Character Bios"
 ---
 
 # Bio Sefrit

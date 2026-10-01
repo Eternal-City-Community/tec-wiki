@@ -1,5 +1,6 @@
 ---
 title: "Hg Bandit Forest"
+category: "Reference"
 ---
 
 # Hg Bandit Forest

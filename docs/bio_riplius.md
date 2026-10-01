@@ -1,5 +1,6 @@
 ---
 title: "Bio Riplius"
+category: "Character Bios"
 ---
 
 # Bio Riplius

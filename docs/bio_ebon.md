@@ -1,5 +1,6 @@
 ---
 title: "Bio Ebon"
+category: "Character Bios"
 ---
 
 # Bio Ebon

@@ -1,5 +1,6 @@
 ---
 title: "Street Smarts"
+category: "Reference"
 ---
 
 # Street Smarts

@@ -1,5 +1,6 @@
 ---
 title: "Bio Niktoo"
+category: "Character Bios"
 ---
 
 # Bio Niktoo

@@ -1,5 +1,6 @@
 ---
 title: "Bio Tarras"
+category: "Character Bios"
 ---
 
 # Bio Tarras

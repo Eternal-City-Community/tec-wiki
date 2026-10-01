@@ -1,5 +1,6 @@
 ---
 title: "Signal Tower Island"
+category: "World & Maps"
 ---
 
 # Signal Tower Island

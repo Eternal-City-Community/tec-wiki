@@ -1,5 +1,6 @@
 ---
 title: "Monlon Rockslide"
+category: "World & Maps"
 ---
 
 # Monlon Rockslide

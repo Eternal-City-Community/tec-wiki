@@ -1,5 +1,6 @@
 ---
 title: "Bio Reharl"
+category: "Character Bios"
 ---
 
 # Bio Reharl

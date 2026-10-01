@@ -1,5 +1,6 @@
 ---
 title: "Scroll Funeral Jalian Triarchus"
+category: "Reference"
 ---
 
 # Scroll Funeral Jalian Triarchus

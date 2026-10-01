@@ -1,5 +1,6 @@
 ---
 title: "Adrian Lantos"
+category: "Reference"
 ---
 
 # Adrian Lantos

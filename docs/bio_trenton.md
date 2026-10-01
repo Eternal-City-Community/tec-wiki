@@ -1,5 +1,6 @@
 ---
 title: "Bio Trenton"
+category: "Character Bios"
 ---
 
 # Bio Trenton

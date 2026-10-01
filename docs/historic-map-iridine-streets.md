@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Iridine Streets"
+category: "World & Maps"
 ---
 
 # Historic Map Iridine Streets

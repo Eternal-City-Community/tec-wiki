@@ -1,5 +1,6 @@
 ---
 title: "Report Nefarious Nyx"
+category: "Reference"
 ---
 
 # Report Nefarious Nyx

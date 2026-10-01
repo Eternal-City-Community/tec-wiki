@@ -1,5 +1,6 @@
 ---
 title: "Bio Dahkneth"
+category: "Character Bios"
 ---
 
 # Bio Dahkneth

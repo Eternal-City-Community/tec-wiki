@@ -1,5 +1,6 @@
 ---
 title: "Fist Fort"
+category: "Reference"
 ---
 
 # Fist Fort

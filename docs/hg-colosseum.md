@@ -1,5 +1,6 @@
 ---
 title: "Hg Colosseum"
+category: "World & Maps"
 ---
 
 # Hg Colosseum

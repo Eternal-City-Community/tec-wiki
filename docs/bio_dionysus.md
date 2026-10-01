@@ -1,5 +1,6 @@
 ---
 title: "Bio Dionysus"
+category: "Character Bios"
 ---
 
 # Bio Dionysus

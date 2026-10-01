@@ -1,5 +1,6 @@
 ---
 title: "Bio Spurius Ravilla"
+category: "Character Bios"
 ---
 
 # Bio Spurius Ravilla

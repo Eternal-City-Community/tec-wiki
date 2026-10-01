@@ -1,5 +1,6 @@
 ---
 title: "Worm Temple"
+category: "Reference"
 ---
 
 # Worm Temple

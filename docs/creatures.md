@@ -1,5 +1,6 @@
 ---
 title: "Creatures"
+category: "Reference"
 ---
 
 # Creatures

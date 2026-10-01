@@ -1,5 +1,6 @@
 ---
 title: "Stats"
+category: "Reference"
 ---
 
 # Stats

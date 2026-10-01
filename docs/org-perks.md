@@ -1,5 +1,6 @@
 ---
 title: "Org Perks"
+category: "Reference"
 ---
 
 # Org Perks

@@ -1,5 +1,6 @@
 ---
 title: "Bio Govan"
+category: "Character Bios"
 ---
 
 # Bio Govan

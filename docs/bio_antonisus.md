@@ -1,5 +1,6 @@
 ---
 title: "Bio Antonisus"
+category: "Character Bios"
 ---
 
 # Bio Antonisus

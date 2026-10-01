@@ -1,5 +1,6 @@
 ---
 title: "Bio Dacanor"
+category: "Character Bios"
 ---
 
 # Bio Dacanor

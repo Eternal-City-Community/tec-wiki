@@ -1,5 +1,6 @@
 ---
 title: "Bio Ronnie"
+category: "Character Bios"
 ---
 
 # Bio Ronnie

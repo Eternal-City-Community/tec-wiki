@@ -1,5 +1,6 @@
 ---
 title: "Bio Celeres Illryia"
+category: "Character Bios"
 ---
 
 # Bio Celeres Illryia

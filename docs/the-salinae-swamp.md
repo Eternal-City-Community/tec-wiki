@@ -1,5 +1,6 @@
 ---
 title: "The Salinae Swamp"
+category: "World & Maps"
 ---
 
 # The Salinae Swamp

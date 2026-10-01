@@ -1,5 +1,6 @@
 ---
 title: "Bio Tharius Allende"
+category: "Character Bios"
 ---
 
 # Bio Tharius Allende

@@ -1,5 +1,6 @@
 ---
 title: "Bio Minxx"
+category: "Character Bios"
 ---
 
 # Bio Minxx

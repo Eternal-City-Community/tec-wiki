@@ -1,5 +1,6 @@
 ---
 title: "Republic Of Iridine"
+category: "World & Maps"
 ---
 
 # Republic Of Iridine

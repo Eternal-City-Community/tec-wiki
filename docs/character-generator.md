@@ -1,5 +1,6 @@
 ---
 title: "Character Generator"
+category: "Reference"
 ---
 
 # Character Generator

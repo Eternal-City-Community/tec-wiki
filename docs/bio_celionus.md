@@ -1,5 +1,6 @@
 ---
 title: "Bio Celionus"
+category: "Character Bios"
 ---
 
 # Bio Celionus

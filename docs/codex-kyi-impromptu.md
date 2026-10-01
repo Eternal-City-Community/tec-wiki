@@ -1,5 +1,6 @@
 ---
 title: "Codex Kyi Impromptu"
+category: "Reference"
 ---
 
 # Codex Kyi Impromptu

@@ -1,5 +1,6 @@
 ---
 title: "Bio Titus Ahala"
+category: "Character Bios"
 ---
 
 # Bio Titus Ahala

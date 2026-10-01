@@ -1,5 +1,6 @@
 ---
 title: "Magic Release Notes"
+category: "Reference"
 ---
 
 # Magic Release Notes

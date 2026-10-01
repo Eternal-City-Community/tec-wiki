@@ -1,5 +1,6 @@
 ---
 title: "V3 Homepage"
+category: "Reference"
 ---
 
 # V3 Homepage

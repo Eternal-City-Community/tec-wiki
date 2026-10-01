@@ -1,5 +1,6 @@
 ---
 title: "Bio Varsh"
+category: "Character Bios"
 ---
 
 # Bio Varsh

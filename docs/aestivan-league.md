@@ -1,5 +1,6 @@
 ---
 title: "Aestivan League"
+category: "Reference"
 ---
 
 # Aestivan League

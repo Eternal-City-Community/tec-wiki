@@ -1,5 +1,6 @@
 ---
 title: "Bio Abicus"
+category: "Character Bios"
 ---
 
 # Bio Abicus

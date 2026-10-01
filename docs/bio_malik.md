@@ -1,5 +1,6 @@
 ---
 title: "Bio Malik"
+category: "Character Bios"
 ---
 
 # Bio Malik

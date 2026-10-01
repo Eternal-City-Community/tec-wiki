@@ -1,5 +1,6 @@
 ---
 title: "Spears"
+category: "Skills & Combat"
 ---
 
 # Spears

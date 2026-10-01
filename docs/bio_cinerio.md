@@ -1,5 +1,6 @@
 ---
 title: "Bio Cinerio"
+category: "Character Bios"
 ---
 
 # Bio Cinerio

@@ -1,5 +1,6 @@
 ---
 title: "Town Of Rock Valley Map"
+category: "World & Maps"
 ---
 
 # Town Of Rock Valley Map

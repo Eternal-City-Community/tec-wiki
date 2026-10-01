@@ -1,5 +1,6 @@
 ---
 title: "Census And Citizenship"
+category: "Reference"
 ---
 
 # Census And Citizenship

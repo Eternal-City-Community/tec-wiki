@@ -1,5 +1,6 @@
 ---
 title: "Two Handed Axes Guide"
+category: "Skills & Combat"
 ---
 
 # Two Handed Axes Guide

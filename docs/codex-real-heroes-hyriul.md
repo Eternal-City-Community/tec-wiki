@@ -1,5 +1,6 @@
 ---
 title: "Codex Real Heroes Hyriul"
+category: "Reference"
 ---
 
 # Codex Real Heroes Hyriul

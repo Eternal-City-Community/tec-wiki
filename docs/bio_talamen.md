@@ -1,5 +1,6 @@
 ---
 title: "Bio Talamen"
+category: "Character Bios"
 ---
 
 # Bio Talamen

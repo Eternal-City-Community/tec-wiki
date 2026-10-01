@@ -1,5 +1,6 @@
 ---
 title: "Scroll Fauna Lingkius"
+category: "Reference"
 ---
 
 # Scroll Fauna Lingkius

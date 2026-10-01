@@ -1,5 +1,6 @@
 ---
 title: "Historic Map Marnevel Rock Valley"
+category: "World & Maps"
 ---
 
 # Historic Map Marnevel Rock Valley

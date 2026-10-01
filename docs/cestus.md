@@ -1,5 +1,6 @@
 ---
 title: "Cestus"
+category: "Skills & Combat"
 ---
 
 # Cestus

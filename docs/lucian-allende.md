@@ -1,5 +1,6 @@
 ---
 title: "Lucian Allende"
+category: "Reference"
 ---
 
 # Lucian Allende

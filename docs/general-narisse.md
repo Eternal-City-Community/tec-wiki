@@ -1,5 +1,6 @@
 ---
 title: "General Narisse"
+category: "Reference"
 ---
 
 # General Narisse

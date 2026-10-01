@@ -1,5 +1,6 @@
 ---
 title: "Bio Drought"
+category: "Character Bios"
 ---
 
 # Bio Drought

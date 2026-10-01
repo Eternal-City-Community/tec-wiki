@@ -1,5 +1,6 @@
 ---
 title: "Bio Tarravus"
+category: "Character Bios"
 ---
 
 # Bio Tarravus

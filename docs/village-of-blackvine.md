@@ -1,5 +1,6 @@
 ---
 title: "Village Of Blackvine"
+category: "World & Maps"
 ---
 
 # Village Of Blackvine

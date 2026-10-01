@@ -1,5 +1,6 @@
 ---
 title: "Bio Bernard Tubero"
+category: "Character Bios"
 ---
 
 # Bio Bernard Tubero

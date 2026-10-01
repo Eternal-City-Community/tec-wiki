@@ -1,5 +1,6 @@
 ---
 title: "Bio Sordo Calsuan"
+category: "Character Bios"
 ---
 
 # Bio Sordo Calsuan

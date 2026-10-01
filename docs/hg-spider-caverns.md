@@ -1,5 +1,6 @@
 ---
 title: "Hg Spider Caverns"
+category: "World & Maps"
 ---
 
 # Hg Spider Caverns

@@ -1,5 +1,6 @@
 ---
 title: "National Advantages"
+category: "Reference"
 ---
 
 # National Advantages

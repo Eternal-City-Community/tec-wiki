@@ -1,5 +1,6 @@
 ---
 title: "The Funeral Of Jalian Triarchus"
+category: "Reference"
 ---
 
 # The Funeral Of Jalian Triarchus

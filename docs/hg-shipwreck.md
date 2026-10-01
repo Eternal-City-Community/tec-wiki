@@ -1,5 +1,6 @@
 ---
 title: "Hg Shipwreck"
+category: "Reference"
 ---
 
 # Hg Shipwreck

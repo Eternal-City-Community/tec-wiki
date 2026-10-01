@@ -1,5 +1,6 @@
 ---
 title: "Chainblade"
+category: "Reference"
 ---
 
 # Chainblade

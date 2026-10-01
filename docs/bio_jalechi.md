@@ -1,5 +1,6 @@
 ---
 title: "Bio Jalechi"
+category: "Character Bios"
 ---
 
 # Bio Jalechi

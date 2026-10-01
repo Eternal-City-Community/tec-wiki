@@ -1,5 +1,6 @@
 ---
 title: "Bio Serasia"
+category: "Character Bios"
 ---
 
 # Bio Serasia

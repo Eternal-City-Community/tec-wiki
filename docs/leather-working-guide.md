@@ -1,5 +1,6 @@
 ---
 title: "Leather Working Guide"
+category: "Crafting & Trade"
 ---
 
 # Leather Working Guide

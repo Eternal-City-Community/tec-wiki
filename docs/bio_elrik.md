@@ -1,5 +1,6 @@
 ---
 title: "Bio Elrik"
+category: "Character Bios"
 ---
 
 # Bio Elrik

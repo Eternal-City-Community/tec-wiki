@@ -1,5 +1,6 @@
 ---
 title: "Bio Bjergar"
+category: "Character Bios"
 ---
 
 # Bio Bjergar

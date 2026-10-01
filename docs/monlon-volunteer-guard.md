@@ -1,5 +1,6 @@
 ---
 title: "Monlon Volunteer Guard"
+category: "World & Maps"
 ---
 
 # Monlon Volunteer Guard

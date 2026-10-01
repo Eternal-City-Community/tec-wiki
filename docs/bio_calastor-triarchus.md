@@ -1,5 +1,6 @@
 ---
 title: "Bio Calastor Triarchus"
+category: "Character Bios"
 ---
 
 # Bio Calastor Triarchus

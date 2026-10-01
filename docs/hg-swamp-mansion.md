@@ -1,5 +1,6 @@
 ---
 title: "Hg Swamp Mansion"
+category: "World & Maps"
 ---
 
 # Hg Swamp Mansion

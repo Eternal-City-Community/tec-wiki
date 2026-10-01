@@ -1,5 +1,6 @@
 ---
 title: "Mining"
+category: "Reference"
 ---
 
 # Mining

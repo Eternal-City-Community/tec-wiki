@@ -1,5 +1,6 @@
 ---
 title: "Newbie Money Guide"
+category: "Guides & Commands"
 ---
 
 # Newbie Money Guide

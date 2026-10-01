@@ -1,5 +1,6 @@
 ---
 title: "Bio Vino"
+category: "Character Bios"
 ---
 
 # Bio Vino

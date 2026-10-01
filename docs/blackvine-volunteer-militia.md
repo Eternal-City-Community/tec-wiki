@@ -1,5 +1,6 @@
 ---
 title: "Blackvine Volunteer Militia"
+category: "World & Maps"
 ---
 
 # Blackvine Volunteer Militia

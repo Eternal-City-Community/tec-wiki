@@ -1,5 +1,6 @@
 ---
 title: "Bio Drekk"
+category: "Character Bios"
 ---
 
 # Bio Drekk

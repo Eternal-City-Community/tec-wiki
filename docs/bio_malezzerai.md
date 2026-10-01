@@ -1,5 +1,6 @@
 ---
 title: "Bio Malezzerai"
+category: "Character Bios"
 ---
 
 # Bio Malezzerai

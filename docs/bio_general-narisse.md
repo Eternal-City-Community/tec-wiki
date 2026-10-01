@@ -1,5 +1,6 @@
 ---
 title: "Bio General Narisse"
+category: "Character Bios"
 ---
 
 # Bio General Narisse

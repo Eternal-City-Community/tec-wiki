@@ -1,5 +1,6 @@
 ---
 title: "Bio Ethren"
+category: "Character Bios"
 ---
 
 # Bio Ethren

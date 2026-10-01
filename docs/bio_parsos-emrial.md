@@ -1,5 +1,6 @@
 ---
 title: "Bio Parsos Emrial"
+category: "Character Bios"
 ---
 
 # Bio Parsos Emrial

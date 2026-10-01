@@ -1,5 +1,6 @@
 ---
 title: "Signal Tower Island Guide"
+category: "World & Maps"
 ---
 
 # Signal Tower Island Guide

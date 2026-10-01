@@ -1,5 +1,6 @@
 ---
 title: "Black Hand Mines"
+category: "World & Maps"
 ---
 
 # Black Hand Mines

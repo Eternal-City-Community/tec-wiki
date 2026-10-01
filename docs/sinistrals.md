@@ -1,5 +1,6 @@
 ---
 title: "Sinistrals"
+category: "Reference"
 ---
 
 # Sinistrals

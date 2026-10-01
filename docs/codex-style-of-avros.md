@@ -1,5 +1,6 @@
 ---
 title: "Codex Style Of Avros"
+category: "Skills & Combat"
 ---
 
 # Codex Style Of Avros

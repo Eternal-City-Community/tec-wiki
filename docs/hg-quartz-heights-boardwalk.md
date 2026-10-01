@@ -1,5 +1,6 @@
 ---
 title: "Hg Quartz Heights Boardwalk"
+category: "Reference"
 ---
 
 # Hg Quartz Heights Boardwalk

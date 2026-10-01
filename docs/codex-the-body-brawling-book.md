@@ -1,5 +1,6 @@
 ---
 title: "Codex The Body Brawling Book"
+category: "Skills & Combat"
 ---
 
 # Codex The Body Brawling Book

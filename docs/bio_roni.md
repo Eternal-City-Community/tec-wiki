@@ -1,5 +1,6 @@
 ---
 title: "Bio Roni"
+category: "Character Bios"
 ---
 
 # Bio Roni

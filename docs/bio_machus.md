@@ -1,5 +1,6 @@
 ---
 title: "Bio Machus"
+category: "Character Bios"
 ---
 
 # Bio Machus

@@ -1,5 +1,6 @@
 ---
 title: "Monlon Battlefield"
+category: "World & Maps"
 ---
 
 # Monlon Battlefield

@@ -1,5 +1,6 @@
 ---
 title: "Bio Balderon"
+category: "Character Bios"
 ---
 
 # Bio Balderon

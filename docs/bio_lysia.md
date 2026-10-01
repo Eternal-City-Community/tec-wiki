@@ -1,5 +1,6 @@
 ---
 title: "Bio Lysia"
+category: "Character Bios"
 ---
 
 # Bio Lysia

@@ -1,5 +1,6 @@
 ---
 title: "Town Of Vetallun"
+category: "World & Maps"
 ---
 
 # Town Of Vetallun
