@@ -12,6 +12,7 @@ There are two economic models at play in The Eternal City. The first is the NPC 
 The Player economy is simpler than most MUDs, as item decay does not exist. Player generate economic conditions by buying and selling customizations to clothing, unique and rare items not available from NPCs, or reselling equipment as used to newer players. Currently, only a few areas in the game world are owned and operated by players as official store fronts. Most players broker, sell, and conduct business at either the Iridine Auction House or Seneda's Bank in the forum.
 
 ### Types of Coin
+
 | Name of Coin | Metal |
 | --- | --- |
 | Sen | Bronze |

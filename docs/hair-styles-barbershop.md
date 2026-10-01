@@ -3,16 +3,19 @@
 Getting a hair cut is a natural occurrence in the daily lives of those dwelling in Midlight. Sometimes, though, you just have to make a change and going to the barber is the thing to do! When you arrive at the barber you should ask the barber for a "hair cut". Once prompted, the barber will set a price and when you agree, a menu will appear asking you what length, texture and style you would like. Below, is a list of styles associated with each length of hair.
 
 ### Hair Length: Bald
+
 | Style | Outcome |
 | --- | --- |
 | Shaved | A bald head which appears to have been recently shaved |
 
 ### Hair Length: Very Short
+
 | Style | Outcome |
 | --- | --- |
 
 
 ### Hair Length: Loosely Cropped
+
 | Style | Outcome |
 | --- | --- |
 | Military Style |  |
@@ -26,6 +29,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 | Graying a lot |  |
 
 ### Hair Length: Shoulder Length
+
 | Style | Outcome |
 | --- | --- |
 | Thick Braid |  |
@@ -47,6 +51,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 | Graying a lot |  |
 
 ### Hair Length: Very Long and Thigh-Length
+
 | Style | Outcome |
 | --- | --- |
 | Thick Braid |  |
@@ -71,6 +76,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 ### Staisos: Haircuts and Beards
 
 ### Hair Length: Short, Close-cropped, 
+
 | Style | Outcome |
 | --- | --- |
 | Neatly cut |  |
@@ -88,6 +94,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 | Receeding |  |
 
 ### Hair Length: Shoulder Length
+
 | Style | Outcome |
 | --- | --- |
 | Neatly cut |  |
@@ -116,6 +123,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 ### Beards
 
 ### Clean Shaven
+
 | Style | Outcome |
 | --- | --- |
 | Clean Shaven | <Characters> face is clean shaven |
@@ -125,6 +133,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 ### Beard
 
 ### Goatee
+
 | Style | Outcome |
 | --- | --- |
 | Scraggly |  |

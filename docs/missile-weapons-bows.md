@@ -8,6 +8,7 @@ The technology of the bow itself is just emerging in Midlight, with the Iridine 
 **For guidance on using the skill set, see the [Archery Guide](/archery-guide/)**.
 
 ---
+
 |  |  |  |  |  | Skill Info |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skill/Action | Difficulty | Hands | Range | Wound | Prerequisite | Fern | Brauthos | Shantaz | Jarla |

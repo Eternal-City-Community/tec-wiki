@@ -92,6 +92,7 @@ A rank of **1 signifies the best** in this category.
 | Boison Axe | 3 | 4 +MoS | 3 |  |
 
 #### Weapon Weight
+
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
 | Bone Axe | 1 | 2 lbs |

@@ -90,6 +90,7 @@ A rank of **1 signifies the best** in this category.
 
 
 #### Weapon Weight
+
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
 | A sooty black falcata | 1 | 2 lbs |

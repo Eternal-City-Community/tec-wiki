@@ -19,6 +19,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 | [Chauliodus Sloani](#ChauliodusSloani) | [Monlon Barracks](#MonBar) | [Map](/monlon-rockslide/) | 0 | 0 |
 | [Pungopiscor](#Pungopiscor) | [Monlon Barracks](#MonBar) | [Map](/monlon-rockslide/) | 0 | 0 |
 | [Statorus](#Statorus) | [Monlon Barracks](#MonBar) | [Map](/monlon-rockslide/) | 0 | 0 |
+
 * Loot value based on masterful quality skins (see this guide: /aoden-hunting-guide/). Prices may be out of date.
 
 ##### Locations:

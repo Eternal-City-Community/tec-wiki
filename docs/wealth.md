@@ -28,6 +28,7 @@ Below is the currency used throughout the [Republic of Iridine](/republic-of-iri
 The wealth command works with this currency. 
 
 ##### Types of Coin
+
 | Name of Coin | Metal |
 | --- | --- |
 | Sen | Bronze |
@@ -69,6 +70,7 @@ Cinera has its own currency. Iridinian banks don't accept/recognize them as curr
 The wealth command **does not** work with this currency. 
 
 ##### Types of Coin
+
 | Name of Coin | Metal |
 | --- | --- |
 | Pentak | Bronze |

@@ -59,6 +59,7 @@ TBD
 ##### an unwashed hairy mercenary: 
 **Variations:** an unwashed hairy mercenary, a tall beefy mercenary, an one-eyed mercenary
 **Difficulty:** High
+
 | Lootables |  |  |  |
 | --- | --- | --- | --- |
 | Item Group | Options | Price | Notes |

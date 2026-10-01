@@ -37,6 +37,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 | [Trident Rotation Block](#Rotation-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
 | [Trident Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 | 154 |
 | [Trident Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 154 |
+
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze, Ex2, NEx2, N, Ex4, N, W
 **Directions to Vashren** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.

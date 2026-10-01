@@ -1,6 +1,7 @@
 # Weapons
 
 ### Quality
+
 | Quality | RB Bonus | Comments |
 | --- | --- | --- |
 | Superior (+[Reforged](#Reforge)) | +5 | Reforging a Superior weapon will not increase the<br><br>weapon's quality level or RB Bonus, but these weapons<br><br>do receive higher damage potential. |

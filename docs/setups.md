@@ -21,6 +21,7 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 | [Street Approach](#StreetApproach) | Average | - | 10 |
 | [Gentleman's Touch](#GentTouch) | Difficult | - | 10 |
 | [Eavesdrop](#eavesdrop) | Difficult | - | 10 |
+
 ***<sup>1</sup> Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
 ***<sup>2</sup> Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast part of town.*
 

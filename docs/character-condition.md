@@ -109,6 +109,7 @@ Wounds inflicted on your character can be classified as cutting, piercing, bruis
 *Burning* wounds are caused by sources other than traditional weapons, such as certain creatures in the game or accidental contact with fire.*
 
 ##### Wound Severity Descriptions
+
 | Wound Degree | Cutting | Piercing | Bruising | Burning* |
 | --- | --- | --- | --- | --- |
 | Level 1 | Shallow cut | Faint wound | Small bruise | Minor burn |

@@ -1,6 +1,7 @@
 # Archived Traits 2020
 
 ### Positive Traits
+
 | Trait | Value | Description |
 | --- | --- | --- |
 | Night Vision | 2 | Character receives reduced darkness penalties and is able to see in all but pitch darkness. Mutually exclusive with 'Fear of the Dark'. |
@@ -35,6 +36,7 @@
 
 ---
 ### Negative traits
+
 | Trait | Value | Description |
 | --- | --- | --- |
 | Shaky Hands | -2 | Significant penalty to dexterity. Mutually exclusive with 'Steady Hands'. |
@@ -69,6 +71,7 @@
 
 ---
 ### Neutral Traits
+
 | Trait | Description |
 | --- | --- |
 | Hand of Fate | Both you and your opponents have an additional chance of scoring critical hits. |
@@ -83,6 +86,7 @@
 
 ---
 ### National Bonuses
+
 | Bonus | Description |
 | --- | --- |
 | Natural Builder (Aestiva) | Bonus to shelter-building and crafting actions in general. |
@@ -99,6 +103,7 @@
 
 ---
 ### Trait Bonuses/Penalties
+
 | Trait | Bonus/Penalty |
 | --- | --- |
 | Adrenaline Rush | 75% HP: +10 bonus offense, 50% HP: +20 bonus to offense, 25% HP: +30 bonus to offense, -1HP: +50 bonus to offense |

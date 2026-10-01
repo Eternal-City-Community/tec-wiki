@@ -1,6 +1,7 @@
 # Weapons Overview
 
 ### Weapon Skillsets Overview
+
 | Skillsets | Short | Long | Either | Knockdown | Disarm | Pushback | Pull | Parting | Stepping | Defensive | Stun | AoE | Draw | Grapple | Trap | Multi-Hits | Bleed | Lunge |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Archery | 1 | 0 | 6 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |

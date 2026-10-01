@@ -1,6 +1,11 @@
 # TEC Wiki migration audit
 
-- Markdown pages scanned: **902**
+- Markdown pages scanned: **899**
+- Recognized Markdown table blocks: **534**
+- Pages auto-fixed for table spacing/separators: **45**
+- Table spacing fixes: **85**
+- Duplicate table separator rows removed: **0**
+- Table issues needing manual review: **0**
 - Pages containing migration placeholders: **0**
 - Migrated include placeholders: **0**
 - Dynamic Wikidot placeholders: **0**
@@ -12,3 +17,51 @@
 - Pages with leftover Wikidot heading syntax: **0**
 - Pages with leftover Wikidot escape markers: **0**
 - Pages with leftover Wikidot markup blocks: **0**
+
+## Pages auto-fixed for table parsing
+
+- `advanced-commands.md`
+- `advanced-speech.md`
+- `archery-guide.md`
+- `archived_traits-2020.md`
+- `armor.md`
+- `cestus-guide.md`
+- `character-condition.md`
+- `ckf-guide.md`
+- `combat-overview.md`
+- `creatures.md`
+- `cult-of-ereal.md`
+- `falcata-guide.md`
+- `falx.md`
+- `hair-styles-barbershop.md`
+- `herbalism-guide.md`
+- `hg_aziri-caves.md`
+- `hoplite-combat-guide.md`
+- `humanoids.md`
+- `knives-guide.md`
+- `legal_privacy-policy.md`
+- `legal_start.md`
+- `legal_terms-of-use.md`
+- `locksmithing-guide.md`
+- `missile-weapons-bows.md`
+- `modules-reference.md`
+- `newbie-money-guide.md`
+- `one-handed-axes-guide.md`
+- `one-handed-swords-guide.md`
+- `one-handed-swords.md`
+- `outdoor-survival-test.md`
+- `outdoor-survival.md`
+- `reputation.md`
+- `setups.md`
+- `shops-old.md`
+- `sling-guide.md`
+- `staves-guide.md`
+- `test.md`
+- `tridents.md`
+- `two-handed-axes-guide.md`
+- `v3_homepage.md`
+- `veteran-characters.md`
+- `warrants.md`
+- `wealth.md`
+- `weapons-overview.md`
+- `weapons.md`

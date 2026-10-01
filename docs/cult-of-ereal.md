@@ -110,6 +110,7 @@ and Initiate before ultimately standing before the Oracle and the Eye of Ereal t
 From Aspirant to Acolyte, every stage of this path is overseen by members of the Path of Guiding Light.
 
 ### PATHWAYS OF LIGHT
+
 |  |  |  |  |  |  | Pathways of Light |
 | --- | --- | --- | --- | --- | --- | --- |
 | Revealing Light | Arcane Light | Preserving Light | Comforting Light | Guiding Light | Illuminating Light | Nature's Light |

@@ -110,6 +110,7 @@ A rank of **1 signifies the best** in this category. All ammo has the same speed
 
 
 #### Ammo Weight
+
 | Ammo | Weight Rank | Weight (per 50 bullets) |
 | --- | --- | --- |
 | Lead Sling Bullets | 1 |  |

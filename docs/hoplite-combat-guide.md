@@ -43,6 +43,7 @@ In addition to the below list, spears included in **the [Spears Guide](/spears-g
 | An alanti-tipped short spear **[RF]** | Currently available only from GMNPC vendors |  |
 | A boison-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 175t + [Reputation](/reputation/#Franlius) |
 | A retalq-tipped short spear | Sold by [Hiltha](/shops/) | 250t + [Reputation](/reputation/#Franlius) |
+
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 
 
@@ -108,6 +109,7 @@ Weapon round time with outstanding speed (190+):
 
 
 #### Weapon Weight
+
 | Weapon | Weight |
 | --- | --- |
 | A tin short spear | ~3 lbs |

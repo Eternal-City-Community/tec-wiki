@@ -20,6 +20,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 **For guidance on using the skill set, see the [Swords Guide](/one-handed-swords-guide/)**.
 
 ---
+
 |  |  |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Gilven | Cula | Majell | Varga | **@<**>@**Prestis |

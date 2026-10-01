@@ -48,6 +48,7 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 Using a stick-like piece of tinder, the outdoorsman carves and whittles in it such a way as to make it suitable as a light-bearing torch, to either use personally, sell to other adventurers, or sell to the many supply shops throughout Iridine. The more skilled you are at making torches, the finer your torches will look and the longer they will burn; higher quality torches will also provide more light than poorly crafted ones. _
 1 _
 2 _
+
 | Rank | Torch description | Torch quality |
 | --- | --- | --- |
 | Rank 1 | somewhat crude<br><br>somewhat simple<br><br>simple | below average<br><br>below average - average<br><br>average |
@@ -57,6 +58,7 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 | Rank 40 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert |
 | Rank 50 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted<br><br>finely crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
 | Rank 60 | well-crafted<br><br>very well-crafted<br><br>finely crafted | made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
+
 3
 4
 5** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*

@@ -244,6 +244,7 @@ A rank of **1 signifies the best** in this category. All arrows have the same sp
 | Crude Arrows | 1 | ?? | 1 | ?? |
 
 #### Ammo Weight
+
 | Ammo | Weight Rank | Weight (per 100 arrows) |
 | --- | --- | --- |
 | Reed Arrows | 1 | 0.1 lbs |

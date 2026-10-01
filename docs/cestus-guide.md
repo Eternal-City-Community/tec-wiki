@@ -58,6 +58,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 
 
 #### Weapon Weight
+
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
 

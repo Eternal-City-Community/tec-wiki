@@ -99,6 +99,7 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 | Rank 40 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert |
 | Rank 50 | somewhat well-crafted<br><br>well-crafted<br><br>very well-crafted<br><br>finely crafted | excellently made<br><br>excellently made - made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
 | Rank 60 | well-crafted<br><br>very well-crafted<br><br>finely crafted | made by an expert<br><br>made by an expert<br><br>made by a master craftsman |
+
 ** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*
 
 </details>
@@ -272,6 +273,7 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 | Rank 90 | finely braided | 41 blades | 1.8 lbs |
 | Rank 100 | masterfully braided | 40 blades | 1.8 lbs |
 | Rank 110 | masterfully braided | 40 blades | 1.8 lbs |
+
 * *Roll over success **does not** appear to have any effect on rope making.*
 
 
@@ -364,6 +366,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 | Rank 50 | 9.5 | 13.5 | 17 | 20.5 |
 | Rank 60 | 9.5 | 13.5 | 17 | 20.5 |
 | Rank 70 | 9.5 | 13.5 | 17 | 20.5 |
+
 ** Each value represents a calculated average over 100 or more attempts.*
 
 
@@ -467,12 +470,14 @@ Some materials indicate that they are whittle-able, but never actually produce i
 * a snail shell
 
 **Rank 100 lets you do the following:**
+
 | Branch | Sapling | Rib | Antler | Horn | Leg Bone | Seashell | Skull | Fish bones | Hoof | Beak |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | a hook, a peg, a bead, a hairpin, a spoon, a fork, a ring, a stylus, a whistle, a splint, a figurine, a candlestick, some nocks, a charm, a comb, a pipe, a toothscraper, a clasp and a flute | a skewer and a cane | a hook, a bead, a hairpin, a ring, a stylus, a charm, a toothscraper, a comb and a needle | a peg and some nocks | a trowel and some nocks | a figurine, some nocks, a pipe and a clasp | a hairpin and a comb | a bowl | a hook, a toothscraper and a needle | a cup | a trowel |
 
 
 **New items unlocked at each rank:**
+
 |  | Branch | Sapling | Rib | Antler | Horn | Leg Bone | Seashell | Skull | Fish bones | Hoof | Beak |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Rank 1 | hook, peg | - | - | - | - | - | - | - | - | - | ? |

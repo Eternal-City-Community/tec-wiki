@@ -4,6 +4,7 @@ As the Twelve Tables of Iridinian law make clear, those who commit a crime must 
 
 
 ### <a id="warrantList"></a> Warrant List
+
 | Warrant | **Real-Life** Time | In-Game Fine | Type of Crime |
 | --- | --- | --- | --- |
 | 1. Petty Theft | 30 mins | 500d | Property / Possession |

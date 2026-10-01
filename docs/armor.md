@@ -5,6 +5,7 @@ Armor is what protects the people who protect the republic. Whether it be a scra
 Variations may exist of each armor type listed below. For example, some bronze helmets have neck protection while others do not. To see what a piece of armor covers and how well it protects use the INSPECT command.
 
 Armor protections range from no protection to excellent as follows:
+
 |  |
 | --- |
 | \|\|~ Protection Levels \|\|~ Comments \|\|<br>\|\| Excellent \|\| Best protection \|\|<br>\|\| Very Good \|\|  \|\|<br>\|\| Good \|\|   \|\|<br>\|\| Fairly Good \|\|  \|\|<br>\|\| Little Protection \|\|  \|\|<br>\|\| No Protection \|\| Worst Protection \|\| |
@@ -31,6 +32,7 @@ This armor is found on dead Kelestian invaders and from other player characters.
 
 Note: Material and Protection information is provided for relevant items only.
 ## Monlon Reputation Armor
+
 | Item | Reputation Points | Price | Weight | Protection |
 | --- | --- | --- | --- | --- |
 | Some bronze greaves* | 500 | 9t 638d 3st | 7 lbs | Very Good - Shins |
@@ -54,6 +56,7 @@ Note: Material and Protection information is provided for relevant items only.
 ## Iridinian Armor
 
 ### Head
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A leather helm | 2.3 lbs | Head | Good |
@@ -72,6 +75,7 @@ Note: Material and Protection information is provided for relevant items only.
 | A boison helmet with a faceplate | 17.0 lbs. | Head, neck, and face | Excellent |
 
 #### Helmet Types
+
 |  |
 | --- |
 | \|\|~ Material \|\|~ Available Types** \|\|<br>\|\| Leather \|\| - Regular _<br>- Face Covering\|\|<br>\|\| Tin \|\| - Regular _<br>- Regular + Neckguard _<br>- Caged* \|\|<br>\|\| Bronze \|\| - Regular _<br>- Faceplate _<br>- Hidden Faceplate _<br>- Caged* \|\|<br>\|\| Alanti \|\| - Faceplate _<br>- Hidden Faceplate \|\|<br>\|\| Iron \|\| - Regular _<br>- Faceplate _<br>- Caged (covers face but does not conceal identity)\|\|<br>\|\| Boison \|\| - Faceplate _<br>- Hidden Faceplate _<br>- Caged* \|\| |
@@ -80,6 +84,7 @@ Note: Material and Protection information is provided for relevant items only.
 
 
 ### Shoulders
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A right leather manica | 1.0 lbs. | Right shoulder, right arm, and right hand | Fairly Good |
@@ -101,6 +106,7 @@ All items listed above can be worn together. They can be put on in the following
 
 
 ### Arms
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A pair of bronze armillus | 2.0 lbs. | Right arm and left arm | Fairly good |
@@ -122,6 +128,7 @@ All items listed above can be worn together. They can be put on in the following
 
 
 ### Hands
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A right leather manica | 1.0 lbs. | Right shoulder, right arm, and right hand | Fairly Good |
@@ -138,6 +145,7 @@ All items listed above can be worn together. They can be put on in the following
 
 
 ### Chest
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A leather war vest | 5 lbs. | Chest, back, and waist | No* |
@@ -158,6 +166,7 @@ All items listed above can be worn together. They can be put on in the following
 
 
 ### Waist
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A leather waistguard | 4 lbs. | Waist | Fairly Good |
@@ -169,6 +178,7 @@ All items listed above can be worn together. They can be put on in the following
 
 
 ### Thighs
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | Some leather thigh greaves | 5 lbs. | Right thigh and left thigh | Fairly Good |
@@ -180,6 +190,7 @@ All items listed above can be worn together. They can be put on in the following
 | A lorica squamata | 16.0 lbs. | Chest, back, waist, right thigh, and left thigh | Very Good |
 
 ### Shins
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | A right leather greave | Less than a pound | Right shin | Fairly Good |
@@ -189,6 +200,7 @@ All items listed above can be worn together. They can be put on in the following
 
 
 ### Feet
+
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
 | Some crude thick hide boots |  | Right foot, left foot | little |

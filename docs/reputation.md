@@ -201,6 +201,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 | Some iron galeri | 4,000 | 198t 125d | 8 lbs | Very Good - Neck, Shoulders |
 | An iron cuirass | 4,500 | 207t 1537d 2st | 12 lbs | Excellent - Chest, Waist, Back |
 | A lorica segmentata | 5,000 | 234t 776d 2st 2s | 12 lbs | Very Good - Chest, Shoulders, Waist, Back |
+
 **Some bronze greaves*** offer the **same protection** as other readily available greaves throughout the Republic for 1/5 of the price. However, they are a single armor piece (instead of two separate greave items).
 * Galeri can fit over a nagoda.
 * Waistguards can fit over a katitra.

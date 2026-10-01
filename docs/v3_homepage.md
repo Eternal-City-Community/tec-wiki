@@ -72,6 +72,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 
 ---
+
 |  |  |  |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Vitrus | Dreggo | Gilven | Maerodus | Hatrin |
@@ -104,6 +105,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 **Directions to Maerodus** ([Monlon](/monlon/)): Take the ferry to Monlon
 
 #### Additional Details
+
 | Skill | Guaranteed Multi-Hits |
 | --- | --- |
 | [Knife Whirling Slash](#Whirl) | 100 ranks in [Knife Slash](#Slash) |

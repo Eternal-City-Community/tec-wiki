@@ -222,6 +222,7 @@ Being in the city center, there's also a high chance of making money from player
 
 
 #### Admina (Rock Valley)
+
 | Type | Required Materials | Payment | Est. Profit | Notes |
 | --- | --- | --- | --- | --- |
 | Unlocking | a lockpick | ~25d | ~25d |  |
@@ -234,6 +235,7 @@ Being in the city center, there's also a high chance of making money from player
 
 
 #### Fefellus (Vetallun)
+
 | Type | Requires | Payment | Est. Profit | Notes |
 | --- | --- | --- | --- | --- |
 | Unlocking | a lockpick | ~25d | ~25d |  |
@@ -246,6 +248,7 @@ Being in the city center, there's also a high chance of making money from player
 
 
 #### Ititia (Blackvine)
+
 | Type | Requires | Payment | Est. Profit | Notes |
 | --- | --- | --- | --- | --- |
 | Unlocking | a lockpick | ~23d | ~23d |  |

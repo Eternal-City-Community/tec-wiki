@@ -79,6 +79,7 @@ Your RB in a skill is determined by the Rank Bonus from your Basics skill + your
 Unlike with non-combat skillsets, combat skillsets are impacted by your **Combat Posture** aka **"Stance"**. If you're in a more **Defensive** stance, you're more focused on using the full potential of your defences, therefore less focus on your attacks. Alternatively,  if you're in a more **Berserk** stance, you're more focused on using the full potential of your attacks, therefore less focus on your defences.
 
 There are five stances that allow you to balance your fighting style.
+
 | Stance | Attack | Defense |
 | --- | --- | --- |
 | Berserk | 100% | 0% |
@@ -107,6 +108,7 @@ There are five stances that allow you to balance your fighting style.
 
 #### Rotations
 Only applies to humanoids.
+
 | Attacks |  |  |  |  | Repeat Penalty (penalty) [cumulative penalty] |
 | --- | --- | --- | --- | --- | --- |
 | Attacks | jab | chop | swat | slash | stab |
@@ -123,6 +125,7 @@ Only applies to humanoids.
 Depending on the attack, it may allow you to aim. Some attacks are restricted to certain areas (e.g. can't kick a face or chop a foot). Some restrict you in precision (can only aim high/mid/low, not for a hand or neck or foot). Attempting to aim an attack will add a **penalty to your success/offense** (make it X points harder).
 
 When aiming High, Mid or Low, there is a smaller penalty, but a random chance to hit a body part in that area.
+
 | Aiming | Body Parts | Aiming Penalty |
 | --- | --- | --- |
 | High | Head, Face, Neck, Right shoulder, Left shoulder, Right arm, Left arm, Right hand, Left hand, Chest | -20 |
@@ -130,6 +133,7 @@ When aiming High, Mid or Low, there is a smaller penalty, but a random chance to
 | Low | Right thigh, Left thigh, Right leg, Left Leg, Right foot, Left foot | -20 |
 
 When aiming at specific body parts, the penalty is greater, but if you connect you will hit the targeted location.
+
 | Aiming | Aiming Penalty |
 | --- | --- |
 | Head | -70 |
@@ -173,6 +177,7 @@ Your defensive maneuver (block/dodge) with the highest RB is your **1st** layer 
 ### Penalties
 
 #### Posture
+
 | Postures | Penalty | Penalty range |
 | --- | --- | --- |
 | Standing | None |  |
@@ -213,6 +218,7 @@ If the **[lighting level](/character-condition/#Lighting) is too dark**, you wil
 [Back to Top](#Top)
 
 ### Stats
+
 | Stats | Effect |
 | --- | --- |
 | Strength | Damage boost, carrying capacity (strength/2 = moderate/significant load change) |

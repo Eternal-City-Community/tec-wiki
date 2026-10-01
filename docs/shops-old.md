@@ -1996,6 +1996,7 @@ There is nothing for sale here.
 | Garum and olive pastry | 8d 2st |
 
 #### Bar - Ottavius
+
 | Item for Sale | Cost |
 | --- | --- |
 | A mug of ale | 5d 1s |
