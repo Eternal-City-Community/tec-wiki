@@ -43,7 +43,7 @@ Tanning tools are not consumed upon use, however ingredients have a limited numb
 | A bottle of leather dye | Dye Hide | 1t to 2t | Available for purchase in Arvane's shop |
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Leather Dye</summary>
 
 
