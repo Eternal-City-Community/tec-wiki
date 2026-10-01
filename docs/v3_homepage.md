@@ -95,7 +95,8 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut | [Knife Slash](#Slash) (20 Ranks) | 175 | 80 | 50 | 75 | 75 |
 | [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut | [Knife Simple Stab](#Stab)(10 Ranks) _ |  |  |  |  |  |
-[Knife Slash](#Slash) (10 Ranks) || 175 || 80 || 50 || 75 || 75 ||
+
+[Knife Slash](#Slash) (10 Ranks) || 175 || 80 || 50 || 75 || 75
 | [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 175 | 80 | - | 75 | - |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Knife Accuracy](#Accuracy) | Difficult | - | - | - | - | 175 | - | 75 | 75 | - |
@@ -112,9 +113,8 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | --- | --- |
 | [Knife Whirling Slash](#Whirl) | 100 ranks in [Knife Slash](#Slash) |
 | [Knife Stab and Slash](#Dc) | 50 Ranks in [Knife Simple Stab](#Stab) _ |
-50 Ranks in [Knife Slash](#Slash) ||
 
-
+50 Ranks in [Knife Slash](#Slash)
 <details>
 <summary>+ Show</summary>
 

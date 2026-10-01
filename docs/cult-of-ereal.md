@@ -29,6 +29,7 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | High Priest Tharius |
 | ***High Priest’s Proxy*** _ |  |  |  |  |  |
+
 Darie Allende ||= ***Sword of Ereal*** _
 Junia Gracious _
 *(deceased)* ||= *(Tharius’)* ***Chief of Spies*** ||< @@            @@***The Council of Elders*** _
@@ -38,13 +39,12 @@ iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** ) _
 iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** ) _
 v. Sartor Mithus _
 vi. Spurius Ravilla _
-vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) ||
+vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** )
 |  | i. Fist of Ereal _ |
 | --- | --- |
+
 ii. Firm of Ereal _
-iii. Shield of Ereal || || ||
-
-
+iii. Shield of Ereal || ||
 <a id="High-Priest"></a>
 #### [#](#High-Priest)High Priest
 
@@ -126,7 +126,6 @@ From Aspirant to Acolyte, every stage of this path is overseen by members of the
 |  |  |  |  |  |  | Pathways of Light |
 | --- | --- | --- | --- | --- | --- | --- |
 | Revealing Light | Arcane Light | Preserving Light | Comforting Light | Guiding Light | Illuminating Light | Nature's Light |
-
 
 Upon becoming an Acolyte, members of the Cult may dedicate themselves to one or more Paths of Light. Each Path represents a different form of
 service to Ereal and to the people of Iridine.

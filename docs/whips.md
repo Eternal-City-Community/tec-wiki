@@ -24,25 +24,29 @@ Basic familiarity with the short whip means that the wielder won't take out her 
 | [Whip Face Strike](#FS) | Average | 1 | Long | Cut | 20 Ranks in [Simple Strike](#SS) | 300 | 500 | 154 |
 | [Whip Waist Trap](#WT) | Average | 1 | Short | - | - | 300 | 500 | 154 |
 | [Whip Lykatos' Scourge](#LS) | Average | 1 | Either | Cut _ |  |  |  |  |
+
 Cut _
 Cut ||= 20 Ranks in [Simple Strike](#SS) _
-20 Ranks in [Triple Crack](#TC) ||= 300 ||= 500 ||= 154 ||
+20 Ranks in [Triple Crack](#TC) ||= 300 ||= 500 ||= 154
 | [Whip Flick Strike](#FlickS) | Average | 1 | Either | Cut | 20 Ranks in [Simple Strike](#SS) | 300 | 500 | 154 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Whip Sky Circle Slash](#SCS) | Average | 1 | Either | Cut | [Sky Circle Stance](#SC) | 300 | 500 | 154 |
 | [Whip Sky Circle Rake](#SCR) | Difficult | 1 | Short | Cut _ |  |  |  |  |
+
 Cut || [Sky Circle Stance](#SC) _
-20 Ranks in [Sky Circle Slash](#SCS)  ||= 300 ||= 500 ||= 154 ||
+20 Ranks in [Sky Circle Slash](#SCS)  ||= 300 ||= 500 ||= 154
 | [Whip Sky Circle Scourge](#SCScourge) | Difficult | 1 | Either | Cut _ |
 | --- | --- | --- | --- | --- |
+
 Cut _
 Cut ||= [Sky Circle Stance](#SC) _
 40 Ranks in [Sky Circle Slash](#SCS) _
-40 Ranks in [Sky Circle Rake](#SCR)   ||= 300 ||= 500 ||= 154 ||
+40 Ranks in [Sky Circle Rake](#SCR)   ||= 300 ||= 500 ||= 154
 | [Whip Coil Block](#CoilBlock) | Average | - | - | - | [Whip Fast Coil Stance](#FCstance) | 300 | 500 | 154 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Whip Flogging the Bull](#FtB) | Average | 1 | Either | - | 40 Ranks in [Simple Strike](#SS) _ |  |  |  |
-40 Ranks in [Precise Snap](#PS) ||= 300 ||= 500 ||= 154 ||
+
+40 Ranks in [Precise Snap](#PS) ||= 300 ||= 500 ||= 154
 | [Whip Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 154 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Whip Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 154 |

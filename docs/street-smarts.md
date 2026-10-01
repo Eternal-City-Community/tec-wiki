@@ -39,16 +39,13 @@
 | [Quick Reveal](#Quick-Reveal) | Average | - | - | - | - | - | - | 100 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills |
 | [Guard Evasion](#Guard-Evasion) | - | - | - | - | - | - | - | - |  |  |  |
-
 |  | Trainer Location Clues |
-| --- | --- |
 | Trainer # 1 | Look for artwork in a shopping area covered in colorful paint in the [Central Steps](/the-steps-central/). |
 | Trainer # 2 | Be generous with tips in rewarding local entertainment in the [Northern Steps](/the-steps-north/). |
 | Trainer # 3 | Look for an old man down on his luck in a dead-end in the [Northern Steps](/the-steps-north/). |
 | Trainer # 4 | Look for a man with an empty mug in the [Eastern Steps](/the-steps-east/). |
 | Trainer # 5 | Visit a twisting alley cul-de-sac behind gang checkpoints at the right time of day in the [Northern Steps](/the-steps-north/). |
 | RV Trainer | May a torch bracket light your way to wisdom in the Northeast part of the [Town of Rock Valley](/town-of-rock-valley-map/). |
-
 
 #### Notes on Learning
 * If you're looking to **learn skills** or lessons that are **not taught by NPC trainers**, you may wish to **discreetly** inquire about them to one of the **[Criminal Orgs](/orgs/)**. It has always been said that certain people with the right connections can learn a good deal more in the art of stealing. Though sometimes it's best to **let them find you**, rather than seeking them out yourself.

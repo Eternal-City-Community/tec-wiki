@@ -39,7 +39,6 @@ Tanning tools are not consumed upon use, however ingredients have a limited numb
 | Brains | Tan Hide | FREE | Available from skinning some dead animals |
 | A bottle of leather dye | Dye Hide | 1t to 2t | Available for purchase in Arvane's shop |
 
-
 <details>
 <summary>+ Show Leather Dye</summary>
 

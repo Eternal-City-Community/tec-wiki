@@ -131,7 +131,6 @@ If no teacher is available for the ran you want to progress to, you will need to
 | 5,002 - 7,001 | 1,000% SP | 950% SP |
 | +7,002 | 1,200% SP | 1,150% SP |
 
-
 Example: Assuming an **Easy** skill in **1^^st^^ slot** that normally requires **5 SP** to learn from a teacher (if possible).
 
 | Scenario | Calculation | SP Cost |
@@ -142,7 +141,6 @@ Example: Assuming an **Easy** skill in **1^^st^^ slot** that normally requires *
 | Self-training rank 2,500 to 2,501 (with self-taught) | 5 SP x 350% | 17.5 SP |
 | Self-training rank 4,500 to 4,501 (no self-taught) | 5 SP x 800% | 40 SP |
 | Self-training rank 4,500 to 4,501 (with self-taught) | 5 SP x 750% | 37.5 SP |
-
 
 <a id="skill-actions"></a>
 ### Skill Actions

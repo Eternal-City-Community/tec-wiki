@@ -23,19 +23,23 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Formation Breaker](#break) | Average | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 175 |
 | [Falx Ankle Drag](#ankle) | Difficult | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 500 |
 | [Falx Whirlwind Slash](#wslash) | Average | 2 | Short | Cut ^^AoE^^ | [Falx Kelestian Siege Stance](#siege) _ |  |  |
-20 Ranks in [Falx Wild Strike](#wstrike) ||= 200 ||= 500 ||
+
+20 Ranks in [Falx Wild Strike](#wstrike) ||= 200 ||= 500
 | [Falx Spinning Backhand](#spin) | Average | 2 | Short | Bruise ^^AoE^^ | [Falx Kelestian Siege Stance](#siege) _ |
 | --- | --- | --- | --- | --- | --- |
-20 Ranks in [Falx Wild Strike](#wstrike) ||= 200 ||= 500 ||
+
+20 Ranks in [Falx Wild Strike](#wstrike) ||= 200 ||= 500
 | [Falx Wide Hook Rake](#rake) | Difficult | 2 | Short | Pierce ^^AoE^^ | [Falx Kelestian Siege Stance](#siege) _ |
 | --- | --- | --- | --- | --- | --- |
+
 20 Ranks in [Falx Wild Strike](#wstrike) _
 20 Ranks in [Falx Whirlwind Slash](#wslash) _
-20 Ranks in [Falx Spinning Backhand](#spin) ||= 200 ||= 500 ||
+20 Ranks in [Falx Spinning Backhand](#spin) ||= 200 ||= 500
 | [Falx Final Slash](#fslash) | Difficult | 2 | Either | Cut **or** *Kill* | [Falx Kelestian Siege Stance](#siege) _ |
 | --- | --- | --- | --- | --- | --- |
+
 40 Ranks in [Falx Narrow Slash](#slash) _
-40 Ranks in [Falx Whirlwind Slash](#wslash) ||= 200 ||= 500 ||
+40 Ranks in [Falx Whirlwind Slash](#wslash) ||= 200 ||= 500
 | [Falx Chopping Block](#cblock) | Easy | 2 | - | - | - | 200 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Falx High Parry](#hparry) | Easy | Either | - | - | - | 200 | 500 |
@@ -45,6 +49,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Feint](#feint) | Average | Either | Either | - | - | 200 | 500 |
 | [Falx Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
 | [Falx Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
+
 *<wound type>* ^^**AoE**^^ denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1

@@ -117,7 +117,6 @@ Wounds inflicted on your character can be classified as cutting, piercing, bruis
 | Level 4 | Severe cut | Severe puncture | Major bruise | Severe burn |
 | Level 5 | Devastating cut | Gaping wound | Fracture | ??? |
 
-
 <a id="Bleeding"></a>
 #### [#](#Bleeding)Bleeding
 
@@ -199,7 +198,6 @@ The level of lighting in an area can affect your ability to see and may even res
 | Difficult to see | The area is very dark, making it difficult to see. |
 | Almost impossible to see | The area is pitch black, making it almost impossible to see. |
 
-
 <a id="Temperature"></a>
 ### [#](#Temperature)Body Temperature
 Body temperatures do...
@@ -208,7 +206,6 @@ Body temperatures do...
 | --- |
 | Hot |
 | Comfortable |
-
 
 ### Character appearance
 

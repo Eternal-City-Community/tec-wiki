@@ -86,7 +86,6 @@ Required SP: *~1,128+ SP*
 | 3 | ***Healing*** | 100 |
 | 4 | [Set Bone](/healing/#Set-Bone) | 10 |
 
-
 * Train Healing basics to 50 ranks, or until you reach a 1 success in [Bandage Wound](/healing/#Bandage-Wound), [Clean Wound](/healing/#Clean-Wound), [Remove Bandages](/healing/#Remove-Bandages).
 * If 40 ranks in [Stitch Wound](/healing/#Stitch-Wound) is not enough to have a Success of 1, after Basics is 100, continue training to get 1 success.
 
@@ -205,7 +204,6 @@ In Iridine, travel to the [Hospice of the Morning Light](/gardens-and-hospice/).
 | Arrow Pulling (hired guard) | A Bandage | 80d | ?d | [Arrow-Pulling](/healing/#Arrow-Pulling) & [Bandage Wound](/healing/#Bandage-Wound) |  |
 | Splinting (citizen) | Splint (~9d) | 76d | 80d | [Splint Bone](/healing/#Splint-Bone) |  |
 | Stitching (worker) | Needle & Thread | 100d | ?d | [Stitch Wound](/healing/#Stitch-Wound) |  |
-
 
 #### Healing Tent (Monlon)
 In [Monlon](/monlon/), wait within the healing tent. Soldiers, wounded from the battlefields, will begin to show. 

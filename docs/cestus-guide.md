@@ -39,14 +39,12 @@ A rank of **1 signifies the best** in this category.
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
 | --- | --- | --- | --- | --- |
 
-
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
 | --- | --- |
-
 
 #### Weapon Speed
 
@@ -56,11 +54,9 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | --- | --- | --- | --- | --- |
 | Weapon | Speed Rank | Median Speed | Speed Rank | Median Speed |
 
-
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
-
 
 ### Moves
 #### Worthwhile

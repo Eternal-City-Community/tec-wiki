@@ -20,25 +20,29 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 | [Chainblade Flying Thrust](#thrust) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Ankle Snare](#ankle) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut _ |  |  |  |
+
 Cut ||= [Chainblade Winged Stance](#wingedstance) _
-20 Ranks in [Chainblade Flying Slash](#slash) ||= 200 ||= 500 ||
+20 Ranks in [Chainblade Flying Slash](#slash) ||= 200 ||= 500
 | [Chainblade Raptor Spike](#raptor) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise _ |  |  |  |
+
 Pierce ||= 10 Ranks in [Chainblade Ring Jab](#jab) _
-10 Ranks in [Chainblade Close Stab](#stab) ||= 200 ||= 500 ||
+10 Ranks in [Chainblade Close Stab](#stab) ||= 200 ||= 500
 | [Chainblade Feint](#feint) | Difficult | 2 | Either | - | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut _ |  |  |  |
+
 Cut _
-Cut||= 30 Ranks in [Chainblade Overhead Spin](#overhead) ||= 200 ||= 500 ||
+Cut||= 30 Ranks in [Chainblade Overhead Spin](#overhead) ||= 200 ||= 500
 | [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut _ |
 | --- | --- | --- | --- | --- |
+
 Cut _
 Cut _
 Cut ||= [Chainblade Winged Stance](#wingedstance) _
 20 Ranks in [Chainblade Overhead Spin](#overhead) _
-20 Ranks in [Chainblade Raptor Spike](#raptor) ||= 200 ||= 500 ||
+20 Ranks in [Chainblade Raptor Spike](#raptor) ||= 200 ||= 500
 | [Chainblade No Mind Strike](#nomind) | Impossible | 2 | Either | *<varies>* | 90 Ranks in [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Chainblade Blade Block](#bladeblock) | Easy | 2 | - | - | - | 200 | 500 |

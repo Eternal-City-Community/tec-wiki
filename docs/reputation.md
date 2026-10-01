@@ -27,12 +27,10 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 | Tier 3 | NE Section | 1 |
 | Tier 2 | SW Section | .50 |
 | Tier 1 | SE Section | .25 |
-
-
 | Item | Reputation _ |
-| --- | --- |
+
 Points ||~ Price ||~ Weight ||~ Protection _
-or Quality ||
+or Quality
 | some leather gloves | 500 | 2t | <1 lb | Good - Arms, Hands |
 | --- | --- | --- | --- | --- |
 | some leather leggings | 500 | 2t | <1 lb | Good - Feet, Shins |
@@ -57,7 +55,6 @@ or Quality ||
 | a retalq-tipped short spear | 5,500 | 250t | 3.3 lbs | Superior quality |
 | a retalq war hammer | 5,500 | 250t | 4 lbs | Superior quality |
 | an iron lorica squamata | 6,000 | 235t | 12 lbs | Very Good - Chest, Back, Waist, Thighs |
-
 
 <details>
 <summary>+ Show Leather Armor Descriptors</summary>
@@ -112,7 +109,8 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 
 | Reputation _ |
 | --- |
-Points ||~ Comments from Pretium ||
+
+Points ||~ Comments from Pretium
 | 0 | Your name is barely a whisper in Franlius, unknown to most. |
 | --- | --- |
 | 250 | Faint rumors of your minor deeds against the undead circulate in Franlius. |
@@ -139,7 +137,6 @@ Points ||~ Comments from Pretium ||
 | 5,500 | You're a living legend in Franlius, a nightmare to the undead masses. |
 | 5,750 | Your epic battles against the undead are immortalized in Franlius |
 | 6,000 | If the undead dreamed, they'd have nightmares of you in Franlius. |
-
 
 <a id="Monlon"></a>
 ### [#](#Monlon)Monlon
@@ -185,7 +182,6 @@ Points ||~ Comments from Pretium ||
 | Retalq-bladed Stave | - | - | - | - | - | - | - | 50 | - |
 | Iron 2H Axe | - | - | - | - | - | - | - | - | 4 |
 
-
 *This list is a work in progress and will be updated as people unlock more options.*
 
 | Item | Reputation Points | Price | Weight | Protection |
@@ -207,6 +203,7 @@ Points ||~ Comments from Pretium ||
 | Some iron galeri | 4,000 | 198t 125d | 8 lbs | Very Good - Neck, Shoulders |
 | An iron cuirass | 4,500 | 207t 1537d 2st | 12 lbs | Excellent - Chest, Waist, Back |
 | A lorica segmentata | 5,000 | 234t 776d 2st 2s | 12 lbs | Very Good - Chest, Shoulders, Waist, Back |
+
 **Some bronze greaves@@*@@** offer the **same protection** as other readily available greaves throughout the Republic for 1/5 of the price. However, they are a single armor piece (instead of two separate greave items).
 * Galeri can fit over a nagoda.
 * Waistguards can fit over a katitra.
@@ -291,7 +288,6 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 | A bronze helmet with a caged faceplate | 50t 1041d 2st 2s |  |  |  |
 | An iron helmet with a caged faceplate | 59t 833d 1st 1s |  |  |  |
 | A boison helmet with a caged faceplate | 82t 1510d 1st 2s |  |  |  |
-
 
 <a id="Collum"></a> <a id="Neck-Guard"></a>
 ++++* [#](#Neck-Guard)Neck Guards
@@ -403,10 +399,7 @@ Both of these vendors **only charge reputation** for their goods, though the ite
 | A loaf of cheesy bread |
 | A basket of assorted flowers |
 | A delicate porcelain pot painted with rosebuds |
-
-
 | Letum's Extra Stock |
-| --- |
 | A simple clay urn |
 | A simple clay mask |
 | A simple wooden mask |
@@ -424,7 +417,6 @@ Both of these vendors **only charge reputation** for their goods, though the ite
 | A bit of jasmine incense |
 | A bit of perfumed incense |
 | A bit of rose incense |
-
 
 ++++* Cadaes
 You may be offered the ability to **spend some reputation** with the Cult to **significantly reduce the price** of a new cadae in the [city of Monlon](/city-of-monlon/).
@@ -479,7 +471,6 @@ The following items can be unlocked, given enough reputation. Generally, the fur
 | A paenula embroidered with colorful flower blossoms | 2t 41d 2st 2s |
 | A kit of painted herbalist's tools | 9t 781d 1st |
 | A faceted crystal vial on a thin silver chain | 28t 781d 1st |
-
 
 [Back to Top](#Top)
 

@@ -334,9 +334,7 @@ The color and descriptor lists below currently exist in-game and are meant to be
 | Sapphire | Scarlet | Silver | Sky blue | Slate blue |
 | Slate grey | Tan | Tangerine | Turquoise | Yellow |
 | Violet | Viridian | White, pearl white, snow white |  |  |
-
 |  |  |  |  | Colors Descriptors: |
-| --- | --- | --- | --- | --- |
 | Burnt | Dark | Deep | Glittering | Light |
 | Opalescent | Pale | Pearlescent | Pure | Scintillating |
 | Smoky | Vibrant |  |  |  |

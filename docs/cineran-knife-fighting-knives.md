@@ -15,28 +15,31 @@ Cineran Knife Fighting is known as a refined fighting style from the distant lan
 | [CKF Slashing Block](#Slashing) | Average | - | - | - | - | 500 | 50 |
 | [CKF Dirk Balance](#Dirk) | Difficult | - | - | - | 20 Ranks in [Knives Wrist-Dancing](/knives/#Wd) | 175 | 50 |
 | [CKF Rib Tickle](#Rib) | Difficult | 1 | Short | Pierce | 30 Ranks in [Knives Slash](/knives/#Slash) _ |  |  |
-20 Ranks in [Knives Underhand Stab](/knives/#Ustab) ||= 500 ||= 50 ||
+
+20 Ranks in [Knives Underhand Stab](/knives/#Ustab) ||= 500 ||= 50
 | [CKF Triple Cut](#Triple) | Difficult | 1 | Short | Cut _ |
 | --- | --- | --- | --- | --- |
+
 Cut _
 Cut || 20 Ranks in [Knives Jab](/knives/#Jab) _
 20 Ranks in [Knives Slash](/knives/#Slash) _
-20 Ranks in [Knives Chop](/knives/#Chop) ||= 500 ||= 40 ||
+20 Ranks in [Knives Chop](/knives/#Chop) ||= 500 ||= 40
 | [CKF Face Slash](#Face) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [CKF Wrist Slash](#Wrist) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |
 | [CKF Backhand Slash](#Backhand) | Average | 1 | Short | Cut | - | 500 | 45 |
 | [CKF Quick Draw](#Quick) | Difficult | 1 | - | - | - | 175 | 50 |
 | [CKF Markad Slash](#Markad) | Average | 1 | Short | Bruise _ |  |  |  |
-Cut || 20 Ranks in [Knives Slash](/knives/#Slash) ||= 500 ||= 50 ||
+
+Cut || 20 Ranks in [Knives Slash](/knives/#Slash) ||= 500 ||= 50
 |  |  |  |  |  |  |  |  |  |  | Unavailable Skills (Not taught by NPC trainers) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Cineran Knives Heavy Chop](#HChop) | - | - | - | - | 20 Ranks in [Knife Chop](/knives/#Chop) | - | - |  |  |  |
 | [Cineran Knives Diving Stab](#DStab) | - | 1 | Long | Pierce | 20 Ranks in [Knife Step and Lunge](/knives/#Lunge) _ |  |  |  |  |  |
-20 Ranks in [Knife Simple Stab](/knives/#Stab) ||= - ||= - ||
+
+20 Ranks in [Knife Simple Stab](/knives/#Stab) ||= - ||= -
 | [Cineran Knives Knee Stab](#KStab) | - | - | - | - | 20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 
 **Directions to Vitrus** ([Vetallun](/vetallun/)): From Vetallun Armory, Sx1 , Wx1
 **Directions to Maerodus** ([Monlon](/monlon/)): Take the ferry to Monlon
@@ -291,7 +294,7 @@ TBC
 <div class="skill-template">
 
 A young thug dives at and misses Gilven with tin dagger. _
- _
+
 A thug is stunned! _
 A thug dives head-first at you with scuffed dagger held out! Your lorica squamata absorbs the impact of the blow. A thug lands heavily on his stomach.
 

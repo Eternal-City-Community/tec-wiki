@@ -39,6 +39,7 @@ To view the current organization leaders, use the **officials** command.
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Legio I |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  | 1^^st^^ Cohort _ |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
 **Rearing Stallion** ||= 2^^nd^^ Cohort _
 **Wild Dog** ||= 3^^rd^^ Cohort _
 **Snarling Wildcat** ||= 4^^th^^ Cohort _
@@ -48,11 +49,10 @@ To view the current organization leaders, use the **officials** command.
 **Snarling Badger** ||= 8^^th^^ Cohort _
 **Howling Wolf** ||= 9^^th^^ Cohort _
 **Diving Falcon** ||= 10^^th^^ Cohort _
-**Striking Snake** ||
+**Striking Snake**
 |  | 1^^st^^ Century (**Eagle**) | ... | 6^^th^^ Century |  |  |  |  |  |  |  |  | 1^^st^^ - 6^^th^^ Centuries *(per Cohort)* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |
-
 
 [[f<image https://eternal-city.wdfiles.com/local--files/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg]]
 

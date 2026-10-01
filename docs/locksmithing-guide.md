@@ -46,10 +46,7 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 | Very Spectacular | +100 |
 | Spectacular | +93 |
 | Fairly Spectacular | +87 |
-
-
 | Quality | RB Bonus |
-| --- | --- |
 | Very Phenomenal | +80 |
 | Phenomenal | +73 |
 | Fairly Phenomenal | +67 |
@@ -57,10 +54,7 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 | Excellent | +53 |
 | Fairly Excellent | +47 |
 | Extremely Good | +40 |
-
-
 | Quality | RB Bonus |
-| --- | --- |
 | Very Good | +33 |
 | Good | +27 |
 | Fairly Good | +20 |
@@ -68,17 +62,13 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 | Somewhat Above Average | +7 |
 | Average | 0 |
 | Somewhat Below Average | -7 |
-
-
 | Quality | RB Bonus |
-| --- | --- |
 | Below Average | -13 |
 | Poor | -20 |
 | Somewhat Poor | -27 |
 | Fairly Poor | -33 |
 | Very Poor | -40 |
 | Extremely Poor | -47 |
-
 
 ##### Weight
 
@@ -113,40 +103,45 @@ The below steps use the furnaces across from Apula's as the example.
 
 | **Step 1**: Creating a wax imprint | - Make sure to have a piece of wax and the instrument inhand. _ |
 | --- | --- |
+
                                                               - Imprint the wax with the instrument. ([*/locksmithing#Wax-Imprint Create Wax Imprint]) _
                                                               - Example: '**imprint wax with key**'. _
-                                                              - Repeat until finished. *(# rolls vary on skill level)* ||
+                                                              - Repeat until finished. *(# rolls vary on skill level)*
 | **Step 1-B** *(optional)* : Etch Text into Imprint. | - Make sure to have a stylus inhand. _ |
 | --- | --- |
+
                                                               - Etch characters onto the wax imprint. ([*/locksmithing#Wax-Letter-Etching Wax Letter Etching]) _
                                                               - Example: '**etch imprint Home**'. _
-                                                              - See [Etching](#Etching) for more details. ||
+                                                              - See [Etching](#Etching) for more details.
 | **Step 2**: Creating a clay mold. | - Hold the imprinted wax and a piece of clay in your hands. _ |
 | --- | --- |
+
                                                                - Create a mold from the wax imprint. ([*/locksmithing#Clay-Mold Create Clay Mold]) _
                                                                - Example: '**create mold of imprint with clay**'. _
-                                                               - Repeat until finished. *(# rolls vary on skill level)* ||
+                                                               - Repeat until finished. *(# rolls vary on skill level)*
 | **Step 3**: Baking the clay mold. | - Bake the mold over the furnace. _ |
 | --- | --- |
+
                                                                 - **Light the brick furnace** for a low fire. _
                                                                 - Make sure to hold a pair of tongs! _
                                                                 - Heat the clay over the furnace. _
                                                                 - Example: '**heat clay over brick**' _
-                                                                - Repeat until done. *(~6 echoes)* ||
+                                                                - Repeat until done. *(~6 echoes)*
 | **Step 4**: Getting liquid metal. | - **Light the iron furnace** for a strong fire. _ |
 | --- | --- |
+
                                                                - Get a crucible and put a piece of metal slag inside. *(your choice of metal!)* _
                                                                - Hold the crucible and the tongs in hand, then heat the crucible over the furnace. _
                                                                - Example: '**heat crucible over iron furnace**'. _
-                                                               - Repeat until you have liquid metal. *(~8 echoes)* ||
+                                                               - Repeat until you have liquid metal. *(~8 echoes)*
 | **Step 5**: Forge the key/lockpick. | - Pour liquid metal into mold. ([*/locksmithing#Forge-Lock-Instrument Forge Lock Instrument]) _ |
 | --- | --- |
-                                                               - Example: '**forge tool with crucible and mold**'. ||
+
+                                                               - Example: '**forge tool with crucible and mold**'.
 | **Step 6** *(optional)*: Destroy the mold. | - Destroy the mold so it cannot be used to create duplicates of the same key. _ |
 | --- | --- |
-                                                                        - Example: '**crack mold**'. ||
 
-
+                                                                        - Example: '**crack mold**'.
 <a id="Etching"></a>
 ##### [#](#Etching)Etching
 You can inscribe a small amount of characters onto a lockpick using [Wax Letter Etching](/locksmithing/#Wax-Letter-Etching) which will show when you look at it. Your rank in **basics does not** seem to **help**.
@@ -166,17 +161,13 @@ This lockpick has raised elegant lettering that reads, 'Awesome'.
 | 30 - 39 | 6 characters | block lettering |
 | 40 - 49 | 8 characters | clean lettering |
 | 50 - 59 | 9 characters | slightly curling lettering |
-
-
 | Rank | # characters | lettering |
-| --- | --- | --- |
 | 60 - 69 | 10 characters | curling lettering |
 | 70 - 79 | 10 characters | curling lettering |
 | 80 | 12 characters | elegant lettering |
 | 90 | 13 characters | elegantly scrolling lettering |
 | 100 | 14 characters | elegantly scrolling lettering |
 | 110 | 14 characters | elegantly scrolling lettering |
-
 
 #### Create Wire Lockpicks
 * Easier to master than forging.
@@ -198,7 +189,6 @@ Keyrings can be **made of** the following material:
 
 | Metals | Tin | Copper | Brass | Bronze | Iron | Silver | Gold |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 
 Below is the list of **keyring sizes** that can be created. 
 
@@ -225,21 +215,23 @@ In order to be offered a job, you must first meet the rank requirements.
 | Job Type | Rank Requirements |
 | --- | --- |
 | Unlock a container | Rank 1 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at Apula's _ |
-Rank 10 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at other locations || 
+
+Rank 10 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at other locations
 | Lock a container | Rank 10 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at Apula's _ |
 | --- | --- |
-Rank 1 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at other locations || 
+
+Rank 1 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at other locations
 | Unjam a container | Rank 10 [Unjam Lock](/locksmithing/#Unjam-Lock) |
 | --- | --- |
 | Create a lockpick | Rank 20 [Fashion Lockpick](/locksmithing/#Fashion-Lockpick) (tin) _ |
+
 Rank 30 [Fashion Lockpick](/locksmithing/#Fashion-Lockpick) (bronze/iron) _
 --@@  @@--or--@@  @@-- _
 Rank 30 [Create Wax Imprint](/locksmithing/#Wax-Imprint), _
 Rank 30 [Create Clay Mold](/locksmithing/#Clay-Mold), and _
-Rank 30 [Forge Lock Instrument](/locksmithing/#Forge-Lock-Instrument)  ||
+Rank 30 [Forge Lock Instrument](/locksmithing/#Forge-Lock-Instrument)
 | Install a tumbler | Rank 30 [Install Lock](/locksmithing/#Install-Lock) |
 | --- | --- |
-
 
 #### Apula (Iridine)
 Apula is the original OG of locksmithing jobs, her shop is serves as the hub for locksmiths. Despite her charm, be careful *flirting* with her. Too many advances and she may ban you. Some things to **avoid** are  **batting your eyes**, ... at her.
@@ -255,9 +247,8 @@ Being in the city center, there's also a high chance of making money from player
 | Create Lockpick (Bronze) | thin length of wire (bronze) (~45d) | ~95d | ~50d | Must provide your own supplies. |
 | Create Lockpick (Iron) | lump of iron (~171d), tongs, crucible | ~460d | ~289d | Must provide your own supplies. |
 | Install Tumbler | a tumbler (~1,465d) | ~1t 238d | ~338d | Must provide your own supplies. _ |
-Place the tumbler's key in the container before handing it in. ||
 
-
+Place the tumbler's key in the container before handing it in.
 #### Admina (Rock Valley)
 | Type | Required Materials | Payment | Est. Profit | Notes |
 | --- | --- | --- | --- | --- |
@@ -265,14 +256,14 @@ Place the tumbler's key in the container before handing it in. ||
 | Locking | a lockpick | ~35d | ~35d |  |
 | Unjamming | a lockpick | ~51 | ~51d |  |
 | Create Lockpick (Tin) | thin length of wire (tin) (~10d) | ~31d | ~21d | Must provide your own supplies. _ |
-Lumps of tin slag are **not** sold here. ||
+
+Lumps of tin slag are **not** sold here.
 | Create Lockpick (Bronze) | thin length of wire (bronze) (~34d) | ~94d | ~60d | Must provide your own supplies. |
 | --- | --- | --- | --- | --- |
 | Create Lockpick (Iron) | thin length of wire (iron) (~170d) | ~458d | ~288d | Must provide your own supplies. |
 | Install Tumbler | a tumbler (~1,504d) | ~1t 246d | ~304d | Must provide your own supplies.  _ |
-Place the tumbler's key in the container before handing it in. ||
 
-
+Place the tumbler's key in the container before handing it in.
 #### Fefellus (Vetallun)
 | Type | Requires | Payment | Est. Profit | Notes |
 | --- | --- | --- | --- | --- |
@@ -283,9 +274,8 @@ Place the tumbler's key in the container before handing it in. ||
 | Create Lockpick (Bronze) | thin length of wire (bronze) (~30d) | ~94d | ~64d | Must provide your own supplies. |
 | Create Lockpick (Iron) | thin length of wire (iron) (~151d) | ~460d | ~310d | Must provide your own supplies. |
 | Install Tumbler | a tumbler (~1,504d) | ~1t 240d | ~300d | Must provide your own supplies.  _ |
-Place the tumbler's key in the container before handing it in. ||
 
-
+Place the tumbler's key in the container before handing it in.
 #### Ititia (Blackvine)
 | Type | Requires | Payment | Est. Profit | Notes |
 | --- | --- | --- | --- | --- |
@@ -296,9 +286,8 @@ Place the tumbler's key in the container before handing it in. ||
 | Create Lockpick (Bronze) | thin length of wire (bronze) (~38d) | ~97d | ~59d | Must provide your own supplies. |
 | Create Lockpick (Iron) | lump of iron (~144d) | ~460d | ~315d | Must provide your own supplies. |
 | Install Tumbler | a tumbler (~1,520d) | ~1t 240d | ~282d | Must provide your own supplies.  _ |
-Place the tumbler's key in the container before handing it in. ||
 
-
+Place the tumbler's key in the container before handing it in.
 ### Moves
 #### Worthwhile
 * [Unjam Lock](/locksmithing/#Unjam-Lock)

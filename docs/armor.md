@@ -14,7 +14,6 @@ Armor protections range from no protection to excellent as follows:
 | Fairly Good |  |
 | Little Protection |  |
 | No Protection | Worst Protection |
- 
 
 **For locations to buy armor visit the [shops](/shops/) page.**
 
@@ -83,29 +82,33 @@ Note: Material and Protection information is provided for relevant items only.
 | Material | Available Types** |
 | --- | --- |
 | Leather | - Regular _ |
-                   - Face Covering||
+
+                   - Face Covering
 | Tin | - Regular _ |
 | --- | --- |
+
              - Regular + Neckguard _
-                  - Caged* ||
+                  - Caged*
 | Bronze | - Regular _ |
 | --- | --- |
+
                   - Faceplate _
                   - Hidden Faceplate _
-                  - Caged* ||
+                  - Caged*
 | Alanti | - Faceplate _ |
 | --- | --- |
-                - Hidden Faceplate ||
+
+                - Hidden Faceplate
 | Iron | - Regular _ |
 | --- | --- |
+
               - Faceplate _
-              - Caged (covers face but does not conceal identity)||
+              - Caged (covers face but does not conceal identity)
 | Boison | - Faceplate _ |
 | --- | --- |
-                  - Hidden Faceplate _
-                  - Caged* ||
- 
 
+                  - Hidden Faceplate _
+                  - Caged*
  ***Caged faceplates** can be pulled down to protect the face, but do not conceal your identity.
 
 
@@ -186,7 +189,6 @@ All items listed above can be worn together. They can be put on in the following
 | A heavy Kelestian nagoda with polished stone plates | 19 lbs. | neck, chest, back, right shoulder, and left shoulder. | Excellent |
 | An iron cuirass | 12 lbs. | Chest, back, waist | Excellent |
 
-
 ### Waist
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
@@ -196,7 +198,6 @@ All items listed above can be worn together. They can be put on in the following
 | A leather cuirass | 8.0 lbs. | Chest, back, and waist | Good |
 | A lorica hamata | 14.0 lbs. | Chest, back, waist, right thigh, and left thigh | Good |
 | A lorica squamata | 16.0 lbs. | Chest, back, waist, right thigh, and left thigh | Very Good |
-
 
 ### Thighs
 | Armor Piece | Weight | Coverage | Protection |
@@ -216,7 +217,6 @@ All items listed above can be worn together. They can be put on in the following
 | A left leather greave | Less than a pound | Left shin | Fairly good |
 | A right bronze greave | 3 lbs. | Right shin | Very Good |
 | A left bronze greave | 3 lbs. | Left shin | Very Good |
-
 
 ### Feet
 | Armor Piece | Weight | Coverage | Protection |
@@ -387,7 +387,6 @@ All items listed above can be worn together. They can be put on in the following
 |  | a right bronze greave |  |  |  |
 | Left Foot |  |  |  |  |
 | Right Foot |  |  |  |  |
-
 
 some leather feminalia
 some leather breeches

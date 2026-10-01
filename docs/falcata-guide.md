@@ -73,7 +73,6 @@ A rank of **1 signifies the best** in this category.
 | A sooty black falcata |  |
 | A retalq falcata |  |
 
-
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category.
@@ -88,7 +87,6 @@ A rank of **1 signifies the best** in this category.
 | A sooty black falcata |  |  |  |  |
 | A retalq falcata |  |  |  |  |
 
-
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
@@ -98,7 +96,6 @@ A rank of **1 signifies the best** in this category.
 | A bronze falcata | 3 | 4 lbs |
 | An iron falcata | 4 | 5 lbs |
 | A boison falcata | 5 | 6 lbs |
-
 
 ### Moves
 #### Worthwhile

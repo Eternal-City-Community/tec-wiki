@@ -22,6 +22,7 @@ In 2020, new traits were released.
 | <a id="IncreasedMetab"></a> Increased Metabolism | While [satiation levels](/character-condition/#Satiation) are above "peckish", character receives a +50% bonus to health point regeneration and a +25% bonus to fatigue regeneration. Food demand is doubled. <br><br>**Mutually exclusive** with [Weak Constitution](#WeakConstitution). |
 | Mobile Skirmisher | Character receives a scaling bonus to dodging, up to +20, inversely proportional to the amount of weight carried. Maximum benefit is reached at zero weight carried. Character receives maximum benefit (+20) at 0 pounds and loses 1 defense for every 5lbs capping at 100 lbs (+0) e.g. 1–5lbs (+19), 6–10lbs (+18), etc. [See full table...](/traits/#MobileSkirmisherTable) |
 | Kind Heart | Character receives a +10% bonus to empathy and a +5% bonus to judgement and reasoning. Thinking aloud does not require or drain fatigue. Character cannot attack a stunned or unconscious person. |
+
 ---
 ### Positive Traits
 
@@ -74,6 +75,7 @@ In 2020, new traits were released.
 | Born Leader | 2 | Upon landing a successful combat hit, the character has a 25% chance to give a combat bonus to an ally engaging the same target. This bonus will not be applied to other characters with the Born Leader trait. |
 | <a id="SoN"></a> Spirit of Nature | 2 | Character has a chance to receive a spiritual boon when praying to natural elements (e.g. the sun, natural water sources, animals, etc.) in the environment. This chance is random and not guaranteed. A boon chance can only occur once per hour.  <br><br>**Community Note:** Types of boons include: 10% fatigue recovery, 10% health recovery, satiation recovery & recovery of a random wound. Limited to once per hour. |
 | Frenzied Reprisal | 3 | When the character suffers a critical hit, they receive a 5 second burst of speed. |
+
 ---
 ### Negative Traits
 
@@ -115,6 +117,7 @@ In 2020, new traits were released.
 | Body Odor | -2 | Character receives a -10% penalty to appearance and has an intense body odor. |
 | Cowardly | -3 | Character is overcome with fear and panic in battle. |
 | Old Dog | -2 | Character gains SP at a vastly reduced rate with skills learned in the 4th slot or above. <br><br>**Community Note:** SP gain rate in 4th and subsequent (5th, 6th, etc.) skill slots is reduced to a set 0.008 per action. |
+
 ## Relevant Tables
 
 <a id="MobileSkirmisherTable"></a>

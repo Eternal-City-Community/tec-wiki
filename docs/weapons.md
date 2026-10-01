@@ -4,15 +4,15 @@
 | Quality | RB Bonus | Comments |
 | --- | --- | --- |
 | Superior (+[Reforged](#Reforge)) | +5 | Reforging a Superior weapon will not increase the _ |
+
 weapon's quality level or RB Bonus, but these weapons _
-do receive higher damage potential. ||
+do receive higher damage potential.
 | Superior | +5 |  |
 | --- | --- | --- |
 | Excellent | +4 |  |
 | Good | +2 |  |
 | Average | 0 |  |
 | Poor | -1 |  |
-
 
 <a id="Reforge"></a>
 ### [#](#Reforge)Reforging (Ferrarius)

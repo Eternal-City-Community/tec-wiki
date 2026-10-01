@@ -25,9 +25,7 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 | [Remove Splint](#Remove-Splint) | Easy | 100 | 150 | 30 | 80 |
 | [Apply Tourniquet](#Apply-Tourniquet) | Average | 100 | 150 | 30 | 80 |
 | [Remove Tourniquet](#Remove-Tourniquet) | Easy | 100 | 150 | 30 | 80 |
-
 |  | Healing Lores |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- |
 | Lores | Difficulty | Iskara | Cipus | Piroska | Tullaria |
 | [Pressure Wound Technique](#Pressure-Wound-Technique) | Easy | 25 | 25 | 25 | - |
 

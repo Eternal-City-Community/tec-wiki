@@ -24,24 +24,28 @@ This skill set is best **complemented by knowledge of [Brawling](/brawling/).**
 | [Pankration Wide Knee](#wknee) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
 | [Pankration Rising Elbow](#relbow) | Average | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
 | [Pankration Lead and Cross](#lcross) | Average | 2 | Short | Bruise _ |  |  |  |  |
+
 Bruise ||= [Pankration Basic Stance](#stance) _
 20 Ranks in [Pankration Lead Palm](#Lead) _
-20 Ranks in [Pankration Forward Elbow](#felbow) ||= 75 ||= 500 ||
+20 Ranks in [Pankration Forward Elbow](#felbow) ||= 75 ||= 500
 | [Pankration Strike and Rise](#srise) | Average | 2 | Short | Bruise _ |
 | --- | --- | --- | --- | --- |
+
 Bruise ||= [Pankration Basic Stance](#stance) _
 20 Ranks in [Pankration Straight Palm](#Straight) _
-20 Ranks in [Pankration Rising Elbow](#relbow) ||= 75 ||= 500 ||
+20 Ranks in [Pankration Rising Elbow](#relbow) ||= 75 ||= 500
 | [Pankration Double Knee](#doubleknee) | Difficult | 1 | Short | Bruise _ |
 | --- | --- | --- | --- | --- |
+
 Bruise || 30 Ranks in [Pankration Driving Knee](#dknee) _
-30 Ranks in [Pankration Wide Knee](#wknee)  ||= 75 ||= 500 ||
+30 Ranks in [Pankration Wide Knee](#wknee)  ||= 75 ||= 500
 | [Pankration Knife Hand](#knife) | Difficult | 2 | Short | Pierce | [Pankration Basic Stance](#stance) _ |
 | --- | --- | --- | --- | --- | --- |
+
 80 Ranks in *Pankration* _
 40 Ranks in [Pankration Lead Palm](#Lead) _
 40 Ranks in [Pankration Straight Palm](#Straight) _
-40 Ranks in [Pankration Rising Palm](#Rpalm) ||= 75 ||= 500 ||
+40 Ranks in [Pankration Rising Palm](#Rpalm) ||= 75 ||= 500
 | [Pankration Shoulder Block](#sblock) | Easy | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Pankration Knee Block](#kblock) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |
@@ -54,7 +58,6 @@ Bruise || 30 Ranks in [Pankration Driving Knee](#dknee) _
 | [Pankration Rear Plummet](#rplummet) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 175 |
 | [Pankration Accuracy](#accuracy) | Difficult | - | - | - | - | 75 | 100 |
 | [Pankration Focus](#focus) | Impossible | - | - | - | - | 75 | 100 |
-
 
 **Directions to Stelahos' School of Pankration** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, S, W, S
 **Directions to Mervia** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, W, S 

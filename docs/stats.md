@@ -156,7 +156,6 @@ For example, the numeric value for **Endurance** directly corresponds to your ch
 | Inhuman | 241 - 250 |
 | Superhuman | 251 - ∞ |
 
-
 ---
 <a id="improvingattributes"></a>
 ### [#](#improvingattributes)Improving Attributes

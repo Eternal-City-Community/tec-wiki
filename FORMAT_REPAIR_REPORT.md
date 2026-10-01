@@ -1,0 +1,104 @@
+# Formatting repair report
+
+- Files scanned: **854**
+- Files changed: **92**
+- Broken HTML anchors repaired: **1**
+- Raw Wikidot row closers removed: **210**
+- Lone Wikidot line-break markers removed: **33**
+- Duplicate Markdown table separators removed: **33**
+- Community Note wrappers normalized: **2**
+
+## Changed files
+
+- `account.md`
+- `advanced-commands.md`
+- `advanced-speech.md`
+- `archery-guide.md`
+- `archived_traits-2020.md`
+- `armor.md`
+- `avros-one-handed-swords.md`
+- `brawling.md`
+- `cestus-guide.md`
+- `cestus.md`
+- `chainblade.md`
+- `character-condition.md`
+- `cineran-knife-fighting-knives.md`
+- `ckf-guide.md`
+- `combat-guide.md`
+- `combat-overview.md`
+- `containers.md`
+- `contraband.md`
+- `creatures.md`
+- `cult-of-ereal.md`
+- `customization-guide.md`
+- `dual-daggers.md`
+- `falcata-guide.md`
+- `falcata.md`
+- `falx-guide.md`
+- `falx.md`
+- `hair-styles-barbershop.md`
+- `healing-guide.md`
+- `healing.md`
+- `herbalism-guide.md`
+- `hg-ludus-valerius.md`
+- `hg_aziri-caves.md`
+- `hoplite-combat-guide.md`
+- `hoplite-combat.md`
+- `house-of-mercantile.md`
+- `hunting.md`
+- `influence.md`
+- `jewelry-guide.md`
+- `jewelry.md`
+- `knives-guide.md`
+- `knives.md`
+- `languages.md`
+- `leather-working.md`
+- `legio.md`
+- `locksmithing-guide.md`
+- `magic.md`
+- `missile-weapons-bows.md`
+- `nelsor-one-handed-swords.md`
+- `newbie-office.md`
+- `old-cult-of-ereal.md`
+- `one-handed-axes-guide.md`
+- `one-handed-axes.md`
+- `one-handed-crushing-guide.md`
+- `one-handed-swords-guide.md`
+- `outdoor-survival-test.md`
+- `outdoor-survival.md`
+- `pankration.md`
+- `pardelian-one-handed-swords.md`
+- `reputation.md`
+- `setups.md`
+- `shields-guide.md`
+- `shops-old.md`
+- `skills.md`
+- `sling-guide.md`
+- `sling.md`
+- `spears-guide.md`
+- `spears.md`
+- `stats.md`
+- `staves-guide.md`
+- `staves.md`
+- `stones-ores.md`
+- `street-smarts.md`
+- `tailoring-guide.md`
+- `tailoring.md`
+- `tanning-guide.md`
+- `tanning.md`
+- `temp_axesdamagevalues.md`
+- `temp_weapon-speeds.md`
+- `traits.md`
+- `tridents-guide.md`
+- `tridents.md`
+- `two-handed-axes-guide.md`
+- `two-handed-axes.md`
+- `two-handed-crushing.md`
+- `v1_brawling.md`
+- `v3_homepage.md`
+- `veteran-characters.md`
+- `warrants.md`
+- `wealth.md`
+- `weapons.md`
+- `whips-guide.md`
+- `whips.md`

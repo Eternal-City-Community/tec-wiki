@@ -75,7 +75,6 @@ A rank of **1 signifies the best** in this category.
 | Retalq Pick Axe | 2 | 1 | 1 | 1 |
 | [ReForged] Boison Pick Axe | 1 | 2 | 4 | 1 |
 
-
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
@@ -96,7 +95,6 @@ A rank of **1 signifies the best** in this category.
 | Tin Pick Axe | 6 |
 | Two-Handed Tin Axe | 6 |
 
-
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
@@ -116,7 +114,6 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Boison Pick Axe | 2 | 2+mos | 1 | 2+mos |
 | Retalq Pick Axe | 1 | 1+mos | 1 | 1+mos |
 
-
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
@@ -132,7 +129,6 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Two-Handed Iron Axe | 4 | 9 lbs |
 | Two-Handed Boison Axe | 5 | 12 lbs |
 | Retalq Pick Axe | 1 | 4  lbs |
-
 
 ### Moves
 #### Worthwhile

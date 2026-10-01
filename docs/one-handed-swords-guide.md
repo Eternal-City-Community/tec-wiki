@@ -95,7 +95,6 @@ A rank of **1 signifies the best** in this category.
 | Gold Gladius |  |
 | Wooden Gladius  **[T]** | - |
 
-
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category.
@@ -113,7 +112,6 @@ A rank of **1 signifies the best** in this category.
 | Gold Gladius |  |  | 2 | 1.8 +MoS |
 | Boison Gladius |  |  | 3 | 1.9 +MoS |
 
-
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
@@ -127,7 +125,6 @@ A rank of **1 signifies the best** in this category.
 | Iron Gladius | 5 | 6 lbs |
 | Boison Gladius | 6 | 7 lbs |
 | Gold Gladius | 7 | 32 lbs |
-
 
 ### Moves
 #### Worthwhile

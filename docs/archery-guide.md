@@ -131,7 +131,6 @@ Required SP: *~2,260+ SP*
 | 10 | [Quick Draw](/missile-weapons-bows/#Draw) | 43 |
 | 11 | [Quick Load](/missile-weapons-bows/#Load) | Until Success of 1 |
 
-
 * **Rank 101** is when you can start **hitting people regularly**.
 * If you **feel up to it**, you can also get **1 rank** in [Simple Stringing](/missile-weapons-bows/#SS), [Simple Unstringing](/missile-weapons-bows/#Unstring) & [Range Assessment](/missile-weapons-bows/#Range).
 * If you have bad [stats](/stats/), stat skills () could be learned in Phase 4 in addition to others.
@@ -156,7 +155,6 @@ Required SP: *~1,970 SP*
 | 7 | [Basic Shot](/missile-weapons-bows/#Basic) | 151+ |
 | 8 | [Head Shot](/missile-weapons-bows/#Head) | 151+ |
 | 9 | [Foot Shot](/missile-weapons-bows/#Foot) | 151+ |
-
 
 [[/tab]]
 [[/tabview]]
@@ -195,7 +193,6 @@ This is the list of bows & arrows that can be used by the Archery skill set.
 | Bronze-Tipped Arrows | Sold by various [shopkeepers](/shops/)= | 190d - 332d |
 | Iron-Tipped Arrows | Sold by various [shopkeepers](/shops/) | 316d - 399d |
 
-
 #### Summary
 In most serious cases you'll want a to use **iron-tipped arrows**. Reed arrows are the arrow of choice for training or casual shooting.
 
@@ -225,7 +222,6 @@ A rank of **1 signifies the best** in this category. **The below is a guesstimat
 | Bone-Tipped Arrows | 4 |
 | Reed Arrows | 5 |
 | Crude Arrows | 6 |
-
 
 #### Ammo Speed
 

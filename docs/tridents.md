@@ -28,17 +28,21 @@ As a weapon, variations of the trident have made appearances in almost every cul
 | [Trident Throw](#Throw) | Difficult | Either | Missile | Pierce | - | 300 | 500 | 154 |
 | [Trident Defensive Bash](#Defensive-Bash) | Average | 2 | Short | Bruise | 20 Ranks in [Trident Blunt Bash](#Blunt-Bash) | 300 | 500 | 154 |
 | [Trident Parting Gouge](#Parting-Gouge) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance) _ |  |  |  |
+
  40 Ranks in [Trident Vital Jab](#Vital-Jab) _
- 40 Ranks in [Trident Parting Jab](#Parting-Jab) ||= 300 ||= 500 ||= 154 ||
+ 40 Ranks in [Trident Parting Jab](#Parting-Jab) ||= 300 ||= 500 ||= 154
 | [Trident Parting Jab](#Parting-Jab) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance) _ |
 | --- | --- | --- | --- | --- | --- |
-10 Ranks in [Trident Jab](#Jab) ||= 300 ||= 500 ||= 154 ||
+
+10 Ranks in [Trident Jab](#Jab) ||= 300 ||= 500 ||= 154
 | [Trident Pierce](#Pierce) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance) _ |
 | --- | --- | --- | --- | --- | --- |
-30 Ranks in [Trident Stab](#Stab) ||= 300 ||= 500 ||= 154 ||
+
+30 Ranks in [Trident Stab](#Stab) ||= 300 ||= 500 ||= 154
 | [Trident Vital Jab](#Vital-Jab) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance) _ |
 | --- | --- | --- | --- | --- | --- |
-20 Ranks in [Trident Jab](#Jab) ||= 300 ||= 500 ||= 154 ||
+
+20 Ranks in [Trident Jab](#Jab) ||= 300 ||= 500 ||= 154
 | [Trident Simple Block](#Simple-Block) | Easy | 2 | - | - | - | 300 | 500 | 154 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Trident Cross Block](#Cross-Block) | Average | 2 | - | - | - | 300 | 500 | 154 |
@@ -46,6 +50,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 | [Trident Rotation Block](#Rotation-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
 | [Trident Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 | 154 |
 | [Trident Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 154 |
+
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze, Ex2, NEx2, N, Ex4, N, W
 **Directions to Vashren** ([Seld](/seld/)): Walk to Seld (Town Square), Nx2, W
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.

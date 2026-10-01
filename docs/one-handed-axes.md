@@ -30,10 +30,12 @@ The main advantages of the axe, as opposed to simply choosing a sword or club-ty
 | [Axe Loosening Toss](#Loosening-Toss) | Average | Either | Short | - | 10 Ranks in [Axe Hand Toss](#Hand-Toss) | 175 | 90 | 100 |
 | [Axe Stepping Chop](#SteppingChop) | Average | Either | Short | Cut | 40 Ranks in [Axe Basic Chop](#Basic-Chop) | 500 | 90 | 300 |
 | [Axe Pivoting Longarm](#Pivoting-Longarm) | Difficult | Either | Short | Pierce | 20 ranks in [Axe Longarm Strike](#Longarm-Strike) _ |  |  |  |
-20 Ranks in [Axe Pivot Smash](#Pivot-Smash) || 500 || 90 ||= 300||
+
+20 Ranks in [Axe Pivot Smash](#Pivot-Smash) || 500 || 90 ||= 300
 | [Axe Stepping Leg Strike](#SteppingLegstrike) | Difficult | Either | Short | Bruise | 40 Ranks in [Axe Leg Strike](#Leg-Strike) _ |
 | --- | --- | --- | --- | --- | --- |
-40 Ranks in [Axe Stepping Chop](#SteppingChop) || 500 || 90 ||= 300||
+
+40 Ranks in [Axe Stepping Chop](#SteppingChop) || 500 || 90 ||= 300
 | [Axe Crossblock](#Crossblock) | Average | Either | - | - | - | 500 | 90 | 300 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Axe Chopping Block](#Chopping-Block) | Difficult | Either | - | - | - | 500 | 90 | 300 |

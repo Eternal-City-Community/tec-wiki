@@ -11,9 +11,7 @@
 | Sky Circle Scourge | 1+MoS - 2.092 (2.5625) | 2+MoS - 3.006 (3.583) | 2+MoS - 3.104 (3.674) | 2+MoS - 3.12 (3.778) |
 | Sky Circle Slash | 1+MoS - 2.046 (2.6) | 2+MoS - 3.052 (3.624) | 2+MoS - 3.074 (3.612) | 2+MoS - 3.083 (3.869) |
 | Sky Circle Rake | 2+MoS - 3.095 (3.6575) | 2+MoS - 3.099 (3.679) | 2+MoS - 3.082 (3.692) | 3+MoS - 4.059 (4.679) |
-
 |  |  |  | Brawling (198 speed) |
-| --- | --- | --- | --- |
 | Skill | Up + Enter | Fastest Time | Median |
 | Punch | 1+MoS | 2.049 | 2.603 |
 | Kick | 1+MoS | 2.127 | 2.726 |
@@ -30,9 +28,7 @@
 | Choke | 1+MoS | 2.1 | 2.764 |
 | Leg Whip | 4+MoS | 5.087 | 5.499 |
 | Head Slam | 1+MoS | 1.982 | 2.7055 |
-
 |  |  |  | Pankration (198 speed) |
-| --- | --- | --- | --- |
 | Skill | Up + Enter | Fastest Time | Median |
 | Lead Palm | 1+MoS | 2.11 | 2.727 |
 | Rising Palm | 1+MoS | 2.138 | 2.879 |
@@ -45,8 +41,6 @@
 | Strike and Rise | 1+MoS | 2.109 | 2.6185 |
 | Lead and Cross | 1+MoS | 2.065 | 2.683 |
 | Knife Hand | 1+MoS | 2.07 | 2.6375 |
-
 |  |  |  | Combat Maneuvers (198 speed) |
-| --- | --- | --- | --- |
 | Skill | Up + Enter | Fastest Time | Median |
 | Fall Back | MoS | 0.242 | n/a |

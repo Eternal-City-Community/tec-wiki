@@ -24,7 +24,6 @@ Developing tanning skills requires attention to detail, patience, and an underst
 | [Scrape Hide](#Scrape-Hide) | Difficult | 50 |  |  |  |  |  |  |
 | [Tan Hide](#Tan-Hide) | Difficult | 50 |  |  |  |  |  |  |
 
-
 <a id="Recipes"></a>
 
 <details>
@@ -62,7 +61,6 @@ Developing tanning skills requires attention to detail, patience, and an underst
 | Fur Tunic Lining | easy | 10 |  |  |  |  |  |  |  |  |
 | Fur Vest Lining | easy | 10 |  |  |  |  |  |  |  |  |
 | Fur Waistguard Lining | easy | 10 |  |  |  |  |  |  |  |  |
-
 
 </details>
 

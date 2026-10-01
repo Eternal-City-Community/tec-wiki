@@ -68,9 +68,7 @@ Rewards: Higher SP gain. No monetary rewards.
 | Face Block | average | 40 | Club Simple Block | easy | 40 | Axe Chopping Block | difficult | 40 | Spear Butt Block | easy | 40 | Knife Short Block | average | 40 |  |
 | Swat Block | average | 40 | Club Cross Block | average | 40 | Axe Crossblock | average | 40 | Spear Rounding Block | difficult | 40 | Knife Long Block | difficult | 40 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Knife Cross Block | average | 40 |  |
-
 |  |  |  |  |  |  |  |  |  |  |  | Facitio |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank |
 | **One-Handed Swords** | -- | 60 | **Staves** | -- | 60 | **Combat Maneuvers** | -- | 60 | **Shields** | -- | 60 |
 | Sword Jab | easy | 40 | Staves End Jab | easy | 40 | Basic Dodge | easy | 40 | Shield Simple Block | easy | 40 |

@@ -24,6 +24,7 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | High Priest Tharius |
 | ***High Priest’s Proxy*** _ |  |  |  |  |  |
+
 Darie Allende ||= ***Sword of Ereal*** _
 Junia Gracious _
 *(deceased)* ||= *(Tharius’)* ***Chief of Spies*** ||< @@            @@***The Council of Elders*** _
@@ -33,13 +34,12 @@ iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** ) _
 iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** ) _
 v. Sartor Mithus _
 vi. Spurius Ravilla _
-vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) ||
+vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** )
 |  | i. Fist of Ereal _ |
 | --- | --- |
+
 ii. Firm of Ereal _
-iii. Shield of Ereal || || ||
-
-
+iii. Shield of Ereal || ||
 <a id="High-Priest"></a>
 #### [#](#High-Priest)High Priest
 
@@ -82,21 +82,24 @@ While rank titles may differ across sects, their structures remain very similar.
 | --- | --- | --- | --- |
 | Sect Name: | **Revealing Light** | **Nurturing Light** | **Bright Hope** |
 | Highest Ranking Priest: _ |  |  |  |
-*(Reports to Council of Elders)* ||= Eye of Ereal ||= Heart of Ereal ||= Hand of Ereal ||
+
+*(Reports to Council of Elders)* ||= Eye of Ereal ||= Heart of Ereal ||= Hand of Ereal
 | Oversees ~5 Temples: _ |
 | --- |
-*(Reports to rank directly above)* ||= Glass ||= Mist ||= Gentle ||
+
+*(Reports to rank directly above)* ||= Glass ||= Mist ||= Gentle
 | Head of 1 Temple: _ |
 | --- |
-*(Reports to rank directly above)* ||= Revealer ||= Druid ||= Glimmer ||
+
+*(Reports to rank directly above)* ||= Revealer ||= Druid ||= Glimmer
 | Temple Department:  _ |
 | --- |
-*(Reports to rank directly above)* ||= Shepherd ||= Guide ||= Comforter* ||
+
+*(Reports to rank directly above)* ||= Shepherd ||= Guide ||= Comforter*
 | Universal Rank _ |
 | --- |
-*(Reports to rank directly above)* ||||||= Focus ||
 
-
+*(Reports to rank directly above)* ||||||= Focus
 <a id="NurturingLight"></a>
 #### [#](#NurturingLight)The Nurturing Light
 The sect of the Nurturing Light represents **Ereal of the Evening**. To them, Ereal is a strong, steady light which is the ultimate source of all light within the world. They value **gentleness, peace and harmony** above all else. Their most active members are often seen as **negotiators** trying to maintain peace in troubled areas. Others of the sect work tirelessly among the poor, offering them what little hope they can. Their voices are often the more discreet but also the most soothing.

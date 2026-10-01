@@ -32,48 +32,55 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 | Rank | Torch description | Torch quality |
 | --- | --- | --- |
 | Rank 1 | somewhat crude _ |  |
+
 somewhat simple _
 simple || below average _
 below average - average _
-average ||
+average
 | Rank 10 | somewhat crude _ |
 | --- | --- |
+
 somewhat simple _
 simple || below average _
 below average - average _
-average ||
+average
 | Rank 20 | somewhat simple _ |
 | --- | --- |
+
 simple _
 somewhat well-crafted || average _
 average _
-excellently made||
+excellently made
 | Rank 30 | simple _ |
 | --- | --- |
+
 somewhat well-crafted _
 well-crafted || average _
 excellently made _
-excellently made - made by an expert ||
+excellently made - made by an expert
 | Rank 40 | somewhat well-crafted _ |
 | --- | --- |
+
 well-crafted _
 very well-crafted || excellently made _
 excellently made - made by an expert _
-made by an expert ||
+made by an expert
 | Rank 50 | somewhat well-crafted _ |
 | --- | --- |
+
 well-crafted _
 very well-crafted _
 finely crafted || excellently made _
 excellently made - made by an expert _
 made by an expert _
-made by a master craftsman ||
+made by a master craftsman
 | Rank 60 | well-crafted _ |
 | --- | --- |
+
 very well-crafted _
 finely crafted || made by an expert _
 made by an expert _
-made by a master craftsman ||
+made by a master craftsman
 3
 4
 5** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*

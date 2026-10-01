@@ -27,7 +27,6 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 | [Shape Gem](#Shape-Gem) | Average | 100 |  |
 | [Polish Gem](#Polish-Gem) | Average | 100 |  |
 
-
 <a id="Recipes"></a>
 
 <details>
@@ -123,7 +122,6 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 | Asscher Cut Recipe | Difficult | 100 |  |
 | Radiant Cut Recipe | Difficult | 100 |  |
 | Trillion Cut Recipe | Difficult | 100 |  |
-
 
 </details>
 

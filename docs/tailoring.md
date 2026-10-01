@@ -23,7 +23,6 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | [Stitch Pattern](#Stitch-Pattern) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
 | [Basic Mending](#Basic-Mending) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
 
-
 <a id="Recipes"></a>
 
 <details>
@@ -123,7 +122,6 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | @@   @@ Vest Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | @@   @@ Vest Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
 | Waist Sash Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-
 
 </details>
 
@@ -326,7 +324,6 @@ To find where the appropriate fabric is sold, you can search for *'**length of c
 | Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
 | Waist Sash | **^^1/4^^** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
 
-
 </details>
 
 
@@ -438,7 +435,6 @@ Once a tailor has completed the garment, it can be altered slightly through the 
 | Tunic | Poorly-cut, poorly-made, simple, fraying, loose, baggy, knee-length, loose-hanging, thigh-length, loose-fitting, over-sized, snug, feminine, long, short, low-cut, billowing, flowing, tight, tight-fitting, fringed, form-fitting, figure-hugging, clinging, pleated, flaring, well-made, well-tailored. |
 | Tunica | Poorly-made, simple, loose, baggy, knee-length, thigh-length, loose-fitting, feminine, long, short, low-cut, billowing, flowing, tight, fringed. |
 | Vest | Loose, loose-hanging, loose-fitting, baggy, over-sized, tight, tight-fitting, form-fitting, figure-hugging, clinging, snug, dainty, low-cut, feminine, flowing, long, short, thigh-length, knee-length, poorly-cut, poorly-made, simple. |
-
 
 </details>
 

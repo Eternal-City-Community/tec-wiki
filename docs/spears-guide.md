@@ -17,7 +17,6 @@ Training Guide:
 | A javelin | 3+MoS | 1+MoS |  | Rufus (Bronze Lane) | 902d |
 | A pilum | 3+MoS | 1+MoS |  | Rufus (Bronze Lane) | 1045d |
 
-
 Ebros' Scorpion Stance Rank 1: +6 bonus to all attacks
 
 

@@ -29,16 +29,17 @@ Weapon roundtime with outstanding speed (190+):
 
 | Weapon Type | Most Attacks | Flick Strike & _ |
 | --- | --- | --- |
-Short Entangle ||~ Sky Circle Rake ||
+
+Short Entangle ||~ Sky Circle Rake
 | hair whip | 1 + MoS | 1 + MoS | 2 + MoS |
 | --- | --- | --- | --- |
 | short whip _ |  |  |  |
+
 short whip with a retalq bit _
-simple whip of soft leather ||= 2 + MoS ||= 1 + MoS ||= 2 + MoS ||
+simple whip of soft leather ||= 2 + MoS ||= 1 + MoS ||= 2 + MoS
 | scale whip | 2 + MoS | 2 + MoS | 3 + MoS |
 | --- | --- | --- | --- |
 | short whip with a boison bit | 3 + MoS | 2 + MoS | 3 + MoS |
-
 
 #### Raw Damage
 
@@ -46,7 +47,8 @@ In this damage ranking table, 1 is the best/highest raw damage. This ranking doe
 
 | Damage Rank | Weapon(s) | Maximum Damage Tier _ |
 | --- | --- | --- |
-(with 230 strength) ||
+
+(with 230 strength)
 | 1 | short whip with a boison bit | 5 |
 | --- | --- | --- |
 | 2 | scale whip | 5 |
@@ -55,23 +57,23 @@ In this damage ranking table, 1 is the best/highest raw damage. This ranking doe
 | 5 | hair whip | 3 |
 | 6 | simple whip of soft leather | 3 |
 
-
 #### Available Weapons Comparison
 
 | Weapon | Weight | Source(s) | Notes |
 | --- | --- | --- | --- |
 | a hair whip with a soft leather bit | ? | [Usius (Practice Weapons)](/bronze-lane/) | training weapon / no damage |
 | a simple whip of soft leather | 0.3 lbs | [Llorona (Leather)](/town-of-rock-valley/) _ |  |
-[Apecuia (Officium de Humanitas)](/riverside/) ||   ||
+
+[Apecuia (Officium de Humanitas)](/riverside/) ||
 | a hair whip | 1.8 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) |  |
 | --- | --- | --- | --- |
 | a short whip | 3.0 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) _ |  |
-[BHC](/hg-black-hand-caverns/) bandits ||   ||
+
+[BHC](/hg-black-hand-caverns/) bandits ||
 | a scale whip | 1.8 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) |  |
 | --- | --- | --- | --- |
 | a short whip with a boison bit | 2.5 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) |  |
 | a short whip with a retalq bit | 1.4 lbs | [Fama (Retalq Weapons)](/vetallun/) |  |
-
 
 ### Moves
 #### Worthwhile

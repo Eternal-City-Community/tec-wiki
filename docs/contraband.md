@@ -25,7 +25,6 @@ Tears **cannot be cracked** by characters with [Superstitious Fears](/traits/#Su
 
 #### Location
 Tears can be found in and collected from 3 different [Rock Valley](/rock-valley/) hunting grounds. *The '[x]' denotes the number of amphora to collect from.*
- _
 
 * [The Broken Tower](/rock-valley-region/#Broken-Tower) [**2**]
 * [Resting Place](/rock-valley-region/#Resting Place) [**4**]
@@ -51,7 +50,6 @@ Example of looking at a **gladius** tear:
 | Forge | [Locksmithing](/locksmithing/) or [Tailoring](/tailoring/) |
 | Shadow | [Pickpocketing](/pickpocketing/), [Setups](/setups/) or [Street Smarts](/street-smarts/) |
 | Nightmare**##red\|*##** | *N/A* |
-
 
 *Nightmare Tears: The 6th type of tear is called a **nightmare tear**. This type differs in that it has no unique description of its own when looked at. **It will look like any of the 'normal'** types of **tears**. When it's cracked, **it will award no SP, and instead drain all of your character's [fatigue](/character-condition/#Fatigue)**. 
 

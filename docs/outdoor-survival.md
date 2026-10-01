@@ -34,9 +34,7 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 | [Forester Conceal](#Conceal) | Average | 60 | 100 | 120 | 125 | 150 |
 | [Survival Weaving](#Weaving) | Average | 80 | - | - | - | - |
 | [Whittling](#Whittling) | Difficult | 80 | - | - | - | - |
-
 |  | Outdoor Survival Lores |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- |
 | Lore Name | Krimalus | Fern | Tauruu | Shantaz | Jarla |
 | [Advanced Camp Cooking Lore](#cooklore) | 25 | - | - | - | - |
 | [Survival Cordage Lore](#cordage) | 25 | - | - | - | - |
@@ -93,48 +91,55 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 |  | Torch description | Torch quality |
 | --- | --- | --- |
 | Rank 1 | somewhat crude _ |  |
+
 somewhat simple _
 simple || below average _
 below average - average _
-average ||
+average
 | Rank 10 | somewhat crude _ |
 | --- | --- |
+
 somewhat simple _
 simple || below average _
 below average - average _
-average ||
+average
 | Rank 20 | somewhat simple _ |
 | --- | --- |
+
 simple _
 somewhat well-crafted || average _
 average _
-excellently made||
+excellently made
 | Rank 30 | simple _ |
 | --- | --- |
+
 somewhat well-crafted _
 well-crafted || average _
 excellently made _
-excellently made - made by an expert ||
+excellently made - made by an expert
 | Rank 40 | somewhat well-crafted _ |
 | --- | --- |
+
 well-crafted _
 very well-crafted || excellently made _
 excellently made - made by an expert _
-made by an expert ||
+made by an expert
 | Rank 50 | somewhat well-crafted _ |
 | --- | --- |
+
 well-crafted _
 very well-crafted _
 finely crafted || excellently made _
 excellently made - made by an expert _
 made by an expert _
-made by a master craftsman ||
+made by a master craftsman
 | Rank 60 | well-crafted _ |
 | --- | --- |
+
 very well-crafted _
 finely crafted || made by an expert _
 made by an expert _
-made by a master craftsman ||
+made by a master craftsman
 ** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*
 
 </details>
@@ -300,6 +305,7 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 | Rank 90 | finely braided | 41 blades | 1.8 lbs |
 | Rank 100 | masterfully braided | 40 blades | 1.8 lbs |
 | Rank 110 | masterfully braided | 40 blades | 1.8 lbs |
+
 * *Roll over success **does not** appear to have any effect on rope making.*
 
 
@@ -392,6 +398,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 | Rank 50 | 9.5 | 13.5 | 17 | 20.5 |
 | Rank 60 | 9.5 | 13.5 | 17 | 20.5 |
 | Rank 70 | 9.5 | 13.5 | 17 | 20.5 |
+
 ** Each value represents a calculated average over 100 or more attempts.*
 
 
@@ -464,7 +471,6 @@ Your ranks and the material used (twigs, grass, and reeds) determine what items 
 | Rank 90 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80), a vest (125), a skirt (90), a sling (180) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150) |
 | Rank 100 | bowl (20), basket (40), broiler (30), crate (60) | a bowl (20), a belt (30), some sandals (40), a mat (50), a hat (60), a bag (80), some armbands (110), a basket (70), a loincloth (80), a vest (125), a skirt (90), a sling (180), and a hammock (200) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150), shield (175), chair (200) |
 
-
 </details>
 
 
@@ -499,7 +505,6 @@ Some materials indicate that they are whittle-able, but never actually produce i
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | a hook, a peg, a bead, a hairpin, a spoon, a fork, a ring, a stylus, a whistle, a splint, a figurine, a candlestick, some nocks, a charm, a comb, a pipe, a toothscraper, a clasp and a flute | a skewer and a cane | a hook, a bead, a hairpin, a ring, a stylus, a charm, a toothscraper, a comb and a needle | a peg and some nocks | a trowel and some nocks | a figurine, some nocks, a pipe and a clasp | a hairpin and a comb | a bowl | a hook, a toothscraper and a needle | a cup | a trowel |
 
-
 **New items unlocked at each rank:**
 |  | Branch | Sapling | Rib | Antler | Horn | Leg Bone | Seashell | Skull | Fish bones | Hoof | Beak |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -524,7 +529,6 @@ Some materials indicate that they are whittle-able, but never actually produce i
 | Rank 90 | - | - | - | - | - | - | hairpin | bowl | - | - | - |
 | Rank 95 | flute | - | - | - | - | - | - | - | - | - | - |
 | Rank 100 | - | cane | - | some nocks | - | clasp | comb | - | - | - | - |
-
 
 </details>
 

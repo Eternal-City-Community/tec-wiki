@@ -34,14 +34,16 @@ Though spears have often been used in conjunction with shields, most who special
 | [Spear Sweep](#Sweep) | Difficult | 2 | Either | - | - | 300 | 125 | 300 | 500 | 154 |
 | [Spear Round Strike](#Rstrike) | Impossible | 2 | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
 | [Spear Parting Jab](#Pjab) | Easy | Either | Short | Pierce | 10 Ranks in [Spear Jab](#Jab) _ |  |  |  |  |  |
+
 *or* _
-10 Ranks in [Spear Stab](#Stab)|| 300 || 125 ||= 300 || 500 ||= 154 ||
+10 Ranks in [Spear Stab](#Stab)|| 300 || 125 ||= 300 || 500 ||= 154
 | [Spear Upward Slash](#Upslash) | Average | 2 | Either | Cut | 20 Ranks in [Spear Slash](#Slash) | 300 | 125 | 300 | 500 | 154 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Spear Parting Slash](#Pslash) | Average | 2 | Short | Cut | 40 Ranks in [Spear Slash](#Slash) | 300 | 125 | - | 500 | 154 |
 | [Spear Stepping Stab](#Sstab) | Average | Either | Either | Pierce _ |  |  |  |  |  |  |
+
 Pierce || 40 Ranks in [Spear Jab](#Jab) _
-40 Ranks in [Spear Stab](#Stab)  || 300 || 125 || - || 500 ||= 154 ||
+40 Ranks in [Spear Stab](#Stab)  || 300 || 125 || - || 500 ||= 154
 | [Spear Simple Block](#Sblock) | Easy | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Spear Butt Block](#Bblock) | Easy | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |

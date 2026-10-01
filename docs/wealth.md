@@ -74,7 +74,6 @@ The wealth command **does not** work with this currency.
 | Pentak | Bronze |
 | Shekel | Silver |
 
-
 <a id="banking"></a>
 ### [#](#banking)Banking
 Several banking institutions exist in Iridine, such as Seneda's Iridine Bank. Banking institutions that are linked allow transfers of money, between characters or between banking locations, for a fee. Funds may take approximately an hour to appear when transferred between locations.

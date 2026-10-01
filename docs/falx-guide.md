@@ -21,10 +21,7 @@
 | Wide Hook Rake | - | - | - | - | 2+MoS | - |
 | Slash | - | - | - | - | 2+MoS | - |
 | Eviscerate | - | - | - | - | 2+MoS | - |
-
-
 | **Metal** | **Weight** |
-| --- | --- |
 | Alanti | 3 lbs |
 | Retalq | 4 lbs |
 | Boison | 8 lbs |

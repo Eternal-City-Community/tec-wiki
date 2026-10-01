@@ -32,7 +32,6 @@ Any shield made of bronze or iron can be **[Re-Forged](/weapons/#Reforge)** by *
 | Iron Round Shield | 4 lbs | Iron | Find in [hg:Fist Fort](/hg_fist-fort/) (rare) OR [hg:Aziri Caves](/hg_aziri-caves/) (rare) |
 | Debris Shield | 40 lbs | Wood | Find in [Franlius](/hg-franlius/) |
 
-
 #### Summary
 The **Triangle Shield** is most damaging when using shield attacks, but absorbs the least hits out of all the shields. The **Wall Shield** 
 The **Oval Shield**
@@ -58,7 +57,6 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Triangular Metal Shield |  |  | 8 |  |
 | Wall Shield |  |  | 9 |  |
 
-
 #### Shield (offensive) Damage
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
@@ -81,7 +79,6 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Round Shield w/ Metal Boss |  |
 | Reed Shield |  |
 
-
 #### Shield HP
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
@@ -101,7 +98,6 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | Round Shield w/ Metal Boss | 0% |  |
 | Iron Round Shield | 0% |  |
 | Triangular Metal Shield | 0% |  |
-
 
 #### Shield Speed
 

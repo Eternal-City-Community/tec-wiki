@@ -19,19 +19,23 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 | [Dual Daggers Overhead Strike](#Strike) | Easy | 2 | Short | Pierce | - | 50 | 500 |  |
 | [Dual Daggers Low Swat](#Swat) | Easy | 2 | Short | Bruise | - | 50 | 500 |  |
 | [Dual Daggers Twin Slash](#Twinslash) | Average | 2 | Short | Cut _ |  |  |  |  |
-Cut ||= - ||= 50 ||= 500 ||
+
+Cut ||= - ||= 50 ||= 500
 | [Dual Daggers Blood Dance](#Blooddance) | Average | 2 | Short | Pierce _ |
 | --- | --- | --- | --- | --- |
-Pierce ||= [Dual Daggers Sanguine Stance](#sanguine) ||= 50 ||= 500 ||
+
+Pierce ||= [Dual Daggers Sanguine Stance](#sanguine) ||= 50 ||= 500
 | [Dual Daggers Gorge Ripper](#Gorgeripper) | Average | 2 | Short | - | [Dual Daggers Sanguine Stance](#sanguine) | 50 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Dual Daggers Heartseeker](#Heartseeker) | Average | 2 | Short | - | Rank 30 Dual Daggers Jab | 50 | 500 |
 | [Dual Daggers Flicker Strike](#Fstrike) | Average | 2 | Either | Pierce _ |  |  |  |
+
 Pierce ||= [Dual Daggers Sanguine Stance](#sanguine) _
-Rank 40 Dual Daggers ||= 50 ||= 500 ||
+Rank 40 Dual Daggers ||= 50 ||= 500
 | [Dual Daggers Tendon Slash](#Tendon) | Difficult | 2 | Short | Cut _ |
 | --- | --- | --- | --- | --- |
-Cut _ Trip Chance ||= - ||= 50 ||= 500 ||
+
+Cut _ Trip Chance ||= - ||= 50 ||= 500
 | [Dual Daggers Blood Staccato](#Staccato) | Difficult | 2 | Short | ??? | Rank 50 Jab, Overhead Strike, Chop, Heartseeker | 50 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Dual Daggers Hook Disarm](#Hook) | Difficult | 2 | Short | Cut  Unwield Chance | - | 50 | 500 |
@@ -44,7 +48,6 @@ Cut _ Trip Chance ||= - ||= 50 ||= 500 ||
 | [Dual Daggers Opportunist](#Opportunist) | Impossible | - | - | - | - | 50 | 100 |
 | [Dual Daggers Accuracy](#Accuracy) | Difficult | - | - | - | - | 50 | 100 |
 | [Dual Daggers Grip](#Grip) | Impossible | - | - | - | - | 50 | 100 |
-
 
 **Directions to Someone** 
 **Directions to Someone Else**

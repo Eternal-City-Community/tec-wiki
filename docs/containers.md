@@ -16,7 +16,6 @@ Containers - including the legendary "large sack" - hold items. Each container h
 | a scabbard |  |  | a leather scabbard |
 | a pouch | 0.1 lbs | waist | a worn leather pouch |
 | a neckpouch | 1.8 lbs | chest | a radiant silver fur neckpouch |
- 
 
 ### Furniture containers
 

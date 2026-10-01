@@ -45,9 +45,7 @@ Those with very low dignitas will receive more dignitas for less (i.e. it doesn'
 | 30 | 2 | 100t | 5 |
 | 30-60 | 3 | 200t | 3 |
 | 60 | 5 | 500t | 1 |
-
 | Holdings | Influence | Talents |
-| --- | --- | --- |
 | 1-3 | 5 | worth* 4 |
 | 4-6 | 6 | worth* 5 |
 | 7-8 | 7 | worth* 6 |

@@ -26,7 +26,8 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 | [2H Crushing Defensive Bash](#dbash) | Difficult | 2 | Short | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Head Crusher](#hcrush) | Difficult | 2 | Short | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | [2H Crushing Whirling Smash](#wsmash) | Difficult | 2 | Either | Bruise _ |  |  |  |
-Bruise ||= [2H Crushing Smasher Stance](#Stance) ||= 250 ||= 500 ||
+
+Bruise ||= [2H Crushing Smasher Stance](#Stance) ||= 250 ||= 500
 | [2H Crushing Feint](#feint) | Average | 2 | Either | Bruise | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [2H Crushing Crossing Block](#cblock) | Easy | 2 | - | - | [2H Crushing Smasher Stance](#Stance) | 250 | 500 |

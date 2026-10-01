@@ -145,7 +145,6 @@ Most leatherworking projects are completed through a series of recipes. Individu
 | @@   @@ Pteryges Length Recipe | Easy | 10 |  |
 | @@   @@ Pteryges Strap Recipe | Easy | 10 |  |
 
-
 </details>
 
 

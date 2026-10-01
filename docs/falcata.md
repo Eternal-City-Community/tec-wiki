@@ -28,29 +28,35 @@ The falcata is a versatile weapon that could be used for both hacking and thrust
 | [Falcata Leg Strike](#legstrike) | Average | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
 | [Falcata Wide Strike](#wstrike) | Average | Either | Short | Pierce | [Falcata Striker's Stance](#stance) | 200 | 500 |
 | [Falcata Smash and Slash](#smash) | Average | 1 | Short | Bruise _ |  |  |  |
-Cut ||= Wielded **Shield** ||= 200 ||= 500 ||
+
+Cut ||= Wielded **Shield** ||= 200 ||= 500
 | [Falcata Guarded Charge](#charge) | Average | 1 | Long | Pierce | Wielded **Shield** _ |
 | --- | --- | --- | --- | --- | --- |
-20 Ranks in [Falcata Lunge](#lunge)  ||= 200 ||= 500 ||
+
+20 Ranks in [Falcata Lunge](#lunge)  ||= 200 ||= 500
 | [Falcata Triple Strike](#tstrike) | Average | Either | Short | Cut _ |
 | --- | --- | --- | --- | --- |
+
 Cut _
 Pierce ||= *No Shield* _
 [Falcata Striker's Stance](#stance) _
 10 Ranks in [Falcata Chop](#chop) _
 10 ranks in [Falcata Slash](#slash) _
-10 ranks in [Falcata Stab](#stab) ||= 200 ||= 500 ||
+10 ranks in [Falcata Stab](#stab) ||= 200 ||= 500
 | [Falcata Heavy Slash](#hslash) | Average | Either | Short | Cut | [Falcata Striker's Stance](#stance) _ |
 | --- | --- | --- | --- | --- | --- |
-30 Ranks in [Falcata Slash](#slash) ||= 200 ||= 500 ||
+
+30 Ranks in [Falcata Slash](#slash) ||= 200 ||= 500
 | [Falcata Sudden Stab](#sustab) | Average | Either | Either | Pierce | 40 Ranks in *[# Falcata]* | 200 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Falcata Tumble Slash](#tslash) | Difficult | Either | Long | Cut | *No Shield* _ |  |  |
+
 [Falcata Striker's Stance](#stance) _
-20 Ranks in [Falcata Lunge](#lunge) ||= 200 ||= 500 ||
+20 Ranks in [Falcata Lunge](#lunge) ||= 200 ||= 500
 | [Falcata Feigning Thrust](#fthrust) | Difficult | Either | Short | - | [Falcata Striker's Stance](#stance) _ |
 | --- | --- | --- | --- | --- | --- |
-20 Ranks in [Falcata Feint](#feint) ||= 200 ||= 500 ||
+
+20 Ranks in [Falcata Feint](#feint) ||= 200 ||= 500
 | [Falcata Simple Block](#simple-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Falcata Wrist Block](#wrist-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |

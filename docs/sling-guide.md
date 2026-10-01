@@ -71,7 +71,6 @@ This is the list of Slings & Bullets that are recommended to use when using the 
 | Iron Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
 | Lead Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
 
-
 #### Summary
 In most serious cases you'll want a to use **lead bullets**.
 
@@ -107,7 +106,6 @@ A rank of **1 signifies the best** in this category. All ammo has the same speed
 | Iron Sling Bullets | 1 |  | 1 |  |
 | Ceramic Sling Bullets | 1 |  | 1 |  |
 | Sling stones | 1 |  | 1 |  |
-
 
 #### Ammo Weight
 | Ammo | Weight Rank | Weight (per 50 bullets) |

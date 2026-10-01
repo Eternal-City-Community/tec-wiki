@@ -19,10 +19,12 @@ While this skill set can be optionally complemented by knowledge of [spears](/sp
 | [Hoplite Combat Stance](#hoplite) | Easy | 2 | - | - | Wielded **Shield** | 250 | 500 |  |
 | [Hoplite Phalanx Thrust](#pthrust) | Easy | 2 | Either | Pierce | - | 250 | 500 |  |
 | [Hoplite Bash and Jab](#bjab) | Easy | 2 | Short | Bruise _ |  |  |  |  |
-Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
+
+Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500
 | [Hoplite Shielded Stab](#shstab) | Easy | 2 | Either | Pierce _ |
 | --- | --- | --- | --- | --- |
-Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
+
+Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500
 | [Hoplite Rising Thrust](#rthrust) | Average | 2 | Short | Pierce | - | 250 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Hoplite Defensive Repel](#drepel) | Average | 2 | Short | Pierce | - | 250 | 500 |
@@ -30,25 +32,28 @@ Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
 | [Hoplite Shielded Advance](#sadvance) | Average | 2 | Long | Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | [Hoplite Underhand Thrust](#uthrust) | Average | 2 | Either | Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | [Hoplite Stab and Swing](#sswing) | Average | 2 | Short | Pierce _ |  |  |  |
-Bruise ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
+
+Bruise ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500
 | [Hoplite Leaping Thrust](#lthrust) | Difficult | 2 | Short | Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Hoplite Sweep and Thrust](#swthrust) | Difficult | 2 | Short | Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | [Hoplite Spinning Chop](#schop) | Difficult | 2 | Either | Cut | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | [Hoplite Whirling Strike](#wstrike) | Difficult | 2 | Short | Cut _ |  |  |  |
-Bruise ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
+
+Bruise ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500
 | [Hoplite Slam and Thrust](#sthrust) | Difficult | 2 | Either | Bruise _ |
 | --- | --- | --- | --- | --- |
-Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
+
+Pierce ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500
 | [Hoplite Lunge and Strike](#lstrike) | Impossible | 2 | Short | Pierce _ |
 | --- | --- | --- | --- | --- |
-Bruise ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500 ||
+
+Bruise ||= [Hoplite Combat Stance](#hoplite) ||= 250 ||= 500
 | [Hoplite Feint](#hfeint) | Average | 2 | Either | - | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Hoplite Swinging Block](#sblock) | Difficult | 2 | - | - | [Hoplite Combat Stance](#hoplite) | 250 | 500 |
 | [Hoplite Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 |
 | [Hoplite Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 |
-
 
 **Directions to Krindalus** ([Vetallun](/vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, W, W, S
 **Directions to A short sturdy man** ([Blackvine](/blackvine/)): Walk to Blackvine, S, SE, E, E, E, E, S, S, S, S, S

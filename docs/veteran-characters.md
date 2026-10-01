@@ -86,7 +86,6 @@ The table below shows the different VC packages available, with their correspond
 | Level 29 | 27,000 RPs | 15,000 | 300 | 280t | 320 | Makeover |
 | Level 30 | 99,999 RPs | 50,000 | 300 | 350t | 350 | Makeover |
 
-
 #### Purchase:
 To purchase a VC package, go to the Welcome Area and type @play. Select the "Spend Role Points" option, then choose "Purchase a Veteran Character." Select the package available to yo, and you will be taken to the character generator.
 
@@ -209,6 +208,7 @@ Use those credits to appoint your character:
 | 51. Two-handed boison axe | 15 credits |
 | 52. Short bow | 1 credit |
 | 53. Simple pine short bow | 2 credits |
+
 *Additional custom items will sometimes be in the display case, type and cost vary
 **Note: Weapon quality can be enhanced at the cost of additional credits. Upon purchasing the item you will see this follow-up prompt: "All base weapons sold here are of average quality (0).  You can increase the quality to Good, Great, or Excellent at a cost of 1 credit per step. You may also increase the quality to Superior for 15 credits extra. Enter the number of credits you wish to add to the price to increase the quality of this weapon."
 
@@ -239,6 +239,7 @@ Use those credits to appoint your character:
 | 18. Paenula | 1 credit |
 | 19. Sagum | 1 credit |
 | 20. Hooded cloak | 50 credits |
+
 *Additional custom items will sometimes be in the display case, type and cost vary
 **Warning: These items have no options to enhance them. If you buy a hooded cloak, it will be just 'a hooded cloak'.
 
@@ -275,6 +276,7 @@ Use those credits to appoint your character:
 | 25. Iridine wall shield | 5 credits |
 | 26. Long shield | 3 credits |
 | 27. Bronze buckler | 1 credit |
+
 *Additional custom items will sometimes be in the display case, type and cost vary
 **Note: Shield quality can be enhanced at the cost of additional credits
 

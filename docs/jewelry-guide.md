@@ -73,7 +73,6 @@ Different cuts require different numbers of Rough Cut and Shape actions.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tin | Copper \\ Silver \\ Gold | Brass | Bronze | Seelan | Iron | Alanti | Boison | Caon |
 
-
 *Easiest → Hardest*
 
 Higher-value metals can be substantially more profitable, but also require greater skill to work reliably. Material loss should therefore be considered when choosing what metal to use for training versus production.
@@ -102,7 +101,6 @@ The following tables list known finished jewelry recipes according to whether th
 | Simple Band Ring | 1 |
 | Toe Ring | 1 |
 
-
 #### Gem Settable Only
 
 | Jewelry Recipe | Max Gems |
@@ -113,13 +111,11 @@ The following tables list known finished jewelry recipes according to whether th
 | Lip Stud | 1 |
 | Nose Stud | 1 |
 
-
 #### Engravable Only
 
 | Jewelry Recipe |
 | --- |
 | Locket |
-
 
 #### Neither
 
@@ -140,7 +136,6 @@ The following tables list known finished jewelry recipes according to whether th
 | Wire Earrings |
 | Wire Necklace |
 | Wire Ring |
-
 
 #### Special Jewelry Notes
 

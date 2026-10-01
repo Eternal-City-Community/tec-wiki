@@ -357,8 +357,8 @@ Pugilius sinks his teeth into a thug! He suffers a puncture to his right shoulde
 ### Ale Focus
 
 With enough training in Ale Focus, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.  _
- _
-[**Community Note:** Ale Focus applies the perception bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific perception skill.]
+
+**Community Note:** Ale Focus applies the perception bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific perception skill.]
 
 **When you see this in use you see:**
 
@@ -374,8 +374,8 @@ With enough training in Ale Focus, you are able to raise your perception in comb
 ### Brawler's Instinct
 
 With enough training in Brawler's Instinct, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity. _
- _
-[**Community Note:** Brawler's Instinct applies the dexterity bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific dexterity skill.]
+
+**Community Note:** Brawler's Instinct applies the dexterity bonus regardless of whether the user is unarmed or wielding weapon, meaning that it can be used in place of a weapon's specific dexterity skill.]
 
 **When you see this in use you see:**
 

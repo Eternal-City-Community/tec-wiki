@@ -33,9 +33,7 @@ This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoo
 | [Craft Basic Short Bow](#bow) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
 | [Craft Basic Knife](#knife) | Average | - | 60 | 50 | 100 | 125 | 150 |
 | [Craft Basic Axe](#axe) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
-
 |  | Hunting Lores |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
 | Lore | Difficulty | Krimalus | Fern | Tauruu | Shantaz | Jarla |
 | [Hunter Tipping Lore](#tipping) | *TBC* | 25 | - | 25 | - | - |
 | [Field Dressing Lore](#fdress) | *TBC* | 25 | - | 25 | - | - |
@@ -91,7 +89,8 @@ Higher ranks in this skill allow you to create higher quality snares, which last
 | Rank 20 | ?? |
 | Rank 30 | ?? |
 | Rank 40 | slightly below-average _ |
-**average** ||
+
+**average**
 | Rank 50 | **average** |
 | --- | --- |
 | Rank 60 | ?? |
@@ -321,15 +320,18 @@ With a rib, antler, horn, or large fang in one hand, and a whet stone in another
 |  | knife description prefixes | "inspect" quality | knife weight |
 | --- | --- | --- | --- |
 | Rank 1 | rough _ |  |  |
-primitive (no cordage) || poor || 0.9 lbs ||
+
+primitive (no cordage) || poor || 0.9 lbs
 | Rank 10 | rough _ |
 | --- | --- |
+
 simple _
-primitive (no cordage)  || average || 0.9 lbs ||
+primitive (no cordage)  || average || 0.9 lbs
 | Rank 20 | simple _ |
 | --- | --- |
+
 primitive (no cordage) || average _
-fairly good || 0.9 lbs ||
+fairly good || 0.9 lbs
 | Rank 30 |  |  |  |
 | --- | --- | --- | --- |
 | Rank 40 |  |  |  |
@@ -371,7 +373,6 @@ Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or
 | Rank 90 |  |  |  |
 | Rank 100 |  |  |  |
 | Rank 110 |  |  |  |
-
 
 </details>
 

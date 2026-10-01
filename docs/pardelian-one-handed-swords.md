@@ -25,32 +25,40 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 | [Pardelian Turtle Stance](#Stance) | Easy | - | - | - | Wielded **Shield** | 154 |
 | [Pardelian Side Jab](#Side) | Easy | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
 | [Shield Charge](#ShieldCharge) | Average | 2 | Long | Bruise | [Pardelian Turtle Stance](#Stance) _ |  |
-20 Ranks in [Shields](/shields/) ||= 154 ||
+
+20 Ranks in [Shields](/shields/) ||= 154
 | [Pardelian Hidden Thrust](#HT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
+
 20 Rank in [Shields](/shields/) _
-20 Ranks in [Swords Stab](/one-handed-swords/#Stab) ||= 154 ||
+20 Ranks in [Swords Stab](/one-handed-swords/#Stab) ||= 154
 | [Pardelian Killing Thrust](#KT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
-20 Ranks in [Swords Stab](/one-handed-swords/#Stab) ||= 154 ||
+
+20 Ranks in [Swords Stab](/one-handed-swords/#Stab) ||= 154
 | [Pardelian Lion's Gambit](#LG) | Average | 2 | Long | Pierce | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
-20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) ||= 154 ||
+
+20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) ||= 154
 | [Pardelian Reaper Slash](#RS) | Average | 2 | Short | Cut | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
- 40 Ranks in [Swords Slash](/one-handed-swords/#Slash) ||= 154 ||
+
+ 40 Ranks in [Swords Slash](/one-handed-swords/#Slash) ||= 154
 | [Pardelian Ankle Thrust](#AT) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
+
  30 Ranks in [Shields](/shields/) _
-30 Ranks in [Hidden Thrust](#HT) ||= 154 ||
+30 Ranks in [Hidden Thrust](#HT) ||= 154
 | [Pardelian Shield Sap](#ShieldSap) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
+
 20 Rank in [Swords Sap](/one-handed-swords/#Sap) _
-20 Ranks in [Shield Bash](/shields/#Shield-Bash) ||= 154 ||
+20 Ranks in [Shield Bash](/shields/#Shield-Bash) ||= 154
 | [Pardelian Slash and Sap](#SS) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance) _ |
 | --- | --- | --- | --- | --- | --- |
+
 20 Ranks in [Swords Sap](/one-handed-swords/#Sap) _
-20 Ranks in [Shield Bash](/shields/#Shield-Bash) ||= 154 ||
+20 Ranks in [Shield Bash](/shields/#Shield-Bash) ||= 154
 | [Pardelian Tag and Strike](#TS) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Pardelian Downward Block](#DB) | Average | 2 | - | - | [Pardelian Turtle Stance](#Stance) | 154 |

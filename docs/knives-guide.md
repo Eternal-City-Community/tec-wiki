@@ -34,17 +34,13 @@ Below you'll find everything important to know about the [Knives](/knives/) skil
 | 40 | -20 offense | +61 over success |
 | 50 | No penalty | +51 over success |
 | 100 | No penalty | +1 over success |
-
-
 |  |  |  | Knives Stab and Slash |
-| --- | --- | --- | --- |
 | Slash Ranks | Stab Ranks | Penalty | Multi-Hit |
 | 10 | 10 | -80 offense | +76 over success |
 | 20 | 20 | -60 offense | +66 over success |
 | 30 | 30 | -40 offense | +56 over success |
 | 40 | 40 | -20 offense | +46 over success |
 | 50 | 50 | No penalty | +36 over success |
-
 
 #### Suggested Training Plan
 
@@ -123,7 +119,6 @@ Required SP: *~558 SP*
 | 1 | [Duck](/combat-maneuvers/) | 10 |
 | 1 | [Jump](/combat-maneuvers/) | 10 |
 
-
 * You will now be able to fight in the Ludus' first level until you reach 250 TCR. 
 * Save up as much SPs as you can before you are forced to spend them.
 
@@ -172,14 +167,12 @@ A rank of **1 signifies the best** in this category.
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
 | --- | --- | --- | --- | --- |
 
-
 #### Weapon Damage
 
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
 | --- | --- |
-
 
 #### Weapon Speed
 
@@ -202,11 +195,9 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 | A boison dagger | ?? | ?? | ?? | 1+MoS |
 | A retalq dagger | ?? | ?? | ?? | 1+MoS |
 
-
 #### Weapon Weight
 | Weapon | Weight Rank | Weight |
 | --- | --- | --- |
-
 
 ### Moves
 #### Worthwhile
