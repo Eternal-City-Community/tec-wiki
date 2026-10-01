@@ -1727,3 +1727,150 @@ html, body {
     max-width: none !important;
   }
 }
+
+
+/* Page history app */
+.tec-history-app {
+  max-width: 1050px;
+  margin: 1rem 0 2rem;
+}
+.tec-history-loading,
+.tec-history-error,
+.tec-history-header,
+.tec-history-entry,
+.tec-history-detail {
+  background: rgba(244,238,207,.94);
+  border: 1px solid #8f8969;
+  border-radius: 6px;
+}
+.tec-history-loading,
+.tec-history-error {
+  padding: .9rem 1rem;
+}
+.tec-history-header {
+  display:flex;
+  justify-content:space-between;
+  gap:1rem;
+  align-items:center;
+  padding:.7rem .85rem;
+  margin-bottom:.75rem;
+}
+.tec-history-current {
+  white-space:nowrap;
+}
+.tec-history-list {
+  display:grid;
+  gap:.55rem;
+}
+.tec-history-entry {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  padding:.7rem .8rem;
+}
+.tec-history-entry__title {
+  font-weight:700;
+  color:#30351e;
+}
+.tec-history-entry__meta {
+  margin-top:.18rem;
+  font-size:.82em;
+  color:#6d6854;
+}
+.tec-history-current-badge {
+  display:inline-block;
+  margin-left:.35rem;
+  padding:.08rem .34rem;
+  border-radius:999px;
+  background:#687038;
+  color:#fffdf4;
+  font-size:.78em;
+}
+.tec-history-entry__actions {
+  display:flex;
+  gap:.4rem;
+  flex-wrap:wrap;
+  justify-content:flex-end;
+}
+.tec-history-entry__actions button,
+.tec-history-close {
+  border:1px solid #646b35;
+  background:#687038;
+  color:#fffdf4;
+  border-radius:4px;
+  padding:.32rem .52rem;
+  cursor:pointer;
+  font:inherit;
+}
+.tec-history-entry__actions button:hover,
+.tec-history-close:hover {
+  background:#555d2d;
+}
+.tec-history-entry__actions button:disabled {
+  opacity:.6;
+  cursor:wait;
+}
+.tec-history-detail {
+  margin-top:1rem;
+  overflow:hidden;
+}
+.tec-history-detail__head {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:1rem;
+  padding:.6rem .75rem;
+  background:#646b35;
+  color:#fffdf4;
+}
+.tec-history-detail__head h2 {
+  margin:0 !important;
+  color:#fffdf4 !important;
+  border:0 !important;
+  padding:0 !important;
+  font-size:1rem !important;
+}
+.tec-history-detail__body {
+  padding:.75rem;
+}
+.tec-history-summary {
+  margin-bottom:.65rem;
+}
+.tec-history-add { color:#2f6a2d; font-weight:700; }
+.tec-history-del { color:#8a342d; font-weight:700; }
+.tec-history-diff,
+.tec-history-version {
+  margin:0;
+  max-height:65vh;
+  overflow:auto;
+  background:#2f302c;
+  color:#f2f0e5;
+  border:1px solid #1f201d;
+  border-radius:4px;
+  font: .74rem/1.45 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+}
+.tec-history-diff__line {
+  white-space:pre-wrap;
+  overflow-wrap:anywhere;
+  padding:0 .55rem;
+}
+.tec-history-diff__line.is-add { background:#263e29; }
+.tec-history-diff__line.is-del { background:#4a2926; }
+.tec-history-diff__line.is-meta { background:#343d50; color:#d5def7; }
+.tec-history-version {
+  padding:.7rem;
+  white-space:pre-wrap;
+  overflow-wrap:anywhere;
+}
+@media screen and (max-width: 44.984375em) {
+  .tec-history-header,
+  .tec-history-entry {
+    align-items:flex-start;
+    flex-direction:column;
+  }
+  .tec-history-entry__actions {
+    width:100%;
+    justify-content:flex-start;
+  }
+}
