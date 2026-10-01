@@ -12,7 +12,7 @@ This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoo
 
 |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Prerequisite | **@<**>@**Krimalus | Fern | Tauruu | Shantaz | Jarla |
+| Skills/Actions | Difficulty | Prerequisite | **Krimalus** | Fern | Tauruu | Shantaz | Jarla |
 | *<u>Hunting</u>* | Easy | - | 80 | 50 | 125 | 150 | 200 |
 | [Deadfall Snares](#deadfall) | Easy | - | 60 | 50 | 100 | 125 | 150 |
 | [Cord Snares](#cord) | Average | 10 Ranks in [Deadfall Snares](#deadfall) | 60 | 50 | 100 | 125 | 150 |
