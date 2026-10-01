@@ -367,6 +367,19 @@ User-reported issues and fixes on 2026-10-01:
 - Dropdown/flyout menus remain positioned overlays only while intentionally open.
 - Commit: `89315e315031477a6889542edce2a37cfd78a3b7`
 
+
+
+### Top navigation header-stack correction
+
+- User provided a screen recording showing that after the previous overlap fix, the TEC shortcut bar scrolled away independently while Material's masthead remained sticky and changed from the site title to the current page title.
+- Root cause: the TEC nav was inserted *after* the Material header as a separate document-flow element.
+- Moved `.tec-topnav` inside `.md-header` so the masthead and shortcut bar form one sticky header stack.
+- Added dynamic measurement of the actual combined header height via `ResizeObserver` and the CSS variable `--tec-header-stack-height`.
+- Mobile drawer and desktop sticky sidebar now use the measured header-stack height instead of hard-coded `68px` / rem offsets.
+- This should keep the top nav visible with the header while preventing it from covering content across viewport widths and Material's scroll-title transitions.
+- JS commit: `8c3da86f441303f94a7e14bdbd3b8a0ef34a34a9`
+- CSS commit: `b0cc21e113827317703cdc69c1991f29b9980951`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
