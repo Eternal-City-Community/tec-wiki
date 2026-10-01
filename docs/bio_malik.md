@@ -1,0 +1,15 @@
+# Bio Malik
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+Born in the early morning before the sun could bear witness, his birth was too much for his already frail Cineran mother. She died with a sigh of relief on her lips. The only name given to him--Dukat--was an ancient one, his father's clan name. His father having been killed months earlier in a raid on the small town of Blackvine, he was raised by a cruel and selfish grandmother. As the smallest of the children, he quickly learned to avoid upsetting his overbearing elders. Years of hard labor and vigorous training shaped him into a slim but strong young man. He hid his intelligence and natural creativity, wisely avoiding being picked for combat duty. With little else to do, he was assigned the menial task of guarding prisoners. There he got his first real taste of the outside world. It was serving food one night that he met a small wrinkled man of the far east. He called himself Yumemiri Hito and his teachings would soon change young Dukat's life.
+
+Hito knew many things and rare was the night not spent talking late into the the darkness. Hito taught Dukat how to read and write in a variety of languages and also about nature, the stars, and meditation. Hito seemed to have a sense of the future, a prophetic vision. He called Dukate "Corvus," the crow, because his future was black with uncertainty. This he added to his name with another, Malik, which Hito explained meant "Guardian" in an ancient tongue.
+
+Malik soon grew tired of being literally imprisoned in the small Cineran field camp and decided to escape with Hito. One rainy night, when the battle group was away fighting, they made their escape, striking out southwest with little thought as to where they were going. Four days later, with little food and flagging hope, they caught sight of a village, the small town of Vetallun. After talking with a local resident, they decided that Hito should stay in the village, making money telling fortunes while Malik made his way to the nearby city of Iridine.
+
+Thus came Malik to the Eternal City. Since his arrival, he has made many friends and participated in a variety of important events, most notably the recovery of the rock sent by Ereal. He is an entreprenaur and jack of all trades, a fisherman one day and a shovel salesman the next. He is friendly, outgoing, and always willing to share what little he has with others. If you happen to see Malik wandering the streets of Iridine or harvesting in the forest, take a moment to hello. More often than not he has treasures just waiting to be discovered.

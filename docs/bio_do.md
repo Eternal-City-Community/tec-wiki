@@ -1,0 +1,13 @@
+# Bio Do
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+I met Do five years ago, while we were only boys training to become mighty soldiers in the Altene army. Do has always been simple minded, but back in the days he had a pure heart. He was the best staves fighter of the regiment and my best friend, as I was his only friend. The military training we received may have produced some of the finest and most loyal killers the republic has seen, but those years have changed Do and me in a savagely different way... In each regiment, one usually finds a guy that everybody knows, the main man, the bad arse mother of all bullies. His name was Plethor, and he was the dirtiest of 'em all. He stood a foot taller than the sarge, and stunk worse than the cantine's cauldron. The tricks he pulled on the innocent recruits were not just painful, they were cruel, even lethal. One day, Plethor had the idea to test some poor guy's headstrenght in his own twisted way: he waited for the sun to sink, then found the guy in bed and simply bashed his brains out with a club. The next day, the victim was found cold, and Plethor was found defending himself in court martial under several charges that could get him the gallow. For some time peace was back in the regiment, but since his daddy owned half of the city's shops, Plethor came back with, and with a vengeance. His mind stiffened by the idea that he was now untouchable, he was determined to find the rat and make him squeal one last time. That night, when my turn came to answer of my fidelity to the psycho, he was so drunk that, just because he was tired of searching, he would have killed me on the spot if, panicked out of my mind, I hadn't shouted the first thing I found on my mind..."DO!!!"...I still remember his mindless grin when he grabbed my best friend by the throat and proceeded to rip his tongue out of his rat mouth. Do would be six feet under, and me a lot safer if the MP hadn't arrived and killed the bastard. Do was out of the army with a big fat bag of talents to keep things cool, but the night he left, I found a letter under my pillow, and it wasn't from the tooth fairy...
+
+So I say to all Iridinians, I beg them to leave Do to his little business. Please do not torture my friend's soul, as he has lost all trust in whomever he may meet...
+
+As for me, I am well hidden in a remote deep forest of the Altene wilderness, and do not ask for forgiveness, even if for every day, every second of my existence, I will remember the two fiery pits which destiny has put on my road: the oath Do made to someday find and murder me, and the night I bravely decided to squeal on Plethor...

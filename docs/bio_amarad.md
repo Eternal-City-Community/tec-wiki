@@ -1,0 +1,80 @@
+# Bio Amarad
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+I awoke to screams for tha first time in my life. Burned into me mind like a scar is that day. I lept from my sleepin mat n' tha first thing I noticed was mother, she was gone. At first I thought she'd just gone fer water, then I 'eard that noise. I can r'member that scream as if it 'appened moments ago. The terror in it… I was but a lil' cub then, too young to know what was goin' on.
+
+Suddenly the far wall a' me 'ut burst into flames. Had the campfires burnt out of controll again? No, it was too early in the morning for fires, they'd never be able to catch the reeds when they're still wet with tha mornin dew. What was happening? I rushed to the openin, pulled the leather strap, and opened the entryway. Then I saw her, moth'r, my shelter, my protector, layin' face down not but twelve paces from where I stood. I 'eard noises I'd never 'eard b'fore. The sound a' clashin steel n' the cry a battle filled the air. I crept out towards the other huts to see what was happening.
+
+I remember thinking 'If mother needs a nap, then she needs a nap.'
+
+'Get outta tha way ya shmuck! Uh? Amarad!!', my father boomed, 'Get in there NOW! Where's Li'?.' I was stunned into silence. His thick, curly mustache curled upwards, and I could only guess that he was smiling underneath it, he spoke in plain Parcines, the tongue of our people, 'Don't worry, Amarad, never forget who you are.' He glanced over at my mother, who I thought must still be asleep. For a moment he seemed sad, his beard easily hanging down past his broad chest, 'Never forget who your people are. Never forget who your enemies are.'
+
+He saw him b'fore I did. A man on a huge beast that I'd only seen at a distance long ago came chargin in towards us. He said somethin that sounded like 'damn horses' then hefted his blade, easily twice the size a' me at tha time. 'For my children~!' he cried and rushed towards the mounted rider. He swung at my father with a long stick with a blade on the end. He rolled under tha blow and wit' a mighty swipe 'e took both a' tha beast's hind legs off. The rider flew through tha air n' slid to stop not three feet from where I stood. My father was busy with two other men who wore shiney clothes that were hard as rock n' protected em kinda like a shell to the turtles. The downed rider rised to his knees, graspin a lil' sword much smaller n' me dad's. B'fore he 'ad it 'alf way outta tha scabbard my brother, Li'o'ruk (named fer one a' me ancestors) lept at 'im, sinkin 'is own lil' sword deep into the soldier's throat.
+
+'C'mon Am, we're goin on a trip.', he shouted as he tried to hide his fear. My eyes had bleared up with tears by now and I was so confused. WHAT WAS HAPPENING!? All I could think at tha time.
+
+'But Li… dad's bleedin n' mommy's layin ov'r thar n'…', I managed to choke out between sniffles. 'Father's far from losin Am, c'mon, daddy wants us to go on a lil' trip to the mountains like the old days, C'mon.', he grasped the shoulder of my tunic and pulled me around the huts until neither my father 'or tha strange men could be seen. At first I tried ta resist but 'e was far bigger n' stronger n' managed to get me to the edge a' camp.
+
+'Hop on my back Am, we're going on a lil' jog to tha mountains…'
+
+He ran like tha plains elk all day that day, not until we were 'igh above tha plains on tha sooty stone a' tha Blackroot Mountains did 'e let me off his back and collapse against the side a' a cliff. 'What happened Li?', I cried angrily, my mind was ablaze with tha day's events. 'Nothin for you ta worry 'bout.', he said b'tween gasps for air. 'It's ev'rythin I gotta worry 'bout Li! Don't soften it up fer me! Who were those guys with the shiney shells n' what were they doin?'
+
+He panted, 'Those were the legion's a' Iridine. That's why everyone of my age were being taught by the adults, we were bein taught to kill.', he continued after a short pause, 'the other clans to the south had sent men saying everyone was bein' massacred… er, put ta sleep forever… by these unstoppable mass groups from Iridine… gimme' some time ta collect my thoughts 'ere Am, this is all kinda shocking.'
+
+'Mom n' dad, 'r they fine?', I sniffled. 'I'm sure they'll be fine', he calmly said as tears streamed along his gentle face. 'Liar!', I cried, 'they put em to sleep forever didn't they LI! DIDN'T THEY!' I flailed at him with all my might, swinging at 'im as if he'd killed them 'imself. I couldn't think strait, it was like my 'ole world 'ad just ended. But really, it was only beginnin'.
+
+He struck me then. Backhanded me right upside me 'ead. The shot still rings in me ears to this day, 'Yes Amarad, they're dead, but crying about it wont help, neither will going back. We are amongst the last of our tribe, and we must be strong! From this day on we gotta put this be'ind us. Stand up, Amarad Nightsbane, and make the spirits of your ancestors proud! Do as father and mother would want you to do!' I stood up and wiped the tears from my eyes, whether because of his little speech or for absolute fear a' 'im, bein that tha first time 'e called me by me full fam'ly name like father did just b'fore 'e spanked me fer bein naughty.
+
+---
+From that day on we lived ev'ry day like thar was a 'ole bright world out thar a'ead a' us. I'd only been to the mountains once b'fore, back b'fore I could really r'member, but I always loved to climb tha trails n' play in the mountain springs. This time it was far from that. We both grew up in those mountains. The strain on me brother 'ad ta be great, the pressure on Li'o'ruk ta be both a brother, teacher, n' father ta me bein as 'ow 'e was all I had left. Ev'ry day he made me carry two stones tha size a' me 'ead on each shoulder up n' down a steep cliff at least fifty times. Once it got to easy, 'ed gimme bigg'r rocks 'er make me do it twice as many times. At tha time I 'ated 'im for it, but now I thank 'em as I see meself throwin men further n' most legionaire's can throw a spear. Ov'r the years we both b'came used to tha 'arsh livin' in tha mountains. We could scale tha cliffs fast'r than tha most agile mountain goat, run like tha elk, lift like an ox, roar like a' bear, prowl like tha snake, n' most importantly, fight like a bearcat. No matt'r what we'd fight like wolves n' die like warriors, so we swore to each oth'r.
+
+Ev'ry night b'fore we slept, Li'd take out tha small wooden serpent emblem father'd given to 'im long ago. We'd chant tha same prayer mother taught us, 'To Rumis, God of the Serpent, our voice among the spirits. Honor to your name, may your scale and fang protect us as we sleep.'
+
+By the time we were grown I'd b'come quite a bit broader n' thicker n' Li, but I 'ad not doubt 'e could topple me like tha wind to a marsh reed. 'e was still a full 'ead taller n' me an' he didn't hesitate to rub it in, with a smile a' course. He'd 'ave a beard like father if 'e didn't always shave it with that sword 'e always kept wit' em. We took ev'ry p'rcaution when it came ta townies, at we'd come ta call anyone we didn't know n' trust. Entire weeks were filled with such talk as, 'Hey Am, help me push this boulder out onto this ridge 'ere, so if anyone tries ta come up tha trail n' we don't want em to, they'll get a nasty surprise.' And finally, he showed me what he'd been hiding from me for all tha years since that terr'ble day, the blades he'd stolen from the bodies of the slain.
+
+He'd hoped that he'd never 'ave to teach me tha dirty art a' killin people with a sword, but it b'came a necessity as our lil' traps seemed to have less effect on tha townies frequenting tha area n' no matter 'ow many we sent back er killed with em, more came shortly after. We made alotta jokes 'bout tha Iridinian legions, n' my fav'rite game was 'one townie, two townie' whar we sat up on a cliff n' nailed em in tha 'elmets with rocks as they passed, just ta rattle em up real bad.
+
+I wasn't all that bad with what me brother called a 'gladius' by tha time of a'noth'r tradgedy. Three of em got through our 'surprises' n' caught us 'fore we could run. Right up tha trail was tha cave whar we kept all tha stuff we looted from dead townies er people we'd robbed durin' our years a' banditry. We couldn't let em get up thar. Li was tha warrior a' tha family, I was usually more content ta gather firewood er grasses n' small animals ta eat instead a practicin' my swordsmanship on a tree er 'untin large game. He rushed 'em and I followed close b'hind. One wit' a spear, two wit' big knife lookin' things. Just like tha others, I hoped, but then I'd usually be pushin a tree on thar 'ead n' not takin em face ta face.
+
+Li took tha other two while I was stuck fendin off tha point a' tha man's spear. Me brother roared like tha mountain bear as 'e sliced one right down tha middle, splittin' em open real nice n' clean like. I'd been watchin' 'im so much I didn't see tha thrust comin' in for my gut until it was too late. 'NO! Ama….', my brother's words cut short as he lept in tha way a' tha spear. I watched in 'orror as tha point emerged from 'is back and the blood began to pour. I took a step back in shock, once again I was losin' my world. I couldn't take 'em by meself either, so I'd most likely be losin me life too. 'Run Am! Like the plains elk! Like I ran all those years ago, RUN! Our people will not die with me! You will carry our tribe from now on! YAAAA~!'
+
+I'd seen him throw his gladius like that a million times. 'ed stick it into trees, 'ed 'it rocks with it, I'd seen father teach it to em long ago. 'e threw it right fer tha man's throat, and it sunk in deeply, right to tha' windpipe. 'Go..', he choked. And I ran, I ran as fast as my legs could carry me, tha last man couldn't even reach me dust trail as I sped down tha mountain trail. Then, there they were. A whole army of 'em. Townies ev'rywhar I could see, I knew now we'd been outclassed since we b'gan. We never 'ad a chance… couldn't they leave us alone, couldn't they tell we were tired a' fighitin? What kinda monsters were these bastards?
+
+Fine, if I die, then I die as we 'ad planned, die fightin' like a rabit beast. 'Rumis, forgive me.', I roared. I swung at one as hard as I could but my aim was off n' 'e ducked away without a scratch. Thar was a roar a' laughter from tha rest 'a em. I spun around, swingin at anythin that moved until a man stepped forward n' grasped tha sword off me. Somethin struck me from b'hind n' I blacked out. 'He'll make a fine slave in the right place…', was all I 'eard b'fore I gave in to tha blackness.
+
+---
+I awoke tired and beaten, wrists and ankles shackled together. With some eff'rt I managed ta stand. All 'round me was tha stench a' human filth. Sickly men all crouched and huddle 'round tha edges a' tha cart as I ambled over to lean on the bars. It was a cage on wheels… a slave wagon.
+
+As tha sun reached it's peak that day, tha cart stopped n' we were 'erded out by men with sharpened staves like some a' tha me in me old camp fought with. Famstaves er somethin like that, oh yeah, like tha fang a' Rumis, tha Fangstave. They forc'd us up onta' a platform, jabbin us if we r'sisted n' pushin us onto our knees even if we didn't. One jabbed me in tha back, 'Stand up strait, you'll fetch a better price that way!' A price? I was bein sold? I dind't know what was 'appenin but I dind't like it. I knew I couldn't get outta 'ere 'live with these damn mantacles on. I'd 'ave ta wade amongst this stinkin 'ole full a' townies fer a little bit longer. But it was longer n' I ever could a' thought, n' worse than I ever could imagine.
+
+'Ten cents for the muscled one with the green eyes', one man cried amonst the chaos. 'Five cents for the scrawny one.' 'I'll give ya fifteen cents for tha big blue-eyed one.' There was much shouting in tongues I couldn't understand and eventually a man in tha back shouted, 'An easy fourty-nine cents for that muscular man with the green eyes, and twelve for the black haired man in the back!' I don't know if it was me green eyes er me muscles, but I was property now, tha possession of anoth'r man.
+
+'But first, a test of streangth to show that my money is not ill spent?'
+
+'Fine.'
+
+A stone beam was placed b'fore me. I glared at one a' tha men, 'I'm not gonna do tricks fer ya.' He grinned, 'well look, he can speak. How nice. NOW PICK IT UP SLAVE.' A few more jabs to tha back changed me mind, bett'r ta live til' tomarrow then be full a' 'oles today. I gripp'd by tha bottom n' hefted it 'igh over me 'ead. The crowd stared 'n amaz'ment.''appy?', I grunted.
+
+I didn't know then that I'd be workin in tha fields. Day after day me n' tha others worked our 'ands to tha bone, our backs bleedin from tha sun blisters n' tha mast'rs whip. Tha food we ate was rotten and putrid, I just picked tha bugs outta it n' ate them instead. Lots a' good men died in them fields. Ev'ry time someone dropped I'd wait til' night n' sneak tha corpse to tha woods n' bury it. I'd try ta get away, they'd catch me ev'ry time n' whip me from dusk til' sunrise tha next day. Maybe I'd prove I was more trouble n' I was worth n' they'd kill me.
+
+'Don't I know ya lad?…' a man in 'is mid years coughed at me in tha fields as I hauled some large stones. 'B..Beromir?', I smiled. 'Ah! Yer Utarun's younger boy eh? Amerod was it?' I was 'appy ta see another a me clan 'live, 'Close 'nough.'
+
+We would talk in the fields 'til they pulled us 'side n' beat us, but we'd take it wit' pride n' nev'r let it get ta us, though I do r'member times tha pain almost moved me ta tears, but Beromir wouldn't let me give in. 'Til one day when tha mast'r pulled em aside while n' took em to tha shed out back. I could 'ear em yelllin n' beatin em in thar. 'I won't let this go on', I growled.
+
+'e killed Beromir 'fore I even got thar, but I r'paid tha favor by stranglin' em ta death with 'is own whip. I took tha keys n' r'lieved ev'ry slave a' thar shackles. I took tha master's body to tha villa so 'is wife n' daughter could see em one more time. 'Okay town rat, yer spirit's not good 'nought to return to tha earth, so I'll take care a yer body tha way all like ya should be taken care of. I will be NO ONE'S beast of burden!'
+
+I burned em.
+
+---
+One of tha other slaves managed ta get me outta thar, get some clothes on me ta cover up tha scars, get me ta some city called Midlight right in tha thick a' tha townie's country, n' get tha one thing that'd let me get r'venge fer all they'd done ta me, a gladius.
+
+I aint gonna let all thar deaths be fer nothin. Li'o'ruk, watch ov'r me brother, I'll get em fer ya. Father, mother, I 'ope I'm what ya wanted me ta be. Beromir, I aint givin up. I'm gonna live me life like I wanna.
+
+'Rumis, forgive me, I'm only human, I know not what I do. Save my soul, for my body will be stained with blood from now on…'
+
+'Rumis… forgive me…'

@@ -1,0 +1,17 @@
+# Bio Grath
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+Grath was born in the year 202, and was the first and only child of Tarlu and Mourya Sethyel. He was born late - in fact, his parents were both in their early fifties when he was concieved and had never expected a child. They were overjoyed when they learned that Mourya was pregnant, and thought of it as the greatest possible gift from Ereal.
+
+However, there were difficulties associated with the birth and Mourya was so greatly weakened that she passed from the living within a few short weeks of giving birth. Tarlu was grief-stricken, but nevertheless managed to do a decent job in brining up Grath. His childhood was fairly average, although he was an extremely active and adventurous youth who often went off in search of new places to explore. However, in his tenth year, Grath's life took a drastic turn for the worse.
+
+His father, guided by a recurring nightmare and his undying grief, began to blame Grath for Mourya's death. He became cold and withdrawn, and eventually rawly angry. Finally, when Grath was 11, he was sent away to live with a distant relative in Remath. There, after a period of getting used to the change, he quickly settled into the Remathen way of life and came to love and respect his 'Uncle' Zosefur, a renowned trader and member of the Orien house. Grath longed to follow in Zosefur's footsteps, and watched the great man in action whenever given a chance. Realizing the up-and-coming potential of Remathan sea trade, he also spent a good deal of time doing odd jobs aboard trade and smuggling ships and learning the workings of them.
+
+Finally, when he was 16, the Orien house recognized his native ability and adopted him as an honorary member despite his foreign origins. He proved his worth to the noble house throughout the next two years, and was finally put in command of beginning Orien trading operations in Iridine, the city of his birth towards the end of his 17th year. So, he bid a sad, temporary fairwell to the city he had come to love as his own and struck out for the somewhat dimly remembered city of his birth and upbringing.
+
+In Iridine, though, he found that his job was not as easy as he had hoped - along the way, his party was ambushed by bandits, leaving him as the sole surviving member. He was also left nearly penniless, and with a deep appreciation of the hazards of traveling unarmed. So, upon finally staggering into the front yard of the Toga with not much more than the clothes on his back and a spear and knife salvaged from the place of his ambush, he began his training as a spear fighter in hopes of gaining enough wealth to eventually continue with the construction of a merchant empire as eternal as the city itself.

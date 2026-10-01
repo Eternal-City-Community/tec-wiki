@@ -1,0 +1,9 @@
+# Bio Jelkir
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+The story of Jelkir Parmona is not an uncommon one among the people of Cinera, never the less it is a tragic one. Jelkir's mother, Etaroi Parmona, was nearly 16 years of age when an Iridinian counter-attack took place. An Iridinian soldier, name unknown, had raped Etaroi during the counter attack. Etaroi had only her mother left, having had her father die in a Cineran assaault when she was younger. Her mother heard the news of her daughter's impregnation and had her shunned from the household. Having no place to go, she lived amongst the streets of Cinera until the 9th month of her pregnancy where, in a dirty alley, she gave birth to her son, Jelkir. She fed him the best she could, but childbirth had made Etaroi weak. Nearly one month after the birth of Jelkir, Etaroi passed away. By a great amount of luck, which Jelkir would later have much of, a peddler was travelling through the alley on her way to a local inn. Seeing Jelkir in his mother's dead arms, she took him with her to the inn, where she bartered him away. Many years passed, and as they passed, so was Jelkir from home to home, until the 12th year of his life. Seeing the opportunity to run away and live alone, Jelkir took it. Throughout his years of living on the streets, he acquired a sense of survival and self-dependence. He also has grown a big heart and will hardly refuse to give a helping hand. Jelkir moved to the streets of Iridine seeking opportunity, where he has yet to find anything but the rewards of rat pelts and kindly strangers. And thus the biography remains unfinished.

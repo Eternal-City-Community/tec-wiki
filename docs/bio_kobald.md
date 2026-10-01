@@ -1,0 +1,17 @@
+# Bio Kobald
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+Kobald Stelion is a young, hopeful child who was originally born in Aestiva. In his early years (between the age of 10 -15), he was an Elite Member of the Aestivan League, nearly unmatched by all. Even the mightiest of weapon masters were brought down, due to the fact that Kobald fought with skill and knowledge, instead of strength and brawn. He was admired by many of his peers, and even though he enjoyed the popularity, he enjoyed time alone even more. He was a person that was constantly thinking, and would never quit until he was cleared of his doubts about something.
+
+Kobald had a good life in Aestiva; his Mother had a vast knowledge of the terrain, and tought him about how to use the knowledge of the land to help him in battle. His father, who was the hunter of the family, taught him never to jump to conclusions, and to never rush into something that he was not ready for. It's said that he also had a little brother, Amalgam, but ever since the great tragedy for Kobald and his family, this has not yet been proven.
+
+The "Great Tragedy" referred to is the one that changed Kobald's life forever. At one time, hyaspists and hoplites entered the small village in which Kobald lived in, and they began to terrorize the people who lived there. Nobody had the strength, nor the skill to beat these fierce warriors. Kobald's Father and Mother tried their best to win, but they were also defeated. Soon afterwards, Kobald's Mother rallied all the women of the small village to her house, where they set up defense, and a place for the wounded to be healed. As this occured, the last warrior capable of fighting.....was Kobald. He marched into battle, holding back nothing; he refused to let the village go down in flames by these "monsters." Although he fought with pride and skill, managing to take down a few of these trespassers, he was soon overcome by a hoplite that was well-trained in Spears; Kobald had lost the fight.
+
+Kobald was in Critical condition when his body was recovered; when he finally regained conciousness, he was in a place he did not recognize. It turned out that, by some unknown miracle, he was saved from death by the hoplites. One of the people who was at his bedside, was a man named Aeran. Aeran explained to Kobald that he was now in Altene, and that a few Altene warriors (including himself) wiped out the hyaspists and hoplites who had invaded Kobald's home village. Aeran and Kobald seemed to have much in common, and they quickly became friends. As Kobald began to recover, he realized the awful truth; the fight that had nearly killed him caused him to forget everything he knew about Spears, and he was no longer able to fight with the skill he once had. But, through the kindness of a few Altene warriors, they taught him the basics of Stave fighting, in order for him to defend himself properly.
+
+Currently, Kobald is now in Iridine, trying to recover the training and skill that he lost that one fateful day. He refers to his homeland as being Altene, since they were the ones who saved his life. He knows nothing about the safety of his family, and his mind is still tormented by the curiosity of what happened. Although he seems to be in his own world at times, he knows where the honor and credit lies. He is a devout believer in Ereal, and knows that all things are in His hands.

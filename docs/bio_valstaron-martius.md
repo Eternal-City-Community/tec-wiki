@@ -1,0 +1,15 @@
+# Bio Valstaron Martius
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+## Valstaron Martius
+**<u>Valstaron Martius</u> ??-15 or 16 YP**
+Perhaps the bloodiest, and certainly the least stable, of the Cineran kings was [bio:Parsos Emrial](/bio_parsos-emrial/). In his thirteen year reign he slaughtered the elders who had guided each of the preceding reigns for two hundred years. Valstaron Martius served in the Legion with honor but little distinction for over ten years; while he was of a noble house, he had shown no interest in politics and preferred to serve Iridine in the field, against the Aestivan nobles. The Aestivans conducted a civilized war, completely unlike that which Martius' comrades told him about in the south, against the barbarians.
+
+Emrial conducted a particularly brutal round of slaughter in Scran of EK 213. Martius' uncle, of House Oradanae, was one of those killed in a show trial; when word came to the far reaches of the East in Palut EK 213, Valstaron transformed himself from a mediocre tribune to a figure of heroic proportions. He contacted his opposition, promising them the cessation of hostilities in return for several miles of valuable border territory, and marched back with his cohort to the City, picking up disaffected cohorts and scattered units en route. Word of his legendary march - captured, years later, in the song "[The 
+March of Martius](/the-march-of-martius/)" - spread like wildfire ahead of him.
+
+Knowing full-well the importance of pomp and circumstance, Martius encouraged a story of doubtful integrity from which he drew the name "The Hawk". It was told often that when he was a child, the young Martius was confronted by a sword cat in the plains outside Iridine. Wielding only a toy wooden sword, the young boy faced off against the prowling cat, prepared to fight and die. Before the sword cat could strike, a circling hawk dove in and began scratching at the sword cat's face. The cat was distracted long enough for Martius to jab the wooden gladius home, killing the sword cat. It's said that the hawk flew onto Martius' shoulder and whispered, "The Republic must live through you."

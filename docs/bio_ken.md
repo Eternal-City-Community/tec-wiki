@@ -1,0 +1,9 @@
+# Bio Ken
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+Ken led a simple life. hard-working, cocky, an all out athlete. He grew up in Gadeane and lived there until he was 30 when he decided to move out because he killed his parents. After 17 grueling monthes of travel, he found himself in the slums of a kingdom called Iridine. He searched for work, but he didnt find a job because he got really lazy and didnt take any offers. Ken ended up finding a tin gladius and living at the dumps. he slept in a shelter near the entrance and hunted there everyday. One day, Ken felt bold and thought he'd try his luck with bandits! Little did Ken know, that the bandits were a lot stronger than he and he reluctantly decided to go back to the same old dumps. After awhile, Ken got bored and he felt mischiveious. He went to the bandit forest again and found a jagged cave mouth. Ken heard about this cave and he knew it was dangerous. He thought he'd try his luck and he decided to head inside. Little did Ken know that that was the last time he saw the light of day. As he was exploring the small cave, he came across a bandit trap that soon had his head very mauled. Ken panicked and decided that the trap would fail sometime or another, but everytime he tried to leave, the steel spikes crushed down upon his head. Eventually Ken slipped into unconsciousness. He died after some time and his body was never buried nor found. Ken wasn't very much liked in Iridine and when he fell victim of his own mischief on that 25th day of Ereal in the 217th year of the republic, he felt a sadness and a failure of life.

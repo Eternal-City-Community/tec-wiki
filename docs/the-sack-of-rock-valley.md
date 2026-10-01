@@ -1,0 +1,45 @@
+# The Sack Of Rock Valley
+
+THE SACK OF ROCK VALLEY:
+
+Written by a player:
+
+War came to Rock Valley, as I'd expected it to.
+
+It's strange how much distance there is between words and fact. Nowhere is this distance greater than when the word is war. I've been aware of war all my life, and I'm as familiar as any Iridinian to the mere spectacle of violence, as we see it in the Colosseum. But the experience of war is as far from the word as the experience of death is from life. And I've learned that anything might dwell in that distance — anything at all. All the splendid acts of heroism, the cold-blooded pragmatism, the arrogance and fury and panic and guilt, counted for nothing. War doesn't care how you approach it. It doesn't care whether you're brave or clever, cowardly or stupid. It doesn't reward skill or patience or piety. War overwhelms.
+
+And I could do nothing but witness.
+
+Sempron and I hiked up to Rock Valley, out of curiosity more than anything. I'd heard from Danasei that Tyrlindax and the giant barbarian axeman, Hroth, had been evacuated to Iridine some days ago. It seemed inevitable that the barbarians were going to move on the frontier town sooner or later.
+
+It's easy to say such things. Much harder to live them. At first, nobody was entirely certain Rock Valley would be attacked. When Centurion Martennus called for his scout, we all went to hear what was happening.
+
+Cyrillius, the captain of the vigiles of the Holy City, was there. He's a very good and very bitter man. His appearance, with that tattooed face and those weird golden eyes, is curiously impressive. I felt safer knowing he was there — at first. Later I learned better. There's no safety in war, only death and loss — or survival and witness.
+
+Pleistan, the huge Cineran that I'd heard was so dangerous, was there too. I wondered why… but he seemed to know Cyrillius. Dayltor was there, and I'd guessed enough from Damov's word games to keep my distance. Ravenlark was there. Is she mad, as I've occasionally thought, or actually among the sanest people in Iridine, as Damov claims? I don't know. Dumond was there, for reasons I knew I was never going to learn. Lingkius was there, one of the few Legionaries I'd personally met. He'd scorned me for running from the espionage mission, and I couldn't say he was wrong.
+
+The plan, as Martennus laid it out, was frighteningly simple. Barbarian hordes were approaching Rock Valley and we were going to try to stop them. We took up a position right at the gates and waited. Sempron, the bravest man I've ever met, wanted to negotiate with them — but it was useless. Is it still heroism when one's courage accomplishes nothing? And once the first barbarian wave hit us, all the abstractions crumbled like a child's sandcastle on a storm-wracked beach.
+
+I was extraneous, useless, and it seemed almost certain I would die. Ravenlark told me earnestly, "If you get mortally wounded, I'll be sure to clean off your intestines as best as possible before stuffing them back in your abdominal cavity and stitching you up." Gallows humor — what else can you do to pass the time before extinction? The waiting was almost worse than what followed.
+
+Almost.
+
+The sounds of war are screams, pitched to madness and beyond. Crashing metal. The sick meaty thunk of weapons hacking flesh. Ululating howls of triumph and agony. I'd heard it all before, but never from my own throat until now. I stood with Ravenlark and the archers for the first wave, but when the strange-eyed Aziri came, they broke through our lines. I fled, stumbling along a narrow street just inside the walls. I nearly tripped over an unconscious barbarian being hacked at by Fiervius and Ritley. I recalled the lessons I'd learned from Leda — lessons in strangulation. Without speaking, shyly murderous, I bent over the man and crushed his windpipe. He twitched beneath me, his face a livid purple, but in a few seconds he was dead. I straightened, dazed and as vacant-minded as a tattered cloud swept across the sky by a cold spring wind. Martennus was calling a recedo, we were supposed to retreat.
+
+I crept up nearer the lines, where Sempron was unconscious. I yelled for Ravenlark, and she came and healed him. Ritley carried Sempron to the baths, but he had no money. I gave him what I had — I wouldn't need it when I was dead. Would I? Stories I'd heard of Twilight flickered in my mind, but I didn't have time to worry. I had to get back to the battle. I was a witness.
+
+When I got to the main street, a volley of arrows thrilled through the air directly toward us. One lodged deep in my right thigh — I stumbled for cover, bleeding. I knew no one was going to have time to heal me properly, so I gritted my teeth and yanked the arrow out, along with a fair-sized gobbet of my own dripping flesh. The pain nearly blinded me — Danasei, kneeling nearby, seemed to be outlined in light, while spots of blackness swam and pooled around the edges of my vision. I didn't faint, though, and Danasei wrapped a bandage around the wound for me. I stammered my thanks and handed the arrow I'd pulled from my thigh to Atlis the archer.
+
+I staggered to my feet and toward the town square, which was where Martennus was holding out. I knew we were losing the battle. Unless reinforcements came from Iridine, Rock Valley would be sacked.
+
+The town square held.. for a time. "I can't do anything but pray," I said numbly at one point. Ravenlark answered, "It obviously isn't working. Pick a different God." I couldn't answer. I was distracted and somehow empty, hollow, as if I'd yanked more than just flesh out with the arrow. My head felt like the drum Danasei took from the barbarians, and I didn't know who was pounding on it.
+
+Dayltor said, "It would be amusing to see what the barbarians do to prisoners once the town is overrun." And Dumond answered with his inimitable indifference, "I'll wager it involves raping and pillaging."
+
+Then Martennus ordered everyone to fall back to the bridge. "We can't wait for reinforcements any longer." That decision, once made, doomed Rock Valley. We all knew it. Bubona began shrieking in our thoughts as a mad barbarian attacked her. Danasei, bless him, went to save her. When we gathered at the bridge to evacuate with Legio, he was missing and Ravenlark went back for him. I was carrying Sempron; Cyrillius carried Gormesh. Everyone was battered and bloody and exhausted.
+
+As we were pushed along by the wounded Legion I asked, stupidly, "What about Ravenlark and Danasei?" And Pleistan showed me his axe — a horrific weapon, if horror hadn't become as invisibly essential as air. A hulking boison battle axe with human teeth embedded in the shaft. Blade and shaft were spattered with clotting blood and greyish scraps of brain. My mind, I thought, that's my mind on his axe.
+
+The rest of it went by quickly: the nightmare battle between Martennus and a barbarian who was probably Gronir… the desolate tramp back to the city… the shock of coming home from war, of seeing familiar people in familiar contexts, when my own context had changed forever. My thoughts seemed unable to leave the gore smeared on Pleistan's axe.
+
+But I survived: an improbable witness to war. For better or worse, the most important lessons can't be unlearned.

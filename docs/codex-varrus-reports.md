@@ -1,0 +1,159 @@
+# Codex Varrus Reports
+
+Report 1
+27th of Tulcas, 247
+Shortly after waking up, I stationed myself outside the Toga for the beginning of my shift. 
+The acolyte Melchizidek arrived and informed me that a Soldier of Ereal by the name of Fidren was
+hounding a man named Varrus, who had apparently stolen from them. This occurred near the Golden
+Anchor. Hypnoticus, Zephrius and Zemis stopped him and disarmed him in the process. I met with
+Zephrius, who handed me his sword. We then met with Zemis and Hypnoticus inside the Toga. They
+recounted what had occurred. 
+They said an urchin saw something scary (but did not elaborate), while they were in the Toga. The kid
+tried speaking to the constable, who ignored her, so she led them instead to a house belonging to
+Varrus, who they found inside. The urchin then ran away. Fidren then entered and attempted to attack
+Varrus while claiming a theft, but the three of them stopped him and disarmed him. Both Fidren and
+Varrus ran and went into hiding. 
+Zephrius and company brought me to the home, where we found a newly exposed trap door leading
+into a basement that reeked of sweat and blood. There was a bloodstain in the back room of the
+basement. It was otherwise empty. They said that the trapdoor had not been visible the first time: an
+overturned rug was apparently what had covered it. Varrus must have returned to empty out the
+basement. 
+I left a sentry posted in the house. Some time later, when returning to show Mystikqua the scene, I
+found Hypnoticus and Zemis inside the basement acting strangely. I finally convinced them to leave. I
+then had the sentry guard the trapdoor to prevent further entry. 
+
+---
+Melchizidek's version of the events: 
+He was in front of the inn when the urchin came asking for help and was ignored by the constable.
+Zephrius, Hypnoticus and Zemis then followed the kid. Melchizidek decided to see what was going on,
+so he followed behind. They arrived at the house. The kid then ran off. Hypnoticus and company tried
+to find the urchin, and Melchizidek was left alone. He knocked on the door and Varrus answered. 
+Melchizidek recognized Varrus from when he tried to sneak into the Temple in an earlier incident
+several months ago, but doesn't think Varrus recognized him in turn. 
+The group returned, minus the kid they couldn't find, and begin speaking with Varrus. All enter the
+house. Melchizidek didn't get directly involved, and remained an observer.
+He says they were questioning him. They asked him about himself, and he said he used to be Legio.
+There was a deck of cards and he said that he played often with his old Legio buddies. 
+Fidren entered suddenly and Varrus paled. Varrus tried to run out the door, but Hypnoticus had it
+guarded. Fidren had his gladius drawn and was threatening Varrus because Varrus stole something.
+Zemis and Zephrius began attacking Fidren immediately, telling him to stop threatening Varrus. They
+fought until Fidren was disarmed, and then he ran, telling them he would remember them and circulate
+their names among his brothers. Varrus ran as soon as Fidren is gone. 
+The others walk out, as does Melchizidek. They search for a bit, and that is when Melchizidek initially
+finds me at the Toga.
+
+---
+Based on these reports, I have decided to warrant Fidren with Disturbing the Peace and Minor Assault
+for attempting to attack Varrus. Hypnoticus and friends were acting in the man's defense and
+cooperated with me fully, and I am not placing any charges against them for attacking Fidren. 
+Varrus is not currently wanted for warrants, but the basement certainly brings issues forward. He needs
+to be apprehended for questioning, if nothing else. 
+The Soldiers of Ereal have no authority inside the city walls. Any act on their behalf to suggest
+otherwise should be regarded as vigilante in nature. If something has been stolen, they can report it like
+any other civilians. I have been unable to find Fidren or any other SoE to question about this event: if
+his side is given, it could affect necessary warrants.
+I have asked Melchizidek to contact his superior Astri, either to get information out of her or to reach
+me so that I may question her. Should anyone else have the opportunity, we need to ask the Cultists
+about Varrus, Fidren or the SoE in general, and what might have been stolen.
+
+---
+Report 2
+Assistant Justice Aratus Tacitus has warranted Fidren. As this occurred in his jurisdiction, he is to be
+contact as developments arise. He noted that issues with the SoE need to be handled delicately. But
+again, they have no more legal authority than anyone else outside our ranks. 
+There is technically nothing to warrant Varrus with at this time. He needs to be questioned and his
+house remains under investigation.
+
+---
+Report 3
+13th and 14th of Aera, 247 (this began in the evening, and lasted well into the next afternoon.)
+I found Varrus wandering the Harbor towards the Toga area and approached him in the street. I told him
+he needed to talk with me so that I could ask some questions regarding the prior incident. He tried to
+move on without me. I caught up to him and told him that we'd be going to his house, or he'd be going
+to jail. We went to his house. 
+Once we got inside, I opened the basement door and saw that there was over a half dozen rogue
+soldiers in wait. Varrus ordered them to attack me, and to "kill the prisoner." I reacted immediately and
+got out of the building before they could engage me. 
+They locked up the house again and I regrouped with a party outside the Golden Anchor, including
+Durus, Ladea, Seppoko, Lingkius and Zephrius. Once we broke into the building, we entered the
+basement. Varrus and his men were in the far room, along with a wounded and unconscious prisoner,
+Quoreg Skrr'Vad. A plan was developed. 
+Quoreg would be the immediate priority: Lingkius guarded Zephrius, who was to take the man away to
+safety at the beginning. The rest of us were to engage the renegades and to keep them busy during the
+rescue. Varrus was the only one I insisted be kept alive. He was the first target of our attack. As soon as
+we had him unconscious, Ladea removed him to the headquarters and the rest of us dealt with the
+remaining soldiers. I asked the Legio what orders they had regarding the traitors, and they said kill.
+This was done. 
+A few minor outbreaks of renegades sprang up in the area, but they were all quickly eliminated as well.
+Varrus and Quoreg were both successfully moved to the HQ, and tended to. I had Varrus arrested for
+one count of Treason for mustering armed soldiers inside the city's walls and attacking local law
+enforcement. 
+
+---
+Once Quoreg recovered, he was not agreeable. He could not speak Common, and kept trying to leave.
+He had to be subdued and rebound. 
+Eventually I was able to get the attention of Martennus, Centurion of the Legio formerly stationed in
+Rock Valley. He and I entered the jailhouse to speak with Varrus. It turns out that Varrus was one of his
+Optios. Martennus was angry with him, to say the least. Apparently Varrus had orders to "gather
+information" (Note: this was never elaborated upon), and not to steal or to cause this mess. Eventually
+Varrus explained that Quoreg is of the Brak Taul tribe and is also the son of Gronir, the Blackroot chief
+who led the horde against Rock Valley. This of course instantly raised Quoreg's value in my eyes, and
+explained his harsh attitude.
+Martennus asked me to have Varrus transferred to Vetallun. I refused for several reasons. Even if I had
+wanted to, I don't possess the authority to order a transfer. Varrus committed Treason within the city
+walls by mustering armed, hostile soldiers. I told him it would require a stronger authority to make that
+call, whether [Phoenix Guard](/phoenix-guard/), City Justice, Legate, Tribune or higher in the [Legio](/legio/) chain. 
+As a mere Centurion and (in the city) civilian, he could do little more to insist. He tried to invoke
+[bio:Pandarus](/bio_pandarus/), but when I told him I'd gladly hand the case over to the PG, he backed down. Clearly I had
+called his bluff. When I spoke with Legate Illryia, he agreed that Varrus should remain here, at least
+until he has spoken with a Tribune or equivalent. 
+Varrus was returned to his cell and we went back to deal with Quoreg. Quoreg threatened that the city
+would be burned. That is the most coherent of his statements, and the rest were all of the same nature.
+Martennus demanded Quoreg be moved to Vetallun. 
+Initially I refused: As potentially the most important prisoner of this war, I did not want him risked on
+the road to Vetallun by my order. Martennus told me a negotiation had been reached with another
+Blackroot tribe, the Belfir. They are to take Quoreg in exchange for lending their arms to the Iridinian
+cause. 
+
+---
+I still did not allow it until Martennus finally came to his senses and told me the negotiation was
+supported by Legate Arax. This was enough for me to grant his release into Legio hands: I had the
+higher authorization (and accountability) I had asked for. Martennus, Seppoko, Dackel, Lingkius and
+others then took Quoreg and escorted him to Vetallun. As far as I know, the transfer was successful. I
+await a report from Eagle Century.
+I gave time for them to be well out of the city before seeking out any Soldiers of Ereal: I did not want
+to give them the opportunity to start another conflict, as Quoreg was initially their prisoner -- he is what
+Fidren was stating Varrus stole from them. I was unable to find any contact from the Temple or the
+SoE, however the acolyte Melchizidek has been my liaison to the Cult and was present for all known
+incidents involving Varrus. He will continue to try and arrange contact for us. 
+While being named a traitor, I believe Varrus was acting in the interests of the Republic and the charge
+is simply because of his methods, not necessarily his motives. Fidren, however, can still keep his
+warrants for assaulting Varrus at the earlier date, at least until he can be questioned. The SoE bringing
+an important prisoner of war and hiding him from everyone, possibly even the Senate-level authorities,
+is at best questionable. Under no circumstances should he be allowed direct interaction with Varrus,
+and if he wants to get Quoreg back, it is out of our hands and power to help him. 
+I do not know Fidren's rank, but his known superiors are Cytheria and Jacardus. The latter is Captain of
+the RV-SoE. 
+It should be noted that at least two other Blackroots were found in the city after Quoreg was brought to
+the headquarters, but before his transfer to Vetallun. They were both hostile and while at least one made
+it to the jail cell, neither survived their wounds. It is unlikely they will remain in the city now that
+Quoreg is no longer here, but if any are spotted they should be apprehended or killed. Preferably the
+former, but they are enemies of war after all.
+
+---
+Report 4
+17th of Aera, 247 
+According to Dackel, who will be our primary contact with the Eagle Century regarding this case,
+Quoreg made it safely to a cell in Vetallun, though he was still unconscious when they left him. He will
+stay there for the time being, until Legate Arax issues new orders.
+
+---
+Report 5
+Astri spoke with Ladea and myself regarding a few issues. I informed her that Varrus is in custody, and
+of the SoE's actions in holding Quoreg prisoner. She will inform her fellows: they may or may not wish
+to interview Varrus regarding his break-in into their temple. I told her this can be done, and she will
+contact us if it is necessary.
+
+---
+End of the Varrus Reports.
+** Reports submitted by Constable Damov

@@ -1,0 +1,18 @@
+# Bio Umbran Arxaeth
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+**Umbran Arxaeth**
+The sea was never a Cineran strength. The Cineran kings of Iridine did not establish more than a token navy force, and as the sea became more and more important for purposes of trade this vulnerability only became more pronounced. Umbran Arxaeth, the Seahound, was among the first to recognize this. House Arxaeth has never been very large, though it was old and distinguished, having first been established during the reign of Tulca II. Arxaeth had been raised by a severe father that insisted his son learn practical skills before joining the military; Umbran was drilled on ropemaking, carpentry, and the basics of sailing before any of his peers began thinking of the sea as more than a source of fish.
+
+Thus it was that when, as a young tribune, Umbran heard of the constant harassment of Iridine trading vessels by pirates, he insisted on his own appointment as the first Admiral of Iridine's new navy. His father's connections became useful in pushing through the funding of three small warships, and soon after their commission he took his "fleet" and began the successful prosecution of a war against piracy.
+
+It did not take long for Umbran Arxaeth to recognize that the pirates he found operating in the trade lanes between Iridine and Remath were not unaffiliated rogues. Rather, they were organized by the kingdom of Tuchea, a small nation that had, through its marauding, amassed a sizable ocean empire. The pirate ships were easy enough prey for a warship, but when the ambitious Umbran began to challenge the kingdom's military vessels he found to his dismay that they were manned by members of the White Sharks, an Altene mercenary company. In a short but decisive battle, he lost two of his three ships and the captain of his own. His fleet in tatters, he sailed back to Iridine. Surprisingly, no shame accrued to his name; he explained that the navy had not been properly outfitted or trained by the Senate, and with a proper force could humiliate the Tuchean kingdom. The Senate believed him, and promptly built up a fleet of eighteen ships. Meanwhile, and more importantly, Umbran had contracted members of the White Sharks to train his own men in marine battle tactics. While unable to convince the White Sharks from abandoning their commitments, he was able to hire enough mercenaries to counter the Altene presence on the Tuchean side.
+
+The two countries met again in a decisive battle for the sea. The Seahound was slightly overmatched by his Tuchean counterparts, but through cleverly ramming their flagship with his own was able to prevail. Rather than accepting defeat from the Tuchean king, however, Arxaeth sought to humiliate the aggressors. He destroyed each ship in the Tuchean fleet, stripped the small nation of all its imperial possessions (including, most importantly, the island of Windward) and confined the Tucheans to their own island. Umbran may have even attempted an invasion of Tuchea had it not been for the presence of the Heart of Altene and the king's bodyguards. Though the Altenes had been in Tuchea for only a decade, stories of their intensely militaristic society had already become general knowledge and Umbran thought it wise to let the war finish.
+
+Stories of Arxaeth's heroism and Tuchean cowardice crescendoed when the Senate voted Umbran a tribute for his victories in the first naval war. He sailed into the Harbor with full white sails billowing as half the city watched from the banks of the Sandbar. The Seahound continued his career until being brought into the Senate ten years later; he had no further major military victories, but continued his suppression of piracy.

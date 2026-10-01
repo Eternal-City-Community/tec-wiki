@@ -1,0 +1,13 @@
+# Bio Quintillus Granius
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+**Quintillus Granius, 35**
+
+Oldest of three children born to Marcus Granius, a wealthy but uninfluential senator, Marcus was best known for his escapades in the legio as a tribune during his younger days. Like his father, Quintillus joined the legio as a recruit fairly young and earned the almost unparalleled distinction of being elected to the position of tribune twice in a row. Knowing that seeking a third election to tribune would be utterly unheard of Quintillus turned to the position of Legate instead, serving with distinction among several consuls. His last position was as a legate under Sordo Calsuan in the battle of Monlon. Quintillus was discharged from his position after the battle to deal with his family holdings which had come into some disarray with the passing on of his father.
+
+He is a very ambitious man. Long before he was discharged from the legio he realized that if he was ever to advance further he would have to start playing politics. With the addition of his recent inheritance from his father, Quintillus has begun making his first steps in the political arena of Iridine. He loves the games and sport, and sees these as the chief way to win the people's support, and tends to spend lavishly on them. His support for the Calsuan family is also well known and has recently gained him the position of legate over the constables, a position he hopes to use to gain further advancement for himself.

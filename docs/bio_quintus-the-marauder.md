@@ -1,0 +1,11 @@
+# Bio Quintus The Marauder
+
+[[>]]
+
+> **Migration note:** Wikidot module `Rate` omitted.
+
+[[/>]]
+
+## Quintus the Marauder - 4^^th^^ King of Iridine
+**Quintus the Marauder: (105-136)**
+Quintus, the fourth King of Iridine, was a Cineran warlord whose tribe had long been rivals of the Tulcas. He seized the throne from [bio:King Vetallun](/bio_king-vetallun/) after the [Aestivan](/aestivan-league/) was murdered in a short revolution. Quintus warred incessantly upon the [Parcines](/parcines/) to the south, driving them out of the lowlands and into the mountains. Quintus was in turn assassinated by the supporters of the Tulcas, in 136EK.
