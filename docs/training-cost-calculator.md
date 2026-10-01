@@ -28,8 +28,8 @@ The displayed cost also assumes # is always used in LEARN command. When # is not
 }
 
 .tcc-calculator {
-  max-width: 880px;
-  margin: 1rem auto 1.5rem;
+  max-width: 1180px;
+  margin: 1rem 0 1.5rem;
   --tcc-ink: #322E1E;
   --tcc-olive: #686d37;
   --tcc-olive-dark: #4d5229;
@@ -40,24 +40,30 @@ The displayed cost also assumes # is always used in LEARN command. When # is not
   color: var(--tcc-ink);
 }
 
-table.tcc-layout,
-table.tcc-layout > tbody > tr > td {
-  background: transparent !important;
-  border: 0 !important;
-  box-shadow: none !important;
+.tcc-app {
+  display: grid;
+  grid-template-columns: minmax(220px, 260px) minmax(460px, 1fr) minmax(220px, 300px);
+  gap: 16px;
+  align-items: start;
 }
 
-table.tcc-layout {
-  width: auto !important;
-  max-width: 880px;
-  margin: 0 auto !important;
-  border-collapse: separate;
-  border-spacing: 18px 10px;
+.tcc-panel {
+  background: rgba(243,238,215,.92);
+  border: 1px solid var(--tcc-border);
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0 1px 2px rgba(50,46,30,.12);
 }
 
-table.tcc-layout > tbody > tr:first-child > td {
-  vertical-align: top;
-  white-space: nowrap;
+.tcc-panel h3 {
+  margin: 0 0 10px;
+  font-size: .85rem;
+  color: var(--tcc-olive-dark);
+}
+
+.tcc-options-stack {
+  display: grid;
+  gap: 14px;
 }
 
 table.tcc-inputs,
@@ -68,10 +74,29 @@ table.tcc-sp-cost {
   margin: 0 !important;
 }
 
+table.tcc-inputs,
+table.mod-buttons-table,
+table.tcc-npc-cost,
 table.tcc-sp-cost {
   width: 100%;
-  max-width: 620px;
-  margin: 8px auto 0 !important;
+}
+
+table.tcc-sp-cost {
+  margin-top: 12px !important;
+}
+
+.tcc-notes {
+  font-size: .68rem;
+  line-height: 1.5;
+}
+
+.tcc-notes p {
+  margin: 0 0 8px;
+}
+
+.tcc-notes sup {
+  font-weight: 700;
+  color: var(--tcc-olive-dark);
 }
 
 .tcc-calculator input {
@@ -85,24 +110,27 @@ table.tcc-sp-cost {
   padding: 5px 6px;
 }
 
+@media (max-width: 1050px) {
+  .tcc-app {
+    grid-template-columns: minmax(220px, 260px) 1fr;
+  }
+
+  .tcc-notes-panel {
+    grid-column: 1 / -1;
+  }
+}
+
 @media (max-width: 760px) {
   .tcc-calculator {
     max-width: 100%;
   }
 
-  table.tcc-layout,
-  table.tcc-layout > tbody,
-  table.tcc-layout > tbody > tr,
-  table.tcc-layout > tbody > tr > td {
-    display: block;
-    width: 100% !important;
-    max-width: 100%;
-    box-sizing: border-box;
+  .tcc-app {
+    grid-template-columns: 1fr;
   }
 
-  table.tcc-layout > tbody > tr > td {
-    margin-bottom: 12px;
-    white-space: normal;
+  .tcc-notes-panel {
+    grid-column: auto;
   }
 
   table.tcc-inputs,
@@ -290,13 +318,11 @@ input.mod-buttons-btn {
 
 
 <div class="tcc-calculator">
-<table class="tcc-layout">
-
-
-<tr><td>
-
-
-  <table class="tcc-inputs">
+  <div class="tcc-app">
+    <section class="tcc-panel">
+      <h3>Training Options</h3>
+      <div class="tcc-options-stack">
+        <table class="tcc-inputs">
     <tr>
       <td>
         Current Rank
@@ -314,65 +340,7 @@ input.mod-buttons-btn {
       </td>
     </tr>
   </table>
-
-
-</td><td>
-
-
-  <table class="tcc-npc-cost" >
-    <tr>
-      <th colspan="2">
-        NPC Trainer Cost
-      </th>
-    </tr>
-    <tr>
-      <td style="min-width: 105px;">
-        In Talents
-      </td>
-      <td>
-        <input value="-" id="TextBoxTalents" type="text" tabindex="-1" readonly /> 
-      </td>
-    </tr>
-    <tr>
-      <td>
-        In Denars
-      </td>
-      <td>
-        <input  value="-" id="TextBox10" type="text" tabindex="-1" readonly /> 
-      </td>
-    </tr>
-    <tr>
-      <td>
-        In Sens
-      </td>
-      <td>
-        <input  value="-" id="TextBoxSens" type="text" tabindex="-1" readonly /> 
-      </td>
-    </tr>
-    <tr>
-      <td>
-        In Tokens<sup>&#8224;</sup>
-      </td>
-      <td>
-        <input value="-" id="TextBoxTokens" type="text" tabindex="-1" readonly /> 
-      </td>
-    </tr>
-    <tr>
-      <td>
-        In Armbands <sup>&#8224;</sup>
-      </td>
-      <td>
-        <input value="-" id="TextBoxArmbands" type="text" tabindex="-1" readonly /> 
-      </td>
-    </tr>
-  </table>
-
-
-</td>
-
-<!-- Button Modifiers -->
-<td>
-      <table class="mod-buttons-table" >
+        <table class="mod-buttons-table" >
         <tr>
           <td>
             <label for="SelftrainModButton" style="font-family: arial;">Selftrain: </label><input onclick="selftrainChange()" type="button" id="SelftrainModButton" value="No" class="mod-buttons-btn" />
@@ -430,13 +398,59 @@ input.mod-buttons-btn {
           </td>
          </tr>
         </table>
-</td>
+      </div>
+    </section>
 
-</tr>
-<tr><td style="padding-top:20px;" colspan="3">
-
-
-<table class="tcc-sp-cost" id="sp-cost-table">
+    <section class="tcc-panel">
+      <h3>Training Costs</h3>
+      <table class="tcc-npc-cost" >
+    <tr>
+      <th colspan="2">
+        NPC Trainer Cost
+      </th>
+    </tr>
+    <tr>
+      <td style="min-width: 105px;">
+        In Talents
+      </td>
+      <td>
+        <input value="-" id="TextBoxTalents" type="text" tabindex="-1" readonly /> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        In Denars
+      </td>
+      <td>
+        <input  value="-" id="TextBox10" type="text" tabindex="-1" readonly /> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        In Sens
+      </td>
+      <td>
+        <input  value="-" id="TextBoxSens" type="text" tabindex="-1" readonly /> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        In Tokens<sup>&#8224;</sup>
+      </td>
+      <td>
+        <input value="-" id="TextBoxTokens" type="text" tabindex="-1" readonly /> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        In Armbands <sup>&#8224;</sup>
+      </td>
+      <td>
+        <input value="-" id="TextBoxArmbands" type="text" tabindex="-1" readonly /> 
+      </td>
+    </tr>
+  </table>
+      <table class="tcc-sp-cost" id="sp-cost-table">
   <tr>
     <th colspan="5">
       Skill Point Cost to Train
@@ -840,24 +854,21 @@ input.mod-buttons-btn {
     </td>
   </tr>
   </table>
+    </section>
 
-  
-  </td></tr>
- </table>
-
-
-<br /><br />
-<strong>NOTES</strong>
-<br />
-<sup>&#8224;</sup> <span class="fine-print">If learning 50 or more ranks, token calculation assumes the character will learn 50 ranks at a time, then finish with any remainder.</span><br>
-<sup>&#8225;</sup> <span class="fine-print">Advancing in a skill by selftraining costs double the normal amount of skill points. This only applies to ranks below 1,150. For ranks above 1,150 selftraining is assumed. This penalty is reduced with the <a href="/traits/#SelfTaught" target="_blank">self taught</a> trait.</span><br>
-<sup>&sect;</sup> <span class="fine-print">Healing skills cost an extra 5 skill points per rank, compared to other skills.</span><br />
-<sup>4</sup>      <span class="fine-print">Hide/Sneak trainer costs 10x normal formula.</span><br>
-<sup>5</sup>      <span class="fine-print">PP/setups costs 25% more gold to learn from an NPC trainer.</span><br />
-<sup>6</sup>      <span class="fine-print">Use legacy NPC teacher cost (cost reduced by 1/3).</span>
-<br />
-<sup>7</sup>      <span class="fine-print">Adjust Franlius armband requirements by Region.</span>
-<br /><br />
+    <aside class="tcc-panel tcc-notes-panel">
+      <h3>Notes</h3>
+      <div class="tcc-notes">
+        <p><sup>†</sup> If learning 50 or more ranks, token calculation assumes the character will learn 50 ranks at a time, then finish with any remainder.</p>
+        <p><sup>‡</sup> Advancing in a skill by selftraining costs double the normal amount of skill points. This only applies to ranks below 1,150. For ranks above 1,150 selftraining is assumed. This penalty is reduced with the <a href="/traits/#SelfTaught" target="_blank">self taught</a> trait.</p>
+        <p><sup>§</sup> Healing skills cost an extra 5 skill points per rank compared to other skills.</p>
+        <p><sup>4</sup> Hide/Sneak trainer costs 10× the normal formula.</p>
+        <p><sup>5</sup> PP/Setups costs 25% more gold to learn from an NPC trainer.</p>
+        <p><sup>6</sup> Use legacy NPC teacher cost (cost reduced by 1/3).</p>
+        <p><sup>7</sup> Adjust Franlius armband requirements by region.</p>
+      </div>
+    </aside>
+  </div>
 </div>
 
 <script>
