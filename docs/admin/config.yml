@@ -25,7 +25,41 @@ collections:
     format: frontmatter
     identifier_field: title
     summary: "{{title}}"
-    sortable_fields: ["title"]
+    sortable_fields: ["title", "category", "commit_date"]
+    view_groups:
+      - label: Category
+        field: category
+    view_filters:
+      - label: Character Bios
+        field: category
+        pattern: "^Character Bios$"
+      - label: Skills & Combat
+        field: category
+        pattern: "^Skills & Combat$"
+      - label: World & Maps
+        field: category
+        pattern: "^World & Maps$"
+      - label: Crafting & Trade
+        field: category
+        pattern: "^Crafting & Trade$"
+      - label: Items & Economy
+        field: category
+        pattern: "^Items & Economy$"
+      - label: Guides & Commands
+        field: category
+        pattern: "^Guides & Commands$"
+      - label: Lore & Community
+        field: category
+        pattern: "^Lore & Community$"
+      - label: Wiki & Help
+        field: category
+        pattern: "^Wiki & Help$"
+      - label: Archive
+        field: category
+        pattern: "^Archive$"
+      - label: Reference
+        field: category
+        pattern: "^Reference$"
     slug: "{{slug}}"
     editor:
       preview: true
@@ -35,6 +69,22 @@ collections:
         widget: string
         required: false
         hint: Optional metadata title. The visible page heading can also remain in the body.
+      - label: Category
+        name: category
+        widget: select
+        options:
+          - Character Bios
+          - Skills & Combat
+          - World & Maps
+          - Crafting & Trade
+          - Items & Economy
+          - Guides & Commands
+          - Lore & Community
+          - Wiki & Help
+          - Archive
+          - Reference
+        default: Reference
+        hint: Used only to organize pages in the editor. It does not change the page URL.
       - label: Body
         name: body
         widget: markdown
