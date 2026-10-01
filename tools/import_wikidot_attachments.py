@@ -76,7 +76,17 @@ for md in DOCS.rglob("*.md"):
         filename = unquote(m.group(2)).rstrip("/")
         local = ASSETS / page / filename
         if local.exists():
-            return "/assets/wikidot/" + quote(page, safe="-_") + "/" + quote(filename, safe="-_.~()%")
+            rel = local.relative_to(ASSETS)
+            return "/assets/wikidot/" + "/".join(quote(part, safe="-_.~()%") for part in rel.parts)
+
+        # Wikidot sometimes served a file through a page alias different from
+        # the folder used in the backup. If the filename exists uniquely
+        # elsewhere in the migrated assets, use that copy.
+        matches = [p for p in ASSETS.rglob(filename) if p.is_file()]
+        if len(matches) == 1:
+            rel = matches[0].relative_to(ASSETS)
+            return "/assets/wikidot/" + "/".join(quote(part, safe="-_.~()%") for part in rel.parts)
+
         unresolved_assets.add(f"{page}/{filename}")
         return m.group(0)
     new, n = wdfiles.subn(repl, text)
