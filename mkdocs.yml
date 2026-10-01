@@ -60,3 +60,4 @@ extra_javascript:
   - javascripts/tec-rank-bonus.js
   - javascripts/tec-money-calculator.js
   - javascripts/tec-national-lores.js
+  - javascripts/tec-stats.js
