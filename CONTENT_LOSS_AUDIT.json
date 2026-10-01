@@ -1,7 +1,7 @@
 {
   "base_commit": "be39d0ef1e85bae444464ce11f2f19e46e7f9258",
   "pages_compared": 854,
-  "flagged_pages": 97,
+  "flagged_pages": 96,
   "pages": [
     {
       "path": "docs/praetor-guide.md",
@@ -204,39 +204,6 @@
       "current_anchors": 20,
       "missing_anchors": [
         "RolePointPurchases | RolePoint Purchases"
-      ]
-    },
-    {
-      "path": "docs/avros-one-handed-swords.md",
-      "old_len": 12432,
-      "current_len": 5698,
-      "shrink_pct": 54.2,
-      "old_headings": 14,
-      "current_headings": 5,
-      "missing_headings": [
-        "Avros Dueling Stance  *duel*",
-        "Avros Rapid Strike  *rstrike <target>*",
-        "Avros Forced Thrust  *fthrust <target>*",
-        "Avros Needle Strike  *needlestrike <target>*",
-        "Avros Stab and Slash  *sslash <target>*",
-        "Avros Whirling Strike  *whirl <target>*",
-        "Avros Pivot Lunge  *pivot <target>*",
-        "Avros Flailing Defense  *distract <target>*",
-        "Avros Flinging Disarm  *fling <gladius>*",
-        "Avros Sunrise Block"
-      ],
-      "old_anchors": 11,
-      "current_anchors": 2,
-      "missing_anchors": [
-        "Dueling",
-        "Rapid",
-        "Forced",
-        "Needle",
-        "Stab",
-        "Whirling",
-        "Pivot",
-        "Flailing",
-        "Flinging"
       ]
     },
     {
@@ -652,25 +619,6 @@
       "missing_anchors": []
     },
     {
-      "path": "docs/account.md",
-      "old_len": 18039,
-      "current_len": 17482,
-      "shrink_pct": 3.1,
-      "old_headings": 9,
-      "current_headings": 15,
-      "missing_headings": [
-        "[#](#AccountSub)Account Subscriptions",
-        "[#](#RolePoints)Role Points (RPs)",
-        "[#](#Storypoints)StoryPoints (StPs)",
-        "[#](#Perks)Perks"
-      ],
-      "old_anchors": 10,
-      "current_anchors": 10,
-      "missing_anchors": [
-        "requests-property"
-      ]
-    },
-    {
       "path": "docs/flora-fauna.md",
       "old_len": 23401,
       "current_len": 23362,
@@ -720,6 +668,23 @@
       ],
       "old_anchors": 12,
       "current_anchors": 12,
+      "missing_anchors": []
+    },
+    {
+      "path": "docs/account.md",
+      "old_len": 18039,
+      "current_len": 17514,
+      "shrink_pct": 2.9,
+      "old_headings": 9,
+      "current_headings": 15,
+      "missing_headings": [
+        "[#](#AccountSub)Account Subscriptions",
+        "[#](#RolePoints)Role Points (RPs)",
+        "[#](#Storypoints)StoryPoints (StPs)",
+        "[#](#Perks)Perks"
+      ],
+      "old_anchors": 10,
+      "current_anchors": 11,
       "missing_anchors": []
     },
     {
@@ -854,22 +819,6 @@
       "old_anchors": 0,
       "current_anchors": 0,
       "missing_anchors": []
-    },
-    {
-      "path": "docs/leather-working.md",
-      "old_len": 14568,
-      "current_len": 12910,
-      "shrink_pct": 11.4,
-      "old_headings": 19,
-      "current_headings": 18,
-      "missing_headings": [
-        "Layout Leather  *TBD*"
-      ],
-      "old_anchors": 15,
-      "current_anchors": 14,
-      "missing_anchors": [
-        "Layout-Leather"
-      ]
     },
     {
       "path": "docs/republic-of-iridine.md",
@@ -1263,6 +1212,20 @@
       ],
       "old_anchors": 1,
       "current_anchors": 1,
+      "missing_anchors": []
+    },
+    {
+      "path": "docs/avros-one-handed-swords.md",
+      "old_len": 12432,
+      "current_len": 12585,
+      "shrink_pct": -1.2,
+      "old_headings": 14,
+      "current_headings": 14,
+      "missing_headings": [
+        "Avros Sunrise Block"
+      ],
+      "old_anchors": 11,
+      "current_anchors": 11,
       "missing_anchors": []
     },
     {

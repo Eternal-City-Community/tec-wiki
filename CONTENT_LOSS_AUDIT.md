@@ -3,7 +3,7 @@
 Baseline: be39d0ef1e85bae444464ce11f2f19e46e7f9258 (initial Wikidot import)
 
 - Pages compared: **854**
-- Flagged pages: **97**
+- Flagged pages: **96**
 
 Flagged when headings or legacy anchors disappeared, or the page shrank by at least 15%.
 
@@ -39,13 +39,6 @@ Flagged when headings or legacy anchors disappeared, or the page shrank by at le
 - Missing headings: [#](#Agility)Agility | [#](#Appearance)Appearance | [#](#Charisma)Charisma | [#](#Dexterity)Dexterity | [#](#Empathy)Empathy | [#](#Endurance)Endurance | [#](#Judgement)Judgement | [#](#Memory)Memory | [#](#Perception)Perception | [#](#Reasoning)Reasoning | [#](#Speed)Speed | [#](#Strength)Strength | [#](#Willpower)Willpower | [#](#trainingcourses)The Training Courses | Location: [Vetallun](/vetallun/) | [#](#numerics)Numeric Equivalents | [#](#improvingattributes)Improving Attributes | [#](#naturalatt)Natural Attribute Increases | [#](#temporarymods)Temporary Modifiers
 - Legacy anchors: 21 -> 20
 - Missing anchors: RolePointPurchases | RolePoint Purchases
-
-### docs/avros-one-handed-swords.md
-- Size: 12432 -> 5698 (54.2% shrink)
-- Headings: 14 -> 5
-- Missing headings: Avros Dueling Stance  *duel* | Avros Rapid Strike  *rstrike <target>* | Avros Forced Thrust  *fthrust <target>* | Avros Needle Strike  *needlestrike <target>* | Avros Stab and Slash  *sslash <target>* | Avros Whirling Strike  *whirl <target>* | Avros Pivot Lunge  *pivot <target>* | Avros Flailing Defense  *distract <target>* | Avros Flinging Disarm  *fling <gladius>* | Avros Sunrise Block
-- Legacy anchors: 11 -> 2
-- Missing anchors: Dueling, Rapid, Forced, Needle, Stab, Whirling, Pivot, Flailing, Flinging
 
 ### docs/jewelry-guide.md
 - Size: 17457 -> 17497 (-0.2% shrink)
@@ -155,13 +148,6 @@ Flagged when headings or legacy anchors disappeared, or the page shrank by at le
 - Missing headings: [#](#Aziri) The Aziri Tribe | [#](#Lokeen) The Lokeen Tribe | [#](#Nehal) The Nehal Tribe | [#](#Resting-Place)The Resting Place | [#](#Burial-Grounds)The Burial Grounds | [#](#Broken-Tower)Broken Tower
 - Legacy anchors: 8 -> 8
 
-### docs/account.md
-- Size: 18039 -> 17482 (3.1% shrink)
-- Headings: 9 -> 15
-- Missing headings: [#](#AccountSub)Account Subscriptions | [#](#RolePoints)Role Points (RPs) | [#](#Storypoints)StoryPoints (StPs) | [#](#Perks)Perks
-- Legacy anchors: 10 -> 10
-- Missing anchors: requests-property
-
 ### docs/flora-fauna.md
 - Size: 23401 -> 23362 (0.2% shrink)
 - Headings: 6 -> 154
@@ -179,6 +165,12 @@ Flagged when headings or legacy anchors disappeared, or the page shrank by at le
 - Headings: 18 -> 16
 - Missing headings: Lemon Juice @<&#124;>@ Yellow fruit with a thick peel  2 | Rose Incense @<&#124;>@ Blossoming red flower 20 | Craft Vessel  *craft [jar@<&#124;>@flask@<&#124;>@bottle@<&#124;>@vial] [from@<&#124;>@with] <clay>* | Volume Estimation  *estimate <liquid@<&#124;>@powder@<&#124;>@container>*
 - Legacy anchors: 12 -> 12
+
+### docs/account.md
+- Size: 18039 -> 17514 (2.9% shrink)
+- Headings: 9 -> 15
+- Missing headings: [#](#AccountSub)Account Subscriptions | [#](#RolePoints)Role Points (RPs) | [#](#Storypoints)StoryPoints (StPs) | [#](#Perks)Perks
+- Legacy anchors: 10 -> 11
 
 ### docs/property.md
 - Size: 4468 -> 4428 (0.9% shrink)
@@ -227,13 +219,6 @@ Flagged when headings or legacy anchors disappeared, or the page shrank by at le
 - Headings: 2 -> 1
 - Missing headings: Search Site | Search The Eternal City Wiki
 - Legacy anchors: 0 -> 0
-
-### docs/leather-working.md
-- Size: 14568 -> 12910 (11.4% shrink)
-- Headings: 19 -> 18
-- Missing headings: Layout Leather  *TBD*
-- Legacy anchors: 15 -> 14
-- Missing anchors: Layout-Leather
 
 ### docs/republic-of-iridine.md
 - Size: 8539 -> 8519 (0.2% shrink)
@@ -402,6 +387,12 @@ Flagged when headings or legacy anchors disappeared, or the page shrank by at le
 - Headings: 17 -> 17
 - Missing headings: [#](#Weapons)Weapons
 - Legacy anchors: 1 -> 1
+
+### docs/avros-one-handed-swords.md
+- Size: 12432 -> 12585 (-1.2% shrink)
+- Headings: 14 -> 14
+- Missing headings: Avros Sunrise Block
+- Legacy anchors: 11 -> 11
 
 ### docs/bio_king-vetallun.md
 - Size: 420 -> 425 (-1.2% shrink)
