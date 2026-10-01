@@ -1,8 +1,7 @@
 ---
-title: "Shops"
-category: "Items & Economy"
+title: Shops
+category: Items & Economy
 ---
-
 # Shops
 
 There are many shops, bars, armories, and other vendors throughout Midlight, each offering a unique stock of items. This page attempts to chronicle those items for the discerning shopper.
@@ -13,4 +12,4 @@ You can search by item or shopkeeper name.
 
 **Note on *Franlius* Shopkeepers:** The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
-<div id="tec-shops-app" aria-label="Shop search"><div class="tec-shops-loading">Loading shop inventories…</div></div>\n\n<script src="/javascripts/tec-shops.js"></script>
+<div id="tec-shops-app" aria-label="Shop search"><div class="tec-shops-loading">Loading shop inventories…</div></div><script src="/javascripts/tec-shops.js"></script>
