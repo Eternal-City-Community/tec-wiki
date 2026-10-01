@@ -35,99 +35,99 @@ The art of tailoring has been around since ancient times, when the primitive peo
 <summary>+ Show Tailoring Recipes</summary>
 
 
-|  | Tailoring Recipes |  |  |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Recipes | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |  |  |
-| Apron Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Apron Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Apron Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Basic Tunic Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Blanket Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Blanket Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Breeches Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Breeches Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Breeches Front Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| Cape Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Cape Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Cape Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Chiton Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Chiton Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Chiton Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Chiton Strap Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Cloak Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Cloak Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Cloak Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Fingerless Gloves Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| --Fillet Recipe--*(removed)* | --Easy-- | - | - | - | - | - | - | - |  |  |
-| Gloves Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Gloves Back Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Gloves Front Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Hair Ribbon Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-|     Hair Ribbon Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| Hat Recipe | Average | 25 | - | 25 | - | - | - | - |  |  |
-|     Hat Brim Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| Headband Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-|     Headband Length Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| Headscarf Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-|     Headscarf Length | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| Loincloth Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Loincloth Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Loincloth Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Neckpouch Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| Paenula Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Paenula Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Paenula Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Pants Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Pants Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Pants Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Pouch Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Pouch Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Sack Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Sack Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Sash Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Sash Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Scarf Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Scarf Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Shirt Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Shirt Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Shirt Front Recipe | Average | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Shirt Sleeve Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |  |  |
-| Simple Belt Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-|     Belt Length Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| Simple Cap Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-|     Cap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| Simple Robe Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-|     Simple Robe Back Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-|     Simple Robe Front Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| Skullcap Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-|     Skullcap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |  |  |
-| Sleeveless Tunic Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| Slippers Recipe | Average | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Slippers Sole Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Slippers Upper Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |  |  |
-| Socks Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Sock Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Sock Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Stola Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Stola Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Stola Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Stola Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Strophium Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Strophium Length Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| Subligar Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Subligar Length Recipe | easy | 25 | - | 25 | - | - | - | 25 |  |  |
-| Toga Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Toga Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Towel Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-|     Towel Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |  |  |
-| Tunica Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
-|     Tunic Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Tunic Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Tunic Sleeve Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Vest Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Vest Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-|     Vest Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |  |  |
-| Waist Sash Recipe | Easy | 25 | - | 25 | - | - | - | 25 |  |  |
+| Tailoring Recipes |  |  |  |  |  |  |  | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Recipes | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |
+| Apron Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Apron Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Apron Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Basic Tunic Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Blanket Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Blanket Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Breeches Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Breeches Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Breeches Front Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Cape Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Cape Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Cape Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Chiton Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Chiton Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Chiton Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Chiton Strap Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Cloak Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Cloak Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Cloak Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Fingerless Gloves Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| --Fillet Recipe--*(removed)* | --Easy-- | - | - | - | - | - | - | - |
+| Gloves Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |
+| Gloves Back Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Gloves Front Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Hair Ribbon Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Hair Ribbon Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Hat Recipe | Average | 25 | - | 25 | - | - | - | - |
+| Hat Brim Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Headband Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Headband Length Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Headscarf Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Headscarf Length | Easy | 25 | - | 25 | - | - | - | - |
+| Loincloth Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Loincloth Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Loincloth Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Neckpouch Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Paenula Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Paenula Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Paenula Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Pants Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Pants Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Pants Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Pouch Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Pouch Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Sack Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Sack Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Sash Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Sash Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Scarf Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Scarf Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Shirt Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Shirt Back Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Shirt Front Recipe | Average | 25 | - | 25 | - | - | - | 25 |
+| Shirt Sleeve Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |
+| Simple Belt Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Belt Length Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Simple Cap Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Cap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Simple Robe Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Simple Robe Back Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Simple Robe Front Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Skullcap Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Skullcap Square Recipe | Easy | 25 | - | 25 | - | - | - | - |
+| Sleeveless Tunic Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Slippers Recipe | Average | 25 | - | 25 | - | - | - | 25 |
+| Slippers Sole Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Slippers Upper Recipe | Difficult | 25 | - | 25 | - | - | - | 25 |
+| Socks Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Sock Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Sock Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Stola Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Stola Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Stola Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Stola Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Strophium Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Strophium Length Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Subligar Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Subligar Length Recipe | easy | 25 | - | 25 | - | - | - | 25 |
+| Toga Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
+| Toga Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Towel Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Towel Length Recipe | Easy | 25 | - | 25 | 25 | - | - | - |
+| Tunica Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
+| Tunic Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Tunic Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Tunic Sleeve Recipe | Difficult | 25 | - | 25 | 25 | - | - | 25 |
+| Vest Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Vest Back Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Vest Front Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
+| Waist Sash Recipe | Easy | 25 | - | 25 | - | - | - | 25 |
 
 
 </details>
