@@ -9,7 +9,7 @@ category: "Lore & Community"
 Below are a list of all major game announcements:
 
 
-> **Archive note:** Wikidot module listpages was not portable and has been omitted.
+> **Restoration note:** The old wiki populated this announcement index dynamically. The static announcement list still needs to be reconstructed from the archived Wikidot source.
 
 
 <a id="promos"></a>
