@@ -67,6 +67,15 @@ wikidot = re.compile(r"\]\(https?://eternal-city\.wikidot\.com/([^#?)]+)([^)]*)\
 for p in DOCS.glob("*.md"):
     text = p.read_text(encoding="utf-8", errors="replace")
 
+    # Earlier migration passes may have prepended a Wikidot/WDFiles hostname
+    # to an already-local /assets/wikidot/ path. Normalize those first.
+    text = re.sub(
+        r"https?://eternal-city\.(?:wdfiles|wikidot)\.com/assets/wikidot/",
+        "/assets/wikidot/",
+        text,
+        flags=re.I,
+    )
+
     text, n = pseudo_include.subn("", text)
     stats["pseudo_includes"] += n
 
@@ -82,7 +91,7 @@ for p in DOCS.glob("*.md"):
 
     # Also rewrite bare same-site Wikidot URLs found inside HTML or legacy text
     # when the referenced page exists in the migrated corpus.
-    bare_wikidot = re.compile(r"https?://eternal-city\\.wikidot\\.com/([A-Za-z0-9:_-]+)(#[A-Za-z0-9_.:-]+)?", re.I)
+    bare_wikidot = re.compile(r"https?://eternal-city\.wikidot\.com/([A-Za-z0-9:_-]+)(#[A-Za-z0-9_.:-]+)?", re.I)
     def bare_local(m):
         target = m.group(1).replace(":", "_").lower()
         target = ALIASES.get(target, target)
