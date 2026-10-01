@@ -19,11 +19,6 @@ The City of Iridine is only the capital of a swiftly-growing nation. There are d
 [Visit the Map Page](/iridine/)
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/irdine-master.png)](/assets/wikidot/files/irdine-master.png)
 
 

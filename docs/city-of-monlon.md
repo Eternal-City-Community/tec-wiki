@@ -32,11 +32,6 @@ The current interim governor is **Paprius Aketoros**, who was appointed after th
 [Visit the Map Page](/monlon/)
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/Monlon_2022-11-25.png)](/assets/wikidot/files/Monlon_2022-11-25.png)
 
 
