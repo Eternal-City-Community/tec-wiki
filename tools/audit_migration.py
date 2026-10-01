@@ -18,6 +18,7 @@ for rel in files:
         slugs.add(rel[:-3])
 
 counts = Counter()
+syntax_pages = {"wikidot_table": [], "wikidot_heading": [], "wikidot_escape": [], "wikidot_markup": [], "wdfiles": []}
 broken = set()
 migration_pages = []
 wikidot_links = []
@@ -32,6 +33,16 @@ for rel, path in files.items():
     counts["migration_note"] += text.count('Migration note')
     if "eternal-city.wikidot.com" in text:
         wikidot_links.append(rel)
+    checks = {
+        "wikidot_table": r"\|\|",
+        "wikidot_heading": r"^\+{1,6}\*?\s",
+        "wikidot_escape": r"@@",
+        "wikidot_markup": r"\[\[(?!/?(?:details|summary))",
+        "wdfiles": r"eternal-city\.wdfiles\.com",
+    }
+    for key, pat in checks.items():
+        if re.search(pat, text, re.M):
+            syntax_pages[key].append(rel)
 
     for href in link_re.findall(text):
         href = href.strip()
@@ -55,6 +66,11 @@ lines = [
     f"- Other migration-note markers: **{counts['migration_note']}**",
     f"- Pages still containing direct eternal-city.wikidot.com links: **{len(set(wikidot_links))}**",
     f"- Unique unresolved internal links: **{len(broken)}**",
+    f"- Pages still using WDFiles assets: **{len(set(syntax_pages['wdfiles']))}**",
+    f"- Pages with leftover Wikidot table syntax: **{len(set(syntax_pages['wikidot_table']))}**",
+    f"- Pages with leftover Wikidot heading syntax: **{len(set(syntax_pages['wikidot_heading']))}**",
+    f"- Pages with leftover Wikidot escape markers: **{len(set(syntax_pages['wikidot_escape']))}**",
+    f"- Pages with leftover Wikidot markup blocks: **{len(set(syntax_pages['wikidot_markup']))}**",
     "",
 ]
 if broken:
@@ -72,3 +88,5 @@ if migration_pages:
 
 REPORT.write_text("\n".join(lines), encoding="utf-8")
 print("\n".join(lines[:12]))
+
+
