@@ -2460,3 +2460,15 @@ html, body {
     z-index: 1002;
   }
 }
+
+
+/* Material search is an overlay; do not let its expanded results affect
+   the measured masthead + TEC-nav stack. */
+.md-header .md-search__output {
+  position: absolute;
+}
+
+body:has([data-md-toggle="search"]:checked) .tec-topnav {
+  visibility: hidden;
+  pointer-events: none;
+}
