@@ -62,3 +62,4 @@ extra_javascript:
   - javascripts/tec-national-lores.js
   - javascripts/tec-stats.js
   - javascripts/tec-shops.js
+  - javascripts/tec-tables.js
