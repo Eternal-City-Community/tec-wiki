@@ -9,20 +9,20 @@ category: "Reference"
 
 ### Table of Contents
 
-* [How to Create A Macro](#how-to-create-a-macro)
- * [What is a Macro](#what-is-a-macro)
- * [The Macro Menu](#the-macro-menu)
-* [The Essentials](#the-essentials)
- * [Targeting Macros](#targeting-macros)
- * [Movement Macros](#movement-macros)
- * [Theft Macros](#theft-macros)
-* [Random But Useful Macros](#random-but-useful-macros)
-* [Closing Notes](#closing-notes)
+* [How to Create A Macro](#Intro)
+ * [What is a Macro](#Whatis)
+ * [The Macro Menu](#Menu)
+* [The Essentials](#Essentials)
+ * [Targeting Macros](#Targeting)
+ * [Movement Macros](#Movement)
+ * [Theft Macros](#Theft)
+* [Random But Useful Macros](#Random)
+* [Closing Notes](#Conclusion)
 
 <a id="Intro"></a>
 ### How to Create a Macro
 
-First, for those of us that aren't all that familiar with macros in TEC or how they work, I felt a quick and broad overview of how to create and use macros would be very beneficial. For those of you that know your way around the macro system, feel free to skip on down to [The Essentials](#the-essentials).
+First, for those of us that aren't all that familiar with macros in TEC or how they work, I felt a quick and broad overview of how to create and use macros would be very beneficial. For those of you that know your way around the macro system, feel free to skip on down to [The Essentials](#Essentials).
 
 <a id="Whatis"></a>
 #### What is a Macro
@@ -234,7 +234,7 @@ By now, you should have a relatively decent grasp for how to navigate the macro 
 
 Proper use of macros will make your life in TEC a thousand times easier, and save your wrists some wear and tear from typing. I highly recommend playing around with the system and learning all of the ins and outs on how to use it. One final word on macros, they're very useful for making RP specific 'tics' for your character, such as an eyetwitch or a limp or any other sort of depth you may want to add to them. Try it out and breathe some new life into your roleplaying with some interesting macroed emotes.
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ---
 <a id="Essentials"></a>
@@ -310,7 +310,7 @@ Now for the really fun ones - stealing stuff! After all, the thrill of that next
 
 Unfortunately, there is no easy macro for grabbing items since the items to be grabbed are far too varied to make one macro for. If you thought the slice one was bad, that one would be a mile long by comparison.
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ---
 <a id="Random"></a>
@@ -342,7 +342,7 @@ Scared a thief might be lurking outside your inn room, just waiting to yank that
 
 It's okay to be paranoid, really. You are a thief after all. You know what it's like out there man!
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ---
 <a id="Conclusion"></a>

@@ -21,31 +21,31 @@ The falcata is a versatile weapon that could be used for both hacking and thrust
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Sataria | Sphara |
 | *<u>Falcata Sword Fighting</u>* | Easy | - | - | - | - | 200 | 500 |
-| [Falcata Striker's Stance](#falcata-strikers-stance-strikerstance) | Easy | Either | - | - | - | 100 | 500 |
+| [Falcata Striker's Stance](#strikerstance) | Easy | Either | - | - | - | 100 | 500 |
 | [Falcata Slash](#slash) | Easy | Either | Short | Cut | - | 200 | 500 |
-| [Falcata Chop](#falcata-chop-chop) | Easy | Either | Short | Cut | - | 200 | 500 |
+| [Falcata Chop](#chop) | Easy | Either | Short | Cut | - | 200 | 500 |
 | [Falcata Stab](#stab) | Easy | Either | Short | Pierce | - | 200 | 500 |
-| [Falcata Tang Strike](#falcata-tang-strike-strike) | Easy | Either | Short | Bruise | - | 200 | 500 |
-| [Falcata Mugger Hold](#falcata-mugger-hold-mug) | Easy | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
-| [Falcata Cross Strike](#falcata-cross-strike-cstrike) | Average | Either | Short | Bruise | - | 200 | 500 |
-| [Falcata Lunge](#falcata-lunge-lunge) | Average | Either | Long | Pierce | - | 200 | 500 |
-| [Falcata Feint](#falcata-feint-feint) | Average | Either | Short | - | - | 200 | 500 |
-| [Falcata Leg Strike](#falcata-leg-strike-legstrike) | Average | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
-| [Falcata Wide Strike](#falcata-wide-strike-wstrike) | Average | Either | Short | Pierce | [Falcata Striker's Stance](#falcata-strikers-stance-strikerstance) | 200 | 500 |
-| [Falcata Smash and Slash](#falcata-smash-and-slash-smash) | Average | 1 | Short | Bruise<br><br>Cut | Wielded **Shield** | 200 | 500 |
-| [Falcata Guarded Charge](#falcata-guarded-charge-charge) | Average | 1 | Long | Pierce | Wielded **Shield**<br><br>20 Ranks in [Falcata Lunge](#falcata-lunge-lunge) | 200 | 500 |
-| [Falcata Triple Strike](#falcata-triple-strike-tstrike) | Average | Either | Short | Cut<br><br>Cut<br><br>Pierce | *No Shield*<br><br>[Falcata Striker's Stance](#falcata-strikers-stance-strikerstance)<br><br>10 Ranks in [Falcata Chop](#falcata-chop-chop)<br><br>10 ranks in [Falcata Slash](#slash)<br><br>10 ranks in [Falcata Stab](#stab) | 200 | 500 |
-| [Falcata Heavy Slash](#falcata-heavy-slash-hslash) | Average | Either | Short | Cut | [Falcata Striker's Stance](#falcata-strikers-stance-strikerstance)<br><br>30 Ranks in [Falcata Slash](#slash) | 200 | 500 |
-| [Falcata Sudden Stab](#falcata-sudden-stab-sustab) | Average | Either | Either | Pierce | 40 Ranks in *[# Falcata]* | 200 | 500 |
-| [Falcata Tumble Slash](#falcata-tumble-slash-tslash) | Difficult | Either | Long | Cut | *No Shield*<br><br>[Falcata Striker's Stance](#falcata-strikers-stance-strikerstance)<br><br>20 Ranks in [Falcata Lunge](#falcata-lunge-lunge) | 200 | 500 |
-| [Falcata Feigning Thrust](#falcata-feigning-thrust-fthrust) | Difficult | Either | Short | - | [Falcata Striker's Stance](#falcata-strikers-stance-strikerstance)<br><br>20 Ranks in [Falcata Feint](#falcata-feint-feint) | 200 | 500 |
-| [Falcata Simple Block](#falcata-simple-block-na) | Easy | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Wrist Block](#falcata-wrist-block-na) | Easy | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Overhead Block](#falcata-overhead-block-na) | Average | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Round Block](#falcata-round-block-na) | Average | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Low Block](#falcata-low-block-na) | Difficult | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Accuracy](#falcata-accuracy-na) | Difficult | - | - | - | - | 100 | 175 |
-| [Falcata Grip](#falcata-grip-na) | Impossible | - | - | - | - | 100 | 175 |
+| [Falcata Tang Strike](#strike) | Easy | Either | Short | Bruise | - | 200 | 500 |
+| [Falcata Mugger Hold](#mug) | Easy | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
+| [Falcata Cross Strike](#cstrike) | Average | Either | Short | Bruise | - | 200 | 500 |
+| [Falcata Lunge](#lunge) | Average | Either | Long | Pierce | - | 200 | 500 |
+| [Falcata Feint](#feint) | Average | Either | Short | - | - | 200 | 500 |
+| [Falcata Leg Strike](#legstrike) | Average | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
+| [Falcata Wide Strike](#wstrike) | Average | Either | Short | Pierce | [Falcata Striker's Stance](#stance) | 200 | 500 |
+| [Falcata Smash and Slash](#smash) | Average | 1 | Short | Bruise<br><br>Cut | Wielded **Shield** | 200 | 500 |
+| [Falcata Guarded Charge](#charge) | Average | 1 | Long | Pierce | Wielded **Shield**<br><br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
+| [Falcata Triple Strike](#tstrike) | Average | Either | Short | Cut<br><br>Cut<br><br>Pierce | *No Shield*<br><br>[Falcata Striker's Stance](#stance)<br><br>10 Ranks in [Falcata Chop](#chop)<br><br>10 ranks in [Falcata Slash](#slash)<br><br>10 ranks in [Falcata Stab](#stab) | 200 | 500 |
+| [Falcata Heavy Slash](#hslash) | Average | Either | Short | Cut | [Falcata Striker's Stance](#stance)<br><br>30 Ranks in [Falcata Slash](#slash) | 200 | 500 |
+| [Falcata Sudden Stab](#sustab) | Average | Either | Either | Pierce | 40 Ranks in *[# Falcata]* | 200 | 500 |
+| [Falcata Tumble Slash](#tslash) | Difficult | Either | Long | Cut | *No Shield*<br><br>[Falcata Striker's Stance](#stance)<br><br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
+| [Falcata Feigning Thrust](#fthrust) | Difficult | Either | Short | - | [Falcata Striker's Stance](#stance)<br><br>20 Ranks in [Falcata Feint](#feint) | 200 | 500 |
+| [Falcata Simple Block](#simple-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
+| [Falcata Wrist Block](#wrist-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
+| [Falcata Overhead Block](#overhead-block) | Average | Either | - | - | *No Shield* | 200 | 500 |
+| [Falcata Round Block](#round-block) | Average | Either | - | - | *No Shield* | 200 | 500 |
+| [Falcata Low Block](#low-block) | Difficult | Either | - | - | *No Shield* | 200 | 500 |
+| [Falcata Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
+| [Falcata Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
 
 **Directions to Sataria** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Sphara** ([Kelestian Outpost](/monlon-ravines/)): Find Sphara in the Kelestian outputs in the Monlon ravines.
@@ -473,7 +473,7 @@ You swiftly lower your tin falcata and sweep outward, blocking a woman in a hood
 
 ### Falcata Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -482,6 +482,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Falcata Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

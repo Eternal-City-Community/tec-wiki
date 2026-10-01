@@ -16,34 +16,34 @@ Basic familiarity with the short whip means that the wielder won't take out her 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **Prestis |
 | *<u>Short Whip</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
-| [Whip Fast Coil Stance](#whip-fast-coil-stance-fastcoil) | Easy | 1 | - | - | - | 100 | 100 | 154 |
-| [Whip Sky Circle Stance](#whip-sky-circle-stance-scircle) | Easy | 1 | - | - | - | 100 | 100 | 154 |
-| [Whip Triple Crack](#whip-fast-coil-stance-fastcoil) | Average | 1 | Long | - | - | 100 | 175 | 154 |
-| [Whip Precise Snap](#whip-precise-snap-psnap) | Difficult | 1 | Either | Cut | 20 Ranks in [Simple Strike](#whip-lykatos-scourge-scourge) | 300 | 500 | 154 |
-| [Whip Simple Strike](#whip-lykatos-scourge-scourge) | Easy | 1 | Either | Cut | - | 300 | 500 | 154 |
-| [Whip Forward Snap](#whip-forward-snap-fsnap) | Average | 1 | Either | Cut | - | 300 | 500 | - |
-| [Whip Ankle Trap](#whip-lykatos-scourge-scourge) | Average | 1 | Short | - | - | 300 | 500 | 154 |
-| [Whip Neck Trap](#whip-neck-trap-neck-yank) | Difficult | 1 | Short | - | - | 300 | 500 | 154 |
-| [Whip Slow Entangle](#whip-precise-snap-psnap) | Average | 1 | Short | - | - | 300 | 500 | 154 |
-| [Whip Short Entangle](#whip-short-entangle-short-yank) | Difficult | 1 | Long | - | 20 Ranks in [Slow Entangle](#whip-precise-snap-psnap) | 300 | 500 | 154 |
-| [Whip Face Strike](#whip-forward-snap-fsnap) | Average | 1 | Long | Cut | 20 Ranks in [Simple Strike](#whip-lykatos-scourge-scourge) | 300 | 500 | 154 |
-| [Whip Waist Trap](#whip-waist-trap-waist-yank) | Average | 1 | Short | - | - | 300 | 500 | 154 |
-| [Whip Lykatos' Scourge](#whip-lykatos-scourge-scourge) | Average | 1 | Either | Cut<br><br>Cut<br><br>Cut | 20 Ranks in [Simple Strike](#whip-lykatos-scourge-scourge)<br><br>20 Ranks in [Triple Crack](#whip-fast-coil-stance-fastcoil) | 300 | 500 | 154 |
-| [Whip Flick Strike](#whip-flick-strike-flick) | Average | 1 | Either | Cut | 20 Ranks in [Simple Strike](#whip-lykatos-scourge-scourge) | 300 | 500 | 154 |
-| [Whip Sky Circle Slash](#whip-sky-circle-scourge-scscourge) | Average | 1 | Either | Cut | [Sky Circle Stance](#whip-sky-circle-stance-scircle) | 300 | 500 | 154 |
-| [Whip Sky Circle Rake](#whip-sky-circle-rake-crake) | Difficult | 1 | Short | Cut<br><br>Cut | [Sky Circle Stance](#whip-sky-circle-stance-scircle)<br><br>20 Ranks in [Sky Circle Slash](#whip-sky-circle-scourge-scscourge) | 300 | 500 | 154 |
-| [Whip Sky Circle Scourge](#whip-sky-circle-scourge-scscourge) | Difficult | 1 | Either | Cut<br><br>Cut<br><br>Cut | [Sky Circle Stance](#whip-sky-circle-stance-scircle)<br><br>40 Ranks in [Sky Circle Slash](#whip-sky-circle-scourge-scscourge)<br><br>40 Ranks in [Sky Circle Rake](#whip-sky-circle-rake-crake) | 300 | 500 | 154 |
-| [Whip Coil Block](#whip-coil-block) | Average | - | - | - | [Whip Fast Coil Stance](#whip-fast-coil-stance-fastcoil) | 300 | 500 | 154 |
-| [Whip Flogging the Bull](#whip-flogging-the-bull-feint) | Average | 1 | Either | - | 40 Ranks in [Simple Strike](#whip-lykatos-scourge-scourge)<br><br>40 Ranks in [Precise Snap](#whip-precise-snap-psnap) | 300 | 500 | 154 |
-| [Whip Accuracy](#whip-accuracy) | Difficult | - | - | - | - | 100 | 100 | 154 |
-| [Whip Grip](#whip-grip) | Impossible | - | - | - | - | 100 | 100 | 154 |
+| [Whip Fast Coil Stance](#FCstance) | Easy | 1 | - | - | - | 100 | 100 | 154 |
+| [Whip Sky Circle Stance](#SC) | Easy | 1 | - | - | - | 100 | 100 | 154 |
+| [Whip Triple Crack](#TC) | Average | 1 | Long | - | - | 100 | 175 | 154 |
+| [Whip Precise Snap](#PS) | Difficult | 1 | Either | Cut | 20 Ranks in [Simple Strike](#SS) | 300 | 500 | 154 |
+| [Whip Simple Strike](#SS) | Easy | 1 | Either | Cut | - | 300 | 500 | 154 |
+| [Whip Forward Snap](#FSnap) | Average | 1 | Either | Cut | - | 300 | 500 | - |
+| [Whip Ankle Trap](#AT) | Average | 1 | Short | - | - | 300 | 500 | 154 |
+| [Whip Neck Trap](#NT) | Difficult | 1 | Short | - | - | 300 | 500 | 154 |
+| [Whip Slow Entangle](#SE) | Average | 1 | Short | - | - | 300 | 500 | 154 |
+| [Whip Short Entangle](#ShortE) | Difficult | 1 | Long | - | 20 Ranks in [Slow Entangle](#SE) | 300 | 500 | 154 |
+| [Whip Face Strike](#FS) | Average | 1 | Long | Cut | 20 Ranks in [Simple Strike](#SS) | 300 | 500 | 154 |
+| [Whip Waist Trap](#WT) | Average | 1 | Short | - | - | 300 | 500 | 154 |
+| [Whip Lykatos' Scourge](#LS) | Average | 1 | Either | Cut<br><br>Cut<br><br>Cut | 20 Ranks in [Simple Strike](#SS)<br><br>20 Ranks in [Triple Crack](#TC) | 300 | 500 | 154 |
+| [Whip Flick Strike](#FlickS) | Average | 1 | Either | Cut | 20 Ranks in [Simple Strike](#SS) | 300 | 500 | 154 |
+| [Whip Sky Circle Slash](#SCS) | Average | 1 | Either | Cut | [Sky Circle Stance](#SC) | 300 | 500 | 154 |
+| [Whip Sky Circle Rake](#SCR) | Difficult | 1 | Short | Cut<br><br>Cut | [Sky Circle Stance](#SC)<br><br>20 Ranks in [Sky Circle Slash](#SCS) | 300 | 500 | 154 |
+| [Whip Sky Circle Scourge](#SCScourge) | Difficult | 1 | Either | Cut<br><br>Cut<br><br>Cut | [Sky Circle Stance](#SC)<br><br>40 Ranks in [Sky Circle Slash](#SCS)<br><br>40 Ranks in [Sky Circle Rake](#SCR) | 300 | 500 | 154 |
+| [Whip Coil Block](#CoilBlock) | Average | - | - | - | [Whip Fast Coil Stance](#FCstance) | 300 | 500 | 154 |
+| [Whip Flogging the Bull](#FtB) | Average | 1 | Either | - | 40 Ranks in [Simple Strike](#SS)<br><br>40 Ranks in [Precise Snap](#PS) | 300 | 500 | 154 |
+| [Whip Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 154 |
+| [Whip Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 154 |
 
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze, Ex2, NEx2, N, Ex4, N, W
 **Directions to Vashren** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#aralex-eggs).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

@@ -17,7 +17,7 @@ category: "Reference"
 
 ### Organization Charters
 [Vestis Formatae Charter](/scroll_vestis_formatae_charter/)
-[Divortium Auxilii Charter](/divortium-auxilii/#divortium-auxilii) (not in library)
+[Divortium Auxilii Charter](/divortium-auxilii/#Charter) (not in library)
 
 ### In-Game Lore:
 [Iridine's Real Heroes by Hyriul Hernonis](/codex-real-heroes-hyriul/) (not in library)

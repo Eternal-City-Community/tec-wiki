@@ -267,25 +267,25 @@ Some shortcuts do different things depending on what's in front of you. Those ge
 | Shortcut | Context | What it does |
 | --- | --- | --- |
 | Tab | Output tabs | Next tab ([Tabs](/praetor-guide/#tabs)) |
-| Tab | A slash-command hint is showing | Complete the command ([Typing commands](/praetor-guide/#typing-commands)) |
+| Tab | A slash-command hint is showing | Complete the command ([Typing commands](/praetor-guide/#typing)) |
 | Shift+Tab | Anywhere | Previous tab |
 | Alt+1 to Alt+9, Alt+0 | Anywhere | Jump to that tab (0 is the tenth) |
-| Alt+S | Anywhere | Show or hide the sidebar ([The layout](/praetor-guide/#the-layout)) |
-| Alt+M | Anywhere | Switch to the next quick-cycle mode ([Run a mode](/praetor-scripts/#run-a-mode)) |
-| Alt+X | A file is being sent | Abort the rest of the send ([Sending a file](/praetor-guide/#sending-a-file)) |
-| Alt+X | A play script is running | Stop the performance ([Play scripts](/praetor-guide/#play-scripts)) |
-| Alt+X | A mode is running | Switch to the disable mode ([Run a mode](/praetor-scripts/#run-a-mode)) |
+| Alt+S | Anywhere | Show or hide the sidebar ([The layout](/praetor-guide/#layout)) |
+| Alt+M | Anywhere | Switch to the next quick-cycle mode ([Run a mode](/praetor-scripts/#run)) |
+| Alt+X | A file is being sent | Abort the rest of the send ([Sending a file](/praetor-guide/#send)) |
+| Alt+X | A play script is running | Stop the performance ([Play scripts](/praetor-guide/#play)) |
+| Alt+X | A mode is running | Switch to the disable mode ([Run a mode](/praetor-scripts/#run)) |
 | Alt+X | A {{;;}} or {{&&}} command chain has commands waiting | Discard the rest of the queued chain |
 | Alt+I | Anywhere | Reveal lines hidden by the ignore filters ([Filters](/praetor-guide/#filters)) |
-| Esc | Game view | Open the menu ([The Esc menu](/praetor-guide/#the-esc-menu)) |
+| Esc | Game view | Open the menu ([The Esc menu](/praetor-guide/#menu)) |
 | Esc | A menu screen, search bar, or history search is open | Close it without saving |
 | Ctrl+F | Anywhere | Search the scrollback ([Search](/praetor-guide/#search)) |
-| Ctrl+R | Command input | Search your command history ([Typing commands](/praetor-guide/#typing-commands)) |
+| Ctrl+R | Command input | Search your command history ([Typing commands](/praetor-guide/#typing)) |
 | Ctrl+R | History search is open | Step to an older match |
 | Enter | Command input | Send the line |
 | Enter | History search is open | Send the highlighted match |
 | Enter | Scrollback search is open | Step to an older match |
-| Shift+Enter | Command input | New line without sending ([Typing commands](/praetor-guide/#typing-commands)) |
+| Shift+Enter | Command input | New line without sending ([Typing commands](/praetor-guide/#typing)) |
 | Shift+Enter | Scrollback search is open | Step to a newer match |
 | Up, Down | Command input, on its first or last line | Recall earlier commands |
 | PgUp, PgDn, mouse wheel | Output | Scroll |
@@ -293,7 +293,7 @@ Some shortcuts do different things depending on what's in front of you. Those ge
 | End | Output | Scroll to the bottom, or move within a focused input |
 | Ctrl+C | Text selected in the output | Copy |
 | Ctrl+V | Command input | Paste |
-| Numpad | NumLock off | Walk ([Moving around](/praetor-guide/#moving-around)) |
+| Numpad | NumLock off | Walk ([Moving around](/praetor-guide/#moving)) |
 
 ### Quick reference: slash commands
 
@@ -303,17 +303,17 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | --- | --- | --- | --- |
 | /help |  | Open the Help window | Esc closes it |
 | /guide |  | Open the getting-started window with links to the Praetor overview, guide, and scripting pages | Esc closes it |
-| /list |  | Open the Switch Mode window to browse modes ([Run a mode](/praetor-scripts/#run-a-mode)) | Esc closes it without starting anything |
-| /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run-a-mode)) | {{/mode disable}} or Alt+X stops it |
+| /list |  | Open the Switch Mode window to browse modes ([Run a mode](/praetor-scripts/#run)) | Esc closes it without starting anything |
+| /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | {{/mode disable}} or Alt+X stops it |
 | /toggle | <label> | Flip a true/false value in the running mode | Run it again to flip it back |
 | /set | <label> <value> | Set a value in the running mode | Set it again to the old value |
-| /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#calculator)) | Esc closes it |
-| /wiki | [name] | List the wiki bookmarks, or open one in your browser ([Wiki bookmarks](/praetor-guide/#wiki-bookmarks)) | Esc closes the list |
-| /maps | [name] | List the map bookmarks, or open one in your browser ([Map bookmarks](/praetor-guide/#map-bookmarks)) | Esc closes the list |
-| /kudos | [name] [message] | Open the kudos window, add a favorite, or queue a message ([Kudos](/praetor-guide/#kudos)) | Esc closes the window. Queued kudos aren't sent until you click Send |
+| /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#lookups)) | Esc closes it |
+| /wiki | [name] | List the wiki bookmarks, or open one in your browser ([Wiki bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
+| /maps | [name] | List the map bookmarks, or open one in your browser ([Map bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
+| /kudos | [name] [message] | Open the kudos window, add a favorite, or queue a message ([Kudos](/praetor-guide/#lookups)) | Esc closes the window. Queued kudos aren't sent until you click Send |
 | /notes | [add\|open\|delete\|list] [title] | The notepad ([Notes](/praetor-guide/#notes)) | Esc closes it |
-| /send |  | Pick a text file and send it to the game ([Sending a file](/praetor-guide/#sending-a-file)) | Cancel the file dialog, or close the preview without clicking Save. Alt+X aborts a send already in progress |
-| /play |  | Pick a play script, preview it, and start it ([Play scripts](/praetor-guide/#play-scripts)) | Close the preview without clicking Save. {{/stop}} or Alt+X ends a running performance |
+| /send |  | Pick a text file and send it to the game ([Sending a file](/praetor-guide/#send)) | Cancel the file dialog, or close the preview without clicking Save. Alt+X aborts a send already in progress |
+| /play |  | Pick a play script, preview it, and start it ([Play scripts](/praetor-guide/#play)) | Close the preview without clicking Save. {{/stop}} or Alt+X ends a running performance |
 | /pause |  | Hold the running performance | {{/resume}} continues it |
 | /resume |  | Continue a held performance | {{/pause}} holds it again |
 | /stop |  | End the performance and drop its state | Nothing to undo. Start it again with {{/play}} |

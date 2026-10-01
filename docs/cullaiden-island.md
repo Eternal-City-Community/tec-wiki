@@ -37,4 +37,4 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 * Has cannibal group.
 
 ### Laws
-* There are no [lawkeepers](/law/#lawkeepers) around to enforce laws on this island.
+* There are no [lawkeepers](/law/#Lawkeepers) around to enforce laws on this island.

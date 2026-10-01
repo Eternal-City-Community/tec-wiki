@@ -21,12 +21,12 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |
 | <u>*Basic Tailoring*</u> | Easy | 150 | 150 | 150 | 150 | 35 | 301 | 102 |
-| [Patternwork](#patternwork-layout) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
-| [Tailor's Shears](#tailors-shears-cut) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
-| [Basic Sewing](#basic-sewing-sew-to) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
-| [Basic Hemming](#basic-hemming-hem) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
-| [Stitch Pattern](#stitch-pattern-stitch) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
-| [Basic Mending](#basic-mending-mend-with) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
+| [Patternwork](#Patternwork) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
+| [Tailor's Shears](#Tailors-Shears) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
+| [Basic Sewing](#Basic-Sewing) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
+| [Basic Hemming](#Basic-Hemming) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
+| [Stitch Pattern](#Stitch-Pattern) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
+| [Basic Mending](#Basic-Mending) | Average | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
 
 
 <a id="Recipes"></a>
@@ -264,10 +264,10 @@ The art of tailoring has been around since ancient times, when the primitive peo
 * You **cannot train 'Basic Tailoring'**. Your basic **tailoring rank increases as you train the tailoring sub-skills**.
 * To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [<lore name>] from <trainer>** commands.
 * Tailoring requires the knowledge of specific **[lores](#Lores)** & **[recipes](#Recipes)**. Once these lores are known, you do not need to learn additional ranks.
-* Tailors can optionally use the **[knot](#knot-knot-with)** & **[refit](#refit-refit)** commands, which requires no skill to learn or use.
-* Custom Tailoring Lores *(Edgings/Patterns)* can be requested via [RP Purchases](/account/#role-point-purchases).
+* Tailors can optionally use the **[knot](#Knot)** & **[refit](#Refit)** commands, which requires no skill to learn or use.
+* Custom Tailoring Lores *(Edgings/Patterns)* can be requested via [RP Purchases](/account/#RolePointPurchases).
 * You can unlearn recipes, you cannot unlearn lores.
-* For a **list of available fabrics for each recipe** see the **[Tailoring Guide Fabric Chart](/tailoring-guide/#fabric-chart)**.
+* For a **list of available fabrics for each recipe** see the **[Tailoring Guide Fabric Chart](/tailoring-guide/#FabricChart)**.
 
 
 <a id="FabricChart"></a>
@@ -343,7 +343,7 @@ Related commands are commands that require no skill or training to use, but are 
 
 ### Recall  *recall <lore>*
 
-To [stitch a pattern](#stitch-pattern-stitch) or [sew a patch](#basic-sewing-sew-to), you first need to **recall <lore>** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#tailoring).
+To [stitch a pattern](#Stitch-Pattern) or [sew a patch](#Basic-sew), you first need to **recall <lore>** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
 
 **Maker's mark** is a special **lore**, in that it allows someone to identify the maker of an item by inspecting it.
 
@@ -377,7 +377,7 @@ To [stitch a pattern](#stitch-pattern-stitch) or [sew a patch](#basic-sewing-sew
 
 ### Threading  *thread <needle> with <thread>*
 
-Before performing actions such as [stitching](#stitch-pattern-stitch), your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
+Before performing actions such as [stitching](#Stitch-Pattern), your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
 
 **When you see this in use you see:**
 
@@ -533,13 +533,13 @@ Most garments must be hemmed to complete the garment and prevent fraying. When u
 
 The practice of stitching a design into a garment. There are a wide variety of designs, and some will require that you complete the action multiple times. The color of the thread used will be reflected in the completed stitching.
 
-To stitch a pattern, you first need to **[recall a lore](#recall-recall)** before you stitch your garment. The **details of the lore** will give you an idea of **how many stitches** are needed. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#tailoring).
+To stitch a pattern, you first need to **[recall a lore](#Recall)** before you stitch your garment. The **details of the lore** will give you an idea of **how many stitches** are needed. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
 
 Once the lore is recalled, repeat the stitch as many times as is required.
 
 * A piece of clothing can have **up to 5 [lores](#Lores)** (i.e. edgings, patterns) applied to it. However, only the first one will show up in the short description.
 
-**Required Tools:** [Threaded needle](#threading-thread-with), a thimble.
+**Required Tools:** [Threaded needle](#Threading), a thimble.
 
 **When you see this in use you see:**
 

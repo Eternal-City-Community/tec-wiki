@@ -9,7 +9,7 @@ For the old, archived traits page, go here: [Old_Archived_Traits2020](/archived_
 
 In 2020, new traits were released. 
 * Characters that **predate the new release** of traits are able to **re-trait once for free**, using the @traits command from the WA.
-* **Re-traiting** otherwise **costs [5,000 RPs](/account/#role-points-rps)**.
+* **Re-traiting** otherwise **costs [5,000 RPs](/account/#RolePoints)**.
 * This new system allows for a **maximum of five negative**, **five positive** and **one neutral** trait. 
 * As before, the **trait "balance" must be zero** or lesser, before the choices can be finalized.
 
@@ -18,7 +18,7 @@ In 2020, new traits were released.
 | Trait | Description |
 | --- | --- |
 | Hand of Fate | Both you and your opponents have an additional chance to score [critical hits](/critical-hits/).  When rolling 5 or less on an attack, character has a rank-based chance to reroll that attack. |
-| Light Sleeper | Character can [stand](/character-condition/#position) without any round time, and will instinctively attempt to stand whenever something enters the room. Character receives reduced [fatigue recovery](/character-condition/#fatigue) benefits while [sitting](/character-condition/#position) or [lying down](/character-condition/#position). |
+| Light Sleeper | Character can [stand](/character-condition/#position) without any round time, and will instinctively attempt to stand whenever something enters the room. Character receives reduced [fatigue recovery](/character-condition/#recovery) benefits while [sitting](/character-condition/#position) or [lying down](/character-condition/#position). |
 | <a id="NightOwl"></a> Night Owl | Character receives a +20% bonus to [perception](/stats/#perception) during night hours but a -20% penalty to [perception](/stats/#perception) during day hours.<br><br>**Mutually exclusive** with [Fear of the Dark](#FearOfTheDark). |
 | <a id="OxGrace"></a> Ox's Grace | Character receives a +15% bonus to [strength](/stats/#strength) and a -5% penalty to [dexterity](/stats/#dexterity) and [speed](/stats/#speed).<br><br>**Mutually exclusive** with [Frail Build](#FrailBuild). |
 | <a id="Finesse"></a> Finesse | Character receives a +10% bonus to [dexterity](/stats/#dexterity), improved [critical hits](/critical-hits/), and a -10% penalty to [strength](/stats/#strength).<br><br>**Mutually exclusive** with [Shaky Hands](#Shaky). |
@@ -58,7 +58,7 @@ In 2020, new traits were released.
 | <a id="AbsolTime"></a> Absolute Time Sense | 1 | Character has an innate ability to tell time. Looking at the sky yields more accurate time estimates and the character can guess at the time regardless of whether the sky can be seen. |
 | <a id="WeatherPred"></a> Weather Prediction | 1 | Character has an innate sense of what kind of weather will come in the near future. Looking at the sky will give rudimentary weather predictions. |
 | Enhanced Hearing | 1 | Character has a bonus to detecting whispers, voices, and subtle sounds. Can hear distant sounds (such as yelling) from a longer distance. |
-| <a id="SelfTaught"></a> Self-taught | 3 | Self-training costs 1.5x the normal skill point cost instead of the usual 2x.<br><br>[**Community Note:** As of 1/5/2024, the self-training calculation scales at higher ranks. See [Self-Training](/skills/#self-training) for details. |
+| <a id="SelfTaught"></a> Self-taught | 3 | Self-training costs 1.5x the normal skill point cost instead of the usual 2x.<br><br>[**Community Note:** As of 1/5/2024, the self-training calculation scales at higher ranks. See [Self-Training](/skills/#SelfTraining) for details. |
 | Natural Builder | 1 | Character receives a bonus to shelter-building and general crafting ability. |
 | Blade Mastery | 2 | Character receives a bonus to scoring critical hits with non-bludgeoning, non-missile attacks with any weapon. |
 | Tuchean Resistance | 1 | General disease resistance is increased, reducing the intensity and duration of symptoms by 50%.. |
@@ -67,7 +67,7 @@ In 2020, new traits were released.
 | Disciplined Mind | 2 | Character receives a +5 bonus to hit. |
 | Smooth Tongue | 1 | Character has a slight bonus when selling to NPC merchants. |
 | Anonymity | 2 | Character has a bonus to hiding and crowd-blending actions. |
-| <a id="Lumin"></a> Luminescent | 1 | Character has increased magical potential.<br><br>[**Community Note:** Increased SP gain from [tears](/contraband/#tears).] |
+| <a id="Lumin"></a> Luminescent | 1 | Character has increased magical potential.<br><br>[**Community Note:** Increased SP gain from [tears](/contraband/#Tears).] |
 | Acrobat's Edge | 4 | Character receives a +10 bonus to dodging. |
 | <a id="MM"></a> Muscle Memory | 1 | Character never fumbles in combat. |
 | <a id="Wrestler"></a> Wrestler | 2 | Character does not receive combat penalties for being in a position other than standing. |
@@ -98,7 +98,7 @@ In 2020, new traits were released.
 | Aversion to Violence | -3 | Character suffers a large penalty to combat. |
 | Uncontrollable Anxiety | -3 | Character has a chance of fainting when HP drops below 40 and of passing out when HP drops below 20.<br><br>[**Community Note:** There's a high chance of fainting if you remain standing and little to no chance of fainting if you remain laying.] |
 | <a id="FearOfTheDark"></a> Fear of the Dark | -2 | Character has increased darkness penalties and cannot move from his or her location if unable to see.<br><br>**Mutually exclusive** with [Night Vision](#NightVision) and [Night Owl](#NightOwl). |
-| <a id="SuperFears"></a> Superstitious Fears | -3 | Character has a major vulnerability to magic. Character cannot use any items with magical properties, including cadaes.<br><br>[**Community Note:** Characters also cannot collect/touch [tears](/contraband/#tears) and can be stunned by [Aziri](/rock-valley-region/#the-aziri-tribe). |
+| <a id="SuperFears"></a> Superstitious Fears | -3 | Character has a major vulnerability to magic. Character cannot use any items with magical properties, including cadaes.<br><br>[**Community Note:** Characters also cannot collect/touch [tears](/contraband/#Tears) and can be stunned by [Aziri](/rock-valley-region/#Aziri). |
 | Phobia - Arachnids | -1 | Character suffers a general combat penalty when fighting spiders and other arachnids. |
 | Phobia - Snakes | -1 | Character suffers a general combat penalty when fighting snakes and serpent-like creatures. |
 | Phobia - Insects | -1 | Character suffers a general combat penalty when fighting insects of any variety. |
@@ -115,7 +115,7 @@ In 2020, new traits were released.
 | <a id="Sickly"></a> Sickly | -1 | Character more susceptible to disease. Disease symptoms may be amplified. |
 | Intense Nightmares <a id="IntenseNight"></a> | -2 | Character recovers fatigue at a reduced rate when asleep, is more susceptible to magic, and receives a -5% penalty to willpower.<br><br>[**Community Note:** Characters will, on occasion, wake up up from a nightmare. This will cause the character to remain **stunned** for a brief period of time, until the nightmare finishes. The character will also suffer a slight **HP & Fatigue loss**.] |
 | Bum Knee | -2 | Character suffers HP loss when running. |
-| Malevolent Shadow | -3 | Character is periodically haunted by dark hallucinations, incurring a penalty of up to -10% of defensive rank bonus. Calming the mind may sometimes lessen the effects.<br><br>[**Community Note:** Remaining in [pitch-black darkness](/character-condition/#lighting) is said to help calm the mind.] |
+| Malevolent Shadow | -3 | Character is periodically haunted by dark hallucinations, incurring a penalty of up to -10% of defensive rank bonus. Calming the mind may sometimes lessen the effects.<br><br>[**Community Note:** Remaining in [pitch-black darkness](/character-condition/#Lighting) is said to help calm the mind.] |
 | Absent Minded | -3 | Character periodically drops held items. Character will not drop wielded weapons or shields if they have made an attack in the last 5 minutes.<br><br>[**Community Note:** This does not apply to wielded [Cesti](/cestus/). ] |
 | Tone Deaf | -1 | Character cannot sing, whistle, or play musical instruments.<br><br>[**Community Note:** *Caution!! A Tone Deaf character has a chance to destroy any instrument they play.] |
 | Silver Spoon | -1 | Unless carrying enough coin, character has a chance to have a panic attack which drains fatigue.<br><br>[**Community Note:** 1 talent appears to be the threshold and this trait utilizes your [wealth](/character-condition/#Wealth); in other words, your character must have the containers of coin open to feel reassured.] |

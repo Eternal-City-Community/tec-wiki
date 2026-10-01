@@ -88,4 +88,4 @@ tbc
 
 <a id="Laws"></a>
 ### Laws
-* The [Rock Valley Watch](/rock-valley-watch/) are the local [lawkeepers](/law/#lawkeepers) of this town.
+* The [Rock Valley Watch](/rock-valley-watch/) are the local [lawkeepers](/law/#Lawkeepers) of this town.

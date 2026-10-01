@@ -17,38 +17,38 @@ As a weapon, variations of the trident have made appearances in almost every cul
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **Prestis |
 | *<u>Tridents</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
-| [Trident Harpoon Stance](#trident-harpoon-stance-harpoon) | Easy | 2 | - | - | [Trident Harpoon Stance](#trident-harpoon-stance-harpoon) | 100 | 100 | 154 |
-| [Trident Jab](#trident-jab-jab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
-| [Trident Quick Rake](#trident-quick-rake-qrake) | Easy | 2 | Either | Cut | - | 300 | 500 | 154 |
-| [Trident Stab](#trident-stab-stab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
-| [Trident Blunt Bash](#trident-blunt-bash-bash) | Average | 2 | Short | Bruise | - | 300 | 500 | 154 |
-| [Trident Lunge](#trident-lunge-lunge) | Average | 2 | Long | Pierce | - | 300 | 500 | 154 |
-| [Trident Slash](#trident-slash-slash) | Average | 2 | Short | Cut | - | 300 | 500 | 154 |
-| [Trident Swinging Disarm](#trident-swinging-disarm-fling) | Average | 2 | Either | - | - | 100 | 175 | 154 |
-| [Trident Weapon Catch](#trident-weapon-catch-catch) | Average | 2 | Short | - | - | 300 | 500 | 154 |
-| [Trident Feint](#trident-feint-feint) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
-| [Trident Foot Pin](#trident-foot-pin-pin) | Difficult | 2 | Short | - | - | 300 | 500 | 154 |
-| [Trident Rotating Bash](#trident-rotating-bash-rbash) | Difficult | 2 | Either | Bruise | - | 300 | 500 | 154 |
-| [Trident Sweep](#trident-sweep-sweep) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
-| [Trident Throw](#trident-throw-throw) | Difficult | Either | Missile | Pierce | - | 300 | 500 | 154 |
-| [Trident Defensive Bash](#trident-defensive-bash-dbash) | Average | 2 | Short | Bruise | 20 Ranks in [Trident Blunt Bash](#trident-blunt-bash-bash) | 300 | 500 | 154 |
-| [Trident Parting Gouge](#trident-parting-gouge-pvital) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#trident-harpoon-stance-harpoon)<br><br>40 Ranks in [Trident Vital Jab](#trident-vital-jab-vital)<br><br>40 Ranks in [Trident Parting Jab](#trident-parting-jab-pjab) | 300 | 500 | 154 |
-| [Trident Parting Jab](#trident-parting-jab-pjab) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#trident-harpoon-stance-harpoon)<br><br>10 Ranks in [Trident Jab](#trident-jab-jab) | 300 | 500 | 154 |
-| [Trident Pierce](#trident-pierce-pierce) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#trident-harpoon-stance-harpoon)<br><br>30 Ranks in [Trident Stab](#trident-stab-stab) | 300 | 500 | 154 |
-| [Trident Vital Jab](#trident-vital-jab-vital) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#trident-harpoon-stance-harpoon)<br><br>20 Ranks in [Trident Jab](#trident-jab-jab) | 300 | 500 | 154 |
-| [Trident Simple Block](#trident-simple-block) | Easy | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Cross Block](#trident-cross-block) | Average | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Tine Block](#trident-tine-block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Rotation Block](#trident-rotation-block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Accuracy](#trident-accuracy-na) | Difficult | - | - | - | - | 100 | 175 | 154 |
-| [Trident Grip](#trident-grip-na) | Impossible | - | - | - | - | 100 | 100 | 154 |
+| [Trident Harpoon Stance](#Harpoon-Stance) | Easy | 2 | - | - | [Trident Harpoon Stance](#Harpoon-Stance) | 100 | 100 | 154 |
+| [Trident Jab](#Jab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
+| [Trident Quick Rake](#Quick-Rake) | Easy | 2 | Either | Cut | - | 300 | 500 | 154 |
+| [Trident Stab](#Stab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
+| [Trident Blunt Bash](#Blunt-Bash) | Average | 2 | Short | Bruise | - | 300 | 500 | 154 |
+| [Trident Lunge](#Lunge) | Average | 2 | Long | Pierce | - | 300 | 500 | 154 |
+| [Trident Slash](#Slash) | Average | 2 | Short | Cut | - | 300 | 500 | 154 |
+| [Trident Swinging Disarm](#Swinging-Disarm) | Average | 2 | Either | - | - | 100 | 175 | 154 |
+| [Trident Weapon Catch](#Weapon-Catch) | Average | 2 | Short | - | - | 300 | 500 | 154 |
+| [Trident Feint](#Feint) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
+| [Trident Foot Pin](#Foot-Pin) | Difficult | 2 | Short | - | - | 300 | 500 | 154 |
+| [Trident Rotating Bash](#Rotating-Bash) | Difficult | 2 | Either | Bruise | - | 300 | 500 | 154 |
+| [Trident Sweep](#Sweep) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
+| [Trident Throw](#Throw) | Difficult | Either | Missile | Pierce | - | 300 | 500 | 154 |
+| [Trident Defensive Bash](#Defensive-Bash) | Average | 2 | Short | Bruise | 20 Ranks in [Trident Blunt Bash](#Blunt-Bash) | 300 | 500 | 154 |
+| [Trident Parting Gouge](#Parting-Gouge) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>40 Ranks in [Trident Vital Jab](#Vital-Jab)<br><br>40 Ranks in [Trident Parting Jab](#Parting-Jab) | 300 | 500 | 154 |
+| [Trident Parting Jab](#Parting-Jab) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>10 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
+| [Trident Pierce](#Pierce) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>30 Ranks in [Trident Stab](#Stab) | 300 | 500 | 154 |
+| [Trident Vital Jab](#Vital-Jab) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>20 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
+| [Trident Simple Block](#Simple-Block) | Easy | 2 | - | - | - | 300 | 500 | 154 |
+| [Trident Cross Block](#Cross-Block) | Average | 2 | - | - | - | 300 | 500 | 154 |
+| [Trident Tine Block](#Tine-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
+| [Trident Rotation Block](#Rotation-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
+| [Trident Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 | 154 |
+| [Trident Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 154 |
 
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze, Ex2, NEx2, N, Ex4, N, W
 **Directions to Vashren** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#aralex-eggs).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

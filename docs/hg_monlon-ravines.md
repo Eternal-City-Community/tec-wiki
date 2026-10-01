@@ -18,7 +18,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 * Some of the most **advanced enemy AI** in the game.
 * **Unique loot** not found elsewhere.
 * **Prisoner of War (PoW)** mechanics as well as a system in place to allow their rescue.
-* A functional and dynamic **[reputation#Monlon](/reputation/#monlon)** system.
+* A functional and dynamic **[reputation#Monlon](/reputation/#Monlon)** system.
 
 
 > **Archive include:** [monlon_ravines](/monlon-ravines/)
@@ -44,10 +44,10 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
  
 
 
-**Reputation Drops**: [Kelestian Armor](/reputation/#monlon)
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 
 <a id="Tier2"></a>
@@ -72,10 +72,10 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
  
 
 
-**Reputation Drops**: [Kelestian Armor](/reputation/#monlon)
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 
 <a id="Tier3"></a>
@@ -101,10 +101,10 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
  
 
 
-**Reputation Drops**: [Kelestian Armor](/reputation/#monlon)
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 
 <a id="Tier4"></a>
@@ -130,10 +130,10 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
  
 
 
-**Reputation Drops**: [Kelestian Armor](/reputation/#monlon)
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 
 <a id="Tier5"></a>
@@ -170,7 +170,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
  * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **chainblade**, a **katitra** with (iron***** | bronze | tin | stone) plates
 
 
-**Reputation Drops**: [Kelestian Armor](/reputation/#monlon)
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
 <a id="Tier6"></a>
@@ -211,7 +211,7 @@ There are specific ambush spots. Once triggered, a mix of low-end & high-end opp
  * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **chainblade**, a **katitra** with (iron***** | bronze | tin | stone) plates
 
 
-**Reputation Drops**: [Kelestian Armor](/reputation/#monlon)
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#)
+[Back to Top](#Top)

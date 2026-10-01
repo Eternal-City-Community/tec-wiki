@@ -52,13 +52,13 @@ The Council of Elders is composed of the heads of each sect plus up to four othe
 
 
 The Council of Elders Members:
-1. **[bio:Titus Ahala](/bio_titus-ahala/)** - Member of the [Sect of the Bright Hope](#bright-hope).
-2. **[bio:Albius Anande](/bio_albius-anande/)** - Member of the [Sect of the Revealing Light](#the-revealing-light).
-3. **[bio:Drusus Rustius](/bio_drusus-rustius/)** - **Leader** of the [Sect of the Nuturing Light](#the-nurturing-light).
-4. **[bio:Jarin Seneda](/bio_jarin-seneda/)** - **Unofficial head of the Council of Elders** & **Leader** of the [Sect of the Revealing Light](#the-revealing-light).
-5. **[bio:Sartor Mithus](/bio_sartor-mithus/)** - Member of the [Sect of the Bright Hope](#bright-hope).
-6. **[bio:Spurius Ravilla](/bio_spurius-ravilla/)** - Member of the [Sect of the Revealing Light](#the-revealing-light).
-7. **[bio:Bernard Tubero](/bio_bernard-tubero/)** - **Leader** of the [Sect of the Bright Hope](#bright-hope).
+1. **[bio:Titus Ahala](/bio_titus-ahala/)** - Member of the [Sect of the Bright Hope](#BrightHope).
+2. **[bio:Albius Anande](/bio_albius-anande/)** - Member of the [Sect of the Revealing Light](#RevealingLight).
+3. **[bio:Drusus Rustius](/bio_drusus-rustius/)** - **Leader** of the [Sect of the Nuturing Light](#NurturingLight).
+4. **[bio:Jarin Seneda](/bio_jarin-seneda/)** - **Unofficial head of the Council of Elders** & **Leader** of the [Sect of the Revealing Light](#RevealingLight).
+5. **[bio:Sartor Mithus](/bio_sartor-mithus/)** - Member of the [Sect of the Bright Hope](#BrightHope).
+6. **[bio:Spurius Ravilla](/bio_spurius-ravilla/)** - Member of the [Sect of the Revealing Light](#RevealingLight).
+7. **[bio:Bernard Tubero](/bio_bernard-tubero/)** - **Leader** of the [Sect of the Bright Hope](#BrightHope).
 
 
 <a id="Sects"></a>
@@ -109,7 +109,7 @@ As the temples are divided, so are **individual departments within each temple**
 
 
 ##### Seed*
-The Seed is considered **on par with the Mist**, in terms of ranking. They are responsible for providing guidance to the [Walkers](#walker). The Seed takes his orders from the Heart. 
+The Seed is considered **on par with the Mist**, in terms of ranking. They are responsible for providing guidance to the [Walkers](#Walker). The Seed takes his orders from the Heart. 
 
 
 </details>
@@ -145,7 +145,7 @@ As the temples are divided, so are individual **departments within each temple**
 
 
 ##### Pool*
-The Pool is considered **on par with the Glass**, in terms of ranking. They are responsible for providing guidance to the [Walkers](#walker). The Pool takes his orders from the Eye. 
+The Pool is considered **on par with the Glass**, in terms of ranking. They are responsible for providing guidance to the [Walkers](#Walker). The Pool takes his orders from the Eye. 
 
 </details>
 
@@ -179,7 +179,7 @@ Beneath the Gentle is the Glimmer. A Glimmer **oversees an individual temple**, 
 Unlike the equivalent stations in the other sects, Comforters do not usually hold to a specific department. Rather they are the temple's healers. Melilia is an example of such, as the Hospice is structured like a Temple. In some cases they perform this service indefinitely. They may from time to time assume other "department" tasks, such as teaching new acolytes.
 
 ##### Gather**
-The Gather is considered **on par with the Gentle**, in terms of ranking. They are responsible for providing guidance to the [Walkers](#walker). The Gather takes his orders from the Hand. 
+The Gather is considered **on par with the Gentle**, in terms of ranking. They are responsible for providing guidance to the [Walkers](#Walker). The Gather takes his orders from the Hand. 
 
 </details>
 
@@ -223,7 +223,7 @@ While the [Soldiers of Ereal](/soldiers-of-ereal/) are not part of the direct Cu
 ### Others of Note Within the Cult
 
 * **[bio:Fiona](/bio_fiona/)** - Vetallun's Resident Healer
-* **[bio:Kassandra](/bio_kassandra/)** - A Seer of the [Sect of the Revealing Light](#the-revealing-light)
+* **[bio:Kassandra](/bio_kassandra/)** - A Seer of the [Sect of the Revealing Light](#RevealingLight)
 * **[bio:Leptanious](/bio_leptanious/)** - The Cineran Priest
 * **[bio:Loria](/bio_loria/)** - A Priestess of Ereal
 * **[bio:Macova](/bio_macova/)** *(deceased)* - A Visionary and Healer

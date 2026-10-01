@@ -32,18 +32,18 @@ category: "Reference"
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skill/Action | Difficulty | Prerequisite | Trainer # 1 | Trainer # 2 | Trainer # 3 | Trainer # 4 | Trainer # 5 | RV Trainer |  |  |  |
 | *<u>Street Smarts</u>* | Easy | - | 50 | 50 | 50 | 50 | 50 | 100 |  |  |  |
-| [Graffiti](#graffiti-graffiti) | Easy | - | 30 | - | - | - | - | 10 |  |  |  |
-| [Gang Markings](#gang-markings-gmark) | Average | 10 Ranks in [Paint Graffiti](#graffiti-graffiti) | - | - | - | - | - | - |  |  |  |
+| [Graffiti](#Graffiti) | Easy | - | 30 | - | - | - | - | 10 |  |  |  |
+| [Gang Markings](#Gang-Markings) | Average | 10 Ranks in [Paint Graffiti](#Paint-Graffiti) | - | - | - | - | - | - |  |  |  |
 | [Stash](#Stash) | Easy | - | - | 40 | - | - | - | 100 |  |  |  |
-| [Find Stash](#find-stash-search) | Average | - | - | 40 | - | - | - | 10 |  |  |  |
-| [Watcher's Sense](#watchers-sense) | Average | - | - | - | 30 | - | - | 100 |  |  |  |
-| [Mimic Signpost](#mimic-signpost-signpost) | Average | - | - | - | 30 | - | - | 100 |  |  |  |
-| [Steps Cant](#steps-cant-cant) | Average | - | - | - | - | 50 | - | 100 |  |  |  |
-| [City Hiding](#city-hiding-find-cover) | Difficult | - | - | - | - | - | 50 | 100 |  |  |  |
-| [City Sneaking](#city-sneaking-sneak) | Difficult | - | - | - | - | - | 50 | 100 |  |  |  |
-| [Quick Reveal](#quick-reveal) | Average | - | - | - | - | - | - | 100 |  |  |  |
+| [Find Stash](#Find-Stash) | Average | - | - | 40 | - | - | - | 10 |  |  |  |
+| [Watcher's Sense](#Watchers-Sense) | Average | - | - | - | 30 | - | - | 100 |  |  |  |
+| [Mimic Signpost](#Mimic-Signpost) | Average | - | - | - | 30 | - | - | 100 |  |  |  |
+| [Steps Cant](#Steps-Cant) | Average | - | - | - | - | 50 | - | 100 |  |  |  |
+| [City Hiding](#City-Hiding) | Difficult | - | - | - | - | - | 50 | 100 |  |  |  |
+| [City Sneaking](#City-Sneaking) | Difficult | - | - | - | - | - | 50 | 100 |  |  |  |
+| [Quick Reveal](#Quick-Reveal) | Average | - | - | - | - | - | - | 100 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills |
-| [Guard Evasion](#guard-evasion) | - | - | - | - | - | - | - | - |  |  |  |
+| [Guard Evasion](#Guard-Evasion) | - | - | - | - | - | - | - | - |  |  |  |
 
 |  | Trainer Location Clues |
 | --- | --- |
@@ -278,4 +278,4 @@ You stealthily move from your hiding place.
 
 ### Guard Evasion
 
-This skill helps a person evade a person that is trying to [detain](/combat-maneuvers/#offensive-guarding-detain) them. This skill does not currently work against regular guarding.
+This skill helps a person evade a person that is trying to [detain](/combat-maneuvers/#Offensive-Guarding) them. This skill does not currently work against regular guarding.

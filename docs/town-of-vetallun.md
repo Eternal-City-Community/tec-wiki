@@ -82,10 +82,10 @@ A.   Vetallun Crossroads
 
 * Beloved town of [bio:Kered](/bio_kered/).
 * Strong military presence, due to its **proximity to the [Legio](/legio/) fort**.
-* [Locksmith](/locksmithing/) shop, including **[jobs](/locksmithing-guide/#jobs)** but with **no forge**.
+* [Locksmith](/locksmithing/) shop, including **[jobs](/locksmithing-guide/#Jobs)** but with **no forge**.
 * The town has been burned down at least twice in recent history.
 * Winery and Apple orchard **jobs for newcomers**.
-* Home to **Ferrarius** the blacksmith, **skilled in [reforging](/weapons/#reforging-ferrarius)** weapons and shields.
+* Home to **Ferrarius** the blacksmith, **skilled in [reforging](/weapons/#Reforge)** weapons and shields.
 * Several **[player-managed shops](/property/#store)**, including **The Flying Fish** & **The Crimson Emporium**.
 
 <a id="Laws"></a>

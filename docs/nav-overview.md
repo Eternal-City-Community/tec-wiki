@@ -69,7 +69,7 @@ Wagons can be **pulled** or **dragged**.
 ### Checkpoints
 
 #### Phoenix Guards
-The **[Phoenix Guards (PG)](/orgs/#the-phoenix-guard)** are a special division of soldiers, stationed at the 2 main checkpoints ([Transinvexium](/transinvexium/) & [Vetallun Road](/vetallun-road/)) to enter the [City of Iridine](/city-of-iridine/). You cannot carry a person or drag items past PG soldiers. The Phoenix Guards may search you for [contraband](/contraband/).
+The **[Phoenix Guards (PG)](/orgs/#PG)** are a special division of soldiers, stationed at the 2 main checkpoints ([Transinvexium](/transinvexium/) & [Vetallun Road](/vetallun-road/)) to enter the [City of Iridine](/city-of-iridine/). You cannot carry a person or drag items past PG soldiers. The Phoenix Guards may search you for [contraband](/contraband/).
 
 Citizenship will make you get checked for contraband less frequently than those smelly foreigners. 
 
@@ -116,7 +116,7 @@ For the cost of [A pale blue ticket](/shops/), you can take a wagon from Seld to
 
 
 ### Ships & Ferries
-There is 1 ship and 2 ferries located within the game world to help transport you. As you wait for ferries or ships, don't forget you can often [Fish](/hunting/#usage-cast-while-in-a-room-with-access-to-a-body-of-water) from most docks. If the desired ship or ferry is not at its dock, you can use the wait for <ship/ferry> command to wait for it to arrive and to have your character board automatically.
+There is 1 ship and 2 ferries located within the game world to help transport you. As you wait for ferries or ships, don't forget you can often [Fish](/hunting/#cast) from most docks. If the desired ship or ferry is not at its dock, you can use the wait for <ship/ferry> command to wait for it to arrive and to have your character board automatically.
 
 **Note:** If someone is **following** you, they will not do so if you move due to the wait for <ship/ferry> command.
 

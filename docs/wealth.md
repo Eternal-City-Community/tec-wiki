@@ -62,7 +62,7 @@ In addition to the value of individual coins, there is the *"Talent"* unit of cu
 
 <a id="tokens"></a><a id="Nehal"></a>
 #### Nehal Currency
-The [Nehal](/rock-valley-region/#the-nehal-tribe) people and the inhabitants of the [Village of Stromheim](/village-of-stromheim/) use **tokens** as currency. Iridinian banks don't recognize them as currency. 
+The [Nehal](/rock-valley-region/#Nehal) people and the inhabitants of the [Village of Stromheim](/village-of-stromheim/) use **tokens** as currency. Iridinian banks don't recognize them as currency. 
 
 The wealth command works with this currency. 
 

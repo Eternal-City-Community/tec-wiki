@@ -58,11 +58,11 @@ The Council of Elders is composed of the heads of each sect plus up to four othe
 
 The Council of Elders Members:
 1. **[bio:Titus Ahala](/bio_titus-ahala/)** - Member of the [Sect of the Bright Hope](#BrightHope).
-2. **[bio:Albius Anande](/bio_albius-anande/)** - Member of the [Sect of the Revealing Light](#the-path-of-revealing-light).
+2. **[bio:Albius Anande](/bio_albius-anande/)** - Member of the [Sect of the Revealing Light](#RevealingLight).
 3. **[bio:Drusus Rustius](/bio_drusus-rustius/)** - **Leader** of the [Sect of the Nuturing Light](#NurturingLight).
-4. **[bio:Jarin Seneda](/bio_jarin-seneda/)** - **Unofficial head of the Council of Elders** & **Leader** of the [Sect of the Revealing Light](#the-path-of-revealing-light).
+4. **[bio:Jarin Seneda](/bio_jarin-seneda/)** - **Unofficial head of the Council of Elders** & **Leader** of the [Sect of the Revealing Light](#RevealingLight).
 5. **[bio:Sartor Mithus](/bio_sartor-mithus/)** - Member of the [Sect of the Bright Hope](#BrightHope).
-6. **[bio:Spurius Ravilla](/bio_spurius-ravilla/)** - Member of the [Sect of the Revealing Light](#the-path-of-revealing-light).
+6. **[bio:Spurius Ravilla](/bio_spurius-ravilla/)** - Member of the [Sect of the Revealing Light](#RevealingLight).
 7. **[bio:Bernard Tubero](/bio_bernard-tubero/)** - **Leader** of the [Sect of the Bright Hope](#BrightHope).
 
 #### Priest of the Temple of the Morning
@@ -206,7 +206,7 @@ See [Cult of Ereal (Old)](/old-cult-of-ereal/) for archived site.
 ### Others of Note Within the Cult
 
 * **[bio:Fiona](/bio_fiona/)** - Vetallun's Resident Healer
-* **[bio:Kassandra](/bio_kassandra/)** - A Seer of the [Sect of the Revealing Light](#the-path-of-revealing-light)
+* **[bio:Kassandra](/bio_kassandra/)** - A Seer of the [Sect of the Revealing Light](#RevealingLight)
 * **[bio:Leptanious](/bio_leptanious/)** - The Cineran Priest
 * **[bio:Loria](/bio_loria/)** - A Priestess of Ereal
 * **[bio:Macova](/bio_macova/)** *(deceased)* - A Visionary and Healer

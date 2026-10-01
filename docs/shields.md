@@ -37,15 +37,15 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Range | Wound | Gilven | Hroth | Majell | Cottus | Cula | Cralus | Vashren | Concinnant | **Prestis | Sphara | Varga |  |
 | *<u>Shields</u>* | - | - | - | 300 | 300 | 120 | 125 | 100 | 90 | 300 | 300 | 154 | 500 | 500 |  |
-| [Shield Simple Block](#shield-simple-block) | Easy | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Cross Block](#shield-cross-block) | Average | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Overhead Block](#shield-overhead-block) | Average | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Low Block](#shield-low-block) | Difficult | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 175 | 500 |  |
-| [Shield Bash](#shield-bash-sbash) | Average | Short | Bruise | 300 | 175 | 110 | 100 | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Upward Bash](#shield-upward-bash-supbash) | Average | Short | Bruise | 300 | 175 | 110 | 100 | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Edge Bash](#shield-edge-bash-edgebash) | Difficult | Short | Cut | 300 | 175 | 110 | - | - | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Push Back](#shield-push-back-spushback) | Average | Short | - | 300 | 175 | 110 | 100 | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
-| [Shield Missile Defense](#shield-missile-defense) | Difficult | - | - | 100 | 100 | 110 | - | 85 | 90 | 100 | 100 | 154 | 500 | 175 |  |
+| [Shield Simple Block](#sBlock) | Easy | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Cross Block](#cBlock) | Average | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Overhead Block](#oBlock) | Average | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Low Block](#lBlock) | Difficult | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 175 | 500 |  |
+| [Shield Bash](#Bash) | Average | Short | Bruise | 300 | 175 | 110 | 100 | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Upward Bash](#uBash) | Average | Short | Bruise | 300 | 175 | 110 | 100 | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Edge Bash](#eBash) | Difficult | Short | Cut | 300 | 175 | 110 | - | - | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Push Back](#pBack) | Average | Short | - | 300 | 175 | 110 | 100 | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
+| [Shield Missile Defense](#mDef) | Difficult | - | - | 100 | 100 | 110 | - | 85 | 90 | 100 | 100 | 154 | 500 | 175 |  |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Hroth** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
@@ -60,7 +60,7 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 
 #### Notes on Learning
 
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#aralex-eggs).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 ### Skill Details
 
@@ -163,7 +163,7 @@ Cottus bashes upward at a thug with the foot of his shield!
 You slam the upper rim of the shield or buckler at the opponent. Typically this is aimed at the opponent's face or head, but you can also try to surprise them with an edge bash aimed low. The force of this attack is capable of stunning them momentarily and unlike the other shield attacks, delivers cutting damage as oppose to bruising.
 
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 

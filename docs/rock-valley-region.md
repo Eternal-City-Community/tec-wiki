@@ -9,7 +9,7 @@ category: "World & Maps"
 
 This is a comprehensive guide to the **region of Rock Valley**. The region of Rock Valley is located in the southeast of the Republic. It can be accessed through the [village of Viron](/village-of-viron/), which is a nearby fishing town.
 
-**To reach Rock Valley**, follow the visiting caravan **drover** who stops off and leaves from the **Hospice of the Morning Light**, headed to provide wares to our troops in Rock Valley. There is also a paid drover who can bring you on demand. Both methods deliver you to the [Town of Rock Valley](#town-of-rock-valley).
+**To reach Rock Valley**, follow the visiting caravan **drover** who stops off and leaves from the **Hospice of the Morning Light**, headed to provide wares to our troops in Rock Valley. There is also a paid drover who can bring you on demand. Both methods deliver you to the [Town of Rock Valley](#TownOfRV).
 
 
 [!-- 
@@ -79,7 +79,7 @@ The Lokeen are supposedly causing so many conflicts because they wish to have po
 
 The Nehal tribe are known for their **fearsome warriors**, but they are also the **most intellectual barbarians** that can be found in Rock Valley. They are currently **allied with the Republic**, but they are considering war with it due to some struggles and conflicts of various natures.
 
-The Nehal tribe live in the town of **[Stromheim](#stromheim)**, situated far east of Rock Valley and set within the mountains. This town is a little smaller than Rock Valley and it is where the Nehal tribe trade with various people. They **do not find value in Iridinian currency** or share the same mentality, gold is worth practically nothing to them. **They use tokens as their currency**, they may trade things in order to receive tokens.
+The Nehal tribe live in the town of **[Stromheim](#Stromheim)**, situated far east of Rock Valley and set within the mountains. This town is a little smaller than Rock Valley and it is where the Nehal tribe trade with various people. They **do not find value in Iridinian currency** or share the same mentality, gold is worth practically nothing to them. **They use tokens as their currency**, they may trade things in order to receive tokens.
 
 This tribe is **claims to be the oldest of them all**, but such a title is controversial since the Brak'tul also claim the same thing. The Brak'tul are situated leagues away from the Nehal. Little is known about the Brak'tul. The Nehal also appear to be the most civilized tribe of Rock Valley, since only Lokeen's and Aziri's share the territory with them.
 
@@ -132,7 +132,7 @@ The area beneath the door is filled with leech spiders. Yes, leech spiders, as i
 
 Once you reach the end of this lower level, you will be able to go down to another level which is even more dangerous. Several colored arches will be there and fog will prevent you from seeing which way you should take. If you are observant, you shouldn't have any problems at learning how to prevent being trapped.
 
-[Tears](/contraband/#tears) can be found in this area.
+[Tears](/contraband/#Tears) can be found in this area.
 
 
 <a id="Burial-Grounds"></a>
@@ -144,13 +144,13 @@ Someone lies dead in a sarcophagus inside these burial grounds guarded by hounds
 
 These burial grounds were built by the Aziri. You will find danger and odd creatures here, but little else.
 
-[Tears](/contraband/#tears) can be found in this area.
+[Tears](/contraband/#Tears) can be found in this area.
 
 
 <a id="Broken-Tower"></a>
 #### Broken Tower
 ...
-[Tears](/contraband/#tears) can be found in this area.
+[Tears](/contraband/#Tears) can be found in this area.
 
 
 <a id="Stromheim"></a>

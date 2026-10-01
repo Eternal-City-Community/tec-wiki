@@ -18,28 +18,28 @@ The main advantages of the axe, as opposed to simply choosing a sword or club-ty
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Hroth | Kerta | Protarian |
 | *<u>One-Handed Axes</u>* | Easy | - | - | - | - | 500 | 110 | 300 |
-| [Parcine Raider Stance](#parcine-raider-stance-raiderstance) | Easy | Either | - | - | - | - | 90 | 100 |
-| [Axe Hand Toss](#axe-hand-toss-handtoss) | Easy | 1 | - | - | - | 175 | 90 | 100 |
-| [Axe Basic Chop](#axe-basic-chop-chop) | Easy | Either | Short | Cut | - | 500 | 90 | 300 |
-| [Axe Shield-Breaker](#axe-shield-breaker-break) | Easy | Either | Short | - | - | 500 | 90 | 300 |
-| [Axe Slash](#axe-slash-slash) | Easy | Either | Short | Cut | - | 500 | 90 | 300 |
-| [Axe Head Swat](#axe-head-swat-swat) | Easy | Either | Short | Bruise | - | 500 | 90 | 300 |
-| [Axe Feint](#axe-feint-feint) | Average | Either | Short | - | - | 500 | 90 | 300 |
-| [Axe Longarm Strike](#axe-longarm-strike-longarm) | Average | Either | Short | Pierce | - | 500 | 90 | 300 |
-| [Axe Overhead Strike](#axe-overhead-strike-overhead) | Average | Either | Short | Pierce | - | 500 | 90 | 300 |
-| [Axe Pivot Smash](#axe-pivot-smash-smash) | Average | Either | Short | Bruise | - | 500 | 90 | 300 |
-| [Axe Side Strike](#axe-side-strike-sidestrike) | Average | 2 | Short | Cut | - | 500 | 90 | 300 |
-| [Axe Hook](#axe-hook-hook) | Difficult | Either | - | - | - | 500 | 90 | 300 |
-| [Axe Leg Strike](#axe-leg-strike-legstrike) | Difficult | Either | Short | Bruise | - | 500 | 90 | 300 |
-| [Axe Throw](#axe-throw-throw) | Average | Either | Missile | Cut | 10 Ranks in [Axe Hand Toss](#axe-hand-toss-handtoss) | 500 | 90 | 300 |
-| [Axe Loosening Toss](#axe-loosening-toss-loose) | Average | Either | Short | - | 10 Ranks in [Axe Hand Toss](#axe-hand-toss-handtoss) | 175 | 90 | 100 |
-| [Axe Stepping Chop](#axe-stepping-chop-schop) | Average | Either | Short | Cut | 40 Ranks in [Axe Basic Chop](#axe-basic-chop-chop) | 500 | 90 | 300 |
-| [Axe Pivoting Longarm](#axe-pivoting-longarm-pivotstrike) | Difficult | Either | Short | Pierce | 20 ranks in [Axe Longarm Strike](#axe-longarm-strike-longarm)<br><br>20 Ranks in [Axe Pivot Smash](#axe-pivot-smash-smash) | 500 | 90 | 300 |
-| [Axe Stepping Leg Strike](#axe-stepping-leg-strike-slegstrike) | Difficult | Either | Short | Bruise | 40 Ranks in [Axe Leg Strike](#axe-leg-strike-legstrike)<br><br>40 Ranks in [Axe Stepping Chop](#axe-stepping-chop-schop) | 500 | 90 | 300 |
-| [Axe Crossblock](#axe-crossblock-na) | Average | Either | - | - | - | 500 | 90 | 300 |
-| [Axe Chopping Block](#axe-chopping-block-na) | Difficult | Either | - | - | - | 500 | 90 | 300 |
-| [Axe Accuracy](#axe-accuracy-na) | Difficult | - | - | - | - | 100 | 90 | 100 |
-| [Axe Grip](#axe-grip-na) | Impossible | - | - | - | - | 100 | 90 | 100 |
+| [Parcine Raider Stance](#Raider) | Easy | Either | - | - | - | - | 90 | 100 |
+| [Axe Hand Toss](#Hand-Toss) | Easy | 1 | - | - | - | 175 | 90 | 100 |
+| [Axe Basic Chop](#Basic-Chop) | Easy | Either | Short | Cut | - | 500 | 90 | 300 |
+| [Axe Shield-Breaker](#Shield-Breaker) | Easy | Either | Short | - | - | 500 | 90 | 300 |
+| [Axe Slash](#Slash) | Easy | Either | Short | Cut | - | 500 | 90 | 300 |
+| [Axe Head Swat](#Head-Swat) | Easy | Either | Short | Bruise | - | 500 | 90 | 300 |
+| [Axe Feint](#Feint) | Average | Either | Short | - | - | 500 | 90 | 300 |
+| [Axe Longarm Strike](#Longarm-Strike) | Average | Either | Short | Pierce | - | 500 | 90 | 300 |
+| [Axe Overhead Strike](#Overhead-Strike) | Average | Either | Short | Pierce | - | 500 | 90 | 300 |
+| [Axe Pivot Smash](#Pivot-Smash) | Average | Either | Short | Bruise | - | 500 | 90 | 300 |
+| [Axe Side Strike](#Side-Strike) | Average | 2 | Short | Cut | - | 500 | 90 | 300 |
+| [Axe Hook](#Hook) | Difficult | Either | - | - | - | 500 | 90 | 300 |
+| [Axe Leg Strike](#Leg-Strike) | Difficult | Either | Short | Bruise | - | 500 | 90 | 300 |
+| [Axe Throw](#Throw) | Average | Either | Missile | Cut | 10 Ranks in [Axe Hand Toss](#Hand-Toss) | 500 | 90 | 300 |
+| [Axe Loosening Toss](#Loosening-Toss) | Average | Either | Short | - | 10 Ranks in [Axe Hand Toss](#Hand-Toss) | 175 | 90 | 100 |
+| [Axe Stepping Chop](#SteppingChop) | Average | Either | Short | Cut | 40 Ranks in [Axe Basic Chop](#Basic-Chop) | 500 | 90 | 300 |
+| [Axe Pivoting Longarm](#Pivoting-Longarm) | Difficult | Either | Short | Pierce | 20 ranks in [Axe Longarm Strike](#Longarm-Strike)<br><br>20 Ranks in [Axe Pivot Smash](#Pivot-Smash) | 500 | 90 | 300 |
+| [Axe Stepping Leg Strike](#SteppingLegstrike) | Difficult | Either | Short | Bruise | 40 Ranks in [Axe Leg Strike](#Leg-Strike)<br><br>40 Ranks in [Axe Stepping Chop](#SteppingChop) | 500 | 90 | 300 |
+| [Axe Crossblock](#Crossblock) | Average | Either | - | - | - | 500 | 90 | 300 |
+| [Axe Chopping Block](#Chopping-Block) | Difficult | Either | - | - | - | 500 | 90 | 300 |
+| [Axe Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 90 | 100 |
+| [Axe Grip](#Grip) | Impossible | - | - | - | - | 100 | 90 | 100 |
 
 **Directions to Protarian** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, Nx1, Ex6, Sx1
 **Directions to Kerta** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, Nx3
@@ -112,7 +112,7 @@ The most basic attack with the axe, this is the common strike of the beginner. B
 
 >
 
-> This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
+> This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -135,7 +135,7 @@ One-handed, the wielder gives away some of his defensive balance for a moment, p
 
 >
 
-> This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
+> This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -177,7 +177,7 @@ The wielder pivots to face right or left while smashing indiscriminately at the 
 
 >
 
-> This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
+> This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -325,7 +325,7 @@ The wielder aims wide, deliberately aiming for the shield of their opponent, put
 
 >
 
-> This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
+> This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -360,7 +360,7 @@ Swing his axe horizontally, Hroth knocks away a thug's dirk.
 
 The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#willpower) will help them remain standing. The attacker's [strength](/stats/#strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down.
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -433,7 +433,7 @@ Hroth is slightly crouched, ready to spring, with axe held vertical beside his h
 
 ### Axe Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 **When you see this in use you see:**
 
@@ -448,7 +448,7 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Axe Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 
 **When you see this in use you see:**
 

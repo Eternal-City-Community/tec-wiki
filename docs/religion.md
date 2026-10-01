@@ -16,7 +16,7 @@ In the ancient theology of Midlight, the story of creation is told as Ereal bein
 
 It is believed that Ereal continues to watch over and nurture his children.
 
-Ereal is a sun god, and the chosen god of the people of both Iridine and Cinera. Ereal was, if the ancient stories are to be believed, one of many gods represented by the sun and moons in the sky. Iridine, the city and Republic's ancient founder, was a Priestess of Ereal and it is thus the Republic's chosen religion. Worship of a god other than Ereal is highly frowned upon in Republican territory, and sometimes in Cinera, but only true heresy and speaking out against Ereal in favor of another will land you in trouble with the Temple authorities. For more information about the Iridinian Cult of Ereal and the various sects: [Cult of Ereal: Sects](/cult-of-ereal/#cult-of-ereal).
+Ereal is a sun god, and the chosen god of the people of both Iridine and Cinera. Ereal was, if the ancient stories are to be believed, one of many gods represented by the sun and moons in the sky. Iridine, the city and Republic's ancient founder, was a Priestess of Ereal and it is thus the Republic's chosen religion. Worship of a god other than Ereal is highly frowned upon in Republican territory, and sometimes in Cinera, but only true heresy and speaking out against Ereal in favor of another will land you in trouble with the Temple authorities. For more information about the Iridinian Cult of Ereal and the various sects: [Cult of Ereal: Sects](/cult-of-ereal/#Sects).
 
 Worship of Ereal in one form or another is common throughout most civilized nations in the world of Midlight, including:
 * [Aestivan League](/aestivan-league/) (previously worshiped several different gods)

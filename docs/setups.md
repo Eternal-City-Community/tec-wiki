@@ -14,18 +14,18 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | *Hidden Iridine Trainer <sup>1</sup>* | *Hidden RV Trainer <sup>2</sup>* |
 | *<u>Setups</u>* | Easy | 25 | 200 |
-| [Draw Attention](#draw-attention-spook) | Easy | 25 | 150 |
-| [Ground Approach](#ground-approach-ground-approach) | Average | 25 | 150 |
-| [Assess Target](#assess-target-combatassess) | Average | 25 | 150 |
-| [Ear for Coin](#ear-for-coin-coinlisten) | Easy | 10 | 150 |
-| [Lip Reading](#lip-reading-watch-lips-toggle) | Difficult | - | 10 |
-| [Thief's Look](#thiefs-look-glance) | Easy | - | 10 |
-| [City Stalking](#city-stalking-citystalk) | Average | - | 10 |
-| [Fade Away](#fade-away-fade) | Average | - | 10 |
-| [Drunken Approach](#drunken-approach-drunkenwalk) | Average | - | 10 |
-| [Street Approach](#street-approach-streetapproach) | Average | - | 10 |
-| [Gentleman's Touch](#gentlmans-touch-rifle) | Difficult | - | 10 |
-| [Eavesdrop](#eavesdrop-eavesdrop) | Difficult | - | 10 |
+| [Draw Attention](#Draw-Attention) | Easy | 25 | 150 |
+| [Ground Approach](#Ground-Approach) | Average | 25 | 150 |
+| [Assess Target](#Assess-Target) | Average | 25 | 150 |
+| [Ear for Coin](#EarforCoin) | Easy | 10 | 150 |
+| [Lip Reading](#LipReading) | Difficult | - | 10 |
+| [Thief's Look](#ThiefsLook) | Easy | - | 10 |
+| [City Stalking](#CityStalking) | Average | - | 10 |
+| [Fade Away](#FadeAway) | Average | - | 10 |
+| [Drunken Approach](#DrunkenApproach) | Average | - | 10 |
+| [Street Approach](#StreetApproach) | Average | - | 10 |
+| [Gentleman's Touch](#GentTouch) | Difficult | - | 10 |
+| [Eavesdrop](#eavesdrop) | Difficult | - | 10 |
 
 ***<sup>1</sup> Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
 ***<sup>2</sup> Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast part of town.*

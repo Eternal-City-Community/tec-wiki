@@ -6,7 +6,7 @@ category: "Reference"
 # Property
 
 ## Owning Property
-Characters have the option of owning property, the options are: **domus**, **store** & **club house**. This can be done by spending Storypoints, Role Points, or simply purchasing from another character in-game and [transferring ownership](#property-transfers).
+Characters have the option of owning property, the options are: **domus**, **store** & **club house**. This can be done by spending Storypoints, Role Points, or simply purchasing from another character in-game and [transferring ownership](#transfers).
 
 All types of property come with an in-game monthly expenses, starting at **1,250d / month**. **Stores & Club Houses** typically come with **higher monthly expenses**, due to NPC wages.
 
@@ -29,7 +29,7 @@ See the full list of [commands](/commands/).
 
 <a id="domus"></a>
 #### Domus
-A **new domus** may only be **purchased using [Story Points](/account/#storypoint-purchases)**. You can purchase **an existing domus** in-game from another player using in-game currency and the [transfer of property](#property-transfers) service.
+A **new domus** may only be **purchased using [Story Points](/account/#StoryPointPurchases)**. You can purchase **an existing domus** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 A domus is intended to be a character's personal dwelling, not a store, or a bar, club house, art gallery, etc. as is commonly requested. 
 
@@ -38,7 +38,7 @@ Requests to modify a domus so that it can serve a purpose other than a private d
 
 <a id="store"></a>
 #### Store
-A **new store** (aka shop) may only be **purchased using [Role Points](/account/#role-point-purchases)**. You can purchase **an existing store** in-game from another player using in-game currency and the [transfer of property](#property-transfers) service.
+A **new store** (aka shop) may only be **purchased using [Role Points](/account/#RolePointPurchases)**. You can purchase **an existing store** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 At any time, the owner can choose to **have any portion of the building open to the public**.
 **[Property Modification Requests](/account/#requests-property)** can be made by existing property owners for such things as **altering rooms**, **adding NPCs**, **updating light fixtures**, etc.
@@ -50,12 +50,12 @@ A standard Store includes:
 * 1 Permanent Light Fixture
 * 4 fastened furniture items *(including a shop counter and display case)* 
 
-For more details on purchasing a **new property, see [Store Package](/rp-expenditure/#store-package-purchase)**.
+For more details on purchasing a **new property, see [Store Package](/rp-expenditure/#store)**.
 
 
 <a id="club-house"></a>
 #### Club House
-A **new club house** may only be **purchased using [Role Points](/account/#role-point-purchases)**. You can purchase **an existing club house** in-game from another player using in-game currency and the [transfer of property](#property-transfers) service.
+A **new club house** may only be **purchased using [Role Points](/account/#RolePointPurchases)**. You can purchase **an existing club house** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 At any time, the owner can choose to **have any portion of the building open to the public**.
 **[Property Modification Requests](/account/#requests-property)** can be made by existing property owners for such things as **altering rooms**, **adding NPCs**, **updating light fixtures**, etc.
@@ -67,7 +67,7 @@ A standard Club House includes:
 * 2 Permanent Light Fixtures
 * 8 fastened furniture items
 
-For more details on purchasing a **new property, see [Club House Package](/rp-expenditure/#club-house-package-purchase)**.
+For more details on purchasing a **new property, see [Club House Package](/rp-expenditure/#club-house)**.
 
 <a id="transfers"></a>
 ### Property Transfers

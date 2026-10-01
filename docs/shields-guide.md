@@ -20,7 +20,7 @@ Any shield made of bronze or iron can be **[Re-Forged](/weapons/#Reforge)** by *
 
 | Weapons | Weight | Made Of | How to get it |
 | --- | --- | --- | --- |
-| Reed Shield (& Buckler) |  | Reed | [Player-crafted](/outdoor-survival/#survival-weaving-sweave-into) |
+| Reed Shield (& Buckler) |  | Reed | [Player-crafted](/outdoor-survival/#Weaving) |
 | Hide Shield | 4 lbs | Hide | Buy in [Rock Valley](/shops/). Find in BHC |
 | Wooden Buckler | 4 lbs | Wood | Buy in [shops](/shops/). Find in hunting grounds. |
 | Wooden Round Shield | 5 lbs | Wood | Buy in [shops](/shops/). Find in hunting grounds. |

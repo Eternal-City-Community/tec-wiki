@@ -177,7 +177,7 @@ Those marked with ??? at the end need to be verified.
 <a id="property"></a>
 ## Property
 * Elus (Transfer of Property, [Forum](/forum/))
- * See [Property Transfers](/property/#property-transfers)
+ * See [Property Transfers](/property/#transfers)
 
 ## Barber/Hairdresser
 * Krinus (Barber, [Quartz Heights](/quartz-heights/))

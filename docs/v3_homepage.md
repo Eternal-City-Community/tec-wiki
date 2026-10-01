@@ -94,7 +94,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | [Knife Cross Block](#Cblock) | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Stealthy Draw](#Draw) | Easy | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Wrist Dancing](#Wd) | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Push Aside](#v3-homepage) | Difficult | 1 | Short | - | - | 175 | 80 | 50 | 75 | 75 |
+| [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut | [Knife Slash](#Slash) (20 Ranks) | 175 | 80 | 50 | 75 | 75 |

@@ -93,4 +93,4 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 
 <a id="Laws"></a>
 ### Laws
-* The [Constables](/constables/) are the local [lawkeepers](/law/#lawkeepers) of the city.
+* The [Constables](/constables/) are the local [lawkeepers](/law/#Lawkeepers) of the city.

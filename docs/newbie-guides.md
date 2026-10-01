@@ -37,7 +37,7 @@ The Republic of Iridine is currently engaged in a war with its neighbor to the N
 
 The laws of the lands are spelled out in the 12 Tables. HELP 12 TABLES will list them for you. Of special interest may be the Crimes and Punishments table. It lists all offenses that a character can commit and be jailed for the player or non-player law enforcement forces. Non-citizens and citizens alike are bound to the same rules, but the punishments and crimes vary based on your status with the Republic.
 
-[Back to Top](#)
+[Back to Top](#Top)
 ---
 #### **What To Do and Why to Do It**
 

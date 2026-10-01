@@ -299,7 +299,7 @@ A thick bramble-covered bush, found in lightly forested areas. The berries are e
 
 
 #### Black Lotus
-Extremely rare. Not typically found in the wild. Used in **brewing extremely rare [potions](/herbalism-guide/#brewing-potions)**.
+Extremely rare. Not typically found in the wild. Used in **brewing extremely rare [potions](/herbalism-guide/#BrewingPotions)**.
 
 
 #### Blueberry

@@ -9,29 +9,29 @@ Difficulty currently set to 0 until scaling/rating system is created.
 
 | Creature | Location | Map | Difficulty | Loot Value* |
 | --- | --- | --- | --- | --- |
-| [Angry Gull](#an-angry-gull) | [Signal Tower Island](#signal-tower-island) | [Map](/signal-tower-island/) | 0 | 2d |
-| [Fluvitur Pup](#a-fluvitur-pup) | [Signal Tower Island](#signal-tower-island) | [Map](/signal-tower-island/) | 0 | 16d |
-| [Rock Crab](#a-rock-crab) | [Signal Tower Island](#signal-tower-island) | [Map](/signal-tower-island/) | 0 | 20d |
-| [Saltwater Snapper Turtle](#a-saltwater-snapper-turtle) | [Signal Tower Island](#signal-tower-island) | [Map](/signal-tower-island/) | 0 | 53d |
-| [Fluvitur](#Fluvitur) | [Signal Tower Island Shipwreck](#signal-tower-island-shipwreck) | [Map](/signal-tower-island/) | 0 | 33d |
-| [Large Brown Rat](#a-large-brown-rat) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 13d |
-| [Osecar](#an-osecar) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 31d |
-| [Sewer Rodent](#a-sewer-rodent) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 27d |
-| [Sewer Snake](#a-sewer-snake) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 24d |
-| [Small Alligator](#a-small-alligator) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 59d |
-| [Quivering Ooze](#a-quivering-ooze) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 0 |
-| [Gigantic Spider](#a-gigantic-spider) | [Iridine Sewers](#iridine-sewers) | [Map](/sewers-and-sea-caves/) | 0 | 15d |
-| [Chauliodus Sloani](#chauliodus-sloani) | [Monlon Barracks](#monlon-barracks) | [Map](/monlon-rockslide/) | 0 | 0 |
-| [Pungopiscor](#pungopiscor) | [Monlon Barracks](#monlon-barracks) | [Map](/monlon-rockslide/) | 0 | 0 |
-| [Statorus](#statorus) | [Monlon Barracks](#monlon-barracks) | [Map](/monlon-rockslide/) | 0 | 0 |
+| [Angry Gull](#AngryGull) | [Signal Tower Island](#STI) | [Map](/signal-tower-island/) | 0 | 2d |
+| [Fluvitur Pup](#FluPup) | [Signal Tower Island](#STI) | [Map](/signal-tower-island/) | 0 | 16d |
+| [Rock Crab](#RockCrab) | [Signal Tower Island](#STI) | [Map](/signal-tower-island/) | 0 | 20d |
+| [Saltwater Snapper Turtle](#SaltSnapper) | [Signal Tower Island](#STI) | [Map](/signal-tower-island/) | 0 | 53d |
+| [Fluvitur](#Fluvitur) | [Signal Tower Island Shipwreck](#Shipwreck) | [Map](/signal-tower-island/) | 0 | 33d |
+| [Large Brown Rat](#BrownRat) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 13d |
+| [Osecar](#Osecar) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 31d |
+| [Sewer Rodent](#Rodent) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 27d |
+| [Sewer Snake](#SewerSnake) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 24d |
+| [Small Alligator](#SmallAlligator) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 59d |
+| [Quivering Ooze](#QuivOoze) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 0 |
+| [Gigantic Spider](#GiganticSpider) | [Iridine Sewers](#IriSewers) | [Map](/sewers-and-sea-caves/) | 0 | 15d |
+| [Chauliodus Sloani](#ChauliodusSloani) | [Monlon Barracks](#MonBar) | [Map](/monlon-rockslide/) | 0 | 0 |
+| [Pungopiscor](#Pungopiscor) | [Monlon Barracks](#MonBar) | [Map](/monlon-rockslide/) | 0 | 0 |
+| [Statorus](#Statorus) | [Monlon Barracks](#MonBar) | [Map](/monlon-rockslide/) | 0 | 0 |
 
 * Loot value based on masterful quality skins (see this guide: /aoden-hunting-guide/). Prices may be out of date.
 
 ##### Locations:
-[Iridine Sewers](#iridine-sewers), [Monlon Baracks](#monlon-barracks), [Signal Tower Island](#signal-tower-island), [Signal Tower Island Shipwreck](#signal-tower-island-shipwreck)
+[Iridine Sewers](#IriSewers), [Monlon Baracks](#MonBar), [Signal Tower Island](#STI), [Signal Tower Island Shipwreck](#Shipwreck)
 
 ##### Creatures:
-[Angry Gull](#an-angry-gull) | [Chauliodus Sloani](#chauliodus-sloani) | [Fluvitur](#Fluvitur) | [Fluvitur Pup](#a-fluvitur-pup) | [Gigantic Spider](#a-gigantic-spider) | [Large Brown Rat](#a-large-brown-rat) | [Osecar](#an-osecar) | [Pungopiscor](#pungopiscor) | [Quivering Ooze](#a-quivering-ooze) | [Rock Crab](#a-rock-crab) | [Saltwater Snapper Turtle](#a-saltwater-snapper-turtle) | [Sewer Rodent](#a-sewer-rodent) | [Sewer Snake](#a-sewer-snake) | [Small Alligator](#a-small-alligator) | [Statorus](#statorus)
+[Angry Gull](#AngryGull) | [Chauliodus Sloani](#ChauliodusSloani) | [Fluvitur](#Fluvitur) | [Fluvitur Pup](#FluPup) | [Gigantic Spider](#GiganticSpider) | [Large Brown Rat](#BrownRat) | [Osecar](#Osecar) | [Pungopiscor](#Pungopiscor) | [Quivering Ooze](#QuivOoze) | [Rock Crab](#RockCrab) | [Saltwater Snapper Turtle](#SaltSnapper) | [Sewer Rodent](#Rodent) | [Sewer Snake](#SewerSnake) | [Small Alligator](#SmallAlligator) | [Statorus](#Statorus)
 
 <a id="STI"></a>
 #### Signal Tower Island: 

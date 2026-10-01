@@ -19,7 +19,7 @@ category: "Reference"
 
 #### Warnings
 * Some of the Aralex **will continue attacking until they put characters into a [coma](/character-condition/)**, don't push your limits!
-* **Perfecting** [Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#backwards-rolling-rise-brise) is highly recommended, if not mandatory**.
+* **Perfecting** [Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) is highly recommended, if not mandatory**.
 
 ### Aralex Sizes
 * **Baby aralex** - Infant stage. Not much to be worried about. As with all aralex, avoid their tails.
@@ -33,7 +33,7 @@ category: "Reference"
 ### Collecting Eggs
 Aralex eggs can be found in multiple amphoras within the tunnels. If an egg is available within, trying to **get one from the amphora** will spawn several Aralex for you to kill, they guard the amphora against you getting to it. Once eggs are taken, **they take several hours to respawn**, so only so many eggs can be harvested a day.  
 
-Aralex eggs can be donated to the retired gladiator Prestis to earn favorable [reputation#Aralex](/reputation/#aralex-eggs) with him.
+Aralex eggs can be donated to the retired gladiator Prestis to earn favorable [reputation#Aralex](/reputation/#Aralex) with him.
 
 
 ### Tiers

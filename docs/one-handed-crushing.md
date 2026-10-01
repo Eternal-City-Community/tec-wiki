@@ -17,27 +17,27 @@ Other cultures, primarily primitive ones, have been known to use clubs extensive
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Cottus | Rontubius | Cassius | Cralus |
 | *<u>One-Handed Crushing</u>* | Easy | - | - | - | - | 115 | 300 | 300 | 130 |
-| [Club Iunius' Stance](#iunius-stance-iuniusstance) | Easy | - | - | - | - | 100 | 100 | 100 | 120 |
-| [Club Simple Bash](#club-simple-bash-bash) | Easy | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Strike](#club-strike-strike) | Easy | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Swat](#club-swat-swat) | Easy | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Crush](#club-crush-crush) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Feint](#club-feint-feint) | Average | Either | Short | - | - | 100 | 175 | 300 | 120 |
-| [Club Shield-Breaker](#club-shield-breaker-break) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Smash](#club-smash-smash) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Side Strike](#club-side-strike-side) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Upswing](#club-upswing-upswing) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Knock Aside](#club-knock-aside-knockaside) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Leg Strike](#club-leg-strike-legstrike) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Round Strike](#club-round-strike-round) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Sap](#club-sap-sap) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
-| [Club Stepping Crush](#club-stepping-crush-scrush) | Average | Either | Short | Bruise | 40 Ranks in [Club Crush](#club-crush-crush) | 100 | 175 | 300 | 120 |
-| [Club Hop Bash](#club-hop-bash-hbash) | Difficult | Either | Short | Bruise | 20 Ranks in [Club Simple Bash](#club-simple-bash-bash) | 100 | 175 | 300 | 120 |
-| [Club Simple Block](#club-simple-block-na) | Easy | - | - | - | - | 100 | 175 | 300 | 120 |
-| [Club Cross Block](#club-cross-block-na) | Average | - | - | - | - | 100 | 175 | 300 | 120 |
-| [Club Head Block](#club-head-block-na) | Average | - | - | - | - | ??? | ??? | 300 | ??? |
-| [Club Accuracy](#club-accuracy-na) | Difficult | - | - | - | - | - | 100 | 100 | - |
-| [Club Grip](#club-grip-na) | Impossible | - | - | - | - | - | 100 | 100 | - |
+| [Club Iunius' Stance](#Stance) | Easy | - | - | - | - | 100 | 100 | 100 | 120 |
+| [Club Simple Bash](#Bash) | Easy | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Strike](#Strike) | Easy | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Swat](#Swat) | Easy | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Crush](#Crush) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Feint](#Feint) | Average | Either | Short | - | - | 100 | 175 | 300 | 120 |
+| [Club Shield-Breaker](#Break) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Smash](#Smash) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Side Strike](#Side) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Upswing](#Upswing) | Average | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Knock Aside](#Knock) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Leg Strike](#Leg) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Round Strike](#Round) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Sap](#Sap) | Difficult | Either | Short | Bruise | - | 100 | 175 | 300 | 120 |
+| [Club Stepping Crush](#Stepping) | Average | Either | Short | Bruise | 40 Ranks in [Club Crush](#Crush) | 100 | 175 | 300 | 120 |
+| [Club Hop Bash](#Hop) | Difficult | Either | Short | Bruise | 20 Ranks in [Club Simple Bash](#Bash) | 100 | 175 | 300 | 120 |
+| [Club Simple Block](#Simple) | Easy | - | - | - | - | 100 | 175 | 300 | 120 |
+| [Club Cross Block](#Cross) | Average | - | - | - | - | 100 | 175 | 300 | 120 |
+| [Club Head Block](#Head) | Average | - | - | - | - | ??? | ??? | 300 | ??? |
+| [Club Accuracy](#Accuracy) | Difficult | - | - | - | - | - | 100 | 100 | - |
+| [Club Grip](#Grip) | Impossible | - | - | - | - | - | 100 | 100 | - |
 
 **Directions to Cassius** ([Iridine](/riverside/)): Walk to Toga, W, SW, S, E
 **Directions to Cottus** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx2, W

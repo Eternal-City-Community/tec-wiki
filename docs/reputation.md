@@ -21,7 +21,7 @@ Enemies in [Franlius Battleground](/town-of-franlius/) may carry an armband, sig
 Hiltha stocks a variety of rare items, which are harder to come by. For more details on the available colors and qualities, consult the [Shops](/shops/) page.
 
 #### Rewards
-Due to armbands being the easiest to measure reputation, the below table is measured on combat armband levels. The related tiers (T1, T2...) are described in the [Franlius Battlegrounds](/hg-franlius/#franlius-battlegrounds) hunting ground. Armbands from tiers of higher difficulty are worth more reputation.
+Due to armbands being the easiest to measure reputation, the below table is measured on combat armband levels. The related tiers (T1, T2...) are described in the [Franlius Battlegrounds](/hg-franlius/#Tiers) hunting ground. Armbands from tiers of higher difficulty are worth more reputation.
 
 |  |  | Reputation per Armband |
 | --- | --- | --- |
@@ -145,7 +145,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 
 
 #### City of Monlon
-[Romulus](/services/#vendors) (located south of the [Lost Amulet Inn](/monlon/)) sells **unique bronze and iron armor**, most of which cannot be acquired elsewhere. He accepts **specific stone, bronze & iron armor** as well as **iron, alanti, boison & retalq Kelestian weapons** from fighters daring enough to battle the [Kelestians](/kelestia/), earning them reputation as payment. 
+[Romulus](/services/#Vendors) (located south of the [Lost Amulet Inn](/monlon/)) sells **unique bronze and iron armor**, most of which cannot be acquired elsewhere. He accepts **specific stone, bronze & iron armor** as well as **iron, alanti, boison & retalq Kelestian weapons** from fighters daring enough to battle the [Kelestians](/kelestia/), earning them reputation as payment. 
 
 | Item | Warrior | Mountaineer | Ravager | Naturalist | Falconer | Overseer | Ascetic | Contemplative | Tuneller |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -332,7 +332,7 @@ The witch **Ghendrahda** is located in the [Stromheim](/village-of-stromheim/) a
 #### Earning Rep
 Once you've entered the [village of Stromheim](/village-of-stromheim/), trading fish/pelts/corpses/items with the Stromheim vendors (e.g. Borkos, etc.) will earn you reputation within the village.
 
-**Note:** Once you've earned a large amount of reputation, the door guard will tell you Ghendrahda wants to talk to you and you will have unlocked [Runing](#runing-ghendrahda).
+**Note:** Once you've earned a large amount of reputation, the door guard will tell you Ghendrahda wants to talk to you and you will have unlocked [Runing](#Runing).
 
 Examples of items to trade to vendor:
 * Fish exchange
@@ -373,14 +373,14 @@ Lucio & Lexa (Black Centurions, [The Steps North](/the-steps-north/))
 You can donate [stones](/stones-ores/) or [money](/wealth/#Iridine) to the [Cult of Ereal](/cult-of-ereal/) for reputation. Stones not commonly found around the area are typically considered more appreciated.
 
 **Stone Donation**
-Acolytes are interested in [stones](/stones-ores/) required for [magic rituals](/magic/#magic), these stones are: **Sun Stone**, **Sardonyx**, **Amber**, **Topaz**, **Coral**, **Garnet** & **Quartz**.
+Acolytes are interested in [stones](/stones-ores/) required for [magic rituals](/magic/#Reagents), these stones are: **Sun Stone**, **Sardonyx**, **Amber**, **Topaz**, **Coral**, **Garnet** & **Quartz**.
 
 * **Ellyndel** ([Stone](/stones-ores/) Donations, [Gardens and Hospice](/gardens-and-hospice/))
 * **Hilla** ([Stone](/stones-ores/) Donations, [Town of Rock Valley](/town-of-rock-valley/))
 
 **Money Donation**
-* **Artuio** ([Iridinian Money](/wealth/#iridinian-currency) Donation, [City of Monlon](/city-of-monlon/))
-* **Skechen** ([Iridinian Money](/wealth/#iridinian-currency) Donation, [Gardens and Hospice](/gardens-and-hospice/))
+* **Artuio** ([Iridinian Money](/wealth/#Iridine) Donation, [City of Monlon](/city-of-monlon/))
+* **Skechen** ([Iridinian Money](/wealth/#Iridine) Donation, [Gardens and Hospice](/gardens-and-hospice/))
 
 
 #### Spending Reputation
@@ -450,7 +450,7 @@ Krimalus says to you, "Bring me twenty grasshoppers before the day's over, an I'
 ---
 Once you’ve gotten him to train you via a favor, you can type learn to see what skills he teaches, and learn lore to see what Lores he teaches.
 
-Only Krimalus currently teaches the skills [Survival Weaving](/outdoor-survival/#survival-weaving-sweave-into), [Whittling](/outdoor-survival/#whittling-whittle-into), [Ursine Hunting](/hunting/#ursine-hunting), and [Goat Hunting](/hunting/#goat-hunting). He is also the only one that teaches [Survival Cordage Lore](/outdoor-survival/#survival-cordage-lore-cord), [Advanced Camp Cooking Lore](/outdoor-survival/#advanced-camp-cooking-lore-blacken-sear-broil-roast).
+Only Krimalus currently teaches the skills [Survival Weaving](/outdoor-survival/#Weaving), [Whittling](/outdoor-survival/#Whittling), [Ursine Hunting](/hunting/#ursinelore), and [Goat Hunting](/hunting/#goatlore). He is also the only one that teaches [Survival Cordage Lore](/outdoor-survival/#cordage), [Advanced Camp Cooking Lore](/outdoor-survival/#cooklore).
 
 
 <a id="Herbalism"></a>
@@ -481,7 +481,7 @@ The following items can be unlocked, given enough reputation. Generally, the fur
 | A faceted crystal vial on a thin silver chain | 28t 781d 1st |
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 
 <a id="Herb-Lessons"></a>
@@ -491,4 +491,4 @@ After selling at least 1000 denars worth of herbs to Mollicia's, attempting to '
 **Terali** is an [herbalist](/herbalism/), during daylight she is out exploring, but at sunset she can be found resting just to the south of Mollicia.
 
 
-[Back to Top](#)
+[Back to Top](#Top)

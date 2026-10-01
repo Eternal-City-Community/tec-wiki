@@ -14,47 +14,47 @@ This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoo
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Prerequisite | **Krimalus** | Fern | Tauruu | Shantaz | Jarla |
 | *<u>Hunting</u>* | Easy | - | 80 | 50 | 125 | 150 | 200 |
-| [Deadfall Snares](#deadfall-snares) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Cord Snares](#cord-snares) | Average | 10 Ranks in [Deadfall Snares](#deadfall-snares) | 60 | 50 | 100 | 125 | 150 |
-| [Sapling Snares](#sapling-snares) | Difficult | 20 Ranks in [Cord Snares](#cord-snares) | 60 | 50 | 100 | 125 | 150 |
-| [Forester Dismantling](#forester-dismantling) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Pole Fishing](#pole-fishing) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Deer Hunting](#deer-hunting) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Rabbit Hunting](#rabbit-hunting) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Gamebird Hunting](#gamebird-hunting) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Boar Hunting](#boar-hunting) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Ursine Hunting](#ursine-hunting) | Impossible | - | 80 | - | - | - | - |
-| [Goat Hunting](#goat-hunting) | Difficult | - | 80 | - | - | - | 150 |
-| [Deer's Instinct](#deers-instinct) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Simple Hiding](#simple-hiding) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Basic Skinning](#basic-skinning) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Intermediate Skinning](#intermediate-skinning) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Advanced Skinning](#advanced-skinning) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+| [Deadfall Snares](#deadfall) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Cord Snares](#cord) | Average | 10 Ranks in [Deadfall Snares](#deadfall) | 60 | 50 | 100 | 125 | 150 |
+| [Sapling Snares](#sapling) | Difficult | 20 Ranks in [Cord Snares](#cord) | 60 | 50 | 100 | 125 | 150 |
+| [Forester Dismantling](#disarm) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Pole Fishing](#cast) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Deer Hunting](#deerlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Rabbit Hunting](#rabbitlore) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Gamebird Hunting](#birdlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Boar Hunting](#boarlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Ursine Hunting](#ursinelore) | Impossible | - | 80 | - | - | - | - |
+| [Goat Hunting](#goatlore) | Difficult | - | 80 | - | - | - | 150 |
+| [Deer's Instinct](#freeze) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Simple Hiding](#hide) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Basic Skinning](#skin) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Intermediate Skinning](#intSkin) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Advanced Skinning](#advSkin) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
 | [Craft Basic Arrow](#arrow) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Stave](#craft-basic-stave) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Spear](#craft-basic-spear) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Survival Knapping](#survival-knapping) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Club](#craft-basic-club) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Short Bow](#craft-basic-short-bow) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Knife](#craft-basic-knife) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Axe](#craft-basic-axe) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Stave](#stave) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Spear](#spear) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Survival Knapping](#knapping) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Club](#club) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Short Bow](#bow) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Knife](#knife) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Axe](#axe) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
 
 |  | Hunting Lores |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lore | Difficulty | Krimalus | Fern | Tauruu | Shantaz | Jarla |
-| [Hunter Tipping Lore](#hunter-tipping-lore) | *TBC* | 25 | - | 25 | - | - |
-| [Field Dressing Lore](#field-dressing-lore) | *TBC* | 25 | - | 25 | - | - |
+| [Hunter Tipping Lore](#tipping) | *TBC* | 25 | - | 25 | - | - |
+| [Field Dressing Lore](#fdress) | *TBC* | 25 | - | 25 | - | - |
 
 **Directions to Fern** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Sx1, Wx1
-**Directions to Krimalus** ([Wilderness](/the-west-grasslands/)): Near the cliffs in the coastal forest north of the Iridine. Krimalus is not a typical trainer, **see [Reputation Guide](/reputation/#krimalus) for details.**
+**Directions to Krimalus** ([Wilderness](/the-west-grasslands/)): Near the cliffs in the coastal forest north of the Iridine. Krimalus is not a typical trainer, **see [Reputation Guide](/reputation/#Krimalus) for details.**
 **Directions to Tauruu** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx5, Ex1, Nx1, Wx3
 **Directions to Shantaz** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Wx8, N, E 
 **Directions to Jarla** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Notes on Learning
 * You can also use Skill Points (SP) from [Outdoor Survival](/outdoor-survival/) to learn Hunting.
-* When learning your first rank of Hunting using [GSP](/skills/#general-skill-points-gsp), will also learn the [Deadfall Snares](#deadfall-snares), [Basic Skinning](#basic-skinning) and [Pole Fishing](#pole-fishing) sub skills.
-* **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#krimalus) for details.**
+* When learning your first rank of Hunting using [GSP](/skills/#GSP), will also learn the [Deadfall Snares](#deadfall), [Basic Skinning](#skin) and [Pole Fishing](#cast) sub skills.
+* **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
 
 
 ### Snaring
@@ -259,7 +259,7 @@ Using some deadwood and a long bird feather, the Hunter attempts to create an ar
 #### Survival Knapping
 Difficulty: Average
 ##### Usage: knap <stone|bone> into <spearhead|arrowhead>
-Using a hammerstone (round rock), found in the wilderness, the Hunter will scrape nearby rocks or bones into arrowheads, to improve the quality and damage his manufactured arrows can inflict. You'll need to know [Hunter Tipping Lore](#hunter-tipping-lore) in order to fasten your creations onto an arrow or other weapon
+Using a hammerstone (round rock), found in the wilderness, the Hunter will scrape nearby rocks or bones into arrowheads, to improve the quality and damage his manufactured arrows can inflict. You'll need to know [Hunter Tipping Lore](#tipping) in order to fasten your creations onto an arrow or other weapon
 
 <a id="spear"></a>  
 #### Craft Basic Spear

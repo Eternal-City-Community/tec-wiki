@@ -15,21 +15,21 @@ Below you'll find everything important to know about using Missile Bows.
 #### Cons
 * Archery is practically ineffective in [Franlius Battlerground](/hg-franlius/), high winds prevent most shots.
 * More difficult to train than any other combat skill. **Not recommended to newer players as a starting skill.**
-* Only 1 incomplete layer of defense (CMs) + 1 Difficult Block ([Handle Parry](/missile-weapons-bows/#handle-parry-na)).
+* Only 1 incomplete layer of defense (CMs) + 1 Difficult Block ([Handle Parry](/missile-weapons-bows/#HParry)).
 * Many of the **fundamental skills are Difficult or Impossible** with very few Easy skills in the set.
 
 
 ### Advice & Tips
-* Archery **damage scales with increased ranks** in [Basic Shot](/missile-weapons-bows/#basic-shot-shoot). All shot damage reaches its **maximum potential at rank 151** in [Basic Shot](/missile-weapons-bows/#basic-shot-shoot).
+* Archery **damage scales with increased ranks** in [Basic Shot](/missile-weapons-bows/#Basic). All shot damage reaches its **maximum potential at rank 151** in [Basic Shot](/missile-weapons-bows/#Basic).
 * Archery **skill effectiveness scales with increased ranks** in each skill. Each skill reaches its maximum effective potential *(e.g. stuns, pins, etc.)* at **rank 151**, as has been confirmed by GM Tale. <sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/84501-bug-fixes?p=1733694#post1733694)  [2](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1730989-footshot?p=1733709#post1733709)</sup>
 * Use the get arrow from target command to retrieve arrows from an **archery target**.
 * Use the pull arrow from <corpse> command to retrieve your arrows from an individual corpse.
 * Use the retrieve arrows or recover arrows command to retrieve re-usable arrows from all of the corpses in the current area.
 * Use the **load <bow> with <arrow>** command to **manually load your bow**.
 * Use the **scan clear** command to **clear** your **scanned targets**.
-* Use the **weather** command to gauge how much **wind** there is **from your position**. **Stronger winds increase** the penalty to shoot. [Wind Gauging](/missile-weapons-bows/#wind-gauging) can be used to offset up to 50 RB of penalty (max rank 100)."
-* **100 ranks** in both [Quick Load](/missile-weapons-bows/#quick-load-quickload) and [Quick Shot](/missile-weapons-bows/#quick-shot-quickshot) will allow you to **automatically load your empty bow** before every shot.
-* The **ammo** command will set your preferred arrow type, when using [Quick Load](/missile-weapons-bows/#quick-load-quickload) while carrying multiple types of arrows.
+* Use the **weather** command to gauge how much **wind** there is **from your position**. **Stronger winds increase** the penalty to shoot. [Wind Gauging](/missile-weapons-bows/#Wind) can be used to offset up to 50 RB of penalty (max rank 100)."
+* **100 ranks** in both [Quick Load](/missile-weapons-bows/#Load) and [Quick Shot](/missile-weapons-bows/#QShot) will allow you to **automatically load your empty bow** before every shot.
+* The **ammo** command will set your preferred arrow type, when using [Quick Load](/missile-weapons-bows/#Load) while carrying multiple types of arrows.
 * Do not take arrows out of the small bag that the bank clerks gives you. It will increase the weight of your arrows.
 
 
@@ -70,17 +70,17 @@ Required SP: *~650 SP*
 | # | Skill | To Rank |
 | --- | --- | --- |
 | 1 | ***Archery*** | 20 |
-| 2 | [Wind Gauging](/missile-weapons-bows/#wind-gauging) | 1 |
-| 3 | [Off-Position Firing](/missile-weapons-bows/#off-position-firing) | 1 |
-| 4 | [Point Blank Targeting](/missile-weapons-bows/#point-blank-targeting) | 1 |
-| 5 | [Long Range](/missile-weapons-bows/#long-range-targeting) | 1 |
-| 6 | [Basic Shot](/missile-weapons-bows/#basic-shot-shoot) | 20 |
-| 7 | [Steady Aim](/missile-weapons-bows/#steady-aim-aim) | 20 |
-| 8 | [Foot Shot](/missile-weapons-bows/#foot-shot-footshot) | 20 |
-| 9 | [Hand Shot](/missile-weapons-bows/#hand-shot-handshot) | 1 |
+| 2 | [Wind Gauging](/missile-weapons-bows/#Wind) | 1 |
+| 3 | [Off-Position Firing](/missile-weapons-bows/#Off) | 1 |
+| 4 | [Point Blank Targeting](/missile-weapons-bows/#Point) | 1 |
+| 5 | [Long Range](/missile-weapons-bows/#Long) | 1 |
+| 6 | [Basic Shot](/missile-weapons-bows/#Basic) | 20 |
+| 7 | [Steady Aim](/missile-weapons-bows/#Steady) | 20 |
+| 8 | [Foot Shot](/missile-weapons-bows/#Foot) | 20 |
+| 9 | [Hand Shot](/missile-weapons-bows/#Hand) | 1 |
 
-* You only really need **[Wind Gauging](/missile-weapons-bows/#wind-gauging)** and **[Off-Position Firing](/missile-weapons-bows/#off-position-firing)**, but the other 2 help with shooting things other than the target, and will need to be learned along with [slope gauging](/missile-weapons-bows/#slope-gauging).
-* Getting [Hand Shot](/missile-weapons-bows/#hand-shot-handshot) makes it so you get a solid **2-shots rotation**.
+* You only really need **[Wind Gauging](/missile-weapons-bows/#Wind)** and **[Off-Position Firing](/missile-weapons-bows/#Off)**, but the other 2 help with shooting things other than the target, and will need to be learned along with [slope gauging](/missile-weapons-bows/#Slope).
+* Getting [Hand Shot](/missile-weapons-bows/#Hand) makes it so you get a solid **2-shots rotation**.
 
 
 #### Phase 2 (~398 SP)
@@ -92,9 +92,9 @@ Required SP: *~398 SP*
 | # | Skill | To Rank |
 | --- | --- | --- |
 | 1 | ***Archery*** | 40 |
-| 2 | [Basic Shot](/missile-weapons-bows/#basic-shot-shoot) | 40 |
-| 3 | [Steady Aim](/missile-weapons-bows/#steady-aim-aim) | 40 |
-| 4 | [Head Shot](/missile-weapons-bows/#head-shot-headshot) | 1 |
+| 2 | [Basic Shot](/missile-weapons-bows/#Basic) | 40 |
+| 3 | [Steady Aim](/missile-weapons-bows/#Steady) | 40 |
+| 4 | [Head Shot](/missile-weapons-bows/#Head) | 1 |
 
 * Getting Archery to 40 is working on your **3-shot rotation** & increasing your time on the target and learning the second shot.
 
@@ -107,12 +107,12 @@ Required SP: *~558 SP*
 
 | # | Skill | To Rank |
 | --- | --- | --- |
-| 1 | [Quick Load](/missile-weapons-bows/#quick-load-quickload) | 20 |
-| 2 | [Quick String](/missile-weapons-bows/#quick-string-quickstring) | 20 |
-| 3 | [Quick Draw](/missile-weapons-bows/#quick-draw-quickdraw) | 20 |
-| 4 | [Quick Shot](/missile-weapons-bows/#quick-shot-quickshot) | 1 |
+| 1 | [Quick Load](/missile-weapons-bows/#Load) | 20 |
+| 2 | [Quick String](/missile-weapons-bows/#Quick) | 20 |
+| 3 | [Quick Draw](/missile-weapons-bows/#Draw) | 20 |
+| 4 | [Quick Shot](/missile-weapons-bows/#QShot) | 1 |
 
-* [Rapid Fire Shot](/missile-weapons-bows/#rapid-fire-shot-rapid) doesn’t count as a separate shot, it counts as 2 basic shots that are fired instead of a different shot.
+* [Rapid Fire Shot](/missile-weapons-bows/#Rapid) doesn’t count as a separate shot, it counts as 2 basic shots that are fired instead of a different shot.
 * All the passives till later on only need to be at 1 for you to gain some benefits.
 * You should now get the best sp-gain from here on out.
 
@@ -125,24 +125,24 @@ Required SP: *~2,260+ SP*
 
 | # | Skill | To Rank |
 | --- | --- | --- |
-| 1 | [Wind Gauging](/missile-weapons-bows/#wind-gauging) | 10 |
-| 2 | [Slope Gauging](/missile-weapons-bows/#slope-gauging) | 10 |
-| 3 | [Off-Position Firing](/missile-weapons-bows/#off-position-firing) | 10 |
-| 4 | [Long Range](/missile-weapons-bows/#long-range-targeting) | 10 |
-| 5 | [Point Blank Targeting](/missile-weapons-bows/#point-blank-targeting) | 10 |
+| 1 | [Wind Gauging](/missile-weapons-bows/#Wind) | 10 |
+| 2 | [Slope Gauging](/missile-weapons-bows/#Slope) | 10 |
+| 3 | [Off-Position Firing](/missile-weapons-bows/#Off) | 10 |
+| 4 | [Long Range](/missile-weapons-bows/#Long) | 10 |
+| 5 | [Point Blank Targeting](/missile-weapons-bows/#Point) | 10 |
 | 6 | ***Archery*** | 101 |
-| 7 | [Basic Shot](/missile-weapons-bows/#basic-shot-shoot) | 101 |
-| 8 | [Head Shot](/missile-weapons-bows/#head-shot-headshot) | 101 |
-| 9 | [Foot Shot](/missile-weapons-bows/#foot-shot-footshot) | 101 |
-| 10 | [Quick Draw](/missile-weapons-bows/#quick-draw-quickdraw) | 43 |
-| 11 | [Quick Load](/missile-weapons-bows/#quick-load-quickload) | Until Success of 1 |
+| 7 | [Basic Shot](/missile-weapons-bows/#Basic) | 101 |
+| 8 | [Head Shot](/missile-weapons-bows/#Head) | 101 |
+| 9 | [Foot Shot](/missile-weapons-bows/#Foot) | 101 |
+| 10 | [Quick Draw](/missile-weapons-bows/#Draw) | 43 |
+| 11 | [Quick Load](/missile-weapons-bows/#Load) | Until Success of 1 |
 
 
 * **Rank 101** is when you can start **hitting people regularly**.
-* If you **feel up to it**, you can also get **1 rank** in [Simple Stringing](/missile-weapons-bows/#simple-stringing-string-with), [Simple Unstringing](/missile-weapons-bows/#simple-unstringing-unstring) & [Range Assessment](/missile-weapons-bows/#range-assessment-range).
+* If you **feel up to it**, you can also get **1 rank** in [Simple Stringing](/missile-weapons-bows/#SS), [Simple Unstringing](/missile-weapons-bows/#Unstring) & [Range Assessment](/missile-weapons-bows/#Range).
 * If you have bad [stats](/stats/), stat skills () could be learned in Phase 4 in addition to others.
-* If you’re working towards **hunting with people**, you can also learn **45 ranks in [Shot Timing](/missile-weapons-bows/#shot-timing-na)**.
-* Rank **43 in [Quick Draw](/missile-weapons-bows/#quick-draw-quickdraw)** typically means a success of 1.
+* If you’re working towards **hunting with people**, you can also learn **45 ranks in [Shot Timing](/missile-weapons-bows/#Time)**.
+* Rank **43 in [Quick Draw](/missile-weapons-bows/#Draw)** typically means a success of 1.
 
 
 #### Phase 5 (~1,970 SP)
@@ -153,15 +153,15 @@ Required SP: *~1,970 SP*
 
 | # | Skill | To Rank |
 | --- | --- | --- |
-| 1 | [Wind Gauging](/missile-weapons-bows/#wind-gauging) | 20 |
-| 2 | [Slope Gauging](/missile-weapons-bows/#slope-gauging) | 20 |
-| 3 | [Off-Position Firing](/missile-weapons-bows/#off-position-firing) | 20 |
-| 4 | [Long Range](/missile-weapons-bows/#long-range-targeting) | 20 |
-| 5 | [Point Blank Targeting](/missile-weapons-bows/#point-blank-targeting) | 20 |
+| 1 | [Wind Gauging](/missile-weapons-bows/#Wind) | 20 |
+| 2 | [Slope Gauging](/missile-weapons-bows/#Slope) | 20 |
+| 3 | [Off-Position Firing](/missile-weapons-bows/#Off) | 20 |
+| 4 | [Long Range](/missile-weapons-bows/#Long) | 20 |
+| 5 | [Point Blank Targeting](/missile-weapons-bows/#Point) | 20 |
 | 6 | ***Archery*** | 151+ |
-| 7 | [Basic Shot](/missile-weapons-bows/#basic-shot-shoot) | 151+ |
-| 8 | [Head Shot](/missile-weapons-bows/#head-shot-headshot) | 151+ |
-| 9 | [Foot Shot](/missile-weapons-bows/#foot-shot-footshot) | 151+ |
+| 7 | [Basic Shot](/missile-weapons-bows/#Basic) | 151+ |
+| 8 | [Head Shot](/missile-weapons-bows/#Head) | 151+ |
+| 9 | [Foot Shot](/missile-weapons-bows/#Foot) | 151+ |
 
 
 <!--
@@ -262,8 +262,8 @@ A rank of **1 signifies the best** in this category. All arrows have the same sp
 
 ### Moves
 #### Worthwhile
-* [Quick Load](/missile-weapons-bows/#quick-load-quickload) - Faster loading for training.
-* [Quick Shot](/missile-weapons-bows/#quick-shot-quickshot) - Faster shooting for training.
+* [Quick Load](/missile-weapons-bows/#Load) - Faster loading for training.
+* [Quick Shot](/missile-weapons-bows/#QShot) - Faster shooting for training.
 
 
 #### Less useful
@@ -286,4 +286,4 @@ A rank of **1 signifies the best** in this category. All arrows have the same sp
 ### Miscellaneous
 * Arrow can auto-group if you place them all in the same container.
 * If you have mixed different qualities or types of arrows, just ungroup them and it will separate the dissimilar arrows.
-* Attacks that inflict a [wound levels of 2 (puncture) or more](/character-condition/#wounds) will stick in the target.
+* Attacks that inflict a [wound levels of 2 (puncture) or more](/character-condition/#Wounds) will stick in the target.

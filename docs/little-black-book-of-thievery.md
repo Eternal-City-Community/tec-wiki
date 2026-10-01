@@ -12,8 +12,8 @@ Being a thief in Iridine can be a very rewarding, albeit sometimes very frustrat
 
 ### Table of Contents
 
-* [Training - How to Rank Up Quickly](#training-how-to-rank-up-quickly)
-* [Evading the Law - How Not to Get Caught](#evading-the-law-how-not-to-get-caught)
+* [Training - How to Rank Up Quickly](#Training)
+* [Evading the Law - How Not to Get Caught](#Evasion)
 
 ---
 <a id="Training"></a>

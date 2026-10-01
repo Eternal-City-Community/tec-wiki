@@ -87,7 +87,7 @@ Examples of these types of requests include:
 * a jar of makeup with a custom color and appearance when applied
 
 <u>**Notes**</u>
-* These requests include all the benefits of an [Item Alteration](/customization-guide/#item-alterations).
+* These requests include all the benefits of an [Item Alteration](/customization-guide/#Alterations).
 * You may include additional custom emotes and dynamic name/description changes. (e.g. scabbard that emits a sound when the sword is unsheathed)
 * For pieces of clothing or jewelry, this allows editing of its coverage and/or transparency.
 * Allows adding readable text to an item that normally can't be written upon, such as engravings or inscriptions.
@@ -97,7 +97,7 @@ Examples of these types of requests include:
 ### Gear Alteration Package
 Staff now offers a "Themed gear alteration package" at a cost of 2,000 RPs (Basic account) or 1,000 RPs (Premium account).
 
-With this package, you will need to submit up to 5 pieces of armor and/or clothing at once for [alteration](#gear-alteration-package). These items must all share the same "theme" or overall look. IC costs still apply, and there is a limit of 1 package per calendar year.
+With this package, you will need to submit up to 5 pieces of armor and/or clothing at once for [alteration](#Alterations). These items must all share the same "theme" or overall look. IC costs still apply, and there is a limit of 1 package per calendar year.
 
 
 <a id="CustomItems"></a>
@@ -160,8 +160,8 @@ This type of request is basically an Item Alteration, Superior Weapon Upgrade, a
 
 * The limit is 60 characters for weapons, shields, and face covers like masks, faceplated helmets, and hooded cloaks. For other items, the limit is 100 characters.
 <u>**Notes**</u>
-* These requests include all the benefits of an [Item Alteration](/customization-guide/#item-alterations).
-* These requests include all the benefits of an [Custom Roleplay Prop](/customization-guide/#custom-roleplay-prop).
+* These requests include all the benefits of an [Item Alteration](/customization-guide/#Alterations).
+* These requests include all the benefits of an [Custom Roleplay Prop](/customization-guide/#Props).
 * You may include additional custom emotes and dynamic name/description changes. (e.g. scabbard that emits a sound when the sword is unsheathed)
 * For pieces of clothing or jewelry, this allows editing of its coverage and/or transparency.
 * Allows adding readable text to an item that normally can't be written upon, such as engravings or inscriptions.

@@ -11,7 +11,7 @@ Below you'll find everything important to know about using [Pankration](/pankrat
 #### Pros
 * You can use Skill Points **(SP) from [Brawling](/brawling/)** to learn Pankration *(and vice versa)*.
 * **No** need to carry the extra **weight of a weapon** or shield.
-* For a skill set with no access to shields, it has a decent defense, with [Shoulder block](/pankration/#shoulder-block) being very effective against key attacks from other skill sets.
+* For a skill set with no access to shields, it has a decent defense, with [Shoulder block](/pankration/#sblock) being very effective against key attacks from other skill sets.
 
 
 #### Cons
@@ -19,9 +19,9 @@ Below you'll find everything important to know about using [Pankration](/pankrat
 
 ### Advice & Tips
 * To **avoid getting stuck in RT** when attacking right **after being knocked down**, use toggle-groundfight to disable *(or re-enable)* attacking while prone.
-* Training your **[CM](/combat-maneuvers/) dodges higher** *(in terms of [RB](/skills/#rank-bonus-rb))* **than your Pankration blocks** will avoid taking damage on blocking.
+* Training your **[CM](/combat-maneuvers/) dodges higher** *(in terms of [RB](/skills/#RB))* **than your Pankration blocks** will avoid taking damage on blocking.
 * Until your blocks are ranked high enough to no longer inflict damage on you, **a strong pair of [left & right manica](/shops/) and [thigh greaves](/shops/) are highly recommended to reduce any damage** you take from blocking.
-* High **ranks in Pankration blocks** ([Palm Block](/pankration/#palm-block), [Shoulder Block](/pankration/#shoulder-block), [Knee Block](/pankration/#knee-block) & [Side Knee Block](/pankration/#side-knee-block)) up **until Grandmaster** *(90 ranks)* can help to **reduce the damage taken** from blocking
+* High **ranks in Pankration blocks** ([Palm Block](/pankration/#pblock), [Shoulder Block](/pankration/#sblock), [Knee Block](/pankration/#kblock) & [Side Knee Block](/pankration/#skblock)) up **until Grandmaster** *(90 ranks)* can help to **reduce the damage taken** from blocking
 
 
 ### Weapons
@@ -36,11 +36,11 @@ This is the list of weapons that can be used by the Pankration skill set.
 
 ### Moves
 #### Worthwhile
-* [Lead & Cross](/pankration/#lead-and-cross-lcross)
-* [Wide Knee](/pankration/#wide-knee-wknee) 
-* [Knife Hand](/pankration/#knife-hand-knife)
-* [Strike & Rise](/pankration/#strike-and-rise-srise)
-* [Double Knee](/pankration/#double-knee-doubleknee)
+* [Lead & Cross](/pankration/#lcross)
+* [Wide Knee](/pankration/#wknee) 
+* [Knife Hand](/pankration/#knife)
+* [Strike & Rise](/pankration/#srise)
+* [Double Knee](/pankration/#doubleknee)
 
 #### Less useful
 * TBC

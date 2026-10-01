@@ -17,29 +17,29 @@ There are at the very least three types of **bullets** that can be loaded into a
 | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Flavien | Sphara |
 | *<u>Sling Missile Weapons</u>* | Easy | - | - | - | 200 | 300 |
-| [Basic Sling Throw](#basic-throw-sling) | Easy | 1 | Long | Bruise | 200 | 175 |
-| [Arcing Sling Throw](#arcing-sling-throw-slingarc) | Average | 1 | Long | Bruise | 200 | 175 |
-| [Snap Sling Throw](#snap-sling-throw-slingsnap) | Average | 1 | Long | Bruise | 200 | 175 |
-| [Focused Sling Throw](#focused-sling-throw-slingfocus) | Average | 1 | Long | Bruise | 200 | 175 |
-| [Underhand Sling Throw](#underhand-sling-throw-slingunder) | Difficult | 1 | Long | Bruise | 200 | 175 |
-| [Sling Clobber](#sling-clobber-slingclobber) | Difficult | 1 | Short | Bruise | 200 | 175 |
-| [Slinger's Windup Stance](#slingers-windup-stance-windup) | Easy | - | - | - | 100 | 175 |
-| [Sling Throw Timing](#sling-throw-timing-syntax) | Average | - | - | - | 100 | 175 |
-| [Sling Ammo Evaluation](#sling-ammo-evaluation-syntax) | Easy | - | - | - | 100 | 175 |
-| [Speed Loading](#speed-loading) | Easy | 1 | - | - | 100 | 175 |
-| [Steady Spin](#steady-spin-syntax) | Average | 1 | - | - | 100 | 175 |
-| [Finger Grip](#finger-grip-syntax) | Average | 1 | - | - | 100 | 175 |
-| [Sling Wrap Block](#sling-wrap-block-syntax) | Average | 1 | - | - | 100 | 175 |
-| [Graded Throwing](#graded-throwing-syntax) | Average | - | - | - | 100 | 175 |
-| [Long Range Throwing](#long-range-throwing-syntax) | Average | - | - | - | 100 | 175 |
-| [Wind Compensation](#wind-compensation-syntax) | Average | - | - | - | 100 | 175 |
+| [Basic Sling Throw](#basic-throw) | Easy | 1 | Long | Bruise | 200 | 175 |
+| [Arcing Sling Throw](#arcing-throw) | Average | 1 | Long | Bruise | 200 | 175 |
+| [Snap Sling Throw](#snap-throw) | Average | 1 | Long | Bruise | 200 | 175 |
+| [Focused Sling Throw](#focused-throw) | Average | 1 | Long | Bruise | 200 | 175 |
+| [Underhand Sling Throw](#underhand-throw) | Difficult | 1 | Long | Bruise | 200 | 175 |
+| [Sling Clobber](#sling-clobber) | Difficult | 1 | Short | Bruise | 200 | 175 |
+| [Slinger's Windup Stance](#sling-stance) | Easy | - | - | - | 100 | 175 |
+| [Sling Throw Timing](#sling-timing) | Average | - | - | - | 100 | 175 |
+| [Sling Ammo Evaluation](#ammo-evaluation) | Easy | - | - | - | 100 | 175 |
+| [Speed Loading](#load) | Easy | 1 | - | - | 100 | 175 |
+| [Steady Spin](#steady-spin) | Average | 1 | - | - | 100 | 175 |
+| [Finger Grip](#finger-grip) | Average | 1 | - | - | 100 | 175 |
+| [Sling Wrap Block](#wrap-block) | Average | 1 | - | - | 100 | 175 |
+| [Graded Throwing](#graded-throwing) | Average | - | - | - | 100 | 175 |
+| [Long Range Throwing](#long-range-throwing) | Average | - | - | - | 100 | 175 |
+| [Wind Compensation](#wind) | Average | - | - | - | 100 | 175 |
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Sphara** ([Kelestian Outpost](/monlon-kelestian-outpost/)): Find Sphara in the Kelestian outputs in the Monlon ravines.
 
 #### Ammunition:
 
-Sling Missile Weapons can use a wide array of ammunition types to hit targets with and their usefulness in battle can be estimated by using the [Sling Ammo Evaluation](#sling-ammo-evaluation-syntax) skill.
+Sling Missile Weapons can use a wide array of ammunition types to hit targets with and their usefulness in battle can be estimated by using the [Sling Ammo Evaluation](#ammo-evaluation) skill.
 
 |  |  | Ammunition: |
 | --- | --- | --- |

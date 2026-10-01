@@ -39,7 +39,7 @@ Keeping in the spirit of remaining at a distance, a staver with parting moves an
 This is the list of weapons that can be used by the [Staves](/staves/) skill set.
 
 **Notes:** 
-* Fangstaves will modify the [damage type](/character-condition/#wounds) for all attacks from **bruising** to **cutting** damage.
+* Fangstaves will modify the [damage type](/character-condition/#Wounds) for all attacks from **bruising** to **cutting** damage.
 * The **[wood]** (pine, ash, oak, softsun, moskan, etc.) mentioned in the stave description is optionally mentioned and only for aesthetics purposes. It is not known to have any impact on the stave's speed, weight or damage. For the reminder of the guide, the wood type will be ommited.
 
 | Weapons | How to get it | Est. cost in shops |
@@ -54,7 +54,7 @@ This is the list of weapons that can be used by the [Staves](/staves/) skill set
 | An Altene double mace **[RF]** | [A'rbora](/shops/) ([Bronze Lane](/iridine/)) & others | 15t - 44t |
 
 **[RF]**: This item can be **[ReForged](/weapons/#Reforge)**.
-**[R]**: This item can be **[Runed](/reputation/#runing-ghendrahda)**.
+**[R]**: This item can be **[Runed](/reputation/#Runing)**.
 **[T]**: This item is a **training** weapon and does no damage.
 
 
@@ -126,10 +126,10 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 
 ### Moves
 #### Worthwhile
-* [Spinstrike](/staves/#staves-spinstrike-spinstrike)
-* [Stepping Spin](/staves/#staves-stepping-spin-sspin)
-* [Defensive Sweep](/staves/#staves-defensive-sweep-dsweep)
-* [Parting Smash](/staves/#staves-parting-smash-psmash)
+* [Spinstrike](/staves/#Spinstrike)
+* [Stepping Spin](/staves/#SSpin)
+* [Defensive Sweep](/staves/#DSweep)
+* [Parting Smash](/staves/#Psmash)
 
 #### Less useful
 * 

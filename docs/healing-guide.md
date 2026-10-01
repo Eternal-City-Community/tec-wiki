@@ -47,21 +47,21 @@ Required SP: *~182 SP*
 
 | # | Skill | To Rank |
 | --- | --- | --- |
-| 1 | [Bandage Wound](/healing/#bandage-wound-bandage-with) | 1 |
-| 2 | [Remove Bandages](/healing/#remove-bandages-cut-bandages-from) | 1 |
-| 3 | [Diagnose](/healing/#diagnose-diagnose) | 1 |
-| 4 | [Clean Wound](/healing/#clean-wound-clean-with) | 1 |
-| 5 | [Application](/healing/#application-apply-to) | 1 |
+| 1 | [Bandage Wound](/healing/#Bandage-Wound) | 1 |
+| 2 | [Remove Bandages](/healing/#Remove-Bandages) | 1 |
+| 3 | [Diagnose](/healing/#Diagnose) | 1 |
+| 4 | [Clean Wound](/healing/#Clean-Wound) | 1 |
+| 5 | [Application](/healing/#Application) | 1 |
 | 6 | ***Healing*** | 5 |
-| 7 | [Stitch Wound](/healing/#stitch-wound-stitch-with) | 1 |
-| 8 | [Remove Stitches](/healing/#remove-stitches-cut-stitches-from) | 1 |
-| 9 | [Remove Splint](/healing/#remove-splint-cut-from) | 1 |
-| 10 | [Splint Bone](/healing/#splint-bone-splint-with) | 1 |
-| 11 | [Arrow-Pulling](/healing/#arrow-pulling-yank-arrow-from) | 1 |
-| 12 | [Administer](/healing/#administer-feed-to) | 1 |
+| 7 | [Stitch Wound](/healing/#Stitch-Wound) | 1 |
+| 8 | [Remove Stitches](/healing/#Remove-Stitches) | 1 |
+| 9 | [Remove Splint](/healing/#Remove-Splint) | 1 |
+| 10 | [Splint Bone](/healing/#Splint-Bone) | 1 |
+| 11 | [Arrow-Pulling](/healing/#Arrow-Pulling) | 1 |
+| 12 | [Administer](/healing/#Administer) | 1 |
 
-* Learn [Application](/healing/#application-apply-to) as soon as possible to have a complete 5-skill rotation for optimal SP gain.
-* Purchase [Sunburn Salve](/shops/) in [the Steps](/the-steps-central/) as the cheapest option for training with the [Application](/healing/#application-apply-to) skill.
+* Learn [Application](/healing/#Application) as soon as possible to have a complete 5-skill rotation for optimal SP gain.
+* Purchase [Sunburn Salve](/shops/) in [the Steps](/the-steps-central/) as the cheapest option for training with the [Application](/healing/#Application) skill.
 
 
 #### Phase 2 (~506 SP)
@@ -73,7 +73,7 @@ Required SP: *~506 SP*
 | # | Skill | To Rank |
 | --- | --- | --- |
 | 1 | ***Healing*** | 30 |
-| 2 | [Stitch Wound](/healing/#stitch-wound-stitch-with) | 20 |
+| 2 | [Stitch Wound](/healing/#Stitch-Wound) | 20 |
 
 * Stitching is fundamental and at the core of many dangerous wounds. It should be a focus early on.
 
@@ -87,13 +87,13 @@ Required SP: *~1,128+ SP*
 | # | Skill | To Rank |
 | --- | --- | --- |
 | 1 | ***Healing*** | 50 |
-| 2 | [Stitch Wound](/healing/#stitch-wound-stitch-with) | 40 |
+| 2 | [Stitch Wound](/healing/#Stitch-Wound) | 40 |
 | 3 | ***Healing*** | 100 |
-| 4 | [Set Bone](/healing/#set-bone-align) | 10 |
+| 4 | [Set Bone](/healing/#Set-Bone) | 10 |
 
 
-* Train Healing basics to 50 ranks, or until you reach a 1 success in [Bandage Wound](/healing/#bandage-wound-bandage-with), [Clean Wound](/healing/#clean-wound-clean-with), [Remove Bandages](/healing/#remove-bandages-cut-bandages-from).
-* If 40 ranks in [Stitch Wound](/healing/#stitch-wound-stitch-with) is not enough to have a Success of 1, after Basics is 100, continue training to get 1 success.
+* Train Healing basics to 50 ranks, or until you reach a 1 success in [Bandage Wound](/healing/#Bandage-Wound), [Clean Wound](/healing/#Clean-Wound), [Remove Bandages](/healing/#Remove-Bandages).
+* If 40 ranks in [Stitch Wound](/healing/#Stitch-Wound) is not enough to have a Success of 1, after Basics is 100, continue training to get 1 success.
 
 
 #### Phase 4 (~537 SP)
@@ -104,13 +104,13 @@ Required SP: *~537 SP*
 
 | # | Skill | To Rank |
 | --- | --- | --- |
-| 1 | [Remove Stitches](/healing/#remove-stitches-cut-stitches-from) | 10 |
-| 2 | [Splint Bone](/healing/#splint-bone-splint-with) | 10 |
-| 3 | [Diagnose](/healing/#diagnose-diagnose) | 10 |
-| 4 | [Administer](/healing/#administer-feed-to) | 10 |
-| 5 | [Rouse](/healing/#rouse-rouse-with) | 10 |
+| 1 | [Remove Stitches](/healing/#Remove-Stitches) | 10 |
+| 2 | [Splint Bone](/healing/#Splint-Bone) | 10 |
+| 3 | [Diagnose](/healing/#Diagnose) | 10 |
+| 4 | [Administer](/healing/#Administer) | 10 |
+| 5 | [Rouse](/healing/#Rouse) | 10 |
 
-* Train [Remove Stitches](/healing/#remove-stitches-cut-stitches-from), [Splint Bone](/healing/#splint-bone-splint-with) & [Diagnose](/healing/#diagnose-diagnose) to ~10 ranks or until you reach 1 success.
+* Train [Remove Stitches](/healing/#Remove-Stitches), [Splint Bone](/healing/#Splint-Bone) & [Diagnose](/healing/#Diagnose) to ~10 ranks or until you reach 1 success.
 * Finish Set Bone to get 1 success, if necessary.
 
 
@@ -134,7 +134,7 @@ Required SP: *~537 SP*
 ### Tools
 #### Salves
 
-Salves can be used by the **[Application](/healing/#application-apply-to) skill**. The **more ranks** in the skill and the **higher roll over success** you have, the longer the salve will last. More severe wounds are more difficult to effectively apply salves to.
+Salves can be used by the **[Application](/healing/#Application) skill**. The **more ranks** in the skill and the **higher roll over success** you have, the longer the salve will last. More severe wounds are more difficult to effectively apply salves to.
 
 Salves have the following effects:
 
@@ -147,7 +147,7 @@ Salves have the following effects:
 * Sunburn Salve
 
 #### Tonics & Potions
-Tonics & potions can either be drank by a conscious consumer or a healer can [administer](/healing/#administer-feed-to) them to an unconscious or prone patient.
+Tonics & potions can either be drank by a conscious consumer or a healer can [administer](/healing/#Administer) them to an unconscious or prone patient.
 
 * Blood Tonic
 * Disease Resistance Tonic
@@ -202,12 +202,12 @@ In Iridine, travel to the [Hospice of the Morning Light](/gardens-and-hospice/).
 
 | Type | Requires | Payment | Est. Profit | Rank Requirements | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Bandage (child) | A Bandage | 20d | ?d | [Bandage Wound](/healing/#bandage-wound-bandage-with) |  |
-| Burn (citizen) | Burn Salve & A Bandage | 40d | ?d | [Application](/healing/#application-apply-to) & [Bandage Wound](/healing/#bandage-wound-bandage-with) |  |
-| Limb Pain (worker) | Painkiller Salve | 50d | ?d | [Application](/healing/#application-apply-to) |  |
-| Arrow Pulling (hired guard) | A Bandage | 80d | ?d | [Arrow-Pulling](/healing/#arrow-pulling-yank-arrow-from) & [Bandage Wound](/healing/#bandage-wound-bandage-with) |  |
-| Splinting (citizen) | Splint (~9d) | 76d | 80d | [Splint Bone](/healing/#splint-bone-splint-with) |  |
-| Stitching (worker) | Needle & Thread | 100d | ?d | [Stitch Wound](/healing/#stitch-wound-stitch-with) |  |
+| Bandage (child) | A Bandage | 20d | ?d | [Bandage Wound](/healing/#Bandage-Wound) |  |
+| Burn (citizen) | Burn Salve & A Bandage | 40d | ?d | [Application](/healing/#Application) & [Bandage Wound](/healing/#Bandage-Wound) |  |
+| Limb Pain (worker) | Painkiller Salve | 50d | ?d | [Application](/healing/#Application) |  |
+| Arrow Pulling (hired guard) | A Bandage | 80d | ?d | [Arrow-Pulling](/healing/#Arrow-Pulling) & [Bandage Wound](/healing/#Bandage-Wound) |  |
+| Splinting (citizen) | Splint (~9d) | 76d | 80d | [Splint Bone](/healing/#Splint-Bone) |  |
+| Stitching (worker) | Needle & Thread | 100d | ?d | [Stitch Wound](/healing/#Stitch-Wound) |  |
 
 
 #### Healing Tent (Monlon)
@@ -221,11 +221,11 @@ In [Monlon](/monlon/), wait within the healing tent. Soldiers, wounded from the 
 
 ### Moves
 #### Worthwhile
-* [Stitch Wound](/healing/#stitch-wound-stitch-with) - Without a doubt, the most useful of all the healing skills.
+* [Stitch Wound](/healing/#Stitch-Wound) - Without a doubt, the most useful of all the healing skills.
 
 #### Less useful
-* [Apply Tourniquet](/healing/#application-apply-to) & [Remove Tourniquet](/healing/#Remove-Tourniquet)- With enough skill in Stitch Wound, these skills are rarely ever needed. It could be useful for someone who is not a primary healer.
-* [Administer](/healing/#administer-feed-to)
+* [Apply Tourniquet](/healing/#Apply-Tourniquet) & [Remove Tourniquet](/healing/#Remove-Tourniquet)- With enough skill in Stitch Wound, these skills are rarely ever needed. It could be useful for someone who is not a primary healer.
+* [Administer](/healing/#Administer)
 
 ### Complementary Skill Sets
 * [Hunting](/hunting/) - Crafting arrows for splints.

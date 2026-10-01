@@ -57,11 +57,11 @@ Allegiances and Families in the [Senate](/senate/).
 
 
 #### Tharius Allende
-**Current [High Priest of Ereal](/cult-of-ereal/#high-priest)**. Member of the Allende family, he was once estranged from them but has since rebuilt his ties. Nominated because of his introverted and bookish ways, Tharius has grown to be a present and well-respected leader of the cult. Having paid his dues, he is today recognized as one of the most gifted healers in Iridine. Under his direction the Cult of Ereal has become increasingly more transparent as they work to clear out controversy and in-fighting.
+**Current [High Priest of Ereal](/cult-of-ereal/#High-Priest)**. Member of the Allende family, he was once estranged from them but has since rebuilt his ties. Nominated because of his introverted and bookish ways, Tharius has grown to be a present and well-respected leader of the cult. Having paid his dues, he is today recognized as one of the most gifted healers in Iridine. Under his direction the Cult of Ereal has become increasingly more transparent as they work to clear out controversy and in-fighting.
 
 
 #### Darius Allende
-**[Proxy to the High Priest of Ereal](/cult-of-ereal/#high-priest)** and brother to Tharius Allende. He represents the political arm of the Cult of Ereal and serves them in the Senate. Generally thought of as an intelligent politician and reasonably pious man. With the two brothers running the Cult, the political might of the Allende family seems assured.
+**[Proxy to the High Priest of Ereal](/cult-of-ereal/#High-Priest-Proxy)** and brother to Tharius Allende. He represents the political arm of the Cult of Ereal and serves them in the Senate. Generally thought of as an intelligent politician and reasonably pious man. With the two brothers running the Cult, the political might of the Allende family seems assured.
 
 
 #### Other Notable Members

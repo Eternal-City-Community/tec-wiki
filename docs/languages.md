@@ -13,20 +13,20 @@ Languages are closely linked and often derived from the various [countries of Mi
 
 | Language | Where to Learn |
 | --- | --- |
-| Spoken Aestivan | [Iridine Library](#learning-languages) |
-| Spoken Altene | [Iridine Library](#learning-languages) |
-| Spoken Cineran | [Iridine Library](#learning-languages) |
-| Spoken Gadaene | [Iridine Library](#learning-languages) |
-| Spoken Iridinian | [Iridine Library](#learning-languages) |
-| Spoken Parcines | [Iridine Library](#learning-languages) |
-| Spoken Remathen | [Iridine Library](#learning-languages) |
-| Spoken Safeland | [Iridine Library](#learning-languages) |
-| Spoken Sostaeran | [Iridine Library](#learning-languages) |
-| Spoken Tuchean | [Iridine Library](#learning-languages) |
-| Spoken Windward | [Iridine Library](#learning-languages) |
-| Spoken Blackroot | [Town of Rock Valley](#rock-valley-blackroot-teacher) |
-| Spoken Kelestian | [Monlon Battlefield](#monlon-kelestian-healer) |
-| Steps Lingo | [Eastern Steps](#steps-steps-lingo-teacher) |
+| Spoken Aestivan | [Iridine Library](#Learning) |
+| Spoken Altene | [Iridine Library](#Learning) |
+| Spoken Cineran | [Iridine Library](#Learning) |
+| Spoken Gadaene | [Iridine Library](#Learning) |
+| Spoken Iridinian | [Iridine Library](#Learning) |
+| Spoken Parcines | [Iridine Library](#Learning) |
+| Spoken Remathen | [Iridine Library](#Learning) |
+| Spoken Safeland | [Iridine Library](#Learning) |
+| Spoken Sostaeran | [Iridine Library](#Learning) |
+| Spoken Tuchean | [Iridine Library](#Learning) |
+| Spoken Windward | [Iridine Library](#Learning) |
+| Spoken Blackroot | [Town of Rock Valley](#Blackroot) |
+| Spoken Kelestian | [Monlon Battlefield](#Kelestian) |
+| Steps Lingo | [Eastern Steps](#Lingo) |
 
 
 *These are not the only languages within the world of Midlight, though **some are not so commonly known** due to their links to [religious heresy and false gods](/religion/)*.
@@ -58,7 +58,7 @@ Learning a language is not *(mechanically)* difficult, but it can be a long and 
 
 **Speaking languages requires** at least **50 ranks** in that language, but as you train you may be able to catch certain words of those around you speaking the language.
 
-Those with **high mental [stats](/stats/)**, such as **[Reasoning](/stats/#reasoning)** and **[Memory](/stats/#memory)** will have an easier time learning languages with lower overall successes.
+Those with **high mental [stats](/stats/)**, such as **[Reasoning](/stats/#Reasoning)** and **[Memory](/stats/#Memory)** will have an easier time learning languages with lower overall successes.
 
 Every attempt to echo your tutor will earn you language SP. How much is based on how much over, or under, your success you rolled in the attempt.
 
@@ -108,7 +108,7 @@ Once outside the tutor's door:
 
 <a id="Kelestian"></a>
 ### Monlon - Kelestian Healer
-Within the [Monlon Battlefield](/monlon-battlefield/) resides a happy [Kelestian](/kelestia/) healer who speaks the **Kelestian language** as she heals, allowing you to [glean](/skills/#gleaning) certain amounts each day. 
+Within the [Monlon Battlefield](/monlon-battlefield/) resides a happy [Kelestian](/kelestia/) healer who speaks the **Kelestian language** as she heals, allowing you to [glean](/skills/#glean) certain amounts each day. 
 
 TBC.
 

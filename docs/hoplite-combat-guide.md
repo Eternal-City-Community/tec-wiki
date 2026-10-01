@@ -12,7 +12,7 @@ Below you'll find everything important to know about Hoplite Combat.
 * You can also use Skill Points **(SP) from [Spears](/spears/)** to learn Hoplite Combat.
 * Six **(6) double-hitting attacks**, including the only Easy-difficulty multi-hitters.
 * **Hoplite Combat Stance gives small bonus to [shield bashes](/shields/)**.
-* Both **offensive** ([Rising Thrust](/hoplite-combat/#rising-thrust-rthrust)) **& defensive** ([Defensive Repel](/hoplite-combat/#defensive-repel-drepel)) **stepping maneuvers**.
+* Both **offensive** ([Rising Thrust](/hoplite-combat/#rthrust)) **& defensive** ([Defensive Repel](/hoplite-combat/#drepel)) **stepping maneuvers**.
 * Unique **weapon & shield combination mechanics** that impact both the speed and strength of your attacks.
 
 
@@ -27,9 +27,9 @@ Below you'll find everything important to know about Hoplite Combat.
 
 
 ### Advice & Tips
-* Achieving **rank 100 in [Hoplite Combat Stance](/hoplite-combat/#hoplite-combat-stance-hoplite)** early on is **highly recommended**.
-* When wielding a [traditional long spear](/spears/), **you can also perform [Spear Jab](/spears/#spear-jab-jab)**, **[Spear Stab](/spears/#Stab)**, **[Spear Overhead Thrust](/spears/#spear-overhead-thrust-thrust)**, **[Spear Parting Jab](/spears/#spear-parting-jab-pjab)**, **[Spear Throw](/spears/#spear-throw-throw)** & **[Spear Feint](/spears/#spear-feint-feint)** while fighting in the Hoplite Combat stance, though they receive no stance bonus from Hoplite Stance. 
-* While both [Hoplite Feint](/hoplite-combat/#feint-hfeint) & [Spear Feint](/spears/#spear-feint-feint) are available, **[Hoplite Feint](/hoplite-combat/#feint-hfeint) is the preferred choice**, as it **auto-aims high** and benefits from [Hoplite Combat Stance](/hoplite-combat/#hoplite-combat-stance-hoplite).
+* Achieving **rank 100 in [Hoplite Combat Stance](/hoplite-combat/#hoplite)** early on is **highly recommended**.
+* When wielding a [traditional long spear](/spears/), **you can also perform [Spear Jab](/spears/#Jab)**, **[Spear Stab](/spears/#Stab)**, **[Spear Overhead Thrust](/spears/#Thrust)**, **[Spear Parting Jab](/spears/#Pjab)**, **[Spear Throw](/spears/#Throw)** & **[Spear Feint](/spears/#Feint)** while fighting in the Hoplite Combat stance, though they receive no stance bonus from Hoplite Stance. 
+* While both [Hoplite Feint](/hoplite-combat/#hfeint) & [Spear Feint](/spears/#Feint) are available, **[Hoplite Feint](/hoplite-combat/#hfeint) is the preferred choice**, as it **auto-aims high** and benefits from [Hoplite Combat Stance](/hoplite-combat/#hoplite).
 
 
 ### Weapons
@@ -42,10 +42,10 @@ In addition to the below list, spears included in **the [Spears Guide](/spears-g
 | --- | --- | --- |
 | A tin-tipped short spear **[RF]** | Sold by [Marinian](/shops/) | 1,000d |
 | A bronze-tipped short spear **[RF]** | Sold by [Marinian](/shops/) | 3t |
-| An iron-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 50t + [Reputation](/reputation/#franlius) |
+| An iron-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 50t + [Reputation](/reputation/#Franlius) |
 | An alanti-tipped short spear **[RF]** | Currently available only from GMNPC vendors |  |
-| A boison-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 175t + [Reputation](/reputation/#franlius) |
-| A retalq-tipped short spear | Sold by [Hiltha](/shops/) | 250t + [Reputation](/reputation/#franlius) |
+| A boison-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 175t + [Reputation](/reputation/#Franlius) |
+| A retalq-tipped short spear | Sold by [Hiltha](/shops/) | 250t + [Reputation](/reputation/#Franlius) |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 
@@ -125,25 +125,25 @@ Weapon round time with outstanding speed (190+):
 
 ### Moves
 #### Best Options
-* [Lunge and Strike](/hoplite-combat/#lunge-and-strike-lstrike) - A highly-bonused impossible-difficulty double-hitting attack. High damage and high crit-rate.
-* [Leaping Thrust](/hoplite-combat/#leaping-thrust-lthrust) - A highly-bonused attack that aims high by default.
-* [Whirling Strike](/hoplite-combat/#whirling-strike-wstrike) - A highly-bonused double-hitting attack.
-* [Bash and Jab](/hoplite-combat/#bash-and-jab-bjab) - A highly-bonused easy-difficulty double-hitting attack with good damage.
-* [Phalanx Thrust](/hoplite-combat/#phalanx-thrust-pthrust) - Easy maneuver with favorable block matchups against some weapons.
-* [Sweep and Thrust](/hoplite-combat/#sweep-and-thrust-swthrust) - A combined sweep & strike maneuver with a small bonus to hit. Must be trained to high levels to achieve a high chance of knockdown.
+* [Lunge and Strike](/hoplite-combat/#lstrike) - A highly-bonused impossible-difficulty double-hitting attack. High damage and high crit-rate.
+* [Leaping Thrust](/hoplite-combat/#lthrust) - A highly-bonused attack that aims high by default.
+* [Whirling Strike](/hoplite-combat/#wstrike) - A highly-bonused double-hitting attack.
+* [Bash and Jab](/hoplite-combat/#bjab) - A highly-bonused easy-difficulty double-hitting attack with good damage.
+* [Phalanx Thrust](/hoplite-combat/#pthrust) - Easy maneuver with favorable block matchups against some weapons.
+* [Sweep and Thrust](/hoplite-combat/#swthrust) - A combined sweep & strike maneuver with a small bonus to hit. Must be trained to high levels to achieve a high chance of knockdown.
 
 #### Worthwhile
-* [Shielded Stab](/hoplite-combat/#shielded-stab-shstab) - Easy maneuver that hits twice, but is fairly simple to dodge or block.
-* [Shielded Advance](/hoplite-combat/#shielded-advance-sadvance) - A good utility maneuver that engages the target and automatically disengages a random enemy if you were already fully surrounded.
-* [Rising Thrust](/hoplite-combat/#rising-thrust-rthrust) - A stepping maneuver that enters a more aggressive stance as part of the attack.
-* [Defensive Repel](/hoplite-combat/#defensive-repel-drepel) - A stepping maneuver that enters a more defensive stance as part of the attack, and also retreats from the target.
+* [Shielded Stab](/hoplite-combat/#shstab) - Easy maneuver that hits twice, but is fairly simple to dodge or block.
+* [Shielded Advance](/hoplite-combat/#sadvance) - A good utility maneuver that engages the target and automatically disengages a random enemy if you were already fully surrounded.
+* [Rising Thrust](/hoplite-combat/#rthrust) - A stepping maneuver that enters a more aggressive stance as part of the attack.
+* [Defensive Repel](/hoplite-combat/#drepel) - A stepping maneuver that enters a more defensive stance as part of the attack, and also retreats from the target.
 
 #### Less useful
-* [Underhand Thrust](/hoplite-combat/#underhand-thrust-uthrust) - An average attack with no special bonuses, and which is fairly easy for most weapons to block.
-* [Rotating Bash](/hoplite-combat/#rotating-bash-rbash) - An average attack with no special bonuses, and which is fairly easy for most weapons to block.
-* [Stab and Swing](/hoplite-combat/#stab-and-swing-sswing) - Average attack that has a penalty to hit.
-* [Spinning Chop](/hoplite-combat/#spinning-chop-schop) - Difficult attack that has a small penalty to hit.
-* [Slam and Thrust](/hoplite-combat/#slam-and-thrust-sthrust) - Difficult attack that does very good damage but has a penalty to hit.
+* [Underhand Thrust](/hoplite-combat/#uthrust) - An average attack with no special bonuses, and which is fairly easy for most weapons to block.
+* [Rotating Bash](/hoplite-combat/#rbash) - An average attack with no special bonuses, and which is fairly easy for most weapons to block.
+* [Stab and Swing](/hoplite-combat/#sswing) - Average attack that has a penalty to hit.
+* [Spinning Chop](/hoplite-combat/#schop) - Difficult attack that has a small penalty to hit.
+* [Slam and Thrust](/hoplite-combat/#sthrust) - Difficult attack that does very good damage but has a penalty to hit.
 
 ### Complementary Skill Sets
 * [Shields](/shields/) is mandatory.

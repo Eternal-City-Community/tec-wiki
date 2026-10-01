@@ -22,64 +22,64 @@ Aoden Muisech
 ---
 #### Table of Contents <a id="ToC"></a>
  
-  1)  [Preface](#preface)
-  2)  [Table of Contents](#table-of-contents)
+  1)  [Preface](#Preface)
+  2)  [Table of Contents](#ToC)
  
 #### City of Iridine
  
-  3)  [Signal Tower Island](#signal-tower-island)
-  4)  [Riverside Sewers - Entrance](#riverside-sewers-entrance)
-  5)  [Riverside Sewers - South](#riverside-sewers-south)
-  6)  [Riverside Sewers - Southeast](#riverside-sewers-southeast)
-  7)  [Iridine City Dumps](#iridine-city-dumps)
-  8)  [Colosseum Pits](#colosseum-pits)
-  9)  [Under the Boardwalk](#under-the-boardwalk)
-  10) [Old City - Moondeep](#old-city-moondeep)
-  11) [Harbor Sea Caves](#harbor-sea-caves)
-  12) [Old City Tunnels](#old-city-tunnels)
-  13) [Iridine Steps Sewers](#iridine-steps-sewers)
+  3)  [Signal Tower Island](#STI)
+  4)  [Riverside Sewers - Entrance](#Sewers1)
+  5)  [Riverside Sewers - South](#Sewers2)
+  6)  [Riverside Sewers - Southeast](#Sewers3)
+  7)  [Iridine City Dumps](#Dumps)
+  8)  [Colosseum Pits](#Pits)
+  9)  [Under the Boardwalk](#Boardwalk)
+  10) [Old City - Moondeep](#OldCity)
+  11) [Harbor Sea Caves](#SeaCaves)
+  12) [Old City Tunnels](#OCT)
+  13) [Iridine Steps Sewers](#SSewers)
  
 #### Franlius
  
-  14) [Franlius Sewers](#franlius-sewers)
+  14) [Franlius Sewers](#FSewers)
  
 #### Rock Valley
  
-  15) [Rock Valley Alleys](#rock-valley-alleys)
-  16) [Rock Valley Dumps](#rock-valley-dumps)
-  17) [Fenri-Gifr Ruins - Meadow](#fenri-gifr-ruins-meadow)
-  18) [Burial Grounds](#burial-grounds)
-  19) [Broken Tower](#broken-tower)
-  20) [Resting Place - Entrance](#resting-place-entrance)
+  15) [Rock Valley Alleys](#RVAlleys)
+  16) [Rock Valley Dumps](#RVDumps)
+  17) [Fenri-Gifr Ruins - Meadow](#RVRuins)
+  18) [Burial Grounds](#BG)
+  19) [Broken Tower](#BT)
+  20) [Resting Place - Entrance](#RP1)
  
 #### Grasslands, Swamps, and Oak Forest
  
-  21) [Burnt Villa](#burnt-villa)
-  22) [Spider Caverns](#spider-caverns)
-  23) [Swamp Mansion](#swamp-mansion)
-  24) [Swamp Vale](#swamp-vale)
-  25) [Spider Temple](#spider-temple)
+  21) [Burnt Villa](#Villa)
+  22) [Spider Caverns](#Caverns)
+  23) [Swamp Mansion](#Mansion)
+  24) [Swamp Vale](#Vale)
+  25) [Spider Temple](#SpiderTemple)
  
 #### Monlon
  
-  26) [Monlon Catacombs](#monlon-catacombs)
-  27) [Monlon Mines - First Level](#monlon-mines-first-level)
-  28) [Monlon Mines - Second Level](#monlon-mines-second-level)
-  29) [Monlon Mines - Third Level](#monlon-mines-third-level)
-  30) [Monlon Barracks](#monlon-barracks)
+  26) [Monlon Catacombs](#Catacombs)
+  27) [Monlon Mines - First Level](#Mines1)
+  28) [Monlon Mines - Second Level](#Mines2)
+  29) [Monlon Mines - Third Level](#Mines3)
+  30) [Monlon Barracks](#Barracks)
  
 #### Appendix of Images
  
-  31) [Rats](#rats)
-  32) [Other Vermin](#other-vermin)
-  33) [Mammals](#mammals)
-  34) [Snakes](#snakes)
-  35) [Other Reptiles](#other-reptiles)
-  36) [Beetles](#beetles)
-  37) [Spiders and Crabs](#spiders-and-crabs)
-  38) [Other Insects](#other-insects)
-  39) [Birds](#birds)
-  40) [Oddities](#oddities)
+  31) [Rats](#Rats)
+  32) [Other Vermin](#Vermin)
+  33) [Mammals](#Mammals)
+  34) [Snakes](#Snakes)
+  35) [Other Reptiles](#Reptiles)
+  36) [Beetles](#Beetles)
+  37) [Spiders and Crabs](#Legs)
+  38) [Other Insects](#Insects)
+  39) [Birds](#Birds)
+  40) [Oddities](#Oddities)
 
 ---
 #### Signal Tower Island <a id="STI"></a>
@@ -129,7 +129,7 @@ Profit:     1/5
   head (beheading)                              1 at  2 lb      6d 1st 2s 
   meat                                                1 at  4 lb           3st 1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Riverside Sewers - Entrance <a id="Sewers1"></a>
@@ -169,7 +169,7 @@ Profit:     2/5
   stomach                                           1 at <1 lb                 2s 
   meat                                                1 at  1 lb                  2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Riverside Sewers - South <a id="Sewers2"></a>
@@ -200,7 +200,7 @@ Profit:     1/5
   head*                                              1 at  5 lb         12d 1st 0s 
   tail*                                                 1 at <1 lb         1d 1st 1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Riverside Sewers - Southeast <a id="Sewers3"></a>
@@ -265,7 +265,7 @@ Profit:     1/5
   head*                                              1 at  1 lb       10d 2st 2s 
   tail*                                                1 at <1 lb        1d 2st 0s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Iridine City Dumps <a id="Dumps"></a>
@@ -311,7 +311,7 @@ Profit:     1/5
   stomach                                             1 at <1 lb and      1st 0s 
   meat                                                1 at  1 lb and      1st 0s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Colosseum Pits <a id="Pits"></a>
@@ -337,7 +337,7 @@ Profit:     2/5
   stomach                                             1 at <1 lb and      1st 0s 
   meat                                                1 at  1 lb and      1st 0s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Under the Boardwalk <a id="Boardwalk"></a>
@@ -366,7 +366,7 @@ Profit:     1/5
   eye*                                                2 at <1 lb and   1d 0st 1s 
   leg                                                 6 at <1 lb and          1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Old City - Moondeep <a id="OldCity"></a>
@@ -410,7 +410,7 @@ Profit:     4/5
   head                                                1 at <1 lb and          0s 
   stomach                                             1 at <1 lb and          2s 
   
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Harbor Sea Caves <a id="SeaCaves"></a>
@@ -467,7 +467,7 @@ Profit:     4/5
   eye*                                              2 at  <1 lb and    7d 1st 2s 
   meat                                              4 at   9 lb and    7d 1st 2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Old City Tunnels <a id="OCT"></a>
@@ -511,7 +511,7 @@ Profit:     4/5
  
 Crazy Men / Ravanite Soldiers (No valuable parts)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Iridine Steps Sewers <a id="SSewers"></a>
@@ -567,7 +567,7 @@ Profit:     4/5
   head                                                1 at  9 lb and  32d 0st 2s 
   meat                                                3 at  7 lb and   3d 2st 2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Franlius Sewers <a id="FSewers"></a>
@@ -599,7 +599,7 @@ Profit:     4/5
   tail*                                               1 at <1 lb and   1d 3st 1s 
   head                                                1 at  2 lb and  13d 1st 1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Rock Valley Alleys <a id="RVAlleys"></a>
@@ -630,7 +630,7 @@ Profit:     2/5
   meat                                                1 at  4 lb and   1d 0st 2s 
 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Rock Valley Dumps <a id="RVDumps"></a>
@@ -748,7 +748,7 @@ Profit:     4/5
   leg bone                                            4 at  3 lb and   1d 0st 1s 
   meat                                                2 at  5 lb and   1d 0st 1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Fenri-Gifr Ruins - Meadow <a id="RVRuins"></a>
@@ -783,7 +783,7 @@ Profit:     5/5
   claw                                                8 at  1 lb and   2d 1st 2s 
   meat                                                2 at  6 lb and   2d 1st 2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Burial Grounds <a id="BG"></a>
@@ -813,7 +813,7 @@ Profit:     3/5
   shell*                                              1 at  1 lb and  14d 1st 0s 
   eye*                                                2 at <1 lb and   4d 3st 2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Broken Tower <a id="BT"></a>
@@ -839,7 +839,7 @@ Profit:     2/5
 **Shield bee** (Valuable parts: 15d, <1 lb)
   wing*                                               2 at <1 lb and   7d 2st 2s 
   
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Resting Place - Entrance <a id="RP1"></a>
@@ -884,7 +884,7 @@ Profit:     2/5
   stomach                                             1 at <1 lb and          2s 
   meat                                                1 at  1 lb and          2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Burnt Villa <a id="Villa"></a>
@@ -927,7 +927,7 @@ Profit:     4/5
  
 **Large roach** (No parts at all)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Spider Caverns <a id="Caverns"></a>
@@ -969,7 +969,7 @@ Profit:     4/5
   stomach                                             1 at <1 lb and      1st 0s 
   meat                                                1 at  1 lb and      1st 0s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Swamp Mansion <a id="Mansion"></a>
@@ -1008,7 +1008,7 @@ Profit:     2/5
   stomach                                             1 at <1 lb and      1st 0s 
   meat                                                1 at  1 lb and      1st 0s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Swamp Vale <a id="Vale"></a>
@@ -1066,7 +1066,7 @@ Profit:     3/5
  
 **Quivering ooze** (No parts at all)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Spider Temple <a id="SpiderTemple"></a>
@@ -1099,7 +1099,7 @@ Profit:     1/5
   skin*                                               1 at  3 lb and  46d 3st 2s 
   meat                                                1 at  3 lb and   1d 0st 1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Monlon Catacombs <a id="Catacombs"></a>
@@ -1123,7 +1123,7 @@ Profit:     1/5
   head                                                1 at  5 lb and   8d 2st 0s 
   meat                                                1 at  4 lb and      3st 2s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Monlon Mines - First Level <a id="Mines1"></a>
@@ -1162,7 +1162,7 @@ Profit:     2/5
   head                                                1 at  1 lb and          0s 
   stomach                                             1 at <1 lb and          0s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Monlon Mines - Second Level <a id="Mines2"></a>
@@ -1199,7 +1199,7 @@ Profit:     2/5
   tail*                                               1 at <1 lb and   1d 3st 0s 
   head*                                               1 at  1 lb and  16d 0st 1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Monlon Mines - Third Level <a id="Mines3"></a>
@@ -1244,7 +1244,7 @@ Profit:     3/5
   stomach*                                            2 at <1 lb and   1d 2st 2s 
   leg                                                 8 at <1 lb and          1s 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Monlon Barracks <a id="Barracks"></a>
@@ -1287,7 +1287,7 @@ Profit:     4/5
   meat                                                1 at  9 lb and          1s 
   stomach                                             1 at  4 lb and          1s
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Rats <a id="Rats"></a>
@@ -1327,7 +1327,7 @@ Profit:     4/5
   fur. Large patches of its skin is bare, however, and it has numerous whitish 
   sores that you might imagine would emit a horrid stench. 
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Other Vermin <a id="Vermin"></a>
@@ -1370,7 +1370,7 @@ Profit:     4/5
   covers its eyes. It has canine-like jaws and teeth. The fluvitur appears to be 
   snarling at you!
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Mammals <a id="Mammals"></a>
@@ -1414,7 +1414,7 @@ Profit:     4/5
   as if scenting the air. One hind leg is bent, slightly off the ground, as if it 
   were impatiently stamping the dirt.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Snakes <a id="Snakes"></a>
@@ -1474,7 +1474,7 @@ Profit:     4/5
   allowing it to leap into the air, half gliding back down to the ground. It looks 
   somewhat angry.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Other Reptiles <a id="Reptiles"></a>
@@ -1516,7 +1516,7 @@ Profit:     4/5
   carnivorous teeth. At the opposite end, it bears a long, muscular tail. The 
   tail supports a knobby bone structure with a sharp spike.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Beetles <a id="Beetles"></a>
@@ -1554,7 +1554,7 @@ Profit:     4/5
   pincers. Little wiggly lines have been drawn next to the pincers, as to signal 
   a constant emanating noise.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Spiders and Crabs <a id="Legs"></a>
@@ -1597,7 +1597,7 @@ Profit:     4/5
   shell five feet in width. Two eye stalks protrude from it and rise at least 
   several feet into the air. It has two large, jagged claws.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Other Insects <a id="Insects"></a>
@@ -1641,7 +1641,7 @@ Profit:     4/5
   You see a crude sketch of a very large roach. It’s hastily drawn, as if the
   artist wanted something better to draw. One antennae is missing.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Birds <a id="Birds"></a>
@@ -1662,7 +1662,7 @@ Profit:     4/5
   eyes that seem to watch you with an unsettling bright interest and a blade-sharp 
   black beak that appears designed only for tearing flesh efficiently.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---
 #### Oddities <a id="Oddities"></a>
@@ -1697,6 +1697,6 @@ Profit:     4/5
   imply this particular mass of ooze is quite animated. You think you see what 
   might be some form of mid-growth pseudopod.
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#ToC)
 
 ---

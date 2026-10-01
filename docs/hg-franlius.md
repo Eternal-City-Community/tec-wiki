@@ -23,7 +23,7 @@ No matter what rank you are, you can now visit any of the sections you wish to f
 * **5 hunting grounds**.
 * **Increased [SP gain](/skills/#SP)** in relation to your opponent. The tougher the NPC, the more experience you earn.
 * Some of the most **advanced enemy AI** in the game.
-* A functional and dynamic **[reputation#Franlius](/reputation/#franlius)** system.
+* A functional and dynamic **[reputation#Franlius](/reputation/#Franlius)** system.
 
 
 [!-- 
@@ -138,4 +138,4 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 * A wide **suede armband** bearing a *<scarlet|vivid scarlet|red>* emblem.
 * A wide **leather armband** *<bearing|stitched with>* a *<scarlet|vivid scarlet|bright red|red>* emblem.
 
-[Back to Top](#)
+[Back to Top](#Top)

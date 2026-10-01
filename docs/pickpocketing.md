@@ -17,16 +17,16 @@ This skill set is best **complemented by knowledge of [Setups](/setups/).**
 | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Prerequisite | *Hidden Iridine Trainer <sup>1</sup>* | *Hidden RV Trainer <sup>2</sup>* |
 | Pickpocketing | Easy | - | 50 | 200 |
-| [Quick Grab](#quick-grab-grab-from) | Easy | - | 50 | 150 |
-| [Coin Sharpening](#coin-sharpening-sharpen) | Easy | - | 50 | 150 |
-| [Palm](#palm-palm) | Easy | - | 50 | 150 |
-| [Cut and Lift](#cut-and-lift-lift-from) | Average | - | 25 | 150 |
+| [Quick Grab](#Quick-Grab) | Easy | - | 50 | 150 |
+| [Coin Sharpening](#Coin-Sharpening) | Easy | - | 50 | 150 |
+| [Palm](#Palm) | Easy | - | 50 | 150 |
+| [Cut and Lift](#CutandLift) | Average | - | 25 | 150 |
 | [Handoff](#Handoff) | Average | - | 25 | 150 |
-| [Receive Handoff](#receive-handoff-receive) | Average | - | 25 | 150 |
-| [Slice Strap](#slice-strap-slice-from) | Average | 10 Ranks in [Cut and Lift](#cut-and-lift-lift-from) | 25 | 10 |
-| [Loose Lift](#loose-lift-llift-from) | Impossible | - | - | 150 |
-| [Knife Lift](#knife-lift-klift-from) | Difficult | - | - | 10 |
-| [Sword Lift](#sword-lift-slift-from) | Impossible | - | - | 10 |
+| [Receive Handoff](#Receive-Handoff) | Average | - | 25 | 150 |
+| [Slice Strap](#Slice-Strap) | Average | 10 Ranks in [Cut and Lift](#CutandLift) | 25 | 10 |
+| [Loose Lift](#Loose-Lift) | Impossible | - | - | 150 |
+| [Knife Lift](#Knife-Lift) | Difficult | - | - | 10 |
+| [Sword Lift](#Sword-Lift) | Impossible | - | - | 10 |
 | [Silent Slip](#Silent-Slip) | Average | - | - | 10 |
 | [Silent Draw](#Silent-Draw) | Average | - | - | 10 |
 

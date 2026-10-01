@@ -16,36 +16,36 @@ Basic familiarity with the cestus involves becoming comfortable enough with the 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Mervia | **Prestis |
 | *<u>Cestus</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
-| [Cestus Weaving Stance](#cestus-weaving-stance-weave) | Average | 2 | - | - | - | 100 | 100 | 154 |
+| [Cestus Weaving Stance](#Stance) | Average | 2 | - | - | - | 100 | 100 | 154 |
 | [Cestus Jab](#Jab) | Easy | Either | Short | Pierce | - | 300 | 500 | 154 |
-| [Cestus Short Upcut](#cestus-short-upcut-upcut) | Easy | 2 | Short | Pierce |  | 300 | 500 | 154 |
-| [Cestus Spike Slash](#cestus-spike-slash-slash) | Easy | Either | Short | Cut | - | 300 | 500 | 154 |
-| [Cestus Double Jab](#cestus-double-jab-doublejab) | Average | 2 | Short | Pierce<br><br>Pierce | 20 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
-| [Cestus Feint](#cestus-feint-feint) | Average | Either | Short | - | - | 300 | 500 | 154 |
-| [Cestus Tumble Lunge](#cestus-tumble-lunge-lunge) | Average | 2 | Long | Pierce | - | 300 | 500 | 154 |
-| [Cestus Rear Upcut](#cestus-rear-upcut-rupcut) | Average | 2 | Short | Pierce | [Cestus Weaving Stance](#cestus-weaving-stance-weave) | 300 | 500 | 154 |
-| [Cestus Spinning Backhand](#cestus-spinning-backhand-spin) | Average | Either | Short | Cut | 20 Ranks in<br><br>[Cestus Spike Slash](#cestus-spike-slash-slash) | 300 | 500 | 154 |
-| [Cestus Stab](#cestus-stab-stab) | Average | Either | Short | Pierce | - | 300 | 500 | 154 |
-| [Cestus Upward Thrust](#cestus-upward-thrust-upthrust) | Average | Either | Either | Pierce | - | 300 | 500 | 154 |
-| [Cestus Triple Slash](#cestus-triple-slash-tripleslash) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Cestus Spike Slash](#cestus-spike-slash-slash) | 300 | 500 | 154 |
-| [Cestus Upcut Spin](#cestus-upcut-spin-upspin) | Difficult | 2 | Short | Pierce<br><br>Pierce<br><br>Pierce | [Cestus Weaving Stance](#cestus-weaving-stance-weave)<br><br>20 Ranks in [Cestus Short Upcut](#cestus-short-upcut-upcut)<br><br>20 Ranks in [Cestus Rear Upcut](#cestus-rear-upcut-rupcut) | 300 | 500 | 154 |
-| [Cestus Vital Gouge](#cestus-vital-gouge-gouge) | Difficult | Either | Short | Pierce | 10 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
-| [Cestus Weapon Trap](#cestus-weapon-trap-trap) | Difficult | Either | Short | - | - | 300 | 500 | 154 |
-| [Cestus Simple Block](#cestus-simple-block) | Average | Either | - | - | - | 300 | 500 | 154 |
-| [Cestus Cross Block](#cestus-cross-block) | Average | Either | - | - | - | 300 | 500 | 154 |
-| [Cestus Weaving Block](#cestus-weaving-block) | Average | 2 | - | - | - | 300 | 500 | 154 |
-| [Cestus Blade Block](#cestus-blade-block) | Average | Either | - | - | - | 300 | 500 | 154 |
-| [Cestus Low Cross](#cestus-low-cross) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
-| [Cestus Ducking Cross](#cestus-ducking-cross) | Difficult | 2 | - | - | Prone Position | 300 | 500 | 154 |
-| [Cestus Accuracy](#cestus-accuracy) | Difficult | - | - | - | - | 100 | 100 | 154 |
-| [Cestus Form](#cestus-form) | Impossible | - | - | - | - | 100 | 100 | 154 |
+| [Cestus Short Upcut](#Shortupcut) | Easy | 2 | Short | Pierce |  | 300 | 500 | 154 |
+| [Cestus Spike Slash](#Slash) | Easy | Either | Short | Cut | - | 300 | 500 | 154 |
+| [Cestus Double Jab](#Doublejab) | Average | 2 | Short | Pierce<br><br>Pierce | 20 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
+| [Cestus Feint](#Feint) | Average | Either | Short | - | - | 300 | 500 | 154 |
+| [Cestus Tumble Lunge](#Lunge) | Average | 2 | Long | Pierce | - | 300 | 500 | 154 |
+| [Cestus Rear Upcut](#Rearupcut) | Average | 2 | Short | Pierce | [Cestus Weaving Stance](#Stance) | 300 | 500 | 154 |
+| [Cestus Spinning Backhand](#Spinning) | Average | Either | Short | Cut | 20 Ranks in<br><br>[Cestus Spike Slash](#Slash) | 300 | 500 | 154 |
+| [Cestus Stab](#Stab) | Average | Either | Short | Pierce | - | 300 | 500 | 154 |
+| [Cestus Upward Thrust](#Upthrust) | Average | Either | Either | Pierce | - | 300 | 500 | 154 |
+| [Cestus Triple Slash](#Tripleslash) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Cestus Spike Slash](#Slash) | 300 | 500 | 154 |
+| [Cestus Upcut Spin](#Upcutspin) | Difficult | 2 | Short | Pierce<br><br>Pierce<br><br>Pierce | [Cestus Weaving Stance](#Stance)<br><br>20 Ranks in [Cestus Short Upcut](#Shortupcut)<br><br>20 Ranks in [Cestus Rear Upcut](#Rearupcut) | 300 | 500 | 154 |
+| [Cestus Vital Gouge](#Gouge) | Difficult | Either | Short | Pierce | 10 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
+| [Cestus Weapon Trap](#Trap) | Difficult | Either | Short | - | - | 300 | 500 | 154 |
+| [Cestus Simple Block](#Simpleblock) | Average | Either | - | - | - | 300 | 500 | 154 |
+| [Cestus Cross Block](#Crossblock) | Average | Either | - | - | - | 300 | 500 | 154 |
+| [Cestus Weaving Block](#Weavingblock) | Average | 2 | - | - | - | 300 | 500 | 154 |
+| [Cestus Blade Block](#Bladeblock) | Average | Either | - | - | - | 300 | 500 | 154 |
+| [Cestus Low Cross](#Lowcross) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
+| [Cestus Ducking Cross](#Duckingcross) | Difficult | 2 | - | - | Prone Position | 300 | 500 | 154 |
+| [Cestus Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 154 |
+| [Cestus Form](#Form) | Impossible | - | - | - | - | 100 | 100 | 154 |
 
 **Directions to Ariston** ([Iridine](/bronze-lane/)): walk to bronze, Ex2, NEx2, N, Ex4, N, W
 **Directions to Mervia** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W, S 
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#aralex-eggs).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

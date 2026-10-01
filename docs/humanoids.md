@@ -10,15 +10,15 @@ category: "Reference"
 Will later include lootable, prices, location, attacks, difficulty, descriptions. Work in progress.
 
 ### Locations:
-[Franlius](#franlius)
-[Franlius: Southeast Section](#franlius-southeast-section)
-[Franlius: Southwest Section](#franlius-southwest-section)
-[Franlius: Northeast Section](#franlius-northeast-section)
-[Franlius: Northwest Section](#franlius-northwest-section)
-[Franlius Docks](#franlius-docks)
+[Franlius](#Franlius)
+[Franlius: Southeast Section](#Fran-SE)
+[Franlius: Southwest Section](#Fran-SW)
+[Franlius: Northeast Section](#Fran-NE)
+[Franlius: Northwest Section](#Fran-NW)
+[Franlius Docks](#Fran-Docks)
 
 ### Humanoids:
-[mercenary (various descriptions)](#an-unwashed-hairy-mercenary)
+[mercenary (various descriptions)](#Merc)
 [a Cineran soldier](#CineranSoldier)
 [a Cineran heavy soldier](#CineranHeavySoldier)
 [a Cineran marine](#CineranMarine)

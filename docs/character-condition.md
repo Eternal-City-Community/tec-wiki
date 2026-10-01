@@ -29,7 +29,7 @@ See the full list of [commands](/commands/).
 
 <a id="HP"></a>
 ### Health Points
-Health Points (HP) measure how much damage your character can sustain before becoming incapacitated. The amount of HP you have is determined by your [Endurance](/stats/#endurance) stat.
+Health Points (HP) measure how much damage your character can sustain before becoming incapacitated. The amount of HP you have is determined by your [Endurance](/stats/#Endurance) stat.
 
 Each inflicted wound can cause damage to your HP, and if your HP falls below 0, your character will fall unconscious. Some traits, like [Iron Will](/traits/#IronWill), can modify this threshold.
 

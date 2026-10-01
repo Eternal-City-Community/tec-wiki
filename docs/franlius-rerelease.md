@@ -18,7 +18,7 @@ The **[Town of Franlius](/town-of-franlius/) is under assault by the undead!**
 
 The undead have begun their attack on [Franlius](/town-of-franlius/) and the city is in shambles. High winds and deadly swarms of rotting corpses now roam freely across the northern bridge. It is **recommended to travel in groups** when venturing across the bridge.
 
-* Refer to the [Reputation#Franlius](/reputation/#franlius) page for info about the new Franlius reputation shop that accepts armbands from defeated corpses.
+* Refer to the [Reputation#Franlius](/reputation/#Franlius) page for info about the new Franlius reputation shop that accepts armbands from defeated corpses.
 
 ---
 ### Enemy Location

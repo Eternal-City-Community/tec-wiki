@@ -48,7 +48,7 @@ Where you were born and raised contributes a lot to your character. Your homelan
 
 Hit <return> to continue...
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #2: Homeland
@@ -77,7 +77,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 #### Step #2.a: City of Iridine
@@ -95,7 +95,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 #### Step #2.b: Republic of Iridine
@@ -125,7 +125,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #3: Preferred Home Type
@@ -141,7 +141,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 #### Step #3.1: City life choice. 
@@ -159,7 +159,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 #### Step #3.2: Small town life choice. 
@@ -191,7 +191,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #4: Childhood friends
@@ -206,7 +206,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 #### Step #4.1: Having many friends. 
@@ -225,7 +225,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 #### Step #4.2: Few friends. 
@@ -245,7 +245,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #5: Favorite Activities.
@@ -292,7 +292,7 @@ response.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 This series of questions determines the way your character looks.
 
@@ -416,7 +416,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #7: Complexion
@@ -451,7 +451,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 ### Step #8: Eye Color
 
@@ -488,7 +488,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #9: Hair Color
@@ -538,7 +538,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 ### Step #10: Hair length
 
@@ -555,7 +555,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #11: Hair texture
@@ -608,7 +608,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #12: Face structure
@@ -634,7 +634,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #13: Nose type
@@ -659,7 +659,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #14: Lips type
@@ -678,7 +678,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Step #15: Chin type
@@ -700,7 +700,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 ### Step #16: Height
 
@@ -717,7 +717,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 Next you must enter three adjectives which describe your character: 
 Hit <return> to continue...
@@ -767,7 +767,7 @@ Hit <return> to continue...
 
 **After choosing one, you get to unlock [99] lucky and then after choosing a second one you get [99] fortunate**
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 Your character can have up to five different skills. He or she will advance much more easily in these skills than in any others. You will select one of the five now, and acquire the rest during the course of gameplay. The skill you select now will determine the primary focus of your character. NOTE: Certain starting skills may not be available to some nations, and won't be listed.
 
@@ -801,7 +801,7 @@ Hit <return> to continue...
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 Because of your nation choice, you automatically have the following advantages:
   - Trait: Citizenship
@@ -827,10 +827,10 @@ Hit <return> to continue...
 
 NOTE: **View full list of [national advantages](/national-advantages/) available to your selected nation.**
 
-NOTE: If you select the **same skill** in [Step #19: Nationality Advantages](#step-19-nationality-advantages) as you did in [Step #18: Skill choice](#step-18-skill-choice), you will receive **double** the Basics **starting ranks**.
+NOTE: If you select the **same skill** in [Step #19: Nationality Advantages](#Step-19) as you did in [Step #18: Skill choice](#Step-18), you will receive **double** the Basics **starting ranks**.
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 ### Step #20: Trait Selection
 
@@ -876,7 +876,7 @@ Total Trait Value: 0
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### Positive Traits
@@ -920,7 +920,7 @@ Total Trait Value: 0
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 ### Negative Traits
 
@@ -963,7 +963,7 @@ Total Trait Value: 0
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 
 ### **Neutral Traits**
@@ -987,7 +987,7 @@ Total Trait Value: 0
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)
 
 Are you satisfied with the above traits? [y/N] Traits saved.
 
@@ -1001,4 +1001,4 @@ Are you satisfied with the above traits? [y/N] Traits saved.
 ~~~
 
 
-[Back To Top](#)
+[Back To Top](#back-to-top)

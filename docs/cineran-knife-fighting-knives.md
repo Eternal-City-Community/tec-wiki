@@ -16,20 +16,20 @@ Cineran Knife Fighting is known as a refined fighting style from the distant lan
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Vitrus | Maerodus |  |  |  |
 | *<u>Cineran Knife Fighting</u>* | Easy | - | - | - | - | 500 | 75 |  |  |  |
-| [CKF Screnaca Coranadin Stance](#ckf-screnaca-coranadin-stance-ckf) | Easy | - | - | - | - | 100 | 75 |  |  |  |
-| [CKF Slashing Block](#ckf-slashing-block) | Average | - | - | - | - | 500 | 50 |  |  |  |
-| [CKF Dirk Balance](#ckf-dirk-balance-dirkbalance) | Difficult | - | - | - | 20 Ranks in [Knives Wrist-Dancing](/knives/#knife-stealthy-draw-draw) | 175 | 50 |  |  |  |
-| [CKF Rib Tickle](#ckf-rib-tickle-ribtickle) | Difficult | 1 | Short | Pierce | 30 Ranks in [Knives Slash](/knives/#knives)<br><br>20 Ranks in [Knives Underhand Stab](/knives/#knife-underhand-stab-ustab) | 500 | 50 |  |  |  |
-| [CKF Triple Cut](#ckf-triple-cut-triplecut) | Difficult | 1 | Short | Cut<br><br>Cut<br><br>Cut | 20 Ranks in [Knives Jab](/knives/#knife-jab-jab)<br><br>20 Ranks in [Knives Slash](/knives/#knives)<br><br>20 Ranks in [Knives Chop](/knives/#knife-chop-chop) | 500 | 40 |  |  |  |
-| [CKF Face Slash](#ckf-face-slash-fslash) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#knives) | 500 | 50 |  |  |  |
-| [CKF Wrist Slash](#ckf-wrist-slash-wslash) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#knives) | 500 | 50 |  |  |  |
-| [CKF Backhand Slash](#ckf-backhand-slash-bslash) | Average | 1 | Short | Cut | - | 500 | 45 |  |  |  |
-| [CKF Quick Draw](#ckf-quick-draw-automatic) | Difficult | 1 | - | - | - | 175 | 50 |  |  |  |
-| [CKF Markad Slash](#ckf-markad-slash-mslash) | Average | 1 | Short | Bruise<br><br>Cut | 20 Ranks in [Knives Slash](/knives/#knives) | 500 | 50 |  |  |  |
+| [CKF Screnaca Coranadin Stance](#Stance) | Easy | - | - | - | - | 100 | 75 |  |  |  |
+| [CKF Slashing Block](#Slashing) | Average | - | - | - | - | 500 | 50 |  |  |  |
+| [CKF Dirk Balance](#Dirk) | Difficult | - | - | - | 20 Ranks in [Knives Wrist-Dancing](/knives/#Wd) | 175 | 50 |  |  |  |
+| [CKF Rib Tickle](#Rib) | Difficult | 1 | Short | Pierce | 30 Ranks in [Knives Slash](/knives/#Slash)<br><br>20 Ranks in [Knives Underhand Stab](/knives/#Ustab) | 500 | 50 |  |  |  |
+| [CKF Triple Cut](#Triple) | Difficult | 1 | Short | Cut<br><br>Cut<br><br>Cut | 20 Ranks in [Knives Jab](/knives/#Jab)<br><br>20 Ranks in [Knives Slash](/knives/#Slash)<br><br>20 Ranks in [Knives Chop](/knives/#Chop) | 500 | 40 |  |  |  |
+| [CKF Face Slash](#Face) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
+| [CKF Wrist Slash](#Wrist) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
+| [CKF Backhand Slash](#Backhand) | Average | 1 | Short | Cut | - | 500 | 45 |  |  |  |
+| [CKF Quick Draw](#Quick) | Difficult | 1 | - | - | - | 175 | 50 |  |  |  |
+| [CKF Markad Slash](#Markad) | Average | 1 | Short | Bruise<br><br>Cut | 20 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | Unavailable Skills (Not taught by NPC trainers) |
-| [Cineran Knives Heavy Chop](#cineran-knives-heavy-chop-hchop) | - | - | - | - | 20 Ranks in [Knife Chop](/knives/#knife-chop-chop) | - | - |  |  |  |
-| [Cineran Knives Diving Stab](#cineran-knives-diving-stab-dstab) | - | 1 | Long | Pierce | 20 Ranks in [Knife Step and Lunge](/knives/#knife-step-and-lunge-lunge)<br><br>20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
-| [Cineran Knives Knee Stab](#cineran-knives-knee-stab-kstab) | - | - | - | - | 20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
+| [Cineran Knives Heavy Chop](#HChop) | - | - | - | - | 20 Ranks in [Knife Chop](/knives/#Chop) | - | - |  |  |  |
+| [Cineran Knives Diving Stab](#DStab) | - | 1 | Long | Pierce | 20 Ranks in [Knife Step and Lunge](/knives/#Lunge)<br><br>20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
+| [Cineran Knives Knee Stab](#KStab) | - | - | - | - | 20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
 
 
 **Directions to Vitrus** ([Vetallun](/town-of-vetallun/)): From Vetallun Armory, Sx1 , Wx1
@@ -183,7 +183,7 @@ Vitrus steps towards a thug with his retalq dagger held high and brings it acros
 
 ### CKF Wrist Slash  *wslash <target>*
 
-Having spent countless hours blocking your opponents eventually gives you ideas for possible areas to strike at next. --CKF Wrist Slash is an attack which **must follow the wielder's successful [Slashing Block](#ckf-slashing-block) within 5 seconds of blocking**.--  The attack itself is light, but normally causes a light bleed to the opponent in the wrist of their attacking hand. There is a chance the attack may disarm the opponent.
+Having spent countless hours blocking your opponents eventually gives you ideas for possible areas to strike at next. --CKF Wrist Slash is an attack which **must follow the wielder's successful [Slashing Block](#Slashing) within 5 seconds of blocking**.--  The attack itself is light, but normally causes a light bleed to the opponent in the wrist of their attacking hand. There is a chance the attack may disarm the opponent.
 
 * Their maneuver has a chance to automatically create a bleeding wound. This chance is increased based on the attacker's ranks.
 * Their maneuver has a chance to disarm the target. This chance is increased based on the attacker's ranks.

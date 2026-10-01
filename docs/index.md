@@ -6,7 +6,7 @@ category: Wiki & Help
 
 ## The Eternal City - A Text Based MUD
 
-**The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#account-subscriptions), and is operated by Three Seas LLC.
+**The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
 
 > Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
 
@@ -20,7 +20,7 @@ Check out the sidebar for helpful categories.
 
 **New players** can learn about [Getting Started](/getting-started/) to understand how to roll and roleplay your character. The [Newbie Guides](/newbie-guides/) provide suggestions to taking your first steps into the adventure. The [Account](/account/) section will break down subscription types and Out-Of-Character (OOC) currency.
 
-**Returning players** *(welcome back!)* familiar with the Game-world may find it more fun to jump into [character creation](/characters/) and catch up on the [latest updates](#latest-updates).
+**Returning players** *(welcome back!)* familiar with the Game-world may find it more fun to jump into [character creation](/characters/) and catch up on the [latest updates](#LatestUpdates).
 
 **Have questions?** Join the conversation on our extremely active [Discord](https://discord.gg/fevBA8j)!
 
@@ -58,9 +58,9 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **August 2026:** New Noncom skillset released - Jewel crafting
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off Superior Weapon Upgrades**.
 * **February 23<sup>rd</sup> 2024**: **Combat trainers** have been updated. Some trainers now **teach up to 300/300 or 500/500** ranks. Visit the related [skills page](/skills/#Combat) for details.
-* **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#natural-attribute-increases) for details.
+* **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#naturalatt) for details.
 * **February 1<sup>st</sup> 2024**: **50% off** **GSP purchases & Swapping Skill Slots** for the February Promotion! 
-* **January 4<sup>th</sup> 2024**: The ability to **teach above rank 1150 has been disabled** along with additional changes to self-training. For more information, see [self-training](/skills/#self-training). 
+* **January 4<sup>th</sup> 2024**: The ability to **teach above rank 1150 has been disabled** along with additional changes to self-training. For more information, see [self-training](/skills/#SelfTraining). 
 * **January 1<sup>st</sup> 2024**: For the month of January, the Role Point cost for **[Veteran Character Packages](/veteran-characters/)** are **50% off**!
 * **December 31<sup>st</sup> 2022**: The final skillset to be released in conjunction with the Kelestian invasion has been released! The [Slings](/sling/) skillset can now be learned in the recently released Kelestian outpost found deep within the Monlon ravines! (not to be confused with the fort close to Monlon). All four new skillsets now have very skilled trainers and a reputation system has been set up in this Kelestian outpost.
 * **November 1<sup>st</sup> 2022**: The [Falcata](/falcata/), a type of one-handed curved sword, is now available! It's the third of four total new skillsets with the [Slings](/sling/) being the only remaining skillset yet to be released.
@@ -72,7 +72,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **August 13<sup>th</sup> 2022**: The [Kelestians](/kelestia/) have **invaded [Monlon](/city-of-monlon/)**! Equipped with exotic weapons and armor, such as: falcatas, falxes, slings, uraschadas, katitras & nagodas. Read about the [Monlon Invasion](/monlon-invasion/) for more details.
 * **July 25<sup>th</sup> 2022**: [Herbalism](/herbalism/) **Phase 3** is upon us! With several additions, including **over 20 new recipes** & a **swamps reputation shop**. [Visit the forums](https://www.eternalcitygame.com/community/postid/861/) for more details.
 * **June 18<sup>th</sup> 2022**: Reminder on **Language & Immersion in Midlight**. Please be respectful of the immersion and role-playing nature of the game. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/829/) for more details.
-* **June  18<sup>th</sup> 2022**: The maximum length of **[coma sickness](/character-condition/#coma) has been reduced**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/828/) for more details.
+* **June  18<sup>th</sup> 2022**: The maximum length of **[coma sickness](/character-condition/#Coma) has been reduced**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/828/) for more details.
 * **May 29<sup>th</sup> 2022**: For the rest of the month, the **RP gain** rate has been **doubled**. Enjoy! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/824/) for more details.
 * **April 24<sup>th</sup> 2022**: The newly re-released **[Herbalism](/herbalism/)** skill set introduces new skills in its next phase! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/783/) for more details.
 * **April 15<sup>th</sup> 2022**: The long-awaited and newly re-released **[Herbalism](/herbalism/)** skill set is currently being "soft launched" and tested by players!!
@@ -95,7 +95,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **August 9<sup>th</sup> 2021**: All accounts that have been with us since May have been given a **Veteran Character Package** scaled to the account type, and paid accounts have been given a **Half Off Stats perk**! Enjoy! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/395/) for more details.
 * **August 6<sup>th</sup> 2021**: One more for tonight - through the end of Monday, the cost to purchase **GSP** is now **50% off**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/394/) for more details.
 * **August 6<sup>th</sup> 2021**: As part of our one year celebration, through the end of day on Sunday, **creature button** pushes in the Welcome Room are **free**. Enjoy! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/393/) for more details.
-* **August 1<sup>st</sup> 2021**: ThreeSeas x **TEC Anniversary Celebration** has begun, including **free [Vet Char packages](/veteran-characters/)**, OOC **parchment event**, in-game **auction**, **Flash Sales** and more! Also the release of a **new [perk](/account/#perks)**: **"1/2 off character stats"**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/381/) for more details.
+* **August 1<sup>st</sup> 2021**: ThreeSeas x **TEC Anniversary Celebration** has begun, including **free [Vet Char packages](/veteran-characters/)**, OOC **parchment event**, in-game **auction**, **Flash Sales** and more! Also the release of a **new [perk](/account/#Perks)**: **"1/2 off character stats"**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/381/) for more details.
 * **June 15<sup>th</sup> 2021**: The current **role point rate** has been temporarily **doubled**. Enjoy! *(In-Game Only Announcement)*
 * **June 6<sup>th</sup>**: On behalf of the TEC Wiki editors, **Happy Pride Month!**
 * **May 10<sup>th</sup> 2021**: **All shopkeepers** have been updated with the **"Balance"** feature and **various other minor updates**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/312/) for more details.

@@ -76,7 +76,7 @@ Your RB in a skill is determined by the Rank Bonus from your Basics skill + your
 ***<Example Text. Sword Jab.>***
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 <a id="Posture"></a>
 #### Combat Posture
@@ -93,7 +93,7 @@ There are five stances that allow you to balance your fighting style.
 | Defensive | 0% | 100% |
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 #### 'Fighting'
 
@@ -106,7 +106,7 @@ There are five stances that allow you to balance your fighting style.
 | Fight toyingly | 10% |
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ### Attacking
 
@@ -123,7 +123,7 @@ Only applies to humanoids.
 | Attacks | jab | chop | swat | slash | jab (-10) |
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 #### Targeting/Aiming
 Depending on the attack, it may allow you to aim. Some attacks are restricted to certain areas (e.g. can't kick a face or chop a foot). Some restrict you in precision (can only aim high/mid/low, not for a hand or neck or foot). Attempting to aim an attack will add a **penalty to your success/offense** (make it X points harder).
@@ -153,13 +153,13 @@ When aiming at specific body parts, the penalty is greater, but if you connect y
 | Right foot, Left foot | -65 |
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 #### Critical Hits
 Critical hits can change any number of things, from severely wounding a limb to the point of disabling it, causing bleeders, changing your combat posture, changing your prone position. For a more extensive list of examples, see [Critical Hits](/critical-hits/).
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ### Defending
 Given that your character may know many defensive maneuvers (e.g. blocks, dodges, etc.), there is a layering system when it comes to defences. All skills can (and should) be used in combination with [Combat Maneuvers](/combat-maneuvers/). If you use a one-handed weapon, you can (And typically should) also take advantage of using [Shields](/shields/). 
@@ -174,7 +174,7 @@ Your defensive maneuver (block/dodge) with the highest RB is your **1st** layer 
 | Second highest RB Dodge/Block | 1/2 |
 | Third highest RB Dodge/Block | 1/3 |
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 #### Defensive Holes
 
@@ -209,17 +209,17 @@ Itchy stitches will show as irritated, *"The aging stitches in your left thigh i
 | 25% | -30 offense + 600% fatigue loss |
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 #### Character Condition
 The state of your character also plays an impact on combat. The more wounded or even hungry you are can play a part in this.
-If your character is **extremely [hungry](/character-condition/#nourishment) or [thirsty](/character-condition/#nourishment)**, you may see your fatigue drain faster or your HP diminish.
-If your character is **severely [wounded](/character-condition/#wounds)**, you may wince as you attempt to perform actions.
+If your character is **extremely [hungry](/character-condition/#Nourishment) or [thirsty](/character-condition/#Nourishment)**, you may see your fatigue drain faster or your HP diminish.
+If your character is **severely [wounded](/character-condition/#Wounds)**, you may wince as you attempt to perform actions.
 If your character is **heavily [encumbered](/character-condition/#Load)**, you will have a penalty to your offence and defensive skills.
-If the **[lighting level](/character-condition/#lighting) is too dark**, you will have a penalty to your offence and defensive skills.
+If the **[lighting level](/character-condition/#Lighting) is too dark**, you will have a penalty to your offence and defensive skills.
 
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ### Stats
 
@@ -247,7 +247,7 @@ Perception
 Speed
 Agility
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 ### Armor
 To view a more extensive list of [Armor](/armor/).
@@ -262,7 +262,7 @@ Armor reduces [wounds](/character-condition/) which can be inflicted by attacks.
 | Little Protection |
 | No Protection |
 
-[Back to Top](#)
+[Back to Top](#Top)
 
 #### Armor Layering
 Amor can be layered, something something.
@@ -321,4 +321,4 @@ Missile Defense
 Grappling
 'Free me'
 
-[Back to Top](#)
+[Back to Top](#Top)

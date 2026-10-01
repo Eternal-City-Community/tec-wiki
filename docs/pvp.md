@@ -71,10 +71,10 @@ If another player is unconscious, you can break their bones. These breaks are ge
 
 
 #### Coma
-You can **put an unconscious person into a [coma](/character-condition/#coma)** by beating them within an inch of their life. A coma is essentially an **unconscious state for an extended period of time**, after which the victim wakes up and suffers from coma sickness, which temporarily reduces their [stats](/stats/). When someone suffers from coma sickness, it is difficult for them to walk, pick up heavy things and they are unable to think.
+You can **put an unconscious person into a [coma](/character-condition/#Coma)** by beating them within an inch of their life. A coma is essentially an **unconscious state for an extended period of time**, after which the victim wakes up and suffers from coma sickness, which temporarily reduces their [stats](/stats/). When someone suffers from coma sickness, it is difficult for them to walk, pick up heavy things and they are unable to think.
 
 
-* **How to achieve**: Use the kill <target> command on an unconscious victim OR continuing to attack an unconscious victim until they pass their [coma HP threshold](/character-condition/#coma).
+* **How to achieve**: Use the kill <target> command on an unconscious victim OR continuing to attack an unconscious victim until they pass their [coma HP threshold](/character-condition/#Coma).
 * **When**: While approaching the unconscious victim.
 * **Role Point Cost**: (Compounding) 250 RPs per coma. 
  *  Example: **250 RPs** for the **1<sup>st</sup>** coma, **500 RPs** for the **2<sup>nd</sup>** coma, **750 RPs** for the **3<sup>rd</sup>** coma, etc. This resets after (1-3?) months.

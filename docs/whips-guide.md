@@ -16,13 +16,13 @@ Below you'll find everything important to know about **[Short Whips](/whips/)**.
 #### Cons
 * Many pre-requisites before being able to perform all maneuvers.
 * Many attacks limited to humanoid opponents, meaning more difficult to train in easier hunting grounds.
-* Unmastered [Recovery](/combat-maneuvers/#recovery-na) means that fumbling may actually cause self-injury.
+* Unmastered [Recovery](/combat-maneuvers/#Recovery) means that fumbling may actually cause self-injury.
 * No significant weapon blocks (other than coil block) means you must rely on shields & combat maneuvers for only 2 defensive layers.
 
 
 ### Advice & Tips
-* [Ankle Trap](/whips/#whip-lykatos-scourge-scourge) to the moon.
-* [Flogging the Bull](/whips/#whip-flogging-the-bull-feint) (Feinting) auto-aims high, making it a very strong support maneuver in a group.
+* [Ankle Trap](/whips/#AT) to the moon.
+* [Flogging the Bull](/whips/#FtB) (Feinting) auto-aims high, making it a very strong support maneuver in a group.
 
 ### Weapon Details
 
@@ -67,13 +67,13 @@ In this damage ranking table, 1 is the best/highest raw damage. This ranking doe
 
 ### Moves
 #### Worthwhile
-* [Ankle Trap](/whips/#whip-lykatos-scourge-scourge)
-* [Flogging the Bull](/whips/#whip-flogging-the-bull-feint)
-* [Lykatos' Scourge](/whips/#whip-lykatos-scourge-scourge)
+* [Ankle Trap](/whips/#AT)
+* [Flogging the Bull](/whips/#FtB)
+* [Lykatos' Scourge](/whips/#LS)
 
 
 #### Less useful
-* [Precise Snap](/whips/#whip-precise-snap-psnap)
+* [Precise Snap](/whips/#PS)
 
 ### Complementary Skill Sets
 * [Combat-Maneuvers](/combat-maneuvers/) is necessary for any weapon, but especially so for [Whips](/whips/) due to being one of only two defensive layers.

@@ -22,27 +22,27 @@ Covering the most areas in combative situations, CMs are an integral part of you
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Prerequisites | Leda | Rontubius | Hroth | Uiseann | Cralus | Pelias | Clobris | Mervia | Regul | **Prestis | Karkara |
 | *<u>Combat Maneuvers</u>* | Easy | - | 300 | 200 | 500 | 125 | 100 | 110 | 300 | 300 | 300 | 154 | 300 |
-| [Duck](#duck-na) | Easy | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
-| [Basic Dodge](#basic-dodge-na) | Easy | - | 300 | 150 | 500 | 100 | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
-| [Sidestep](#sidestep-na) | Easy | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
-| [Jump](#jump-na) | Average | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
-| [Leg Dodge](#leg-dodge-na) | Average | - | 300 | 150 | 500 | 100 | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
-| [Swaying Dodge](#swaying-dodge-na) | Average | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
-| [Combat Guarding](#combat-guarding-guard) | Difficult | - | 100 | 150 | 175 | - | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
-| [Battle Cry](#battle-cry-battlecry) | Easy | - | 100 | 150 | 175 | 100 | 90 | - | 100 | 175 | 100 | 154 | 175 |
-| [Killing Blow](#killing-blow-kill) | Average | - | 100 | 150 | 175 | 100 | 90 | - | 100 | 175 | 100 | 154 | 175 |
-| [Simple Rolling Rise](#simple-rolling-rise-na) | Difficult | - | 100 | 150 | 175 | - | 90 | 50 | 100 | 175 | 100 | 154 | 175 |
-| [Backwards Rolling Rise](#backwards-rolling-rise-brise) | Impossible | - | 100 | 150 | 175 | 100 | - | - | - | 175 | 100 | 154 | 175 |
-| [Rolling Dodge](#rolling-dodge-na) | Difficult | - | 300 | 150 | 500 | 100 | 90 | - | 300 | 175 | 300 | 154 | 175 |
-| [Fall Back](#fall-back-fall-back) | Average | - | 100 | 150 | 175 | 100 | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
-| [Recovery](#recovery-na) | Average | - | 100 | 150 | 175 | - | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
-| [Missile Awareness](#missile-awareness-na) | Difficult | - | 100 | 100 | 175 | 85 | 90 | - | 100 | 100 | 100 | 154 | 175 |
-| [Feint Awareness](#feint-awareness-na) | Difficult | - | 100 | - | 100 | 100 | - | - | - | 175 | 100 | 154 | 175 |
-| [Melee Advance](#melee-advance-advance) | Difficult | 30 Ranks in [Fall Back](#fall-back-fall-back) | 100 | 100 | - | - | - | - | - | 175 | - | - | 175 |
-| [Footwork](#footwork-na) | Impossible | - | 100 | 100 | 100 | 100 | - | - | 100 | 100 | 100 | 154 | 175 |
-| [Reflexes](#reflexes-na) | Impossible | - | 100 | 100 | 100 | 100 | - | - | 100 | 100 | 100 | 154 | 175 |
+| [Duck](#Duck) | Easy | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
+| [Basic Dodge](#Dodge) | Easy | - | 300 | 150 | 500 | 100 | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
+| [Sidestep](#Sidestep) | Easy | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
+| [Jump](#Jump) | Average | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
+| [Leg Dodge](#Leg-Dodge) | Average | - | 300 | 150 | 500 | 100 | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
+| [Swaying Dodge](#Swaying) | Average | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
+| [Combat Guarding](#Guard) | Difficult | - | 100 | 150 | 175 | - | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
+| [Battle Cry](#Cry) | Easy | - | 100 | 150 | 175 | 100 | 90 | - | 100 | 175 | 100 | 154 | 175 |
+| [Killing Blow](#Kill) | Average | - | 100 | 150 | 175 | 100 | 90 | - | 100 | 175 | 100 | 154 | 175 |
+| [Simple Rolling Rise](#Rise) | Difficult | - | 100 | 150 | 175 | - | 90 | 50 | 100 | 175 | 100 | 154 | 175 |
+| [Backwards Rolling Rise](#BRise) | Impossible | - | 100 | 150 | 175 | 100 | - | - | - | 175 | 100 | 154 | 175 |
+| [Rolling Dodge](#Roll) | Difficult | - | 300 | 150 | 500 | 100 | 90 | - | 300 | 175 | 300 | 154 | 175 |
+| [Fall Back](#FB) | Average | - | 100 | 150 | 175 | 100 | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
+| [Recovery](#Recovery) | Average | - | 100 | 150 | 175 | - | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
+| [Missile Awareness](#Missile) | Difficult | - | 100 | 100 | 175 | 85 | 90 | - | 100 | 100 | 100 | 154 | 175 |
+| [Feint Awareness](#Feint) | Difficult | - | 100 | - | 100 | 100 | - | - | - | 175 | 100 | 154 | 175 |
+| [Melee Advance](#Advance) | Difficult | 30 Ranks in [Fall Back](#FB) | 100 | 100 | - | - | - | - | - | 175 | - | - | 175 |
+| [Footwork](#Footwork) | Impossible | - | 100 | 100 | 100 | 100 | - | - | 100 | 100 | 100 | 154 | 175 |
+| [Reflexes](#Reflexes) | Impossible | - | 100 | 100 | 100 | 100 | - | - | 100 | 100 | 100 | 154 | 175 |
 |  |  |  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills |
-| [Offensive Guarding](#offensive-guarding-detain) | Difficult | - | - | - | - | - | - | - | - | - | - | - | - |
+| [Offensive Guarding](#Offensive-Guarding) | Difficult | - | - | - | - | - | - | - | - | - | - | - | - |
 
 **Directions to Leda** ([Iridine](/riverside/)): Walk to **Toga**, W, SW, S, E
 **Directions to Rontubius** ([Monlon](/monlon/)): Walk to Vetallun Road, Walk to Vetallun **Crossroads**, Ex2, NE, Ex2, SE, S, E, buy ticket, W, S, wait for and take ferry to monlon, Nx3, W, N, NW, W, Nx3, NEx2, S
@@ -58,7 +58,7 @@ Covering the most areas in combative situations, CMs are an integral part of you
 
 
 #### Notes on Learning
-**Prestis** will only teach you once you have earned enough [reputation#Aralex](/reputation/#aralex-eggs) with him.
+**Prestis** will only teach you once you have earned enough [reputation#Aralex](/reputation/#Aralex) with him.
 
 ### Skill Details
 
@@ -322,7 +322,7 @@ This skill allows the user to approach a target without needing to manually retr
 
 Melee Advance gets a bonus to speed from its ranks and the Speed attribute of the user, with the maximum speed bonus being achieved at rank 150. Characters with a high Speed attribute may reach the maneuver's maximum speed at lower ranks. Additionally, the user can leave defensive openings while attempting the maneuver. The chance for these openings to occur is nullified by achieving rank 90 in Combat Maneuvers or Melee Advance, whichever occurs first. 
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Judgement**, **Willpower** & **Reasoning**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Judgement**, **Willpower** & **Reasoning**.
 
 **When you see this in use you see:**
 
@@ -343,7 +343,7 @@ This skill has a chance of **[naturally increasing](/stats/#natural-attribute-in
 
 ### Footwork  *n/a*
 
-With enough training in Footwork, you are able to raise your **[agility](/stats/#agility)** in combat situations. A grandmaster in this skill will be equivalent to low-end great agility. *(90 ranks required)*
+With enough training in Footwork, you are able to raise your **[agility](/stats/#Agility)** in combat situations. A grandmaster in this skill will be equivalent to low-end great agility. *(90 ranks required)*
 
 *(This is a passive skill that improves your agility, improving your ability to defend.)*
 
@@ -352,7 +352,7 @@ With enough training in Footwork, you are able to raise your **[agility](/stats/
 
 ### Reflexes  *n/a*
 
-With enough training in Reflexes, you are able to raise your **[speed](/stats/#speed)** in combat situations. A grandmaster in this skill will be equivalent to low-end great speed. *(90 ranks required)*
+With enough training in Reflexes, you are able to raise your **[speed](/stats/#Speed)** in combat situations. A grandmaster in this skill will be equivalent to low-end great speed. *(90 ranks required)*
 
 
 *(This is a passive skill that improves your speed, reducing your round times and improving your ability to defend.)*
@@ -364,4 +364,4 @@ With enough training in Reflexes, you are able to raise your **[speed](/stats/#s
 
 This skill has been disabled.
 
-This skill allows a character to move into a position to detain a subject from leaving the area. Multiple people can attempt to detain one subject. When a subject that is being detained tries to leave the area, they are required to make a roll against EACH person that is detaining them. This can be countered with knowledge of [guard evasion](/street-smarts/#guard-evasion).
+This skill allows a character to move into a position to detain a subject from leaving the area. Multiple people can attempt to detain one subject. When a subject that is being detained tries to leave the area, they are required to make a roll against EACH person that is detaining them. This can be countered with knowledge of [guard evasion](/street-smarts/#Guard-Evasion).

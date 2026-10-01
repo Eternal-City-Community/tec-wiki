@@ -10,7 +10,7 @@ Deities have established relationships between each other based on Lore, and pra
 
 
 ### Locations
-Shrines can be found around the Republic for various [deities](/religion/). Most  public shrines have been erected for the widely worshipped [Ereal](/religion/#ereal), but some do exist for other Gods.
+Shrines can be found around the Republic for various [deities](/religion/). Most  public shrines have been erected for the widely worshipped [Ereal](/religion/#Ereal), but some do exist for other Gods.
  
 #### Iridine
 * [Shrine of the Hearth (Iridine - Near Toga)](/forum/)

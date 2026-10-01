@@ -21,27 +21,27 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Vitrus | Dreggo | Fetidus | Gilven | Maerodus | Hatrin |
 | *<u>Knives</u>* | - | - | - | - | - | 500 | 100 | 100 | 300 | 80 | 90 |
 | [Knife Simple Stab](#Stab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Slash](#knife-slash-slash) | Average | 1 | Short | Cut | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Overhead Strike](#knife-overhead-strike-strike) | Easy | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Chop](#knife-chop-chop) | Easy | 1 | Short | Cut | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Step and Lunge](#knife-step-and-lunge-lunge) | Difficult | 1 | Long | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Jab](#knife-jab-jab) | Easy | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Short Block](#knife-short-block) | Average | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Feint](#knife-feint-feint) | Average | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Long Block](#knife-long-block) | Difficult | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Cross Block](#knife-cross-block) | Average | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Stealthy Draw](#knife-stealthy-draw-draw) | Easy | 1 | - | - | - | 175 | 100 | 85 | 100 | 75 | 75 |
-| [Knife Wrist Dancing](#knife-stealthy-draw-draw) | Average | 1 | - | - | - | 175 | 100 | 85 | 100 | 75 | 75 |
-| [Knife Push Aside](#knife-step-and-lunge-lunge) | Difficult | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Round Strike](#knife-round-strike-round) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Underhand Stab](#knife-underhand-stab-ustab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Whirling Slash](#knife-whirling-slash-whirlslash) | Average | 1 | Short | Cut<br><br>Cut | 20 Ranks in [Knife Slash](#knife-slash-slash) | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Stab and Slash](#knife-stab-and-slash-doublecut) | Average | 1 | Short | Cut<br><br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br><br>10 Ranks in [Knife Slash](#knife-slash-slash) | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Flicking Feint](#knife-flicking-feint-flick) | Average | 1 | Short | - | - | 500 | 100 | - | - | 75 | - |
-| [Knives Grip](#knives-grip) | Impossible | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
-| [Knives Accuracy](#knives-accuracy) | Difficult | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
+| [Knife Slash](#Slash) | Average | 1 | Short | Cut | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Overhead Strike](#Strike) | Easy | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Chop](#Chop) | Easy | 1 | Short | Cut | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Step and Lunge](#Lunge) | Difficult | 1 | Long | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Jab](#Jab) | Easy | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Short Block](#Sblock) | Average | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Feint](#Feint) | Average | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Long Block](#Lblock) | Difficult | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Cross Block](#Cblock) | Average | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Stealthy Draw](#Draw) | Easy | 1 | - | - | - | 175 | 100 | 85 | 100 | 75 | 75 |
+| [Knife Wrist Dancing](#Wd) | Average | 1 | - | - | - | 175 | 100 | 85 | 100 | 75 | 75 |
+| [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut<br><br>Cut | 20 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut<br><br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br><br>10 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 500 | 100 | - | - | 75 | - |
+| [Knives Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
+| [Knives Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
 |  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills (Not taught by NPC trainers) |
-| [Knife Low Block](#knife-low-block) | - | 1 | - | - | - | - | - | - | - | - | - |
+| [Knife Low Block](#Lowblock) | - | 1 | - | - | - | - | - | - | - | - | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, Ex4, Sx6
@@ -51,9 +51,9 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 **Directions to Maerodus** ([Monlon](/monlon/)): Take the ferry to Monlon
 
 #### Notes on Learning
-* For **guaranteed multiple-hits with [Knife Whirling Slash](#knife-whirling-slash-whirlslash)**, you will need **100 ranks in [Knife Slash](#knife-slash-slash)**.
-* For **guaranteed multiple-hits with [Knife Stab and Slash](#knife-stab-and-slash-doublecut)**, you will need **50 Ranks in [Knife Simple Stab](#Stab)** & **50 Ranks in [Knife Slash](#knife-slash-slash)**.
-* Knives **attacks receive a bonus** from [CKF Screnaca Coranadin Stance](/cineran-knife-fighting-knives/#ckf-screnaca-coranadin-stance-ckf).
+* For **guaranteed multiple-hits with [Knife Whirling Slash](#Whirl)**, you will need **100 ranks in [Knife Slash](#Slash)**.
+* For **guaranteed multiple-hits with [Knife Stab and Slash](#Dc)**, you will need **50 Ranks in [Knife Simple Stab](#Stab)** & **50 Ranks in [Knife Slash](#Slash)**.
+* Knives **attacks receive a bonus** from [CKF Screnaca Coranadin Stance](/cineran-knife-fighting-knives/#Stance).
 
 
 ### Skill Details

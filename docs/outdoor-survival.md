@@ -21,39 +21,39 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | **Krimalus **| Fern | Tauruu | Shantaz | Jarla |
 | *<u>Outdoor Survival</u>* | Easy | 80 | 100 | 150 | 150 | 200 |
-| [Dig Firepit](#dig-firepit-dig-firepit) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Craft Basic Torch](#craft-basic-torch-make-torch-with) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Stoke Fire](#stoke-fire-stoke-fire-with) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Firebuilding](#firebuilding-build-fire-with) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Find Firewood](#find-firewood-find-firewood) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Find Sapling](#find-sapling-find-sapling) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Basic Camp Cooking](#basic-camp-cooking-cook) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Outdoor Climbing](#outdoor-climbing-climb) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Shelter Building](#shelter-building-build-shelter) | Difficult | 60 | 100 | 120 | 125 | 150 |
-| [Survival Rope-Making](#survival-rope-making-make-rope-with) | Average | 60 | 100 | 120 | 125 | 150 |
-| [Berry Foraging](#berry-foraging-find-berries) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Soil Foraging](#soil-foraging-find-grub) | Average | 60 | 100 | 120 | 125 | 150 |
-| [Survival Foraging](#survival-foraging-find-resource) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Grass Harvesting](#grass-harvesting-find-grass) | Easy | 60 | 100 | 120 | 125 | 150 |
-| [Craft Fishing Pole](#craft-fishing-pole-craft-pole-with) | Average | 60 | 50 | 100 | 125 | 150 |
-| [Forester Conceal](#forester-conceal-conceal) | Average | 60 | 100 | 120 | 125 | 150 |
-| [Survival Weaving](#survival-weaving-sweave-into) | Average | 80 | - | - | - | - |
-| [Whittling](#whittling-whittle-into) | Difficult | 80 | - | - | - | - |
+| [Dig Firepit](#Firepit) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Craft Basic Torch](#Torch) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Stoke Fire](#Stoke) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Firebuilding](#Fire) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Find Firewood](#Firewood) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Find Sapling](#Sapling) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Basic Camp Cooking](#Cook) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Outdoor Climbing](#Climb) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Shelter Building](#Shelter) | Difficult | 60 | 100 | 120 | 125 | 150 |
+| [Survival Rope-Making](#Rope) | Average | 60 | 100 | 120 | 125 | 150 |
+| [Berry Foraging](#Berry) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Soil Foraging](#Soil) | Average | 60 | 100 | 120 | 125 | 150 |
+| [Survival Foraging](#Resource) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Grass Harvesting](#Grass) | Easy | 60 | 100 | 120 | 125 | 150 |
+| [Craft Fishing Pole](#Pole) | Average | 60 | 50 | 100 | 125 | 150 |
+| [Forester Conceal](#Conceal) | Average | 60 | 100 | 120 | 125 | 150 |
+| [Survival Weaving](#Weaving) | Average | 80 | - | - | - | - |
+| [Whittling](#Whittling) | Difficult | 80 | - | - | - | - |
 
 |  | Outdoor Survival Lores |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- |
 | Lore Name | Krimalus | Fern | Tauruu | Shantaz | Jarla |
-| [Advanced Camp Cooking Lore](#advanced-camp-cooking-lore-blacken-sear-broil-roast) | 25 | - | - | - | - |
-| [Survival Cordage Lore](#survival-cordage-lore-cord) | 25 | - | - | - | - |
+| [Advanced Camp Cooking Lore](#cooklore) | 25 | - | - | - | - |
+| [Survival Cordage Lore](#cordage) | 25 | - | - | - | - |
 
 **Directions to Fern** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Sx1, Wx1
-**Directions to Krimalus** ([Wilderness](/the-west-grasslands/)): Near the cliffs in the coastal forest north of the Iridine. Krimalus is not a typical trainer, **see [Reputation Guide](/reputation/#krimalus) for details.**
+**Directions to Krimalus** ([Wilderness](/the-west-grasslands/)): Near the cliffs in the coastal forest north of the Iridine. Krimalus is not a typical trainer, **see [Reputation Guide](/reputation/#Krimalus) for details.**
 **Directions to Tauruu** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex20, Nx2, Ex2, Nx5, Ex1, Nx1, Wx3
 **Directions to Shantaz** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Wx8, N, E 
 **Directions to Jarla** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
 #### Notes on Learning
-* **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#krimalus) for details.**
+* **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
 
 
 ### Skill Details
@@ -132,7 +132,7 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
-With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light <group of wooden items>' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#aestiva-signalfire-lore).
+With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light <group of wooden items>' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
 
 **When you see this in use you see:**
 
@@ -327,7 +327,7 @@ The types of things you'll find while foraging for resources varies widely depen
 
 The difficulty of this skill varies depending on the environment where you are trying to use it. It is more difficult to forage in inhospitable terrain, such as mountains or underwater.
 
-Foraging can be affected by tools your character is holding, depending on the type of resource foraged. For example, if you forage in a swamp and are holding a knife, it will increase the amount of reeds that you forage during each attempt. Similarly, if you hold a **woven net bag** (made with [Survival Weaving](/outdoor-survival/#survival-weaving-sweave-into)) while **foraging underwater**, you'll be able to find a **greater variety of resources** and the items you find are automatically stowed in the bag **<sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/79385-minor-changes?p=1502240#post1502240)</sup>**.
+Foraging can be affected by tools your character is holding, depending on the type of resource foraged. For example, if you forage in a swamp and are holding a knife, it will increase the amount of reeds that you forage during each attempt. Similarly, if you hold a **woven net bag** (made with [Survival Weaving](/outdoor-survival/#Weaving)) while **foraging underwater**, you'll be able to find a **greater variety of resources** and the items you find are automatically stowed in the bag **<sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/79385-minor-changes?p=1502240#post1502240)</sup>**.
 
 **When you see this in use you see:**
 
@@ -382,7 +382,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 ### Craft Fishing Pole  *craft pole with <sapling>*
 
-Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/#lore) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
+Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/#cordage) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
 
 **When you see this in use you see:**
 
@@ -523,7 +523,7 @@ There are a few ways you can cook something over an open flame to give it a bett
 
 These advanced cooking techniques will imbue your food with many interesting flavors and really impress anyone who is lucky enough to be sitting around the campfire with you.
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **??** *"You feel as if you've learnt a better way to think about that."*.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **??** *"You feel as if you've learnt a better way to think about that."*.
 
 
 ##### Blackening

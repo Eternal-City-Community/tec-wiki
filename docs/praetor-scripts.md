@@ -247,7 +247,7 @@ For the game side of macros and targeting, see [Macros](/macros/) and [Macros an
 | --- | --- | --- |
 | mode not in the mode list | folder not added, or Reload Scripts not run | add the folder under **Script Directories** (Esc menu, **Automation**), then **Reload Scripts** |
 | "unknown mode" | typo, or the file is a {{lib_*.lua}} helper (it never appears in the list and there's no reason to start one) | check the list with {{/list}} (names are matched regardless of case) |
-| combat mode starts but nothing attacks | {{@macro}} entries missing on this character | see the [macro table](#what-the-combat-macros-need) above, and watch for the game answering "I don't understand" to {{at1}} |
+| combat mode starts but nothing attacks | {{@macro}} entries missing on this character | see the [macro table](#macros) above, and watch for the game answering "I don't understand" to {{at1}} |
 | mode stops on its own | fatigue ran out, a script error hit the 2-second limit, or the mode finished | check the app log |
 | error when reloading | a {{lib_*.lua}} file it needs is missing, or the ZIP was unzipped one folder too deep | the folder must contain {{macro.lua}} directly |
 | commands keep going after you stop it | the queue is still draining | {{/mode disable}}, then Alt+X |

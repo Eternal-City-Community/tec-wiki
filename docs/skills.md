@@ -117,7 +117,7 @@ You can also convert GSP to a specific skillset using the @gsp command. For exam
 #### Learning Skills
 Learning new skills or additional ranks in a skill requires you to **spend skill points**. You can learn from both Player Characters (PCs) or Non-Player Characters (NPCs). Learning from either will require the same amount of skill points, but NPCs typically have a standard cost associated to learning which can be calculated using the [training cost calculator](/training-cost-calculator/).
 
-When you learn an initial non-combat skill set with [GSP](#general-skill-points-gsp), you will receive a few subskills to start with. However, if you unlearned a skill set and have saved SP that you use to relearn it, you will not receive any subskills. On the other hand, when you learn a weapon or defense skill with GSP or banked SP, you will not receive any subskills, but you will have access to the "Attack" (ATT) command.
+When you learn an initial non-combat skill set with [GSP](#GSP), you will receive a few subskills to start with. However, if you unlearned a skill set and have saved SP that you use to relearn it, you will not receive any subskills. On the other hand, when you learn a weapon or defense skill with GSP or banked SP, you will not receive any subskills, but you will have access to the "Attack" (ATT) command.
 
 <a id="SelfTraining"></a>
 ##### Self-Training

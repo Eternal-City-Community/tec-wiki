@@ -19,20 +19,20 @@ Locksmiths are much sought after in Midlight. A locksmith starting out will be a
 | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Apula | Ititia | Fefellus | Admina | Clauditis |
 | Locksmithing | Easy | 50 | 100 | 80 | 100 | 200 |
-| [Pick Lock-Unlocking](#pick-lock-unlocking-unlock-with) | Easy | 50 | 90 | 65 | 70 | 150 |
-| [Pick Lock-Locking](#pick-lock-locking-lock-with) | Average | 50 | 90 | 60 | 70 | 150 |
-| [Study Lock](#study-lock-study) | Easy | 50 | 90 | 60 | 70 | 150 |
-| [Lock Lore](#lock-lore-recall-lock-tumbler) | Easy | 50 | 90 | 60 | 70 | 150 |
-| [Unjam Lock](#unjam-lock-unjam-with) | Difficult | 50 | 90 | 65 | 70 | 150 |
-| [Jam Lock](#jam-lock-jam-with-lockpick) | Easy | 50 | 90 | 60 | 70 | 150 |
-| [Fashion Lockpick](#fashion-lockpick-fashion-lockpick-from) | Average | 50 | 70 | 60 | 90 | 150 |
-| [Create Wax Imprint](#create-wax-imprint-imprint-with) | Average | 50 | 70 | 60 | 90 | 150 |
-| [Create Clay Mold](#create-clay-mold-create-mold-of-with) | Difficult | 50 | 70 | 60 | 90 | 150 |
-| [Forge Lock Instrument](#forge-lock-instrument-forge-tool-with-and) | Difficult | 50 | 70 | 60 | 90 | 150 |
-| [Install Lock](#install-lock-install-in) | Difficult | 50 | 70 | 65 | 90 | 150 |
-| [Uninstall Lock](#uninstall-lock-uninstall-lock-from) | Impossible | 50 | 70 | 65 | 90 | 150 |
-| [Wax Letter Etching](#wax-letter-etching-etch) | Average | 25 | 70 | 60 | 90 | 125 |
-| [Fashion Keyring](#fashion-keyring-fashion-keyring-from) | Difficult | 25 | 70 | 60 | 80 | 125 |
+| [Pick Lock-Unlocking](#Lock-Unlocking) | Easy | 50 | 90 | 65 | 70 | 150 |
+| [Pick Lock-Locking](#Lock-Locking) | Average | 50 | 90 | 60 | 70 | 150 |
+| [Study Lock](#Study-Lock) | Easy | 50 | 90 | 60 | 70 | 150 |
+| [Lock Lore](#Lock-Lore) | Easy | 50 | 90 | 60 | 70 | 150 |
+| [Unjam Lock](#Unjam-Lock) | Difficult | 50 | 90 | 65 | 70 | 150 |
+| [Jam Lock](#Jam-Lock) | Easy | 50 | 90 | 60 | 70 | 150 |
+| [Fashion Lockpick](#Fashion-Lockpick) | Average | 50 | 70 | 60 | 90 | 150 |
+| [Create Wax Imprint](#Wax-Imprint) | Average | 50 | 70 | 60 | 90 | 150 |
+| [Create Clay Mold](#Clay-Mold) | Difficult | 50 | 70 | 60 | 90 | 150 |
+| [Forge Lock Instrument](#Forge-Lock-Instrument) | Difficult | 50 | 70 | 60 | 90 | 150 |
+| [Install Lock](#Install-Lock) | Difficult | 50 | 70 | 65 | 90 | 150 |
+| [Uninstall Lock](#Uninstall-Lock) | Impossible | 50 | 70 | 65 | 90 | 150 |
+| [Wax Letter Etching](#Wax-Letter-Etching) | Average | 25 | 70 | 60 | 90 | 125 |
+| [Fashion Keyring](#Fashion-Keyring) | Difficult | 25 | 70 | 60 | 80 | 125 |
 
 **Directions to Apula** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Nx5, Wx1
 **Directions to Fefellus** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Wx2, Sx1, Ex1
@@ -42,7 +42,7 @@ Locksmiths are much sought after in Midlight. A locksmith starting out will be a
 
 
 #### Notes on Learning
-* For characters learning Locksmithing for the first time with **[GSP](/skills/#general-skill-points-gsp)**, the **starting skills** are: [Pick Lock-Unlocking](#pick-lock-unlocking-unlock-with), [Lock Lore](#lock-lore-recall-lock-tumbler) and [Study Lock](#study-lock-study).
+* For characters learning Locksmithing for the first time with **[GSP](/skills/#GSP)**, the **starting skills** are: [Pick Lock-Unlocking](#Lock-Unlocking), [Lock Lore](#Lock-Lore) and [Study Lock](#Study-Lock).
 
 
 ### Skill Details
@@ -52,14 +52,14 @@ Locksmiths are much sought after in Midlight. A locksmith starting out will be a
 
 ### Pick Lock-Unlocking  *unlock <lockable object> with <lockpick>*
 
-All people new to locksmithing will start with this sub-skill. There is a practice board at Riverside Locks (Apula's shop), which you can unlock indefinitely. With enough skill points, you can learn how to [lock containers](#pick-lock-locking-lock-with), which will allow you to carry a practice container around with you. Coffers are very good for this purpose, and many people will let you have one of their spares if you ask.
+All people new to locksmithing will start with this sub-skill. There is a practice board at Riverside Locks (Apula's shop), which you can unlock indefinitely. With enough skill points, you can learn how to [lock containers](#Lock-Locking), which will allow you to carry a practice container around with you. Coffers are very good for this purpose, and many people will let you have one of their spares if you ask.
 
 This difficulty of this skill is affected by the lighting of your environment. Make sure you are in a well-lit room to have the best chance of success.
 
 **Required Tools**: Lockpick.
 
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Reasoning**, **Perception** & **Judgement**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Reasoning**, **Perception** & **Judgement**.
 
 **When you see this in use you see:**
 
@@ -80,7 +80,7 @@ This sub-skill is primarily used for training purposes, but can be useful to loc
 **Required Tools**: Lockpick.
 
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Reasoning** & **Perception**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Reasoning** & **Perception**.
 
 **When you see this in use you see:**
 
@@ -114,7 +114,7 @@ Studying a container will make your next task easier, but only once. It also has
 
 Lock lore offers no mechanical advantage, but it can be useful in gaining skill points, as it can be done anywhere and no tools are required.
 
-This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Willpower**, **Reasoning**, **Judgement** & **Memory**.
+This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Willpower**, **Reasoning**, **Judgement** & **Memory**.
 
 **When you see this in use you see:**
 

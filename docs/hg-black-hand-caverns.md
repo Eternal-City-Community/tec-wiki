@@ -150,4 +150,4 @@ From Vetallun Bridge: 125xNE + 113xE
 * [view old version of map by PhilippeCP](/assets/wikidot/files/bhc%20map.png)
 
 
-[Back to Top](#)
+[Back to Top](#Top)

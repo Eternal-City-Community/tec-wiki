@@ -10,7 +10,7 @@ By Japes
 
 The war against the Aestivan League and their Cineran allies reached a climax on the eve of the 12th day of Jemros, 219th Year of the Republic.
 
-The first news of the Cineran invasion came over a week earlier, when riders from the city of Franlius brought word from the garrison stationed there of a massive Cineran host on the march. Composing the personal armies of half a dozen warlords, the reports numbered the army as around twelve thousand men. Led by [Warlord Kars](/warlord-kars/) of [the Cineran War Faction](/cinera/#the-war-party), the Cineran army was marching south with intention to join the army of [General Narisse](/general-narisse/) of the Aestivan military league. Solemnly, the senate realized that if the two armies were permitted to join, the Holy City was lost.
+The first news of the Cineran invasion came over a week earlier, when riders from the city of Franlius brought word from the garrison stationed there of a massive Cineran host on the march. Composing the personal armies of half a dozen warlords, the reports numbered the army as around twelve thousand men. Led by [Warlord Kars](/warlord-kars/) of [the Cineran War Faction](/cinera/#War-Party), the Cineran army was marching south with intention to join the army of [General Narisse](/general-narisse/) of the Aestivan military league. Solemnly, the senate realized that if the two armies were permitted to join, the Holy City was lost.
 
 [Sordo Calsuan](/bio_sordo-calsuan/), son of the late dictator ([Orasca Calsuan](/orasca-calsuan/)), was appointed to take the position once held by his father as the head of Legio II. Rallying his men, he marched north to take battle to Warlord Kars and prevent him from ever reaching the army of General Narisse.
 

@@ -117,14 +117,14 @@ A minimum of **3 people** are needed for this level.
 
 **<u>Special Notes</u>** 
 * After defeating this boss, a side passage is revealed with a statuette **needed to unlock the Final Boss**
-* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/#tear-sizes).
+* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/#tear).
 
 
 **<u>Opponents</u>** 
 * A huge hulking guy
 * Regular men
 
-**Loot**: **Loot chest** or [Tear](/contraband/#tear-sizes), statuette, etc.
+**Loot**: **Loot chest** or [Tear](/contraband/#tear), statuette, etc.
 
 
 <a id="Level3Boss2"></a>
@@ -134,14 +134,14 @@ A minimum of **3 people** are needed for this level.
 
 **<u>Special Notes</u>** 
 * After defeating this boss, a side passage is revealed with a statuette **needed to unlock the Final Boss**
-* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/#tear-sizes).
+* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/#tear).
 
 
 **<u>Opponents</u>** 
 * A huge Rat King
 * Diseased Rats
 
-**Loot**: **Loot chest** or [Tear](/contraband/#tear-sizes), etc.
+**Loot**: **Loot chest** or [Tear](/contraband/#tear), etc.
 
 
 <a id="Level3Boss3"></a>
@@ -158,7 +158,7 @@ A skeleton king with an army of skeletons. He wears the crown of the damned and 
 * Skeleton King
 * Army of skeletons
 
-**Loot**: **Loot chest**, [tears](/contraband/#tears), grey vials (mentals), black vials (willpower, combat).
+**Loot**: **Loot chest**, [tears](/contraband/#tear), grey vials (mentals), black vials (willpower, combat).
 
 
-[Back to Top](#)
+[Back to Top](#Top)

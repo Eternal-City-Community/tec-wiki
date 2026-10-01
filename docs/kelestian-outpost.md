@@ -7,7 +7,7 @@ category: "Reference"
 
 ## The Kelestian Outpost
 
-Situated deep into the [ravines north of Monlon](/monlon-ravines/) you will find a Kelestian outpost. You must first make your way through the dangerous battlefields from Monlon, walk past the Kelestian Stronghold and enter the mountainside tunnels which are filled with traps. Once you have left these tunnels, you will be making your way through the ravines and can eventually find the Kelestian Outpost situated atop a cliffside. You can only enter this outpost if you have the ability to [speak Kelestian](/languages/#monlon-kelestian-healer) which can be learned within the Kelestian Stronghold.
+Situated deep into the [ravines north of Monlon](/monlon-ravines/) you will find a Kelestian outpost. You must first make your way through the dangerous battlefields from Monlon, walk past the Kelestian Stronghold and enter the mountainside tunnels which are filled with traps. Once you have left these tunnels, you will be making your way through the ravines and can eventually find the Kelestian Outpost situated atop a cliffside. You can only enter this outpost if you have the ability to [speak Kelestian](/languages/#Kelestian) which can be learned within the Kelestian Stronghold.
 
 The Kelestian Outpost houses a reputation vendor, a resting room and trainers for all of the Kelestian weapons.
 
@@ -39,7 +39,7 @@ The Kelestian Outpost houses a reputation vendor, a resting room and trainers fo
 
 
 #### Entering
-The gate at the entrance will open and allow you to enter only if you **[speak Kelestian](/languages/#monlon-kelestian-healer)**.
+The gate at the entrance will open and allow you to enter only if you **[speak Kelestian](/languages/#Kelestian)**.
 
 
 #### Kelestian Combat Skills

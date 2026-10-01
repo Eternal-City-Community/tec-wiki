@@ -7,7 +7,7 @@ category: "Guides & Commands"
 
 ### Officium de Humanitas:
 
-[Earning Credit](#earning-credit) / [Trainers](#trainers) / [Shops](#shops) / [Items](#items)
+[Earning Credit](#Credit) / [Trainers](#Trainers) / [Shops](#Shops) / [Items](#Items)
 
 The sect of the Revealing Light (one of three sects under the Cult of Ereal) has established a small encampment nearby the Stone Toga Inn to help facilitate the livelihood of young adults, refugees and new residents to the great Republic of Iridine. Those wishing to benefit must prove they are interested in becoming a valuable asset to the Republic by working for the greater good.
 

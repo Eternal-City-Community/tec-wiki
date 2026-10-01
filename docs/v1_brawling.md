@@ -20,28 +20,28 @@ Damage done by the Brawling skill set is dependent upon your ranks in the skill 
 | Skills/Actions | Difficulty | Hands | Range | Wound | Pugilius | Mervia |
 | Brawling | Easy | Either | Short | - | 80 | 300 |
 | [Brawling Punch](#Punch) | Easy | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Kick](#kick-kick) | Easy | - | Short | Bruise | 80 | 175 |
+| [Brawling Kick](#Kick) | Easy | - | Short | Bruise | 80 | 175 |
 | [Brawling Knee](#Knee) | Easy | - | Short | Bruise | 80 | 175 |
-| [Brawling Choke](#choke-choke) | Easy | 1 | Short | - | 80 | 175 |
-| [Brawling Bite](#bite-bite) | Easy | 1 | Short | Pierce | 80 | 175 |
-| [Brawling Slap](#slap-hardslap) | Easy | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Hair Pull](#hair-pull-hairpull) | Easy | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Head Slam](#head-slam-slam) | Easy | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Body Slam](#body-slam-bodyslam) | Easy | 1 | Long | Bruise | 80 | 175 |
-| [Brawling Elbow](#elbow-elbow) | Average | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Head Butt](#head-butt-butt) | Average | - | Short | Bruise | 80 | 175 |
-| [Brawling Foot Stomp](#foot-stomp-stomp) | Average | - | Short | Bruise | 80 | 175 |
-| [Brawling Bear Hug](#bear-hug-bearhug) | Average | 1 | Short | - | 80 | 175 |
-| [Brawling Leg Whip](#leg-whip-legwhip) | Difficult | 1 | Either | Bruise | 80 | 175 |
-| [Brawling Uppercut](#uppercut-uppercut) | Difficult | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Sucker Punch](#sucker-punch-sucker) | Difficult | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Nose Break](#nose-break-nosebreak) | Difficult | 1 | Short | Bruise | 80 | 175 |
-| [Brawling Knee Break](#knee-break-kneebreak) | Impossible | - | Short | Bruise | 80 | 175 |
-| [Brawling Face Block](#face-block) | Average | 1 | Short | - | 80 | 175 |
-| [Brawling Swat Block](#swat-block) | Average | 1 | Short | - | 80 | 175 |
-| [Brawling Ale Focus](#ale-focus) | Difficult | - | - | - | 75 | 175 |
-| [Brawling Brawler's Instinct](#brawlers-instinct) | Impossible | - | Short | - | 75 | 175 |
-| [Brawling Feint](#v1-brawling) | Average | 1 | Short | - | 80 | 175 |
+| [Brawling Choke](#Choke) | Easy | 1 | Short | - | 80 | 175 |
+| [Brawling Bite](#Bite) | Easy | 1 | Short | Pierce | 80 | 175 |
+| [Brawling Slap](#Slap) | Easy | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Hair Pull](#Hair-Pull) | Easy | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Head Slam](#Head-Slam) | Easy | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Body Slam](#Body-Slam) | Easy | 1 | Long | Bruise | 80 | 175 |
+| [Brawling Elbow](#Elbow) | Average | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Head Butt](#Head-Butt) | Average | - | Short | Bruise | 80 | 175 |
+| [Brawling Foot Stomp](#Foot-Stomp) | Average | - | Short | Bruise | 80 | 175 |
+| [Brawling Bear Hug](#Bear-Hug) | Average | 1 | Short | - | 80 | 175 |
+| [Brawling Leg Whip](#Leg-Whip) | Difficult | 1 | Either | Bruise | 80 | 175 |
+| [Brawling Uppercut](#Uppercut) | Difficult | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Sucker Punch](#Sucker-Punch) | Difficult | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Nose Break](#Nose-Break) | Difficult | 1 | Short | Bruise | 80 | 175 |
+| [Brawling Knee Break](#Knee-Break) | Impossible | - | Short | Bruise | 80 | 175 |
+| [Brawling Face Block](#Face-Block) | Average | 1 | Short | - | 80 | 175 |
+| [Brawling Swat Block](#Swat-Block) | Average | 1 | Short | - | 80 | 175 |
+| [Brawling Ale Focus](#Ale-Focus) | Difficult | - | - | - | 75 | 175 |
+| [Brawling Brawler's Instinct](#Instinct) | Impossible | - | Short | - | 75 | 175 |
+| [Brawling Feint](#Brawl-Feint) | Average | 1 | Short | - | 80 | 175 |
 
 
 **Directions to Pugilius** ([The Steps South](/the-steps-south/)): Walk to Hospice, E x 13, S, E, S, E x 4, S x 2, E x 8, SE, E x 2, N x 2, E x 2, S x 2, E x 3, S x 6, W, S x 4, W x 4, S x 6, W, Door, D x 2, W x 4, D, E.
