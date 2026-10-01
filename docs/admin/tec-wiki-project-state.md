@@ -9,7 +9,7 @@ Future TEC Wiki chats should read this file, inspect the relevant current source
 - Repository: `herdias/tec-wiki`
 - Default branch: `main`
 - Primary wiki source: `docs/`
-- Site generator: MkDocs
+- Production site generator: Zensical 0.0.66 in MkDocs-compatibility mode (configuration remains in `mkdocs.yml`)
 - Production site: https://tec-wiki.com/
 
 ## Standing Workflow Rules
@@ -130,6 +130,17 @@ Confirmed from user testing / GM clarification:
 - Normalized broken/case-sensitive section links to MkDocs-generated heading anchors.
 - Did not invent missing Silent Slip / Silent Draw mechanics; those actions are listed in the trainer table but no surviving sections were found in the current source or repository search.
 - Commit: `b6eb6b92526100a293fd3e1477fe02b67c30da5b`
+
+
+
+### Production build / Zensical cache
+
+- Cloudflare Workers Builds runs `zensical build` for production, not `mkdocs build`.
+- Zensical is pinned at `0.0.66` in `requirements.txt` and reads the existing `mkdocs.yml` in compatibility mode.
+- Pages such as Outdoor Survival and Pickpocketing had full Markdown sources but rendered as an empty site shell, indicating stale/incorrect generated assets rather than missing source.
+- `wrangler.jsonc` now defines a custom deploy-time build command: `zensical build --clean`.
+- This forces a clean Zensical rebuild immediately before Wrangler uploads `./site`, avoiding stale Zensical build state in CI.
+- Commit: `77823450ed5d163297260ca1614fbbea02741880`
 
 ## Recent Migration/Audit Work
 
