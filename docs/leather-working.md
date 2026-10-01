@@ -21,7 +21,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 | <u>*Basic Leatherworking*</u> |  | 103 |
 | [Cut Leather Component](#Cut-Leather) | easy | 50 |
 | [Lace Leather Components](#Lace-Leather) | easy | 50 |
-| Layout Leather Component | easy | 50 |
+| [Layout Leather Component](#Layout-Leather) | easy | 50 |
 | [Punch Leather Holes](#Punch-Leather) | easy | 50 |
 | [Apply Metal Studs](#Apply-Metal) | average | 50 |
 | [Bevel Leather Component](#Bevel-Leather) | average | 50 |
@@ -229,6 +229,21 @@ TBD
 <div class="skill-template">
 
 [Success: 22, Roll: 89] You reach for a length of leather lace. You fumble a length of leather lace through the holes, pulling each stitch too tight or too loose as you lace the leather together. Finished, you set a length of leather lace aside.
+
+</div>
+
+
+<a id="Layout-Leather"></a>
+
+### Layout Leather  *TBD*
+
+TBD
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+[Success: 1, Roll: 21] You reach for a piece of chalk and a measuring cord. You slowly mark out a half length of rawhide with a piece of chalk and a measuring cord, making smudges and small errors as you go. Finished, you set a piece of chalk and a measuring cord aside.
 
 </div>
 
