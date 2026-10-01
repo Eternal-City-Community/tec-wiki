@@ -17,16 +17,16 @@ This skill set is best **complemented by knowledge of [Setups](/setups/).**
 | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Prerequisite | *Hidden Iridine Trainer <sup>1</sup>* | *Hidden RV Trainer <sup>2</sup>* |
 | Pickpocketing | Easy | - | 50 | 200 |
-| [Quick Grab](#Quick-Grab) | Easy | - | 50 | 150 |
-| [Coin Sharpening](#Coin-Sharpening) | Easy | - | 50 | 150 |
-| [Palm](#Palm) | Easy | - | 50 | 150 |
-| [Cut and Lift](#CutandLift) | Average | - | 25 | 150 |
-| [Handoff](#Handoff) | Average | - | 25 | 150 |
-| [Receive Handoff](#Receive-Handoff) | Average | - | 25 | 150 |
-| [Slice Strap](#Slice-Strap) | Average | 10 Ranks in [Cut and Lift](#CutandLift) | 25 | 10 |
-| [Loose Lift](#Loose-Lift) | Impossible | - | - | 150 |
-| [Knife Lift](#Knife-Lift) | Difficult | - | - | 10 |
-| [Sword Lift](#Sword-Lift) | Impossible | - | - | 10 |
+| [Quick Grab](#quick-grab) | Easy | - | 50 | 150 |
+| [Coin Sharpening](#coin-sharpening) | Easy | - | 50 | 150 |
+| [Palm](#palm) | Easy | - | 50 | 150 |
+| [Cut and Lift](#cut-and-lift) | Average | - | 25 | 150 |
+| [Handoff](#handoff) | Average | - | 25 | 150 |
+| [Receive Handoff](#receive-handoff) | Average | - | 25 | 150 |
+| [Slice Strap](#slice-strap) | Average | 10 Ranks in [Cut and Lift](#cut-and-lift) | 25 | 10 |
+| [Loose Lift](#loose-lift) | Impossible | - | - | 150 |
+| [Knife Lift](#knife-lift) | Difficult | - | - | 10 |
+| [Sword Lift](#sword-lift) | Impossible | - | - | 10 |
 | Silent Slip | Average | - | - | 10 |
 | Silent Draw | Average | - | - | 10 |
 
@@ -65,7 +65,7 @@ A simple, but highly visible move that just about every thief knows from the sta
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *grab shovel from worker*
 TBC
@@ -88,7 +88,7 @@ A sharpened coin is one of the most valuable tools a thief has at his disposal. 
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *sharpen sen*
 TBC
@@ -109,7 +109,7 @@ Once an item is palmed, to reveal it again, use the **unpalm <object>** command.
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *palm sen*
 TBC
@@ -138,7 +138,7 @@ Ahh, now here is the bread and butter of a decently trained thief. Lifting a pou
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *lift pouch from Lorican*
 TBC
@@ -159,7 +159,7 @@ A simple way to subtly give an object to another person. Useful for when you're 
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *handoff pouch to Drunser*
 TBC
@@ -179,7 +179,7 @@ The second step to a successful **Handoff**, this maneuver will let you secretly
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *handoff pouch to Drunser*
 TBC
@@ -201,7 +201,7 @@ Similar to Cut and Lift, Slice Strap allows you to **remove a sack, bag or large
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *slide sack from Glenh*
 [Success: 1, Roll: 68] You cut the strap on a black homespun wool large sack and snatch it away from Glenh.
@@ -221,7 +221,7 @@ As simple as it sounds, you lift a weapon from your target's belt hoop.
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *llift axe from Dragaxus*
 TBC
@@ -241,7 +241,7 @@ As simple as it sounds, you lift a knife or dagger from your target's sheath.
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *klift dagger from Trycho*
 [Success: 20, Roll: 63] You start to pull a retalq dagger from its sheath, hesitate for a moment, then continue until it's firmly in hand.
@@ -264,7 +264,7 @@ As simple as it sounds, you lift a gladius from your target's scabbard.
 
 **When you see this in use you see:**
 
-<div class="skill-template">
+<div class="skill-template" markdown="1">
 
 > *slift gladius from Kered*
 [Success: 56, Roll: 94] You start to pull an a retalq gladius from its sheath, but lose your grip for a moment before regaining it and liberating an a retalq gladius.
