@@ -390,6 +390,18 @@ User-reported issues and fixes on 2026-10-01:
 - Mobile search overlay/inner/output receive a higher overlay layer as well.
 - Commit: `93ace0df0954eea94f0c36d41b2b82e992d94c90`
 
+
+
+### Search expansion / top-nav displacement fix
+
+- Screenshot showed expanded search pushing the TEC nav far down the viewport.
+- Root cause: `.tec-topnav` had been appended as the last child of `.md-header`; Material's expanded search UI participates in that header structure, so the nav followed it downward.
+- Changed insertion point so the TEC nav is placed immediately after `.md-header__inner` (the normal masthead row), ahead of the expandable search UI.
+- Header-stack measurement now explicitly uses masthead-row height + TEC-nav height rather than the full expanded header box.
+- Search output is treated as an overlay and the TEC nav is hidden while search is actively open so it cannot visually compete with the search panel.
+- JS commit: `3fe7a248f9f693d8fe6123d8c6389b537c346a71`
+- CSS commit: `930f59ce8ba99310388cd8f74575e14abb17426c`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
