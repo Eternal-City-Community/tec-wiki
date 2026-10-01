@@ -1,0 +1,36 @@
+name: Semantic content audit
+
+on:
+  push:
+    paths:
+      - "tools/audit_semantic_content.py"
+      - ".github/workflows/semantic-content-audit.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Compare substantive prose
+        run: python tools/audit_semantic_content.py
+      - name: Commit audit report
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add SEMANTIC_CONTENT_AUDIT.md SEMANTIC_CONTENT_AUDIT.json
+          if git diff --cached --quiet; then
+            echo "No report changes."
+          else
+            git commit -m "Audit migrated prose for content loss"
+            git pull --rebase origin main
+            git push
+          fi
