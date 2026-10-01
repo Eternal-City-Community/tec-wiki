@@ -2435,3 +2435,28 @@ html, body {
 .md-header {
   height: auto;
 }
+
+
+/* Search must layer above the TEC shortcut row when expanded. */
+.md-header .md-search {
+  position: relative;
+  z-index: 30;
+}
+
+.md-header .md-search__form,
+.md-header .md-search__output {
+  position: relative;
+  z-index: 31;
+}
+
+@media screen and (max-width: 59.984375em) {
+  .md-header .md-search {
+    z-index: 1001;
+  }
+
+  .md-header .md-search__overlay,
+  .md-header .md-search__inner,
+  .md-header .md-search__output {
+    z-index: 1002;
+  }
+}
