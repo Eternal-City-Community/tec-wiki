@@ -147,7 +147,8 @@ body::before {
 
 /* PRIMARY SIDEBAR — styled to resemble the Wikidot menu blocks. */
 .md-sidebar--primary {
-  position: relative;
+  position: sticky;
+  top: 6.9rem;
   width: var(--tec-sidebar-width);
   min-width: var(--tec-sidebar-width);
   height: auto;
@@ -374,6 +375,11 @@ body::before {
 
 /* Mobile: revert to a normal single-column layout. */
 @media screen and (max-width: 76.234375em) {
+  .md-sidebar--primary {
+    position: static;
+    top: auto;
+  }
+
   .md-main__inner {
     display: block;
     padding: 0;
