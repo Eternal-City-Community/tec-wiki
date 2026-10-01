@@ -44,6 +44,7 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - fenced_code
   - attr_list
   - md_in_html
   - tables
