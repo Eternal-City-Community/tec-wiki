@@ -12,11 +12,6 @@ This is a comprehensive guide to the **region of Rock Valley**. The region of Ro
 **To reach Rock Valley**, follow the visiting caravan **drover** who stops off and leaves from the **Hospice of the Morning Light**, headed to provide wares to our troops in Rock Valley. There is also a paid drover who can bring you on demand. Both methods deliver you to the [Town of Rock Valley](#TownOfRV).
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/rockvalley.gif)](/assets/wikidot/files/rockvalley.gif)
 
 ### Points of Interest

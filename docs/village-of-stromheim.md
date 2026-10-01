@@ -26,11 +26,6 @@ These barbarians are friendly, but they do not talk our language or tolerate vio
 [Visit the Map Page](/village-of-stromheim/)
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/Rockvalley-stromheim1.gif)](/assets/wikidot/files/Rockvalley-stromheim1.gif)
 
 

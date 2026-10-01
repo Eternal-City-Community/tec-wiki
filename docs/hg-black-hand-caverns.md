@@ -24,11 +24,6 @@ Black Hand Bandit [armbands & collars](/reputation/#Seld-Combat) can be turned i
 * Multiple **hidden rooms** to discover.
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/black_hand_caverns_03_2023.png)](/assets/wikidot/files/black_hand_caverns_03_2023.png)
 
 

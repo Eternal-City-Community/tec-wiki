@@ -24,12 +24,6 @@ Keep in mind that going too deep can get you captured in the Kelestian prison.
 * A functional and dynamic **[reputation#Monlon](/reputation/#Monlon)** system.
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
-
 [![](/assets/wikidot/files/Monlon-battlefield_updated101217.gif)](/assets/wikidot/files/Monlon-battlefield_updated101217.gif)
 
 
