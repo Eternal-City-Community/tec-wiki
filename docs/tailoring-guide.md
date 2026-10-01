@@ -77,7 +77,7 @@ To manipulate pieces of cloth, see [Handling Cloth](#HandlingCloth).
 The below chart columns reference the base materials, but includes all variants of that type of fabric. 
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Length &amp; Fabric Chart</summary>
 
 
