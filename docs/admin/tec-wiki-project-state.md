@@ -247,6 +247,17 @@ User-reported issues and fixes on 2026-10-01:
 - Main functionality commit: `fe2d9a9ef388a3b8bd08dc178641a70a074d75af`
 - Duplicate-card spacing/style commit: `0f54ee779872904bf95d2fc5028d0df281dbc4c2`
 
+
+
+### RB calculator input parity correction
+
+- User provided screenshots of the Wikidot calculator and current rebuilt calculator.
+- The target Wikidot UI has only **Basics Rank** and **Subskill Rank** inputs; the previously restored third `RB +/- Mod` field came from an older preserved source variant and should not be present in the rebuilt UI.
+- Removed the third modifier input and modifier math from the current calculator.
+- Removed the default `10 / 1` ranks; both inputs now start blank, matching the Wikidot calculator shown by the user.
+- The `+` button still duplicates the complete first calculator box and its current state.
+- Commit: `df4908914487f0354ab1a2c6ce362307c805d4ac`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
