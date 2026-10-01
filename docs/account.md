@@ -63,6 +63,7 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 
 
 <a id="RP-Expenditure"></a>
+
 | Role Point Expenditure Description | Free | Basic | Premium | How to redeem |
 | --- | --- | --- | --- | --- |
 | [Creature Button](/rp-expenditure/#Creature) | 30 | 25 | 20 | Push "Big Red Button" in WA |
