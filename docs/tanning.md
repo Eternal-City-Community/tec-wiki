@@ -14,20 +14,20 @@ Developing tanning skills requires attention to detail, patience, and an underst
 
 **For guidance on using the skill set, see the [Tanning Guide](/tanning-guide/)***(in progress)*.
 
-|  | Skill Info |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Arvane |  |  |  |  |  |  |
-| <u>*Basic Tanning*</u> | Easy | 145 |  |  |  |  |  |  |
-| [Knead Hide](#Knead-Hide) | Easy | 50 |  |  |  |  |  |  |
-| [Brush Hide](#Brush-Hide) | Average | 50 |  |  |  |  |  |  |
-| [Clean Hide](#Clean-Hide) | Average | 50 |  |  |  |  |  |  |
-| [Dehair Hide](#Dehair-Hide) | Average | 50 |  |  |  |  |  |  |
-| [Dry Hide](#Dry-Hide) | Average | 50 |  |  |  |  |  |  |
-| [Soften Hide](#Soften-Hide) | Average | 50 |  |  |  |  |  |  |
-| [Dye Hide](#Dye-Hide) | Difficult | 50 |  |  |  |  |  |  |
-| [Salt Hide](#Salt-Hide) | Difficult | 50 |  |  |  |  |  |  |
-| [Scrape Hide](#Scrape-Hide) | Difficult | 50 |  |  |  |  |  |  |
-| [Tan Hide](#Tan-Hide) | Difficult | 50 |  |  |  |  |  |  |
+| Skill Info |  | Ranks Taught by Trainer |
+| --- | --- | --- |
+| Skills/Actions | Difficulty | Arvane |
+| <u>*Basic Tanning*</u> | Easy | 145 |
+| [Knead Hide](#Knead-Hide) | Easy | 50 |
+| [Brush Hide](#Brush-Hide) | Average | 50 |
+| [Clean Hide](#Clean-Hide) | Average | 50 |
+| [Dehair Hide](#Dehair-Hide) | Average | 50 |
+| [Dry Hide](#Dry-Hide) | Average | 50 |
+| [Soften Hide](#Soften-Hide) | Average | 50 |
+| [Dye Hide](#Dye-Hide) | Difficult | 50 |
+| [Salt Hide](#Salt-Hide) | Difficult | 50 |
+| [Scrape Hide](#Scrape-Hide) | Difficult | 50 |
+| [Tan Hide](#Tan-Hide) | Difficult | 50 |
 
 
 <a id="Recipes"></a>
@@ -36,37 +36,37 @@ Developing tanning skills requires attention to detail, patience, and an underst
 <summary>+ Show Tanning Recipes</summary>
 
 
-|  | Tanning Recipes |  |  |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Recipes | Difficulty | Arvane |  |  |  |  |  |  |  |  |
-| Doeskin Tanning Recipe | easy | 10 |  |  |  |  |  |  |  |  |
-| Leather Tanning Recipe | easy | 10 |  |  |  |  |  |  |  |  |
-| Rawhide Tanning Recipe | easy | 10 |  |  |  |  |  |  |  |  |
-| Suede Tanning Recipe | average | 10 |  |  |  |  |  |  |  |  |
-| Fur Backpack Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Baldric Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Boots Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Breeches Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Cuirass Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Falcata Scabbard Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Fighting Harness Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Gauntlet Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Gladius Scabbard Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Gloves Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Greaves Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Hat Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Helmet Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Left Manica Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Pouch Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Pteryges Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Quiver Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Right Manica Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Sheath Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Shoulder Pteryges Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Thigh Greaves Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Tunic Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Vest Lining | easy | 10 |  |  |  |  |  |  |  |  |
-| Fur Waistguard Lining | easy | 10 |  |  |  |  |  |  |  |  |
+| Tanning Recipes |  | Ranks Taught by Trainer |
+| --- | --- | --- |
+| Recipes | Difficulty | Arvane |
+| Doeskin Tanning Recipe | easy | 10 |
+| Leather Tanning Recipe | easy | 10 |
+| Rawhide Tanning Recipe | easy | 10 |
+| Suede Tanning Recipe | average | 10 |
+| Fur Backpack Lining | easy | 10 |
+| Fur Baldric Lining | easy | 10 |
+| Fur Boots Lining | easy | 10 |
+| Fur Breeches Lining | easy | 10 |
+| Fur Cuirass Lining | easy | 10 |
+| Fur Falcata Scabbard Lining | easy | 10 |
+| Fur Fighting Harness Lining | easy | 10 |
+| Fur Gauntlet Lining | easy | 10 |
+| Fur Gladius Scabbard Lining | easy | 10 |
+| Fur Gloves Lining | easy | 10 |
+| Fur Greaves Lining | easy | 10 |
+| Fur Hat Lining | easy | 10 |
+| Fur Helmet Lining | easy | 10 |
+| Fur Left Manica Lining | easy | 10 |
+| Fur Pouch Lining | easy | 10 |
+| Fur Pteryges Lining | easy | 10 |
+| Fur Quiver Lining | easy | 10 |
+| Fur Right Manica Lining | easy | 10 |
+| Fur Sheath Lining | easy | 10 |
+| Fur Shoulder Pteryges Lining | easy | 10 |
+| Fur Thigh Greaves Lining | easy | 10 |
+| Fur Tunic Lining | easy | 10 |
+| Fur Vest Lining | easy | 10 |
+| Fur Waistguard Lining | easy | 10 |
 
 
 </details>
