@@ -1,0 +1,1841 @@
+{
+  "base_commit": "be39d0ef1e85bae444464ce11f2f19e46e7f9258",
+  "flagged_pages": 153,
+  "pages": [
+    {
+      "path": "docs/rank-bonus-calculator.md",
+      "old_prose_lines": 143,
+      "current_prose_lines": 9,
+      "missing_count": 133,
+      "missing": [
+        "font-family: verdana, arial, helvetica, sans-serif;",
+        "/ Smooth addition when clicking the + button /",
+        "transition: background-color 0.25s, opacity 0.25s;",
+        "div.sword-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/swords.png\"); }",
+        "div.shield-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/shield.png\"); }",
+        "div.tree-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/tree.png\"); }",
+        "div.three-col-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/three-column.png\"); }",
+        "div.five-col-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/five-column.png\"); }",
+        "div.five-row-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/five-row.png\"); }",
+        "div.three-row-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/three-row.png\"); }",
+        "div.one-row-icon { background-image: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/one-row.png\"); }",
+        "table.rb-rank-inputs { width: 100%; height: 100%; }",
+        "table.rb-rank-inputs tr td { padding: 5px; text-align: center; }",
+        "table.rb-rank-inputs input:focus { outline: 2px solid 333; }",
+        "table.rb-rank-bonuses tr td { padding: 3px 0.2em 2px 0.2em; }",
+        "table.rb-rank-bonuses tr.rb-table-headers td { padding-top: 0; }",
+        "table.rb-rank-bonuses input:focus { outline: none; }",
+        "table.rb-rank-bonuses tr td.offensive-stance,",
+        "table.rb-rank-bonuses tr td.defensive-stance {",
+        "table.rb-rank-bonuses tr td.defensive-stance { display: none; }",
+        "/ Smoother hover and subtle bounce effect on the + button /",
+        "background: url(\"https://eternal-city.wikidot.com/local--files/rank-bonus-calculator/plus.png\") no-repeat;",
+        "transition: background-color 0.25s, transform 0.15s, border 0.25s;",
+        "var rankTierModifiers = [0, 3, 2, 1, 0.5, 0.25, 0.125, 0.0675, 0.025, 0.01];",
+        "var rankTierModifierEndLevels = [0, 0, 10, 30, 50, 100, 150, 200, 500, 1000];",
+        "var rbTypeButton = getCookie(\"rbTypeButton\") || \"sword\";",
+        "var rbRowButton = getCookie(\"rbRowButton\") || \"five\";",
+        "var rbColButton = getCookie(\"rbColButton\") || \"five\";",
+        "var container = elem.closest('.rb-container') || document;",
+        "var offCells = container.getElementsByClassName(\"offensive-stance\");",
+        "var defCells = container.getElementsByClassName(\"defensive-stance\");",
+        "var basCells = container.getElementsByClassName(\"basic-rb-values\");",
+        "var impCells = container.getElementsByClassName(\"impos-rb-values\");",
+        "var berRows = container.getElementsByClassName(\"berserk-row\");",
+        "var modRows = container.getElementsByClassName(\"stance-rb-mod-row\");",
+        "var berDefRows = container.getElementsByClassName(\"ber-def-row\");",
+        "var aggWarRows = container.getElementsByClassName(\"agg-war-row\");",
+        "var rowButton = document.getElementById(\"rb-row-button\");",
+        "} else if ((isFirstLoad && (elem.id === \"rb-main-button\") && (rbTypeButton === \"shield\")) || (!isFirstLoad && elem.classList.contains(\"sword-icon\"))) {",
+        "elem.classList.remove(\"sword-icon\", \"tree-icon\");",
+        "var title = document.getElementById(\"rb-menu-title\");",
+        "if (title) title.innerHTML = \"Defensive Rank Bonus\";",
+        "} else if ((isFirstLoad && (elem.id === \"rb-main-button\") && (rbTypeButton === \"tree\")) || (!isFirstLoad && elem.classList.contains(\"shield-icon\"))) {",
+        "elem.classList.remove(\"sword-icon\", \"shield-icon\");",
+        "if (rowButton) rowButton.classList.add(\"disabled\");",
+        "var title = document.getElementById(\"rb-menu-title\");",
+        "if (title) title.innerHTML = \"Non-Combat Rank Bonus\";",
+        "} else if ((isFirstLoad && (elem.id === \"rb-main-button\") && (rbTypeButton === \"sword\")) || (!isFirstLoad && elem.classList.contains(\"tree-icon\"))) {",
+        "elem.classList.remove(\"shield-icon\", \"tree-icon\");",
+        "if (rowButton.classList.contains(\"three-row-icon\")) {",
+        "} else if (rowButton.classList.contains(\"one-row-icon\")) {",
+        "var title = document.getElementById(\"rb-menu-title\");",
+        "if (title) title.innerHTML = \"Offensive Rank Bonus\";",
+        "} else if ((isFirstLoad && (elem.id === \"rb-col-button\") && (rbColButton === \"three\")) || (!isFirstLoad && elem.classList.contains(\"five-col-icon\"))) {",
+        "} else if ((isFirstLoad && (elem.id === \"rb-col-button\") && (rbColButton === \"five\")) || (!isFirstLoad && elem.classList.contains(\"three-col-icon\"))) {",
+        "} else if ((isFirstLoad && (elem.id === \"rb-row-button\") && (rbRowButton === \"three\")) || (!isFirstLoad && elem.classList.contains(\"five-row-icon\"))) {",
+        "elem.classList.remove(\"five-row-icon\", \"one-row-icon\");",
+        "} else if ((isFirstLoad && (elem.id === \"rb-row-button\") && (rbRowButton === \"one\")) || (!isFirstLoad && elem.classList.contains(\"three-row-icon\"))) {",
+        "elem.classList.remove(\"three-row-icon\", \"five-row-icon\");",
+        "} else if ((isFirstLoad && (elem.id === \"rb-row-button\") && (rbRowButton === \"five\")) || (!isFirstLoad && elem.classList.contains(\"one-row-icon\"))) {"
+      ]
+    },
+    {
+      "path": "docs/shops.md",
+      "old_prose_lines": 135,
+      "current_prose_lines": 3,
+      "missing_count": 132,
+      "missing": [
+        "This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.",
+        "//SHOPDATA is defined in the shopinventories text file. You must edit the file if you want to update any shop details.",
+        "//The most recent version of this file is shopinventories20260326.txt (last updated by Dragonus).",
+        "//Unfortunately it had to be stored in a separate file because otherwise it exceeded the Wikidot page character limit.",
+        "//If you want to edit the file but you can't figure it out, feel free to ask Irisa for help.",
+        "var locationMatch, shopNameMatch, itemMatch, i, m;",
+        "var locationRegex = new RegExp(/^\\s\\\\\\([^\\]+)\\\\\\(?:\\s\\[\\swikipage\\s=\\s(.+)\\s\\])?/); //[1]=location name [2]=wikipage",
+        "var shopNameRegex = new RegExp(/^\\s---((?:(?!\\().)+?)\\s(?:\\(([^\\)]+)\\))?---(?:\\s\\[.(rotating.stock).\\])?/); //[1]=shop name [2]=shopkeeper [3]=rotating stock tag",
+        "var itemRegex = new RegExp(/^\\s((?:(?!---|\\\\\\)[^\\n])+?)\\s((?:\\d+(?:t|d|st|s| tokens)\\b\\s)+)\\s(?:\\[\\s([^\\]]+?)\\s\\]\\s)?$/); //[1]=item [2]=price [3]=options",
+        "var shopTbl = document.getElementById(\"shop-table\").getElementsByTagName(\"tbody\")[0];",
+        "if (shopInfo[i].trim().length === 0) { continue; } //skip empty lines",
+        "if (m) { itemMatch = m; addShopTableRow(shopTbl, locationMatch, shopNameMatch, itemMatch); }",
+        "if (m) { shopNameMatch = m; addShopTableRow(shopTbl, locationMatch, shopNameMatch); }",
+        "if (m) { locationMatch = m; addShopTableRow(shopTbl, locationMatch); }",
+        "function addShopTableRow(tbl, locObj, shopObj, itemObj) {",
+        "var header, tr, td1, td2, td3, td4, div, span, a;",
+        "if (locObj === undefined) { return; } //error",
+        "header.appendChild(document.createTextNode(locObj[1]));",
+        "} else if (itemObj === undefined) { //shop name",
+        "header.appendChild(document.createTextNode(shopObj[1] + (shopObj[2] ? (\" - \" + shopObj[2]) : \"\")));",
+        "if (shopObj[2]) { //add data element with the shopkeeper's name",
+        "tr.setAttribute(\"data-shopkeeper\", shopObj[2].trim().toLowerCase());",
+        "td1.appendChild(document.createTextNode(itemObj[1]));",
+        "if (shopObj[3]) { //add tooltip with rotating stock indicator",
+        "div.appendChild(document.createTextNode(\"\\u2618\")); //prevously used 21ba",
+        "span.appendChild(document.createTextNode(\"example item (rotating stock)\"))",
+        "if (itemObj[3]) { //add tooltip with additional shop options for item",
+        "div.appendChild(document.createTextNode(\"?\"));",
+        "span.appendChild(document.createTextNode(itemObj[3]))",
+        "td2.appendChild(document.createTextNode(itemObj[2]));",
+        "td3.appendChild(document.createTextNode(shopObj[1] + (shopObj[2] ? (\" - \" + shopObj[2]) : \"\")));",
+        "if (locObj[2] === undefined) { //plain text if no wikipage provided",
+        "td4.appendChild(document.createTextNode(locObj[1]));",
+        "a.appendChild(document.createTextNode(locObj[1]));",
+        "font-family: verdana,arial,helvetica,sans-serif;",
+        "/ font-family included here only to fix shamrock character in MS Edge browser /",
+        "font-family: verdana,arial,helvetica,sans-serif,'Segoe UI Symbol'",
+        ".hamburger-bar-1, .hamburger-bar-2, .hamburger-bar-3 {",
+        "-webkit-transform: rotate(-45deg) translate(-8px, 7px);",
+        "transform: rotate(-45deg) translate(-8px, 7px);",
+        "-webkit-transform: rotate(45deg) translate(-8px, -8px);",
+        "transform: rotate(45deg) translate(-8px, -8px);",
+        "shop-table td.shop-name-column, shop-table td.location-column {",
+        "display:none; / default view: hide shopkeeper & location columns /",
+        "border: 0px; / default view: no table borders /",
+        "font-family: verdana,arial,helvetica,sans-serif,'Segoe UI Symbol'; / this line is only to fix icon rendering in Edge /",
+        "Search item options (color, etc.) in addition to item/shopkeeper name",
+        "Use double quotes \"\" to search for an exact word or phrase",
+        "var locs = document.getElementsByClassName(\"toc-location\");",
+        "tocHtml = tocHtml + \" \" + locs[i].textContent + \" \";",
+        "var locLinks = document.querySelectorAll(\"shop-location-toc a\");",
+        "locLinks[i].addEventListener(\"click\", scrollTo);",
+        "var targetElement = evt.target || evt.srcElement;",
+        "locId = targetElement.getAttribute(\"scrollTarget\");",
+        "document.getElementById(locId).scrollIntoView();",
+        "var advOpsPanel = document.getElementById(\"search-op-accordian\");",
+        "if (hamButton.classList.contains(\"change\")) {",
+        "hamButton.setAttribute(\"title\", \"Hide search options\");",
+        "hamButton.setAttribute(\"title\", \"Show search options\");",
+        "if (document.getElementById(\"op-search-item-options\").checked && document.getElementById(\"op-search-rotating-stock\").checked) {"
+      ]
+    },
+    {
+      "path": "docs/money-calculator.md",
+      "old_prose_lines": 72,
+      "current_prose_lines": 2,
+      "missing_count": 72,
+      "missing": [
+        "function convertAllToSens(sens,sterces,denars,cents,talents) {",
+        "var inSens = sens + sterces coinValuesInSens['sterce'] + denars coinValuesInSens['denar'] + cents coinValuesInSens['cent'] + talents coinValuesInSens['talent'];",
+        "function convertSensToArrayOfCoins(sens,maxCoinTypeNameIndex) {",
+        "maxCoinTypeNameIndex = parseFloat(maxCoinTypeNameIndex);",
+        "if (isNaN(maxCoinTypeNameIndex) || !coinTypeNames[maxCoinTypeNameIndex]) {",
+        "/alert(\"maxCoinTypeNameIndex not passed valid value:\"+maxCoinTypeNameIndex);/",
+        "maxCoinTypeNameIndex = coinTypeNames.length - 1;",
+        "for (var i = coinTypeNames.length - 1; i >= 0; i--) {",
+        "if (i > maxCoinTypeNameIndex) {coins[coinTypeNames[i]] = 0; continue;};",
+        "coins[coinTypeNames[i]] = truncateDecimals(sens / coinValuesInSens[coinTypeNames[i]],0);",
+        "sens -= coins[coinTypeNames[i]] coinValuesInSens[coinTypeNames[i]];",
+        "// add any remaining (fractional) sen to total:",
+        "var talentsGiven = document.getElementsByName('talentsGiven');",
+        "var centsGiven = document.getElementsByName('centsGiven');",
+        "var denarsGiven = document.getElementsByName('denarsGiven');",
+        "var stercesGiven = document.getElementsByName('stercesGiven');",
+        "var sensGiven = document.getElementsByName('sensGiven');",
+        "var multipliersGiven = document.getElementsByName('multipliersGiven');",
+        "var calculatedInSens = document.getElementsByName('calculatedInSens');",
+        "var calculatedInSterces = document.getElementsByName('calculatedInSterces');",
+        "var calculatedInDenars = document.getElementsByName('calculatedInDenars');",
+        "var calculatedInCents = document.getElementsByName('calculatedInCents');",
+        "var calculatedInTalents = document.getElementsByName('calculatedInTalents');",
+        "for (var i = sensGiven.length - 1; i >= 0; i--) {",
+        "sens += sanitizeCoinInput(multipliersGiven[i].value) convertAllToSens(sanitizeCoinInput(sensGiven[i].value),sanitizeCoinInput(stercesGiven[i].value),sanitizeCoinInput(denarsGiven[i].value),sanitizeCoinInput(centsGiven[i].value),sanitizeCoinInput(talentsGiven[i].value));",
+        "calculatedInTalents[3].value = coins['sterce'];",
+        "calculatedInTalents[2].value = coins['denar'];",
+        "calculatedInTalents[1].value = coins['cent'];",
+        "calculatedInTalents[0].value = coins['talent'];",
+        "calculatedInCents[2].value = coins['sterce'];",
+        "calculatedInDenars[1].value = coins['sterce'];",
+        "calculatedInDenars[0].value = coins['denar'];",
+        "calculatedInSterces[0].value = coins['sterce'];",
+        "var talentsGiven = document.getElementsByName('talentsGiven');",
+        "var centsGiven = document.getElementsByName('centsGiven');",
+        "var denarsGiven = document.getElementsByName('denarsGiven');",
+        "var stercesGiven = document.getElementsByName('stercesGiven');",
+        "var sensGiven = document.getElementsByName('sensGiven');",
+        "var multipliersGiven = document.getElementsByName('multipliersGiven');",
+        "for (var i = talentsGiven.length - 1; i >= 0; i--) {",
+        "var calculatedInTalents = document.getElementsByName('calculatedInTalents');",
+        "coins['sen'] = parseFloat(calculatedInTalents[4].value);",
+        "coins['sterce'] = parseFloat(calculatedInTalents[3].value);",
+        "coins['denar'] = parseFloat(calculatedInTalents[2].value);",
+        "coins['cent'] = parseFloat(calculatedInTalents[1].value);",
+        "coins['talent'] = parseFloat(calculatedInTalents[0].value);",
+        "var talentsGiven = document.getElementsByName('talentsGiven');",
+        "var centsGiven = document.getElementsByName('centsGiven');",
+        "var denarsGiven = document.getElementsByName('denarsGiven');",
+        "var stercesGiven = document.getElementsByName('stercesGiven');",
+        "var sensGiven = document.getElementsByName('sensGiven');",
+        "To multiply, change the multiplier field from the default of 1.0",
+        "Work in progress - This will accurately convert money.",
+        "When expressing a large quantity of money Iridinians often refer to the 'talent'. It is not a unit of money (there is no 'talent coin') but does represent a set value.",
+        "Talents = document.getElementById(\"Talents\");",
+        "Sterces = document.getElementById(\"Sterces\");",
+        "Cents.value = parseFloat(Talents.value) 62.5;",
+        "Denars.value = parseFloat(Talents.value) 1562.5;",
+        "Sterces.value = parseFloat(Talents.value) 6250;",
+        "Sens.value = parseFloat(Talents.value) 18750;"
+      ]
+    },
+    {
+      "path": "docs/herbalism-guide.md",
+      "old_prose_lines": 76,
+      "current_prose_lines": 32,
+      "missing_count": 44,
+      "missing": [
+        "Tiny winkled black seedpod (20) ||= Mortar & Pestal ||= 20 Ranks in Brew Fundamentals ||",
+        "Ridged brilliant red mushroom cap (5) ||= Mortar & Pestal ||= 30 Ranks in Brew Fundamentals ||",
+        "Ridged brilliant red mushroom cap (5) ||= Boiling Pot",
+        "Water ||= red|XX Ranks in Brew Fundamentals ||",
+        "Ridged brilliant red mushroom cap (50) ||= Boiling Pot",
+        "Water ||= red|XX Ranks in Brew Fundamentals ||",
+        "Tiny wrinkled black seedpod (50) ||= TBC ||= 10 Ranks in Brew Paint ||",
+        "Piece of lacy red moss speckled with black (50) ||= TBC ||= 10 Ranks in Brew Paint ||",
+        "Long stem covered in small spiky leaves (50) ||= TBC ||= 20 Ranks in Brew Paint ||",
+        "Tiny soft blue flower (50) ||= TBC ||= 30 Ranks in Brew Paint ||",
+        "Semi-transparent grey crystal (25) \ud83e\ude99 ||= TBC ||= 30 Ranks in Brew Paint ||",
+        "Yellow fruit with a thick peel (5) \ud83e\ude99 ||= (TBC) Mixing Stick",
+        "Mortar & Pestal ||= red|XX Ranks in Brew Paint ||",
+        "Piece of rough, dark-grey bark (50) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Piece of lacy red moss speckled with black (50)",
+        "Deep yellow flower with red veining (25) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Piece of pale blue moss frosted with white (25) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Enormous brownish-green leaf (25) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Straight brown thorn that is very hard (25) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Long, dark green tri-pointed leaf (25) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Piece of thin grey bark (25) ||= TBC ||= red|XX Ranks in Brew Paint ||",
+        "Mortar & Pestal ||= 10 Ranks in Brew Flask ||",
+        "Small green-purple leaf (20) ||= TBC ||= 20 Ranks in Brew Flask ||",
+        "Yellow fruit with a thick peel (20) \ud83e\ude99 ||= TBC ||= 30 Ranks in Brew Flask ||",
+        "Dark green tree needle (50) ||= TBC ||= 30 Ranks in Brew Flask ||",
+        "Deep blue flower with white edges (40) ||= TBC ||= 50 Ranks in Brew Flask ||",
+        "Blossoming red flower (40) ||= TBC ||= red|XX Ranks in Brew Flask ||",
+        "Piece of lacy red moss speckled with black (10) ||= TBC ||= 10 Ranks in Brew Salve ||",
+        "Wide thin scarlet flower (20) ||= Boiling Pot",
+        "Mortar & Pestal ||= 30 Ranks in Brew Salve ||",
+        "Small star-like yellow flowers clustered atop a fleshy green stalk (140) ||= Drying Rack",
+        "Piece of pale blue moss frosted with white (40)",
+        "Yellow fruit with a thick peel (10) \ud83e\ude99 ||= TBC ||= red|XX Ranks in Brew Potion ||",
+        "Yellow fruit with a thick peel (10) \ud83e\ude99 ||= Boiling Pot",
+        "Mortar & Pestal ||= red|XX Ranks in Brew Potion ||",
+        "Yellow fruit with a thick peel (10) \ud83e\ude99 ||= Boiling Pot",
+        "Large domed gray mushroom cap (30) ||= TBC ||= 60 Ranks in Brew Potion ||",
+        "Round reddish leaf (60) ||= TBC ||= 70 Ranks in Brew Potion ||",
+        "Fleshy bulbous brown mushroom cap (30) ||= TBC ||= 70 Ranks in Brew Potion ||",
+        "Fleshy thick brown stem (60) ||= TBC ||= 80 Ranks in Brew Potion ||",
+        "Bright green pointed leaf (25) ||= TBC ||= 80 Ranks in Brew Potion ||",
+        "Thin multitiered white flower (100) ||= TBC ||= 85 Ranks in Brew Potion ||",
+        "Heavy dark green frond (80) ||= TBC ||= 95 Ranks in Brew Potion ||",
+        "Spherical magenta flower atop a spiky thread-draped grey globe (75) ||= TBC ||= 100 Ranks in Brew Potion ||"
+      ]
+    },
+    {
+      "path": "docs/traits.md",
+      "old_prose_lines": 28,
+      "current_prose_lines": 4,
+      "missing_count": 24,
+      "missing": [
+        "Community Note: [Pickpocketing, Setups & Street Smarts are considered neither combat or non-combat and are unaffected by this trait.]||",
+        "Mutually exclusive with Weak Constitution. ||",
+        "Mutually exclusive with Frail Sensibility. ||",
+        "Mutually exclusive with Lack of Concentration. ||",
+        "Mutually exclusive with Provincial Attitude. ||",
+        "Mutually exclusive with Weak Constitution. ||",
+        "[Community Note: Cost to buy from NPCs is reduced by 3%.]||",
+        "Mutually exclusive with Provincial Attitude. ||",
+        "Community Note: As of 1/5/2024, the self-training calculation scales at higher ranks. See [Self-Training for details.||",
+        "Community Note: Increased SP gain from [tears.]||",
+        "[Community Note: The chance for this to occur is affected by your ranks.] ||",
+        "[Community Note: The standard penalty without this trait is: if you are approached by 2 enemies, they each get +20 to hit you. If you are approached by 3 enemies, they each get +40 to hit you.] ||",
+        "[Community Note: Types of boons include: 10% fatigue recovery, 10% health recovery, satiation recovery & recovery of a random wound. Limited to once per hour.]||",
+        "Mutually exclusive with Worldly Knowledge. ||",
+        "[Community Note: There's a high chance of fainting if you remain standing and little to no chance of fainting if you remain laying.] ||",
+        "Mutually exclusive with Night Vision and Night Owl. ||",
+        "Community Note: Characters also cannot collect/touch [tears and can be stunned by Aziri. ||",
+        "Mutually exclusive with Dursc Constitution. ||",
+        "[Community Note: Characters will, on occasion, wake up up from a nightmare. This will cause the character to remain stunned for a brief period of time, until the nightmare finishes. The character will also suffer a slight HP & Fatigue loss.]||",
+        "Community Note: Remaining in [pitch-black darkness is said to help calm the mind.]||",
+        "Community Note: This does not apply to wielded [Cesti. ]||",
+        "[Community Note: Caution!! A Tone Deaf character has a chance to destroy any instrument they play.]||",
+        "Community Note: 1 talent appears to be the threshold and this trait utilizes your [wealth; in other words, your character must have the containers of coin open to feel reassured.]||",
+        "[Community Note: SP gain rate in 4th and subsequent (5th, 6th, etc.) skill slots is reduced to a set 0.008 per action.]||"
+      ]
+    },
+    {
+      "path": "docs/bio_serasia.md",
+      "old_prose_lines": 52,
+      "current_prose_lines": 29,
+      "missing_count": 22,
+      "missing": [
+        "'You have grown to be a muse, my dear...and I know it will be the hearts of young warriors, willing to fall upon their swords at your beckon, that will try and woo you..' A smile creased his aged cheeks.",
+        "Blushing lightly she replied, 'Far be it from me to get such attention, but your compliments are well taken Father Lotus. Now, allow me to know why you have called me at this hour? Business of sorts?'",
+        "'Aye...business. The business of marriage' He looked up at her through his spectacles and smiled yet again. 'Seems Artren Franco, the eligible son of Tresar Franco Isra, has been asking for your hand. We closed out a deal concerning the dowery 2 nights ago, love. Would you care to pick out the maids yourself, or shall I as well?...perhaps it would be quite picturesque to..'",
+        "Seemingly dreamily he kept on with his plans, though she barely paid attention, her breath growing faint, her brow furrowing, her teeth nearly drawing blood as they bit into her lower lip. When he was finally done with his list of 'ideas', he looked at her, his eyes narrowing.",
+        "'eh.....uh..well of course, sir...just a bit overtaken with all this talk of marriage...p-perhaps I should retire to my chambers, aye?'",
+        "He grumbled slightly and nodded. 'We shall finish our talk at sunrise then'",
+        "She carried her own luggage for the first time through the tall gate of the brilliant palace. Resa waited for her at the other side, a dark woolen shawl tightly gripped about her shoulders.",
+        "The young woman wiped at her tear-stained cheeks and nodded, crumpling into her nurse's arms.",
+        "Mounting the carriage, she was whisked away to the small cottage out in the nearby woods where Resa had lived for so many years. The cottage itself was cozy, a warm fire glowing in the crudely made fireplace. Her room was small by comparison, but dimly lit, with plenty of homespun quilts and pillows on the feather mattress. A small trunk sat by the edge of the bed, an oak dresser in the far corner, a cedar chest by the western wall. On the windows were birch shutters, drawn back slightly, the glass panel lifted to allow a gentle breeze.",
+        "'Home...' she breathed, as she unpacked her bags, and folded her clothes away.",
+        "Involuntarily she brough her hands to her full belly, her fingertips gliding over the smooth fabric of the yellow apron.",
+        "'Best name I know in Iridine is...well...Resa' She winked and continued to stir the pot, occassionally dipping her spoon to catch the broth and taste it on her tongue.",
+        "'You tease me well, Mema' She pondered for a long while and then said, 'If it is a girl, perhaps her name should be Isaria, and if a boy, Dagen..'",
+        "The older woman smiled and nodded. 'Wonderful choice'",
+        "Serasia smiled as well, though her brow furrowed with a troubling flashback...her eyes, haunted.",
+        "'I'll miss you....' She smiled despite the tears streaming down her weathered cheeks. 'You know I have loved you as my own'",
+        "'And you know it is returned with all that is in me' Serasia replied, kissing Resa's cheek.",
+        "'I will not be far from you...merely a few miles. I will see you often, I swear.'",
+        "Her own eyes brimmed as she picked up her hemp bags and slung them over her shoulder.",
+        "'I am glad you are starting a life, dear. This one will be different. It will be a new morning for you..bright, filled with love, blessings. Be safe and go with God'",
+        "She embraced the woman and left the cottage, gathering the fabric of her robe about her body, warming her hands with her breath.",
+        "With that, she squinted out into the distance, picking her route. One last inhale and she adjusted her green satchel, her darkened leather boots making a soft thud against the ground as she trudged forward."
+      ]
+    },
+    {
+      "path": "docs/tailoring-guide.md",
+      "old_prose_lines": 61,
+      "current_prose_lines": 39,
+      "missing_count": 22,
+      "missing": [
+        "Not available for standard purchase. May be available via request. ||",
+        "Each master recipe will list its related sub-recipes.",
+        "You have to type the full name, no shortcuts.",
+        "Sew two Pouch Squares together to create the pouch body.",
+        "(repeat as needed) || - A master recipe will require multiple pieces/parts.",
+        "Repeat steps 2.1, 2.2, 2.3 & 2.4 as needed to create the appropriate pieces.",
+        "In this example, because we need two (2) pouch squares, we would perform steps 2.1 to 2.3 twice.",
+        "The recipe will tell you how much fabric is required.",
+        "With pattern in-hand (e.g. pouch square pattern).",
+        "The description changes to \"a homespun wool cloth laid out for a pouch square\".",
+        "The description changes to \"a homespun wool cut-out in the shape of a pouch square\".",
+        "(if needed) || - Certain sub-recipes require sewing to finish.",
+        "This example does not need it, but if making a shirt, you need to sew a sleeve to itself to complete an individual sleeve.",
+        "With a (threaded) sewing needle & a thimble in-hand.",
+        "Sew two Pouch Squares together to create the pouch body.",
+        "With a (threaded) sewing needle & a thimble in-hand.",
+        "The description changes to \"an incomplete neckpouch\".",
+        "The description changes to \"a homespun wool neckpouch\".",
+        "You have to type the full name, no shortcuts.",
+        "The maker's mark allows someone to identify the maker of an item by inspecting it.",
+        "(repeat as needed) || - Stitch it onto a created item. (Stitch Pattern)",
+        "Some stitches will require multiple successes to complete. Repeat as needed."
+      ]
+    },
+    {
+      "path": "docs/account.md",
+      "old_prose_lines": 53,
+      "current_prose_lines": 32,
+      "missing_count": 21,
+      "missing": [
+        "Note: The Welcome Area (WA) does not count as time in-game and you will not gain RPs for being in the WA.||",
+        "Note: The Welcome Area (WA) does not count as time in-game and you will not gain RPs for being in the WA.||",
+        "Each RP award from Staff also counts as points towards \"RPer of the Month\". (e.g. \"You have just been awarded 5 role points.(Sword Night) Good work!\" ) ||",
+        "(e.g. 300+ was 3:1 the number, so at 300 you'd get 900 RPS. Lower end was 1:1 and went up to 2:1 around 100) ||",
+        "A Premium Subscription is required for this option. ||",
+        "Sandbar Domus (400) - Includes 6 rooms | Materials: Marble floors & painted plaster walls.",
+        "Rock Valley Domus (500) - Includes 4 rooms | Materials: Painted/Polished timber.",
+        "Blackvine Domus (500) - Includes 5 rooms | Materials: Unfinished timber, stone, and brick.",
+        "Seld Domus (500) - Includes 5 rooms | Materials: Rustic timber, unplastered stone, and brick.",
+        "Steps Domus (500) - Includes 5 rooms | Materials: Aged painted plaster and cracking stone construction.",
+        "Quartz Heights Domus (600) - Includes 7 rooms + an atrium | Materials: Highest-quality marble floors and richly decorated walls. ||",
+        "Once purchased, you'll receive the \"domus bath\" option in your perks menu. When you're ready to use it, send in an request to get started. (Using the perk will prompt you with the same information).",
+        "The baths can be in a new room (typically by going down, as long as there is space) or they can replace an existing room.",
+        "There is no IG or RP cost to transform/add a new room for a basic bath. If you want to upgrade your basic bath cosmetically, there would be an IC charge for that. ||",
+        "(whichever is higher) for 7 days. This impacts RPs/Hour rate.",
+        "It does not stack with promotional Role Point gain rates, and may only be purchased once per month. ||",
+        "Note: You will get the most out of this purchase if your character has already",
+        "trained and is as close to minimum SP gains this Cycle as possible.",
+        "Community Note: This purchase appears limited to once per month. (30 calendar days)",
+        "A Premium Subscription is required for this option.",
+        "This does not pause the standard weekly SP Cycle Reset on Wednesdays 8PM EST. ||"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-iridine.md",
+      "old_prose_lines": 18,
+      "current_prose_lines": 18,
+      "missing_count": 18,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/cityofiridine.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/harbour-south.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/harbour-north.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/stonetogainn.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/sirlockestogaroom.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/north-sewers-and-sea-caves.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/riverside-west.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/riverside-east.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/riverside-east.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/bronze-lane.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/colosseum.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/gardens-west.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/gardens-east-and-hospice.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/sandbar-west.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/sandbar-east.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/transinvexium-west.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/transinvexium-east.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine/transinvexium-east-building-interiors.gif)"
+      ]
+    },
+    {
+      "path": "docs/locksmithing-guide.md",
+      "old_prose_lines": 52,
+      "current_prose_lines": 37,
+      "missing_count": 15,
+      "missing": [
+        "Imprint the wax with the instrument. ([/locksmithingWax-Imprint Create Wax Imprint])",
+        "Repeat until finished. ( rolls vary on skill level) ||",
+        "Etch characters onto the wax imprint. ([/locksmithingWax-Letter-Etching Wax Letter Etching])",
+        "Create a mold from the wax imprint. ([/locksmithingClay-Mold Create Clay Mold])",
+        "Repeat until finished. ( rolls vary on skill level) ||",
+        "Get a crucible and put a piece of metal slag inside. (your choice of metal!)",
+        "Hold the crucible and the tongs in hand, then heat the crucible over the furnace.",
+        "Repeat until you have liquid metal. (8 echoes) ||",
+        "Example: 'forge tool with crucible and mold'. ||",
+        "Rank 10 Pick Lock-Unlocking at other locations ||",
+        "Rank 1 Pick Lock-Locking at other locations ||",
+        "Place the tumbler's key in the container before handing it in. ||",
+        "Place the tumbler's key in the container before handing it in. ||",
+        "Place the tumbler's key in the container before handing it in. ||",
+        "Place the tumbler's key in the container before handing it in. ||"
+      ]
+    },
+    {
+      "path": "docs/old-cult-of-ereal.md",
+      "old_prose_lines": 72,
+      "current_prose_lines": 72,
+      "missing_count": 9,
+      "missing": [
+        "(deceased) ||= (Tharius\u2019) Chief of Spies ||< The Council of Elders",
+        "iii. Drusus Rustius \u2013 Heart of Ereal ( Nurturing Light )",
+        "iv. Jarin Seneda \u2013 Eye of Ereal ( Revealing Light )",
+        "vii. Bernard Tubero \u2013 Hand of Ereal ( Bright Hope ) ||",
+        "(Reports to Council of Elders) ||= Eye of Ereal ||= Heart of Ereal ||= Hand of Ereal ||",
+        "(Reports to rank directly above) ||= Glass ||= Mist ||= Gentle ||",
+        "(Reports to rank directly above) ||= Revealer ||= Druid ||= Glimmer ||",
+        "(Reports to rank directly above) ||= Shepherd ||= Guide ||= Comforter ||",
+        "(Reports to rank directly above) ||||||= Focus ||"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-the-steps.md",
+      "old_prose_lines": 7,
+      "current_prose_lines": 7,
+      "missing_count": 7,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-full.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-central.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-north.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-east.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-south.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-sewers.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-the-steps/steps-interiors.jpg)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-monlon.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 6,
+      "missing_count": 6,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-monlon/monlon.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-monlon/catacombs.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-monlon/mines.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-monlon/rockslide.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-monlon/battlefield.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-monlon/ravines.gif)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-pepaquest-west-grasslands.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 7,
+      "missing_count": 6,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-west-grasslands/grasslands.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-west-grasslands/north-forest.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-west-grasslands/banditforestmap.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-west-grasslands/oak-woods.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-west-grasslands/burnt-villa.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-west-grasslands/spider-caverns.jpg)"
+      ]
+    },
+    {
+      "path": "docs/hoplite-combat.md",
+      "old_prose_lines": 82,
+      "current_prose_lines": 76,
+      "missing_count": 6,
+      "missing": [
+        "Pierce ||= Hoplite Combat Stance ||= 250 ||= 500 ||",
+        "Pierce ||= Hoplite Combat Stance ||= 250 ||= 500 ||",
+        "Bruise ||= Hoplite Combat Stance ||= 250 ||= 500 ||",
+        "Bruise ||= Hoplite Combat Stance ||= 250 ||= 500 ||",
+        "Pierce ||= Hoplite Combat Stance ||= 250 ||= 500 ||",
+        "Bruise ||= Hoplite Combat Stance ||= 250 ||= 500 ||"
+      ]
+    },
+    {
+      "path": "docs/missile-weapons-bows.md",
+      "old_prose_lines": 64,
+      "current_prose_lines": 58,
+      "missing_count": 6,
+      "missing": [
+        "20 Ranks in Steady Aim ||= 300 ||= 75 ||= 500 ||= 175 ||",
+        "20 Ranks in Steady Aim ||= 300 ||= 75 ||= 500 ||= 175 ||",
+        "40 Ranks in Steady Aim ||= 300 ||= 75 ||= 500 ||= 175 ||",
+        "20 Ranks in Foot Shot ||= 300 ||= 75 ||= 500 ||= 175 ||",
+        "Pierce ||= - ||= 100 ||= 75 ||= 150 ||= 175 ||",
+        "20 Ranks in Quick Draw ||= 300 ||= 75 ||= 500 ||= 175 ||"
+      ]
+    },
+    {
+      "path": "docs/staves.md",
+      "old_prose_lines": 75,
+      "current_prose_lines": 69,
+      "missing_count": 6,
+      "missing": [
+        "20 Ranks in Staves Parting Swat || 175 || 300 || 95 || - ||",
+        "40 Ranks in Staves Parting Smash || 175 || 300 || 95 || - ||",
+        "10 Ranks in Staves Swat || - || - || - || - ||",
+        "Bruise || 40 Ranks in Staves Snap Strike || - || - || - || - ||",
+        "10 Ranks in Staves Snap Strike || - || - || - || - ||",
+        "20 Ranks in Staves Longarm Strike || - || - || - || - ||"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-rock-valley.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 5,
+      "missing_count": 5,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-rock-valley/rock-valley-area.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-rock-valley/town-of-rock-valley.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-rock-valley/rock-valley-palisade.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-rock-valley/stromheim.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-rock-valley/fenri-gifr-ruins.gif)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-pepaquest-iridine-outskirts.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 6,
+      "missing_count": 5,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine-outskirts/campus-martinus.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine-outskirts/transinvexium-east.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine-outskirts/old-city.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine-outskirts/signaltower-island.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine-outskirts/sea-caves.jpg)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-pepaquest-iridine.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 16,
+      "missing_count": 5,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine/warehouse-district-west.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine/warehouse-district-east.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine/temple-district.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine/transinvexium-west.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-iridine/transinvexium-central.jpg)"
+      ]
+    },
+    {
+      "path": "docs/pankration.md",
+      "old_prose_lines": 67,
+      "current_prose_lines": 62,
+      "missing_count": 5,
+      "missing": [
+        "20 Ranks in Pankration Forward Elbow ||= 75 ||= 500 ||",
+        "20 Ranks in Pankration Rising Elbow ||= 75 ||= 500 ||",
+        "Bruise || 30 Ranks in Pankration Driving Knee",
+        "30 Ranks in Pankration Wide Knee ||= 75 ||= 500 ||",
+        "40 Ranks in Pankration Rising Palm ||= 75 ||= 500 ||"
+      ]
+    },
+    {
+      "path": "docs/tecelite.md",
+      "old_prose_lines": 72,
+      "current_prose_lines": 79,
+      "missing_count": 5,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20id.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20id%202.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20move%20list.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20move%20list%202.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20weapon%20list.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20weapon%20list%202.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20weapon%20list%203.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20shield%20list.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20shield%20list%202.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/script%20shield%20list%203.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/tecelite/recolor%20keyword%20manager.jpg) ![](https://eternal-city.wdfiles.com/local--files/tecelite/colorpicker.jpg)"
+      ]
+    },
+    {
+      "path": "docs/test.md",
+      "old_prose_lines": 9,
+      "current_prose_lines": 3,
+      "missing_count": 5,
+      "missing": [
+        "This page originally included `:scp-wiki:component:collapsible-sidebar` on Wikidot. The transcluded content still needs review.",
+        "This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.",
+        "This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.",
+        "This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review.",
+        "This page originally included `:snippets:suo` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/chainblade.md",
+      "old_prose_lines": 56,
+      "current_prose_lines": 52,
+      "missing_count": 4,
+      "missing": [
+        "20 Ranks in Chainblade Flying Slash ||= 200 ||= 500 ||",
+        "10 Ranks in Chainblade Close Stab ||= 200 ||= 500 ||",
+        "Cut||= 30 Ranks in Chainblade Overhead Spin ||= 200 ||= 500 ||",
+        "20 Ranks in Chainblade Raptor Spike ||= 200 ||= 500 ||"
+      ]
+    },
+    {
+      "path": "docs/cult-of-ereal.md",
+      "old_prose_lines": 96,
+      "current_prose_lines": 100,
+      "missing_count": 4,
+      "missing": [
+        "(deceased) ||= (Tharius\u2019) Chief of Spies ||< The Council of Elders",
+        "iii. Drusus Rustius \u2013 Heart of Ereal ( Nurturing Light )",
+        "iv. Jarin Seneda \u2013 Eye of Ereal ( Revealing Light )",
+        "vii. Bernard Tubero \u2013 Hand of Ereal ( Bright Hope ) ||"
+      ]
+    },
+    {
+      "path": "docs/falx.md",
+      "old_prose_lines": 73,
+      "current_prose_lines": 77,
+      "missing_count": 4,
+      "missing": [
+        "20 Ranks in Falx Wild Strike ||= 200 ||= 500 ||",
+        "20 Ranks in Falx Wild Strike ||= 200 ||= 500 ||",
+        "20 Ranks in Falx Spinning Backhand ||= 200 ||= 500 ||",
+        "40 Ranks in Falx Whirlwind Slash ||= 200 ||= 500 ||"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-far-east.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 4,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-far-east/eastern-grasslands-oak-forest.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-far-east/grey-sands.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-far-east/brigand-treehouse.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-far-east/esecarnuscaves.gif)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-iridine-outskirts.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 5,
+      "missing_count": 4,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine-outskirts/campus-martius.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine-outskirts/vetallun-road.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine-outskirts/moondeep-old-city.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-iridine-outskirts/lighthouse-isle.gif)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-vetallun-blackvine.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 5,
+      "missing_count": 4,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-vetallun-blackvine/vetallun.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-vetallun-blackvine/blackvine.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-vetallun-blackvine/blackvine-surrounding-area.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-vetallun-blackvine/salt-beds.png)"
+      ]
+    },
+    {
+      "path": "docs/tridents.md",
+      "old_prose_lines": 70,
+      "current_prose_lines": 66,
+      "missing_count": 4,
+      "missing": [
+        "40 Ranks in Trident Parting Jab ||= 300 ||= 500 ||= 154 ||",
+        "10 Ranks in Trident Jab ||= 300 ||= 500 ||= 154 ||",
+        "30 Ranks in Trident Stab ||= 300 ||= 500 ||= 154 ||",
+        "20 Ranks in Trident Jab ||= 300 ||= 500 ||= 154 ||"
+      ]
+    },
+    {
+      "path": "docs/whips.md",
+      "old_prose_lines": 58,
+      "current_prose_lines": 54,
+      "missing_count": 4,
+      "missing": [
+        "20 Ranks in Triple Crack ||= 300 ||= 500 ||= 154 ||",
+        "20 Ranks in Sky Circle Slash ||= 300 ||= 500 ||= 154 ||",
+        "40 Ranks in Sky Circle Rake ||= 300 ||= 500 ||= 154 ||",
+        "40 Ranks in Precise Snap ||= 300 ||= 500 ||= 154 ||"
+      ]
+    },
+    {
+      "path": "docs/cestus.md",
+      "old_prose_lines": 53,
+      "current_prose_lines": 50,
+      "missing_count": 3,
+      "missing": [
+        "Pierce ||= 20 Ranks in Cestus Jab || 300 || 500 ||= 154 ||",
+        "Cut || 30 Ranks in Cestus Spike Slash || 300 || 500 ||= 154 ||",
+        "20 Ranks in Cestus Rear Upcut || 300 || 500 ||= 154 ||"
+      ]
+    },
+    {
+      "path": "docs/historic-map-iridine-streets.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 6,
+      "missing_count": 3,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-iridine-streets/harbor-of-the-moons.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-iridine-streets/northwestern-iridine.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-iridine-streets/bronze-square-shops.jpg)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-invex-delta.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 3,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-invex-delta/invex-river-delta.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-invex-delta/burnt-villa.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-invex-delta/spider-caverns.jpg)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-marnevel-salinae.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 3,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-salinae/swamps.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-salinae/swamp-buildings.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-salinae/bandit-complex.jpg)"
+      ]
+    },
+    {
+      "path": "docs/historic-map-pepaquest-vetallun-blackvine.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 4,
+      "missing_count": 3,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-vetallun-blackvine/vetallun.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-vetallun-blackvine/vetallun-gardens.jpg)",
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-vetallun-blackvine/blackvine.jpg)"
+      ]
+    },
+    {
+      "path": "docs/hoplite-combat-guide.md",
+      "old_prose_lines": 44,
+      "current_prose_lines": 41,
+      "missing_count": 3,
+      "missing": [
+        "retalq short spear w/ any shield ||= 1 + MoS ||= 2 + MoS ||= 2 + MoS ||= 2 + MoS ||= 2 + MoS ||= 1 + MoS ||",
+        "iron short spear w/ light shield ||= 2 + MoS ||= 2 + MoS ||= 2 + MoS ||= 3 + MoS ||= 2 + MoS ||= 1 + MoS ||",
+        "iron spear w/ heavy shield ||= 2 + MoS ||= 2 + MoS ||= 3 + MoS ||= 3 + MoS ||= 2 + MoS ||= 1 + MoS ||"
+      ]
+    },
+    {
+      "path": "docs/index.md",
+      "old_prose_lines": 17,
+      "current_prose_lines": 83,
+      "missing_count": 3,
+      "missing": [
+        "![Map of Iridine - The Eternal City MUD](https://eternal-city.wikidot.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)",
+        "![Play Now](https://login.eternalcitygame.com/login.php)",
+        "This page originally included `latest-updates` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/jewelry-guide.md",
+      "old_prose_lines": 83,
+      "current_prose_lines": 82,
+      "missing_count": 3,
+      "missing": [
+        "Cast Stud Earrings, Broad Cast Ring, Broad Cast Bracelet, Cast Simple Band, Cast Charm, Ornate Forged Ring, Forged Bangle, Forged Anklet, Cast Bangle, Cast Pendant, Simple Band Ring, Drop Earrings, Eyebrow Ring, Nose Ring, Nose Stud, Septum Ring, Lip Ring, Lip Stud, Forged Tiara, Wire Ring",
+        "Wire Earrings, Wire Bracelet, Wire Anklet, Hoop Earrings",
+        "Locket (20 tiny links + body + lid + hinge pin)"
+      ]
+    },
+    {
+      "path": "docs/nelsor-one-handed-swords.md",
+      "old_prose_lines": 40,
+      "current_prose_lines": 37,
+      "missing_count": 3,
+      "missing": [
+        "10 Ranks in Swords Slash || 300 || 500 ||= 154 ||",
+        "20 Ranks in Swords Slash || 300 || 500 ||= 154 ||",
+        "Cut || 20 Ranks in Swords Slash || 300 || 500 ||= 154 ||"
+      ]
+    },
+    {
+      "path": "docs/two-handed-axes.md",
+      "old_prose_lines": 74,
+      "current_prose_lines": 71,
+      "missing_count": 3,
+      "missing": [
+        "20 Ranks in 2H Axe Overhead Chop || 300 || 500 ||",
+        "20 Ranks in 2H Axe Basic Slash|| 300 || 500 ||",
+        "10 Ranks in 2H Axe Basic Slash || 300 || 500 ||"
+      ]
+    },
+    {
+      "path": "docs/v3_homepage.md",
+      "old_prose_lines": 28,
+      "current_prose_lines": 26,
+      "missing_count": 3,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)",
+        "![Play Now](https://login.eternalcitygame.com/login.php)",
+        "Knife Slash (10 Ranks) || 175 || 80 || 50 || 75 || 75 ||"
+      ]
+    },
+    {
+      "path": "docs/avros-one-handed-swords.md",
+      "old_prose_lines": 41,
+      "current_prose_lines": 42,
+      "missing_count": 2,
+      "missing": [
+        "Pierce || 40 Ranks in Swords Jab ||= 100 ||= 500 ||",
+        "Will on a missed roll. This can be negated with 90 ranks in Avros Gladius Combat."
+      ]
+    },
+    {
+      "path": "docs/cineran-knife-fighting-knives.md",
+      "old_prose_lines": 63,
+      "current_prose_lines": 63,
+      "missing_count": 2,
+      "missing": [
+        "20 Ranks in Knives Underhand Stab ||= 500 ||= 50 ||",
+        "Cut || 20 Ranks in Knives Slash ||= 500 ||= 50 ||"
+      ]
+    },
+    {
+      "path": "docs/franlius.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 2,
+      "missing": [
+        "This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.",
+        "![](https://eternal-city.wdfiles.com/local--files/files/Franlius%202025-08.png)"
+      ]
+    },
+    {
+      "path": "docs/game-world.md",
+      "old_prose_lines": 12,
+      "current_prose_lines": 12,
+      "missing_count": 2,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/Midlightmasks2.5parchmentfilter3v2.png)",
+        "![](https://eternal-city.wdfiles.com/local--files/files/realms%20of%20midlight.jpg)"
+      ]
+    },
+    {
+      "path": "docs/harbor-of-the-moons.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 6,
+      "missing_count": 2,
+      "missing": [
+        "![Illustrated image of The Harbor of the Moons](https://eternal-city.wdfiles.com/local--files/files/TheHarbor-Final.jpg)",
+        "This page originally included `harbor` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-franlius.md",
+      "old_prose_lines": 17,
+      "current_prose_lines": 20,
+      "missing_count": 2,
+      "missing": [
+        "This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.",
+        "This page originally included `franlius` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/illustrated-iridine-and-neighbors.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 2,
+      "missing_count": 2,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/illustrated-iridine-and-neighbors/simple-iridine-regional.gif)",
+        "![](https://eternal-city.wdfiles.com/local--files/illustrated-iridine-and-neighbors/artistic-iridine-regional.jpg)"
+      ]
+    },
+    {
+      "path": "docs/knives.md",
+      "old_prose_lines": 71,
+      "current_prose_lines": 69,
+      "missing_count": 2,
+      "missing": [
+        "Cut || 20 Ranks in Knife Slash || 500 || 100 ||= 85 || 300 || 75 || 75 ||",
+        "10 Ranks in Knife Slash || 500 || 100 ||= 85 || 300 || 75 || 75 ||"
+      ]
+    },
+    {
+      "path": "docs/nav-overview.md",
+      "old_prose_lines": 30,
+      "current_prose_lines": 30,
+      "missing_count": 2,
+      "missing": [
+        "This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review.",
+        "This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/one-handed-axes.md",
+      "old_prose_lines": 89,
+      "current_prose_lines": 87,
+      "missing_count": 2,
+      "missing": [
+        "20 Ranks in Axe Pivot Smash || 500 || 90 ||= 300||",
+        "40 Ranks in Axe Stepping Chop || 500 || 90 ||= 300||"
+      ]
+    },
+    {
+      "path": "docs/one-handed-crushing-guide.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 3,
+      "missing_count": 2,
+      "missing": [
+        "bone club ||= 1 + MoS ||= 1 + MoS ||= 2 + MoS ||",
+        "Blackroot war-club ||= 2 + MoS ||= 1 + MoS ||= 2 + MoS ||"
+      ]
+    },
+    {
+      "path": "docs/spears.md",
+      "old_prose_lines": 64,
+      "current_prose_lines": 62,
+      "missing_count": 2,
+      "missing": [
+        "10 Ranks in Spear Stab|| 300 || 125 ||= 300 || 500 ||= 154 ||",
+        "40 Ranks in Spear Stab || 300 || 125 || - || 500 ||= 154 ||"
+      ]
+    },
+    {
+      "path": "docs/the-colosseum.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 8,
+      "missing_count": 2,
+      "missing": [
+        "![Illustrated image of Map of The Harbor of the Moons](https://eternal-city.wdfiles.com/local--files/files/TheArena-Final.jpg)",
+        "This page originally included `colosseum` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/archived_historic-map-marnevel-franlius.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-marnevel-franlius/franlius.png)"
+      ]
+    },
+    {
+      "path": "docs/bio_drekk.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `bio:drekk-drykk` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/bio_drykk.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `bio:drekk-drykk` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/black-hand-caverns.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/blackhandcaverns032023.png)"
+      ]
+    },
+    {
+      "path": "docs/blackvine.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/blackvine%202025-10.png)"
+      ]
+    },
+    {
+      "path": "docs/brigand-treehouse.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/brigand-treehouse/EastoftheSalinaeRiver-brigandtreehouse.gif)"
+      ]
+    },
+    {
+      "path": "docs/bronze-lane.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/bronze-lane/iridine-bronzelane.gif)"
+      ]
+    },
+    {
+      "path": "docs/burnt-villa.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/invexriverdelta-burntvillaupdated112517.gif)"
+      ]
+    },
+    {
+      "path": "docs/city-of-iridine.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 7,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `iridine` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/city-of-monlon.md",
+      "old_prose_lines": 9,
+      "current_prose_lines": 16,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `monlon` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/colosseum.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/iridine-colosseum1.gif)"
+      ]
+    },
+    {
+      "path": "docs/cullaiden-island-map.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/cul.gif)"
+      ]
+    },
+    {
+      "path": "docs/cullaiden-island-temple.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/cullaiden-island-temple/cullaiden%20island%20abandoned%20temple)"
+      ]
+    },
+    {
+      "path": "docs/cullaiden-island.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `cullaiden-island-map` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/dual-daggers.md",
+      "old_prose_lines": 18,
+      "current_prose_lines": 20,
+      "missing_count": 1,
+      "missing": [
+        "Pierce ||= Dual Daggers Sanguine Stance ||= 50 ||= 500 ||"
+      ]
+    },
+    {
+      "path": "docs/east-ravanite-tunnels.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/EastRavaniteTunnels.PNG)"
+      ]
+    },
+    {
+      "path": "docs/eastern-grasslands-and-woods.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/eastofthesalinaeriver-eastgrasslandsandwoods-2026-09-08-update.png)"
+      ]
+    },
+    {
+      "path": "docs/filinius-villa.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/turriniofiliniusestate20260329.png)"
+      ]
+    },
+    {
+      "path": "docs/fist-fort.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/fist-fort.png)"
+      ]
+    },
+    {
+      "path": "docs/forum.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/forum/iridine-forum-2024.png)"
+      ]
+    },
+    {
+      "path": "docs/gardens-and-hospice.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/Iridine-Gardens.gif)"
+      ]
+    },
+    {
+      "path": "docs/grey-sands.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/GraySands.gif)"
+      ]
+    },
+    {
+      "path": "docs/harbor.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/iridine-harbor-03-2023.png)"
+      ]
+    },
+    {
+      "path": "docs/hg-aralex-pit.md",
+      "old_prose_lines": 24,
+      "current_prose_lines": 24,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `rat-pits-and-aralex-pits` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-bandit-complex.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/BanditComplex.jpg)"
+      ]
+    },
+    {
+      "path": "docs/hg-black-hand-caverns.md",
+      "old_prose_lines": 14,
+      "current_prose_lines": 17,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `black-hand-caverns` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-brigand-treehouse.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/brigand-treehouse)"
+      ]
+    },
+    {
+      "path": "docs/hg-burnt-villa.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 4,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `burnt-villa` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-colosseum.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 7,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `colosseum` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-iridine-pits.md",
+      "old_prose_lines": 20,
+      "current_prose_lines": 20,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)"
+      ]
+    },
+    {
+      "path": "docs/hg-iridine-sewers.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `sewers-and-sea-caves` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-quartz-heights-boardwalk.md",
+      "old_prose_lines": 8,
+      "current_prose_lines": 8,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/quartz-heights/iridine-quartzheights1.gif)"
+      ]
+    },
+    {
+      "path": "docs/hg-rock-valley-broken-tower.md",
+      "old_prose_lines": 10,
+      "current_prose_lines": 13,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `franlius` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-rock-valley-burial-grounds.md",
+      "old_prose_lines": 5,
+      "current_prose_lines": 8,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `franlius` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-sea-caves.md",
+      "old_prose_lines": 26,
+      "current_prose_lines": 26,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/iridine-sewers.gif)"
+      ]
+    },
+    {
+      "path": "docs/hg-shipwreck.md",
+      "old_prose_lines": 13,
+      "current_prose_lines": 19,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `shipwreck` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-spider-caverns.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `spider-caverns` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg-undertown.md",
+      "old_prose_lines": 31,
+      "current_prose_lines": 30,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/Undertown.jpeg)"
+      ]
+    },
+    {
+      "path": "docs/hg-vetallun-apple-orchard.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/invexriverdelta-vetallun2.gif)"
+      ]
+    },
+    {
+      "path": "docs/hg_fist-fort.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `fist-fort` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg_monlon-battlefields.md",
+      "old_prose_lines": 20,
+      "current_prose_lines": 22,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `monlon-battlefield` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/hg_monlon-ravines.md",
+      "old_prose_lines": 45,
+      "current_prose_lines": 44,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `monlonravines` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/historic-map-pepaquest-far-east.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/historic-map-pepaquest-far-east/east-grasslands-oak-forest.jpg)"
+      ]
+    },
+    {
+      "path": "docs/humanoids.md",
+      "old_prose_lines": 10,
+      "current_prose_lines": 9,
+      "missing_count": 1,
+      "missing": [
+        "a battle-scarred bronze-plated rough leather helmet"
+      ]
+    },
+    {
+      "path": "docs/hunting-grounds.md",
+      "old_prose_lines": 67,
+      "current_prose_lines": 67,
+      "missing_count": 1,
+      "missing": [
+        "[This is a new hunting ground that has been released yesterday. The estate has been divided into sections that are suited for characters between 1000-5000 TCR.]"
+      ]
+    },
+    {
+      "path": "docs/hunting.md",
+      "old_prose_lines": 67,
+      "current_prose_lines": 66,
+      "missing_count": 1,
+      "missing": [
+        "primitive (no cordage) || average || 0.9 lbs ||"
+      ]
+    },
+    {
+      "path": "docs/illustrated-iridine.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/illustrated-iridine/illustrated-iridine-large.jpg)"
+      ]
+    },
+    {
+      "path": "docs/iridine.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/irdine-master.png)"
+      ]
+    },
+    {
+      "path": "docs/kelestian-outpost.md",
+      "old_prose_lines": 8,
+      "current_prose_lines": 8,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `monlon-kelestian-outpost` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/legal_privacy-policy.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `:modules:include:6` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/legal_start.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `:modules:include:4` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/legal_terms-of-use.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `:modules:include:5` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/lighthouse.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `signal-tower-island` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/midlight-map.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/midlight-map/Midlight.gif)"
+      ]
+    },
+    {
+      "path": "docs/modules-reference.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `:csi:include:module-summary` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/monlon-battlefield.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/Monlon-battlefieldupdated101217.gif)"
+      ]
+    },
+    {
+      "path": "docs/monlon-catacombs.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/monlon-catacombs/Monlon-catacombsupdated101217.gif)"
+      ]
+    },
+    {
+      "path": "docs/monlon-ravines.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/new-monlon-ravines-map-2023-08-03.png)"
+      ]
+    },
+    {
+      "path": "docs/monlon-rockslide.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/monlon-rockslide/monlon-rockslideupdated101217.gif)"
+      ]
+    },
+    {
+      "path": "docs/monlon.md",
+      "old_prose_lines": 8,
+      "current_prose_lines": 8,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/Monlon2022-11-25.png)"
+      ]
+    },
+    {
+      "path": "docs/old-city-and-moondeep.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/iridine-oldcitymoondeep.gif)"
+      ]
+    },
+    {
+      "path": "docs/pirate-ship.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/pirateship.jpg)"
+      ]
+    },
+    {
+      "path": "docs/quartz-heights.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/iridine-quartzheights-02-29-2024.png)"
+      ]
+    },
+    {
+      "path": "docs/rat-pits-and-aralex-pits.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)"
+      ]
+    },
+    {
+      "path": "docs/republic-of-iridine.md",
+      "old_prose_lines": 25,
+      "current_prose_lines": 25,
+      "missing_count": 1,
+      "missing": [
+        "![Map of Iridine - The Eternal City MUD](https://eternal-city.wikidot.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)"
+      ]
+    },
+    {
+      "path": "docs/reputation.md",
+      "old_prose_lines": 56,
+      "current_prose_lines": 56,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `franlius-notice` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/riverside.md",
+      "old_prose_lines": 7,
+      "current_prose_lines": 7,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/iridine-riversidenew.gif)"
+      ]
+    },
+    {
+      "path": "docs/rock-valley-region.md",
+      "old_prose_lines": 44,
+      "current_prose_lines": 46,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `rock-valley` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/rock-valley.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/rockvalley.gif)"
+      ]
+    },
+    {
+      "path": "docs/sandbar.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/Iridine-sandbar.gif)"
+      ]
+    },
+    {
+      "path": "docs/search_site.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "Search the wiki for information about skills, weapons, combat, crafting, locations, NPCs, organizations, lore, and more."
+      ]
+    },
+    {
+      "path": "docs/seld.md",
+      "old_prose_lines": 10,
+      "current_prose_lines": 10,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/EastoftheSalinaeRiver-Seld1.gif)"
+      ]
+    },
+    {
+      "path": "docs/sewers-and-sea-caves.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/iridine-sewers-11-29-2022.png)"
+      ]
+    },
+    {
+      "path": "docs/shipwreck.md",
+      "old_prose_lines": 7,
+      "current_prose_lines": 7,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/shipwreck-02-24-2026.png)"
+      ]
+    },
+    {
+      "path": "docs/signal-tower-island-guide.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 7,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `signal-tower-island` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/signal-tower-island.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 4,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/signal-tower-island/Iridine-Signaltowerupdated111117.gif)"
+      ]
+    },
+    {
+      "path": "docs/spider-caverns.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/spider-caverns/invexriverdelta-spidercavernsupdated112917.gif)"
+      ]
+    },
+    {
+      "path": "docs/stats.md",
+      "old_prose_lines": 65,
+      "current_prose_lines": 65,
+      "missing_count": 1,
+      "missing": [
+        "Each attribute in your character's stats is linked to a hidden numeric value, which corresponds to the descriptive adjectives you see on the character sheet. While knowing the exact numbers isn't always necessary, it can be useful\u2014especially when planning to use role-points to improve a particular attribute. Understanding these values helps you estimate how many role-points you'll need to reach your desired stat level. (See the section for details on the cost of increasing attribute potential by 10 points. Completing training courses will also raise your attribute\u2019s numeric value by 1 point.)"
+      ]
+    },
+    {
+      "path": "docs/storm-drain-system.md",
+      "old_prose_lines": 3,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/Iridine-storm-drain-system.gif)"
+      ]
+    },
+    {
+      "path": "docs/stromheim.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/Rockvalley-stromheim1.gif)"
+      ]
+    },
+    {
+      "path": "docs/the-salinae-swamp.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/invexriverdelta-salinaeswamp1.gif)"
+      ]
+    },
+    {
+      "path": "docs/the-steps-sewers.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 0,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/Steps-Sewers.gif)"
+      ]
+    },
+    {
+      "path": "docs/the-steps-south.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/the-steps-south/Steps-South-04-2024.png)"
+      ]
+    },
+    {
+      "path": "docs/the-west-grasslands.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/the-west-grasslands/invexriverdelta-westgrasslands2.gif)"
+      ]
+    },
+    {
+      "path": "docs/town-of-franlius.md",
+      "old_prose_lines": 11,
+      "current_prose_lines": 14,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `franlius` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/town-of-rock-valley-map.md",
+      "old_prose_lines": 9,
+      "current_prose_lines": 9,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wikidot.com/local--files/files/Rockvalleytown.png)"
+      ]
+    },
+    {
+      "path": "docs/town-of-rock-valley.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 12,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `town-of-rock-valley-map` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/town-of-vetallun.md",
+      "old_prose_lines": 7,
+      "current_prose_lines": 13,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `vetallun` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/transinvexium.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/transinvexium/iridine-transinvexium1.gif)"
+      ]
+    },
+    {
+      "path": "docs/two-handed-crushing.md",
+      "old_prose_lines": 40,
+      "current_prose_lines": 39,
+      "missing_count": 1,
+      "missing": [
+        "Bruise ||= 2H Crushing Smasher Stance ||= 250 ||= 500 ||"
+      ]
+    },
+    {
+      "path": "docs/unofficial-world-map.md",
+      "old_prose_lines": 2,
+      "current_prose_lines": 2,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)"
+      ]
+    },
+    {
+      "path": "docs/vetallun-road.md",
+      "old_prose_lines": 1,
+      "current_prose_lines": 1,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/vetallun-road/iridine-vetallunroad1.gif)"
+      ]
+    },
+    {
+      "path": "docs/vetallun.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 6,
+      "missing_count": 1,
+      "missing": [
+        "![](https://eternal-city.wdfiles.com/local--files/files/invexriverdelta-vetallun-2025.png)"
+      ]
+    },
+    {
+      "path": "docs/village-of-blackvine.md",
+      "old_prose_lines": 6,
+      "current_prose_lines": 11,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `blackvine` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/village-of-seld.md",
+      "old_prose_lines": 25,
+      "current_prose_lines": 34,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `seld` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/village-of-stromheim.md",
+      "old_prose_lines": 14,
+      "current_prose_lines": 19,
+      "missing_count": 1,
+      "missing": [
+        "This page originally included `stromheim` on Wikidot. The transcluded content still needs review."
+      ]
+    },
+    {
+      "path": "docs/weapons.md",
+      "old_prose_lines": 4,
+      "current_prose_lines": 3,
+      "missing_count": 1,
+      "missing": [
+        "weapon's quality level or RB Bonus, but these weapons"
+      ]
+    },
+    {
+      "path": "docs/whips-guide.md",
+      "old_prose_lines": 14,
+      "current_prose_lines": 13,
+      "missing_count": 1,
+      "missing": [
+        "simple whip of soft leather ||= 2 + MoS ||= 1 + MoS ||= 2 + MoS ||"
+      ]
+    }
+  ]
+}
