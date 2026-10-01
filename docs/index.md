@@ -1,16 +1,16 @@
-# Homepage
+# The Eternal City Wiki
 
 [![Map of Iridine - The Eternal City MUD](/assets/wikidot/files/IridineMapShortest.png)](/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)
 
 
 ## The Eternal City - A Text Based MUD 
-size 115%**The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
+**The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
 
 
 [![Play Now](/assets/wikidot/files/TEC%20Play%20Now.png)](https://login.eternalcitygame.com/login.php)
 
 
-size 150%Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
+> Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
 ### Getting Started
 <a id="GettingStarted"></a>
 
@@ -51,7 +51,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 <!--* To add new updates, please use the "Latest Updates" page included below. *--> 
 
 
-### Latest Major Updates To The Game *size 85%(sorted chronologically↑)*
+### Latest Major Updates To The Game *(sorted chronologically↑)*
 
 
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off [Superior Weapon Upgrades](/account/#RolePointPurchases)**.
@@ -70,9 +70,6 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 
 * **January 1<sup>st</sup> 2024**: For the month of January, the Role Point cost for **[Veteran Character Packages](/veteran-characters/)** are **50% off**!
-
-
-[!-- ***Move the below DIV to show/hide more updates on the home page. (e.g. style="display: {$display_all_updates};) ***--] 
 
 
 * **December 31<sup>st</sup> 2022**: The final skillset to be released in conjunction with the Kelestian invasion has been released! The [Slings](/sling/) skillset can now be learned in the recently released Kelestian outpost found deep within the Monlon ravines! (not to be confused with the fort close to Monlon). All four new skillsets now have very skilled trainers and a reputation system has been set up in this Kelestian outpost.
@@ -180,7 +177,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **June 15<sup>th</sup> 2021**: The current **role point rate** has been temporarily **doubled**. Enjoy! *(In-Game Only Announcement)*
 
 
-* size 110%**June 6<sup>th</sup>**: On behalf of the TEC Wiki editors, **Happy Pride Month!**
+* **June 6<sup>th</sup>**: On behalf of the TEC Wiki editors, **Happy Pride Month!**
 
 
 * **May 10<sup>th</sup> 2021**: **All shopkeepers** have been updated with the **"Balance"** feature and **various other minor updates**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/312/) for more details.
@@ -204,7 +201,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **April 1<sup>st</sup> 2021**: **Pushes of the Creature Button** in the Welcome Area are **Free** through tomorrow night. Enjoy a little fun to kick off the month of April! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/243/) for more details.
 
 
-* size 105%**March 27<sup>th</sup> 2021**: TEC Wikidot Submission Contest! **We want your help!** Contribute to this Wiki by **June 30, 2021** for a chance to win one of several prizes! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/239/) for more details.
+* **March 27<sup>th</sup> 2021**: TEC Wikidot Submission Contest! **We want your help!** Contribute to this Wiki by **June 30, 2021** for a chance to win one of several prizes! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/239/) for more details.
 
 
 * **March 14<sup>th</sup> 2021**: Recent Patch Notes address some confusion about how **grappling tweaks** affected archery, and some Nehal village adjustments. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/173/) for more details.
