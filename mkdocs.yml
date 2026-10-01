@@ -47,6 +47,7 @@ markdown_extensions:
   - fenced_code
   - attr_list
   - md_in_html
+  - nl2br
   - tables
   - toc:
       permalink: true
@@ -65,4 +66,5 @@ extra_javascript:
   - javascripts/tec-stats.js
   - javascripts/tec-shops.js
   - javascripts/tec-tables.js
+  - javascripts/tec-content.js
   - javascripts/tec-page-history.js
