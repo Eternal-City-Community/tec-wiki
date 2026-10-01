@@ -122,6 +122,8 @@ function initTecTopNav() {
       '</div></div>' +
       '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Wiki Team</button><div class="tec-topnav__menu">' +
         '<a href="#" data-tec-edit-current="true">Edit this page</a>' +
+        '<a href="#" data-tec-page-history="true">Page history</a>' +
+        '<a href="#" data-tec-view-source="true">View source</a>' +
         '<a href="/admin/">Editor Dashboard</a>' +
         '<a href="/admin/#/workflow">Review Workflow</a>' +
         '<a href="/admin/#/media">Media Library</a>' +
@@ -141,6 +143,26 @@ function initTecTopNav() {
     '</div>';
 
   header.insertAdjacentElement("afterend", nav);
+
+  function currentSourcePath() {
+    var path = window.location.pathname.replace(/^\\/+|\\/+$/g, "");
+    var slug = path || "index";
+    return "docs/" + slug + ".md";
+  }
+
+  var historyLink = nav.querySelector("[data-tec-page-history]");
+  if (historyLink) {
+    historyLink.href = repo + "/commits/main/" + currentSourcePath();
+    historyLink.target = "_blank";
+    historyLink.rel = "noopener";
+  }
+
+  var sourceLink = nav.querySelector("[data-tec-view-source]");
+  if (sourceLink) {
+    sourceLink.href = repo + "/blob/main/" + currentSourcePath();
+    sourceLink.target = "_blank";
+    sourceLink.rel = "noopener";
+  }
 
   document.addEventListener("click", function (event) {
     var editCurrent = event.target.closest("[data-tec-edit-current]");
