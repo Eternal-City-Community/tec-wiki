@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Audit revision: post-restoration
 import subprocess, re, json
 from pathlib import Path
 
