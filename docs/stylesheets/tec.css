@@ -1695,3 +1695,35 @@ html, body {
   letter-spacing: .06em;
   padding: .34rem .5rem !important;
 }
+
+
+/* Universal responsive table wrapper for migrated/raw HTML and Markdown tables. */
+.tec-table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin: .7rem 0 1rem;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tec-table-scroll > table {
+  margin: 0 !important;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset__table,
+  .tec-table-scroll {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto !important;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .md-typeset__table > table,
+  .tec-table-scroll > table {
+    width: max-content !important;
+    min-width: 100% !important;
+    max-width: none !important;
+  }
+}
