@@ -305,6 +305,25 @@ User-reported issues and fixes on 2026-10-01:
 - Search-mode results no longer force a 720px horizontal table on phones; each result becomes a stacked mobile card showing item, price, shop, and location.
 - Commit: `2a5f5cb227a1857e8d4cf5e5291ef3df73f7cf8c`
 
+
+
+### Missing-page / red-link restoration
+
+- The hardened migration had created **47 fake preservation stub pages** for internal links whose source did not exist in the Wikidot backup.
+- This made genuinely missing pages look like normal existing pages, unlike Wikidot where missing links appeared red and led to page creation.
+- Confirmed examples included:
+  - `/dual-daggers-combat-guide/`
+  - `/bio_mortarian-santum/`
+- Removed all 47 auto-generated preservation stubs.
+- Updated `tools/post_migration.py` so it no longer recreates fake missing-source pages.
+- Added `docs/assets/data/missing-pages.json` as the manifest of currently known unresolved slugs.
+- Updated `docs/javascripts/tec-content.js` so links to those slugs:
+  - render with a red/dotted missing-page style
+  - get a tooltip explaining the page does not exist
+  - route to Decap's **New Wiki Page** workflow at `/admin/#/collections/pages/new`
+- Added matching CSS in `docs/stylesheets/tec.css`.
+- Commit: `a75b09986faadb12ec09dbca9475f8d0a1fd3d8a`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
