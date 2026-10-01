@@ -1,0 +1,40 @@
+name: Full site acceptance audit
+
+on:
+  push:
+    paths:
+      - "tools/full_site_audit.py"
+      - ".github/workflows/full-site-audit.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: full-site-audit
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Crawl and safely normalize site
+        run: python tools/full_site_audit.py
+      - name: Commit safe fixes and report
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs FULL_SITE_AUDIT.md FULL_SITE_AUDIT.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Run full site acceptance audit"
+            git pull --rebase origin main
+            git push
+          fi
