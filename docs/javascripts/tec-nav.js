@@ -3,7 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
   var header = document.querySelector(".md-header");
   if (!header) return;
 
-  var legacy = "https://eternal-city.wikidot.com";
+  function p(slug) { return "/" + slug + "/"; }
+  var repo = "https://github.com/herdias/tec-wiki";
 
   var nav = document.createElement("nav");
   nav.className = "tec-topnav";
@@ -11,55 +12,55 @@ document.addEventListener("DOMContentLoaded", function () {
   nav.innerHTML = '<div class="tec-topnav__inner">' +
 
     '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Maps</button><div class="tec-topnav__menu">' +
-      '<a href="' + legacy + '/maps">All Maps</a>' +
-      '<a href="' + legacy + '/world-map">Unofficial World Map</a>' +
-      '<a href="' + legacy + '/iridine-maps">City Of Iridine »</a>' +
-      '<a href="' + legacy + '/steps-maps">The Steps »</a>' +
-      '<a href="' + legacy + '/west-grasslands-maps">The West Grasslands and Woods »</a>' +
-      '<a href="' + legacy + '/salinae-swamp-maps">The Salinae Swamp »</a>' +
-      '<a href="' + legacy + '/eastern-grasslands-maps">Eastern Grasslands »</a>' +
-      '<a href="' + legacy + '/rock-valley-maps">Rock Valley »</a>' +
-      '<a href="' + legacy + '/franlius">Franlius</a>' +
-      '<a href="' + legacy + '/monlon-maps">Monlon »</a>' +
-      '<a href="' + legacy + '/seld">Seld</a>' +
-      '<a href="' + legacy + '/cullaiden-island">Cullaiden Island »</a>' +
-      '<a href="' + legacy + '/player-maps">Historic Player Maps »</a>' +
+      '<a href="' + p("maps") + '">All Maps</a>' +
+      '<a href="' + p("unofficial-world-map") + '">Unofficial World Map</a>' +
+      '<a href="' + p("iridine") + '">City Of Iridine »</a>' +
+      '<a href="' + p("the-steps") + '">The Steps »</a>' +
+      '<a href="' + p("the-west-grasslands") + '">The West Grasslands and Woods »</a>' +
+      '<a href="' + p("the-salinae-swamp") + '">The Salinae Swamp »</a>' +
+      '<a href="' + p("eastern-grasslands-and-woods") + '">Eastern Grasslands »</a>' +
+      '<a href="' + p("rock-valley") + '">Rock Valley »</a>' +
+      '<a href="' + p("franlius") + '">Franlius</a>' +
+      '<a href="' + p("monlon-master") + '">Monlon »</a>' +
+      '<a href="' + p("seld") + '">Seld</a>' +
+      '<a href="' + p("cullaiden-island-map") + '">Cullaiden Island »</a>' +
+      '<a href="' + p("historic-map-marnevel") + '">Historic Player Maps »</a>' +
     '</div></div>' +
 
     '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Cities & Towns</button><div class="tec-topnav__menu">' +
-      '<a href="' + legacy + '/iridine">City of Iridine</a>' +
-      '<a href="' + legacy + '/monlon">City of Monlon</a>' +
-      '<a href="' + legacy + '/kelestian-outpost">Kelestian Outpost</a>' +
-      '<a href="' + legacy + '/franlius">Town of Franlius</a>' +
-      '<a href="' + legacy + '/rock-valley">Town of Rock Valley</a>' +
-      '<a href="' + legacy + '/vetallun">Town of Vetallun</a>' +
-      '<a href="' + legacy + '/blackvine">Village of Blackvine</a>' +
-      '<a href="' + legacy + '/seld">Village of Seld</a>' +
-      '<a href="' + legacy + '/stromheim">Village of Stromheim</a>' +
+      '<a href="' + p("city-of-iridine") + '">City of Iridine</a>' +
+      '<a href="' + p("city-of-monlon") + '">City of Monlon</a>' +
+      '<a href="' + p("kelestian-outpost") + '">Kelestian Outpost</a>' +
+      '<a href="' + p("town-of-franlius") + '">Town of Franlius</a>' +
+      '<a href="' + p("town-of-rock-valley") + '">Town of Rock Valley</a>' +
+      '<a href="' + p("town-of-vetallun") + '">Town of Vetallun</a>' +
+      '<a href="' + p("village-of-blackvine") + '">Village of Blackvine</a>' +
+      '<a href="' + p("village-of-seld") + '">Village of Seld</a>' +
+      '<a href="' + p("village-of-stromheim") + '">Village of Stromheim</a>' +
     '</div></div>' +
 
     '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Tools</button><div class="tec-topnav__menu">' +
-      '<a href="' + legacy + '/rank-bonus-calculator">Rank Bonus Calculator</a>' +
-      '<a href="' + legacy + '/training-cost-calculator">Training Cost Calculator</a>' +
-      '<a href="' + legacy + '/money-calculator">Money Calculator</a>' +
-      '<a href="' + legacy + '/blocks-and-dodges">Blocks and Dodges</a>' +
-      '<a href="' + legacy + '/fight-it-calculator">Fight It!™ Calculator</a>' +
+      '<a href="' + p("rank-bonus-calculator") + '">Rank Bonus Calculator</a>' +
+      '<a href="' + p("training-cost-calculator") + '">Training Cost Calculator</a>' +
+      '<a href="' + p("money-calculator") + '">Money Calculator</a>' +
+      '<a href="' + p("blocks-and-dodges") + '">Blocks and Dodges</a>' +
+      '<a href="' + p("fight-it-calculator") + '">Fight It!™ Calculator</a>' +
     '</div></div>' +
 
     '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Wiki Team</button><div class="tec-topnav__menu">' +
-      '<a href="' + legacy + '/system:join">Become a Wiki Editor</a>' +
+      '<a href="' + repo + '">Become a Wiki Editor</a>' +
       '<a href="#" data-tec-edit-current="true">Edit page</a>' +
-      '<a href="' + legacy + '/nav:top">Edit this menu</a>' +
-      '<a href="' + legacy + '/nav:side">Edit side menu</a>' +
-      '<a href="' + legacy + '/troubleshooting">Troubleshooting</a>' +
-      '<a href="' + legacy + '/system:recent-changes">Recent changes</a>' +
-      '<a href="' + legacy + '/forum/c-0/wiki-editor-forum">Editor Forum</a>' +
-      '<a href="' + legacy + '/admin:manage">Manage site</a>' +
-      '<a href="' + legacy + '/system:list-all-files">Files</a>' +
+      '<a href="' + repo + '/blob/main/docs/javascripts/tec-nav.js">Edit this menu</a>' +
+      '<a href="' + repo + '/blob/main/docs/javascripts/tec-sidebar.js">Edit side menu</a>' +
+      '<a href="' + repo + '/issues">Troubleshooting</a>' +
+      '<a href="' + repo + '/commits/main">Recent changes</a>' +
+      '<a href="' + repo + '/discussions">Editor Forum</a>' +
+      '<a href="' + repo + '/settings">Manage site</a>' +
+      '<a href="' + repo + '/tree/main/docs">Files</a>' +
     '</div></div>' +
 
     '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Help</button><div class="tec-topnav__menu">' +
-      '<a href="' + legacy + '/faq">FAQ</a>' +
+      '<a href="' + p("faq") + '">FAQ</a>' +
     '</div></div>' +
 
   '</div>';
@@ -70,10 +71,9 @@ document.addEventListener("DOMContentLoaded", function () {
     var editCurrent = event.target.closest("[data-tec-edit-current]");
     if (editCurrent) {
       event.preventDefault();
-      var editButton = document.querySelector('a[title="Edit this page"], .md-content__button');
-      if (editButton && editButton.href) {
-        window.location.href = editButton.href;
-      }
+      var path = window.location.pathname.replace(/^\/+|\/+$/g, "");
+      var file = path ? "docs/" + path + ".md" : "docs/index.md";
+      window.location.href = repo + "/edit/main/" + file;
       return;
     }
 
