@@ -402,17 +402,44 @@ body::before {
   }
 
   .md-sidebar--primary {
-    width: 12.5rem;
-    min-width: 12.5rem;
-    border: 0;
-    border-radius: 0;
+    position: fixed !important;
+    top: 68px !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    z-index: 20 !important;
+    width: min(17rem, 86vw) !important;
+    min-width: 0 !important;
+    height: calc(100dvh - 68px) !important;
+    max-height: none !important;
+    padding: .5rem .45rem .8rem !important;
+    overflow: hidden !important;
+    background: linear-gradient(rgba(232,223,188,.99), rgba(218,207,168,.99)) !important;
+    border: 0 !important;
+    border-right: 1px solid #494a36 !important;
+    border-radius: 0 !important;
+    box-shadow: 4px 0 12px rgba(0,0,0,.28) !important;
+    transform: translateX(-105%);
+    transition: transform .18s ease;
   }
 
-  .md-sidebar--primary .md-sidebar__scrollwrap,
-  .md-sidebar--primary .md-sidebar__inner {
+  [data-md-toggle="drawer"]:checked ~ .md-container .md-sidebar--primary {
+    transform: translateX(0);
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    margin: 0 !important;
+    height: 100% !important;
+    max-height: none !important;
     overflow-y: auto !important;
-    max-height: 100vh !important;
+    overflow-x: hidden !important;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .md-sidebar--primary .md-sidebar__inner {
     height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    padding: 0 !important;
   }
 
   .md-content {
