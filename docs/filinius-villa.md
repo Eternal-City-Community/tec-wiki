@@ -7,7 +7,7 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
  -->
 
 
-[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/turrinio_filinius_estate_2026_03_29.png)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/turrinio_filinius_estate_2026_03_29.png)
+[![](https://eternal-city.wikidot.com/assets/wikidot/files/turrinio_filinius_estate_2026_03_29.png)](https://eternal-city.wikidot.com/assets/wikidot/files/turrinio_filinius_estate_2026_03_29.png)
 
 
 **Related map**

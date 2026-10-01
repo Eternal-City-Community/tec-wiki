@@ -5,14 +5,14 @@
     <base target="_parent"> <!-- make links open on the parent wiki page instead of inside the iframe -->
 
     <!-- preload calculator menubar button icons -->
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/swords.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/shield.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/tree.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/five-column.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/three-column.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/five-row.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/three-row.png" as="image">
-    <link rel="preload" href="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/one-row.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/swords.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/shield.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/tree.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/five-column.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/three-column.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/five-row.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/three-row.png" as="image">
+    <link rel="preload" href="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/one-row.png" as="image">
 
     <style>
         /* outer styles
@@ -86,28 +86,28 @@
         /* button icons */
 
         div.sword-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/swords.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/swords.png");
         }
         div.shield-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/shield.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/shield.png");
         }
         div.tree-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/tree.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/tree.png");
         }
         div.three-col-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/three-column.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/three-column.png");
         }
         div.five-col-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/five-column.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/five-column.png");
         }
         div.five-row-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/five-row.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/five-row.png");
         }
         div.three-row-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/three-row.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/three-row.png");
         }
         div.one-row-icon {
-        	background-image: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/one-row.png");
+        	background-image: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/one-row.png");
         }
         div.dec-none:before {
         	content: ".0";
@@ -260,7 +260,7 @@
 
         div.rb-plus-new {
         	margin: 20px 30%;
-        	background: url("http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/plus.png") no-repeat;
+        	background: url("http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/plus.png") no-repeat;
         	background-size: 40px;
         	background-position: 50% 5px;
         	height: 50px;
@@ -303,7 +303,7 @@ color: #000000;
         }
     </style>
 
-    <script src="http://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/rank-bonus-calculator/decimal.min.js"></script>
+    <script src="http://eternal-city.wikidot.com/assets/wikidot/rank-bonus-calculator/decimal.min.js"></script>
     <script type="text/javascript">
 //process menubar button clicks and adjust calculator accordingly
 //---------------------------------------------------------------

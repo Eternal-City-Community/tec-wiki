@@ -1,6 +1,6 @@
 # The Steps Sewers
 
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Steps-Sewers.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Steps-Sewers.gif)
+[![](https://eternal-city.wdfiles.com/assets/wikidot/files/Steps-Sewers.gif)](https://eternal-city.wdfiles.com/assets/wikidot/files/Steps-Sewers.gif)
 
 
 **Related Maps**

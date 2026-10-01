@@ -8,7 +8,7 @@ More information to follow soon.
 
 ### How to connect to the TEC server:
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/initialize.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/initialize.jpg)
 
 The process to login to the game is different from using Orchil; you will instead right-click anywhere on the black background and then click on "Initialize". You must enter your username and your password to create the cookie used to log into the game (same process that is used when logging in from the TEC website). You will not have to complete this step again unless you log into TEC's website with your TEC account. TECElite uses the same MD5 Hash method that Orchil uses to encrypt your password - it uses the same login process and takes the hashed password from the cookie. Your password will NEVER be stored in plain text in any of the TECElite files, it is simply used to create the initialization process that is required to create the cookie and it is then erased. Once the initialization process is done, you can simply right click on the black background and then click on "Connect". You will now enter the game.
 
@@ -29,11 +29,11 @@ Commands:
 The user interface (UI) is customizable and allows you to change the map from two styles (vertical aka classic or horizontal). You can also remove the borders from the windows or leave them on. By right clicking in the main @TEC window, you will see "Client Preferences". From there, "Fonts / Windows" will allow you to choose your desired font and font size, but will also have the option for borderless windows. Under "Client Preferences" you will also see "Map Pref" -> "Classic" or "Horizontal" are the two options for the map area which also contains the macros.
 
 **Classic map with borders:**
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/user%20interface%20vertical.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/user%20interface%20vertical.jpg)
 
 ---
 **Horizontal map without borders:**
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/user%20interface%20horizontal.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/user%20interface%20horizontal.jpg)
 
 **Note:** if using the horizontal map style, you will need to use the macro system to make use of the APP, ADV, FB and KILL buttons. All of the buttons from 1-45 NEED to use the fe1, fe2, fe3, .. fe45 macros as it sends those commands. It functions the same way in Orchil.
 
@@ -52,11 +52,11 @@ Once all of the windows have been set to your preferences, you must right click 
 
 With v1.4 comes the ability to script. You can easily build and use combat or non-combat scripts which both behave differently. The combat script runs an advanced scripting system that will not only let you send out your attacks, but will also respond to a vast range of situations similarly to what the TEC Extender does. Before making a combat script and using any of them, you will have to use differently colored echoes for both the incoming and outgoing combat prose. As you can see in the example below.
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/combat%20echoes.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/combat%20echoes.jpg)
 
 If you're not already familiar with the color menu, here is how to use it. When logged into your desired character, use the @colors command which will open the Color Menu where you can set your Offensive and Defensive Combat colors. 
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/colors%20menu.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/colors%20menu.jpg)
 
 If you already have your colors set up, you still need to use the @colors command otherwise scripting will NOT work. TECElite must fetch your color scheme and it can only do it and properly save them so scripting can begin once you use the command. You only need to do it once. If you have different colors on different characters, you will need to use the @colors command -everytime- you wish to use combat scripts. For ease of use, it is highly recommended that you use the same color scheme for all characters. If you are not receiving colors while in combat in your client, you must turn them on using the PREF command. pref > Q will set it on ([Q] Colorized Combat Echoes [on]).
 
@@ -83,16 +83,16 @@ You will now have to use the TARGET command to set up your target(s). So for ins
 Now that the base has been explained, we can now move to building scripts. The combat script already contains everything it needs in order to operate, so all you must do is feed it your attack rotation. Using right-click on the @TEC window, choose Combat Scripts -> Build Combat Script. 
 
 > Enter your Script ID:
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20id.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20id%202.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20id.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20id%202.jpg)
 
 > Enter your move list:
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20move%20list.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20move%20list%202.jpg) 
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20move%20list.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20move%20list%202.jpg) 
 
 > Enter your weapon list: (you can enter one full weapon name with spaces OR enter multiple one-word names)
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20weapon%20list.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20weapon%20list%202.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20weapon%20list%203.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20weapon%20list.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20weapon%20list%202.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20weapon%20list%203.jpg)
 
 > Enter your shield name: (you can enter one full shield name with spaces OR enter multiple one-word names)
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20shield%20list.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20shield%20list%202.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/script%20shield%20list%203.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20shield%20list.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20shield%20list%202.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/script%20shield%20list%203.jpg)
 
 You have just built your first combat script! It's that simple, all you have to do is fill out that information and you're done. To launch the combat script, you can either Right-Click in the @TEC window -> Combat Scripts -> Launch Combat Script or you can quickly launch it using /fight sword1
 
@@ -114,19 +114,19 @@ When using right click on the main @TEC window, you will see an option called "C
 
 **Commands input color**: can be accessed from right-click->client preferences->commands input color. Allows you to choose 1 of 16 preset colors for the commands you send. This function will be overwritten by the script color if there is an active script. You must have "Display Entered Command" set to "ON" for this to take effect.
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/input%20commands%20color.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/input%20commands%20color.jpg)
 
 **Font / Windows**: can be accessed from right-click->client preferences->font/windows. Allows you to easily set your font, font size and the option to turn borderless windows on. The list of fonts is relatively small, but you can enter your own custom font name in the designated box to change it. This function, unlike the regular /font command for AdiIRC allows you to change the text for all of the windows. If you want to change the font or borderless windows, you will lose ALL of the current content in those windows when applying the change and that is because a reload is required for them to take effect. Using a monospace font is recommended as it will make all of the various things line up properly (stock list, stats, all game menus, etc.)
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/font%20windows.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/font%20windows.jpg)
 
 **Recolor Manager**: can be accessed from right-click->client preferences->recolor manager. Allows you to change the color of certain phrases, keywords, etc. into a hex color of your choice or you can choose one of 96 preset colors. There are 10 slots available in which you can choose the color and text to change colors for. The option for a "partial" match allows you to target parts of a word instead of a full exact match, i.e.: tin -> if partial match is used, it will highlight every single instance of TIN in any words, the "tin" in interesting would be highlighted and not the full word. Exact words require a full match which means that only instances of "tin" on its own would be highlighted. You can highlight words or phrases.
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/recolor%20keyword%20manager.jpg) ![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/colorpicker.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/recolor%20keyword%20manager.jpg) ![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/colorpicker.jpg)
 
 **Ignore List Manager**: can be accessed from right-click-> client preferences->ignore list manager. Allows you to easily add/remove people from the think or OOC channels in your game client. The list of people on the ignore lists will show in alphabetical order. There is a blocked messages section at the bottom that allows you to view any messages that were sent by the people on your ignore list. It will tell you if it comes from the THINK or OOC channel as well. A maximum of 100 messages can be stored and you can delete singular messages by clicking on them or delete all of them at once. If "Show blocked thought/OOC notification" is set to "ON" you will be notified in both the @TEC window and the @Thoughts or @OOC window that a message was blocked.
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/tecelite/ignore%20list%20manager.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/tecelite/ignore%20list%20manager.jpg)
 
 ### Scripting Preferences:
 

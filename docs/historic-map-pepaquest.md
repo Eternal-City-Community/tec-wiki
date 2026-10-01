@@ -31,4 +31,4 @@ Pepa provided the first extensive series of maps that covered the entire TEC gam
 
 ### Map Key
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/historic-map-pepaquest/mapkey.jpg)
+![](https://eternal-city.wdfiles.com/assets/wikidot/historic-map-pepaquest/mapkey.jpg)

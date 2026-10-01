@@ -622,3 +622,14 @@ body::before {
     font-size: .82rem;
   }
 }
+
+
+/* Local TEC background asset */
+html, body {
+  background-image:
+    linear-gradient(rgba(45,52,34,.38), rgba(45,52,34,.38)),
+    url("/assets/wikidot/files/colosseum-690384.jpg");
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
+}

@@ -5,7 +5,7 @@
 ### Overview
 
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Cult%20of%20Ereal%20v2.png)
+![](https://eternal-city.wdfiles.com/assets/wikidot/files/Cult%20of%20Ereal%20v2.png)
 
 
 <u>**Please see [Cult of Ereal](/cult-of-ereal/) for modern organization.**</u>

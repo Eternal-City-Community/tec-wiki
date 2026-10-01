@@ -1,3 +1,3 @@
 # Spider Caverns
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/spider-caverns/invexriverdelta-spidercaverns_updated112917.gif)
+![](https://eternal-city.wikidot.com/assets/wikidot/spider-caverns/invexriverdelta-spidercaverns_updated112917.gif)

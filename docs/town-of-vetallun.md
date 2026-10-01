@@ -3,7 +3,7 @@
 ## Vetallun
 
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/minimap_vetallun.png)
+![](https://eternal-city.wdfiles.com/assets/wikidot/files/minimap_vetallun.png)
 
 
 A strategic village that serves as the last line of defense against northern invaders. At the head of the Salinae Swamp, where the Southern Fork of the Invex diverges from the Salinae River, it is home to Vetallun Fort, the base for the first legion of Iridine, [Legio I](/legio/). Very early in the history of the Republic, when its founders were breaking free of the tyranny of the Cineran Kings, the **Vetallun Bridge** was the site where **Tralius Allende held back the Cineran army**. Vetallun is also an **active trading hub**, with many riverfront warehouses that provide relatively inexpensive storage for salt, bricks, grain and other goods from around the Republic before they reach Iridine and points beyond.
@@ -23,7 +23,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  --]
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/invexriverdelta-vetallun-2025.png)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/invexriverdelta-vetallun-2025.png)
+[![](https://eternal-city.wdfiles.com/assets/wikidot/files/invexriverdelta-vetallun-2025.png)](https://eternal-city.wdfiles.com/assets/wikidot/files/invexriverdelta-vetallun-2025.png)
 
 
 **Related Maps**

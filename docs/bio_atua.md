@@ -3,7 +3,7 @@
 >
 
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/atua.gif)
+![](https://eternal-city.wikidot.com/assets/wikidot/files/atua.gif)
 
 The wheels creak ceaselessly as the farmer's wagon slowly teetered along the cobblestone road. A chilly wind sweeps accross the slowly moving Invex from the north, rustling the worn countryside clothes of the aged driver, who pulled a wide-brimmed straw hat low over his head and urges on an equally aged mare trotting in front. It was a clear sign that it was turning fall and Ereal had already begun to distance himself from mother earth. Already the trees were of red and gold hues, and even the stoic Dursc were beginning to shed leaves. While the beauty of the countryside was striking, the cold air and withering plants only convinced the young man hitching a ride in the back to resolve not to become a starving street urchin come winter.
 

@@ -14,7 +14,7 @@ Situated just off the heart of the military town of Vetallun, this seclusive app
 * [Cleaning the Vetallun Orchard](/newbie-mission-guide/#RottenApples)
 
 #### Map
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/invexriverdelta-vetallun2.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/invexriverdelta-vetallun2.gif)
+[![](https://eternal-city.wdfiles.com/assets/wikidot/files/invexriverdelta-vetallun2.gif)](https://eternal-city.wdfiles.com/assets/wikidot/files/invexriverdelta-vetallun2.gif)
 
 #### Directions
 Walk to Vetallun, Walk to Crossroads, w x 4, n x 4, nw, w

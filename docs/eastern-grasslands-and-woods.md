@@ -3,7 +3,7 @@
 ---
 This map is very, very large. Click on the map for a full-size image.
 
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/eastofthesalinaeriver-eastgrasslandsandwoods-2026-09-08-update.png)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/eastofthesalinaeriver-eastgrasslandsandwoods-2026-09-08-update.png)
+[![](https://eternal-city.wdfiles.com/assets/wikidot/files/eastofthesalinaeriver-eastgrasslandsandwoods-2026-09-08-update.png)](https://eternal-city.wdfiles.com/assets/wikidot/files/eastofthesalinaeriver-eastgrasslandsandwoods-2026-09-08-update.png)
 
 
 **Related Maps**

@@ -3,7 +3,7 @@
 ## The Harbor Of The Moons
 
 
-[![Illustrated image of The Harbor of the Moons](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/The_Harbor_-_Final.jpg)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/The_Harbor_-_Final.jpg)
+[![Illustrated image of The Harbor of the Moons](https://eternal-city.wdfiles.com/assets/wikidot/files/The_Harbor_-_Final.jpg)](https://eternal-city.wdfiles.com/assets/wikidot/files/The_Harbor_-_Final.jpg)
 
 
 While the arches of the Harbor of the Moons retain a mysterious and surreal air about them, the actual goings on of Iridine's port area are far more base. From the rowdiest of scalliwags to the wealthiest of merchants, daylight on the harbor sees nearly every slice of Iridine life. But when night falls, and the wealthy go to their homes in other quarters, the harbor earns its reputation as one of the roughest neighborhoods in the city. Bars and cheap flophouses abound, and many prostitutes find the area good pickings.
@@ -23,7 +23,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  --]
-[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-harbor-03-2023.png)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-harbor-03-2023.png)
+[![](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-harbor-03-2023.png)](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-harbor-03-2023.png)
 
 
 **Related Maps**

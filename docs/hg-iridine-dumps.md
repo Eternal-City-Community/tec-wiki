@@ -24,4 +24,4 @@ walk to junk dealer, e x 2, n x 1
 -Hidden rooms
 -Shack
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/hg-iridine-dumps/dumps.gif)
+![](https://eternal-city.wikidot.com/assets/wikidot/hg-iridine-dumps/dumps.gif)

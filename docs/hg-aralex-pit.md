@@ -35,7 +35,7 @@ Aralex eggs can be donated to the retired gladiator Prestis to earn favorable [r
 This hunting ground is broken into three "tiers", separated by upper/lower levels, each with increasing difficulty as you progress lower. This being said, the 1st tier can spawn the toughest of the aralex so don't feel safer on Tier 1 than Tier 2 or 3. The main difference is the amount of Aralex that can spawn and swarm you. 
 
 
-[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/RatPitsandAralexPits.gif)
+[![](https://eternal-city.wdfiles.com/assets/wikidot/files/RatPitsandAralexPits.gif)](https://eternal-city.wdfiles.com/assets/wikidot/files/RatPitsandAralexPits.gif)
 
 
 **Related Maps**

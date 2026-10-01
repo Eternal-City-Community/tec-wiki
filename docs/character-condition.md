@@ -1,6 +1,6 @@
 # Character Condition
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Condition%20Graphic.png)
+![](https://eternal-city.wdfiles.com/assets/wikidot/files/Condition%20Graphic.png)
 
 
 In *The Eternal City*, your character is more than just a digital avatar — they are a living, breathing individual with real needs, vulnerabilities, and limitations. Survival in this world demands more than combat prowess or clever dialogue; it requires attention to the basic necessities of life. Your character must remain **healthy**, **nourished**, **hydrated**, and **well-rested** to function effectively. Neglecting these needs can lead to fatigue, illness, or even slipping into a coma, affecting everything from movement speed to combat performance.

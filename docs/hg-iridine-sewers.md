@@ -46,7 +46,7 @@ Connecting to the sewers and leading to a cliff side cave, this area is laden wi
 
  
 **Click map to open in new window** *(Warning: Very Large)*
-[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-sewers-11-29-2022.png)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-sewers-11-29-2022.png)
+[![](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-sewers-11-29-2022.png)](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-sewers-11-29-2022.png)
 
 
 **Related Maps**

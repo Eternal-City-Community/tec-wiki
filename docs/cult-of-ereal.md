@@ -3,7 +3,7 @@
 ### Overview
 
 
-![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Cult%20of%20Ereal%20v2.png)
+![](https://eternal-city.wdfiles.com/assets/wikidot/files/Cult%20of%20Ereal%20v2.png)
 
 
 The Cult of Ereal is the official state religion of the Republic of
