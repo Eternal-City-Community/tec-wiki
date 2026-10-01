@@ -235,10 +235,10 @@ On later launches, a **Choose an account** screen lists any accounts you've stor
 
 At startup Praetor also checks GitHub for a newer release and shows a small notice if one is available. To turn this off:
 
-# Press **Esc**
-# Choose **Display & Behavior**, then **Settings**
-# Untick **Check for updates on startup**
-# **Save**
+1. Press **Esc**
+2. Choose **Display & Behavior**, then **Settings**
+3. Untick **Check for updates on startup**
+4. **Save**
 
 ### Using Praetor
 

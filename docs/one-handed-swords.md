@@ -28,7 +28,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 
 |  |  |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Gilven | Cula | Majell | Varga | **@<**>@**Prestis |
+| Skills/Actions | Difficulty | Hands | Range | Wound | Gilven | Cula | Majell | Varga | **Prestis |
 | *<u>One-Handed Swords</u>* | Easy | - | - | - | 300 | 100 | 120 | 500 | 154 |
 | [Sword Chop](#Chop) | Easy | Either | Short | Cut | 300 | 100 | 110 | 500 | 154 |
 | [Sword Jab](#Jab) | Easy | Either | Short | Pierce | 300 | 100 | 110 | 500 | 154 |
@@ -61,7 +61,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 #### Notes on Learning
 
 * You can also use Skill Points (SP) from [Avros](/avros-one-handed-swords/), [Nelsor](/nelsor-one-handed-swords/) and [Pardelian](/pardelian-one-handed-swords/) to learn One-Handed Swords.
-* **@<**>@Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+* **Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

@@ -15,15 +15,15 @@ This page covers using the desktop app once it's installed. For installing it, a
 
 The numbers match the callouts in the picture.
 
-# **Status bar**: your vitals, a lighting readout (click it to check the light level), and whether you're connected.
-# **Tab bar**: **All** is always there, plus any custom tabs you've set up and a **Metrics** tab. See Tabs below.
-# **Output pane**: game text scrolls here. The mouse wheel and PgUp/PgDn scroll it, and a burst of incoming text keeps following the bottom unless you've scrolled up to read back.
-# **Minimap**: rooms as colored squares. White lines are open passages, black lines are walls, brighter squares are better-lit rooms.
-# **Compass**: green arrows are exits you can take right now. The center dot carries up/down markers when a room has them.
-# **Vitals**: Health, Fatigue, Encumbrance, and Satiation. Click one to check your exact condition.
-# **Actions, Modes, and Variables tabs**: **Actions** holds your own button sets (set them up under **Action Sets** in the Esc menu). **Modes** lists the loaded automation modes. **Variables** manages saved values you can insert into typed commands and Action buttons. Changes made here are the same ones shown under **Automation**, then **Variables**, in the Esc menu.
-# **Command input**: where you type to the game. A **hint line** appears just above it while you type a slash command, showing what the command expects.
-# **Play and current-mode buttons**: the play button starts a play script (see Play scripts below), and the button beside it shows the running mode. Click it to switch. While a typed command chain still has commands waiting, the play button is replaced by a **Stop** button that discards the rest of the chain.
+1. **Status bar**: your vitals, a lighting readout (click it to check the light level), and whether you're connected.
+2. **Tab bar**: **All** is always there, plus any custom tabs you've set up and a **Metrics** tab. See Tabs below.
+3. **Output pane**: game text scrolls here. The mouse wheel and PgUp/PgDn scroll it, and a burst of incoming text keeps following the bottom unless you've scrolled up to read back.
+4. **Minimap**: rooms as colored squares. White lines are open passages, black lines are walls, brighter squares are better-lit rooms.
+5. **Compass**: green arrows are exits you can take right now. The center dot carries up/down markers when a room has them.
+6. **Vitals**: Health, Fatigue, Encumbrance, and Satiation. Click one to check your exact condition.
+7. **Actions, Modes, and Variables tabs**: **Actions** holds your own button sets (set them up under **Action Sets** in the Esc menu). **Modes** lists the loaded automation modes. **Variables** manages saved values you can insert into typed commands and Action buttons. Changes made here are the same ones shown under **Automation**, then **Variables**, in the Esc menu.
+8. **Command input**: where you type to the game. A **hint line** appears just above it while you type a slash command, showing what the command expects.
+9. **Play and current-mode buttons**: the play button starts a play script (see Play scripts below), and the button beside it shows the running mode. Click it to switch. While a typed command chain still has commands waiting, the play button is replaced by a **Stop** button that discards the rest of the chain.
 
 Regions 4 to 7 together are the **sidebar**. **Alt+S** hides or shows it. Right-click the output for a Copy/Paste menu. Ctrl+C copies a selection and Ctrl+V pastes into the input.
 
@@ -275,12 +275,12 @@ $(repeat "search ${container:chest}" until "You find ${item:key}" cancel-on "You
 
 Praetor:
 
-# Uses the saved {{container}} and {{item}} values, falling back to {{chest}} and {{key}}.
-# Repeats the search after each unbusy response.
-# Advances when the success text appears.
-# Cancels everything if {{You find nothing}} appears.
-# Gets the item after the configured {{;;}} delay.
-# Displays a notification after the next configured delay.
+1. Uses the saved {{container}} and {{item}} values, falling back to {{chest}} and {{key}}.
+2. Repeats the search after each unbusy response.
+3. Advances when the success text appears.
+4. Cancels everything if {{You find nothing}} appears.
+5. Gets the item after the configured {{;;}} delay.
+6. Displays a notification after the next configured delay.
 
 This example combines unbusy-aware commands with an explicit pause:
 
@@ -425,10 +425,10 @@ This is the main entrypoint to all Praetor menus
 
 To change any setting:
 
-# Press **Esc**
-# Choose **Display & Behavior**, then **Settings**
-# Change what you need
-# **Save**
+1. Press **Esc**
+2. Choose **Display & Behavior**, then **Settings**
+3. Change what you need
+4. **Save**
 
 The settings are:
 
@@ -463,10 +463,10 @@ The settings are:
 
 **Quick-Cycle Modes** lets **Alt+M** step through a chosen set of modes:
 
-# Press **Esc**
-# Choose **Automation**, then **Quick-Cycle Modes**
-# Toggle the modes you want in the cycle
-# **Save**. Alt+M now advances through them in list order
+1. Press **Esc**
+2. Choose **Automation**, then **Quick-Cycle Modes**
+3. Toggle the modes you want in the cycle
+4. **Save**. Alt+M now advances through them in list order
 
 ![](/assets/wikidot/praetor-guide/praetor-priority-commands.png)
 
@@ -509,10 +509,10 @@ Click the placeholder to reveal that one line, or press **Alt+I** to reveal ever
 
 To ignore someone:
 
-# Press **Esc**
-# Choose **Filters**, then **Ignore OOC Accounts** (or **Ignore Think Characters**)
-# Add the name
-# **Save**
+1. Press **Esc**
+2. Choose **Filters**, then **Ignore OOC Accounts** (or **Ignore Think Characters**)
+3. Add the name
+4. **Save**
 
 #### Tools & References
 
@@ -555,13 +555,13 @@ retalq
 
 **Notifications** raise desktop alerts and in-app notices when something happens. To set them up:
 
-# Press **Esc**
-# Choose **Display & Behavior**, then **Notifications**
-# Turn on **Allow Script Notifications** if Lua modes should be allowed to send notifications. It is off by default and controls both their desktop alerts and in-app notices; built-in threshold and pattern notifications still work independently
-# Choose whether notifications play the operating system's default sound
-# Set a **health-below** threshold (on by default, at 25) or a **fatigue-below** threshold (off by default, at 10)
-# Add your own **text patterns**: text to match, plus an optional notification title and message. Matching is case-insensitive; {{*}} matches any run of characters and {{?}} matches one character
-# **Save**
+1. Press **Esc**
+2. Choose **Display & Behavior**, then **Notifications**
+3. Turn on **Allow Script Notifications** if Lua modes should be allowed to send notifications. It is off by default and controls both their desktop alerts and in-app notices; built-in threshold and pattern notifications still work independently
+4. Choose whether notifications play the operating system's default sound
+5. Set a **health-below** threshold (on by default, at 25) or a **fatigue-below** threshold (off by default, at 10)
+6. Add your own **text patterns**: text to match, plus an optional notification title and message. Matching is case-insensitive; {{*}} matches any run of characters and {{?}} matches one character
+7. **Save**
 
 If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Praetor uses the matching game text.
 
@@ -600,10 +600,10 @@ Notes are plain text files, one file per note, so you can edit or back them up o
 
 **/send** expands saved variables in a text file, then sends its contents to the game line by line. Command-chain separators in the file are sent as ordinary text rather than interpreted by Praetor. Use it for a prepared block of emotes, a list of commands, or anything else you'd rather not type live.
 
-# Type **/send** and press **Enter**
-# Pick the text file in the file dialog
-# A **Send File** window shows the file's name, its line count, and how many batches it will go out in
-# Click **Save** to start sending
+1. Type **/send** and press **Enter**
+2. Pick the text file in the file dialog
+3. A **Send File** window shows the file's name, its line count, and how many batches it will go out in
+4. Click **Save** to start sending
 
 How the file is sent:
 
@@ -787,9 +787,9 @@ The app log (startup, connection, and error detail, not a copy of the game text)
 
 To see what your modes have saved between sessions:
 
-# Press **Esc**
-# Choose **Automation**, then **Persistent Data**
-# Export selected keys, or clear them
+1. Press **Esc**
+2. Choose **Automation**, then **Persistent Data**
+3. Export selected keys, or clear them
 
 Exports land in:
 

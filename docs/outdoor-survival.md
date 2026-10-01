@@ -197,7 +197,7 @@ While many things you forage for or skin may be fine to eat raw, there are count
 
 <a id="Climb"></a>
 
-### Outdoor Climbing  *climb <object@<&#124;>@location>*
+### Outdoor Climbing  *climb <object|location>*
 
 As an outdoorsman you might encounter terrain which seems impassible to the normal person. But through extensive study of the land, the knowledgeable woodsman will be able to find a way up or down such obstacles. Beware, though, for some obstacles are harder to climb than others, and while a tumble down a grassy hill may not seem too harmful, falling down a stone mountain will not be pleasant.
 

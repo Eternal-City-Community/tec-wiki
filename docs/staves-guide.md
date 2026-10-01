@@ -21,9 +21,9 @@ Below you'll find everything important to know about Staves.
 ### Advice & Tips
 #### Custom Skills
 The custom skills can only be learned in three ways. 
-# From another player
-# In the VC creation lobby
-# One of 2 NPC trainers. 
+1. From another player
+2. In the VC creation lobby
+3. One of 2 NPC trainers. 
 
 The first NPC trainer, **Veylen**, can be found in the tent NW of the Stone Toga Inn and will teach until you have a total of 300 ranks. --The second NPC trainer, **[a haggard one-legged soldier](/reputation/#Fran-Lessons)**, is located south of Pretium in Franlius. The soldier requires that you help on the front before he'll teach you.-- *(**Not currently available**, see [Town of Franlius](/town-of-franlius/))*
 

@@ -1,12 +1,12 @@
 {
   "pages_scanned": 900,
-  "pages_changed": 32,
+  "pages_changed": 0,
   "safe_fixes": {
-    "details_markdown": 73,
-    "legacy_color": 1,
+    "details_markdown": 0,
+    "legacy_color": 0,
     "size_directive": 0,
     "literal_anchor_heading": 0,
-    "duplicate_title": 5
+    "duplicate_title": 0
   },
   "manual_review": [
     {
@@ -52,18 +52,6 @@
       ]
     },
     {
-      "page": "armor.md",
-      "issues": [
-        "inconsistent table columns: line 219 (4-5)"
-      ]
-    },
-    {
-      "page": "cestus.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
       "page": "character-generator.md",
       "issues": [
         "fenced block present; verify not a table trapped as code"
@@ -73,12 +61,6 @@
       "page": "codex-peitho-prayers-and-devotions.md",
       "issues": [
         "fenced block present; verify not a table trapped as code"
-      ]
-    },
-    {
-      "page": "combat-maneuvers.md",
-      "issues": [
-        "leftover Wikidot escape markup"
       ]
     },
     {
@@ -100,28 +82,14 @@
       ]
     },
     {
-      "page": "cult-of-ereal.md",
-      "issues": [
-        "additional H1 headings at lines 60,61,62,63,64,65,66"
-      ]
-    },
-    {
-      "page": "customization-guide.md",
-      "issues": [
-        "additional H1 headings at lines 68,69,70,71,144,145,146,147,148"
-      ]
-    },
-    {
       "page": "faq.md",
       "issues": [
-        "fenced block present; verify not a table trapped as code",
-        "additional H1 headings at lines 16,17,18,19,40,41,42,43"
+        "fenced block present; verify not a table trapped as code"
       ]
     },
     {
       "page": "herbalism.md",
       "issues": [
-        "leftover Wikidot escape markup",
         "additional H1 headings at lines 150,151"
       ]
     },
@@ -129,12 +97,6 @@
       "page": "herdias-test-page.md",
       "issues": [
         "possible leftover Wikidot || table markup"
-      ]
-    },
-    {
-      "page": "hoplite-combat.md",
-      "issues": [
-        "leftover Wikidot escape markup"
       ]
     },
     {
@@ -180,55 +142,24 @@
       ]
     },
     {
-      "page": "nelsor-one-handed-swords.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
-      "page": "newbie-combat-guide.md",
-      "issues": [
-        "additional H1 headings at lines 25,26,30,31,33,34,35"
-      ]
-    },
-    {
-      "page": "old-cult-of-ereal.md",
-      "issues": [
-        "additional H1 headings at lines 55,56,57,58,59,60,61,203,204,205,206"
-      ]
-    },
-    {
-      "page": "one-handed-swords.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
-      "page": "outdoor-survival.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
       "page": "praetor-guide.md",
       "issues": [
         "fenced block present; verify not a table trapped as code",
-        "additional H1 headings at lines 18,19,20,21,22,23,24,25,26,278,279,280",
+        "additional H1 headings at lines 687",
         "inconsistent table columns: line 379 (3-6)"
       ]
     },
     {
       "page": "praetor-scripts.md",
       "issues": [
-        "fenced block present; verify not a table trapped as code",
-        "additional H1 headings at lines 104,105,106,107"
+        "fenced block present; verify not a table trapped as code"
       ]
     },
     {
       "page": "praetor.md",
       "issues": [
         "fenced block present; verify not a table trapped as code",
-        "additional H1 headings at lines 184,238,239,240,241",
+        "additional H1 headings at lines 184",
         "inconsistent table columns: line 302 (4-7)"
       ]
     },
@@ -257,27 +188,9 @@
       ]
     },
     {
-      "page": "shields.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
       "page": "sling-guide.md",
       "issues": [
         "fenced block present; verify not a table trapped as code"
-      ]
-    },
-    {
-      "page": "spears.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
-      "page": "staves-guide.md",
-      "issues": [
-        "additional H1 headings at lines 24,25,26"
       ]
     },
     {
@@ -299,12 +212,6 @@
       ]
     },
     {
-      "page": "tridents.md",
-      "issues": [
-        "leftover Wikidot escape markup"
-      ]
-    },
-    {
       "page": "useful-macros-for-thieves.md",
       "issues": [
         "fenced block present; verify not a table trapped as code",
@@ -321,12 +228,6 @@
       "page": "wealth.md",
       "issues": [
         "fenced block present; verify not a table trapped as code"
-      ]
-    },
-    {
-      "page": "whips.md",
-      "issues": [
-        "leftover Wikidot escape markup"
       ]
     }
   ]

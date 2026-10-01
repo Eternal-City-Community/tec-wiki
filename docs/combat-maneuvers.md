@@ -20,7 +20,7 @@ Covering the most areas in combative situations, CMs are an integral part of you
 
 |  |  | Skill Info |  |  |  |  |  |  |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Prerequisites | Leda | Rontubius | Hroth | Uiseann | Cralus | Pelias | Clobris | Mervia | Regul | **@<**>@**Prestis | Karkara |
+| Skills/Actions | Difficulty | Prerequisites | Leda | Rontubius | Hroth | Uiseann | Cralus | Pelias | Clobris | Mervia | Regul | **Prestis | Karkara |
 | *<u>Combat Maneuvers</u>* | Easy | - | 300 | 200 | 500 | 125 | 100 | 110 | 300 | 300 | 300 | 154 | 300 |
 | [Duck](#Duck) | Easy | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
 | [Basic Dodge](#Dodge) | Easy | - | 300 | 150 | 500 | 100 | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
@@ -58,7 +58,7 @@ Covering the most areas in combative situations, CMs are an integral part of you
 
 
 #### Notes on Learning
-**@<**>@Prestis** will only teach you once you have earned enough [reputation#Aralex](/reputation/#Aralex) with him.
+**Prestis** will only teach you once you have earned enough [reputation#Aralex](/reputation/#Aralex) with him.
 
 ### Skill Details
 

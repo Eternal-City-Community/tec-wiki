@@ -15,7 +15,7 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 
 |  |  |  |  |  | Skill Info |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Ariston | Vashren | **@<**>@**Prestis |
+| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Ariston | Vashren | **Prestis |
 | *<u>Nelsor Gladius Combat</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
 | [Arch of the Sky](#AotS) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 300 | 500 | 154 |
 | [Extended Arm Spin](#EAS) | Average | Either | Short | Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
@@ -37,7 +37,7 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 
 #### Notes on Learning
 * You can also use Skill Points (SP) from [Swords](/one-handed-swords/) to learn Nelsor.
-* **@<**>@Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+* **Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

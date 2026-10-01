@@ -1,15 +1,15 @@
 # Full site acceptance audit
 
 - Markdown pages scanned: **900**
-- Pages safely changed: **32**
-- Pages needing manual review: **52**
+- Pages safely changed: **0**
+- Pages needing manual review: **36**
 
 ## Safe fixes
-- Details Markdown: **73**
-- Legacy Color: **1**
+- Details Markdown: **0**
+- Legacy Color: **0**
 - Size Directive: **0**
 - Literal Anchor Heading: **0**
-- Duplicate Title: **5**
+- Duplicate Title: **0**
 
 ## Manual review
 - `2022-10-14-ama.md`: fenced block present; verify not a table trapped as code
@@ -19,20 +19,14 @@
 - `advanced-commands.md`: fenced block present; verify not a table trapped as code
 - `advanced-speech.md`: fenced block present; verify not a table trapped as code
 - `archery-guide.md`: fenced block present; verify not a table trapped as code
-- `armor.md`: inconsistent table columns: line 219 (4-5)
-- `cestus.md`: leftover Wikidot escape markup
 - `character-generator.md`: fenced block present; verify not a table trapped as code
 - `codex-peitho-prayers-and-devotions.md`: fenced block present; verify not a table trapped as code
-- `combat-maneuvers.md`: leftover Wikidot escape markup
 - `combat-overview.md`: fenced block present; verify not a table trapped as code
 - `commands.md`: fenced block present; verify not a table trapped as code
 - `criminal-acts.md`: fenced block present; verify not a table trapped as code
-- `cult-of-ereal.md`: additional H1 headings at lines 60,61,62,63,64,65,66
-- `customization-guide.md`: additional H1 headings at lines 68,69,70,71,144,145,146,147,148
-- `faq.md`: fenced block present; verify not a table trapped as code; additional H1 headings at lines 16,17,18,19,40,41,42,43
-- `herbalism.md`: leftover Wikidot escape markup; additional H1 headings at lines 150,151
+- `faq.md`: fenced block present; verify not a table trapped as code
+- `herbalism.md`: additional H1 headings at lines 150,151
 - `herdias-test-page.md`: possible leftover Wikidot || table markup
-- `hoplite-combat.md`: leftover Wikidot escape markup
 - `house-of-mercantile.md`: fenced block present; verify not a table trapped as code
 - `knives-guide.md`: inconsistent table columns: line 147 (3-4)
 - `lib-ephemeris-1.md`: fenced block present; verify not a table trapped as code
@@ -40,27 +34,17 @@
 - `locksmithing-guide.md`: fenced block present; verify not a table trapped as code
 - `macros.md`: fenced block present; verify not a table trapped as code
 - `nav-overview.md`: fenced block present; verify not a table trapped as code
-- `nelsor-one-handed-swords.md`: leftover Wikidot escape markup
-- `newbie-combat-guide.md`: additional H1 headings at lines 25,26,30,31,33,34,35
-- `old-cult-of-ereal.md`: additional H1 headings at lines 55,56,57,58,59,60,61,203,204,205,206
-- `one-handed-swords.md`: leftover Wikidot escape markup
-- `outdoor-survival.md`: leftover Wikidot escape markup
-- `praetor-guide.md`: fenced block present; verify not a table trapped as code; additional H1 headings at lines 18,19,20,21,22,23,24,25,26,278,279,280; inconsistent table columns: line 379 (3-6)
-- `praetor-scripts.md`: fenced block present; verify not a table trapped as code; additional H1 headings at lines 104,105,106,107
-- `praetor.md`: fenced block present; verify not a table trapped as code; additional H1 headings at lines 184,238,239,240,241; inconsistent table columns: line 302 (4-7)
+- `praetor-guide.md`: fenced block present; verify not a table trapped as code; additional H1 headings at lines 687; inconsistent table columns: line 379 (3-6)
+- `praetor-scripts.md`: fenced block present; verify not a table trapped as code
+- `praetor.md`: fenced block present; verify not a table trapped as code; additional H1 headings at lines 184; inconsistent table columns: line 302 (4-7)
 - `punishment.md`: fenced block present; verify not a table trapped as code
 - `rank-bonus-calculator-classic.md`: possible leftover Wikidot || table markup
 - `reputation.md`: fenced block present; verify not a table trapped as code
 - `rp-expenditure.md`: fenced block present; verify not a table trapped as code
-- `shields.md`: leftover Wikidot escape markup
 - `sling-guide.md`: fenced block present; verify not a table trapped as code
-- `spears.md`: leftover Wikidot escape markup
-- `staves-guide.md`: additional H1 headings at lines 24,25,26
 - `tanning-guide.md`: fenced block present; verify not a table trapped as code
 - `the-way-of-the-thief.md`: fenced block present; verify not a table trapped as code
 - `training-cost-calculator.md`: possible leftover Wikidot || table markup
-- `tridents.md`: leftover Wikidot escape markup
 - `useful-macros-for-thieves.md`: fenced block present; verify not a table trapped as code; inconsistent table columns: line 299 (4-7)
 - `veteran-characters.md`: fenced block present; verify not a table trapped as code
 - `wealth.md`: fenced block present; verify not a table trapped as code
-- `whips.md`: leftover Wikidot escape markup

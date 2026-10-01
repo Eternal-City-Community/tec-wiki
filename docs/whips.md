@@ -14,7 +14,7 @@ Basic familiarity with the short whip means that the wielder won't take out her 
 
 |  |  |  |  |  | Skill Info |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **@<**>@**Prestis |
+| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **Prestis |
 | *<u>Short Whip</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
 | [Whip Fast Coil Stance](#FCstance) | Easy | 1 | - | - | - | 100 | 100 | 154 |
 | [Whip Sky Circle Stance](#SC) | Easy | 1 | - | - | - | 100 | 100 | 154 |
@@ -43,7 +43,7 @@ Basic familiarity with the short whip means that the wielder won't take out her 
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**@<**>@Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

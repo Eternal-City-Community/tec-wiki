@@ -14,7 +14,7 @@ Basic familiarity with the cestus involves becoming comfortable enough with the 
 
 |  |  |  |  |  | Skill Info |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Mervia | **@<**>@**Prestis |
+| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Mervia | **Prestis |
 | *<u>Cestus</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
 | [Cestus Weaving Stance](#Stance) | Average | 2 | - | - | - | 100 | 100 | 154 |
 | [Cestus Jab](#Jab) | Easy | Either | Short | Pierce | - | 300 | 500 | 154 |
@@ -45,7 +45,7 @@ Basic familiarity with the cestus involves becoming comfortable enough with the 
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**@<**>@Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

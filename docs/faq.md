@@ -13,10 +13,10 @@ The Eternal City (TEC) is a Roman Based, Fantasy MUD connecting players in a wor
 
 #### What sets The Eternal City apart?
 Four main factors separate The Eternal City from most other MUDs.
-# Unmatched **real-time** strategic **combat** mechanics.
-# A very **large and immersive game world**, set in the Roman era.
-# **Mandatory role play**.
-# Classless **skill system** that allows players to **craft their own playstyle** and distinct personas.
+1. Unmatched **real-time** strategic **combat** mechanics.
+2. A very **large and immersive game world**, set in the Roman era.
+3. **Mandatory role play**.
+4. Classless **skill system** that allows players to **craft their own playstyle** and distinct personas.
 
 
 <a id="account"></a>
@@ -37,10 +37,10 @@ This is a known issue and TEC staff are working actively to address all affected
 
 #### How can I stay up to date with the latest TEC news?
 There are multiple ways to stay up to date.
-# Check the **[Latest Updates](//#LatestUpdates)** section of this Wiki. 
-# Forward all in-game mail messages to your **email** inbox by using the @email command in the WA. 
-# Subscribe to the official **TEC Newsletter**: https://mailchi.mp/e15b15d2c6d3/tec-email-subscription .
-# Visit the official **TEC Forums**: https://www.eternalcitygame.com/index.php/community/
+1. Check the **[Latest Updates](//#LatestUpdates)** section of this Wiki. 
+2. Forward all in-game mail messages to your **email** inbox by using the @email command in the WA. 
+3. Subscribe to the official **TEC Newsletter**: https://mailchi.mp/e15b15d2c6d3/tec-email-subscription .
+4. Visit the official **TEC Forums**: https://www.eternalcitygame.com/index.php/community/
 
 
 <a id="buy"></a> <a id="IG"></a>

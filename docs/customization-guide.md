@@ -65,10 +65,10 @@ Item alterations have both a role point (RP) and IG coin cost:
 
 #### What to include in your @request:
 
-# The character this request is for:
-# The item’s name (short description) and long description (look)
-# The item’s location: It’s easiest if you deposit your item and any components in a sack in your bank account, or keep it on you. Otherwise, submit your request from the item’s location (if it’s in your bedroom, for example). Regardless, let us know where we can find it!
-# Optional: Which bank account you want the coin withdrawn from (by default, it is withdrawn from Seneda’s forum bank).
+1. The character this request is for:
+2. The item’s name (short description) and long description (look)
+3. The item’s location: It’s easiest if you deposit your item and any components in a sack in your bank account, or keep it on you. Otherwise, submit your request from the item’s location (if it’s in your bedroom, for example). Regardless, let us know where we can find it!
+4. Optional: Which bank account you want the coin withdrawn from (by default, it is withdrawn from Seneda’s forum bank).
 
 
 <a id="Props"></a>
@@ -141,11 +141,11 @@ This type of request is basically an Item Alteration, Superior Weapon Upgrade, a
 
 #### What to put in your @request:
 
-# The character this request is for
-# The type of item you are requesting (e.g. “a superior retalq gladius”)
-# The name (short description) and long description (look)
-# The location of any components you are supplying
-# Optional: Which bank account you want the coin withdrawn from (by default, it is withdrawn from Seneda’s forum bank).
+1. The character this request is for
+2. The type of item you are requesting (e.g. “a superior retalq gladius”)
+3. The name (short description) and long description (look)
+4. The location of any components you are supplying
+5. Optional: Which bank account you want the coin withdrawn from (by default, it is withdrawn from Seneda’s forum bank).
 
 #### Hidden Plate Customization Example
 > Syntax: Item = **helmet name** + " with " + **faceplate name**.

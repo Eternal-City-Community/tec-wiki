@@ -222,8 +222,8 @@ All items listed above can be worn together. They can be put on in the following
 | Some thick sharkskin boots with a soft sole |  | Right foot, left foot | little |
 | Some knee-high leather boots with folded tops |  | Right foot, left foot, right shin, left shin | little |
 | Some thick leather boots |  | Right foot, left foot | Fairly Good |
-| Some soft-soled black leather boots with silver buckles |  | Right foot, left foot\| | Fairly Good |
-| Some hardened leather boots with iron studs |  | Right foot, left foot\| | Fairly Good |
+| Some soft-soled black leather boots with silver buckles |  | Right foot, left foot | Fairly Good |
+| Some hardened leather boots with iron studs |  | Right foot, left foot | Fairly Good |
 | Some sturdy black leather boots |  | Right foot, left foot | Fairly Good |
 | Some light brown cloth boots with copper ornaments |  | Right foot, left foot | Fairly Good |
 | Some dark brown cloth boots with gold ornaments |  | Right foot, left foot | Fairly Good |

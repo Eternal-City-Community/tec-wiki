@@ -101,10 +101,10 @@ To stop the running mode:
 
 **Alt+M** steps through a short list of modes you choose, useful for the ones you switch between often. To pick them:
 
-# Press **Esc**
-# Choose **Automation**, then **Quick-Cycle Modes**
-# Toggle the modes you want in the cycle
-# **Save**
+1. Press **Esc**
+2. Choose **Automation**, then **Quick-Cycle Modes**
+3. Toggle the modes you want in the cycle
+4. **Save**
 
 To watch what a running mode is doing, turn on the **Echo script commands** setting (Esc, **Display & Behavior**, **Settings**). Every command the mode sends then shows in the output in italics.
 

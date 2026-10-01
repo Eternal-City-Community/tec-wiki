@@ -22,7 +22,7 @@ Though spears have often been used in conjunction with shields, most who special
 
 |  |  |  |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Gilven | Uiseann | Regul | Concinnant | **@<**>@**Prestis |
+| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Gilven | Uiseann | Regul | Concinnant | **Prestis |
 | *<u>Spears</u>* | Easy | - | - | - | - | 300 | 130 | 300 | 500 | 154 |
 | [Spear Ebros' Scorpion Stance](#Scorp) | Easy | 2 | Either | - | - | 100 | 100 | 100 | 100 | 154 |
 | [Spear Jab](#Jab) | Easy | Either | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
@@ -56,7 +56,7 @@ Though spears have often been used in conjunction with shields, most who special
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**@<**>@Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

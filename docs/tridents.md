@@ -15,7 +15,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 
 |  |  |  |  |  | Skill Info |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **@<**>@**Prestis |
+| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **Prestis |
 | *<u>Tridents</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
 | [Trident Harpoon Stance](#Harpoon-Stance) | Easy | 2 | - | - | [Trident Harpoon Stance](#Harpoon-Stance) | 100 | 100 | 154 |
 | [Trident Jab](#Jab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
@@ -48,7 +48,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**@<**>@Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
 
 
 ### Skill Details

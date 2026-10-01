@@ -40,7 +40,7 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 
 #### Notes on Learning
 * When learning your first rank of Herbalism using [GSP](/skills/#GSP), will also learn the Plant Identification and Basic Herb Foraging sub skills.
-* **@<*>@Terali** will only teach you once you've earned enough reputation. **See [Reputation Guide](/reputation/#Herb-Lessons) for details.**
+* **Terali** will only teach you once you've earned enough reputation. **See [Reputation Guide](/reputation/#Herb-Lessons) for details.**
 
 
 ### Skill Details
@@ -146,9 +146,9 @@ For details on existing recipes, *see [the brewing chart](/herbalism-guide/#Brew
 <div class="skill-template">
 
 > *brew glass*
- # Product	@<&#124;>@ Ingredients and Quantity
-# Lemon Juice @<&#124;>@ Yellow fruit with a thick peel  2
-# Rose Incense @<&#124;>@ Blossoming red flower 20
+ # Product	| Ingredients and Quantity
+# Lemon Juice | Yellow fruit with a thick peel  2
+# Rose Incense | Blossoming red flower 20
 Enter the number of the product you would like to brew.
 
  > *1*
@@ -235,7 +235,7 @@ TBC
 
 <a id="vessel"></a>
 
-### Craft Vessel  *craft [jar@<&#124;>@flask@<&#124;>@bottle@<&#124;>@vial] [from@<&#124;>@with] <clay>*
+### Craft Vessel  *craft [jar|flask|bottle|vial] [from|with] <clay>*
 
 This skill requires clay, which can be purchased from locksmithing shops, or foraged for with Outdoor's Survival Foraging skill at river banks. Any liquid container can be used for brewing, from vials to barrels, as long as the herbalist has an appropriate amount of ingredients to fill it. The volume of a container can be determined with the Volume Estimation skill and a scroll outlining Iridine's system of measurement can be purchased IG.
 
@@ -266,7 +266,7 @@ TBC
 
 <a id="estimation"></a>
 
-### Volume Estimation  *estimate <liquid@<&#124;>@powder@<&#124;>@container>*
+### Volume Estimation  *estimate <liquid|powder|container>*
 
 This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's reasoning & judgement.
 
