@@ -268,6 +268,31 @@ User-reported issues and fixes on 2026-10-01:
 - Commit: `5d173b61e954ce050d87270bc1ab3399122feaf6`
 - Material breadcrumbs follow the configured `nav:` hierarchy, so pages not represented in that hierarchy may still have limited/no breadcrumb context until the nav structure is expanded.
 
+
+
+### Mobile-friendly pass for other calculators
+
+- Applied a responsive/mobile usability pass to the non-Rank-Bonus calculators without changing calculator formulas or mechanics.
+- **Training Cost Calculator**
+  - Single-column layout on phones.
+  - Current/Desired Rank rows use compact two-column mobile layout.
+  - Inputs and modifier buttons enlarged for touch.
+  - NPC and SP result tables remain intact and scroll horizontally instead of overflowing/collapsing.
+  - Notes text enlarged slightly for phone readability.
+  - Commit: `55b43b4841ba243f633af665902d85415c52f49d`
+- **Money Calculator**
+  - Mobile-safe horizontal table scrolling.
+  - Larger 16px numeric inputs and 44px action buttons.
+  - Action buttons stack full-width.
+  - Reduced card padding and improved heading/help readability.
+- **Fight It! Calculator**
+  - Panels/results remain single-column on narrow screens.
+  - Selects/text inputs become full-width 44px controls with 16px text to avoid mobile zoom.
+  - Checkboxes enlarged.
+  - Calculate button becomes full-width.
+  - Results/cards use tighter mobile spacing and larger readable text.
+- Shared Money/Fight It styling commit: `38560d6f37ceba9c267a6c3d811b4ba29b46edb6`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
