@@ -30,14 +30,14 @@ Cast jewelry begins with a wax form.
 
 The general process is:
 
-# Form the wax piece.
-# Create a clay mold from the wax form.
-# Bake the mold.
-# Smelt the required metal.
-# Cast the metal into the prepared mold.
-# Perform any additional recipe steps.
-# Optionally engrave the finished jewelry.
-# Optionally set compatible gemstones.
+1. Form the wax piece.
+2. Create a clay mold from the wax form.
+3. Bake the mold.
+4. Smelt the required metal.
+5. Cast the metal into the prepared mold.
+6. Perform any additional recipe steps.
+7. Optionally engrave the finished jewelry.
+8. Optionally set compatible gemstones.
 
 
 #### Forged Jewelry
@@ -46,11 +46,11 @@ Other jewelry is produced by working metal stock rather than pouring molten meta
 
 The exact steps depend upon the recipe and may involve:
 
-# Hot-working metal into the required stock.
-# Cold-working the stock into components.
-# Assembling components when required.
-# Engraving the finished piece, if supported.
-# Setting gemstones, if supported.
+1. Hot-working metal into the required stock.
+2. Cold-working the stock into components.
+3. Assembling components when required.
+4. Engraving the finished piece, if supported.
+5. Setting gemstones, if supported.
 
 
 #### Gem Cutting
@@ -59,10 +59,10 @@ Gem cutting is its own multi-step process.
 
 The general process is:
 
-# Layout the intended cut.
-# Rough cut the stone.
-# Shape the required facets.
-# Polish the finished gemstone.
+1. Layout the intended cut.
+2. Rough cut the stone.
+3. Shape the required facets.
+4. Polish the finished gemstone.
 
 Different cuts require different numbers of Rough Cut and Shape actions.
 
