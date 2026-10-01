@@ -664,8 +664,8 @@ html, body {
 
 .md-typeset table:not([class]) {
   width: auto;
-  min-width: max-content;
-  max-width: none;
+  min-width: 0;
+  max-width: 100%;
   margin: 0;
   font-size: .75rem;
   line-height: 1.45;
@@ -781,5 +781,24 @@ html, body {
     scroll-behavior: auto !important;
     transition: none !important;
     animation: none !important;
+  }
+}
+
+
+/* Let prose-heavy TEC tables wrap instead of becoming screen-width monsters. */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+.md-typeset table:not([class]) td:first-child,
+.md-typeset table:not([class]) th:first-child {
+  overflow-wrap: normal;
+}
+
+@media screen and (min-width: 60em) {
+  .md-typeset table:not([class]) {
+    min-width: min(100%, 32rem);
   }
 }
