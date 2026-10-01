@@ -169,7 +169,10 @@ def convert_anchor_tags(text):
 
 def convert_wrappers(text):
     text=re.sub(r"\[\[(?:div|span)\b[^\]]*\]\]","",text,flags=re.I)
-    return re.sub(r"\[\[/(?:div|span)\]\]","",text,flags=re.I)
+    text=re.sub(r"\[\[/(?:div|span)\]\]","",text,flags=re.I)
+    # Wikidot alignment wrappers such as [[>]] ... [[/>]] and [[=]] ... [[/=]].
+    text=re.sub(r"\[\[/?[<>=]\]\]","",text)
+    return text
 
 def convert_modules(text,warnings):
     paired=re.compile(r"\[\[module\s+([^\]]+)\]\](.*?)\[\[/module\]\]",re.I|re.S)
