@@ -147,8 +147,8 @@ For details on existing recipes, *see [the brewing chart](/herbalism-guide/#Brew
 
 > *brew glass*
  # Product	| Ingredients and Quantity
-# Lemon Juice | Yellow fruit with a thick peel  2
-# Rose Incense | Blossoming red flower 20
+Lemon Juice | Yellow fruit with a thick peel  2
+Rose Incense | Blossoming red flower 20
 Enter the number of the product you would like to brew.
 
  > *1*
