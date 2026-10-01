@@ -84,10 +84,11 @@ for path in sorted(DOCS.rglob("*.md")):
 
     # Strip fenced/code/script regions before looking for migration syntax.
     scrub = re.sub(r"(?ms)^~~~.*?^~~~\\s*$", "", c)
-    scrub = re.sub(r"(?ms)^\`\`\`.*?^\`\`\`\\s*$", "", scrub)
+    scrub = re.sub(r"(?ms)^```.*?^```\\s*$", "", scrub)
     scrub = re.sub(r"(?is)<script\\b.*?</script>", "", scrub)
 
-    if re.search(r"\\\\\\|\\\\\\||(?<!\\|)\\|\\|(?!=)", scrub):
+    plain = scrub.replace("\\\\|\\\\|", "")
+    if "||" in plain:
         issues.append("possible leftover Wikidot || table markup")
     if re.search(r"@<[^>]*>@", scrub):
         issues.append("leftover Wikidot escape markup")
@@ -106,7 +107,7 @@ for path in sorted(DOCS.rglob("*.md")):
     fenced = False
     for li, line in enumerate(c.splitlines(), 1):
         stripped = line.strip()
-        if stripped.startswith("~~~") or stripped.startswith("\`\`\`"):
+        if stripped.startswith("~~~") or stripped.startswith("```"):
             fenced = not fenced
             continue
         if not fenced and li - 1 != h1i and line.startswith("# "):
