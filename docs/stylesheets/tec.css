@@ -2541,3 +2541,29 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
     font-size: .95rem;
   }
 }
+
+
+/* MkDocs replacement for legacy Wikidot ListPages indexes. */
+.tec-listpages {
+  margin: .45rem 0 1rem;
+}
+
+.tec-listpages ul {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.tec-listpages li {
+  margin: .22rem 0;
+}
+
+.tec-listpages a {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.tec-listpages--empty {
+  color: #665f49;
+  font-style: italic;
+  font-size: .76rem;
+}
