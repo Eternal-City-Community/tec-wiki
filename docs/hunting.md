@@ -54,7 +54,7 @@ This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoo
 #### Notes on Learning
 * You can also use Skill Points (SP) from [Outdoor Survival](/outdoor-survival/) to learn Hunting.
 * When learning your first rank of Hunting using [GSP](/skills/#GSP), will also learn the [Deadfall Snares](#deadfall), [Basic Skinning](#skin) and [Pole Fishing](#cast) sub skills.
-* **@<**>@Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
+* **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
 
 
 ### Snaring
@@ -85,7 +85,7 @@ Sapling snares require a sapling and a rope. Setup in a way similar to a simple 
 Higher ranks in this skill allow you to create higher quality snares, which last for a longer period of time and are more likely to capture something, increasing your overall yield.
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -280,7 +280,7 @@ Difficulty: Easy
 Using a knife or other short blade, this skill allows you to craft clubs from branches and leg bones. Subsequent ranks in this skill will not only allow you to produce the clubs more easily, but will increase their quality dramatically. At 100 ranks, the user will be able to craft superior quality clubs with a high enough roll.
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -317,7 +317,7 @@ Difficulty: Average
 With a rib, antler, horn, or large fang in one hand, and a whet stone in another hand, allows you to craft a basic knife. To improve the quality of the knife, you should also have a piece of cordage or vine available, which will be used to wrap the handle.
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
@@ -348,7 +348,7 @@ Difficulty: Average
 Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or a leg bone and a whet stone. These materials will be used to create the main shaft of the axe. Additionally, requires one jawbone to form the blade of the axe and one piece of cordage to attach that blade to the shaft.
 
 
-<details>
+<details markdown="1">
 <summary>Show Rank Details</summary>
 
 
