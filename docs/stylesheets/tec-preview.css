@@ -1,0 +1,110 @@
+:root {
+  --tec-parchment: #e8ddb7;
+  --tec-parchment-light: #f2e9cb;
+  --tec-ink: #2b271d;
+  --tec-olive: #315f00;
+  --tec-line: #8d8659;
+}
+
+html, body {
+  margin: 0;
+  min-height: 100%;
+  background:
+    linear-gradient(rgba(235,222,178,.94), rgba(235,222,178,.94)),
+    url("/assets/wikidot/files/colosseum-690384.jpg") center top / cover fixed;
+  color: var(--tec-ink);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+body {
+  padding: 1rem 1.2rem 3rem;
+  font-size: 13px;
+  line-height: 1.52;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 400;
+  border-bottom: 1px solid rgba(108,119,61,.42);
+}
+
+h2 {
+  padding: .2rem .6rem;
+  background: var(--tec-olive);
+  color: #f0e7bf;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  font-size: 15px;
+}
+
+h3 {
+  color: #4a513b;
+  border-bottom: 1px solid var(--tec-line);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: 14px;
+}
+
+a {
+  color: #244a6b;
+}
+
+blockquote {
+  margin: .6rem 1rem;
+  padding: .65rem .85rem;
+  background: linear-gradient(rgba(247,239,207,.92), rgba(230,216,169,.92));
+  border: 1px solid #a79a67;
+  border-left: 4px solid #8b7a46;
+  border-radius: 4px;
+}
+
+table {
+  border-collapse: collapse;
+  max-width: 100%;
+  background: #404040;
+  color: #f2f2f2;
+  font-size: 12px;
+}
+
+th {
+  padding: .35rem .45rem;
+  background: #e4e2da;
+  color: #242424;
+  border: 1px solid #777;
+}
+
+td {
+  padding: .3rem .45rem;
+  border: 1px solid #575757;
+}
+
+td a {
+  color: #c9e3ff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+pre {
+  overflow-x: auto;
+  padding: .65rem;
+  background: #302f2b;
+  color: #f5f0dc;
+  border: 1px solid #545044;
+}
+
+.skill-template {
+  margin: .25rem 8% .75rem .25rem;
+  padding: .55rem .65rem;
+  color: white;
+  background: rgba(58,56,48,.92);
+  border: 1px dashed rgba(210,205,179,.6);
+  border-radius: 6px;
+  white-space: pre-line;
+}
