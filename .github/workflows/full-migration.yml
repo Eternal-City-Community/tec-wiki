@@ -36,5 +36,6 @@ jobs:
             echo "No changes."
           else
             git commit -m "Complete hardened Wikidot migration pass"
+            git pull --rebase origin main
             git push
           fi
