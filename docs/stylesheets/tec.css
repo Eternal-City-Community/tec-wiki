@@ -2008,3 +2008,13 @@ html, body {
   max-width: 100%;
   height: auto;
 }
+
+
+/* Multiple RB calculators created by the classic-style + control. */
+.tec-rb-stack {
+  display: grid;
+  gap: 14px;
+}
+.tec-rb-calculator-card {
+  margin: 0;
+}
