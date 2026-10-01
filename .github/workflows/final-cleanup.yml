@@ -1,0 +1,35 @@
+name: Final migration cleanup
+
+on:
+  push:
+    paths:
+      - "tools/final_cleanup.py"
+      - ".github/workflows/final-cleanup.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: python tools/final_cleanup.py
+      - run: python tools/full_site_audit.py
+      - name: Commit cleanup
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs FULL_SITE_AUDIT.md FULL_SITE_AUDIT.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Complete final migration cleanup"
+            git pull --rebase origin main
+            git push
+          fi
