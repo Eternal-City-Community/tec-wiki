@@ -293,6 +293,18 @@ User-reported issues and fixes on 2026-10-01:
   - Results/cards use tighter mobile spacing and larger readable text.
 - Shared Money/Fight It styling commit: `38560d6f37ceba9c267a6c3d811b4ba29b46edb6`
 
+
+
+### Mobile-friendly Shops pass
+
+- Treated `/shops/` as an interactive calculator/search tool and made the existing UI genuinely phone-friendly without changing inventory parsing, search behavior, prices, or data.
+- Search field now uses 16px text and a 44px touch target; Options becomes a full-width button on phones.
+- Shop search option checkboxes are larger and easier to tap.
+- Location links become a two-column touch-friendly grid (one column on very narrow screens).
+- Browse-mode shop cards use full width with tighter headers, readable item rows, and preserved item/price layout.
+- Search-mode results no longer force a 720px horizontal table on phones; each result becomes a stacked mobile card showing item, price, shop, and location.
+- Commit: `2a5f5cb227a1857e8d4cf5e5291ef3df73f7cf8c`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
