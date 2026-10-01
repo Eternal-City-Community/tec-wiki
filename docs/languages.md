@@ -41,16 +41,16 @@ Most languages are available to learn **within the [Library of Iridine](/library
 Learning a language is not *(mechanically)* difficult, but it can be a long and arduous pursuit. If you have poor mental [stats](/stats/), it can take many real-life months or even years to learn another language. *[You are also limited to 20 languages lesson attempts per day, making this process more about daily routine.]*
 
 
-# **Approach the desk attendant**: Once inside the library, type app desk to approach the library attendant.
-# **Ask about your language of choice**
- * Ask the attendant about "languages" to learn what is offered. Or, tell him the name of the language you would like to study and he will escort you to a language tutor.
- * The Library only teaches the "cultured" languages of Midlight, and you may learn about others during the course of your gameplay.
- * Only 1 person can learn from a tutor at a time, it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
-# **Study with your tutor:** When you are with your language tutor, they will say a phrase and you will need to repeat it using the 'echo <tutor>' command to earn language SP. With enough practice, you will gain enough proficiency to rank up in the language.
- * Skillpoint gain for languages is **unlike** other [skills](/skills/). You will automatically increase 1 rank in a language after you have earned 1 skill point for that practice.
- * Reaching rank 50 means you are fluent in the language.
-# **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
- * You can only attempt to **learn** from any tutor **20 times a *(real-life)* day**. After that, they'll inform you that they've taught you all they can for the day and escort you out.
+1. **Approach the desk attendant:** Once inside the library, type `app desk` to approach the library attendant.
+2. **Ask about your language of choice**
+   - Ask the attendant about "languages" to learn what is offered. Or, tell him the name of the language you would like to study and he will escort you to a language tutor.
+   - The Library only teaches the "cultured" languages of Midlight, and you may learn about others during the course of your gameplay.
+   - Only 1 person can learn from a tutor at a time; it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
+3. **Study with your tutor:** When you are with your language tutor, they will say a phrase and you will need to repeat it using the `echo <tutor>` command to earn language SP. With enough practice, you will gain enough proficiency to rank up in the language.
+   - Skill point gain for languages is **unlike** other [skills](/skills/). You will automatically increase 1 rank in a language after you have earned 1 skill point for that practice.
+   - Reaching rank 50 means you are fluent in the language.
+4. **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
+   - You can only attempt to **learn** from any tutor **20 times a *(real-life)* day**. After that, they'll inform you that they've taught you all they can for the day and escort you out.
 
 
 <a id="Success"></a>
@@ -81,9 +81,12 @@ By default, every character in Midlight speaks in the **common** tongue. If you'
 To **speak** in a language type 'speak <language>'. To switch back to the common tongue (normal) type 'speak **common**'
 
 Examples:
+
+```text
 speak Iridinian
 speak Altene
 speak Steps
+```
 
 #### Writing in Languages
 To **write** in a language, type 'write [ON] <what> [IN <language>]'.
@@ -94,12 +97,13 @@ To **write** in a language, type 'write [ON] <what> [IN <language>]'.
 Within the [Town of Rock Valley](/town-of-rock-valley/) lives the **Blackroot language** teacher. 
 
 Once outside the tutor's door:
-# **Knock on the door to enter.**
- * Only 1 person can learn from a tutor at a time, it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
-# **Study with your tutor:** When you are with a tutor, echo what he says ("echo man"). If you are successful, and with enough practice, you will gain some proficiency in the language.
- * Skill point gain for languages is unlike other skills. You will automatically rank up in languages after you have earned 1 skill point from your practice.
-# **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
- * You can only have 20 total lessons per day, regardless of which language you are studying.
+
+1. **Knock on the door to enter.**
+   - Only 1 person can learn from a tutor at a time; it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
+2. **Study with your tutor:** When you are with a tutor, echo what he says (`echo man`). If you are successful, and with enough practice, you will gain some proficiency in the language.
+   - Skill point gain for languages is unlike other skills. You will automatically rank up in languages after you have earned 1 skill point from your practice.
+3. **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
+   - You can only have 20 total lessons per day, regardless of which language you are studying.
 
 
 <a id="Kelestian"></a>
