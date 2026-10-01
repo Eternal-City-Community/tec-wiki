@@ -142,12 +142,22 @@ function initTecTopNav() {
       '</div></div>' +
     '</div>';
 
-  // Keep the TEC shortcut bar inside Material's sticky header so the masthead
-  // and shortcut bar behave as one stack at every scroll state/breakpoint.
-  header.appendChild(nav);
+  // Keep the TEC shortcut bar directly beneath Material's masthead row, but
+  // before the expandable search UI so opening search cannot push the nav down.
+  var headerInner = header.querySelector(".md-header__inner");
+  if (headerInner) {
+    headerInner.insertAdjacentElement("afterend", nav);
+  } else {
+    header.appendChild(nav);
+  }
 
   function syncHeaderStackHeight() {
-    document.documentElement.style.setProperty("--tec-header-stack-height", header.offsetHeight + "px");
+    var mastheadHeight = headerInner ? headerInner.offsetHeight : 0;
+    var navHeight = nav.offsetHeight || 0;
+    document.documentElement.style.setProperty(
+      "--tec-header-stack-height",
+      (mastheadHeight + navHeight + 10) + "px"
+    );
   }
 
   syncHeaderStackHeight();
