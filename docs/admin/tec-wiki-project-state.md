@@ -380,6 +380,16 @@ User-reported issues and fixes on 2026-10-01:
 - JS commit: `8c3da86f441303f94a7e14bdbd3b8a0ef34a34a9`
 - CSS commit: `b0cc21e113827317703cdc69c1991f29b9980951`
 
+
+
+### Search/top-nav stacking correction
+
+- After moving the TEC shortcut bar inside the sticky Material header, the expanded Material search UI could render beneath the green shortcut row.
+- Cause was a stacking-order conflict: `.tec-topnav` had a higher effective layer than the expanded search form/output in some responsive states.
+- Raised Material search/form/output above the TEC nav while leaving the nav/header layout unchanged.
+- Mobile search overlay/inner/output receive a higher overlay layer as well.
+- Commit: `93ace0df0954eea94f0c36d41b2b82e992d94c90`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
