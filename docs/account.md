@@ -1,7 +1,7 @@
 # Account
 
 <a id="AccountSub"></a>
-### [#](#AccountSub)Account Subscriptions
+### Account Subscriptions
 
 The Eternal City offers three account subscription levels. Find the one that best fits your needs and goals:
 
@@ -15,27 +15,24 @@ The Eternal City offers three account subscription levels. Find the one that bes
 | Convert [Skill Points](/skills/#SP) to [General Skill Points](/skills/#GSP) | ✓ | ✓ | ✓ |
 | Multiple accounts per IP address* |  | ✓ | ✓ |
 | **Free** Tier 1 [Veteran Characters](/veteran-characters/) |  |  | ✓ |
-|  |  |  |  |
 | [Role Points](#RolePoints) earned per hour ( base / max ) | 0 | 2.5 / 8 | 5 / 12 |
 | Accessible Character Slots** | 2 | 5 * | 10 |
 | [Role Point Purchases](#RolePointPurchases) | Limited | Reduced cost | Greatly reduced cost |
-|  |  |  | Monthly Rewards |
 | Monthly [StoryPoints](#Storypoints) Awarded | 0 | 0 | 50 |
 | Monthly [General Skill Points](/skills/#GSP) Received (per character) | 0 | 10 | 25 |
 | Monthly [Perk](#Perks) Received | None | 1 Basic Perk | 1 Premium Perk |
-|  |  |  | Cost (USD$) |
 | Monthly | Free | $12.95 | $29.95 |
 | Quarterly | Free | $34.95 (6% savings) | $79.95 (12% savings) |
 | Annually | Free | $129.95 (19% savings) | $299.95  (19% savings) |
 
-											
-*Restrictions regarding playing multiple accounts per player still apply.											
-@<**>@Only applies to **Basic** & **Premium** account subscription. Accounts with more than one character can use the @number-one command once to set a character in the first slot. "You must have created your account prior to 5/7/2010 to use the @number-one command."
+ 
+*Restrictions regarding playing multiple accounts per player still apply. 
+**Only applies to **Basic** & **Premium** account subscription. Accounts with more than one character can use the @number-one command once to set a character in the first slot. "You must have created your account prior to 5/7/2010 to use the @number-one command."
 *Accounts that are grandfathered from old system receive 6 instead of 5 character slots. 
 
 
 <a id="RolePoints"></a>
-### [#](#RolePoints)Role Points (RPs)
+### Role Points (RPs)
 
 Role Points (aka **RPs**, Role-Points or RolePoints) are out-of-character currencies that can be used to make purchases that enhance your in-character gameplay. Their use is not mandatory. To see how many RPs your account has, you can use the **@rps** command from the Welcome Area (WA) while not in-game.
 
@@ -59,56 +56,49 @@ You earn Role Points multiple ways; based on your play time, being visible on WH
 
 
 <a id="RolePointPurchases"></a>
-#### [#](#RolePointPurchases)Role Point Purchases
+#### Role Point Purchases
 Role Points can be used to change how **your character appears** cosmetically (e.g. custom description), change **your character's mechanics** (e.g. how many skills they can learn), to request a **custom in-game event** supported by the GMs and more.
 
 The cost of making purchases using Role Points (RPs) can vary based on your [account subscription level](/account/). Below is a list of all RP expenditure options with their varying costs.
 
 
 <a id="RP-Expenditure"></a>
-| size 110%Role Point Expenditure Description | size 110%Free | size 110%Basic | size 110%Premium | size 110%How to redeem |
+| Role Point Expenditure Description | Free | Basic | Premium | How to redeem |
 | --- | --- | --- | --- | --- |
-|  |  |  |  | Welcome Area |
 | [Creature Button](/rp-expenditure/#Creature) | 30 | 25 | 20 | Push "Big Red Button" in WA |
 | [Custom WA logout echo](/rp-expenditure/#logout) | N/A | 500 | 500 | @play |
 | Private Welcome Room area | N/A | N/A | 2,500 | @request |
-|  |  |  |  | Account |
 | [Playable NPCs](/rp-expenditure/#NPC) | N/A | 50 - 700 | 50 - 700 | @play |
 | [Exchange Character Order on Playlist](/rp-expenditure/#moveCharacter) | N/A | 500 | 250 | @play |
 | Retrieve deleted character | 500 | 500 | 500 | @play |
 | Extra character slot | N/A | 4,000 | 3,000 | @play |
 | [Veteran Character Package](/veteran-characters/) |  |  | Free - 100K | @play |
-|  |  |  |  | Character Items |
 | Recover sold/discarded item | 200 | 150 | 100 | retrieve command IG |
-| [Item Alteration](/customization-guide/#Alteration) | N/A | 500 | 250 | @request	*(see [Item Alterations](/customization-guide/#Alteration))* |
-| [Custom Roleplay Prop](/customization-guide/#Props) | N/A | 1,500+ | 1,000+ | @request	*(see [Custom Props](/customization-guide/#Props))* |
-| [Gear Alteration Package](/customization-guide/#gearAlteration) | N/A | 2,000 | 1,000 | @request	*(see [Custom Requests](/customization-guide/#gearAlteration))* |
-| [Superior Weapon Upgrade](/rp-expenditure/#superior) | N/A | 2,500 | 1,500 | @play	*(see [Custom Requests](/customization-guide/))* |
-| [Custom Item (armor/weapon/face cover)](/customization-guide/#CustomItems) | N/A | 3,000+ | 2,000+ | @request	*(see [Custom Item](/customization-guide/#CustomItems))* |
-|  |  |  |  | Character Cosmetics |
-| Mini/temporary makeover (48-hour) | 100 | 100 | 100 | @request	*(see [Custom Requests](/customization-guide/))* |
+| [Item Alteration](/customization-guide/#Alteration) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#Alteration))* |
+| [Custom Roleplay Prop](/customization-guide/#Props) | N/A | 1,500+ | 1,000+ | @request *(see [Custom Props](/customization-guide/#Props))* |
+| [Gear Alteration Package](/customization-guide/#gearAlteration) | N/A | 2,000 | 1,000 | @request *(see [Custom Requests](/customization-guide/#gearAlteration))* |
+| [Superior Weapon Upgrade](/rp-expenditure/#superior) | N/A | 2,500 | 1,500 | @play *(see [Custom Requests](/customization-guide/))* |
+| [Custom Item (armor/weapon/face cover)](/customization-guide/#CustomItems) | N/A | 3,000+ | 2,000+ | @request *(see [Custom Item](/customization-guide/#CustomItems))* |
+| Mini/temporary makeover (48-hour) | 100 | 100 | 100 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom scar | 350 | 250 | 200 | @play |
 | Custom speech pattern | N/A | N/A | 250 | @play |
-| Single feature makeover/tattoo | N/A | 750 | 500 | @request	*(see [Custom Requests](/customization-guide/))* |
-| [Character makeover](/customization-guide/#CharMakeover) <a id="CharMakeover"></a> | 2,000 | 1,500 | 1,000 | @request	*(see [Custom Requests](/customization-guide/))* |
-| Custom IG wakeup emote | N/A | N/A | 1,000 | @request	*(see [Custom Requests](/customization-guide/))* |
-| Custom IG Walk ("Siddhe stomps in from the west.") | N/A | N/A | 2,000 | @request	*(see [Custom Requests](/customization-guide/))* |
-| Custom IG Room Stance (“Senses slouches before you.”) | N/A | N/A | 2,000 | @request	*(see [Custom Requests](/customization-guide/))* |
-|  |  |  |  | Character Mechanics |
+| Single feature makeover/tattoo | N/A | 750 | 500 | @request *(see [Custom Requests](/customization-guide/))* |
+| [Character makeover](/customization-guide/#CharMakeover) <a id="CharMakeover"></a> | 2,000 | 1,500 | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
+| Custom IG wakeup emote | N/A | N/A | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
+| Custom IG Walk ("Siddhe stomps in from the west.") | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |
+| Custom IG Room Stance (“Senses slouches before you.”) | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Purchase [General Skill Points](/skills/#GSP) | N/A | 25 | 25 | @play OR @buy-gsp |
 | Additional Mark Point | 150 | 100 | 50 | @play |
 | Luck! Point | 150 | 150 | 100 | @play |
 | Rearrange Skill Slot | N/A | 250 | 250 | @play |
 | Additional Skill Slot ( 3rd / 4th / 5th / 6th & up ) | N/A |  | 250 / 500 / 1,000 / 1,250 | @play |
-| Custom tailor edging/pattern lore | N/A | N/A | 2,000 | @request	*(see [Custom Requests](/customization-guide/))* |
+| Custom tailor edging/pattern lore | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | [Attribute Potential Increase](/stats/) (10 points) | N/A | 1,000 | 1,000 | @play |
 | Change Character [Traits](/traits/) (Retrait) | 5,000 | 5,000 | 5,000 | @traits |
-|  |  |  |  | PvP |
 | [Coma](/pvp/#bone-break) | 250 | 250 | 250 | [See PvP info](/pvp/) |
 | [Bone Break](/pvp/#bone-break) | N/A | 250 | 250 | [See PvP info](/pvp/) |
 | [Branding/Scarring](/pvp/#bone-break) (GM Approval) | N/A | 1,000 | 1,000 | [See PvP info](/pvp/) |
 | [Cut Tongue](/pvp/#bone-break) (GM Approval) | N/A | 2,000 | 2,000 | [See PvP info](/pvp/) |
-|  |  |  |  | <a id="requests-property"></a> Property |
 | [Permanent Light Fixture](/rp-expenditure/#fixture) | N/A | N/A | 500 | @request |
 | [Room Alteration](/rp-expenditure/#alteration) | N/A | N/A | 500 | @request |
 | [Quick Keying Door](/rp-expenditure/#keying) | N/A | N/A | 1,000 | @request |
@@ -116,10 +106,8 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Additional NPC](/rp-expenditure/#npc) (for Stores & Club Houses) | N/A | N/A | 5,000 | @request |
 | [Store Package](/rp-expenditure/#store) | N/A | N/A | 10,000 | @request |
 | [Club House Package](/rp-expenditure/#club-house) | N/A | N/A | 15,000 | @request |
-|  |  |  |  | Pets |
 | Change pet's name | N/A | N/A | 500 | @request |
 | Pet makeover (cosmetic change) | N/A | 1,000 | 750 | @request |
-|  |  |  |  | Events |
 | Custom Event (GM Approval & Availability) | N/A | 3,000+ | 3,000+ | @request |
 
 For **detailed information on the above Role Point Expenditure** options, please see **[RP Expenditure](/rp-expenditure/)** page.
@@ -127,7 +115,7 @@ For more **information on Custom Requests**, please see the **[Customization Gui
 
 
 <a id="Storypoints"></a>
-### [#](#Storypoints)StoryPoints (StPs)
+### StoryPoints (StPs)
 StoryPoints (story-points/StPs) are out-of-character currencies that can be used to make purchases that enhance your in-character gameplay. Their use is not mandatory. To see how many StPs your account has, you can use the **@storypoints** command.
 
 #### Obtaining StoryPoints
@@ -147,7 +135,7 @@ StoryPoints (story-points/StPs) are out-of-character currencies that can be used
 | Premium | 250 | $124.75 | $0.499 |
 
 <a id="StoryPointPurchases"></a>
-#### [#](#StoryPointPurchases)StoryPoint Purchases
+#### StoryPoint Purchases
 Your ability to make purchases with StoryPoints varies based on your [account subscription](/account/). All purchases are made using the **@play** command within the Welcome Area (WA).
 
 | StoryPoint (StP) Expenditure Option | StP Cost | How It Works |
@@ -197,7 +185,7 @@ Vetallun Insula Apartment Pricing
 * Features: Includes a culina, triclinium, cubiculum, and balcony room. Permanent lighting included.
 
 <a id="Perks"></a>
-### [#](#Perks)Perks
+### Perks
 Paid accounts receive a usable gift on the 1st of every month, referred to as a ***Perk***. These perks can be accessed through the **@perks** menu from the Welcome Area (WA). 
 
 
