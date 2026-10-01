@@ -8,7 +8,8 @@
     "binding": "ASSETS",
     "run_worker_first": [
       "/auth",
-      "/callback"
+      "/callback",
+      "/api/*"
     ]
   }
 }
