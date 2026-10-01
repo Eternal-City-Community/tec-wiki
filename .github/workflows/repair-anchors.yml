@@ -1,0 +1,36 @@
+name: Repair internal anchors
+
+on:
+  push:
+    paths:
+      - "tools/repair_internal_anchors.py"
+      - ".github/workflows/repair-anchors.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Repair internal anchors
+        run: python tools/repair_internal_anchors.py
+      - name: Commit repaired links
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs ANCHOR_REPAIR_REPORT.md ANCHOR_REPAIR_REPORT.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Repair migrated internal anchors"
+            git pull --rebase origin main
+            git push
+          fi
