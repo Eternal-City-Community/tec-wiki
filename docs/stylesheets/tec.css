@@ -1208,3 +1208,23 @@ html, body {
   display: inline-block;
   margin-left: .65rem;
 }
+
+
+/* Embedded interactive wiki tools */
+.tec-tool-frame {
+  display: block;
+  width: 100%;
+  border: 0;
+  background: transparent;
+}
+.tec-rb-frame {
+  min-height: 560px;
+  height: 72vh;
+  max-height: 760px;
+}
+@media (max-width: 700px) {
+  .tec-rb-frame {
+    min-height: 680px;
+    height: 82vh;
+  }
+}
