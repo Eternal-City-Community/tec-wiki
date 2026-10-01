@@ -5,8 +5,14 @@ category: "Guides & Commands"
 
 # Account
 
+<div class="tec-account-jump" markdown="1">
+
+**Jump to:** [Account Subscriptions](#AccountSub) · [Role Points](#RolePoints) · [StoryPoints](#Storypoints) · [Apartments](#Apartments) · [Perks](#Perks)
+
+</div>
+
 <a id="AccountSub"></a>
-### Account Subscriptions
+## Account Subscriptions
 
 The Eternal City offers three account subscription levels. Find the one that best fits your needs and goals:
 
@@ -37,7 +43,7 @@ The Eternal City offers three account subscription levels. Find the one that bes
 
 
 <a id="RolePoints"></a>
-### Role Points (RPs)
+## Role Points (RPs)
 
 Role Points (aka **RPs**, Role-Points or RolePoints) are out-of-character currencies that can be used to make purchases that enhance your in-character gameplay. Their use is not mandatory. To see how many RPs your account has, you can use the **@rps** command from the Welcome Area (WA) while not in-game.
 
@@ -105,8 +111,12 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Bone Break](/pvp/#bone-break) | N/A | 250 | 250 | [See PvP info](/pvp/) |
 | [Branding/Scarring](/pvp/#bone-break) (GM Approval) | N/A | 1,000 | 1,000 | [See PvP info](/pvp/) |
 | [Cut Tongue](/pvp/#bone-break) (GM Approval) | N/A | 2,000 | 2,000 | [See PvP info](/pvp/) |
-<a id="requests-property"></a>
 
+<a id="requests-property"></a>
+##### Property, Pet, and Event Requests
+
+| Role Point Expenditure Description | Free | Basic | Premium | How to redeem |
+| --- | --- | --- | --- | --- |
 | [Permanent Light Fixture](/rp-expenditure/#fixture) | N/A | N/A | 500 | @request |
 | [Room Alteration](/rp-expenditure/#alteration) | N/A | N/A | 500 | @request |
 | [Quick Keying Door](/rp-expenditure/#keying) | N/A | N/A | 1,000 | @request |
@@ -123,7 +133,7 @@ For more **information on Custom Requests**, please see the **[Customization Gui
 
 
 <a id="Storypoints"></a>
-### StoryPoints (StPs)
+## StoryPoints (StPs)
 StoryPoints (story-points/StPs) are out-of-character currencies that can be used to make purchases that enhance your in-character gameplay. Their use is not mandatory. To see how many StPs your account has, you can use the **@storypoints** command.
 
 #### Obtaining StoryPoints
@@ -157,7 +167,7 @@ Your ability to make purchases with StoryPoints varies based on your [account su
 
 <a id="Apartments"></a>
 ## Apartments
-### Monlon
+### Monlon Apartments
 2-Room Apartment
 * Price: 3000 rps and 300t or 650 storypoints
 * Features: Includes a balcony -or- triclinium and cubiculum depending on location. Permanent lighting included.
@@ -172,7 +182,7 @@ Your ability to make purchases with StoryPoints varies based on your [account su
 * Price: 5000 rps and 650t or 850 storypoints
 * Features: Includes a culina, triclinium, cubiculum, and special room (library, balcony, or or storage room). Permanent lighting included.
 
-### Rock Valley
+### Rock Valley Apartments
 **2-Room Apartment:** 
 * Price:5000 rps & 250t
 **3-Room Apartment:** 
@@ -180,7 +190,7 @@ Your ability to make purchases with StoryPoints varies based on your [account su
 **4-Room Apartment:** 
 * Price: 7000 rps & 500t
 
-### Vetullan
+### Vetallun Apartments
 Vetallun Insula Apartment Pricing
 **2-Room Apartment**
 * Price: 5000 rps &amp; 200t or 250 storypoints
@@ -193,7 +203,7 @@ Vetallun Insula Apartment Pricing
 * Features: Includes a culina, triclinium, cubiculum, and balcony room. Permanent lighting included.
 
 <a id="Perks"></a>
-### Perks
+## Perks
 Paid accounts receive a usable gift on the 1st of every month, referred to as a ***Perk***. These perks can be accessed through the **@perks** menu from the Welcome Area (WA). 
 
 
