@@ -34,8 +34,8 @@ Most leatherworking projects are completed through a series of recipes. Individu
 
 <a id="Recipes"></a>
 
-<details>
-<summary>+ Show Tailoring Recipes</summary>
+<details markdown="1">
+<summary>+ Show Leatherworking Recipes</summary>
 
 
 |  | Leatherworking Recipes |  | Ranks Taught by Trainer |
