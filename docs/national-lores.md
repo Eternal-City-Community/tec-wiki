@@ -5,7 +5,6 @@ category: "Reference"
 
 # National Lores
 
-<div class="national-lores-page">
 
 ## Aestivan League
 #### Aestiva Surveyor Lore
@@ -269,4 +268,3 @@ The island of Windward has an expansive coastline, rich with the bounty of the s
 
 
 Usage: cast <pole>
-</div>
