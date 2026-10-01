@@ -1,0 +1,31 @@
+name: Organize CMS pages
+
+on:
+  push:
+    paths:
+      - ".github/workflows/organize-cms.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: python tools/categorize_cms_pages.py
+      - name: Commit categories
+        run: |
+          git config user.name "tec-wiki-cms"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "No category changes."
+          else
+            git commit -m "Add CMS categories to wiki pages"
+            git pull --rebase origin main
+            git push
+          fi
