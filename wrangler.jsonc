@@ -12,5 +12,8 @@
       "/api/*",
       "/admin/config.yml"
     ]
+  },
+  "build": {
+    "command": "zensical build --clean"
   }
 }
