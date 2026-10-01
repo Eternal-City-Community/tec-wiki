@@ -11,6 +11,7 @@ TICK = chr(96)
 
 link_re = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
 heading_re = re.compile(r'^(#{1,6})\s+(.+?)\s*#*\s*$')
+html_id_re = re.compile(r'<a\s+id=["\']([^"\']+)["\']\s*></a>', re.I)
 
 def strip_inline(text):
     text = re.sub(r'\[(.*?)\]\([^)]*\)', r'\1', text)
@@ -39,23 +40,31 @@ def is_fence(line):
 def load_page(path):
     text = path.read_text(encoding="utf-8", errors="replace")
     headings = []
+    explicit = {}
     fenced = False
+
     for i, line in enumerate(text.splitlines(), 1):
         if is_fence(line):
             fenced = not fenced
             continue
         if fenced:
             continue
+
+        for m in html_id_re.finditer(line):
+            explicit[m.group(1).lower()] = m.group(1)
+
         m = heading_re.match(line)
         if m:
             title = strip_inline(m.group(2))
+            slug = slugify(title)
             headings.append({
                 "title": title,
-                "slug": slugify(title),
+                "slug": slug,
                 "norm": norm(title),
                 "line": i,
             })
-    return text, headings
+
+    return text, headings, explicit
 
 pages = {}
 for path in sorted(DOCS.rglob("*.md")):
@@ -63,74 +72,44 @@ for path in sorted(DOCS.rglob("*.md")):
     if rel.parts and rel.parts[0] in SKIP_DIRS:
         continue
     slug = rel.as_posix()[:-3]
-    text, headings = load_page(path)
-    pages[slug] = {"path": path, "text": text, "headings": headings}
+    text, headings, explicit = load_page(path)
+    pages[slug] = {
+        "path": path,
+        "text": text,
+        "headings": headings,
+        "explicit": explicit,
+    }
 
-def resolve_target(current_slug, href, label):
-    if href == "#":
-        return "#", "already-top"
-
-    if href.startswith("#"):
-        target_slug = current_slug
-        old_anchor = href[1:]
-        prefix = ""
-    else:
-        m = re.match(r'^/([^?#]+)/#([^?#]+)$', href)
-        if not m:
-            return None, "not-anchor-link"
-        target_slug = m.group(1).strip("/")
-        old_anchor = m.group(2)
-        prefix = "/" + target_slug + "/"
-
+def resolve_fragment(target_slug, old_anchor, label):
     target = pages.get(target_slug)
     if not target:
-        return None, "missing-target-page"
+        return None, "missing-page"
 
-    headings = target["headings"]
-    if not headings:
-        return None, "no-headings"
+    low = old_anchor.lower()
 
-    old_n = norm(old_anchor)
+    if low in target["explicit"]:
+        return target["explicit"][low], "explicit-anchor"
+
+    for h in target["headings"]:
+        if h["slug"].lower() == low:
+            return h["slug"], "heading-exact"
+
     label_n = norm(label)
+    exact = [h for h in target["headings"] if label_n and h["norm"] == label_n]
+    if len(exact) == 1:
+        return exact[0]["slug"], "label-exact"
 
-    for h in headings:
-        if h["slug"].lower() == old_anchor.lower():
-            return prefix + "#" + h["slug"], "exact"
-
-    exact_label = [h for h in headings if label_n and h["norm"] == label_n]
-    if len(exact_label) == 1:
-        return prefix + "#" + exact_label[0]["slug"], "label-exact"
-
-    anchor_matches = [h for h in headings if old_n and (h["norm"] == old_n or old_n in h["norm"])]
-    if len(anchor_matches) == 1:
-        return prefix + "#" + anchor_matches[0]["slug"], "anchor-contained"
-
-    label_matches = [h for h in headings if label_n and (label_n in h["norm"] or h["norm"] in label_n)]
-    if len(label_matches) == 1:
-        return prefix + "#" + label_matches[0]["slug"], "label-contained"
-
-    words = [w for w in re.findall(r'[a-z0-9]+', strip_inline(label).lower()) if len(w) > 2]
-    if words:
-        scored = []
-        for h in headings:
-            hw = set(re.findall(r'[a-z0-9]+', h["title"].lower()))
-            score = sum(1 for w in words if w in hw)
-            if score:
-                scored.append((score, h))
-        if scored:
-            best = max(s for s, _ in scored)
-            winners = [h for s, h in scored if s == best]
-            if best >= max(1, len(words) - 1) and len(winners) == 1:
-                return prefix + "#" + winners[0]["slug"], "token-match"
-
-    return None, "ambiguous"
+    return None, "no-safe-target"
 
 report = {
     "pages_scanned": len(pages),
-    "links_changed": 0,
     "pages_changed": 0,
+    "links_changed": 0,
     "back_to_top_fixed": 0,
-    "unresolved": [],
+    "same_page_dead_links_removed": 0,
+    "cross_page_fragments_dropped": 0,
+    "fragment_case_normalized": 0,
+    "unresolved_missing_pages": [],
     "methods": {},
 }
 
@@ -155,25 +134,51 @@ for current_slug, info in pages.items():
             if label.strip().lower() in {"back to top", "back to top."} and href.startswith("#"):
                 report["links_changed"] += 1
                 report["back_to_top_fixed"] += 1
-                report["methods"]["back-to-top"] = report["methods"].get("back-to-top", 0) + 1
                 return f'[{label}](#)'
 
-            new_href, method = resolve_target(current_slug, href, label)
-            if new_href is None:
-                if href.startswith("#") or re.match(r'^/[^?#]+/#', href):
-                    report["unresolved"].append({
+            if href.startswith("#"):
+                old_anchor = href[1:]
+                resolved, method = resolve_fragment(current_slug, old_anchor, label)
+                if resolved:
+                    new_href = "#" + resolved
+                    if new_href != href:
+                        report["links_changed"] += 1
+                        report["fragment_case_normalized"] += 1
+                        report["methods"][method] = report["methods"].get(method, 0) + 1
+                        return f'[{label}]({new_href})'
+                    return m.group(0)
+
+                report["links_changed"] += 1
+                report["same_page_dead_links_removed"] += 1
+                return label
+
+            cm = re.match(r'^/([^?#]+)/#([^?#]+)$', href)
+            if cm:
+                target_slug = cm.group(1).strip("/")
+                old_anchor = cm.group(2)
+                if target_slug not in pages:
+                    report["unresolved_missing_pages"].append({
                         "page": current_slug + ".md",
                         "line": line_no,
-                        "label": label,
                         "href": href,
-                        "reason": method,
+                        "label": label,
                     })
-                return m.group(0)
+                    return m.group(0)
 
-            if new_href != href:
+                resolved, method = resolve_fragment(target_slug, old_anchor, label)
+                if resolved:
+                    new_href = "/" + target_slug + "/#" + resolved
+                    if new_href != href:
+                        report["links_changed"] += 1
+                        report["fragment_case_normalized"] += 1
+                        report["methods"][method] = report["methods"].get(method, 0) + 1
+                        return f'[{label}]({new_href})'
+                    return m.group(0)
+
                 report["links_changed"] += 1
-                report["methods"][method] = report["methods"].get(method, 0) + 1
-                return f'[{label}]({new_href})'
+                report["cross_page_fragments_dropped"] += 1
+                return f'[{label}](/' + target_slug + '/)'
+
             return m.group(0)
 
         out.append(link_re.sub(repl, line))
@@ -193,24 +198,24 @@ md = [
     "",
     f"- Pages scanned: **{report['pages_scanned']}**",
     f"- Pages changed: **{report['pages_changed']}**",
-    f"- Links repaired: **{report['links_changed']}**",
+    f"- Links safely changed: **{report['links_changed']}**",
     f"- Back-to-top links repaired: **{report['back_to_top_fixed']}**",
-    f"- Unresolved anchor links: **{len(report['unresolved'])}**",
+    f"- Dead same-page fragment links converted to text: **{report['same_page_dead_links_removed']}**",
+    f"- Dead cross-page fragments reduced to page links: **{report['cross_page_fragments_dropped']}**",
+    f"- Existing anchors normalized/repaired: **{report['fragment_case_normalized']}**",
+    f"- Links to missing pages left untouched: **{len(report['unresolved_missing_pages'])}**",
     "",
-    "## Resolution methods",
+    "## Exact resolution methods",
 ]
 for method, count in sorted(report["methods"].items()):
     md.append(f"- {method}: **{count}**")
 
-md += ["", "## Unresolved"]
-if report["unresolved"]:
-    for item in report["unresolved"]:
-        md.append(
-            f"- {item['page']}:{item['line']} — [{item['label']}]({item['href']}) ({item['reason']})"
-        )
+md += ["", "## Missing target pages left untouched"]
+if report["unresolved_missing_pages"]:
+    for item in report["unresolved_missing_pages"]:
+        md.append(f"- {item['page']}:{item['line']} — {item['label']} -> {item['href']}")
 else:
     md.append("- None")
 
 Path("ANCHOR_REPAIR_REPORT.md").write_text("\n".join(md) + "\n", encoding="utf-8")
-
 print(json.dumps(report, indent=2))
