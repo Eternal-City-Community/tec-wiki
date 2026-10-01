@@ -402,6 +402,25 @@ User-reported issues and fixes on 2026-10-01:
 - JS commit: `3fe7a248f9f693d8fe6123d8c6389b537c346a71`
 - CSS commit: `930f59ce8ba99310388cd8f74575e14abb17426c`
 
+
+
+### Account page table repair and section redesign
+
+- User reported one broken table on `/account/` and that the major account topics blended together visually.
+- Broken table root cause: the Role Point Expenditure table was interrupted by the `requests-property` anchor; the following property/pet/event rows had no Markdown table header/separator, so they rendered incorrectly.
+- Repaired that portion as a deliberate second table with the same five columns and a **Property, Pet, and Event Requests** subheading.
+- Promoted the five major topics to consistent H2 sections:
+  - Account Subscriptions
+  - Role Points
+  - StoryPoints
+  - Apartments
+  - Perks
+- Added a compact jump navigation at the top linking directly to all five topics.
+- Added account-specific section styling so H2 topics have a distinct band/divider treatment, subtopics are easier to scan, and mobile spacing remains readable.
+- Clarified apartment subheadings as Monlon Apartments / Rock Valley Apartments / Vetallun Apartments without changing mechanics or prices.
+- Page commit: `5032cbd6a726a151621c21df92c8fc2fe21d3b39`
+- CSS commit: `6e051ebc362d12f21c2d7e1d3baa83fce6b969e4`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
