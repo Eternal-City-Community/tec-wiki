@@ -1,0 +1,533 @@
+# TEC Wiki migration audit
+
+- Markdown pages scanned: **854**
+- Pages containing migration placeholders: **365**
+- Migrated include placeholders: **47**
+- Dynamic Wikidot placeholders: **25**
+- Other migration-note markers: **320**
+- Pages still containing direct eternal-city.wikidot.com links: **70**
+- Unique unresolved internal links: **153**
+
+## Unresolved internal links
+
+- `aestivan-history.md` → `/general-narisse/`
+- `aestivan-history.md` → `/sordo-calsuan/`
+- `aestivan-history.md` → `/valstaron-martius/`
+- `aestivan-league.md` → `/general-narisse/`
+- `aestivan-league.md` → `/sordo-calsuan/`
+- `aestivan-league.md` → `/valstaron-martius/`
+- `archery-guide.md` → `/http_-forum.skotos.net-forum-our-games-the-eternal-city-eternal-city-staff-news-84501-bug-fixes-p-1733694/#post1733694`
+- `archery-guide.md` → `/http_-forum.skotos.net-forum-our-games-the-eternal-city-the-eternal-city-mechanics-1730989-footshot-p-1733709/#post1733709`
+- `battle-of-the-legion-of-oaks.md` → `/valstaron-martius/`
+- `bio_valstaron-martius.md` → `/the-march-of-martius/`
+- `chainblade.md` → `/chainblade-guide/`
+- `cinerans-assault-the-city-of-monlon.md` → `/general-narisse/`
+- `cinerans-assault-the-city-of-monlon.md` → `/grey-swans/`
+- `cinerans-assault-the-city-of-monlon.md` → `/sordo-calsuan/`
+- `cinerans-assault-the-city-of-monlon.md` → `/warlord-juxta/`
+- `city-of-monlon.md` → `/bio_cascar-olgulan/`
+- `dual-daggers.md` → `/dual-daggers-combat-guide/`
+- `enemy-guide.md` → `/full-enemy-list/`
+- `hg-signal-tower-island.md` → `/pearl-diving/`
+- `hg_monlon-battlefields.md` → `/slings/`
+- `historic-map-marnevel.md` → `/historic-map-marnevel-franlius/`
+- `history.md` → `/bio_altaran-calsuan/`
+- `history.md` → `/bio_general-narisse/`
+- `history.md` → `/bio_oman-anande/`
+- `history.md` → `/bio_septum-anande/`
+- `history.md` → `/black-wolves/`
+- `hunting-grounds.md` → `/hg-blackvine-forest/`
+- `hunting-grounds.md` → `/hg-rock-valley-attic/`
+- `hunting-grounds.md` → `/hg-rock-valley-critter-alley/`
+- `hunting-grounds.md` → `/hg-rock-valley-forests/`
+- `hunting-grounds.md` → `/hg-steps-gardens/`
+- `hunting-grounds.md` → `/hg-swamp-vale/`
+- `hunting-grounds.md` → `/hg-the-salinae-swamp/`
+- `hunting-grounds.md` → `/hg_monlon-catacombs/`
+- `kelestia.md` → `/codex_nature_of_souls/`
+- `kelestia.md` → `/slings/`
+- `kelestian-outpost.md` → `/slings/`
+- `latest-updates.md` → `/slings/`
+- `library-archive.md` → `/aoden_hunting_guide/`
+- `library-archive.md` → `/codex_adventurer_guide_rock_valley/`
+- `library-archive.md` → `/codex_aernus_dolnor/`
+- `library-archive.md` → `/codex_assemble_nehal_lore/`
+- `library-archive.md` → `/codex_astrology_233_to_235/`
+- `library-archive.md` → `/codex_badger_guide_monlon/`
+- `library-archive.md` → `/codex_birthstone_meanings/`
+- `library-archive.md` → `/codex_bridge_of_feysal/`
+- `library-archive.md` → `/codex_crimson_coast/`
+- `library-archive.md` → `/codex_elsana_guide/`
+- `library-archive.md` → `/codex_founding_of_the_league/`
+- `library-archive.md` → `/codex_gardens_of_iridine/`
+- `library-archive.md` → `/codex_gol_poems_of_love/`
+- `library-archive.md` → `/codex_great_leviathan_iridine/`
+- `library-archive.md` → `/codex_histories_of_altene_vol1/`
+- `library-archive.md` → `/codex_iudicium_digestae1/`
+- `library-archive.md` → `/codex_iudicium_digestae2/`
+- `library-archive.md` → `/codex_kimalei_poems/`
+- `library-archive.md` → `/codex_kyi_impromptu/`
+- `library-archive.md` → `/codex_kyi_life_limericks/`
+- `library-archive.md` → `/codex_life_of_breven/`
+- `library-archive.md` → `/codex_lupatrus/`
+- `library-archive.md` → `/codex_medicinal_plants/`
+- `library-archive.md` → `/codex_miri_wild_poems/`
+- `library-archive.md` → `/codex_nature_of_souls/`
+- `library-archive.md` → `/codex_peitho_prayers_and_devotions/`
+- `library-archive.md` → `/codex_peitho_song_vol1/`
+- `library-archive.md` → `/codex_peitho_song_vol2/`
+- `library-archive.md` → `/codex_peitho_song_vol3/`
+- `library-archive.md` → `/codex_poems_of_altene_rose/`
+- `library-archive.md` → `/codex_real_heroes_hyriul/`
+- `library-archive.md` → `/codex_ridder_kiht/`
+- `library-archive.md` → `/codex_sagitum_triarii_vol1/`
+- `library-archive.md` → `/codex_sepuricus_meditations/`
+- `library-archive.md` → `/codex_style_of_avros/`
+- `library-archive.md` → `/codex_tailor_guide_to_fashion/`
+- `library-archive.md` → `/codex_tailor_guide_to_fighting/`
+- `library-archive.md` → `/codex_the_body_brawling_book/`
+- `library-archive.md` → `/codex_varrus_reports/`
+- `library-archive.md` → `/codex_vetallun_and_west_grasslands/`
+- `library-archive.md` → `/codex_vinian_quartz/`
+- `library-archive.md` → `/codex_warrior_spirit/`
+- `library-archive.md` → `/journey_rock_valley/`
+- `library-archive.md` → `/lib_ephemeris_1/`
+- `library-archive.md` → `/lib_ephemeris_2/`
+- `library-archive.md` → `/official_account_age_of_kings/`
+- `library-archive.md` → `/official_ravan_helia_story_pascal/`
+- `library-archive.md` → `/scroll_anonymous_poem/`
+- `library-archive.md` → `/scroll_ardinia_the_crypt/`
+- `library-archive.md` → `/scroll_asking_for_justice/`
+- `library-archive.md` → `/scroll_death_of_olethea/`
+- `library-archive.md` → `/scroll_fauna_lingkius/`
+- `library-archive.md` → `/scroll_former_acolyte_notes/`
+- `library-archive.md` → `/scroll_funeral_jalian_triarchus/`
+- `library-archive.md` → `/scroll_how_do_i_name_stupid/`
+- `library-archive.md` → `/scroll_legend_of_aestivan/`
+- `library-archive.md` → `/scroll_parcines_people/`
+- `library-archive.md` → `/scroll_poem_for_faith/`
+- `library-archive.md` → `/scroll_practice_of_law/`
+- `library-archive.md` → `/scroll_remathen_tea_mastery/`
+- `library-archive.md` → `/scroll_rescue_of_tyrlindax/`
+- `library-archive.md` → `/scroll_sack_of_rock_valley/`
+- `library-archive.md` → `/scroll_senate_examines_barbarian/`
+- `library-archive.md` → `/scroll_soldiers_of_ereal_return/`
+- `library-archive.md` → `/scroll_synodia_case/`
+- `library-archive.md` → `/scroll_talena_death_upon_the_rock/`
+- `library-archive.md` → `/scroll_thousand_times_for_1/`
+- `library-archive.md` → `/scroll_varrus_reports/`
+- `library-archive.md` → `/scroll_vestis_formatae_charter/`
+- `library-archive.md` → `/scroll_victory_by_kale/`
+- `library-archive.md` → `/scroll_war_turning_point_japes/`
+- `library-archive.md` → `/scrolls_cair_coradon/`
+- `library-archive.md` → `/text_blackvine_bank_robbery/`
+- `library-archive.md` → `/way_of_bright_hope/`
+- `macros.md` → `/http_-eternal-city.wikidot.com-useful-macros-for-thieves/`
+- `macros.md` → `/http_-forum.skotos.net-forum-our-games-the-eternal-city-eternal-city-administrivia-94023-macro-s-for-zealotry/`
+- `macros.md` → `/http_-tec.skotos.net_1180-bin-help-help_commands_macros/`
+- `monlon-invasion.md` → `/slings/`
+- `newbie-guides.md` → `/how-to-create-a-backstory/`
+- `newbie-guides.md` → `/national-bonuses/`
+- `newbie-money-guide.md` → `/alleys/`
+- `orgs.md` → `/quaesitus-monitor/`
+- `pvp.md` → `/http_-forum.skotos.net-forum-our-games-the-eternal-city-eternal-city-staff-news-79385-minor-changes-p-1452875/#post1452875`
+- `pvp.md` → `/http_-forum.skotos.net-forum-our-games-the-eternal-city-eternal-city-staff-news-79385-minor-changes-p-1468480/#post1468480`
+- `religion.md` → `/official_ravan_helia_story_pascal/`
+- `reputation.md` → `/slings/`
+- `shops-old.md` → `/harbour-south/`
+- `shops-old.md` → `/iridine-forum/`
+- `shops-old.md` → `/sandbar-west/`
+- `shops-old.md` → `/transinvexium-west/`
+- `site-index.md` → `/jurisdictions/`
+- `site-index.md` → `/legal-system/`
+- `site-index.md` → `/nations/`
+- `site-index.md` → `/time-and-dates/`
+- `skills.md` → `/slings/`
+- `stats.md` → `/http_-forum.skotos.net-forum-our-games-the-eternal-city-the-eternal-city-mechanics-1720813-attribute-caps-p-1721016/#post1721016`
+- `the-funeral-of-jalian-triarchus.md` → `/bio_astri/`
+- `the-funeral-of-jalian-triarchus.md` → `/bio_jalian-triarchus/`
+- `the-murder-of-jalian-triarchus.md` → `/bio_celeres-illryia/`
+- `the-murder-of-jalian-triarchus.md` → `/bio_jalian-triarchus/`
+- `the-murder-of-jalian-triarchus.md` → `/lucian-allende/`
+- `the-way-of-the-thief.md` → `/national-bonuses/`
+- `tralius-allende.md` → `/valstaron-martius/`
+- `two-handed-crushing.md` → `/two-handed-crushing-guide/`
+- `v3_homepage.md` → `/hg-black-hand-caves/`
+- `v3_homepage.md` → `/your-account/`
+- `village-of-blackvine.md` → `/bio_mortarian-santum/`
+- `village-of-blackvine.md` → `/bio_sedivain-oradanae/`
+- `war-with-cinera-aestiva.md` → `/cineran-factions/`
+- `war-with-cinera-aestiva.md` → `/general-narisse/`
+- `war-with-cinera-aestiva.md` → `/grey-swans/`
+- `war-with-cinera-aestiva.md` → `/orasca-calsuan/`
+- `war-with-cinera-aestiva.md` → `/sordo-calsuan/`
+- `war-with-cinera-aestiva.md` → `/tivarrus/`
+- `war-with-cinera-aestiva.md` → `/warlord-kars/`
+
+## Pages requiring migration review
+
+- `announcements.md`
+- `bio_abicus.md`
+- `bio_abramus.md`
+- `bio_actavious.md`
+- `bio_aeryll.md`
+- `bio_aescapes.md`
+- `bio_aestro.md`
+- `bio_afrodiziak.md`
+- `bio_albius-anande.md`
+- `bio_alexandra.md`
+- `bio_alexxandria.md`
+- `bio_alisha.md`
+- `bio_alivian.md`
+- `bio_alriic.md`
+- `bio_alurea.md`
+- `bio_amarad.md`
+- `bio_amarian.md`
+- `bio_amarieux.md`
+- `bio_amorine.md`
+- `bio_amose.md`
+- `bio_antequides.md`
+- `bio_antonisus.md`
+- `bio_appolus.md`
+- `bio_aragoth.md`
+- `bio_arec.md`
+- `bio_arinu.md`
+- `bio_arutha.md`
+- `bio_ashen.md`
+- `bio_athaliah.md`
+- `bio_atua.md`
+- `bio_auril.md`
+- `bio_avril.md`
+- `bio_bacillum.md`
+- `bio_baiae.md`
+- `bio_balderon.md`
+- `bio_bandi.md`
+- `bio_bawtun.md`
+- `bio_baylii.md`
+- `bio_belle.md`
+- `bio_benignus.md`
+- `bio_bernard-tubero.md`
+- `bio_bjergar.md`
+- `bio_bobith.md`
+- `bio_brask.md`
+- `bio_brison.md`
+- `bio_callisto.md`
+- `bio_capwinius.md`
+- `bio_carl.md`
+- `bio_carlos.md`
+- `bio_carnseth.md`
+- `bio_caucus.md`
+- `bio_celionus.md`
+- `bio_cerebrus.md`
+- `bio_chaos.md`
+- `bio_chasm.md`
+- `bio_chera.md`
+- `bio_cheraa.md`
+- `bio_chitsa.md`
+- `bio_chrall.md`
+- `bio_cinerio.md`
+- `bio_cladius.md`
+- `bio_co.md`
+- `bio_commensus.md`
+- `bio_connea.md`
+- `bio_corran.md`
+- `bio_corvus.md`
+- `bio_cyanicus.md`
+- `bio_dacanor.md`
+- `bio_dahkneth.md`
+- `bio_damion.md`
+- `bio_danasei.md`
+- `bio_dantius.md`
+- `bio_darie-allende.md`
+- `bio_darius-allende.md`
+- `bio_dawnara.md`
+- `bio_defiance.md`
+- `bio_denny.md`
+- `bio_detritus.md`
+- `bio_dice.md`
+- `bio_dionysus.md`
+- `bio_do.md`
+- `bio_dragaxus.md`
+- `bio_dragge.md`
+- `bio_drekk.md`
+- `bio_dret.md`
+- `bio_drought.md`
+- `bio_drunser.md`
+- `bio_drusus-rustius.md`
+- `bio_drykk.md`
+- `bio_duranth.md`
+- `bio_dyre.md`
+- `bio_ebon.md`
+- `bio_echo.md`
+- `bio_eirinn.md`
+- `bio_elis.md`
+- `bio_elrik.md`
+- `bio_elrina.md`
+- `bio_eroth.md`
+- `bio_ethren.md`
+- `bio_exacuter.md`
+- `bio_excalibur.md`
+- `bio_exit.md`
+- `bio_exitt.md`
+- `bio_falinia.md`
+- `bio_fantus.md`
+- `bio_fearok.md`
+- `bio_fik.md`
+- `bio_filth.md`
+- `bio_fiona.md`
+- `bio_fionn.md`
+- `bio_fira.md`
+- `bio_firai.md`
+- `bio_fry.md`
+- `bio_fujin.md`
+- `bio_gabrie.md`
+- `bio_gadwin.md`
+- `bio_gillsworth.md`
+- `bio_govan.md`
+- `bio_granthulius.md`
+- `bio_grath.md`
+- `bio_grazen.md`
+- `bio_gregorius.md`
+- `bio_grier.md`
+- `bio_hirtius.md`
+- `bio_hogar.md`
+- `bio_honoura.md`
+- `bio_hordini.md`
+- `bio_hurnit.md`
+- `bio_idicus.md`
+- `bio_ielios-pardelian.md`
+- `bio_illabrat.md`
+- `bio_illyana.md`
+- `bio_iphirael.md`
+- `bio_isamu.md`
+- `bio_iskara-radimantle.md`
+- `bio_jacob.md`
+- `bio_jageris.md`
+- `bio_jalechi.md`
+- `bio_janisinia.md`
+- `bio_japier.md`
+- `bio_jarin-seneda.md`
+- `bio_jarmaug.md`
+- `bio_jelkir.md`
+- `bio_jetal.md`
+- `bio_jibbs.md`
+- `bio_jin.md`
+- `bio_jjike.md`
+- `bio_jo.md`
+- `bio_jonnya.md`
+- `bio_jorale.md`
+- `bio_joreick.md`
+- `bio_joshius.md`
+- `bio_junia-gracious.md`
+- `bio_kaeis.md`
+- `bio_kain.md`
+- `bio_kassandra.md`
+- `bio_katerina.md`
+- `bio_ken.md`
+- `bio_kered.md`
+- `bio_kerwyn.md`
+- `bio_keylo.md`
+- `bio_kili.md`
+- `bio_king-vetallun.md`
+- `bio_kirre.md`
+- `bio_kleg.md`
+- `bio_kobald.md`
+- `bio_kry.md`
+- `bio_ky.md`
+- `bio_kylara.md`
+- `bio_lacide.md`
+- `bio_lana.md`
+- `bio_lantrastes-pardelian.md`
+- `bio_leptanious.md`
+- `bio_lexavia-suseven.md`
+- `bio_lillith.md`
+- `bio_lindsi.md`
+- `bio_livan.md`
+- `bio_loria.md`
+- `bio_lotivus.md`
+- `bio_lydie.md`
+- `bio_lyrena.md`
+- `bio_lysia.md`
+- `bio_machus.md`
+- `bio_macova.md`
+- `bio_macro.md`
+- `bio_malezzerai.md`
+- `bio_malik.md`
+- `bio_marnicus.md`
+- `bio_marucs.md`
+- `bio_mattrim.md`
+- `bio_meefan.md`
+- `bio_melchoir.md`
+- `bio_melilia-saprius.md`
+- `bio_mensa.md`
+- `bio_merse.md`
+- `bio_mestanes.md`
+- `bio_methodios.md`
+- `bio_metiades.md`
+- `bio_minos.md`
+- `bio_minxx.md`
+- `bio_mirage.md`
+- `bio_mishka.md`
+- `bio_moonlite.md`
+- `bio_moonshade.md`
+- `bio_morgan.md`
+- `bio_morgyn.md`
+- `bio_morphius.md`
+- `bio_murat.md`
+- `bio_mussel.md`
+- `bio_natasha.md`
+- `bio_nathanial.md`
+- `bio_necephorus.md`
+- `bio_necros.md`
+- `bio_neptune.md`
+- `bio_nereza.md`
+- `bio_niktoo.md`
+- `bio_novarious.md`
+- `bio_olaric.md`
+- `bio_orlain.md`
+- `bio_parsos-emrial.md`
+- `bio_pepa.md`
+- `bio_phedamus.md`
+- `bio_pompeii.md`
+- `bio_pravia-eliber.md`
+- `bio_quintarius.md`
+- `bio_quintillus-granius.md`
+- `bio_quintus-the-marauder.md`
+- `bio_rajean.md`
+- `bio_razlin.md`
+- `bio_reharl.md`
+- `bio_retalq.md`
+- `bio_rinath.md`
+- `bio_riplius.md`
+- `bio_robus.md`
+- `bio_rockerus.md`
+- `bio_rodrigo.md`
+- `bio_roni.md`
+- `bio_ronmower.md`
+- `bio_ronnie.md`
+- `bio_rusty.md`
+- `bio_ruttiger.md`
+- `bio_sahar.md`
+- `bio_sansia.md`
+- `bio_sarai.md`
+- `bio_sarius.md`
+- `bio_sartor-mithus.md`
+- `bio_sefrit.md`
+- `bio_seppoko.md`
+- `bio_seranthus.md`
+- `bio_seraph.md`
+- `bio_seraphus.md`
+- `bio_serasia.md`
+- `bio_seredian-allende.md`
+- `bio_sernak.md`
+- `bio_sestus.md`
+- `bio_shadicus.md`
+- `bio_shara.md`
+- `bio_sharcu.md`
+- `bio_sheesh.md`
+- `bio_shlinter.md`
+- `bio_sibyl.md`
+- `bio_siltar.md`
+- `bio_siphon.md`
+- `bio_skye.md`
+- `bio_solberg.md`
+- `bio_sordo-calsuan.md`
+- `bio_soren.md`
+- `bio_spurius-ravilla.md`
+- `bio_sriker.md`
+- `bio_sthenos.md`
+- `bio_sylicus.md`
+- `bio_sylven.md`
+- `bio_sylvia.md`
+- `bio_talamen.md`
+- `bio_tarras.md`
+- `bio_tarravus.md`
+- `bio_tef.md`
+- `bio_teresa.md`
+- `bio_tharius-allende.md`
+- `bio_titus-ahala.md`
+- `bio_ton.md`
+- `bio_toshiro.md`
+- `bio_tralius-allende.md`
+- `bio_trenton.md`
+- `bio_trittillius.md`
+- `bio_tulca-i.md`
+- `bio_tulca-ii.md`
+- `bio_typhin.md`
+- `bio_umbran-arxaeth.md`
+- `bio_valenor.md`
+- `bio_valstaron-martius.md`
+- `bio_valtorn.md`
+- `bio_vania.md`
+- `bio_vanir.md`
+- `bio_varsh.md`
+- `bio_vino.md`
+- `bio_violeta.md`
+- `bio_vladmir.md`
+- `bio_wayreth.md`
+- `bio_willace.md`
+- `bio_willhelm.md`
+- `bio_xamaes.md`
+- `bio_yuki.md`
+- `character-bios.md`
+- `city-of-iridine.md`
+- `city-of-monlon.md`
+- `combat.md`
+- `contact.md`
+- `cullaiden-island.md`
+- `events.md`
+- `franlius.md`
+- `harbor-of-the-moons.md`
+- `herdias-test-page.md`
+- `hg-aralex-pit.md`
+- `hg-black-hand-caverns.md`
+- `hg-burnt-villa.md`
+- `hg-colosseum.md`
+- `hg-franlius.md`
+- `hg-iridine-sewers.md`
+- `hg-rock-valley-broken-tower.md`
+- `hg-rock-valley-burial-grounds.md`
+- `hg-shipwreck.md`
+- `hg-signal-tower-island.md`
+- `hg-spider-caverns.md`
+- `hg_fist-fort.md`
+- `hg_monlon-battlefields.md`
+- `hg_monlon-ravines.md`
+- `historic-map-marnevel.md`
+- `historic-map-pepaquest.md`
+- `home.md`
+- `in-game-news.md`
+- `jewelry-guide.md`
+- `kelestian-outpost.md`
+- `legal_privacy-policy.md`
+- `legal_start.md`
+- `legal_terms-of-use.md`
+- `lighthouse.md`
+- `little-black-book-of-thievery.md`
+- `maps.md`
+- `miscellaneous-maps.md`
+- `modules-reference.md`
+- `national-advantages.md`
+- `nav-overview.md`
+- `newbie-non-combat-guides.md`
+- `news-forum.md`
+- `rank-bonus-calculator.md`
+- `reputation.md`
+- `rock-valley-region.md`
+- `search_site.md`
+- `shops-old.md`
+- `shops.md`
+- `signal-tower-island-guide.md`
+- `test.md`
+- `the-colosseum.md`
+- `the-way-of-the-thief.md`
+- `town-of-franlius.md`
+- `town-of-rock-valley.md`
+- `town-of-vetallun.md`
+- `transinvexium-east.md`
+- `unofficial-game-clients.md`
+- `useful-macros-for-thieves.md`
+- `v3_homepage.md`
+- `village-of-blackvine.md`
+- `village-of-seld.md`
+- `village-of-stromheim.md`
