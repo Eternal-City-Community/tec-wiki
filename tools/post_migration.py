@@ -34,6 +34,80 @@ body+=["</div>","",f"**{len(bios)} biographies** are preserved in the migrated a
 
 existing=slugs()
 
+# Normalize old Wikidot attachment links first so they work before the local
+# attachment import. The attachment importer later rewrites these WDFiles URLs
+# to /assets/wikidot/... once the binaries are present.
+attachment_rel=re.compile(r'\]\(/local--files/([^/]+)/([^\)]+)\)')
+pseudo_include=re.compile(r'^> \*\*Archive include:\*\* \[[^\]]+\]\(/_(?:modules|csi|scp|snippets)[^\)]*\)\s*
+mdlink=re.compile(r"\]\(/([^/#?)]+)([^)]*)\)")
+wikidot=re.compile(r"\]\(https?://eternal-city\.wikidot\.com/([^#?)]+)([^)]*)\)",re.I)
+for p in DOCS.glob("*.md"):
+    text=p.read_text(encoding="utf-8",errors="replace")
+    text=pseudo_include.sub("",text)
+    text=attachment_rel.sub(lambda m: "](https://eternal-city.wdfiles.com/local--files/"+m.group(1)+"/"+m.group(2)+")",text)
+    def oldsite(m):
+        stats["wikidot_links"]+=1
+        return "](/"+m.group(1).strip("/")+"/"+m.group(2)+")"
+    text=wikidot.sub(oldsite,text)
+    def alias(m):
+        target=m.group(1); suffix=m.group(2)
+        dest=ALIASES.get(target)
+        if not dest and target not in existing:
+            bio="bio_"+target
+            if bio in existing: dest=bio
+            elif target.replace("-","_") in existing: dest=target.replace("-","_")
+            elif target.replace("_","-") in existing: dest=target.replace("_","-")
+        if dest and dest in existing:
+            stats["aliases"]+=1
+            return "](/"+dest+suffix+")"
+        return m.group(0)
+    text=mdlink.sub(alias,text)
+    # Known source typo that otherwise duplicates the wound text.
+    if p.name=="two-handed-crushing.md":
+        text=text.replace("Bruise<br><br>Bruise","Bruise")
+    p.write_text(text,encoding="utf-8")
+
+existing=slugs()
+
+# Find still-missing internal page targets and create preservation stubs instead of 404s.
+missing=set()
+for p in DOCS.glob("*.md"):
+    text=p.read_text(encoding="utf-8",errors="replace")
+    for m in re.finditer(r"\[[^\]]*\]\(/([^/#?)]+)",text):
+        target=m.group(1)
+        if target not in existing and not target.startswith(("_","http_")):
+            missing.add(target)
+
+for target in sorted(missing):
+    if target in slugs(): continue
+    legacy="https://eternal-city.wikidot.com/"+target
+    stub=(
+      "# "+titleize(target)+"\n\n"
+      "This page is referenced by the migrated TEC wiki, but its source was not present in the Wikidot backup.\n\n"
+      "The reference has been preserved so old links do not become a 404. "
+      "[Check the legacy Wikidot page]("+legacy+") if it is still available.\n"
+    )
+    (DOCS/(target+".md")).write_text(stub,encoding="utf-8")
+    stats["stubs"]+=1
+
+# Native-search replacement page.
+(DOCS/"search_site.md").write_text(
+ "# Search the Site\n\nUse the **Search** field in the wiki header. The new site search indexes the migrated Markdown pages directly.\n",
+ encoding="utf-8"
+)
+
+report=Path("POST_MIGRATION_REPORT.md")
+report.write_text(
+ "# Post-migration cleanup report\n\n"
+ f"- Character biographies indexed: **{len(bios)}**\n"
+ f"- Legacy aliases rewritten: **{stats['aliases']}**\n"
+ f"- Same-site Wikidot links rewritten locally: **{stats['wikidot_links']}**\n"
+ f"- Missing-source preservation stubs created: **{stats['stubs']}**\n",
+ encoding="utf-8"
+)
+print(report.read_text())
+,re.M|re.I)
+
 # Rewrite obvious aliases and same-site Wikidot links.
 mdlink=re.compile(r"\]\(/([^/#?)]+)([^)]*)\)")
 wikidot=re.compile(r"\]\(https?://eternal-city\.wikidot\.com/([^#?)]+)([^)]*)\)",re.I)
