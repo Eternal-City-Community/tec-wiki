@@ -5,12 +5,11 @@ category: "Reference"
 
 # Flora Fauna
 
-## Flora & Fauna
 Below is an incomplete list of the plants, trees, and animals within the Republic of Iridine. Some may seem familiar to you...while others are found only in The Eternal City.
 
 
 <a id="Animals"></a>
-### [#](#Animals)Animals
+### Animals
 
 #### Anteater
 You see a creature the size of an average dog.  It is mostly gray in colour, save for a thick black stripe with a white border which runs along both its forward shoulders.  It has an elongated snout and a huge bushy tail. 
@@ -140,7 +139,7 @@ You see a large dog with shaggy brown fur. A cursory glance suggests that it is 
 
 
 <a id="Fish"></a>
-### [#](#Fish)Fish
+### Fish
 
 Fish can be caught in a variety of sizes: **small**, **somewhat small**,*'normal'* (no descriptor), **large**, **somewhat large** & **massive**. 
 
@@ -179,6 +178,7 @@ Greengill's are a type of sunfish named after their green-colored gills.
 
 #### Green-striped Trout
 **Description:** Silver fish with a deep emerald green stripe
+
 A type of trout known for it's striped scales.
 
 
@@ -200,6 +200,7 @@ Also known as a dogfish, this breed of shark often is found in shallow waters.
 
 #### Muskie
 **Description:** Silver and black fish with an elongated body
+
 The muskellunge or Muskie for short is the largest of the pike family.
 
 
@@ -217,6 +218,7 @@ A carnivorous fish are known for its teeth. They can often be found in brackish 
 
 #### Redtail Pike 
 **Description:** Muscular fish with a brilliant red tail with an elongated body
+
 A cousin to the pike, its bright red tail gives it its moniker.
 
 
@@ -264,6 +266,7 @@ Trout are closely related to salmon and char. They can be identified by their sp
 
 #### Tuna 
 **Description:** Wide-bodied flat silvery fish
+
 A popular food. The tuna has a sleek, streamlined body, and is among the fastest-swimming fish in the ocean. 
 
 
@@ -272,7 +275,7 @@ A popular food. The tuna has a sleek, streamlined body, and is among the fastest
 
 
 <a id="Plants"></a>
-### [#](#Plants)Plants
+### Plants
 #### Alaniss
 A short stubby brownish plant that grows freely in the plains. It has small star-shaped white flowers, commonly used to aid in digestion, and it is reported that the thick squat brown roots can help to quell nausea.
 
@@ -391,7 +394,7 @@ A small rambling vine, also called sugarvine,  that hides among grazing lands, i
 
 
 #### King's Penny
-**Descriotion:** a small yellowish-leaved plant with blue-white flowers
+**Description:** a small yellowish-leaved plant with blue-white flowers
 
 This plant takes its name from its round yellowish leaves. The leaves and the bluish-white flowers are both used in dyes, and the plant grows on sandy soil, usually near a beach.
 
@@ -517,7 +520,7 @@ A thorny plant that hides in a forest or undergrowth. Thorndark looks dead, as i
 A huge-leaved plant, dried tobacco is good for smoking, and also makes a good dye. 
 
 <a id="trifolium-leaf"></a>
-#### [#](#trifolium-leaf)Trifolium Leaf
+#### Trifolium Leaf
 Some small furry green leaves.
 
 #### Tymours
@@ -537,7 +540,7 @@ A small plant with pale blue flowers. Yarrow is said to be helpful in treating s
 
 
 <a id="Trees"></a>
-### [#](#Trees)Trees
+### Trees
 #### Birch
 Description: a tall thin tree with white papery bark
 
@@ -565,7 +568,7 @@ Exposure to the acids involved in papermaking turns the wood of this tree into a
 
 
 <a id="Fruit"></a>
-### [#](#Fruit)Fruit
+### Fruit
 #### Almond
 A small tree found in forests, its large nuts can be eaten, provided they are properly roasted. Raw almonds are poisonous. The almond is pressed to make almond oil, one of the sweet nut oils.
 
