@@ -3,6 +3,8 @@ backend:
   repo: herdias/tec-wiki
   branch: main
   open_authoring: true
+  base_url: https://tec-wiki.tecwiki.workers.dev
+  auth_endpoint: /auth
 
 publish_mode: editorial_workflow
 
