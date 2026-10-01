@@ -258,6 +258,16 @@ User-reported issues and fixes on 2026-10-01:
 - The `+` button still duplicates the complete first calculator box and its current state.
 - Commit: `df4908914487f0354ab1a2c6ce362307c805d4ac`
 
+
+
+### Breadcrumb restoration
+
+- Page breadcrumbs were missing from the migrated site.
+- No custom CSS was hiding them; the Material theme's breadcrumb/path feature simply was not enabled.
+- Enabled `navigation.path` in `mkdocs.yml`.
+- Commit: `5d173b61e954ce050d87270bc1ab3399122feaf6`
+- Material breadcrumbs follow the configured `nav:` hierarchy, so pages not represented in that hierarchy may still have limited/no breadcrumb context until the nav structure is expanded.
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
