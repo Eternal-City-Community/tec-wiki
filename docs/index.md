@@ -50,10 +50,11 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 ### Latest Updates
 
-<!--\\* To add new updates, please use the "Latest Updates" page included below. \\*--> 
+<!--\\\* To add new updates, please use the "Latest Updates" page included below. \\\*--> 
 
 ### Latest Major Updates To The Game *(sorted chronologically↑)*
 
+* For the month of **October 2026**, cover (faceplates/masks/hoods) alterations will be half-off.
 * **September 2026:** New weapon released - Dual Daggers are now available to learn
 * **August 2026:** New Noncom skillset released - Jewel crafting
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off Superior Weapon Upgrades**.
@@ -66,7 +67,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **November 1<sup>st</sup> 2022**: The [Falcata](/falcata/), a type of one-handed curved sword, is now available! It's the third of four total new skillsets with the [Slings](/sling/) being the only remaining skillset yet to be released.
 * **September 30<sup>th</sup> 2022**: A second skillset has been released as part of the Kelestian Monlon invasion! The [Falx](/falx/), a two-handed hooked sword, is now available to be learned!
 * **September 16<sup>th</sup> 2022**: For the first time in 17 years, a **new combat skill set** has been released! The [Chainblade](/chainblade/) is here to stay!  [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/911/) for more details.
-* **September 2<sup>nd</sup> 2022**: **Kelestian [combat skills](/skills/)** are **ready for release**! They will be rolled out **one at a time** over the next few months. Use @poll in the Welcome Area to **cast your vote**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/897/) for more details.
+* **September 2<sup>nd</sup> 2022**: **Kelestian [combat skills](/skills/#Unreleased)** are **ready for release**! They will be rolled out **one at a time** over the next few months. Use @poll in the Welcome Area to **cast your vote**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/897/) for more details.
 * **September 2<sup>nd</sup> 2022**: JagerBtFM's **September Contest** is now live! **Follow JagerBtFM** on Youtube, Twitch and **write a review for TEC on Mud Scry** to be entered **by September 30<sup>th</sup>**. The **grand prize is a Vetallun Reforge Ticket** *(valued at 95 talents)*. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/898/) for more details.
 * **September 2<sup>nd</sup> 2022**: For the month of September, rearranging skill slots will be **50% off**! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/896/) for more details.
 * **August 13<sup>th</sup> 2022**: The [Kelestians](/kelestia/) have **invaded [Monlon](/city-of-monlon/)**! Equipped with exotic weapons and armor, such as: falcatas, falxes, slings, uraschadas, katitras & nagodas. Read about the [Monlon Invasion](/monlon-invasion/) for more details.
