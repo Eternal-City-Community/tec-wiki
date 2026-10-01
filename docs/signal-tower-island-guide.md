@@ -26,11 +26,6 @@ Walk to Stone Toga Inn, n x 2, w x 4, nw, go n (when ferry comes), go n (when fe
 #### Map
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 ![](/assets/wikidot/signal-tower-island/Iridine-Signaltower_updated111117.gif)
 
 

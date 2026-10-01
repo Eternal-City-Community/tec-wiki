@@ -25,11 +25,6 @@ This area is described as a **lower-mid** to **mid tier** hunting ground.
 Go to the cliff where you climb down into the Sea Caves area (Not the sewer entrance, the OTHER one). If you go east, thats the old Sea Caves. Go northwest for the new ones. 
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/shipwreck-02-24-2026.png)](/assets/wikidot/files/shipwreck-02-24-2026.png)
 
 
