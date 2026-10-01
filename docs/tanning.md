@@ -32,7 +32,7 @@ Developing tanning skills requires attention to detail, patience, and an underst
 
 <a id="Recipes"></a>
 
-<details>
+<details markdown="1">
 <summary>+ Show Tanning Recipes</summary>
 
 
