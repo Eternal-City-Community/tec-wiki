@@ -2,6 +2,10 @@ name: Repair migrated formatting
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "tools/repair_migrated_formatting.py"
+      - ".github/workflows/repair-formatting.yml"
 
 permissions:
   contents: write
