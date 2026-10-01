@@ -142,7 +142,19 @@ function initTecTopNav() {
       '</div></div>' +
     '</div>';
 
-  header.insertAdjacentElement("afterend", nav);
+  // Keep the TEC shortcut bar inside Material's sticky header so the masthead
+  // and shortcut bar behave as one stack at every scroll state/breakpoint.
+  header.appendChild(nav);
+
+  function syncHeaderStackHeight() {
+    document.documentElement.style.setProperty("--tec-header-stack-height", header.offsetHeight + "px");
+  }
+
+  syncHeaderStackHeight();
+  window.addEventListener("resize", syncHeaderStackHeight, { passive: true });
+  if ("ResizeObserver" in window) {
+    new ResizeObserver(syncHeaderStackHeight).observe(header);
+  }
 
   function currentSourcePath() {
     var path = window.location.pathname.replace(/^\/+|\/+$/g, "");
