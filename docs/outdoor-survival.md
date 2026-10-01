@@ -410,25 +410,21 @@ There are times when you'll need to hide the things you find away, and using thi
 </div>
 
 
-<a id="Weaving"></a>
 
-### Survival Weaving  *sweave &lt;material&gt; into &lt;object&gt;*
+
+### Survival Weaving  *sweave `<material>` into `<object>`* {#Weaving}
 
 Your ranks and the material used (twigs, grass, and reeds) determine what items you can attempt to weave. Simply attempt to weave your material into something to be given a list of what you can weave at the moment. More ranks open up more options to weave things into up to rank 100. In the Rank Details table below, the number in parenthesis will indicate the amount of materials required to craft the item.
 
 **When you see this in use you see:**
 
-<div class="skill-template">
-
-> *sweave twigs into bowl*
- [Success: 1, Roll: 94] You carefully weave some assorted twigs into a masterfully woven bowl.
-
-</div>
+```text
+sweave twigs into bowl
+[Success: 1, Roll: 94] You carefully weave some assorted twigs into a masterfully woven bowl.
+```
 
 
-<details markdown="1">
-<summary>Show Rank Details</summary>
-
+#### Rank Details
 
 |  | Twigs | Grass | Reeds |
 | --- | --- | --- | --- |
@@ -445,12 +441,10 @@ Your ranks and the material used (twigs, grass, and reeds) determine what items 
 | Rank 100 | bowl (20), basket (40), broiler (30), crate (60) | a bowl (20), a belt (30), some sandals (40), a mat (50), a hat (60), a bag (80), some armbands (110), a basket (70), a loincloth (80), a vest (125), a skirt (90), a sling (180), and a hammock (200) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150), shield (175), chair (200) |
 
 
-</details>
 
 
-<a id="Whittling"></a>
 
-### Whittling  *whittle &lt;material&gt; into &lt;object&gt;*
+### Whittling  *whittle `<material>` into `<object>`* {#Whittling}
 
 You’ll start with Branches, but if you choose to rank the skill high enough, you’ll open up more options for branches, but also open access to ribs, leg bones, and more as possible whittling materials. Simply attempt to whittle your material into something to be given a list of what you can whittle at your current rank. Options keep opening up all the way to rank 100, as noted in the Rank Details table below.
 
@@ -458,17 +452,13 @@ The whittle command doesn't like having two words for the subject of the command
 
 **When you see this in use you see:**
 
-<div class="skill-template">
-
-> *whittle rib into hook*
- [Success: 45, Roll: 48] You carefully whittle an adder rib into a very poorly carved bone fishing hook.
-
-</div>
+```text
+whittle rib into hook
+[Success: 45, Roll: 48] You carefully whittle an adder rib into a very poorly carved bone fishing hook.
+```
 
 
-<details markdown="1">
-<summary>Show Rank Details</summary>
-
+#### Rank Details
 
 Some materials indicate that they are whittle-able, but never actually produce items:
 * a disc-shaped shell
@@ -508,16 +498,14 @@ Some materials indicate that they are whittle-able, but never actually produce i
 | Rank 100 | - | cane | - | some nocks | - | clasp | comb | - | - | - | - |
 
 
-</details>
-
 
 ---
 ### Lores
 
 
-<a id="cooklore"></a>
 
-### Advanced Camp Cooking Lore  *blacken &lt;food&gt;, sear &lt;food&gt;, broil &lt;food&gt;, roast &lt;food&gt;*
+
+### Advanced Camp Cooking Lore  *blacken `<food>`, sear `<food>`, broil `<food>`, roast `<food>`* {#cooklore}
 
 There are a few ways you can cook something over an open flame to give it a better flavor than just meat heated until it isn't raw any more.
 
@@ -558,49 +546,45 @@ Requires **80 ranks of [Camp Cooking](#Cook)**.
 ---
 **When you see this in use you see:**
 
-<div class="skill-template">
-
-> *blacken meat*
- [Success: 1, Roll: 42] A wildcat heart sizzles as you hold it over a brightly glowing bonfire.
- [Success: 1, Roll: 69] A wildcat heart sizzles as you hold it over a brightly glowing bonfire. It appears to be done cooking.
-
-
- > *sear meat*
- [Success: 1, Roll: 18] A piece of raw rattlesnake meat sizzles as you hold it over a brightly glowing fire.
- [Success: 1, Roll: 58] A piece of raw rattlesnake meat sizzles as you hold it over a brightly glowing fire. It appears to be done cooking.
-
- > *broil meat*
- [Success: 1, Roll: 93] A piece of raw porcupine meat sizzles as you hold it over a brightly glowing hearth.
- [Success: 1, Roll: 46] A piece of raw porcupine meat sizzles as you hold it over a brightly glowing hearth. It appears to be done cooking.
- A finely woven flat rack of twigs is destroyed.
- You drop a finely woven flat rack of twigs as it is destroyed.
-
- > *roast wing*
- [Success: 1, Roll: 7] A raw pheasant wing sizzles as you hold it over a brightly glowing bonfire.
- [Success: 1, Roll: 87] A raw pheasant wing sizzles as you hold it over a brightly glowing bonfire. It appears to be done cooking.
-
-</div>
+```text
+blacken meat
+[Success: 1, Roll: 42] A wildcat heart sizzles as you hold it over a brightly glowing bonfire.
+[Success: 1, Roll: 69] A wildcat heart sizzles as you hold it over a brightly glowing bonfire. It appears to be done cooking.
 
 
-<a id="cordage"></a>
+sear meat
+[Success: 1, Roll: 18] A piece of raw rattlesnake meat sizzles as you hold it over a brightly glowing fire.
+[Success: 1, Roll: 58] A piece of raw rattlesnake meat sizzles as you hold it over a brightly glowing fire. It appears to be done cooking.
 
-### Survival Cordage Lore  *cord &lt;rope&gt;*
+broil meat
+[Success: 1, Roll: 93] A piece of raw porcupine meat sizzles as you hold it over a brightly glowing hearth.
+[Success: 1, Roll: 46] A piece of raw porcupine meat sizzles as you hold it over a brightly glowing hearth. It appears to be done cooking.
+A finely woven flat rack of twigs is destroyed.
+You drop a finely woven flat rack of twigs as it is destroyed.
+
+roast wing
+[Success: 1, Roll: 7] A raw pheasant wing sizzles as you hold it over a brightly glowing bonfire.
+[Success: 1, Roll: 87] A raw pheasant wing sizzles as you hold it over a brightly glowing bonfire. It appears to be done cooking.
+```
+
+
+
+
+### Survival Cordage Lore  *cord `<rope>`* {#cordage}
 
 This command allows you to create cordage by unweaving a larger length of rope. Cordage can be used to create Cord Snares and is also sometimes required to craft certain weapons, fishing poles, and other implements.
 
 > To make proper survival cordage, carefully untwist the fibers of a rope.
 
-> > Once untwisted, retwist the fibers tightly in a cross-hatch pattern, always crossing diagonal from the last fiber.
+> Once untwisted, retwist the fibers tightly in a cross-hatch pattern, always crossing diagonal from the last fiber.
 
-> > Tie in a new length of fiber well before the last runs short.
+> Tie in a new length of fiber well before the last runs short.
 
 **When you see this in use you see:**
 
-<div class="skill-template">
-
-> *cord rope*
- You carefully separate the fibers of a simply braided grass rope into a pile of fibers.
- Carefully re-weaving the fibers tightly with a zig-zag pattern, you tie in new fibers well before the previous fibers have ended, producing some usable cordage.
- You continue to repeat this process with the remaining fibers, ending up with two pieces of cordage in total.
-
-</div>
+```text
+cord rope
+You carefully separate the fibers of a simply braided grass rope into a pile of fibers.
+Carefully re-weaving the fibers tightly with a zig-zag pattern, you tie in new fibers well before the previous fibers have ended, producing some usable cordage.
+You continue to repeat this process with the remaining fibers, ending up with two pieces of cordage in total.
+```
