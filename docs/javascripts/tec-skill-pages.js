@@ -51,6 +51,13 @@ function initTecSkillPages() {
         node.textContent = node.textContent.replace(/\n[ \t]*\n+/g, "\n");
       }
     });
+
+    if (box.firstChild && box.firstChild.nodeType === Node.TEXT_NODE) {
+      box.firstChild.textContent = box.firstChild.textContent.replace(/^\s+/, "");
+    }
+    if (box.lastChild && box.lastChild.nodeType === Node.TEXT_NODE) {
+      box.lastChild.textContent = box.lastChild.textContent.replace(/\s+$/, "");
+    }
   });
 
 
