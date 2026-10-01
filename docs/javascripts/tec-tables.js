@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initTecTables() {
   var root = document.querySelector(".md-typeset");
   if (!root) return;
 
@@ -12,4 +12,11 @@ document.addEventListener("DOMContentLoaded", function () {
     table.parentNode.insertBefore(wrap, table);
     wrap.appendChild(table);
   });
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initTecTables, { once: true });
+} else {
+  initTecTables();
+}
+document.addEventListener("DOMContentSwitch", initTecTables);
