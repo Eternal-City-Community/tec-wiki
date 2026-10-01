@@ -5,7 +5,7 @@ category: "Reference"
 
 # Rank Bonus Calculator
 
-<iframe class="tec-tool-frame tec-rb-frame" src="/assets/tools/rank-bonus-calculator.html" title="TEC Rank Bonus Calculator" loading="eager"></iframe>
+<div id="tec-rb-calculator" aria-label="Rank Bonus Calculator"></div>
 
 [Go to the old RB calculator](/rank-bonus-calculator-classic/)
 
