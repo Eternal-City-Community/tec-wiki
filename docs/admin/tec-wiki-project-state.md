@@ -176,6 +176,19 @@ Confirmed from user testing / GM clarification:
 - A first broad selector patch was immediately superseded because it could distort unrelated selectors.
 - Correct fix commit: `96d63bdee4ff8e04ff9ac5260bf069bb368063a0`
 
+
+
+### Skill description truncation: raw <object> placeholders
+
+- After restoring MkDocs and fixing grouped trainer table styling, Pickpocketing and Outdoor Survival still appeared to lose later skill-description content.
+- Root cause identified in page Markdown: command syntax was written with raw angle-bracket placeholders such as `<object>`. Under MkDocs/browser HTML parsing, `<object>` is a real HTML element, not a harmless placeholder, and an unclosed occurrence can absorb later page content in the DOM.
+- Working skill pages often use placeholders such as `<target>`, which do not trigger the same built-in HTML element behavior.
+- Escaped command placeholders in skill headings so the literal syntax displays without becoming HTML.
+- Also escaped the Pickpocketing `unpalm <object>` prose command and remaining Outdoor Survival `<object>` placeholders.
+- Pickpocketing fix commit: `62db7233c06a3b2e0a96d8e5bb8a4c35641cedc3`
+- Outdoor Survival fix commit: `c76dc3a73ebbe51381f0e440bfa0399e3b4ae78b`
+- The Pickpocketing source still has no surviving detailed sections for Silent Slip or Silent Draw; do not invent those mechanics.
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
