@@ -802,3 +802,85 @@ html, body {
     min-width: min(100%, 32rem);
   }
 }
+
+
+/* Restore the visual language of the original Wikidot skill template. */
+
+/* Trainer/flavor quotations used by FLAVORTEXT in skill-template. */
+.md-typeset blockquote {
+  margin: .55rem 1.2rem .8rem;
+  padding: .65rem .85rem;
+  color: #403b2d;
+  background:
+    linear-gradient(rgba(247,239,207,.92), rgba(230,216,169,.92));
+  border: 1px solid #a79a67;
+  border-left: 4px solid #8b7a46;
+  border-radius: 4px;
+  box-shadow:
+    inset 0 1px rgba(255,255,255,.42),
+    0 1px 2px rgba(61,52,30,.12);
+}
+
+.md-typeset blockquote p {
+  margin: .25rem 0;
+  max-width: none;
+}
+
+.md-typeset blockquote::before {
+  content: "“";
+  float: left;
+  margin: -.18rem .35rem -.2rem -.1rem;
+  color: rgba(91,76,41,.42);
+  font: 2rem/1 Georgia, "Times New Roman", serif;
+}
+
+/* Combat/action examples from the original skill-template backend. */
+.md-typeset .skill-template {
+  margin: .2rem 10% 1rem 1rem;
+  padding: .6rem .75rem .7rem;
+  color: #f1f1ed;
+  background: rgba(32,32,32,.84);
+  border: 1px dashed #8e8e7d;
+  border-radius: 7px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: .92em;
+  line-height: 1.48;
+  white-space: pre-line;
+  box-shadow: inset 0 0 10px rgba(0,0,0,.18);
+}
+
+.md-typeset .skill-template p {
+  margin: .2rem 0;
+  color: inherit;
+}
+
+/* The label immediately preceding a skill example. */
+.md-typeset p:has(+ .skill-template) {
+  margin-left: 1rem;
+  margin-bottom: .15rem;
+  color: #4a513b;
+  font-size: .92em;
+}
+
+/* Command usage appended to skill headings should read as secondary metadata. */
+.md-typeset h3 em {
+  margin-left: .65rem;
+  color: #67604e;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: .74em;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-typeset blockquote {
+    margin-left: .25rem;
+    margin-right: .25rem;
+  }
+
+  .md-typeset .skill-template {
+    margin-left: .25rem;
+    margin-right: .25rem;
+  }
+}
