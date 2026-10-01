@@ -1,5 +1,3 @@
-# Homepage
-
 [![Map of Iridine - The Eternal City MUD](https://eternal-city.wikidot.com/local--files/files/IridineMapShortest.png)](https://eternal-city.wikidot.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)
 
 
@@ -51,9 +49,12 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 <!--* To add new updates, please use the "Latest Updates" page included below. *--> 
 
 
-!!! note "Migrated include"
-    This page originally included `latest-updates` on Wikidot. The transcluded content still needs review.
-
+- **March 1<sup>st</sup> 2024**: The promo for March is **50% off [Superior Weapon Upgrades](/account/#RolePointPurchases)**.
+- **February 23<sup>rd</sup> 2024**: **Combat trainers** were updated, with some trainers teaching up to 300/300 or 500/500 ranks.
+- **February 1<sup>st</sup> 2024**: The chance for natural **[stat](/stats/) increases gained through performing actions** was increased.
+- **February 1<sup>st</sup> 2024**: **50% off** GSP purchases and swapping skill slots for the February promotion.
+- **January 4<sup>th</sup> 2024**: Teaching above rank 1150 was disabled along with additional self-training changes.
+- **January 1<sup>st</sup> 2024**: Veteran Character Packages were **50% off**.
 
 *[More Updates](/latest-updates/)*
 
@@ -63,9 +64,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 ### [#](#WhatsNew)What's New In-Game
 
 
-!!! note "Dynamic Wikidot content"
-    The original page used the `FrontForum` module here. This dynamic section needs a replacement on the new wiki.
-
+The old Wikidot homepage displayed a live feed from the game forum in this section. The migrated archive is available on the [In-Game News](/in-game-news/) page while a replacement live feed is being built.
 
 ---
 *[More News](/in-game-news/)*
