@@ -5,7 +5,7 @@ Jewelry Crafting allows characters to create jewelry from a variety of metals, c
 The system is made up of several related skills. Different recipes use different combinations of those skills, and **only the skills actually used during the creation of an item contribute to its finished quality**. As a result, mastering one type of jewelry does not necessarily require mastering every skill in the skillset.
 
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/jewelry-guide/gemcuts2.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/jewelry-guide/gemcuts2.png)
 
 
 ### How Jewelry Is Made

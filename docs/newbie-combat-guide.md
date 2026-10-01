@@ -73,7 +73,7 @@ The Slave Ludus has several tiers depending on your ranks. You will get kicked o
 
 ### When I'm done with the Ludus, where can I hunt "for real"?
 
-Each of these hunting grounds have been roughly evaluated for difficulty: ( http://eternal-city.wikidot.com/hunting-grounds .) Click on the individual links and check the "Difficulty" section.
+Each of these hunting grounds have been roughly evaluated for difficulty: ( /hunting-grounds/ .) Click on the individual links and check the "Difficulty" section.
 
 The Old City has interesting critters to kill, but be wary of the occasional fire lizard that can pose a threat to combatants now well-versed in their defenses.
 

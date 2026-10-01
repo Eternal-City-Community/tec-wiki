@@ -26,7 +26,7 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
 
-[![](https://eternal-city.wdfiles.com/assets/wikidot/files/Franlius%202025-08.png)](https://eternal-city.wdfiles.com/assets/wikidot/files/Franlius%202025-08.png)
+[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Franlius%202025-08.png)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/Franlius%202025-08.png)
 
 
 **Related map**

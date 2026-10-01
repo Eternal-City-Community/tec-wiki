@@ -14,7 +14,7 @@ size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under att
 
 <head>
 <base target="_parent">
-<script src="https://eternal-city.wikidot.com/assets/wikidot/files/shop_inventories_2026_03_26.txt"></script>
+<script src="https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/shop_inventories_2026_03_26.txt"></script>
 <script type="text/javascript">
 
 //SHOP_DATA is defined in the shop_inventories text file. You must edit the file if you want to update any shop details.
@@ -791,7 +791,7 @@ function filter(searchStrArray) {
 </style>
 </head>
 <div id="warn-ie-browser">
-   Not working? Enable javascript, use a different browser, or go to the <a href="https://eternal-city.wikidot.com/shops-old">old shops page</a>.
+   Not working? Enable javascript, use a different browser, or go to the <a href="/shops-old/">old shops page</a>.
 </div>
 <div id="page-buffer" style="height:400px;" />
 

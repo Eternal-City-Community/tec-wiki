@@ -3,7 +3,7 @@
 ## The Colosseum
 
 
-[![Illustrated image of Map of The Harbor of the Moons](https://eternal-city.wdfiles.com/assets/wikidot/files/The_Arena_-_Final.jpg)](https://eternal-city.wdfiles.com/assets/wikidot/files/The_Arena_-_Final.jpg)
+[![Illustrated image of Map of The Harbor of the Moons](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/The_Arena_-_Final.jpg)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/The_Arena_-_Final.jpg)
 
 
 At the center of the vast and civilized city of Iridine is the blood-stained sand of the arena. Many a gladiator, beast, or slave have fought, conquered, and died before the roaring crowds of the Colosseum. Their transient lives illuminating the marble facade of Iridine's civilization with short, brutal displays of vicious hand-to-hand combat. And for the awed mobs that cry out for blood and death, the glory of the arena is as eternal as the great city itself.
@@ -23,7 +23,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  --]
-[![](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-colosseum1.gif)](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-colosseum1.gif)
+[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-colosseum1.gif)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-colosseum1.gif)
 
 
 **Related Maps**

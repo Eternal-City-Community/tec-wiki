@@ -1,7 +1,7 @@
 # Monlon Mines
 
 ---
-![](https://eternal-city.wdfiles.com/assets/wikidot/monlon-mines/monlon-mines_updated101217.gif)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/monlon-mines/monlon-mines_updated101217.gif)
 
 **Related maps**
 [Monlon](/monlon/)

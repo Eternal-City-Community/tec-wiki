@@ -1,13 +1,13 @@
 # Homepage
 
-[![Map of Iridine - The Eternal City MUD](https://eternal-city.wikidot.com/assets/wikidot/files/IridineMapShortest.png)](https://eternal-city.wikidot.com/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)
+[![Map of Iridine - The Eternal City MUD](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/IridineMapShortest.png)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)
 
 
 ## The Eternal City - A Text Based MUD 
 size 115%**The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
 
 
-[![Play Now](https://eternal-city.wdfiles.com/assets/wikidot/files/TEC%20Play%20Now.png)](https://login.eternalcitygame.com/login.php)
+[![Play Now](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/TEC%20Play%20Now.png)](https://login.eternalcitygame.com/login.php)
 
 
 size 150%Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.

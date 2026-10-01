@@ -1,6 +1,6 @@
 # Riverside
 
-[![](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-riverside_new.gif)](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-riverside_new.gif)
+[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-riverside_new.gif)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-riverside_new.gif)
 
 **Related maps:**
 [Forum](/forum/)

@@ -290,7 +290,7 @@ input.mod-buttons-btn {
         </tr>
         <tr>
           <td>
-            <label for="selfTaughtModButton" style="font-family: arial;"><a href="http://eternal-city.wikidot.com/traits#SelfTaught" target="_blank">Self Taught</a>: </label><input onclick="selfTaughtChange()" type="button" id="selfTaughtModButton" value="No" class="mod-buttons-btn" />
+            <label for="selfTaughtModButton" style="font-family: arial;"><a href="/traits/#SelfTaught" target="_blank">Self Taught</a>: </label><input onclick="selfTaughtChange()" type="button" id="selfTaughtModButton" value="No" class="mod-buttons-btn" />
           </td>
           <td>
             <sup>&#8225;</sup>
@@ -757,7 +757,7 @@ input.mod-buttons-btn {
 <u>NOTES</u>
 <br />
 <sup>&#8224;</sup> <span class="fine-print">If learning 50 or more ranks, token calculation assumes the character will learn 50 ranks at a time, then finish with any remainder.</span><br>
-<sup>&#8225;</sup> <span class="fine-print">Advancing in a skill by selftraining costs double the normal amount of skill points. This only applies to ranks below 1,150. For ranks above 1,150 selftraining is assumed. This penalty is reduced with the <a href="http://eternal-city.wikidot.com/traits#SelfTaught" target="_blank">self taught</a> trait.</span><br>
+<sup>&#8225;</sup> <span class="fine-print">Advancing in a skill by selftraining costs double the normal amount of skill points. This only applies to ranks below 1,150. For ranks above 1,150 selftraining is assumed. This penalty is reduced with the <a href="/traits/#SelfTaught" target="_blank">self taught</a> trait.</span><br>
 <sup>&sect;</sup> <span class="fine-print">Healing skills cost an extra 5 skill points per rank, compared to other skills.</span><br />
 <sup>4</sup>      <span class="fine-print">Hide/Sneak trainer costs 10x normal formula.</span><br>
 <sup>5</sup>      <span class="fine-print">PP/setups costs 25% more gold to learn from an NPC trainer.</span><br />

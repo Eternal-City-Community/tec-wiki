@@ -1,6 +1,6 @@
 # The Salinae Swamp
 
-[![](https://eternal-city.wdfiles.com/assets/wikidot/files/invexriverdelta-salinaeswamp1.gif)](https://eternal-city.wdfiles.com/assets/wikidot/files/invexriverdelta-salinaeswamp1.gif)
+[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/invexriverdelta-salinaeswamp1.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/invexriverdelta-salinaeswamp1.gif)
 
 **Related Maps**
 [Swamp Mansion](/swamp-mansion/)

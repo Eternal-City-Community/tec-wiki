@@ -34,4 +34,4 @@ Located within the wealthy Quartz Heights district of Iridine, the Boardwalk Cra
 
 The Boardwalk Crawlspace is visible in the southwestern edge of the map and is notated as 'Under the Boardwalk'.
 
-[![](https://eternal-city.wdfiles.com/assets/wikidot/quartz-heights/iridine-quartzheights1.gif)](https://eternal-city.wdfiles.com/assets/wikidot/quartz-heights/iridine-quartzheights1.gif)
+[![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/quartz-heights/iridine-quartzheights1.gif)](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/quartz-heights/iridine-quartzheights1.gif)

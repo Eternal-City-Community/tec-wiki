@@ -15,7 +15,7 @@ This hunting area is best suited for **mid-to-high level fighters** and is locat
 * Trapdoors & secret pathways to explore.
 
 ### Map
-![](https://eternal-city.wdfiles.com/assets/wikidot/files/turrinio_filinius_estate_2026_03_29.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/files/turrinio_filinius_estate_2026_03_29.png)
 
 
 #### Directions

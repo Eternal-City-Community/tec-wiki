@@ -1,7 +1,7 @@
 # Sandbar
 
 ---
-[![](https://eternal-city.wikidot.com/assets/wikidot/files/Iridine-sandbar.gif)](https://eternal-city.wikidot.com/assets/wikidot/files/Iridine-sandbar.gif)
+[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Iridine-sandbar.gif)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/Iridine-sandbar.gif)
 
 **Related Maps**
 [Forum](/forum/)

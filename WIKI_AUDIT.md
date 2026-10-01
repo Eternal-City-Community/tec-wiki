@@ -5,9 +5,9 @@
 - Migrated include placeholders: **0**
 - Dynamic Wikidot placeholders: **0**
 - Other migration-note markers: **0**
-- Pages still containing direct eternal-city.wikidot.com links: **59**
+- Pages still containing direct eternal-city.wikidot.com links: **57**
 - Unique unresolved internal links: **0**
-- Pages still using WDFiles assets: **104**
+- Pages still using WDFiles assets: **154**
 - Pages with leftover Wikidot table syntax: **0**
 - Pages with leftover Wikidot heading syntax: **0**
 - Pages with leftover Wikidot escape markers: **0**
@@ -16,6 +16,9 @@
 ## Pages still using WDFiles
 
 - `archived_historic-map-marnevel-franlius.md`
+- `bio_atua.md`
+- `bio_yuki.md`
+- `black-hand-caverns.md`
 - `black-hand-mines.md`
 - `blackvine.md`
 - `brigand-treehouse.md`
@@ -23,33 +26,53 @@
 - `burnt-villa.md`
 - `campus-martius.md`
 - `character-condition.md`
+- `city-of-iridine.md`
 - `city-of-monlon.md`
+- `colosseum.md`
 - `cullaiden-island-map.md`
+- `cullaiden-island-temple.md`
 - `cullaiden-island.md`
 - `cult-of-ereal.md`
+- `east-ravanite-tunnels.md`
 - `eastern-grasslands-and-woods.md`
+- `esecarnus-caves.md`
+- `fenri-gifr-ruins.md`
+- `filinius-villa.md`
 - `fist-fort.md`
 - `forum.md`
 - `franlius.md`
 - `game-world.md`
+- `gardens-and-hospice.md`
 - `grey-sands.md`
 - `harbor-of-the-moons.md`
 - `harbor-rats.md`
+- `harbor.md`
+- `herdias-test-page.md`
+- `hg-alleys.md`
 - `hg-aralex-pit.md`
 - `hg-bandit-complex.md`
 - `hg-black-hand-caverns.md`
+- `hg-brigand-treehouse.md`
 - `hg-burnt-villa.md`
+- `hg-coastal-alleys.md`
+- `hg-colosseum.md`
 - `hg-filinius-villa.md`
 - `hg-franlius.md`
+- `hg-iridine-dumps.md`
 - `hg-iridine-pits.md`
+- `hg-iridine-sewers.md`
 - `hg-ludus-valerius.md`
 - `hg-monlon-mines.md`
 - `hg-old-city.md`
 - `hg-quartz-heights-boardwalk.md`
+- `hg-rock-valley-alley.md`
 - `hg-rock-valley-broken-tower.md`
 - `hg-rock-valley-burial-grounds.md`
 - `hg-rock-valley-well.md`
+- `hg-sea-caves.md`
 - `hg-shipwreck.md`
+- `hg-signal-tower-island.md`
+- `hg-spider-caverns.md`
 - `hg-undertown.md`
 - `hg-vetallun-apple-orchard.md`
 - `hg_fist-fort.md`
@@ -76,28 +99,51 @@
 - `illustrated-iridine-and-neighbors.md`
 - `illustrated-iridine.md`
 - `index.md`
+- `iridine.md`
 - `jewelry-guide.md`
+- `kelestian-outpost.md`
 - `legio.md`
 - `lighthouse.md`
 - `midlight-map.md`
 - `monlon-battlefield.md`
 - `monlon-catacombs.md`
+- `monlon-kelestian-outpost.md`
 - `monlon-master.md`
 - `monlon-mines.md`
+- `monlon-ravines.md`
 - `monlon-rockslide.md`
+- `monlon.md`
+- `newbie-guides.md`
+- `old-city-and-moondeep.md`
 - `old-cult-of-ereal.md`
+- `orchil.md`
+- `pirate-ship.md`
 - `praetor-guide.md`
 - `praetor.md`
 - `quartz-heights.md`
+- `rank-bonus-calculator.md`
 - `rat-pits-and-aralex-pits.md`
+- `republic-of-iridine.md`
+- `riverside.md`
+- `rock-valley-dumps.md`
+- `rock-valley-mine.md`
+- `rock-valley-region.md`
+- `rock-valley-well.md`
+- `rock-valley.md`
 - `salt-flats.md`
+- `sandbar.md`
 - `seld.md`
+- `sewers-and-sea-caves.md`
 - `shipwreck.md`
+- `shops.md`
 - `signal-tower-island-guide.md`
 - `signal-tower-island.md`
+- `spider-caverns.md`
 - `steps-ludus-quintus.md`
+- `stone-toga-inn.md`
 - `stones-ores.md`
 - `storm-drain-system.md`
+- `stromheim.md`
 - `swamp-mansion.md`
 - `swamp-vale.md`
 - `tecelite.md`
@@ -111,13 +157,17 @@
 - `the-steps.md`
 - `the-west-grasslands.md`
 - `town-of-franlius.md`
+- `town-of-rock-valley-map.md`
+- `town-of-rock-valley.md`
 - `town-of-vetallun.md`
 - `transinvexium.md`
 - `unofficial-world-map.md`
+- `v3_homepage.md`
 - `vetallun-road.md`
 - `vetallun.md`
 - `village-of-blackvine.md`
 - `village-of-seld.md`
+- `village-of-stromheim.md`
 - `worm-temple.md`
 
 ## Pages still linking directly to eternal-city.wikidot.com
@@ -128,7 +178,6 @@
 - `city-of-iridine.md`
 - `city-of-monlon.md`
 - `colosseum.md`
-- `creatures.md`
 - `cullaiden-island-temple.md`
 - `east-ravanite-tunnels.md`
 - `esecarnus-caves.md`
@@ -178,6 +227,5 @@
 - `the-colosseum.md`
 - `town-of-rock-valley-map.md`
 - `town-of-rock-valley.md`
-- `training-cost-calculator.md`
 - `v3_homepage.md`
 - `village-of-stromheim.md`

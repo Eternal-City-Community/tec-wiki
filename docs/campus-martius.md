@@ -1,7 +1,7 @@
 # Campus Martius
 
 ---
-![](https://eternal-city.wdfiles.com/assets/wikidot/campus-martius/Iridine-CampusMartius.gif)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/campus-martius/Iridine-CampusMartius.gif)
 
 **Related Maps**
 [Transinvexium](/transinvexium/)

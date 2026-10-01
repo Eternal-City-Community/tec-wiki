@@ -27,7 +27,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  --]
-[![](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-colosseum1.gif)](https://eternal-city.wikidot.com/assets/wikidot/files/iridine-colosseum1.gif)
+[![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-colosseum1.gif)](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/files/iridine-colosseum1.gif)
 
 
 **Related Maps**

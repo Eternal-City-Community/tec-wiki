@@ -8,7 +8,7 @@ This page covers using the desktop app once it's installed. For installing it, a
 ### The layout
 <a id="layout"></a>
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-layout-callouts.png)
 
 The numbers match the callouts in the picture.
 
@@ -34,7 +34,7 @@ The **All** tab always receives everything. **Custom tabs** filter game text by 
 | {{*}} | any run of characters, including none | {{You hit the*rat}} | You hit the rat, You hit the giant rat | You hit a rat |
 | {{?}} | exactly one character | {{?at}} | rat, cat, hat | at |
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-custom-tabs.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-custom-tabs.png)
 
 To build a Think/OOC tab:
 
@@ -400,7 +400,7 @@ Slash commands are not interpreted inside a multi-line block.
 
 This is the main entrypoint to all Praetor menus
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-settings-menu.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-settings-menu.png)
 
 #### Display & Behavior
 
@@ -411,10 +411,10 @@ This is the main entrypoint to all Praetor menus
 * Action Sets: your own sidebar buttons, with support for variables and command chains
 * Notifications: desktop alerts for low vitals, text patterns, and opt-in Lua script alerts
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-crt-effects)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-crt-effects)
 
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-action-sets.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-action-sets.png)
 
 #### Settings
 <a id="settings"></a>
@@ -454,7 +454,7 @@ The settings are:
 * Persistent Data: what your modes have saved, with export and clear
 * Reload Scripts: rescan your script folders for changes
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-script-directories.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-script-directories.png)
 
 **Variables** stores reusable name/value pairs. Add a name and value, then save. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with {{${name}}} in typed input, Action Set buttons, and **/send** files. Editing variables here or in the sidebar updates the same saved list.
 
@@ -465,7 +465,7 @@ The settings are:
 # Toggle the modes you want in the cycle
 # **Save**. Alt+M now advances through them in list order
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-priority-commands.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-priority-commands.png)
 
 
 **High-Priority Commands** jump ahead of normal queued commands while preserving their order relative to other priority commands. Duplicate commands already waiting in the queue are dropped. If the queue is full, an incoming priority command replaces the newest normal command; if the queue contains only priority commands, the incoming command is dropped.
@@ -489,7 +489,7 @@ retreat
 * Ignore OOC Accounts: hide OOC chatter from accounts you name
 * Ignore Think Characters: hide think-channel text from characters you name
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-ignore-ooc.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-ignore-ooc.png)
 
 
 Both filters match on the **name** shown in the line, and nothing else. Someone who switches between their in-character and out-of-character names on the OOC channel shows up as two different names, so you'd have to add both to stop seeing them.
@@ -530,7 +530,7 @@ Each of these has its own section further down this page.
 ### Highlights and notifications
 <a id="highlights"></a>
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-highlights.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-highlights.png)
 
 **Highlights** make text stand out with a colored background, useful for rare drops and other things you don't want to miss scrolling past. To add one:
 
@@ -548,7 +548,7 @@ retalq
 
 **4.** Click **Save**. You can toggle a highlight off, or delete it, at any time.
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-notifications.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-notifications.png)
 
 **Notifications** raise desktop alerts and in-app notices when something happens. To set them up:
 
@@ -572,7 +572,7 @@ If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Pr
 ### Notes
 <a id="notes"></a>
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-notes.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-notes.png)
 
 The notepad keeps freeform notes: plans, backstory, who owes you what. Open it with **/notes**, or from the Esc menu under **Tools & References**.
 
@@ -700,7 +700,7 @@ For the complete script-language reference: [full play-script reference](https:/
 
 #### Wiki bookmarks
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-wiki.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-wiki.png)
 
 **/wiki** on its own lists the built-in bookmarks, grouped by topic:
 
@@ -722,7 +722,7 @@ The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmar
 
 #### Map bookmarks
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-maps.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-maps.png)
 
 **/maps** on its own lists this wiki's maps by region: Iridine, The Steps, Invex River Delta, Salinae Swamp, Eastern Grasslands, Rock Valley, Franlius, Monlon, Seld, and Cullaiden Island. Each region expands to its individual maps. Give it a map's name to open that map in your browser, for example the Sewers and Sea Caves map:
 
@@ -736,7 +736,7 @@ The same list is under **Tools & References**, as **Map Bookmarks**.
 
 #### Calculator
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-rbcalc.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-rbcalc.png)
 
 **/calc** (or **/rb**) opens the rank-bonus and training-cost calculator, which uses the same math as this wiki's [Rank Bonus Calculator](/rank-bonus-calculator/) and [Training Cost Calculator](/training-cost-calculator/). Choose **Defensive**, **Offensive**, or **Noncombat**, then enter current and target Basics and Subskill ranks. Praetor shows side-by-side current and target rank bonuses for each posture and difficulty, including the Basics and Subskill rank bonuses.
 
@@ -744,7 +744,7 @@ The training-cost section shows the Basics and Subskill rank changes and the cos
 
 #### Kudos
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-kudos.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-kudos.png)
 
 **/kudos** opens the kudos window. It has a **Favorites** list of names you kudos often, and a **Queue** of name-and-message pairs waiting to be sent. When the queue has entries, the window offers **Send** to send them all. From the input, a name alone adds a favorite, and a name with a message queues a kudos:
 
@@ -780,7 +780,7 @@ The app log (startup, connection, and error detail, not a copy of the game text)
 ~~~
 
 
-![](https://eternal-city.wdfiles.com/assets/wikidot/praetor-guide/praetor-persistent-data.png)
+![](https://eternal-city.wdfiles.comhttps://eternal-city.wdfiles.com/local--files/praetor-guide/praetor-persistent-data.png)
 
 To see what your modes have saved between sessions:
 
