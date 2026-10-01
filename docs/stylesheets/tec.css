@@ -1531,3 +1531,44 @@ html, body {
     margin-left: .25rem;
   }
 }
+
+
+/* Shops app */
+#tec-shops-app { max-width: 1100px; margin: 1rem 0 1.5rem; color:#322e1e; }
+.tec-shops-loading,.tec-shops-error,.tec-shops-empty { border:1px solid #aaa38a; border-radius:7px; padding:14px; background:#f8f3df; }
+.tec-shops-controls { max-width: 760px; border:1px solid #77735e; border-radius:8px; background:rgba(243,238,215,.94); padding:12px; box-shadow:0 1px 2px rgba(50,46,30,.12); }
+.tec-shops-search-row { display:grid; grid-template-columns:auto 1fr auto; gap:8px; align-items:center; }
+.tec-shops-search-icon { font-size:1.25rem; color:#686d37; line-height:1; }
+.tec-shops-search-row input { width:100%; min-width:0; box-sizing:border-box; border:1px solid #8d876d; border-radius:5px; padding:9px 10px; background:#fffdf4; color:#322e1e; font-size:.72rem; }
+.tec-shops-search-row button { border:1px solid #565c2f; border-radius:5px; padding:8px 11px; background:#686d37; color:white; font-size:.68rem; cursor:pointer; }
+.tec-shops-options { display:grid; gap:7px; margin-top:10px; padding-top:10px; border-top:1px solid #c1b99b; font-size:.67rem; }
+.tec-shops-options label { display:flex; align-items:center; gap:7px; }
+.tec-shops-options input { accent-color:#686d37; }
+.tec-shops-options small { color:#665f49; font-style:italic; }
+.tec-shops-locations { max-width:1060px; margin:14px 0; border:1px solid #aaa38a; border-radius:7px; background:rgba(226,219,186,.88); padding:10px 12px; }
+.tec-shops-locations > strong { display:block; margin-bottom:5px; color:#39461f; font-family:Georgia,"Times New Roman",serif; }
+.tec-shops-location-links { display:flex; flex-wrap:wrap; gap:4px 12px; font-size:.66rem; }
+.tec-shop-location { margin:1rem 0 1.4rem; }
+.tec-shop-location > h2 { margin:0 0 .55rem; padding:.32rem .55rem; border-bottom:2px solid #566126; background:rgba(104,109,55,.12); color:#39461f; font-size:.95rem; }
+.tec-shop-location > h2 a { color:#39461f; }
+.tec-shop-card { max-width:860px; margin:0 0 .65rem .7rem; border:1px solid #aaa38a; border-radius:7px; overflow:hidden; background:rgba(248,243,223,.84); }
+.tec-shop-card h3 { margin:0; padding:.4rem .6rem; background:#686d37; color:#fff; font-size:.72rem; font-family:Georgia,"Times New Roman",serif; }
+.tec-shop-card h3 span { font-weight:400; opacity:.9; }
+.md-typeset .tec-shop-card table { display:table; width:100%; margin:0; min-width:0; border:0; background:transparent; box-shadow:none; }
+.md-typeset .tec-shop-card td { border:0!important; border-bottom:1px dotted #c0b89b!important; padding:.27rem .55rem!important; background:transparent!important; color:#322e1e!important; font-size:.66rem; }
+.md-typeset .tec-shop-card tr:last-child td { border-bottom:0!important; }
+.md-typeset .tec-shop-card td:last-child { width:130px; white-space:nowrap; text-align:right; font-weight:600; }
+.tec-shop-rotating { color:#456b20; font-weight:700; }
+.tec-shop-info { display:inline-flex; align-items:center; justify-content:center; width:1.15em; height:1.15em; border-radius:50%; background:#686d37; color:#fff; font-size:.58rem; cursor:help; }
+.tec-shops-results-count { margin:.75rem 0 .4rem; font-size:.66rem; color:#5f5a48; }
+.tec-shops-table-wrap { max-width:1060px; overflow-x:auto; border:1px solid #aaa38a; border-radius:7px; background:#f8f3df; }
+.md-typeset table.tec-shops-results-table { display:table; width:100%; min-width:720px; margin:0; border-collapse:collapse; background:transparent; box-shadow:none; }
+.md-typeset table.tec-shops-results-table th { background:#686d37!important; color:#fff!important; border:1px solid #565c2f!important; padding:.42rem .55rem!important; font-size:.66rem; text-align:left; }
+.md-typeset table.tec-shops-results-table td { background:#f8f3df!important; color:#322e1e!important; border:0!important; border-bottom:1px solid #c7bea0!important; padding:.38rem .55rem!important; font-size:.66rem; }
+.md-typeset table.tec-shops-results-table tr:nth-child(even) td { background:#eee7cc!important; }
+.md-typeset table.tec-shops-results-table td:nth-child(2) { white-space:nowrap; }
+@media(max-width:700px){
+  .tec-shops-search-row { grid-template-columns:auto 1fr; }
+  .tec-shops-search-row button { grid-column:2; justify-self:start; }
+  .tec-shop-card { margin-left:.2rem; }
+}
