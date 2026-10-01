@@ -138,4 +138,4 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 * A wide **suede armband** bearing a *<scarlet|vivid scarlet|red>* emblem.
 * A wide **leather armband** *<bearing|stitched with>* a *<scarlet|vivid scarlet|bright red|red>* emblem.
 
-[Back to Top](#Top)
+[Back to Top](#)

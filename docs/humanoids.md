@@ -19,10 +19,10 @@ Will later include lootable, prices, location, attacks, difficulty, descriptions
 
 ### Humanoids:
 [mercenary (various descriptions)](#Merc)
-[a Cineran soldier](#CineranSoldier)
-[a Cineran heavy soldier](#CineranHeavySoldier)
-[a Cineran marine](#CineranMarine)
-[a man in a Cineran uniform with a red cloak](#ManCineranUniformRedCloak)
+a Cineran soldier
+a Cineran heavy soldier
+a Cineran marine
+a man in a Cineran uniform with a red cloak
 
 
 <a id="Franlius"></a>

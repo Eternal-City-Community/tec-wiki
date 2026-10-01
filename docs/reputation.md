@@ -373,7 +373,7 @@ Lucio & Lexa (Black Centurions, [The Steps North](/the-steps-north/))
 You can donate [stones](/stones-ores/) or [money](/wealth/#Iridine) to the [Cult of Ereal](/cult-of-ereal/) for reputation. Stones not commonly found around the area are typically considered more appreciated.
 
 **Stone Donation**
-Acolytes are interested in [stones](/stones-ores/) required for [magic rituals](/magic/#Reagents), these stones are: **Sun Stone**, **Sardonyx**, **Amber**, **Topaz**, **Coral**, **Garnet** & **Quartz**.
+Acolytes are interested in [stones](/stones-ores/) required for [magic rituals](/magic/), these stones are: **Sun Stone**, **Sardonyx**, **Amber**, **Topaz**, **Coral**, **Garnet** & **Quartz**.
 
 * **Ellyndel** ([Stone](/stones-ores/) Donations, [Gardens and Hospice](/gardens-and-hospice/))
 * **Hilla** ([Stone](/stones-ores/) Donations, [Town of Rock Valley](/town-of-rock-valley/))
@@ -481,7 +481,7 @@ The following items can be unlocked, given enough reputation. Generally, the fur
 | A faceted crystal vial on a thin silver chain | 28t 781d 1st |
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="Herb-Lessons"></a>
@@ -491,4 +491,4 @@ After selling at least 1000 denars worth of herbs to Mollicia's, attempting to '
 **Terali** is an [herbalist](/herbalism/), during daylight she is out exploring, but at sunset she can be found resting just to the south of Mollicia.
 
 
-[Back to Top](#Top)
+[Back to Top](#)

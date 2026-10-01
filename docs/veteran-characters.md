@@ -102,7 +102,7 @@ Please note, you can only roll a VC once every 24 hours (1 day).
 A successfully generated character will be placed in an OOC lounge to spend their GSP, credits, attribute points, and receive any extras that they are entitled to.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Retire"></a>
@@ -124,7 +124,7 @@ The process of retiring a character involves several technical and Role Point (R
 * The @retire command gives you the option of leaving or not leaving a corpse, depending on how you choose to end your character's story. This will be presented as a yes/no prompt.
 * It's important to note that any abuse of the @retire command may result in restrictions being placed on your account. Additionally, characters that have been deleted and recently recovered cannot be retired, as a character must be on your play list for at least six months before being eligible for retirement.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Lobby"></a> 
@@ -1334,7 +1334,7 @@ Waist Sash Recipe                  easy        300       7 / 4
 ~~~
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ### Veteran Character Info
@@ -1354,4 +1354,4 @@ If you have not and are still in the VC Lobby, you can still push the button in 
 ~~~
 
 
-[Back to Top](#Top)
+[Back to Top](#)

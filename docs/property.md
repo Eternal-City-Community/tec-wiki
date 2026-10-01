@@ -41,7 +41,7 @@ Requests to modify a domus so that it can serve a purpose other than a private d
 A **new store** (aka shop) may only be **purchased using [Role Points](/account/#RolePointPurchases)**. You can purchase **an existing store** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 At any time, the owner can choose to **have any portion of the building open to the public**.
-**[Property Modification Requests](/account/#requests-property)** can be made by existing property owners for such things as **altering rooms**, **adding NPCs**, **updating light fixtures**, etc.
+**[Property Modification Requests](/account/)** can be made by existing property owners for such things as **altering rooms**, **adding NPCs**, **updating light fixtures**, etc.
 
 
 A standard Store includes:
@@ -58,7 +58,7 @@ For more details on purchasing a **new property, see [Store Package](/rp-expendi
 A **new club house** may only be **purchased using [Role Points](/account/#RolePointPurchases)**. You can purchase **an existing club house** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 At any time, the owner can choose to **have any portion of the building open to the public**.
-**[Property Modification Requests](/account/#requests-property)** can be made by existing property owners for such things as **altering rooms**, **adding NPCs**, **updating light fixtures**, etc.
+**[Property Modification Requests](/account/)** can be made by existing property owners for such things as **altering rooms**, **adding NPCs**, **updating light fixtures**, etc.
 
 
 A standard Club House includes:

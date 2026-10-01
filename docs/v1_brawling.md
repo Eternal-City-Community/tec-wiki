@@ -41,7 +41,7 @@ Damage done by the Brawling skill set is dependent upon your ranks in the skill 
 | [Brawling Swat Block](#Swat-Block) | Average | 1 | Short | - | 80 | 175 |
 | [Brawling Ale Focus](#Ale-Focus) | Difficult | - | - | - | 75 | 175 |
 | [Brawling Brawler's Instinct](#Instinct) | Impossible | - | Short | - | 75 | 175 |
-| [Brawling Feint](#Brawl-Feint) | Average | 1 | Short | - | 80 | 175 |
+| Brawling Feint | Average | 1 | Short | - | 80 | 175 |
 
 
 **Directions to Pugilius** ([The Steps South](/the-steps-south/)): Walk to Hospice, E x 13, S, E, S, E x 4, S x 2, E x 8, SE, E x 2, N x 2, E x 2, S x 2, E x 3, S x 6, W, S x 4, W x 4, S x 6, W, Door, D x 2, W x 4, D, E.

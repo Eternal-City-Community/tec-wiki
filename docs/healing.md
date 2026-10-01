@@ -28,8 +28,8 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 | [Set Bone](#Set-Bone) | Difficult | 100 | 150 | 30 | 80 |
 | [Splint Bone](#Splint-Bone) | Average | 100 | 150 | 30 | 80 |
 | [Remove Splint](#Remove-Splint) | Easy | 100 | 150 | 30 | 80 |
-| [Apply Tourniquet](#Apply-Tourniquet) | Average | 100 | 150 | 30 | 80 |
-| [Remove Tourniquet](#Remove-Tourniquet) | Easy | 100 | 150 | 30 | 80 |
+| Apply Tourniquet | Average | 100 | 150 | 30 | 80 |
+| Remove Tourniquet | Easy | 100 | 150 | 30 | 80 |
 
 |  | Healing Lores |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- |

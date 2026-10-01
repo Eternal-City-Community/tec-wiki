@@ -27,7 +27,7 @@ Below you'll find everything important to know about the Nelsor gladius style.
 
 
 ### Advice & Tips
-* Ranks in [Simple Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) can provide a significant chance to rising from a [Spinning Duck and Strike](#SDaS).
+* Ranks in [Simple Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) can provide a significant chance to rising from a Spinning Duck and Strike.
 * All attacks that have chances to make the **wielder fumble, leave openings, fall down, etc.** will **no longer do so** after **achieving rank 90** in [Nelsor Gladius Combat (Basics)](/nelsor-one-handed-swords/).
 * Wielding your gladius 2-handed will allow you to perform [Vulture Block](/nelsor-one-handed-swords/#VB) while standing.
 

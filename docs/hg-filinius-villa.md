@@ -47,4 +47,4 @@ From the gates of Seld: w2, nw2, w1, n 78
 **Loot**: Pouches, armor, bronze weapons.
 
 
-[Back to Top](#Top)
+[Back to Top](#)

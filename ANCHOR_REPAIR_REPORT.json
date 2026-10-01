@@ -1,0 +1,14 @@
+{
+  "pages_scanned": 901,
+  "pages_changed": 62,
+  "links_changed": 277,
+  "back_to_top_fixed": 105,
+  "same_page_dead_links_removed": 79,
+  "cross_page_fragments_dropped": 58,
+  "fragment_case_normalized": 35,
+  "unresolved_missing_pages": [],
+  "methods": {
+    "explicit-anchor": 31,
+    "label-exact": 4
+  }
+}

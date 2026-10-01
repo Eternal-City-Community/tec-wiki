@@ -85,4 +85,4 @@ This area is geared towards the **mid tier**. It has regular spawns and can swar
 **Notable Loot**: [occasional] Rusty (iron) trident, **loot chest**, bronze trident, bronze dirk, leather armor, coin (pouches), chipped (tin) dagger.
 
 
-[Back to Top](#Top)
+[Back to Top](#)

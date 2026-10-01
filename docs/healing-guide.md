@@ -224,7 +224,7 @@ In [Monlon](/monlon/), wait within the healing tent. Soldiers, wounded from the 
 * [Stitch Wound](/healing/#Stitch-Wound) - Without a doubt, the most useful of all the healing skills.
 
 #### Less useful
-* [Apply Tourniquet](/healing/#Apply-Tourniquet) & [Remove Tourniquet](/healing/#Remove-Tourniquet)- With enough skill in Stitch Wound, these skills are rarely ever needed. It could be useful for someone who is not a primary healer.
+* [Apply Tourniquet](/healing/) & [Remove Tourniquet](/healing/)- With enough skill in Stitch Wound, these skills are rarely ever needed. It could be useful for someone who is not a primary healer.
 * [Administer](/healing/#Administer)
 
 ### Complementary Skill Sets

@@ -13,7 +13,7 @@ This hunting area is best suited for **mid level fighters** and is located near 
 
 
 #### Highlights
-* Up to **3 possible [tears](/contraband/#tears)** available to collect from this area.
+* Up to **3 possible [tears](/contraband/#Tears)** available to collect from this area.
 * Collected **[stones](/stones-ores/) can be sold to [Larunda](/services/#Gem-Buyer)**. 
 
 ### Map
@@ -63,7 +63,7 @@ Something something. Mainly creatures, no humanoids.
 * Carrion Slug
 * Scarab
 
-**Loot**: [Stones](/stones-ores/)*(various)*, [Crystal Tears](/contraband/#tears).
+**Loot**: [Stones](/stones-ores/)*(various)*, [Crystal Tears](/contraband/#Tears).
 
 
-[Back to Top](#Top)
+[Back to Top](#)

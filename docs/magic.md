@@ -9,7 +9,7 @@ category: "Reference"
 
 **Important:**  **Magic is -NOT- widely available**.
 
-It is currently only available to very few characters who have been successfully gone through the [Cult of Ereal - Acolyte](/cult-of-ereal/#Acolyte) recruiting class. **Magic does NOT mean such things as casting fireballs, teleport, invisibility and so on. Magic spells done by performing detailed rituals are the ONLY form of available magic**. Only Erealite magic exists at this time in the form of the Bright Hope rituals.
+It is currently only available to very few characters who have been successfully gone through the [Cult of Ereal - Acolyte](/cult-of-ereal/) recruiting class. **Magic does NOT mean such things as casting fireballs, teleport, invisibility and so on. Magic spells done by performing detailed rituals are the ONLY form of available magic**. Only Erealite magic exists at this time in the form of the Bright Hope rituals.
 
 Magical skills are designed so that **they do not replace** related [non-combat skills](/skills/#NonCom). For example, healing magic will not close wounds, splint bones, and stop bleeding. Rather, it will deal with more esoteric values such as health points, fatigue, recovery speed, and status ailments. Mundane healing techniques will complement magical healing rituals, and vice versa.
 
@@ -31,7 +31,7 @@ After years of training, Acolytes have the ability to use limited magic through 
 
 **Spells** (i.e. blessings & rituals) can vary in complexity, but they generally involve a combination of physical gestures and uttered phrases. Rather than there being a 'command verb' associated with each skill-action, as is the case in most [skill sets](/skills/), there are steps you must perform in order to activate a spell. 
 
-There are several stones of importance for performing spells. These [stones](/stones-ores/) can be [donated for reputation](/reputation/#Acolytes) to the [Cult of Ereal](/cult-of-ereal/).
+There are several stones of importance for performing spells. These [stones](/stones-ores/) can be [donated for reputation](/reputation/) to the [Cult of Ereal](/cult-of-ereal/).
 
 | Related Spell | Required Stone (description) | Effect |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ The ritual name is the same name as on your character sheet. You can shorten or 
 
 #### Notes 
 * You cannot use freeform emotes or the : (emote shorthand) in order to perform the ritual. You need to type out the emote command indicated.
-* Each step in the ritual requires more care and deliberate motion than normal movements. Unlike non-ritual emotes and speech, each stage of the ritual will incur [round-time](/skills/#RT).
+* Each step in the ritual requires more care and deliberate motion than normal movements. Unlike non-ritual emotes and speech, each stage of the ritual will incur [round-time](/skills/).
 * Erealite magic suffers enormous penalties at night, wearing armor and when sanity is compromised. So much that it may be near impossible to successfully cast a spell *(i.e. Success of 95)*.
 
 Once the last stage of the ritual is complete, the spell will activate. It will **ROLL** your **SUCCESS**, like any other action, and you will either succeed or fail at casting your spell.

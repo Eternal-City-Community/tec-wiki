@@ -40,7 +40,7 @@ category: "Guides & Commands"
 **Step 5**: Bring the rotten apples to Galbria who is at the entrance of the Apple Orchard.
 
 **<u>Notes</u>** 
-* Searching for rotten apples **does not consume [fatigue](/character-condition/#fatigue)**. 
+* Searching for rotten apples **does not consume [fatigue](/character-condition/#Fatigue)**. 
 * The **creatures** within the apple orchard are **not aggressive**, unless provoked.
 * The **denar/apple** rate is anywhere between **2 to 4 denars**.
 * Spending roughly **1-hour** searching for apples will net you **1,500-3,000 denars** (depending on the rate per apple).
@@ -87,7 +87,7 @@ category: "Guides & Commands"
 **Step 7**: Continue net mending or ask Uvol for your change.
 
 **<u>Notes</u>**
-* You may use [cordage](/hunting/#cordage) to replace twine.
+* You may use [cordage](/hunting/) to replace twine.
 * You can make **~370 denars / hour** while cleaning/repairing nets. 
 * You will need to equip yourself with **leather gloves** *(~120 denars cost)*.
 

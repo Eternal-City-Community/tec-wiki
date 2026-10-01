@@ -27,8 +27,8 @@ This skill set is best **complemented by knowledge of [Setups](/setups/).**
 | [Loose Lift](#Loose-Lift) | Impossible | - | - | 150 |
 | [Knife Lift](#Knife-Lift) | Difficult | - | - | 10 |
 | [Sword Lift](#Sword-Lift) | Impossible | - | - | 10 |
-| [Silent Slip](#Silent-Slip) | Average | - | - | 10 |
-| [Silent Draw](#Silent-Draw) | Average | - | - | 10 |
+| Silent Slip | Average | - | - | 10 |
+| Silent Draw | Average | - | - | 10 |
 
 ***<sup>1</sup> Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
 ***<sup>2</sup> Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast area of town.*

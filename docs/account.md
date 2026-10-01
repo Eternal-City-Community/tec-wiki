@@ -74,13 +74,13 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Creature Button](/rp-expenditure/#Creature) | 30 | 25 | 20 | Push "Big Red Button" in WA |
 | [Custom WA logout echo](/rp-expenditure/#logout) | N/A | 500 | 500 | @play |
 | Private Welcome Room area | N/A | N/A | 2,500 | @request |
-| [Playable NPCs](/rp-expenditure/#NPC) | N/A | 50 - 700 | 50 - 700 | @play |
+| [Playable NPCs](/rp-expenditure/#npc) | N/A | 50 - 700 | 50 - 700 | @play |
 | [Exchange Character Order on Playlist](/rp-expenditure/#moveCharacter) | N/A | 500 | 250 | @play |
 | Retrieve deleted character | 500 | 500 | 500 | @play |
 | Extra character slot | N/A | 4,000 | 3,000 | @play |
 | [Veteran Character Package](/veteran-characters/) |  |  | Free - 100K | @play |
 | Recover sold/discarded item | 200 | 150 | 100 | retrieve command IG |
-| [Item Alteration](/customization-guide/#Alteration) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#Alteration))* |
+| [Item Alteration](/customization-guide/) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#item-alterations))* |
 | [Custom Roleplay Prop](/customization-guide/#Props) | N/A | 1,500+ | 1,000+ | @request *(see [Custom Props](/customization-guide/#Props))* |
 | [Gear Alteration Package](/customization-guide/#gearAlteration) | N/A | 2,000 | 1,000 | @request *(see [Custom Requests](/customization-guide/#gearAlteration))* |
 | [Superior Weapon Upgrade](/rp-expenditure/#superior) | N/A | 2,500 | 1,500 | @play *(see [Custom Requests](/customization-guide/))* |
@@ -89,7 +89,7 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | Custom scar | 350 | 250 | 200 | @play |
 | Custom speech pattern | N/A | N/A | 250 | @play |
 | Single feature makeover/tattoo | N/A | 750 | 500 | @request *(see [Custom Requests](/customization-guide/))* |
-| [Character makeover](/customization-guide/#CharMakeover) <a id="CharMakeover"></a> | 2,000 | 1,500 | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
+| [Character makeover](/customization-guide/) <a id="CharMakeover"></a> | 2,000 | 1,500 | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom IG wakeup emote | N/A | N/A | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom IG Walk ("Siddhe stomps in from the west.") | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom IG Room Stance (“Senses slouches before you.”) | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |

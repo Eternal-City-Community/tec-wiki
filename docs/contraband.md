@@ -33,8 +33,8 @@ Tears can be found in and collected from 3 different [Rock Valley](/town-of-rock
  _
 
 * [The Broken Tower](/rock-valley-region/#Broken-Tower) [**2**]
-* [Resting Place](/rock-valley-region/#Resting Place) [**4**]
-* [Burial Grounds](/rock-valley-region/#Burial Grounds) [**3**]
+* [Resting Place](/rock-valley-region/) [**4**]
+* [Burial Grounds](/rock-valley-region/) [**3**]
 * [Undertown](/hg-undertown/) [**2-4***]
 
 ******Within Undertown, 2 of the boss room amphora have a 50% chance to spawn.*

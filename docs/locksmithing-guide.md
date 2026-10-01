@@ -17,7 +17,7 @@ Below you'll find everything important to know about [Locksmithing](/locksmithin
 * The journey to **[forging](#Forging) a [flawless lockpick](#Lockpicks) is long** and will likely require rank 200/200 in [Create Wax Imprint](/locksmithing/#Wax-Imprint), [Create Clay Mold](/locksmithing/#Clay-Mold) & [Forge Lock Instrument](/locksmithing/#Forge-Lock-Instrument).
 
 ### Advice & Tips
-* Your **lockpick quality** will **greatly affect** your success to open containers, try to get at least a **Very Spectacular** lockpick to start with and avoid using store-bought lockpicks. *(See the difference in [Lockpicks](#LockpickQualityChart))*
+* Your **lockpick quality** will **greatly affect** your success to open containers, try to get at least a **Very Spectacular** lockpick to start with and avoid using store-bought lockpicks. *(See the difference in Lockpicks)*
 * If an item **can fit into a crucible, it can be melted down** for forging. This includes lumps of metal, existing lockpicks, hair pins, etc.
 * Many locksmithing actions, like **unlocking**, **unjamming**, or creating clay molds, are **affected by the lighting** of your environment. Make sure you are in a **well-lit area** to ensure that you have the **lowest success** for your actions.
 
@@ -165,7 +165,7 @@ Wire lockpicks can be **made of** the following material:
 | Metals | Tin | Copper | Brass | Bronze | Iron | Silver |
 | --- | --- | --- | --- | --- | --- | --- |
 
-Wire lockpick quality follows the same descriptors as [forged lockpick quality](#LockpickQualityChart).
+Wire lockpick quality follows the same descriptors as forged lockpick quality.
 
 
 #### Create Keyring

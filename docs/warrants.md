@@ -57,7 +57,7 @@ As the Twelve Tables of Iridinian law make clear, those who commit a crime must 
 | 43. Enemy of the Republic | 49 wks | nothing | Crimes Against Iridine |
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -112,7 +112,7 @@ ix. **Posession of Outlawed Magical Items**
  Twelve (in-game) days are to be served in jail, and two talents in fines will be paid. Severe cases will be reviewed. Repetition of the crime is not to be tolerated and such instances will be investigated immediately.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -183,7 +183,7 @@ xiv. **Banditry**
  The initial arrest carries a fourty-eight week jail term, along with five talents in fines.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -260,7 +260,7 @@ xiii. **Abuse of the Public Trust**
  The initial sentence is one month in jail and a five talent fine.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -270,7 +270,7 @@ i. **Jail Time Outstanding**
  Used for adjustment of a person's jailtime sentence, or for early release. A Justice can also have the individual warranted for this and adjust their jailtime once in the cell, but it is not preferred to specific, named charges and is to only be used with explanations provided.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -315,4 +315,4 @@ ii. **Enemy of the Republic**
 
  Kill on sight orders may only be granted by an active Justice or magistrate.
 
-[Back to Top](#Top)
+[Back to Top](#)

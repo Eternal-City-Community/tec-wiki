@@ -117,7 +117,7 @@ TBC
 **Loot**: *TBC*
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ### Prison Dirt Yard
@@ -140,11 +140,11 @@ Located at the center of the prison's main level, there are **2 Sentries** stati
 **Loot**: *TBC*
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="PoW"></a>
 ### Prisoner of War (PoW)
 If overwhelmed by any of the Kelestian fighters and knocked unconscious, you will end up as a PoW. To be rescued, someone can venture to the prison. It is also possible to escape on your own. To do so, a good knowledge of **[Locksmithing](/locksmithing/)** is **highly recommended**, but you can also obtain a key to escape by looting one from a Kelestian Sentry.
 
-[Back to Top](#Top)
+[Back to Top](#)

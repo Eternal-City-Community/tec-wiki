@@ -35,8 +35,8 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 | [Pardelian Lion's Gambit](#LG) | Average | 2 | Long | Pierce | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 154 |
 | [Pardelian Reaper Slash](#RS) | Average | 2 | Short | Cut | [Pardelian Turtle Stance](#Stance)<br><br>40 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 154 |
 | [Pardelian Ankle Thrust](#AT) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance)<br><br>30 Ranks in [Shields](/shields/)<br><br>30 Ranks in [Hidden Thrust](#HT) | 154 |
-| [Pardelian Shield Sap](#ShieldSap) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Rank in [Swords Sap](/one-handed-swords/#Sap)<br><br>20 Ranks in [Shield Bash](/shields/#Shield-Bash) | 154 |
-| [Pardelian Slash and Sap](#SS) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Swords Sap](/one-handed-swords/#Sap)<br><br>20 Ranks in [Shield Bash](/shields/#Shield-Bash) | 154 |
+| [Pardelian Shield Sap](#ShieldSap) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Rank in [Swords Sap](/one-handed-swords/#Sap)<br><br>20 Ranks in [Shield Bash](/shields/) | 154 |
+| [Pardelian Slash and Sap](#SS) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br><br>20 Ranks in [Swords Sap](/one-handed-swords/#Sap)<br><br>20 Ranks in [Shield Bash](/shields/) | 154 |
 | [Pardelian Tag and Strike](#TS) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
 | [Pardelian Downward Block](#DB) | Average | 2 | - | - | [Pardelian Turtle Stance](#Stance) | 154 |
 | [Pardelian Stab and Twist](#ST) | Easy | - | - | - | [Pardelian Turtle Stance](#Stance) | 154 |

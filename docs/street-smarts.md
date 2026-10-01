@@ -33,7 +33,7 @@ category: "Reference"
 | Skill/Action | Difficulty | Prerequisite | Trainer # 1 | Trainer # 2 | Trainer # 3 | Trainer # 4 | Trainer # 5 | RV Trainer |  |  |  |
 | *<u>Street Smarts</u>* | Easy | - | 50 | 50 | 50 | 50 | 50 | 100 |  |  |  |
 | [Graffiti](#Graffiti) | Easy | - | 30 | - | - | - | - | 10 |  |  |  |
-| [Gang Markings](#Gang-Markings) | Average | 10 Ranks in [Paint Graffiti](#Paint-Graffiti) | - | - | - | - | - | - |  |  |  |
+| [Gang Markings](#Gang-Markings) | Average | 10 Ranks in Paint Graffiti | - | - | - | - | - | - |  |  |  |
 | [Stash](#Stash) | Easy | - | - | 40 | - | - | - | 100 |  |  |  |
 | [Find Stash](#Find-Stash) | Average | - | - | 40 | - | - | - | 10 |  |  |  |
 | [Watcher's Sense](#Watchers-Sense) | Average | - | - | - | 30 | - | - | 100 |  |  |  |

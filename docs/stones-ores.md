@@ -58,7 +58,7 @@ Stones may be found in a variety of sizes: **tiny**, **small**, *'normal'* (no d
 
 
 ⚡***Tiny tourmalated** (forked black lines) **stones** can be used to unlock specific sections of [Undertown](/hg-undertown/).*
-🙏***Ritual stones** are used as [reagents](/magic/#Reagents) and can be donated to the [Cult of Ereal](/reputation/#CoE) for reputation.*
+🙏***Ritual stones** are used as [reagents](/magic/) and can be donated to the [Cult of Ereal](/reputation/#CoE) for reputation.*
 🪙 *Represents an ingredient you can **purchase** in [shops](/shops/)*.
 
 
@@ -108,7 +108,7 @@ Ore may be found in a variety of sizes: **tiny chunk**, **very small chunk**, **
 
 
 ### Sample Prices
-The following table includes sample prices for most gems from all of the [gem buyers](/services/#toc4) in game. Note that prices will vary based on the current market and the person selling. Prices can also vary for stones of the same size and type that otherwise look the same. This is only a rough guide!
+The following table includes sample prices for most gems from all of the [gem buyers](/services/#gem-buyers) in game. Note that prices will vary based on the current market and the person selling. Prices can also vary for stones of the same size and type that otherwise look the same. This is only a rough guide!
 
 
 <details markdown="1">

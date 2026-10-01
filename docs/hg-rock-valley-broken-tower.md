@@ -15,7 +15,7 @@ As you often need to switch between opponents, there is **no suggested [macro](/
 
 
 #### Highlights
-* Up to **2 possible [tears](/contraband/#tears)** available to collect from this area.
+* Up to **2 possible [tears](/contraband/#Tears)** available to collect from this area.
 
 
 ### Map
@@ -59,7 +59,7 @@ City of Iridine: [Harbor](/harbor/)
 
 The **upper hallways are in disrepair** and haven't been properly maintained in centuries; traversing across the **unstable floors** is not only arduous, but dangerous, as well. The tower is also inhabited by vicious **nest turtles**; overly **aggressive creatures** that foster a symbiotic relationship with insects referred to as **shield bees**. The shield bees often reside within overdeveloped structures within the nest turtle's shell and emerge to defend their host should it be attacked.
 
-Any attempt to **collect a [tear](/contraband/#tears) from an amphora** will result in **2 nest turtles spawning**.
+Any attempt to **collect a [tear](/contraband/#Tears) from an amphora** will result in **2 nest turtles spawning**.
 
 **<u>Opponents</u>** 
 * **Nest Turtles:** Nest turtles have a high chance of blocking anyone from exiting the room they occupy until they are dispatched *(higher [stats](/stats/) can make it easier to escape)*, but before you can attack the turtle directly **you must first kill their shield bees**. If you take too long to kill their shield bees, turtles will begin to hit you much more easily.
@@ -67,7 +67,7 @@ Any attempt to **collect a [tear](/contraband/#tears) from an amphora** will res
 * **Shield Bees:** Shield bees are **only vulnerable to attack** when they are **'open'** and not protected by their mandibles. Attacking while a shield bee is 'closed' will only waste time and energy. Time your strikes accordingly and focus only on those shield bees that are open to attack, they are relatively weak if you can land an actual strike. Any **attack on a shield bee will cause them to close immediately**, so **multi-hitting moves are advantageous** here. **HINT: The shield bees each have unique adjectives to describe them, use those for targeting!**
 
 
-**Loot**: [Crystal Tears](/contraband/#tears).
+**Loot**: [Crystal Tears](/contraband/#Tears).
 
 
-[Back to Top](#Top)
+[Back to Top](#)

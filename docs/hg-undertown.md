@@ -15,7 +15,7 @@ This hunting ground consists over multiple levels. There are mechanics in place 
 #### Highlights
 * This hunting ground is split into **3 section**, each geared towards **different levels of combat skill**.
 * Multiple **boss rooms**, containing **unique loot** not found elsewhere.
-* Up to **4 possible [tears](/contraband/#tears)** (from boss rooms), with 2 guaranteed.
+* Up to **4 possible [tears](/contraband/#Tears)** (from boss rooms), with 2 guaranteed.
 * Specific **[tourmalated stones](/stones-ores/)** are needed to descend into lower levels.
 * **Falling unconscious** on any level usually results in a broken limb, lasting **7+ real-life days**.
 * You should be careful if you have the **[sickly](/traits/#Sickly) trait**, as there are diseased creatures in this hunting ground.
@@ -117,14 +117,14 @@ A minimum of **3 people** are needed for this level.
 
 **<u>Special Notes</u>** 
 * After defeating this boss, a side passage is revealed with a statuette **needed to unlock the Final Boss**
-* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/#tear).
+* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/).
 
 
 **<u>Opponents</u>** 
 * A huge hulking guy
 * Regular men
 
-**Loot**: **Loot chest** or [Tear](/contraband/#tear), statuette, etc.
+**Loot**: **Loot chest** or [Tear](/contraband/), statuette, etc.
 
 
 <a id="Level3Boss2"></a>
@@ -134,14 +134,14 @@ A minimum of **3 people** are needed for this level.
 
 **<u>Special Notes</u>** 
 * After defeating this boss, a side passage is revealed with a statuette **needed to unlock the Final Boss**
-* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/#tear).
+* The newly opened room also has either a **loot chest** or an amphora containing a [Tear](/contraband/).
 
 
 **<u>Opponents</u>** 
 * A huge Rat King
 * Diseased Rats
 
-**Loot**: **Loot chest** or [Tear](/contraband/#tear), etc.
+**Loot**: **Loot chest** or [Tear](/contraband/), etc.
 
 
 <a id="Level3Boss3"></a>
@@ -158,7 +158,7 @@ A skeleton king with an army of skeletons. He wears the crown of the damned and 
 * Skeleton King
 * Army of skeletons
 
-**Loot**: **Loot chest**, [tears](/contraband/#tear), grey vials (mentals), black vials (willpower, combat).
+**Loot**: **Loot chest**, [tears](/contraband/#tears), grey vials (mentals), black vials (willpower, combat).
 
 
-[Back to Top](#Top)
+[Back to Top](#)

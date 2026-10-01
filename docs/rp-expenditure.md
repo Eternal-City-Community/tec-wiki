@@ -31,7 +31,7 @@ See the full list of [commands](/commands/).
 
 <a id="Creature"></a>
 ### Creature Button Pushes
-Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** received as a [perk](/account/#perk). The creature button is located in **the creature controller room** (Ex1 & Nx1 from the main Welcome Room). Look for **"A big red button"** and push it.
+Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** received as a [perk](/account/). The creature button is located in **the creature controller room** (Ex1 & Nx1 from the main Welcome Room). Look for **"A big red button"** and push it.
 
 > **In-Game Prompt**
 > By pushing this button you will be given the opportunity to play an NPC that is already active in the game for a cost of 30 Role Points. The NPC will be chosen at random. Keep in mind that the creature could be in the middle of combat and about to die at any minute. The NPC could also be alone somewhere in the game world with no danger in sight. It is a gamble you take, but one that could open up many role-play opportunities for you. The list of available NPCs for you to play will NOT include any shopkeepers, law-keepers, or any other long-standing NPCs of the game. The list will be chosen from the creatures that spawn in hunting grounds or are pulled from crowds. You will lose control of the NPC once the NPC is killed, or you decide to quit (using the normal method you use to quit playing any of your characters) and return here. By pushing this button you agree that you fully understand the above and want to spend 30 role points to emulate a random NPC in the game world. Do you wish to continue? [Y/N]
@@ -42,7 +42,7 @@ Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** re
 * The NPC is be **chosen at random**. *(The creature could be in the middle of combat and about to die at any minute or be alone in the middle of nowhere.)*
 * The list of available NPCs will be chosen from **creatures** that spawn in **hunting grounds** or are **pulled from crowds**, **excluding** certain types like Constables, Vigiles, etc. 
 * You will **lose control** of the NPC once the **NPC is killed** or you decide to **quit** (using the normal method you use to quit playing any of your characters).
-* Creature button pushes received as a **[perk](/account/#perk) do not require an available character slot**. *(It is not known whether free accounts can use previously earned creature button pushes.)*
+* Creature button pushes received as a **[perk](/account/) do not require an available character slot**. *(It is not known whether free accounts can use previously earned creature button pushes.)*
 * Player NPCs **cannot use** the following commands: **skills** *(but they can use 'skills ?')*, **unlearn**, **selftrain**, **teach** or **buy**.
 * Player NPCs **cannot** **gain SP**.
 

@@ -234,7 +234,7 @@ By now, you should have a relatively decent grasp for how to navigate the macro 
 
 Proper use of macros will make your life in TEC a thousand times easier, and save your wrists some wear and tear from typing. I highly recommend playing around with the system and learning all of the ins and outs on how to use it. One final word on macros, they're very useful for making RP specific 'tics' for your character, such as an eyetwitch or a limp or any other sort of depth you may want to add to them. Try it out and breathe some new life into your roleplaying with some interesting macroed emotes.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Essentials"></a>
@@ -310,7 +310,7 @@ Now for the really fun ones - stealing stuff! After all, the thrill of that next
 
 Unfortunately, there is no easy macro for grabbing items since the items to be grabbed are far too varied to make one macro for. If you thought the slice one was bad, that one would be a mile long by comparison.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Random"></a>
@@ -342,7 +342,7 @@ Scared a thief might be lurking outside your inn room, just waiting to yank that
 
 It's okay to be paranoid, really. You are a thief after all. You know what it's like out there man!
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Conclusion"></a>

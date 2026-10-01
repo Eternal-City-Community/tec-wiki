@@ -358,7 +358,7 @@ Swing his axe horizontally, Hroth knocks away a thug's dirk.
 
 ### Axe Leg Strike  *leg?strike <target>*
 
-The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#willpower) will help them remain standing. The attacker's [strength](/stats/#strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down.
+The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#Willpower) will help them remain standing. The attacker's [strength](/stats/#Strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down.
 
 This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
 
@@ -395,7 +395,7 @@ Protarian aggressively chops his retalq axe down at thug while stepping forward,
 
 ### Axe Stepping Leg Strike  *sle?gstrike <target>*
 
-The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#willpower) will help them remain standing. The attacker's [strength](/stats/#strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down. 
+The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#Willpower) will help them remain standing. The attacker's [strength](/stats/#Strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down. 
 
 Executing this attack will leave the attacker in a **more aggressive posture** and cannot be used from a berserk posture.
 

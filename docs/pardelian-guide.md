@@ -15,7 +15,7 @@ Below you'll find everything important to know about the Pardelian gladius style
 * Assuming **Turtle Stance gives a small bonus to [shield bashes](/shields/)**.
 * **[Hidden Thrust](/pardelian-one-handed-swords/#HT)** has defense penetrating capabilities, is a difficult attack to block and inflicts good damage.
 * **[Ankle Thrust](/pardelian-one-handed-swords/#AT)** is a heavy-hitting attack ([5th level damage](/character-condition/#Wounds)), aimed low by default. Oftentimes strong enough to pierce armor and cause an opponent to wince with minimal hits, though it can be difficult to land.
-* **[Shield Charge](/pardelian-one-handed-swords/#SchieldCharge)** is a good advancing attack with a chance to knock your opponent down.
+* **[Shield Charge](/pardelian-one-handed-swords/)** is a good advancing attack with a chance to knock your opponent down.
 * **[Reaper Slash](/pardelian-one-handed-swords/#RS)** is a strong-hitting attack, capable of unwielding your opponent's weapon if blocked.
 * **[Downward Block](/pardelian-one-handed-swords/#DB)** is an additional block, added to the layer of [Sword Blocks](/one-handed-swords/).
 * **[Stab and Twist](/pardelian-one-handed-swords/#ST)** can boost the damage of piercing attacks in [Pardelian Gladius Combat](/pardelian-one-handed-swords/) & [One-Handed Swords](/one-handed-swords/).
@@ -23,7 +23,7 @@ Below you'll find everything important to know about the Pardelian gladius style
 #### Cons
 * This is not a standalone skill set and many prerequisites require you to **first learn [One-Handed Swords](/one-handed-swords/)**.
 * Using Pardelian means the investment in a completely separate skill set, outside of Swords and Shields. This will likely lead to **longer training and more overall SP** required to progress to higher tiers of combat.
-* [Shield Charge](/pardelian-one-handed-swords/#SchieldCharge) has a chance for the attacker to **stumble and fall down** is missed. This will **no longer occur** one you've reached grandmaster (90 ranks) in [Pardelian Gladius Combat (Basics)](/pardelian-one-handed-swords/).
+* [Shield Charge](/pardelian-one-handed-swords/) has a chance for the attacker to **stumble and fall down** is missed. This will **no longer occur** one you've reached grandmaster (90 ranks) in [Pardelian Gladius Combat (Basics)](/pardelian-one-handed-swords/).
 * [Killing Thrust](/pardelian-one-handed-swords/#KT) will leave the attacker **in a kneeling position** if performed without fellow Pardelian users surrounding the target.
 * [Tag and Strike](/pardelian-one-handed-swords/#TS) is a difficult move with a penalty, making it very hard to successfully land.
 * [Slash and Sap](/pardelian-one-handed-swords/#SS) and [Shield Sap](/pardelian-one-handed-swords/#ShieldSap) are **near identical maneuvers** in terms of damage & defenses blocking them. Neither are particularly easy to land.
@@ -46,11 +46,11 @@ For detailed information, **see the [Sword Guide (Weapons)](/one-handed-swords-g
 * [Hidden Thrust](/pardelian-one-handed-swords/#HT) - Defense-penetrating attack.
 * [Ankle Thrust](/pardelian-one-handed-swords/#AT) - Heavy-hitting attack aimed low.
 * [Reaper Slash](/pardelian-one-handed-swords/#RS) - A strong attack.
-* [Shield Charge](/pardelian-one-handed-swords/#SchieldCharge) - A solid advance, with a chance to knock your opponent down.
+* [Shield Charge](/pardelian-one-handed-swords/) - A solid advance, with a chance to knock your opponent down.
 
 #### Less useful
 * [Killing Thrust](/pardelian-one-handed-swords/#KT) - Heavy-hitting attack against prone targets, but it leaves you in a kneeling.
-* [Lion's Gambit](/nelsor-one-handed-swords/#LG) - Stance-changing attack, straight to berserk that tosses your shield aside.
+* [Lion's Gambit](/nelsor-one-handed-swords/) - Stance-changing attack, straight to berserk that tosses your shield aside.
 
 
 ### Complimentary Skill Sets

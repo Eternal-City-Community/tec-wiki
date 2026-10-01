@@ -21,7 +21,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 | <u>*Basic Leatherworking*</u> |  | 103 |
 | [Cut Leather Component](#Cut-Leather) | easy | 50 |
 | [Lace Leather Components](#Lace-Leather) | easy | 50 |
-| [Layout Leather Component](#Layout-Leather) | easy | 50 |
+| Layout Leather Component | easy | 50 |
 | [Punch Leather Holes](#Punch-Leather) | easy | 50 |
 | [Apply Metal Studs](#Apply-Metal) | average | 50 |
 | [Bevel Leather Component](#Bevel-Leather) | average | 50 |
@@ -172,7 +172,7 @@ Related commands are commands that require no skill or training to use, but are 
 
 ### Threading  *thread <needle> with <thread>*
 
-Before performing actions such as [stitching](#Stitch-Pattern), your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
+Before performing actions such as stitching, your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
 
 **When you see this in use you see:**
 

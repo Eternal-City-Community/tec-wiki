@@ -82,26 +82,26 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Vitrus | Dreggo | Gilven | Maerodus | Hatrin |
 | *<u>Knives</u>* | - | - | - | - | - | 300 | 80 | 50 | 80 | 90 |
-| [Knife Simple Stab](#Stab) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Slash](#Slash) | Average | 1 | Short | Cut | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Overhead Strike](#Strike) | Easy | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Chop](#Chop) | Easy | 1 | Short | Cut | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Step and Lunge](#Lunge) | Difficult | 1 | Long | Pierce | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Jab](#Jab) | Easy | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Short Block](#Sblock) | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Feint](#Feint) | Average | 1 | Short | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Long Block](#Lblock) | Difficult | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Cross Block](#Cblock) | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Stealthy Draw](#Draw) | Easy | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Wrist Dancing](#Wd) | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
-| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut | [Knife Slash](#Slash) (20 Ranks) | 175 | 80 | 50 | 75 | 75 |
-| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut | [Knife Simple Stab](#Stab)(10 Ranks)<br><br>[Knife Slash](#Slash) (10 Ranks) | 175 | 80 | 50 | 75 | 75 |
-| [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 175 | 80 | - | 75 | - |
-| [Knife Accuracy](#Accuracy) | Difficult | - | - | - | - | 175 | - | 75 | 75 | - |
-| [Knife Grip](#Grip) | Impossible | - | - | - | - | 175 | - | 75 | 75 | - |
+| Knife Simple Stab | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Slash | Average | 1 | Short | Cut | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Overhead Strike | Easy | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Chop | Easy | 1 | Short | Cut | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Step and Lunge | Difficult | 1 | Long | Pierce | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Jab | Easy | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Short Block | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Feint | Average | 1 | Short | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Long Block | Difficult | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Cross Block | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Stealthy Draw | Easy | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Wrist Dancing | Average | 1 | - | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Push Aside | Difficult | 1 | Short | - | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Round Strike | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Underhand Stab | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
+| Knife Whirling Slash | Average | 1 | Short | Cut | Knife Slash (20 Ranks) | 175 | 80 | 50 | 75 | 75 |
+| Knife Stab and Slash | Average | 1 | Short | Cut | Knife Simple Stab(10 Ranks)<br><br>Knife Slash (10 Ranks) | 175 | 80 | 50 | 75 | 75 |
+| Knife Flicking Feint | Average | 1 | Short | - | - | 175 | 80 | - | 75 | - |
+| Knife Accuracy | Difficult | - | - | - | - | 175 | - | 75 | 75 | - |
+| Knife Grip | Impossible | - | - | - | - | 175 | - | 75 | 75 | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, Ex4, Sx6
@@ -113,8 +113,8 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 | Skill | Guaranteed Multi-Hits |
 | --- | --- |
-| [Knife Whirling Slash](#Whirl) | 100 ranks in [Knife Slash](#Slash) |
-| [Knife Stab and Slash](#Dc) | 50 Ranks in [Knife Simple Stab](#Stab)<br><br>50 Ranks in [Knife Slash](#Slash) |
+| Knife Whirling Slash | 100 ranks in Knife Slash |
+| Knife Stab and Slash | 50 Ranks in Knife Simple Stab<br><br>50 Ranks in Knife Slash |
 
 
 <details markdown="1">

@@ -22,17 +22,17 @@ Avros is also a popular amongst patricians, noble families, and other members of
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Dreggo | Varga |
 | *<u>Avros Gladius Combat</u>* | Easy | - | - | - | - | 100 | 500 |
-| [Avros Dueling Stance](#Dueling) | Easy | - | - | - | - | 100 | 100 |
-| [Avros Rapid Strike](#Rapid) | Easy | Either | Short | Cut | 30 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
-| [Avros Forced Thrust](#Forced) | Average | Either | Short | Cut | 10 Ranks in [Swords Jab](/one-handed-swords/#Jab)<br><br>10 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 100 | 500 |
-| [Avros Needle Strike](#Needle) | Average | Either | Short | Pierce<br><br>Pierce<br><br>Pierce<br><br>Pierce | 40 Ranks in [Swords Jab](/one-handed-swords/#Jab) | 100 | 500 |
-| [Avros Stab and Slash](#Stab) | Average | Either | Short | Pierce<br><br>Cut | 20 Ranks in [Swords Stab](/one-handed-swords/#Stab)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
-| [Avros Whirling Strike](#Whirling) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
+| Avros Dueling Stance | Easy | - | - | - | - | 100 | 100 |
+| Avros Rapid Strike | Easy | Either | Short | Cut | 30 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
+| Avros Forced Thrust | Average | Either | Short | Cut | 10 Ranks in [Swords Jab](/one-handed-swords/#Jab)<br><br>10 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 100 | 500 |
+| Avros Needle Strike | Average | Either | Short | Pierce<br><br>Pierce<br><br>Pierce<br><br>Pierce | 40 Ranks in [Swords Jab](/one-handed-swords/#Jab) | 100 | 500 |
+| Avros Stab and Slash | Average | Either | Short | Pierce<br><br>Cut | 20 Ranks in [Swords Stab](/one-handed-swords/#Stab)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
+| Avros Whirling Strike | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
 | [Avros Strike and Smash](#Strike) | Difficult | Either | Short | - | 10 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
-| [Avros Pivot Lunge](#Pivot) | Difficult | Either | Short | Pierce | 20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 100 | 500 |
-| [Avros Sunrise Block](#Sunrise) | Average | Either | - | - | [Avros Dueling Stance](#Dueling) | 100 | 500 |
-| [Avros Flailing Defense](#Flailing) | Average | Either | Either | - | - | 100 | 175 |
-| [Avros Flinging Disarm](#Flinging) | Difficult | Either | Short | - | - | 100 | 175 |
+| Avros Pivot Lunge | Difficult | Either | Short | Pierce | 20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 100 | 500 |
+| [Avros Sunrise Block](#Sunrise) | Average | Either | - | - | Avros Dueling Stance | 100 | 500 |
+| Avros Flailing Defense | Average | Either | Either | - | - | 100 | 175 |
+| Avros Flinging Disarm | Difficult | Either | Short | - | - | 100 | 175 |
 
 **Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, Walk to Blackvine, Ex4, Sx6
 **Directions to Varga** ([City of Monlon](/city-of-monlon/)): Walk to Monlon Bank, Sx2, NE, Ex3, S, Ex3

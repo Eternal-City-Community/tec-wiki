@@ -71,7 +71,7 @@ Franlius battleground, located to the north, border the Cineran army. They consi
 See [Franlius Battlegrounds](/hg-franlius/) for more details.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="Reputation"></a>

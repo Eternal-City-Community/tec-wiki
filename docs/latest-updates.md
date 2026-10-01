@@ -41,7 +41,7 @@ category: "Reference"
 * **September 16<sup>th</sup> 2022**: For the first time in 17 years, a **new combat skill set** has been released! The [Chainblade](/chainblade/) is here to stay!  [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/911/) for more details.
 
 
-* **September 2<sup>nd</sup> 2022**: **Kelestian [combat skills](/skills/#Unreleased)** are **ready for release**! They will be rolled out **one at a time** over the next few months. Use @poll in the Welcome Area to **cast your vote**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/897/) for more details.
+* **September 2<sup>nd</sup> 2022**: **Kelestian [combat skills](/skills/)** are **ready for release**! They will be rolled out **one at a time** over the next few months. Use @poll in the Welcome Area to **cast your vote**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/897/) for more details.
 
 
 * **September 2<sup>nd</sup> 2022**: JagerBtFM's **September Contest** is now live! **Follow JagerBtFM** on Youtube, Twitch and **write a review for TEC on Mud Scry** to be entered **by September 30<sup>th</sup>**. The **grand prize is a Vetallun Reforge Ticket** *(valued at 95 talents)*. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/898/) for more details.

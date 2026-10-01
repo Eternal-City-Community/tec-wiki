@@ -343,7 +343,7 @@ Related commands are commands that require no skill or training to use, but are 
 
 ### Recall  *recall <lore>*
 
-To [stitch a pattern](#Stitch-Pattern) or [sew a patch](#Basic-sew), you first need to **recall <lore>** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
+To [stitch a pattern](#Stitch-Pattern) or sew a patch, you first need to **recall <lore>** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
 
 **Maker's mark** is a special **lore**, in that it allows someone to identify the maker of an item by inspecting it.
 

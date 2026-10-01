@@ -170,7 +170,7 @@ sitting or laying down.
 
 All in all, I got lucky with a decent character roll that fulfilled all three of my stat requirements. Hopefully, your rolls will be at least as successful, but the chargen can be a very fickle creature. Now that we have created Thaelan, it's time to bring him into Iridine for a bit of mischief and mayhem.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Day1"></a>
@@ -260,7 +260,7 @@ A Note on Skills: Up to this point, we really have not discussed the reason why 
 
 At this point, you should be able to safely use cut and lift to make some coin between rounds of palming. As always, choose your location wisely. In order to provide you some guidance in that regard, there are 6 establishments in the harbor that have crowds at all hours of the day and do not have constables or soldiers in those crowds for the marks to pull on you. Three of them are uncomfortably close to highly trafficked areas like the [Stone Toga Inn](/stone-toga-inn/) where someone might hear a trader or other mark yell if you miss your lift. One of them is just an unwise choice to utilize unless you want to make a bad first impression with the wrong group of people (Be wary of doors with moons on them). The other two, however, are perfect for our purposes - situated in low traffic areas and rarely visited by anyone but our potential victims. Find them, use them, and make the coin that you need with little worry of getting yourself arrested early on. So for now, get your cut and lift up to a perfect 1 success and then we'll move on to bigger and better marks for you to make a living from.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Day7"></a>
@@ -321,7 +321,7 @@ During your time of lifting pouches from traders, no doubt you noticed a few bag
 
 Finally, you can hope to run across a freelance thief. There are a handful of notorious thieves out there, who might be willing to teach you a thing or two - for a price, and usually a hefty price. It is possible for a thief to make it out there entirely on his or her own, but it is not an easy path to pursue by any means. These freelancers will be your primary source of training, but there's always a risk in going that route. While an organization will have a certain amount of loyalty to you, a freelancer is loyal to himself only - therefore you never know when or if they might turn on you. Consider yourself properly warned.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Resources"></a>
@@ -334,4 +334,4 @@ I hope that this guide has been useful to you and wish you the best of luck in y
 
 Happy Hunting!
 
-[Back to Top](#Top)
+[Back to Top](#)

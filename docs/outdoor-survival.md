@@ -132,7 +132,7 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
-With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light <group of wooden items>' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
+With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light <group of wooden items>' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#aestiva-signalfire-lore).
 
 **When you see this in use you see:**
 
@@ -382,7 +382,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 ### Craft Fishing Pole  *craft pole with <sapling>*
 
-Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/#cordage) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
+Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
 
 **When you see this in use you see:**
 

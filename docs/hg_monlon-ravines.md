@@ -47,7 +47,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 **Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="Tier2"></a>
@@ -75,7 +75,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 **Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="Tier3"></a>
@@ -104,7 +104,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 **Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="Tier4"></a>
@@ -133,7 +133,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 **Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="Tier5"></a>
@@ -214,4 +214,4 @@ There are specific ambush spots. Once triggered, a mix of low-end & high-end opp
 **Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
 
-[Back to Top](#Top)
+[Back to Top](#)

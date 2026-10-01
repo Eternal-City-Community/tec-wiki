@@ -10,7 +10,7 @@ category: "Reference"
 Each character has 13 attributes that set the groundwork for his or her abilities. Most stats are intuitive. You need strength to carry large amounts of equipment. Others have underlying hidden benefits that aren't always apparent. Attributes are displayed on your character sheet (type stats).
 
 **Jump to:**
-* [Attribute Types](#Attributetypes)
+* [Attribute Types](#attributetypes)
 * [Improving Attributes](#improvingattributes)
 * [Temporary Modifiers](#temporarymods)
 * [Numeric Equivalents](#numerics)
@@ -100,7 +100,7 @@ Strength calculates how much you can carry:
 #### Willpower
 Can your character withstand a novice healer's unsuccessful attempts at setting that broken bone, bearing nothing but a smile? If so, she has high Willpower. Willpower helps you hold absolutely still when trying to hide, survive blows to the head without blacking out and mitigate penalties associated with fighting at less than maximum Hit Points. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, and by using story points.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="trainingcourses"></a>
@@ -125,7 +125,7 @@ Head to a training course to improve your character's physical attributes more q
 * Obstacles: Climbing Wall, Mud Pit, Swinging Sandbags, Plank Pool, Burning Coal Walk
 * Attributes: Strength, Dexterity, Agility, Perception, Willpower
 * Directions: walk to Vetallun Road, walk to Vetallun Crossroads, w x5, nw x3, n x2
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="numerics"></a>
@@ -168,13 +168,13 @@ When your character is created, they start with a set of "base" attribute values
 
 * You can [naturally](#naturalatt) increase your base attribute values by completing [training courses](#trainingcourses) or simply through normal gameplay by using your skills. Once an attribute's base value reaches its potential, you can use [role-points](/account/#RolePoints) to increase it further.
 
-* You can use [StoryPoints](/account/#StoryPoints) to instantly increase an attribute. With StoryPoints, there’s no need to train or wait for natural growth—your character gets the improvement immediately.
+* You can use [StoryPoints](/account/#Storypoints) to instantly increase an attribute. With StoryPoints, there’s no need to train or wait for natural growth—your character gets the improvement immediately.
 
 * Keep in mind that each attribute description (such as "Average" or "Very Good") covers a range of values. It might take 10 or more attribute increases for the description to change, but your character benefits from each increase, even if the adjective stays the same.
 
 * Your character's potential to improve is not limitless, and the [traits](/traits/) you chose during character generation impact your maximum potential. You'll be notified in the StoryPoint or RolePoint menu when you can no longer purchase increases for a particular stat.
 
-There are also [skills](#statskills) you can learn that, if sufficiently trained, will replace an attribute's value with a higher one in certain situations (effectively raising the appropriate attribute level).
+There are also skills you can learn that, if sufficiently trained, will replace an attribute's value with a higher one in certain situations (effectively raising the appropriate attribute level).
 
 ---
 <a id="naturalatt"></a>
@@ -209,7 +209,7 @@ Certain skills supplement your character's attributes, allowing you to save on R
 
 Learning statskills, however, has its limitations.  A statskill's bonus will cap at rank 90 (grandmaster), and will provide the equivalent of being low-end Great in the relevant attribute. However, this bonus applies only to combat situations - stat skills do not increase your attributes for any other purpose. <sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1720813-attribute-caps?p=1721016#post1721016)</sup>
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -217,4 +217,4 @@ Learning statskills, however, has its limitations.  A statskill's bonus will cap
 ### Temporary Modifiers
 Your character's stats can be temporarily modified by certain substances (shh - they're a secret), prayers or blessings, [coma sickness](/character-condition/#Coma), [encumbrance](/character-condition/#Load), [sitting or lying](/character-condition/#Position), and other events. For example, being sprayed by a skunk will temporarily lower your Appearance, Charisma, and Perception. Positive modifiers have the potential to temporarily increase your character's attributes beyond her natural cap.
 
-[Back to Top](#Top)
+[Back to Top](#)
