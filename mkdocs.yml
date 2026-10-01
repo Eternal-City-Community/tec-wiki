@@ -54,7 +54,7 @@ extra_css:
   - stylesheets/tec.css
 
 extra_javascript:
-  - javascripts/tec-nav.js
+  - javascripts/tec-nav-v2.js
   - javascripts/tec-sidebar.js
   - javascripts/tec-skill-pages.js
   - javascripts/tec-veteran-tabs.js
