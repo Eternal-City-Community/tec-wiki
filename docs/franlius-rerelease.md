@@ -9,12 +9,12 @@ category: "World & Maps"
 
 The **[Town of Franlius](/town-of-franlius/) is under assault by the undead!**
 
-> ##purple|A rumor is circulating around:
-> Whispers in every port around speak of a colossal storm disrupting shipping routes around Franlius. The old sailors all tell stories warning of old magic. Nearer to Blackvine, Aestivans scramble to recover and continue along with their mission.##
+> A rumor is circulating around:
+> Whispers in every port around speak of a colossal storm disrupting shipping routes around Franlius. The old sailors all tell stories warning of old magic. Nearer to Blackvine, Aestivans scramble to recover and continue along with their mission.
 
 
-> ##purple|315th Year of the Republic:
-> Rumors filtering in from Blackvine tell of strange foreigners passing through with some loading supplies onto small cargo vessels and sailing off to the northeast. Others whisper of groups remaining, coming in to buy food and basic supplies before leaving again toward Vetallun.##
+> 315th Year of the Republic:
+> Rumors filtering in from Blackvine tell of strange foreigners passing through with some loading supplies onto small cargo vessels and sailing off to the northeast. Others whisper of groups remaining, coming in to buy food and basic supplies before leaving again toward Vetallun.
 
 The undead have begun their attack on [Franlius](/town-of-franlius/) and the city is in shambles. High winds and deadly swarms of rotting corpses now roam freely across the northern bridge. It is **recommended to travel in groups** when venturing across the bridge.
 
