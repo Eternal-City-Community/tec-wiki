@@ -130,6 +130,10 @@ for p in DOCS.glob("*.md"):
     text = text.replace("[[source](", "[source](")
     if p.name == "aoden-hunting-guide.md":
         text = text.replace("1s @@", "1s")
+    if p.name == "newbie-combat-guide.md":
+        text = text.replace("http://eternal-city.wikidot.com/combat-skills", "/combat-skills/")
+    if p.name == "shops.md":
+        text = text.replace('a.href = "https://eternal-city.wikidot.com/" + locObj[2];', 'a.href = "/" + locObj[2] + "/";')
 
     text = re.sub(r"\n{4,}", "\n\n\n", text)
     p.write_text(text, encoding="utf-8")
