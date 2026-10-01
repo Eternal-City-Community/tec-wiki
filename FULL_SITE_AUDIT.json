@@ -8,18 +8,5 @@
     "literal_anchor_heading": 0,
     "duplicate_title": 0
   },
-  "manual_review": [
-    {
-      "page": "herbalism.md",
-      "issues": [
-        "additional H1 headings at lines 150,151"
-      ]
-    },
-    {
-      "page": "rank-bonus-calculator-classic.md",
-      "issues": [
-        "possible leftover Wikidot || table markup"
-      ]
-    }
-  ]
+  "manual_review": []
 }
