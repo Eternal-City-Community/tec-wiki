@@ -43,6 +43,14 @@ function initTecSkillPages() {
     while (box.lastChild && box.lastChild.nodeType === Node.TEXT_NODE && !box.lastChild.textContent.trim()) {
       box.removeChild(box.lastChild);
     }
+
+    // Migration preserved source formatting newlines inside the raw HTML
+    // wrapper. Collapse empty spacer lines without changing real output lines.
+    Array.from(box.childNodes).forEach(function (node) {
+      if (node.nodeType === Node.TEXT_NODE) {
+        node.textContent = node.textContent.replace(/\n[ \t]*\n+/g, "\n");
+      }
+    });
   });
 
 
