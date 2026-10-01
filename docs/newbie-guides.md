@@ -3,7 +3,7 @@
 <a id="Top"></a>
 ### **Getting Started:** 
 
-![](https://eternal-city.wdfiles.com/local--files/files/The%20Road%20-%20Final.jpg)
+![](/assets/wikidot/files/The%20Road%20-%20Final.jpg)
 
 
 <a id="GettingStarted"></a>

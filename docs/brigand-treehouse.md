@@ -1,6 +1,6 @@
 # Brigand Treehouse
 
-![](https://eternal-city.wdfiles.com/local--files/brigand-treehouse/EastoftheSalinaeRiver-brigandtreehouse.gif)
+![](/assets/wikidot/brigand-treehouse/EastoftheSalinaeRiver-brigandtreehouse.gif)
 
 
 **Related Maps**

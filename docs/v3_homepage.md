@@ -1,13 +1,13 @@
 # V3 Homepage
 
-[![](https://eternal-city.wdfiles.com/local--files/files/IridineMapShortest.png)](https://eternal-city.wdfiles.com/local--files/files/Map%20of%20Iridine%20-%20FULL.jpg)
+[![](/assets/wikidot/files/IridineMapShortest.png)](/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)
 
 
 ## The Eternal City - A Text Based MUD 
 The Eternal City (TEC) is a Text-Based Multi Player Role Playing game, based in a Roman inspired atmosphere. TEC supports **FREE** accounts, as well as [Basic](/account/) and [Premium](/account/) subscriptions, and is operated by Three Seas LLC.
 
 
-[![Play Now](https://eternal-city.wdfiles.com/local--files/files/play_now_v3.png)](https://login.eternalcitygame.com/login.php)
+[![Play Now](/assets/wikidot/files/play_now_v3.png)](https://login.eternalcitygame.com/login.php)
 
 
 ---

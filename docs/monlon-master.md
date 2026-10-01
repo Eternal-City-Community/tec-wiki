@@ -3,7 +3,7 @@
 ---
 This map is very large. Depending on your zoom level and display size, you may to scroll to the right or down to see the map.
 
-![](https://eternal-city.wdfiles.com/local--files/monlon-master/monlon-master.gif)
+![](/assets/wikidot/monlon-master/monlon-master.gif)
 
 ##### Related maps
 

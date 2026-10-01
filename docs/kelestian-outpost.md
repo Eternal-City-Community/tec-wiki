@@ -16,7 +16,7 @@ The Kelestian Outpost houses a reputation vendor, a resting room and trainers fo
 [Visit the Map Page](/monlon-kelestian-outpost/)
 
 
-![](https://eternal-city.wdfiles.com/local--files/files/kelestian%20outpost%202023-08-03.png)
+![](/assets/wikidot/files/kelestian%20outpost%202023-08-03.png)
 
 
 **Related maps**

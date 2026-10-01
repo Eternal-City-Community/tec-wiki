@@ -64,4 +64,4 @@ Those with a strong back can find a great deal of value for their time spent in 
 
 ### Map
 
-[![](https://eternal-city.wdfiles.com/local--files/files/iridine-sewers.gif)](https://eternal-city.wdfiles.com/local--files/files/iridine-sewers.gif)
+[![](/assets/wikidot/files/iridine-sewers.gif)](/assets/wikidot/files/iridine-sewers.gif)

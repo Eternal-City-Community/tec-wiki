@@ -1,6 +1,6 @@
 # Vetallun Road
 
-[![](https://eternal-city.wdfiles.com/local--files/vetallun-road/iridine-vetallunroad1.gif)](https://eternal-city.wdfiles.com/local--files/vetallun-road/iridine-vetallunroad1.gif)
+[![](/assets/wikidot/vetallun-road/iridine-vetallunroad1.gif)](/assets/wikidot/vetallun-road/iridine-vetallunroad1.gif)
 
 
 **Related Maps**

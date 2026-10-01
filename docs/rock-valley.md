@@ -5,7 +5,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  -->
-[![](https://eternal-city.wdfiles.com/local--files/files/rockvalley.gif)](https://eternal-city.wdfiles.com/local--files/files/rockvalley.gif)
+[![](/assets/wikidot/files/rockvalley.gif)](/assets/wikidot/files/rockvalley.gif)
 
 ### Points of Interest
 * **Directions to Stromheim** from [Town of Rock Valley](/town-of-rock-valley/) *(outside east gate)*: walk ne 19 e 98 ne 12 size 90%*(to return: walk sw 12 w 98 sw 19 )*

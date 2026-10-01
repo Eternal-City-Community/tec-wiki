@@ -24,7 +24,7 @@ Do not adjust the code below that surrounds the map's legend below. (e.g. style=
 
 This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
  --]
-[![](https://eternal-city.wdfiles.com/local--files/files/black_hand_caverns_03_2023.png)](https://eternal-city.wdfiles.com/local--files/files/black_hand_caverns_03_2023.png)
+[![](/assets/wikidot/files/black_hand_caverns_03_2023.png)](/assets/wikidot/files/black_hand_caverns_03_2023.png)
 
 
 **Related Maps**
@@ -142,7 +142,7 @@ From Vetallun Bridge: 125xNE + 113xE
 * TBC
 
 ### Notes
-* [view old version of map by PhilippeCP](https://eternal-city.wdfiles.com/local--files/files/bhc%20map.png)
+* [view old version of map by PhilippeCP](/assets/wikidot/files/bhc%20map.png)
 
 
 [Back to Top](#Top)

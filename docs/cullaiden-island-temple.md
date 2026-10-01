@@ -6,4 +6,4 @@ No one seems to know the origins of this temple which is long past its prime. So
 
 Sharina, a dedicated member of the Cult of Ereal is taking care of a small coma ward and will tend to your wounds if you are in need. She can be found upstairs.
 
-![](https://eternal-city.wdfiles.com/local--files/cullaiden-island-temple/cullaiden%20island%20abandoned%20temple)
+![](/assets/wikidot/cullaiden-island-temple/cullaiden%20island%20abandoned%20temple)

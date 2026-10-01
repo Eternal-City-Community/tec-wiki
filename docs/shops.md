@@ -14,7 +14,7 @@ size 100%The **[Town of Franlius](/town-of-franlius/)** is currently **under att
 
 <head>
 <base target="_parent">
-<script src="https://eternal-city.wdfiles.com/local--files/files/shop_inventories_2026_03_26.txt"></script>
+<script src="/assets/wikidot/files/shop_inventories_2026_03_26.txt"></script>
 <script type="text/javascript">
 
 //SHOP_DATA is defined in the shop_inventories text file. You must edit the file if you want to update any shop details.
