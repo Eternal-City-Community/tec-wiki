@@ -140,27 +140,9 @@ for p in DOCS.glob("*.md"):
 
 existing = slugs()
 
-# Create preservation stubs for references whose source was absent from the backup.
-missing = set()
-for p in DOCS.glob("*.md"):
-    text = p.read_text(encoding="utf-8", errors="replace")
-    for m in re.finditer(r"\[[^\]]*\]\(/([^/#?)]+)", text):
-        target = m.group(1)
-        if target not in existing and not target.startswith(("_", "http_")):
-            missing.add(target)
-
-for target in sorted(missing):
-    if target in slugs():
-        continue
-    legacy = "https://eternal-city.wikidot.com/" + target
-    stub = (
-        "# " + titleize(target) + "\n\n"
-        "This page is referenced by the migrated TEC wiki, but its source was not present in the Wikidot backup.\n\n"
-        "The reference has been preserved so old links do not become a 404. "
-        "[Check the legacy Wikidot page](" + legacy + ") if it is still available.\n"
-    )
-    (DOCS / (target + ".md")).write_text(stub, encoding="utf-8")
-    stats["stubs"] += 1
+# Missing-source references intentionally remain unresolved. The live site marks
+# them as red links and routes editors to the Decap new-page workflow instead of
+# creating fake placeholder pages.
 
 # Native-search replacement.
 (DOCS / "search_site.md").write_text(

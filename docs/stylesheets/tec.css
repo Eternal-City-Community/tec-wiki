@@ -2372,3 +2372,21 @@ html, body {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Wikidot-style unresolved page links. */
+.md-typeset a.tec-missing-link,
+.md-typeset a.tec-missing-link:visited,
+.md-typeset table a.tec-missing-link,
+.md-typeset table a.tec-missing-link:visited {
+  color: #a51f1f !important;
+  text-decoration: underline dotted !important;
+  text-decoration-color: rgba(165,31,31,.75) !important;
+  text-underline-offset: .1em;
+}
+
+.md-typeset a.tec-missing-link:hover,
+.md-typeset a.tec-missing-link:focus {
+  color: #7e1010 !important;
+  background: rgba(165,31,31,.08);
+}
