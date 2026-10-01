@@ -1435,3 +1435,63 @@ html, body {
     margin-right: 0;
   }
 }
+
+
+/* National Lores */
+.national-lores-page > h2 {
+  margin-top: 1.5rem;
+  padding: .28rem .5rem;
+  border-bottom: 2px solid #566126;
+  background: rgba(104,109,55,.10);
+  color: #39461f;
+}
+
+.national-lores-page > h4 {
+  margin: .85rem 0 0 1rem;
+  padding: .5rem .7rem .35rem;
+  border: 1px solid #aaa38a;
+  border-bottom: 0;
+  border-radius: 7px 7px 0 0;
+  background: rgba(226,219,186,.94);
+  color: #39461f;
+  font-size: .78rem;
+}
+
+.national-lores-page > h4 + p,
+.national-lores-page > h4 + p ~ p {
+  margin-left: 1rem;
+}
+
+.national-lores-page > h4 + p {
+  margin-top: 0;
+  padding: .65rem .75rem 0;
+  border-left: 1px solid #aaa38a;
+  border-right: 1px solid #aaa38a;
+  background: rgba(248,243,223,.82);
+}
+
+/* Close each lore card on the final paragraph before the next lore/nation heading. */
+.national-lores-page > h4 ~ p {
+  padding-left: .75rem;
+  padding-right: .75rem;
+  background: rgba(248,243,223,.82);
+  border-left: 1px solid #aaa38a;
+  border-right: 1px solid #aaa38a;
+}
+
+.national-lores-page > h4 ~ p:has(+ h4),
+.national-lores-page > h4 ~ p:has(+ h2),
+.national-lores-page > h4 ~ p:last-child {
+  padding-bottom: .65rem;
+  border-bottom: 1px solid #aaa38a;
+  border-radius: 0 0 7px 7px;
+  margin-bottom: .85rem;
+}
+
+@media (max-width: 700px) {
+  .national-lores-page > h4,
+  .national-lores-page > h4 + p,
+  .national-lores-page > h4 ~ p {
+    margin-left: .35rem;
+  }
+}
