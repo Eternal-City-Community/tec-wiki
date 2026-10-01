@@ -304,6 +304,9 @@ body::before {
 }
 
 .md-typeset table:not([class]) {
+  display: table;
+  width: max-content;
+  max-width: none;
   border-collapse: collapse;
   background: var(--tec-table);
   color: #f2f2f2;
