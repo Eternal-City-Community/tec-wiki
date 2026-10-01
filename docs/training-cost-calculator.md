@@ -28,6 +28,8 @@ The displayed cost also assumes # is always used in LEARN command. When # is not
 }
 
 .tcc-calculator {
+  max-width: 880px;
+  margin: 1rem auto 1.5rem;
   --tcc-ink: #322E1E;
   --tcc-olive: #686d37;
   --tcc-olive-dark: #4d5229;
@@ -46,9 +48,30 @@ table.tcc-layout > tbody > tr > td {
 }
 
 table.tcc-layout {
-  width: 100%;
+  width: auto !important;
+  max-width: 880px;
+  margin: 0 auto !important;
   border-collapse: separate;
-  border-spacing: 12px 8px;
+  border-spacing: 18px 10px;
+}
+
+table.tcc-layout > tbody > tr:first-child > td {
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+table.tcc-inputs,
+table.tcc-npc-cost,
+table.mod-buttons-table,
+table.tcc-sp-cost {
+  float: none !important;
+  margin: 0 !important;
+}
+
+table.tcc-sp-cost {
+  width: 100%;
+  max-width: 620px;
+  margin: 8px auto 0 !important;
 }
 
 .tcc-calculator input {
@@ -63,19 +86,31 @@ table.tcc-layout {
 }
 
 @media (max-width: 760px) {
+  .tcc-calculator {
+    max-width: 100%;
+  }
+
   table.tcc-layout,
   table.tcc-layout > tbody,
   table.tcc-layout > tbody > tr,
   table.tcc-layout > tbody > tr > td {
     display: block;
-    width: 100%;
+    width: 100% !important;
+    max-width: 100%;
+    box-sizing: border-box;
   }
 
+  table.tcc-layout > tbody > tr > td {
+    margin-bottom: 12px;
+    white-space: normal;
+  }
+
+  table.tcc-inputs,
   table.tcc-npc-cost,
   table.tcc-sp-cost,
   table.mod-buttons-table {
-    float: none;
     width: 100%;
+    max-width: 100%;
   }
 }
 
@@ -398,7 +433,7 @@ input.mod-buttons-btn {
 </td>
 
 </tr>
-<tr><td style="padding-top:20px;" colspan="2">
+<tr><td style="padding-top:20px;" colspan="3">
 
 
 <table class="tcc-sp-cost" id="sp-cost-table">
