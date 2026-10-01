@@ -31,7 +31,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 <a id="Recipes"></a>
 
-<details>
+<details markdown="1">
 <summary>+ Show Tailoring Recipes</summary>
 
 
@@ -135,7 +135,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 <a id="Lores"></a>
 
-<details>
+<details markdown="1">
 <summary>+ Show Tailoring Lores</summary>
 
 
@@ -286,7 +286,7 @@ The below chart columns reference the base materials, but includes all variants 
 To find where the appropriate fabric is sold, you can search for *'**length of cloth**'* in the [shops list](/shops/).
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Length &amp; Fabric Chart</summary>
 
 
@@ -412,7 +412,7 @@ What is a tailor to do with the remnants of their spools of thread? Combine them
 Once a tailor has completed the garment, it can be altered slightly through the refit menu. No skill training is required beyond a basic knowledge of Tailoring. Simply REFIT <garment> and you will be shown a menu listing the ways in which you can modify the garment. As you improve in tailoring skill, more adjectives will become available. These adjectives are listed in the table below. It may be incomplete.
 
 
-<details>
+<details markdown="1">
 <summary>+ Show Refit Adjectives</summary>
 
 
