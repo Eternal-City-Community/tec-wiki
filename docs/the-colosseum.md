@@ -21,11 +21,6 @@ At the center of the vast and civilized city of Iridine is the blood-stained san
 [Visit the Map Page](/colosseum/)
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/iridine-colosseum1.gif)](/assets/wikidot/files/iridine-colosseum1.gif)
 
 

@@ -27,11 +27,6 @@ walk to colosseum, n x 2, e x 2, ne, down, nw, w, n, nw (leads you to the fighti
 -Krogus' market counter
 
 
-[!-- 
-Do not adjust the code below that surrounds the map's legend below. (e.g. style="visibility: {$display_legend};) 
-
-This code allows the map to be auto-inserted in other pages on the wiki, regardless of the filename for the image.
- --]
 [![](/assets/wikidot/files/iridine-colosseum1.gif)](/assets/wikidot/files/iridine-colosseum1.gif)
 
 
