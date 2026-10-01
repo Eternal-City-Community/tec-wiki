@@ -165,7 +165,7 @@ Message will automatically start with your username. For example, if you want it
 
 <a id="superior"></a>
 #### [#](#superior)[15] Superior Weapon Upgrade
-Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
+Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
 
 
 ---

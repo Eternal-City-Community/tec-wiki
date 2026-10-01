@@ -1280,7 +1280,7 @@ Profit:     4/5
   claw*                                               2 at  1 lb and 470d 0st 1s 
   eye                                                 6 at <1 lb and          1s 
   meat                                                1 at  9 lb and          1s 
-  stomach                                             1 at  4 lb and          1s @@
+  stomach                                             1 at  4 lb and          1s
 
 [Back to Table of Contents](#ToC)
 

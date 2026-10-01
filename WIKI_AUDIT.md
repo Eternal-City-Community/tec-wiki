@@ -10,13 +10,5 @@
 - Pages still using WDFiles assets: **154**
 - Pages with leftover Wikidot table syntax: **0**
 - Pages with leftover Wikidot heading syntax: **0**
-- Pages with leftover Wikidot escape markers: **1**
-- Pages with leftover Wikidot markup blocks: **1**
-
-## Leftover Wikidot markup
-
-- `rp-expenditure.md`
-
-## Leftover Wikidot escape markers
-
-- `aoden-hunting-guide.md`
+- Pages with leftover Wikidot escape markers: **0**
+- Pages with leftover Wikidot markup blocks: **0**
