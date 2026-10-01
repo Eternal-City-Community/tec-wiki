@@ -8,7 +8,7 @@ category: "World & Maps"
 ## The Harbor Of The Moons
 
 
-[![Illustrated image of The Harbor of the Moons](/assets/wikidot/files/The_Harbor_-_Final.jpg)](/assets/wikidot/files/The_Harbor_-_Final.jpg)
+<a class="tec-feature-image-link" href="/assets/wikidot/files/The_Harbor_-_Final.jpg" target="_blank" rel="noopener"><img class="tec-feature-image" src="/assets/wikidot/files/The_Harbor_-_Final.jpg" alt="Illustrated image of The Harbor of the Moons"></a>
 
 
 While the arches of the Harbor of the Moons retain a mysterious and surreal air about them, the actual goings on of Iridine's port area are far more base. From the rowdiest of scalliwags to the wealthiest of merchants, daylight on the harbor sees nearly every slice of Iridine life. But when night falls, and the wealthy go to their homes in other quarters, the harbor earns its reputation as one of the roughest neighborhoods in the city. Bars and cheap flophouses abound, and many prostitutes find the area good pickings.
