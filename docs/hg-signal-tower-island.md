@@ -31,6 +31,6 @@ walk to toga, n x 2, w x 4, nw, go n (when ferry comes), go n (when ferry arrive
 #### Jobs
 -[Pearl Diving](/pearl-diving/)
 
-![](https://eternal-city.wikidot.comhttps://eternal-city.wdfiles.com/local--files/signal-tower-island/lighthouse.gif)
+![](https://eternal-city.wikidot.com/assets/wikidot/hg-signal-tower-island/lighthouse.gif)
 
 [Hunting Grounds](/hunting-grounds/) » Signal Tower Island
