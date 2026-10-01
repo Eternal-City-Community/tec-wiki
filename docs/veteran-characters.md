@@ -16,20 +16,20 @@ category: "Reference"
 
 Veteran Character **(VC) Packages** are meant to encourage players to pursue multiple and diverse character experiences by alleviating some of the difficulty of starting a new character. Each package includes GSP to train skills, credits which can be spent on both standard and custom items, a modest amount of money in their bank account, and attribute points redeemable on attribute increases. The more expensive packages include a free makeover in addition to these perks.
 
-A VC package includes [General Skill Points (GSPs)](/skills/#GSP) to learn [Skills](/skills/), [in-game money](/wealth/), attribute points redeemable on [Stat](/stats/) increases, and credits for **items**, **skill slots** and more.
+A VC package includes [General Skill Points (GSPs)](/skills/#general-skill-points-gsp) to learn [Skills](/skills/), [in-game money](/wealth/), attribute points redeemable on [Stat](/stats/) increases, and credits for **items**, **skill slots** and more.
 
-* [Obtaining a VC](#Overview)
-* [Retiring an Existing Character](#Retire)
-* [Veteran Character Lobby](#Lobby)
-    * [Credits](#Credits)
+* [Obtaining a VC](#obtaining-a-vc)
+* [Retiring an Existing Character](#retiring-an-existing-character)
+* [Veteran Character Lobby](#veteran-character-lobby)
+    * [Credits](#credits)
         * [Vendors](#Vendors)
-        * [Weapons Vendor](#Weapons)
-        * [Clothing Vendor](#Clothing)
-        * [Armor Vendor](#Armor)
-        * [Jewelry Vendor](#Jewelry)
-        * [Miscellaneous Vendor](#Misc)
+        * [Weapons Vendor](#weapons-vendor)
+        * [Clothing Vendor](#clothing-vendor)
+        * [Armor Vendor](#armor-vendor)
+        * [Jewelry Vendor](#jewelry-vendor)
+        * [Miscellaneous Vendor](#miscellaneous-vendor)
     * [GSPs](#GSPs)
-        * [Skill Trainers](#Skill)
+        * [Skill Trainers](#skill-trainers)
 
 ---
 ### Related Commands
@@ -46,9 +46,9 @@ See **syntax** and all **[commands](/commands/)**.
 Veteran Character (VC) packages can be obtained in multiple ways. 
 
 1. They can be **purchased using Role Points** (RPs). The costs to purchase are listed below.
-2. They can be **received "randomly" for free** (e.g. via [@perks](/account/#Perks) or parchment event).
+2. They can be **received "randomly" for free** (e.g. via [@perks](/account/#perks) or parchment event).
 3. They can be **received in exchange for 'retiring' your existing character**. The level of the received VC package is calculated based on character age, RPs spent, and total skill points earned. If the character being retired was a VC themself, it defaults to the higher value between the original VC level and the new package calculation, with the max level for @retire being VC19. You can check what level your character qualifies for beforehand using the @vc-level command.
-4. They can be **awarded for free** as the result of **your character's death in a storyline (e.g. @chop) or a [character Player-Kill (PK)](/pvp/#PKs)**. The VC level awarded from an @chop may be above VC19 if determined by the staff.
+4. They can be **awarded for free** as the result of **your character's death in a storyline (e.g. @chop) or a [character Player-Kill (PK)](/pvp/#player-character-killing-pks)**. The VC level awarded from an @chop may be above VC19 if determined by the staff.
 
 > Pranzor (GM) says, "The calculation for the veteran package considers age (40%), RPs spent (30%), and total skill points earned (30%, divided by 7.5). For every 125 RPs spent, 1 month is added to the age in years, and for every total skill points divided by 7.5, 125 points add 1 month. The final package level defaults to the higher value between the original VC level and the new package calculation."
 
@@ -102,7 +102,7 @@ Please note, you can only roll a VC once every 24 hours (1 day).
 A successfully generated character will be placed in an OOC lounge to spend their GSP, credits, attribute points, and receive any extras that they are entitled to.
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Retire"></a>
@@ -124,7 +124,7 @@ The process of retiring a character involves several technical and Role Point (R
 * The @retire command gives you the option of leaving or not leaving a corpse, depending on how you choose to end your character's story. This will be presented as a yes/no prompt.
 * It's important to note that any abuse of the @retire command may result in restrictions being placed on your account. Additionally, characters that have been deleted and recently recovered cannot be retired, as a character must be on your play list for at least six months before being eligible for retirement.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Lobby"></a> 
@@ -137,11 +137,11 @@ Your new character will be placed in an out-of-character (OOC) lounge to spend t
 
 Use those credits to appoint your character:
 
-* [Weapons](#Weapons)
-* [Clothing](#Clothing)
-* [Armor](#Armor)
-* [Jewelry](#Jewelry)
-* [Miscellaneous](#Misc) 
+* [Weapons](#weapons-vendor)
+* [Clothing](#clothing-vendor)
+* [Armor](#armor-vendor)
+* [Jewelry](#jewelry-vendor)
+* [Miscellaneous](#miscellaneous-vendor) 
 * Additional attribute increase points (25 VCCs for 1 point)
 * Citizenship (20 VCCs)
 * Additional skill slots
@@ -1334,7 +1334,7 @@ Waist Sash Recipe                  easy        300       7 / 4
 ~~~
 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ### Veteran Character Info
@@ -1354,4 +1354,4 @@ If you have not and are still in the VC Lobby, you can still push the button in 
 ~~~
 
 
-[Back to Top](#Top)
+[Back to Top](#)

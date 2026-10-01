@@ -13,19 +13,19 @@ Below you'll find everything important to know about [Tailoring](/tailoring/).
 ### In a Nutshell
 #### Pros
 * **Easy to train** anywhere. You can make garments practically anywhere and easily out of harm's way.
-* For a **skilled tailor** with knowledge of **many [Recipes & Lores](/tailoring/#Recipes)** as well as the funds to make [consignment items](#Jobs), it can be **easy to make money**..
+* For a **skilled tailor** with knowledge of **many [Recipes & Lores](/tailoring/#Recipes)** as well as the funds to make [consignment items](#jobs), it can be **easy to make money**..
 
 
 #### Cons
 * More colorful and **rare fabrics can be very costly** to purchase.
-* Until you have the skill to reliably work on [consignment items](#Jobs), **novice tailors** will find it **difficult to make money**.
+* Until you have the skill to reliably work on [consignment items](#jobs), **novice tailors** will find it **difficult to make money**.
 
 
 ### Advice & Tips
 * Unlike other skill sets, you **do not train in the basics of Tailoring** directly. Learning ranks in the **sub skills will naturally increase your basic ranks**.
 * Your **rank in basics will limit the amount of [Recipes & Lores](/tailoring/#Recipes)** you can learn.
 * The most **efficient way to train** is learning a recipe which uses the least amount of cloth (e.g. **Hair Ribbon**), then **learning an edging**. 
-* Different **[cloth types](#Cloth) will impact your success** in making a garment.
+* Different **[cloth types](#handling-cloth) will impact your success** in making a garment.
 * **Sewing & hemming uses a lot more thread than Stitching**. Spools that don't have enough on it for hemming may have enough for edging or patterns. 
 * Timmis lists some recipes that aren't possible on his orders board, like linen paenulas. Some recipes list fabrics as being able during a recall that won't work, either. **So be careful**.
 * You **can unlearn recipes**, you **cannot unlearn lores**.
@@ -41,8 +41,8 @@ Below is a list of the various tools of the trade necessary for tailoring.
 | --- | --- | --- |
 | Fabric (aka Cloth) | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
 | Sewing Scissors | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
-| Sewing Needle | [Creating Clothing](#Clothing), [Stitch Pattern](#Stitching) | Available for purchase in [shops](/shops/) |
-| Spool of Thread | [Creating Clothing](#Clothing), [Stitch Pattern](#Stitching) | Available for purchase in [shops](/shops/) |
+| Sewing Needle | [Creating Clothing](#Clothing), [Stitch Pattern](#stitching-patterns-edging) | Available for purchase in [shops](/shops/) |
+| Spool of Thread | [Creating Clothing](#Clothing), [Stitch Pattern](#stitching-patterns-edging) | Available for purchase in [shops](/shops/) |
 | Thimble | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
 | Measuring Cord | n/a | Prop, only used for RP. Available for purchase in [shops](/shops/) |
 
@@ -69,7 +69,7 @@ Working with fabric is the lifeblood of a tailor. Different fabrics require a di
 
 To find where the appropriate fabric is sold, you can search for *'**length of cloth**'* in the [shops list](/shops/).
 
-To manipulate pieces of cloth, see [Handling Cloth](#HandlingCloth).
+To manipulate pieces of cloth, see [Handling Cloth](#handling-cloth).
 
 
 <a id="FabricChart"></a>
@@ -132,7 +132,7 @@ The below chart columns reference the base materials, but includes all variants 
 #### Thread
 
 * Thread comes in the the following types: **undyed thread**, **natural thread** and **coloured thread**.
-* If you [knot](/tailoring/#Knot) **natural thread with undyed thread** it becomes **motley thread**.
+* If you [knot](/tailoring/#knot-knot-with) **natural thread with undyed thread** it becomes **motley thread**.
 * If you look at a threaded needle, or a spool of thread, it will tell you how much you have left.
 
 
@@ -145,7 +145,7 @@ At the core of tailoring is creating new and unique, oftentimes matching, outfit
 
 To see a **list of all recipes you know** , use the recipes command. *(yes, it will oddly show languages as well.)* This will also show your **available slots** to **learn recipes & lores** based on your rank in tailoring basics.
 
-Before selecting an item to create, you should **consult the [Fabric Chart](#FabricChart)** to see what fabrics are available for your intended item.
+Before selecting an item to create, you should **consult the [Fabric Chart](#fabric-chart)** to see what fabrics are available for your intended item.
 
 The below **step-by-step** guide explain how to create a clothing item, using **a neckpouch as an example**.
 
@@ -153,18 +153,18 @@ The below **step-by-step** guide explain how to create a clothing item, using **
 | --- | --- |
 | Prepare Pieces (2.1 - 2.4)<br><br>*(repeat as needed)* | - A master recipe will require multiple pieces/parts.<br><br>- **Repeat steps 2.1, 2.2, 2.3 & 2.4 as needed** to create the appropriate pieces.<br><br>- In this example, because we need **two (2) pouch squares**, we would perform steps 2.1 to 2.3 twice. _ |
 | 2.1: Recall Sub-Recipe | - Recall the sub-recipe item you wish to make.<br><br>- The recipe will tell you how much fabric is required.<br><br>- Example: '**recall pouch square recipe**'.<br><br>*To make a Pouch Square:*<br><br>** Lay out an eighth length of fabric.*<br><br>** Cut the part from the fabric.* _ |
-| 2.2: Layout Fabric | - With the sub-recipe fresh in your mind, position the pattern over your [correctly sized fabric](#HandlingCloth). ([Patternwork](/tailoring/#Patternwork))<br><br>- With **pattern in-hand** (e.g. pouch square pattern).<br><br>- Example: '**layout eighth**'.<br><br>- The description changes to *"a homespun wool cloth **laid out** for a pouch square"*. _ |
-| 2.3: Cut Pattern | - With the pattern laid out over the fabric, cut the cloth into the pattern. ([Tailor's Shears](/tailoring/#Tailors-Shears))<br><br>- With **sewing scissors in-hand**.<br><br>- Example: '**cut laid**'.<br><br>- The description changes to *"a homespun wool **cut-out** in the shape of a pouch square"*. _ |
+| 2.2: Layout Fabric | - With the sub-recipe fresh in your mind, position the pattern over your [correctly sized fabric](#handling-cloth). ([Patternwork](/tailoring/#patternwork-layout))<br><br>- With **pattern in-hand** (e.g. pouch square pattern).<br><br>- Example: '**layout eighth**'.<br><br>- The description changes to *"a homespun wool cloth **laid out** for a pouch square"*. _ |
+| 2.3: Cut Pattern | - With the pattern laid out over the fabric, cut the cloth into the pattern. ([Tailor's Shears](/tailoring/#tailors-shears-cut))<br><br>- With **sewing scissors in-hand**.<br><br>- Example: '**cut laid**'.<br><br>- The description changes to *"a homespun wool **cut-out** in the shape of a pouch square"*. _ |
 | 2.4: Complete Part<br><br>*(if needed)* | - Certain sub-recipes require sewing to finish.<br><br>- This example does not need it, but if making a shirt, you need to sew a sleeve to itself to complete an individual sleeve.<br><br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew sleeve to sleeve**'. _ |
 | 3: Recall Master Recipe | - Recall the recipe of the overall item you want to make.<br><br>- Example: '**recall neckpouch recipe**'.<br><br>*To make a Neckpouch:*<br><br>** Sew two Pouch Squares together to create the pouch body.*<br><br>** Hem the Pouch to complete it.* _ |
-| 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#Basic-Sewing))<br><br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew square to 2 square**'.<br><br>- The description changes to *"**an incomplete neckpouch**"*. _ |
-| 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#Basic-Hemming))<br><br>- Example: '**hem incomplete**'.<br><br>- The description changes to *"a homespun wool neckpouch"*. _ |
+| 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#basic-sewing-sew-to))<br><br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew square to 2 square**'.<br><br>- The description changes to *"**an incomplete neckpouch**"*. _ |
+| 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#basic-hemming-hem))<br><br>- Example: '**hem incomplete**'.<br><br>- The description changes to *"a homespun wool neckpouch"*. _ |
 
 
 <a id="HandlingCloth"></a>
 #### Handling Cloth
 
-[Lengths of  cloth](#Cloth) can be [sewn together](/tailoring/#Basic-Sewing) to fashion larges pieces or can be [cut](/tailoring/#Tailors-Shears) into halves (<sup>1/2</sup>), quarters (<sup>1/4</sup>), and eighths (<sup>1/8</sup>) when smaller pieces are necessary.
+[Lengths of  cloth](#handling-cloth) can be [sewn together](/tailoring/#basic-sewing-sew-to) to fashion larges pieces or can be [cut](/tailoring/#tailors-shears-cut) into halves (<sup>1/2</sup>), quarters (<sup>1/4</sup>), and eighths (<sup>1/8</sup>) when smaller pieces are necessary.
 
 Each recipe of a tailoring item will require a certain size of cloth. **Sew or cut the cloth as needed to obtain the appropriately sized piece**. This type of work can be done at any time to prepare for an upcoming item or even while you're in the middle of creating a new item.
 
@@ -188,7 +188,7 @@ An example would be adding **crossed axes stitching** to '*a homespun wool neckp
 
 | Step 1: Recall Lore | - When adding a stitch, the first thing to do is recall the stitch you want to make.<br><br>- You have to type the full name, no shortcuts.<br><br>- Example: '**recall maker's mark**'.<br><br>*The maker's mark allows someone to identify the maker of an item by inspecting it.*<br><br>*To add a maker's mark:*<br><br>* * Stitch your Maker's Mark onto the garment.* _ |
 | --- | --- |
-| Step 2 : Stitch Pattern<br><br>(repeat as needed) | - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#Stitch-Pattern))<br><br>- Some stitches will require multiple successes to complete. Repeat as needed.<br><br>- Example: '**stitch neckpouch**'.<br><br>*To make a Pouch Square:*<br><br>** Lay out an eighth length of fabric.*<br><br>** Cut the part from the fabric.* _ |
+| Step 2 : Stitch Pattern<br><br>(repeat as needed) | - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#stitch-pattern-stitch))<br><br>- Some stitches will require multiple successes to complete. Repeat as needed.<br><br>- Example: '**stitch neckpouch**'.<br><br>*To make a Pouch Square:*<br><br>** Lay out an eighth length of fabric.*<br><br>** Cut the part from the fabric.* _ |
 
 
 <a id="Mending"></a>
@@ -213,7 +213,7 @@ There are consignment boards in the following locations.
 | Area | Shopkeeper | Notes |
 | --- | --- | --- |
 | [Iridine](/bronze-lane/) | Claudima | Easy to get to. |
-| [The Steps (East)](/the-steps-east/) | Pomatomus | This shop is in **[gang](/orgs/#Alati) territory**. Careful in this location. |
+| [The Steps (East)](/the-steps-east/) | Pomatomus | This shop is in **[gang](/orgs/#umbra-alati) territory**. Careful in this location. |
 | [Rock Valley](/town-of-rock-valley-map/) | Laphia and Irra |  |
 | [Monlon](/monlon/) | Timmis | Since this shop sells very expensive fabric, this is typically the most profitable consignment board. |
 
@@ -228,11 +228,11 @@ There are consignment boards in the following locations.
 
 ### Moves
 #### Worthwhile
-* [Stitch Pattern](/tailoring/#Stitch-Pattern)
-* [Basic Sewing](/tailoring/#Basic-Sewing)
+* [Stitch Pattern](/tailoring/#stitch-pattern-stitch)
+* [Basic Sewing](/tailoring/#basic-sewing-sew-to)
 
 #### Less useful
-* [Basic Mending](/tailoring/#Basic-Mending) 
+* [Basic Mending](/tailoring/#basic-mending-mend-with) 
 
 
 ### Complementary Skill Sets

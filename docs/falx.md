@@ -16,29 +16,29 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Flavien | Karkara |
 | *<u>Falx Combat</u>* | Easy | - | - | - | - | 200 | 500 |
-| [Falx Kelestian Siege Stance](#siege) | Easy | 2 | - | - | - | 100 | 175 |
-| [Falx Extending Jab](#jab) | Easy | Either | Either | Cut | - | 200 | 500 |
-| [Falx Wild Strike](#wstrike) | Easy | 2 | Short | *<random>* <sup>AoE</sup> | - | 200 | 500 |
-| [Falx Narrow Slash](#slash) | Easy | Either | Either | Cut | - | 200 | 500 |
-| [Falx Overhead Chop](#chop) | Easy | Either | Either | Cut | - | 200 | 500 |
-| [Falx Pommel Strike](#strike) | Easy | 2 | Short | Bruise | - | 200 | 500 |
-| [Falx Haft Bash](#bash) | Average | 2 | Short | Bruise | - | 200 | 500 |
-| [Falx Hook Stab](#stab) | Average | 2 | Short | Pierce | - | 200 | 500 |
-| [Falx Eviscerate](#eviscerate) | Difficult | 2 | Short | Pierce | - | 200 | 500 |
-| [Falx Formation Breaker](#break) | Average | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 175 |
-| [Falx Ankle Drag](#ankle) | Difficult | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 500 |
-| [Falx Whirlwind Slash](#wslash) | Average | 2 | Short | Cut <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
-| [Falx Spinning Backhand](#spin) | Average | 2 | Short | Bruise <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
-| [Falx Wide Hook Rake](#rake) | Difficult | 2 | Short | Pierce <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike)<br><br>20 Ranks in [Falx Whirlwind Slash](#wslash)<br><br>20 Ranks in [Falx Spinning Backhand](#spin) | 200 | 500 |
-| [Falx Final Slash](#fslash) | Difficult | 2 | Either | Cut **or** *Kill* | [Falx Kelestian Siege Stance](#siege)<br><br>40 Ranks in [Falx Narrow Slash](#slash)<br><br>40 Ranks in [Falx Whirlwind Slash](#wslash) | 200 | 500 |
-| [Falx Chopping Block](#cblock) | Easy | 2 | - | - | - | 200 | 500 |
-| [Falx High Parry](#hparry) | Easy | Either | - | - | - | 200 | 500 |
-| [Falx Outside Parry](#oparry) | Average | 2 | - | - | - | 200 | 500 |
-| [Falx Rising Deflect ](#rdeflect) | Average | 2 | - | - | - | 200 | 500 |
-| [Falx Spinning Deflect ](#sdeflect) | Difficult | 2 | - | - | - | 200 | 500 |
-| [Falx Feint](#feint) | Average | Either | Either | - | - | 200 | 500 |
-| [Falx Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
-| [Falx Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
+| [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege) | Easy | 2 | - | - | - | 100 | 175 |
+| [Falx Extending Jab](#falx-extending-jab-jab) | Easy | Either | Either | Cut | - | 200 | 500 |
+| [Falx Wild Strike](#falx-wild-strike-wstrike) | Easy | 2 | Short | *<random>* <sup>AoE</sup> | - | 200 | 500 |
+| [Falx Narrow Slash](#falx-narrow-slash-slash) | Easy | Either | Either | Cut | - | 200 | 500 |
+| [Falx Overhead Chop](#falx-overhead-chop-chop) | Easy | Either | Either | Cut | - | 200 | 500 |
+| [Falx Pommel Strike](#falx) | Easy | 2 | Short | Bruise | - | 200 | 500 |
+| [Falx Haft Bash](#falx-haft-bash-bash) | Average | 2 | Short | Bruise | - | 200 | 500 |
+| [Falx Hook Stab](#falx-hook-stab-stab) | Average | 2 | Short | Pierce | - | 200 | 500 |
+| [Falx Eviscerate](#falx-eviscerate-eviscerate) | Difficult | 2 | Short | Pierce | - | 200 | 500 |
+| [Falx Formation Breaker](#falx-formation-breaker-break) | Average | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege) | 200 | 175 |
+| [Falx Ankle Drag](#falx-ankle-drag-ankle) | Difficult | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege) | 200 | 500 |
+| [Falx Whirlwind Slash](#falx-whirlwind-slash-wslash) | Average | 2 | Short | Cut <sup>AoE</sup> | [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege)<br><br>20 Ranks in [Falx Wild Strike](#falx-wild-strike-wstrike) | 200 | 500 |
+| [Falx Spinning Backhand](#falx-spinning-backhand-spin) | Average | 2 | Short | Bruise <sup>AoE</sup> | [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege)<br><br>20 Ranks in [Falx Wild Strike](#falx-wild-strike-wstrike) | 200 | 500 |
+| [Falx Wide Hook Rake](#falx-wide-hook-rake-rake) | Difficult | 2 | Short | Pierce <sup>AoE</sup> | [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege)<br><br>20 Ranks in [Falx Wild Strike](#falx-wild-strike-wstrike)<br><br>20 Ranks in [Falx Whirlwind Slash](#falx-whirlwind-slash-wslash)<br><br>20 Ranks in [Falx Spinning Backhand](#falx-spinning-backhand-spin) | 200 | 500 |
+| [Falx Final Slash](#falx-final-slash-fslash) | Difficult | 2 | Either | Cut **or** *Kill* | [Falx Kelestian Siege Stance](#falx-kelestian-siege-stance-siege)<br><br>40 Ranks in [Falx Narrow Slash](#falx-narrow-slash-slash)<br><br>40 Ranks in [Falx Whirlwind Slash](#falx-whirlwind-slash-wslash) | 200 | 500 |
+| [Falx Chopping Block](#falx-chopping-block-na) | Easy | 2 | - | - | - | 200 | 500 |
+| [Falx High Parry](#falx-high-parry-na) | Easy | Either | - | - | - | 200 | 500 |
+| [Falx Outside Parry](#falx-outside-parry-na) | Average | 2 | - | - | - | 200 | 500 |
+| [Falx Rising Deflect ](#falx-rising-deflect-na) | Average | 2 | - | - | - | 200 | 500 |
+| [Falx Spinning Deflect ](#falx-spinning-deflect-na) | Difficult | 2 | - | - | - | 200 | 500 |
+| [Falx Feint](#falx-feint-feint) | Average | Either | Either | - | - | 200 | 500 |
+| [Falx Accuracy](#falx-accuracy-na) | Difficult | - | - | - | - | 100 | 175 |
+| [Falx Grip](#falx-grip-na) | Impossible | - | - | - | - | 100 | 175 |
 
 *<wound type>* <sup>**AoE**</sup> denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
 
@@ -174,7 +174,7 @@ A strong Kelestian raider holds his sharpened tin falx horizontally and swings t
 
 ### Falx Hook Stab  *stab <target>*
 
-* This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Strength**.
+* This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Strength**.
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
 
@@ -403,7 +403,7 @@ A livid Kelestian ravager leans forward, feigning a thrust at you with his bronz
 
 ### Falx Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -412,6 +412,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Falx Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

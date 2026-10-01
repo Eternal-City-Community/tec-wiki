@@ -42,7 +42,7 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 
 #### Notes on Learning
 
-**A short sturdy man (Blackvine)** will only teach you once you have enough [reputation](/reputation/#Franlius).
+**A short sturdy man (Blackvine)** will only teach you once you have enough [reputation](/reputation/#franlius).
 
 ### Skill Details
 
@@ -352,7 +352,7 @@ You use the head of your tin war hammer to knock aside the attack with a brute-f
 
 ### 2H Crushing Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -360,6 +360,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### 2H Crushing Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

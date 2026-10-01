@@ -17,9 +17,9 @@ Below you'll find everything important to know about using Slings.
 * More difficult to train than most other combat skills. **Not recommended to newer players as a starting skill.**
 * There's **no auto-loading**, you must always manually load your sling before every shot.
 * **Loading your sling requires fatigue** and tires you.
-* You can **only buy the good bullets from the [Kelestian Outpost](/monlon-ravines/)**. To do this, you must [perfect the Kelestian language](/languages/#Kelestian) so you can trade [gemstones](/stones-ores/) for the ammo.
-* If your **opponent has a half-decent defense, you likely can't land any hits against them**, except with [Clobber](/sling/#sling-clobber).
-* [Clobber](/sling/#sling-clobber) can only be used when your loaded bullet has enough weight. **Sling stones are not heavy enough to use [Clobber](/sling/#sling-clobber).**
+* You can **only buy the good bullets from the [Kelestian Outpost](/monlon-ravines/)**. To do this, you must [perfect the Kelestian language](/languages/#monlon-kelestian-healer) so you can trade [gemstones](/stones-ores/) for the ammo.
+* If your **opponent has a half-decent defense, you likely can't land any hits against them**, except with [Clobber](/sling/#sling-clobber-slingclobber).
+* [Clobber](/sling/#sling-clobber-slingclobber) can only be used when your loaded bullet has enough weight. **Sling stones are not heavy enough to use [Clobber](/sling/#sling-clobber-slingclobber).**
 * There is **no utility** with the throws. They are all basic attacks that are **easy to block**.
 * Sling attacks can often be **blocked by weapon blocks**, unlike archery.
 * You will only **retain 80% of your bullets** when throwing.
@@ -69,10 +69,10 @@ This is the list of Slings & Bullets that are recommended to use when using the 
 | --- | --- | --- |
 | A sling | Sold by [Shantaz](/shops/) ([Seld](/village-of-seld/)) | 182d |
 | Bullets | How to get it | Est. cost in shops (50 bullets) |
-| Sling stones | Buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
-| Ceramic Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
-| Iron Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
-| Lead Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
+| Sling stones | Buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#reputation) (when purchased) |
+| Ceramic Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#reputation) (when purchased) |
+| Iron Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#reputation) (when purchased) |
+| Lead Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#reputation) (when purchased) |
 
 
 #### Summary
@@ -125,7 +125,7 @@ A rank of **1 signifies the best** in this category. All ammo has the same speed
 
 ### Moves
 #### Worthwhile
-* [Clobber](/sling/#sling-clobber) - Only decent attack.
+* [Clobber](/sling/#sling-clobber-slingclobber) - Only decent attack.
 
 
 #### Less useful

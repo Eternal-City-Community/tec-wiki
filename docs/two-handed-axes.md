@@ -18,31 +18,31 @@ The main advantages of the axe, as opposed to simply using a sword or club-type 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Clobris | Hroth |
 | *<u>Two-Handed Axes</u>* | - | - | - | - | - | 300 | 500 |
-| [2H Axe Wide Grip Stance](#Stance) | Easy | 2 | - | - | - | 90 | 175 |
-| [2H Axe Basic Slash](#Slash) | Easy | 2 | Either | Cut | - | 300 | 500 |
-| [2H Axe Chop](#Chop) | Easy | 2 | Either | Cut | - | 300 | 500 |
-| [2H Axe Haft Strike](#Haftstrike) | Easy | 2 | Short | Bruise | - | 300 | 500 |
+| [2H Axe Wide Grip Stance](#2h-axe-wide-grip-stance-wgrip) | Easy | 2 | - | - | - | 90 | 175 |
+| [2H Axe Basic Slash](#2h-axe-basic-slash-slash) | Easy | 2 | Either | Cut | - | 300 | 500 |
+| [2H Axe Chop](#2h-axe-chop-chop) | Easy | 2 | Either | Cut | - | 300 | 500 |
+| [2H Axe Haft Strike](#2h-axe-haft-strike-strike) | Easy | 2 | Short | Bruise | - | 300 | 500 |
 | [2H Axe Swat](#Swat) | Easy | 2 | Short | Bruise | - | 300 | 500 |
-| [2H Axe Cross Chop](#Crosschop) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#Chop)<br><br>20 Ranks in [2H Axe Overhead Chop](#Overheadchop) | 300 | 500 |
-| [2H Axe Hip Slash](#Hipslash) | Average | 2 | Either | Cut | [Wide Grip Stance](#Stance)<br><br>20 Ranks in [2H Axe Basic Slash](#Slash) | 300 | 500 |
-| [2H Axe Overhead Chop](#Overheadchop) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#Chop) | 300 | 500 |
-| [2H Axe Stepping Slash](#Steppingslash) | Average | 2 | Either | Cut | 30 Ranks in [2H Axe Basic Slash](#Slash) | 300 | 500 |
-| [2H Axe Woodcutter Slash](#Woodcutterslash) | Average | 2 | Short | Cut | - | 300 | 500 |
-| [2H Axe Backhand Strike](#Backhandstrike) | Difficult | 2 | Short | Pierce | - | 300 | 500 |
-| [2H Axe Falling Strike](#Fallingstrike) | Difficult | 2 | Short | Cut | 10 Ranks in [2H Axe Chop](#Chop) | 300 | 500 |
-| [2H Axe Haft Sap](#Haftsap) | Difficult | 2 | Short | Bruise | 10 Ranks in [2H Axe Haft Strike](#Haftstrike) | 300 | 500 |
-| [2H Axe Up Slash](#Uslash) | Difficult | 2 | Either | Cut | 10 Ranks in [2H Axe Chop](#Chop)<br><br>10 Ranks in [2H Axe Basic Slash](#Slash) | 300 | 500 |
-| [2H Axe Feint](#Feint) | Average | 2 | Short | - | - | 300 | 500 |
-| [2H Axe Swinging Disarm](#Swingingdisarm) | Average | 2 | Short | - | - | 100 | 175 |
-| [2H Axe Hook](#Hook) | Average | 2 | Short | - | - | 300 | 500 |
-| [2H Axe Ankle Hook](#Anklehook) | Difficult | 2 | Short | - | - | 300 | 500 |
-| [2H Axe Arm Hook](#Armhook) | Difficult | 2 | Short | - | - | 300 | 500 |
-| [2H Axe Crossing Block](#Crossingblock) | Easy | 2 | - | - | - | 300 | 500 |
-| [2H Axe Haft Block](#Haftblock) | Average | 2 | - | - | - | 300 | 500 |
-| [2H Axe Head Block](#Headblock) | Difficult | 2 | - | - | - | 300 | 500 |
-| [2H Axe Swat Block](#Swatblock) | Difficult | 2 | - | - | - | 300 | 500 |
-| [2H Axe Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 |
-| [2H Axe Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 |
+| [2H Axe Cross Chop](#2h-axe-cross-chop-cchop) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#2h-axe-chop-chop)<br><br>20 Ranks in [2H Axe Overhead Chop](#2h-axe-overhead-chop-overhead) | 300 | 500 |
+| [2H Axe Hip Slash](#2h-axe-hip-slash-hslash) | Average | 2 | Either | Cut | [Wide Grip Stance](#2h-axe-wide-grip-stance-wgrip)<br><br>20 Ranks in [2H Axe Basic Slash](#2h-axe-basic-slash-slash) | 300 | 500 |
+| [2H Axe Overhead Chop](#2h-axe-overhead-chop-overhead) | Average | 2 | Either | Cut | 20 Ranks in [2H Axe Chop](#2h-axe-chop-chop) | 300 | 500 |
+| [2H Axe Stepping Slash](#2h-axe-stepping-slash-sslash) | Average | 2 | Either | Cut | 30 Ranks in [2H Axe Basic Slash](#2h-axe-basic-slash-slash) | 300 | 500 |
+| [2H Axe Woodcutter Slash](#2h-axe-woodcutter-slash-break) | Average | 2 | Short | Cut | - | 300 | 500 |
+| [2H Axe Backhand Strike](#2h-axe-backhand-strike-bstrike) | Difficult | 2 | Short | Pierce | - | 300 | 500 |
+| [2H Axe Falling Strike](#2h-axe-falling-strike-pchop) | Difficult | 2 | Short | Cut | 10 Ranks in [2H Axe Chop](#2h-axe-chop-chop) | 300 | 500 |
+| [2H Axe Haft Sap](#2h-axe-haft-sap-sap) | Difficult | 2 | Short | Bruise | 10 Ranks in [2H Axe Haft Strike](#2h-axe-haft-strike-strike) | 300 | 500 |
+| [2H Axe Up Slash](#2h-axe-up-slash-uslash) | Difficult | 2 | Either | Cut | 10 Ranks in [2H Axe Chop](#2h-axe-chop-chop)<br><br>10 Ranks in [2H Axe Basic Slash](#2h-axe-basic-slash-slash) | 300 | 500 |
+| [2H Axe Feint](#2h-axe-feint-feint) | Average | 2 | Short | - | - | 300 | 500 |
+| [2H Axe Swinging Disarm](#2h-axe-swinging-disarm-fling) | Average | 2 | Short | - | - | 100 | 175 |
+| [2H Axe Hook](#2h-axe-hook-hook) | Average | 2 | Short | - | - | 300 | 500 |
+| [2H Axe Ankle Hook](#2h-axe-ankle-hook-pin) | Difficult | 2 | Short | - | - | 300 | 500 |
+| [2H Axe Arm Hook](#2h-axe-arm-hook-ahook) | Difficult | 2 | Short | - | - | 300 | 500 |
+| [2H Axe Crossing Block](#2h-axe-crossing-block) | Easy | 2 | - | - | - | 300 | 500 |
+| [2H Axe Haft Block](#2h-axe-haft-block) | Average | 2 | - | - | - | 300 | 500 |
+| [2H Axe Head Block](#2h-axe-head-block) | Difficult | 2 | - | - | - | 300 | 500 |
+| [2H Axe Swat Block](#2h-axe-swat-block) | Difficult | 2 | - | - | - | 300 | 500 |
+| [2H Axe Accuracy](#2h-axe-accuracy) | Difficult | - | - | - | - | 100 | 100 |
+| [2H Axe Grip](#2h-axe-grip) | Impossible | - | - | - | - | 100 | 100 |
 
 **Directions to Clobris** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, Nx1, Ex6, Sx1
 **Directions to Hroth** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
@@ -221,7 +221,7 @@ This maneuver reverses the slashing movement of a previous strike, and **can onl
 
 If blocked, there is a chance of disarming your opponent.
 
-* This maneuver must be performed directly after a **slashing** attack *(e.g. [2H Axe Basic Slash](#Slash) or [2H Axe Hip Slash](#Hipslash))*
+* This maneuver must be performed directly after a **slashing** attack *(e.g. [2H Axe Basic Slash](#2h-axe-basic-slash-slash) or [2H Axe Hip Slash](#2h-axe-hip-slash-hslash))*
 
 **When you see this in use you see:**
 
@@ -272,7 +272,7 @@ This maneuver reverses the momentum of a downward strike, slashing back upward a
 
 If blocked, there is a chance of disarming your opponent.
 
-* This maneuver must be used after a **chopping** attack *(e.g. [2H Axe Chop](#Chop) or [2H Axe Falling Strike](#Fallingstrike))*
+* This maneuver must be used after a **chopping** attack *(e.g. [2H Axe Chop](#2h-axe-chop-chop) or [2H Axe Falling Strike](#2h-axe-falling-strike-pchop))*
 
 **When you see this in use you see:**
 

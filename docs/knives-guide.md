@@ -16,15 +16,15 @@ Below you'll find everything important to know about the [Knives](/knives/) skil
 
 
 ### Advice & Tips
-* **[Whirling Slash](/knives/#Whirl)** and **[Stab and Slash](/knives/#Dc)** both **have penalties** and **require** high **ranks of Slash/Stab**. It is **not recommended** to learn them early on.
-* [Push Aside](/knives/#Pa) can **only be used against humanoids** that **wield weapons**. It can be useful against NPCs but is primarily used against PCs.
+* **[Whirling Slash](/knives/#knife-whirling-slash-whirlslash)** and **[Stab and Slash](/knives/#knife-stab-and-slash-doublecut)** both **have penalties** and **require** high **ranks of Slash/Stab**. It is **not recommended** to learn them early on.
+* [Push Aside](/knives/#knife-step-and-lunge-lunge) can **only be used against humanoids** that **wield weapons**. It can be useful against NPCs but is primarily used against PCs.
 * **Flicking Feint** is a **more difficult** feint that does not work properly against NPCs. **Only** learn to fight **against PCs**.
 * **Round Strike** is a weak attack that will only work against an opponent's weapon blocks for the follow-up strike when failed. It is worthless against high level opponents who have CMs higher than their weapon blocks. Great practice attack.
-* **[Stab and Slash](/knives/#Dc)** / [Underhand Stab](/knives/#Ustab) are the **best damage dealers**. Stab and Slash can be aimed, allowing you to strike twice on an opponent's weak spot even with a 1-over roll. Underhand Stab has the highest basic damage for Knives.
-* **Ranks in [Knife Slash](/knives/#Slash) lower** the **threshold for** landing **multi-hitters** with **[Whirling Slash](/knives/#Whirl)** by 1 per rank *(see 'Whirling Slash' table below)*.
-* **Ranks in [Knife Slash](/knives/#Slash) reduce** the **penalty** for attacking with **[Whirling Slash](/knives/#Whirl)** by 2 per rank *(see 'Whirling Slash' table below)*.
-* **Ranks in [Knife Slash](/knives/#Slash) lower** the **threshold for** landing **multi-hitters** with **[Stab and Slash](/knives/#Dc)** by 1 per rank *(see 'Stab & Slash' table below)*.
-* **Ranks in [Knife Simple Stab](/knives/#Stab) reduce** the **penalty** for attacking with **[Stab and Slash](/knives/#Dc)** by 2 per rank *(see 'Stab & Slash' table below)*.
+* **[Stab and Slash](/knives/#knife-stab-and-slash-doublecut)** / [Underhand Stab](/knives/#knife-underhand-stab-ustab) are the **best damage dealers**. Stab and Slash can be aimed, allowing you to strike twice on an opponent's weak spot even with a 1-over roll. Underhand Stab has the highest basic damage for Knives.
+* **Ranks in [Knife Slash](/knives/#knife-slash-slash) lower** the **threshold for** landing **multi-hitters** with **[Whirling Slash](/knives/#knife-whirling-slash-whirlslash)** by 1 per rank *(see 'Whirling Slash' table below)*.
+* **Ranks in [Knife Slash](/knives/#knife-slash-slash) reduce** the **penalty** for attacking with **[Whirling Slash](/knives/#knife-whirling-slash-whirlslash)** by 2 per rank *(see 'Whirling Slash' table below)*.
+* **Ranks in [Knife Slash](/knives/#knife-slash-slash) lower** the **threshold for** landing **multi-hitters** with **[Stab and Slash](/knives/#knife-stab-and-slash-doublecut)** by 1 per rank *(see 'Stab & Slash' table below)*.
+* **Ranks in [Knife Simple Stab](/knives/#Stab) reduce** the **penalty** for attacking with **[Stab and Slash](/knives/#knife-stab-and-slash-doublecut)** by 2 per rank *(see 'Stab & Slash' table below)*.
 
 > [GM Senses](https://discord.com/channels/443988880396386314/643259017069592577/1114451929435746304):
 > "Unlike soundly built skill sets with standardized weapons, knives come in a mess of different varieties with all different properties. For most purposes, **daggers** are the only ones that matter e.g. they **have the most favorable stats**."
@@ -69,13 +69,13 @@ Required SP: *~60 SP*
 | # | Skill | To Rank |
 | --- | --- | --- |
 | 1 | [Knives](/knives/) | 10 |
-| 2 | [Knife Jab](/knives/#Jab) | 1 |
-| 3 | [Knife Chop](/knives/#Chop) | 1 |
+| 2 | [Knife Jab](/knives/#knife-jab-jab) | 1 |
+| 3 | [Knife Chop](/knives/#knife-chop-chop) | 1 |
 | 4 | [Knife Simple Stab](/knives/#Stab) | 1 |
-| 5 | [Knife Slash](/knives/#Slash) | 1 |
+| 5 | [Knife Slash](/knives/#knife-slash-slash) | 1 |
 
 * Using the dummy, **learn jab, chop, stab, slash** as soon as you can.
-* If you have below average [speed](/stats/), learn [combat maneuvers](/combat-maneuvers/) + 1 rank [reflexes](/combat-maneuvers/#Reflexes).
+* If you have below average [speed](/stats/), learn [combat maneuvers](/combat-maneuvers/) + 1 rank [reflexes](/combat-maneuvers/#reflexes-na).
 * Using your five-move rotation, **earn as much SP as you can from the dummy** until your SP gain reaches 0.
 
 Note: Learn as much as possible from the instructor at Ludus Valerius, since he teaches at 50% of Gilven's price.
@@ -90,15 +90,15 @@ Required SP: *~300 SP*
 | # | Skill | To Rank |
 | --- | --- | --- |
 | 1 | [Knives](/knives/) | 30 |
-| 2 | [Knife Jab](/knives/#Jab) | 10 |
-| 3 | [Knife Chop](/knives/#Chop) | 10 |
+| 2 | [Knife Jab](/knives/#knife-jab-jab) | 10 |
+| 3 | [Knife Chop](/knives/#knife-chop-chop) | 10 |
 | 4 | [Knife Simple Stab](/knives/#Stab) | 10 |
-| 5 | [Knife Slash](/knives/#Slash) | 10 |
+| 5 | [Knife Slash](/knives/#knife-slash-slash) | 10 |
 | 1 | [Combat Maneuvers](/combat-maneuvers/) | 1 |
-| 1 | [Killing Blow](/combat-maneuvers/#Kill) | 1 |
+| 1 | [Killing Blow](/combat-maneuvers/#killing-blow-kill) | 1 |
 
-* If you hunt in the sewers or the alleys, learn [Combat Maneuvers'](/combat-maneuvers/#Kill) **Killing Blow** and carry a tin gladius. A failed killing blow will use up 1% of your fatigue. You will practically never fail with a gladius.
-* If you have **below average** [agility](/stats/) or [dexterity](/stats/), learn [Footwork](/combat-maneuvers/#Footwork) and/or [Grip](/knives/#Grip) 1 rank.
+* If you hunt in the sewers or the alleys, learn [Combat Maneuvers'](/combat-maneuvers/#combat-maneuvers) **Killing Blow** and carry a tin gladius. A failed killing blow will use up 1% of your fatigue. You will practically never fail with a gladius.
+* If you have **below average** [agility](/stats/) or [dexterity](/stats/), learn [Footwork](/combat-maneuvers/#footwork-na) and/or [Grip](/knives/#knives-grip) 1 rank.
 * Purchase good [armor](/armor/), to at least cover the head, chest, thighs and shins. (e.g. lorica hamata & a bronze helmet)
 * Purchase the best knife/dagger available given your funds, the more damage you do, the quicker the slaves' success will rise making you take less damage.
 * Purchase a good shield (e.g. long shield).
@@ -120,10 +120,10 @@ Required SP: *~558 SP*
 | 1 | [Basic Dodge](/combat-maneuvers/) | 10 |
 | 1 | [Swaying Dodge](/combat-maneuvers/) | 10 |
 | 1 | [Leg Dodge](/combat-maneuvers/) | 10 |
-| 2 | [Knife Short Block](/knives/#Sblock) | 10 |
-| 3 | [Knife Cross Block](/knives/#Cblock) | 10 |
-| 2 | [Knife Overhead Strike](/knives/#Strike) | 10 |
-| 3 | [Knife Underhand Stab](/knives/#Ustab) | 10 |
+| 2 | [Knife Short Block](/knives/#knife-short-block) | 10 |
+| 3 | [Knife Cross Block](/knives/#knife-cross-block) | 10 |
+| 2 | [Knife Overhead Strike](/knives/#knife-overhead-strike-strike) | 10 |
+| 3 | [Knife Underhand Stab](/knives/#knife-underhand-stab-ustab) | 10 |
 | 1 | [Sidestep](/combat-maneuvers/) | 10 |
 | 1 | [Duck](/combat-maneuvers/) | 10 |
 | 1 | [Jump](/combat-maneuvers/) | 10 |
@@ -148,7 +148,7 @@ This is the list of weapons that can be used by the Knives skill set.
 | --- | --- | --- |
 |  |  | Knives |
 | A (tin) knife | Bacei (Junk Dealer) | 53d |
-| A knife crafted from *<animal>* bone | [Hunting](/hunting/#knife) | Cannot be purchased. |
+| A knife crafted from *<animal>* bone | [Hunting](/hunting/#hunting) | Cannot be purchased. |
 | A bronze knife **[RF]** | [Apecuia](/newbie-office/) ([Officium de Humanitas](/newbie-office/)). | 44d 1st 1s + 19 Pebbles |
 | A long knife **[RF]** | [Various Shops](/shops/) \| NPC Loot | +2t 192d |
 |  |  | Dirks |

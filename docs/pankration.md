@@ -18,31 +18,31 @@ This skill set is best **complemented by knowledge of [Brawling](/brawling/).**
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Skills/Actions** | **Difficulty** | Hands | Range | Wound | Prerequisites | Stelahos | Mervia |  |
 | *<u>Pankration</u>* | Easy | - | - | - | - | 90 | 500 |  |
-| [Pankration Basic Stance](#stance) | Easy | 2 | - | - | [Pankration Basic Stance](#stance) | 75 | 100 |  |
-| [Pankration Forward Elbow](#felbow) | Easy | 1 | Short | Bruise | - | 75 | 500 |  |
-| [Pankration Lead Palm](#lpalm) | Easy | 1 | Short | Bruise | - | 75 | 500 |  |
-| [Pankration Waist Clasp](#wclasp) | Easy | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Driving Knee](#dknee) | Average | - | Short | Bruise | - | 75 | 500 |  |
-| [Pankration Feint](#feint) | Average | 2 | Short | - | - | 75 | 500 |  |
-| [Pankration Rising Palm](#rpalm) | Average | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Straight Palm](#spalm) | Average | 1 | Short | Bruise | - | 75 | 500 |  |
-| [Pankration Wide Knee](#wknee) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Rising Elbow](#relbow) | Average | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Lead and Cross](#lcross) | Average | 2 | Short | Bruise<br><br>Bruise | [Pankration Basic Stance](#stance)<br><br>20 Ranks in [Pankration Lead Palm](#Lead)<br><br>20 Ranks in [Pankration Forward Elbow](#felbow) | 75 | 500 |  |
-| [Pankration Strike and Rise](#srise) | Average | 2 | Short | Bruise<br><br>Bruise | [Pankration Basic Stance](#stance)<br><br>20 Ranks in [Pankration Straight Palm](#Straight)<br><br>20 Ranks in [Pankration Rising Elbow](#relbow) | 75 | 500 |  |
-| [Pankration Double Knee](#doubleknee) | Difficult | 1 | Short | Bruise<br><br>Bruise | 30 Ranks in [Pankration Driving Knee](#dknee)<br><br>30 Ranks in [Pankration Wide Knee](#wknee) | 75 | 500 |  |
-| [Pankration Knife Hand](#knife) | Difficult | 2 | Short | Pierce | [Pankration Basic Stance](#stance)<br><br>80 Ranks in *Pankration*<br><br>40 Ranks in [Pankration Lead Palm](#Lead)<br><br>40 Ranks in [Pankration Straight Palm](#Straight)<br><br>40 Ranks in [Pankration Rising Palm](#Rpalm) | 75 | 500 |  |
-| [Pankration Shoulder Block](#sblock) | Easy | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Knee Block](#kblock) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Palm Block](#pblock) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Side Knee Block](#skblock) | Difficult | 2 | - | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Brotherly Clasp](#bclasp) | Average | 2 | Short | - | - | 75 | 175 |  |
-| [Pankration Knee Clasp](#kclasp) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Swift Head Clasp](#sclasp) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Plummet](#plummet) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 175 |  |
-| [Pankration Rear Plummet](#rplummet) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 175 |  |
-| [Pankration Accuracy](#accuracy) | Difficult | - | - | - | - | 75 | 100 |  |
-| [Pankration Focus](#focus) | Impossible | - | - | - | - | 75 | 100 |  |
+| [Pankration Basic Stance](#pankration-basic-stance-pank) | Easy | 2 | - | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 100 |  |
+| [Pankration Forward Elbow](#forward-elbow-felbow) | Easy | 1 | Short | Bruise | - | 75 | 500 |  |
+| [Pankration Lead Palm](#lead-palm-lpalm) | Easy | 1 | Short | Bruise | - | 75 | 500 |  |
+| [Pankration Waist Clasp](#waist-clasp-wclasp) | Easy | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Driving Knee](#driving-knee-dknee) | Average | - | Short | Bruise | - | 75 | 500 |  |
+| [Pankration Feint](#pankration) | Average | 2 | Short | - | - | 75 | 500 |  |
+| [Pankration Rising Palm](#rising-palm-rpalm) | Average | 2 | Short | Bruise | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Straight Palm](#straight-palm-spalm) | Average | 1 | Short | Bruise | - | 75 | 500 |  |
+| [Pankration Wide Knee](#wide-knee-wknee) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Rising Elbow](#rising-elbow-relbow) | Average | 2 | Short | Bruise | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Lead and Cross](#lead-and-cross-lcross) | Average | 2 | Short | Bruise<br><br>Bruise | [Pankration Basic Stance](#pankration-basic-stance-pank)<br><br>20 Ranks in [Pankration Lead Palm](#pankration)<br><br>20 Ranks in [Pankration Forward Elbow](#forward-elbow-felbow) | 75 | 500 |  |
+| [Pankration Strike and Rise](#strike-and-rise-srise) | Average | 2 | Short | Bruise<br><br>Bruise | [Pankration Basic Stance](#pankration-basic-stance-pank)<br><br>20 Ranks in [Pankration Straight Palm](#straight-palm-spalm)<br><br>20 Ranks in [Pankration Rising Elbow](#rising-elbow-relbow) | 75 | 500 |  |
+| [Pankration Double Knee](#double-knee-doubleknee) | Difficult | 1 | Short | Bruise<br><br>Bruise | 30 Ranks in [Pankration Driving Knee](#driving-knee-dknee)<br><br>30 Ranks in [Pankration Wide Knee](#wide-knee-wknee) | 75 | 500 |  |
+| [Pankration Knife Hand](#knife-hand-knife) | Difficult | 2 | Short | Pierce | [Pankration Basic Stance](#pankration-basic-stance-pank)<br><br>80 Ranks in *Pankration*<br><br>40 Ranks in [Pankration Lead Palm](#pankration)<br><br>40 Ranks in [Pankration Straight Palm](#straight-palm-spalm)<br><br>40 Ranks in [Pankration Rising Palm](#rising-palm-rpalm) | 75 | 500 |  |
+| [Pankration Shoulder Block](#shoulder-block) | Easy | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Knee Block](#kblock) | Average | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Palm Block](#palm-block) | Average | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Side Knee Block](#side-knee-block) | Difficult | 2 | - | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Brotherly Clasp](#brotherly-clasp-bclasp) | Average | 2 | Short | - | - | 75 | 175 |  |
+| [Pankration Knee Clasp](#knee-clasp-kclasp) | Average | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Swift Head Clasp](#swift-head-clasp-sclasp) | Average | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 500 |  |
+| [Pankration Plummet](#pankration) | Average | 2 | Short | - | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 175 |  |
+| [Pankration Rear Plummet](#rear-plummet-rplummet) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#pankration-basic-stance-pank) | 75 | 175 |  |
+| [Pankration Accuracy](#pankration-accuracy) | Difficult | - | - | - | - | 75 | 100 |  |
+| [Pankration Focus](#pankration-focus) | Impossible | - | - | - | - | 75 | 100 |  |
 
 
 **Directions to Stelahos' School of Pankration** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, S, W, S
@@ -51,7 +51,7 @@ This skill set is best **complemented by knowledge of [Brawling](/brawling/).**
 #### Notes on Learning
 * You can also use Skill Points **(SP) from [Brawling](/brawling/)** to learn Pankration.
 * **Pankration Double Knee**: Although you do not need to be in the Pankration Basic Stance to perform this move, this move can only be learned after learning other stance-needed moves.
-* **Pankration Brotherly Clasp**: Although this move does not require you to be in the Pankration Basic Stance, this move can only be performed after [Pankration Swift Head Clasp](#sclasp), which needs to be in stance to work.
+* **Pankration Brotherly Clasp**: Although this move does not require you to be in the Pankration Basic Stance, this move can only be performed after [Pankration Swift Head Clasp](#swift-head-clasp-sclasp), which needs to be in stance to work.
 * While not all maneuvers require both hands free, **no Pankration maneuvers can be performed while wielding** another weapon or shield.
 
 

@@ -18,7 +18,7 @@ During the period of the monarchy, Iridine expanded, conquering Monlon and warri
 The holy center of the region and home to a famed Oracle. It is also the site of the founding of the [Cult of Ereal](/cult-of-ereal/), the state religions of Iridine and Cinera. As such, it is the source of constant strife between Iridine and Cinera. Cinera has recently invaded Iridine for the purpose of claiming the village. Monlon’s main exports, aside from religion, are iron and freshwater fish. The fish in question tend to be about arm-long, silvery lake trout. There are also some fat-looking, yellow-scaled fish called "weeders" that lurk in the thick plants on the bottom of the lake. They are delicious when stuffed with slices of apple.
 
 
-Monlon is protected by its local force of [Monlon Vigiles](/monlon-vigiles/) as well as the [Monlon Volunteer Guard](/orgs/#MVG), both of whom have a headquarters in the city.
+Monlon is protected by its local force of [Monlon Vigiles](/monlon-vigiles/) as well as the [Monlon Volunteer Guard](/orgs/#monlon-volunteer-guard), both of whom have a headquarters in the city.
 
 The current interim governor is **Paprius Aketoros**, who was appointed after the current governor ([bio:Cascar Olgulan](/bio_cascar-olgulan/)) went missing & the assistant governor ([bio:Vaestia Elavia Santum](/bio_vaestia-elavia-santum/)) was reported slain during the Kelestian invasion.
 
@@ -117,9 +117,9 @@ This code allows the map to be auto-inserted in other pages on the wiki, regardl
 * Tibbeth, the **rare weapons** merchant.
 * Vendana can make **cadaes**.
 * The city is currently in the **midst of the [Monlon Invasion](/monlon-invasion/)**. Enemy [Kelestians](/kelestia/) surround the city and roam the streets at night.
-* Trainer to learn **[Spoken Kelestian](/languages/#Kelestian)**.
+* Trainer to learn **[Spoken Kelestian](/languages/#monlon-kelestian-healer)**.
 
 
 <a id="Laws"></a>
 ### Laws
-The [Monlon Vigiles](/monlon-vigiles/) are the local [lawkeepers](/law/#Lawkeepers) of the city, assisted by the local militia the [Monlon Volunteer Guard](/monlon-volunteer-guard/).
+The [Monlon Vigiles](/monlon-vigiles/) are the local [lawkeepers](/law/#lawkeepers) of the city, assisted by the local militia the [Monlon Volunteer Guard](/monlon-volunteer-guard/).

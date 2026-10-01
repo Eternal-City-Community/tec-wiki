@@ -18,16 +18,16 @@ Developing tanning skills requires attention to detail, patience, and an underst
 | --- | --- | --- |
 | Skills/Actions | Difficulty | Arvane |
 | <u>*Basic Tanning*</u> | Easy | 145 |
-| [Knead Hide](#Knead-Hide) | Easy | 50 |
-| [Brush Hide](#Brush-Hide) | Average | 50 |
-| [Clean Hide](#Clean-Hide) | Average | 50 |
-| [Dehair Hide](#Dehair-Hide) | Average | 50 |
-| [Dry Hide](#Dry-Hide) | Average | 50 |
-| [Soften Hide](#Soften-Hide) | Average | 50 |
-| [Dye Hide](#Dye-Hide) | Difficult | 50 |
-| [Salt Hide](#Salt-Hide) | Difficult | 50 |
-| [Scrape Hide](#Scrape-Hide) | Difficult | 50 |
-| [Tan Hide](#Tan-Hide) | Difficult | 50 |
+| [Knead Hide](#knead-hide-knead) | Easy | 50 |
+| [Brush Hide](#brush-hide-brush) | Average | 50 |
+| [Clean Hide](#clean-hide-clean) | Average | 50 |
+| [Dehair Hide](#dehair-hide-dehair) | Average | 50 |
+| [Dry Hide](#dry-hide-dry) | Average | 50 |
+| [Soften Hide](#soften-hide-soften) | Average | 50 |
+| [Dye Hide](#dye-hide-dye) | Difficult | 50 |
+| [Salt Hide](#salt-hide-salt) | Difficult | 50 |
+| [Scrape Hide](#scrape-hide-flesh) | Difficult | 50 |
+| [Tan Hide](#tan-hide-tan) | Difficult | 50 |
 
 
 <a id="Recipes"></a>
@@ -79,7 +79,7 @@ N 1 W 3
 #### Notes on Learning
 * You **cannot train 'Basic Tanning'**. Your basic **Tanning rank increases as you train the Tanning sub-skills**.
 * Tanning requires the knowledge of specific recipes. Once these recipes are known, you do not need to learn additional ranks.
-* When you learn the Tanning skill with [GSP](/skills/#GSP), you also learn all the sub-skills and the 4 tanning recipes.
+* When you learn the Tanning skill with [GSP](/skills/#general-skill-points-gsp), you also learn all the sub-skills and the 4 tanning recipes.
 * All tanning skills require a recipe to be recalled to used. Use **recipe-recall** and select from the options listed.
 
 ### Skill Details

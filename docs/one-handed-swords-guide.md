@@ -11,8 +11,8 @@ Everything you need to know about the never-ending journey of the One-Handed Swo
 
 ### In a Nutshell
 #### Pros
-* **Most complete defense** of any skill set within the game with its six **(6) blocks** ([Simple Block](/one-handed-swords/#Simple), [Cross Block](/one-handed-swords/#Cross), [Overhead Block](/one-handed-swords/#Overhead), [Round Block](/one-handed-swords/#Round), [Base Block](/one-handed-swords/#Base) & [Low Block](/one-handed-swords/#Low)). Even more so when including **style-specific blocks** ([Sunrise Block](/avros-one-handed-swords/#Sunrise), [Downward Block](/pardelian-one-handed-swords/#DB) & [Vulture Block](/nelsor-one-handed-swords/#VB))
-* [Sword Push Back](/one-handed-swords/#Push) is more effective than the more widely known [Shield Push Back](/shields/#pBack).
+* **Most complete defense** of any skill set within the game with its six **(6) blocks** ([Simple Block](/one-handed-swords/#sword-simple-block), [Cross Block](/one-handed-swords/#sword-cross-block), [Overhead Block](/one-handed-swords/#sword-overhead-block), [Round Block](/one-handed-swords/#sword-round-block), [Base Block](/one-handed-swords/#sword-base-block) & [Low Block](/one-handed-swords/#sword-low-block)). Even more so when including **style-specific blocks** ([Sunrise Block](/avros-one-handed-swords/#avros-sunrise-block-fling), [Downward Block](/pardelian-one-handed-swords/#pardelian-downward-block-na) & [Vulture Block](/nelsor-one-handed-swords/#vulture-block))
+* [Sword Push Back](/one-handed-swords/#sword-push-back-pushback) is more effective than the more widely known [Shield Push Back](/shields/#shield-push-back-spushback).
 * When combined with all three **(3) gladius styles**, there are **over 40 different attacks** to choose from, including:
  * **5 ranged attacks**
  * **4 approaches**
@@ -30,8 +30,8 @@ Everything you need to know about the never-ending journey of the One-Handed Swo
 * **No** offensive or defensive **stepping attacks**.
 * **No multi-hitters** in 1HS.
 * **No unique mechanic** or attack in 1HS.
-* [Retalq's Shadow Blade Thrust](/one-handed-swords/#Sthrust) is nearly **mechanically identical** to [Stab](/one-handed-swords/#Stab).
-* [Questrius' Toss and Crush](/one-handed-swords/#Crush) is nearly **mechanically identical** to [Swat](/one-handed-swords/#Swat).
+* [Retalq's Shadow Blade Thrust](/one-handed-swords/#retalqs-shadow-blade-thrust-sthrust) is nearly **mechanically identical** to [Stab](/one-handed-swords/#sword-stab-stab).
+* [Questrius' Toss and Crush](/one-handed-swords/#questrius-toss-and-crush-crush) is nearly **mechanically identical** to [Swat](/one-handed-swords/#sword-swat-swat).
 
 
 ### Advice & Tips
@@ -137,9 +137,9 @@ A rank of **1 signifies the best** in this category.
 
 ### Moves
 #### Worthwhile
-* [Chop](/one-handed-swords/#Chop)
-* [Jab](/one-handed-swords/#Jab)
-* [Stab](/one-handed-swords/#Stab)
+* [Chop](/one-handed-swords/#sword-chop-chop)
+* [Jab](/one-handed-swords/#sword-jab-jab)
+* [Stab](/one-handed-swords/#sword-stab-stab)
 
 
 #### Less useful

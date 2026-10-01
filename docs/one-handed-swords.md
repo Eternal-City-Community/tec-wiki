@@ -20,7 +20,7 @@ Basic familiarity with the gladius includes the common strikes usable with any o
 
 The first, **[Pardelian](/pardelian-one-handed-swords/)**, is taught to soldiers. The other style, called **[Avros](/avros-one-handed-swords/)** swording, is thought better for duels, and most patricians who learn the sword (all of them in other words) study it. A third, lesser style is called **[Nelsor](/nelsor-one-handed-swords/)**, named after a man who was not a gladiator but trained many. Also known as Gladiator's Swording, it is flashier and more dramatic- and much less practical. Its maneuvers are meant to be more clearly visible at a distance- the people in the cheap seats can't see the skill involved in an Avros Hook, but a Kicking Leap Strike is pretty easy to spot. 
 
-Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) and [Questrius' Toss and Crush](#Crush), have emerged in the past few decades reportedly from the [Monlon Volunteer Guard](/orgs/#MVG). Though Gilven refuses to teach these moves, they are known to most sword users.
+Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#retalqs-shadow-blade-thrust-sthrust) and [Questrius' Toss and Crush](#questrius-toss-and-crush-crush), have emerged in the past few decades reportedly from the [Monlon Volunteer Guard](/orgs/#monlon-volunteer-guard). Though Gilven refuses to teach these moves, they are known to most sword users.
 
 **For guidance on using the skill set, see the [Swords Guide](/one-handed-swords-guide/)**.
 
@@ -30,27 +30,27 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Gilven | Cula | Majell | Varga | **Prestis |
 | *<u>One-Handed Swords</u>* | Easy | - | - | - | 300 | 100 | 120 | 500 | 154 |
-| [Sword Chop](#Chop) | Easy | Either | Short | Cut | 300 | 100 | 110 | 500 | 154 |
-| [Sword Jab](#Jab) | Easy | Either | Short | Pierce | 300 | 100 | 110 | 500 | 154 |
-| [Sword Slash](#Slash) | Easy | Either | Short | Cut | 300 | 100 | 110 | 500 | 154 |
-| [Sword Swat](#Swat) | Easy | Either | Short | Bruise | 300 | 100 | 110 | 500 | 154 |
-| [Sword Lunge](#Lunge) | Average | Either | Long | Pierce | 300 | 100 | 110 | 500 | 154 |
-| [Sword Side Strike](#Side) | Average | 2 | Short | Cut | 300 | 100 | 110 | 500 | 154 |
-| [Sword Stab](#Stab) | Average | Either | Short | Pierce | 300 | 100 | 110 | 500 | 154 |
-| [Sword Sap](#Sap) | Difficult | Either | Short | Bruise | 300 | 100 | 110 | 500 | 154 |
-| [Sword Simple Block](#Simple) | Easy | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
-| [Sword Cross Block](#Cross) | Average | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
-| [Sword Overhead Block](#Overhead) | Average | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
-| [Sword Round Block](#Round) | Average | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
-| [Sword Base Block](#Base) | Difficult | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
-| [Sword Low Block](#Low) | Difficult | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
-| [Sword Feint](#Feint) | Average | Either | Short | - | 300 | 100 | 110 | 500 | 154 |
-| [Sword Push Back](#Push) | Average | Either | Short | - | 300 | 100 | 110 | 500 | 154 |
-| [Sword Accuracy ](#Accuracy) | Difficult | - | - | - | 100 | 75 | - | 100 | 154 |
-| [Sword Grip](#Grip) | Impossible | - | - | - | 100 | 75 | - | 100 | 154 |
+| [Sword Chop](#sword-chop-chop) | Easy | Either | Short | Cut | 300 | 100 | 110 | 500 | 154 |
+| [Sword Jab](#sword-jab-jab) | Easy | Either | Short | Pierce | 300 | 100 | 110 | 500 | 154 |
+| [Sword Slash](#sword-slash-slash) | Easy | Either | Short | Cut | 300 | 100 | 110 | 500 | 154 |
+| [Sword Swat](#sword-swat-swat) | Easy | Either | Short | Bruise | 300 | 100 | 110 | 500 | 154 |
+| [Sword Lunge](#sword-lunge-lunge) | Average | Either | Long | Pierce | 300 | 100 | 110 | 500 | 154 |
+| [Sword Side Strike](#sword-side-strike-sidestrike) | Average | 2 | Short | Cut | 300 | 100 | 110 | 500 | 154 |
+| [Sword Stab](#sword-stab-stab) | Average | Either | Short | Pierce | 300 | 100 | 110 | 500 | 154 |
+| [Sword Sap](#sword-sap-sap) | Difficult | Either | Short | Bruise | 300 | 100 | 110 | 500 | 154 |
+| [Sword Simple Block](#sword-simple-block) | Easy | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
+| [Sword Cross Block](#sword-cross-block) | Average | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
+| [Sword Overhead Block](#sword-overhead-block) | Average | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
+| [Sword Round Block](#sword-round-block) | Average | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
+| [Sword Base Block](#sword-base-block) | Difficult | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
+| [Sword Low Block](#sword-low-block) | Difficult | Either | Short | - | 300 | 90 | 110 | 500 | 154 |
+| [Sword Feint](#sword-feint-feint) | Average | Either | Short | - | 300 | 100 | 110 | 500 | 154 |
+| [Sword Push Back](#sword-push-back-pushback) | Average | Either | Short | - | 300 | 100 | 110 | 500 | 154 |
+| [Sword Accuracy ](#sword-accuracy) | Difficult | - | - | - | 100 | 75 | - | 100 | 154 |
+| [Sword Grip](#sword-grip) | Impossible | - | - | - | 100 | 75 | - | 100 | 154 |
 |  |  |  |  |  |  |  |  |  | Custom Skills (Not taught by NPC trainers) |
-| [Retalq's Shadow Blade Thrust](#Sthrust) | Average | Either | Short | Pierce | - | - | - | - | - |
-| [Questrius' Toss and Crush](#Crush) | Easy | Either | Short | Bruise | - | - | - | - | - |
+| [Retalq's Shadow Blade Thrust](#retalqs-shadow-blade-thrust-sthrust) | Average | Either | Short | Pierce | - | - | - | - | - |
+| [Questrius' Toss and Crush](#questrius-toss-and-crush-crush) | Easy | Either | Short | Bruise | - | - | - | - | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Cula** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx4, Ex3, N
@@ -61,7 +61,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 #### Notes on Learning
 
 * You can also use Skill Points (SP) from [Avros](/avros-one-handed-swords/), [Nelsor](/nelsor-one-handed-swords/) and [Pardelian](/pardelian-one-handed-swords/) to learn One-Handed Swords.
-* **Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+* **Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#aralex-eggs).
 
 
 ### Skill Details

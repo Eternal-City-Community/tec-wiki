@@ -21,15 +21,15 @@ Note that some player sites are quite old and outdated. They're preserved here f
 | [The TEC Post Office](https://www.tecpost.itgo.com/) | Iridine's *(outdated)* OOC postal system |
 | [Vino's Vineyard](https://www.angelfire.com/rpg/vineyard/) | The original introduction to TEC. Probably one of the oldest TEC sites out there. Dated content, but some good info in there. |
 | [Player Pictures](https://www.angelfire.com/ga4/gamer/) |  |
-| [The Constables](https://www.angelfire.com/games2/teccombat/constables/) *(Outdated)* | Former site of the [The Constables](/orgs/#Constables) |
+| [The Constables](https://www.angelfire.com/games2/teccombat/constables/) *(Outdated)* | Former site of the [The Constables](/orgs/#the-iridine-constables) |
 | [Guild of Rangers (GoR)](https://www.angelfire.com/journal2/GuildofRangers/maps.html) | Includes some interesting info about plants and lore, and has some poetry and stories |
 | <a id="NWA"></a>[Needle Wielders Anonymous](https://web.archive.org/web/20050216014647/https://eternal.witchytree.com/tailoring/) | The first player site dedicated to [tailoring](/tailoring/). |
 | [Starfire's Domain](https://www.angelfire.com/rpg/starfire/index.html) |  |
 | [Skotos TEC Sites](https://www.skotos.net/games/eternal-city/playersites.phtml) | Player sites, as listed by Skotos on former TEC homepage. |
-| [Legio I Invex](https://legio.witchytree.com/) *(Site down)* | Official site of the [Legion I](/orgs/#Legio) |
+| [Legio I Invex](https://legio.witchytree.com/) *(Site down)* | Official site of the [Legion I](/orgs/#legio) |
 | [TEC Player Pictures](https://tecplayers.igloons.com/)  *(Site down)* | Pics of your fellow players. Used to be discussed and updated in --[this forum thread](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-player-news/76760-tec-player-pictures-website)--. Site seems to have gone down in 2019 - here's the [internet archive version](https://web.archive.org/web/20160701032043/https://tecplayers.igloons.com/) |
 | [Advice From a Scoundrel](https://www.tecscoundrel.net/) *(Site down)* |  |
-| [Healers of Light](https://z4.invisionfree.com/Healers/index.php) *(Site down)* | Former site of the [Healers of Light](/orgs/#HoL) |
+| [Healers of Light](https://z4.invisionfree.com/Healers/index.php) *(Site down)* | Former site of the [Healers of Light](/orgs/#healers-of-light) |
 | [Marnevel's Maps](https://www.xfuj.com/tec/marnevel) *(Site down)* | Marnevel's legendary TEC gameworld maps. While these remain relatively accurate, many have since been updated [here on the wiki](/maps/) |
 | [TEC Player Pictures (other)](https://iglooit.com/tecplayers/) *(Site down)* |  |
 | [TEC Screenshots](https://www.witchytree.com/eternal/screenshots) *(Site down)* |  |

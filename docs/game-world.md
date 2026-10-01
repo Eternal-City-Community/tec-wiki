@@ -66,4 +66,4 @@ Midlight is a world rich in a wide range of natural resources. From the commonpl
 
 
 ### Wealth
-Several national currencies exist throughout the world, from **denars** of [Iridine](/wealth/#Iridine) to **pentaks** of [Cinera](/wealth/#Cinera). See [Wealth](/wealth/).
+Several national currencies exist throughout the world, from **denars** of [Iridine](/wealth/#Iridine) to **pentaks** of [Cinera](/wealth/#cineran-currency). See [Wealth](/wealth/).

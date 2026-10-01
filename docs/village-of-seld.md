@@ -73,7 +73,7 @@ A.   Seld Square
 
 
 ### Points of Interest
-* A [Reputation#Seld](/reputation/#Seld) system, accepting armbands from the BHC or mined ore *(typically from the Blackhand mines)*.
+* A [Reputation#Seld](/reputation/#seld) system, accepting armbands from the BHC or mined ore *(typically from the Blackhand mines)*.
 * Shops with **rare items**, not available elsewhere.
 * Local jobs, such as **net repair** and **pest removal** for lesser skilled combatants.
 * Fast-wagon to Franlius.
@@ -88,7 +88,7 @@ A.   Seld Square
 
 With the opening of the gates of the idyllic fishing village of Seld, new opportunities, jobs, experiences, etc await you. A notable few such would be...
 
-* A [Reputation#Seld](/reputation/#Seld) system, unlocking items unavailable elsewhere.
+* A [Reputation#Seld](/reputation/#seld) system, unlocking items unavailable elsewhere.
 * The **Blue Breakwater Inn** is now once again open for business to the public at large. Having completed recent renovations, the long-term guests (many of the locals) have moved to the newly-built third floor, meaning that the entire first and second floors are now available to rent to anyone. Yay, tourism!
 * **Shops ahoy!** Various Seld shops contain new items (and old staples needed for any respectable village) on offer. Shop til you drop, baby!
 * Experience the unique Seld culture with **new foods**, local **small-batch alcohols**, and some entirely **unique local culinary experiences** as well!

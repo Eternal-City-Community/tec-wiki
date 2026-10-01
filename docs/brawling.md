@@ -16,29 +16,29 @@ This skill set is best complemented by knowledge of [Pankration](/pankration/), 
 | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Pugilius | Mervia |
 | *Brawling* | - | - | - | - | 300 | 500 |
-| [Brawling Punch](#Punch) | Easy | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Kick](#Kick) | Easy | - | Short | Bruise | 300 | 500 |
-| [Brawling Choke](#Choke) | Easy | 1 | Short | - | 300 | 500 |
-| [Brawling Knee](#Knee) | Easy | - | Short | Bruise | 300 | 500 |
-| [Brawling Hair Pull](#Hair-Pull) | Easy | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Head Slam](#Head-Slam) | Easy | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Body Slam](#Body-Slam) | Easy | 1 | Long | Bruise | 300 | 500 |
-| [Brawling Slap](#Slap) | Easy | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Bite](#Bite) | Easy | 1 | Short | Pierce | 300 | 500 |
-| [Brawling Elbow](#Elbow) | Average | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Head Butt](#Head-Butt) | Average | - | Short | Bruise | 300 | 500 |
-| [Brawling Foot Stomp](#Foot-Stomp) | Average | - | Short | Bruise | 300 | 500 |
-| [Brawling Bear Hug](#Bear-Hug) | Average | 1 | Short | - | 300 | 500 |
-| [Brawling Face Block](#Face-Block) | Average | 1 | - | - | 300 | 500 |
-| [Brawling Swat Block](#Swat-Block) | Average | 1 | - | - | 300 | 500 |
-| [Brawling Feint](#Brawl-Feint) | Average | 1 | Short | - | 300 | 500 |
-| [Brawling Uppercut](#Uppercut) | Difficult | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Sucker Punch](#Sucker-Punch) | Difficult | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Nose Break](#Nose-Break) | Difficult | 1 | Short | Bruise | 300 | 500 |
-| [Brawling Leg Whip](#Leg-Whip) | Difficult | 1 | Either | Bruise | 300 | 500 |
-| [Brawling Knee Break](#Knee-Break) | Impossible | - | Short | Bruise | 300 | 500 |
-| [Brawling Ale Focus](#Ale-Focus) | Difficult | - | - | - | 100 | 100 |
-| [Brawling Brawler's Instinct](#Instinct) | Impossible | - | - | - | 100 | 100 |
+| [Brawling Punch](#brawling) | Easy | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Kick](#kick-kick) | Easy | - | Short | Bruise | 300 | 500 |
+| [Brawling Choke](#choke-choke) | Easy | 1 | Short | - | 300 | 500 |
+| [Brawling Knee](#brawling) | Easy | - | Short | Bruise | 300 | 500 |
+| [Brawling Hair Pull](#hair-pull-hairpull) | Easy | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Head Slam](#head-slam-slam) | Easy | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Body Slam](#body-slam-bodyslam) | Easy | 1 | Long | Bruise | 300 | 500 |
+| [Brawling Slap](#slap-hardslap) | Easy | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Bite](#bite-bite) | Easy | 1 | Short | Pierce | 300 | 500 |
+| [Brawling Elbow](#elbow-elbow) | Average | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Head Butt](#head-butt-butt) | Average | - | Short | Bruise | 300 | 500 |
+| [Brawling Foot Stomp](#foot-stomp-stomp) | Average | - | Short | Bruise | 300 | 500 |
+| [Brawling Bear Hug](#bear-hug-bearhug) | Average | 1 | Short | - | 300 | 500 |
+| [Brawling Face Block](#face-block) | Average | 1 | - | - | 300 | 500 |
+| [Brawling Swat Block](#swat-block) | Average | 1 | - | - | 300 | 500 |
+| [Brawling Feint](#brawling-feint-feint) | Average | 1 | Short | - | 300 | 500 |
+| [Brawling Uppercut](#uppercut-uppercut) | Difficult | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Sucker Punch](#sucker-punch-sucker) | Difficult | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Nose Break](#nose-break-nosebreak) | Difficult | 1 | Short | Bruise | 300 | 500 |
+| [Brawling Leg Whip](#leg-whip-legwhip) | Difficult | 1 | Either | Bruise | 300 | 500 |
+| [Brawling Knee Break](#knee-break-kneebreak) | Impossible | - | Short | Bruise | 300 | 500 |
+| [Brawling Ale Focus](#ale-focus) | Difficult | - | - | - | 100 | 100 |
+| [Brawling Brawler's Instinct](#brawlers-instinct) | Impossible | - | - | - | 100 | 100 |
 
 **Directions to Pugilius** ([The Steps South](/the-steps-south/)): Walk to Hospice, E x 13, S, E, S, E x 4, S x 2, E x 8, SE, E x 2, N x 2, E x 2, S x 2, E x 3, S x 6, W, S x 4, W x 4, S x 6, W, Door, D x 2, W x 4, D, E.
 
@@ -73,7 +73,7 @@ Pugilius punches a thug! He suffer a small bruise to his left arm.
 
 A basic kick. This technique is possible while wielding a weapon. 
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -106,7 +106,7 @@ Pugilius twists to one side and slams his elbow into a thug! He suffer a small b
 Thrust your knee upward at your opponent. This technique is possible while wielding a weapon. 
 
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
 
 **When you see this in use you see:**
 
@@ -269,7 +269,7 @@ Pugilius brutally punch a thug in the face! He suffers an ugly bruise to his fac
 
 Attempt to knock your opponent down to his knees, and maybe shatter his foot. This technique can be used while wielding a weapon. 
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Agility**.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Agility**.
 
 **When you see this in use you see:**
 

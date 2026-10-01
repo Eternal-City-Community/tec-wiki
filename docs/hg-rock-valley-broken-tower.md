@@ -70,4 +70,4 @@ Any attempt to **collect a [tear](/contraband/#tears) from an amphora** will res
 **Loot**: [Crystal Tears](/contraband/#tears).
 
 
-[Back to Top](#Top)
+[Back to Top](#)

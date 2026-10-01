@@ -16,27 +16,27 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Flavien | Karkara |
 | *<u>Chainblade Combat</u>* | Easy | - | - | - | - | 200 | 500 |
-| [Chainblade Winged Stance](#wingedstance) | Easy | 2 | - | - | - | 100 | 500 |
-| [Chainblade Flying Slash](#slash) | Easy | 2 | Either | Cut | - | 200 | 500 |
-| [Chainblade Ring Jab](#jab) | Easy | 2 | Short | Bruise | - | 200 | 500 |
-| [Chainblade Close Stab](#stab) | Easy | 2 | Short | Pierce | - | 200 | 500 |
-| [Chainblade Ring Uppercut](#uppercut) | Average | 2 | Short | Bruise | - | 200 | 500 |
-| [Chainblade Hand Slash](#handslash) | Average | 2 | Either | Cut | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Flying Thrust](#thrust) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Ankle Snare](#ankle) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut<br><br>Cut | [Chainblade Winged Stance](#wingedstance)<br><br>20 Ranks in [Chainblade Flying Slash](#slash) | 200 | 500 |
-| [Chainblade Raptor Spike](#raptor) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise<br><br>Pierce | 10 Ranks in [Chainblade Ring Jab](#jab)<br><br>10 Ranks in [Chainblade Close Stab](#stab) | 200 | 500 |
-| [Chainblade Feint](#feint) | Difficult | 2 | Either | - | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Chainblade Overhead Spin](#overhead) | 200 | 500 |
-| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut<br><br>Cut<br><br>Cut<br><br>Cut | [Chainblade Winged Stance](#wingedstance)<br><br>20 Ranks in [Chainblade Overhead Spin](#overhead)<br><br>20 Ranks in [Chainblade Raptor Spike](#raptor) | 200 | 500 |
-| [Chainblade No Mind Strike](#nomind) | Impossible | 2 | Either | *<varies>* | 90 Ranks in [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Blade Block](#bladeblock) | Easy | 2 | - | - | - | 200 | 500 |
-| [Chainblade Ring Block](#ringblock) | Average | 2 | - | - | - | 200 | 500 |
-| [Chainblade Chain Block](#chainblock) | Difficult | 2 | - | - | - | 200 | 500 |
-| [Chainblade Snap Block](#snapblock) | Impossible | 2 | - | - | - | 200 | 500 |
-| [Chainblade Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
-| [Chainblade Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
+| [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | Easy | 2 | - | - | - | 100 | 500 |
+| [Chainblade Flying Slash](#chainblade-flying-slash-slash) | Easy | 2 | Either | Cut | - | 200 | 500 |
+| [Chainblade Ring Jab](#chainblade-ring-jab-jab) | Easy | 2 | Short | Bruise | - | 200 | 500 |
+| [Chainblade Close Stab](#chainblade-close-stab-stab) | Easy | 2 | Short | Pierce | - | 200 | 500 |
+| [Chainblade Ring Uppercut](#chainblade-ring-uppercut-uppercut) | Average | 2 | Short | Bruise | - | 200 | 500 |
+| [Chainblade Hand Slash](#chainblade-hand-slash-handslash) | Average | 2 | Either | Cut | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | 200 | 500 |
+| [Chainblade Flying Thrust](#chainblade-flying-thrust-thrust) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | 200 | 500 |
+| [Chainblade Ankle Snare](#chainblade-ankle-snare-ankle) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | 200 | 500 |
+| [Chainblade Overhead Spin](#chainblade-overhead-spin-overhead) | Average | 2 | Either | Cut<br><br>Cut | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance)<br><br>20 Ranks in [Chainblade Flying Slash](#chainblade-flying-slash-slash) | 200 | 500 |
+| [Chainblade Raptor Spike](#chainblade-raptor-spike-raptor) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | 200 | 500 |
+| [Chainblade Double Jab](#chainblade-double-jab-doublejab) | Average | 2 | Short | Bruise<br><br>Pierce | 10 Ranks in [Chainblade Ring Jab](#chainblade-ring-jab-jab)<br><br>10 Ranks in [Chainblade Close Stab](#chainblade-close-stab-stab) | 200 | 500 |
+| [Chainblade Feint](#chainblade-feint-feint) | Difficult | 2 | Either | - | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | 200 | 500 |
+| [Chainblade Kneeling Spin](#chainblade-kneeling-spin-spin) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Chainblade Overhead Spin](#chainblade-overhead-spin-overhead) | 200 | 500 |
+| [Chainblade Hawk Talon](#chainblade-hawk-talon-hawk) | Difficult | 2 | Either | Cut<br><br>Cut<br><br>Cut<br><br>Cut | [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance)<br><br>20 Ranks in [Chainblade Overhead Spin](#chainblade-overhead-spin-overhead)<br><br>20 Ranks in [Chainblade Raptor Spike](#chainblade-raptor-spike-raptor) | 200 | 500 |
+| [Chainblade No Mind Strike](#chainblade-no-mind-strike-nomind) | Impossible | 2 | Either | *<varies>* | 90 Ranks in [Chainblade Winged Stance](#chainblade-winged-stance-wingedstance) | 200 | 500 |
+| [Chainblade Blade Block](#chainblade-blade-block-na) | Easy | 2 | - | - | - | 200 | 500 |
+| [Chainblade Ring Block](#chainblade-ring-block-na) | Average | 2 | - | - | - | 200 | 500 |
+| [Chainblade Chain Block](#chainblade-chain-block-na) | Difficult | 2 | - | - | - | 200 | 500 |
+| [Chainblade Snap Block](#chainblade-snap-block-na) | Impossible | 2 | - | - | - | 200 | 500 |
+| [Chainblade Accuracy](#chainblade-accuracy-na) | Difficult | - | - | - | - | 100 | 175 |
+| [Chainblade Grip](#chainblade-grip-na) | Impossible | - | - | - | - | 100 | 175 |
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
@@ -238,7 +238,7 @@ A rugged Kelestian mountaineer steps forward, feigning an attack at you with her
 
 ### Chainblade Kneeling Spin  *spin <target>*
 
-**The attacker** is left in a **kneeling** position after attempting this attack. Ranks in [Simple Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) will help in naturally rolling back to a standing position after performing this attack.
+**The attacker** is left in a **kneeling** position after attempting this attack. Ranks in [Simple Rolling Rise](/combat-maneuvers/#simple-rolling-rise-na) or [Backwards Rolling Rise](/combat-maneuvers/#backwards-rolling-rise-brise) will help in naturally rolling back to a standing position after performing this attack.
 
 **When you see this in use you see:**
 
@@ -348,7 +348,7 @@ You whip the chain of your boison chainblade out at a tall Kelestian raider's sh
 
 ### Chainblade Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -357,6 +357,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Chainblade Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

@@ -21,26 +21,26 @@ While this skill set can be optionally complemented by knowledge of [spears](/sp
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Krindalus | A short sturdy man |  |
 | *<u>Hoplite Combat</u>* | Easy | - | - | - | - | 250 | 500 |  |
-| [Hoplite Combat Stance](#hoplite) | Easy | 2 | - | - | Wielded **Shield** | 250 | 500 |  |
-| [Hoplite Phalanx Thrust](#pthrust) | Easy | 2 | Either | Pierce | - | 250 | 500 |  |
-| [Hoplite Bash and Jab](#bjab) | Easy | 2 | Short | Bruise<br><br>Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Shielded Stab](#shstab) | Easy | 2 | Either | Pierce<br><br>Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Rising Thrust](#rthrust) | Average | 2 | Short | Pierce | - | 250 | 500 |  |
-| [Hoplite Defensive Repel](#drepel) | Average | 2 | Short | Pierce | - | 250 | 500 |  |
-| [Hoplite Rotating Bash](#rbash) | Average | 2 | Either | Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Shielded Advance](#sadvance) | Average | 2 | Long | Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Underhand Thrust](#uthrust) | Average | 2 | Either | Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Stab and Swing](#sswing) | Average | 2 | Short | Pierce<br><br>Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Leaping Thrust](#lthrust) | Difficult | 2 | Short | Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Sweep and Thrust](#swthrust) | Difficult | 2 | Short | Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Spinning Chop](#schop) | Difficult | 2 | Either | Cut | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Whirling Strike](#wstrike) | Difficult | 2 | Short | Cut<br><br>Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Slam and Thrust](#sthrust) | Difficult | 2 | Either | Bruise<br><br>Pierce | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Lunge and Strike](#lstrike) | Impossible | 2 | Short | Pierce<br><br>Bruise | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Feint](#hfeint) | Average | 2 | Either | - | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Swinging Block](#sblock) | Difficult | 2 | - | - | [Hoplite Combat Stance](#hoplite) | 250 | 500 |  |
-| [Hoplite Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 |  |
-| [Hoplite Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 |  |
+| [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | Easy | 2 | - | - | Wielded **Shield** | 250 | 500 |  |
+| [Hoplite Phalanx Thrust](#phalanx-thrust-pthrust) | Easy | 2 | Either | Pierce | - | 250 | 500 |  |
+| [Hoplite Bash and Jab](#bash-and-jab-bjab) | Easy | 2 | Short | Bruise<br><br>Pierce | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Shielded Stab](#shielded-stab-shstab) | Easy | 2 | Either | Pierce<br><br>Pierce | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Rising Thrust](#rising-thrust-rthrust) | Average | 2 | Short | Pierce | - | 250 | 500 |  |
+| [Hoplite Defensive Repel](#defensive-repel-drepel) | Average | 2 | Short | Pierce | - | 250 | 500 |  |
+| [Hoplite Rotating Bash](#rotating-bash-rbash) | Average | 2 | Either | Bruise | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Shielded Advance](#shielded-advance-sadvance) | Average | 2 | Long | Bruise | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Underhand Thrust](#underhand-thrust-uthrust) | Average | 2 | Either | Pierce | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Stab and Swing](#stab-and-swing-sswing) | Average | 2 | Short | Pierce<br><br>Bruise | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Leaping Thrust](#leaping-thrust-lthrust) | Difficult | 2 | Short | Pierce | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Sweep and Thrust](#sweep-and-thrust-swthrust) | Difficult | 2 | Short | Bruise | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Spinning Chop](#spinning-chop-schop) | Difficult | 2 | Either | Cut | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Whirling Strike](#whirling-strike-wstrike) | Difficult | 2 | Short | Cut<br><br>Bruise | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Slam and Thrust](#slam-and-thrust-sthrust) | Difficult | 2 | Either | Bruise<br><br>Pierce | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Lunge and Strike](#lunge-and-strike-lstrike) | Impossible | 2 | Short | Pierce<br><br>Bruise | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Feint](#feint-hfeint) | Average | 2 | Either | - | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Swinging Block](#swinging-block-na) | Difficult | 2 | - | - | [Hoplite Combat Stance](#hoplite-combat-stance-hoplite) | 250 | 500 |  |
+| [Hoplite Accuracy](#hoplite-accuracy-na) | Difficult | - | - | - | - | 100 | 100 |  |
+| [Hoplite Grip](#hoplite-grip-na) | Impossible | - | - | - | - | 100 | 100 |  |
 
 
 **Directions to Krindalus** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, W, W, S
@@ -49,7 +49,7 @@ While this skill set can be optionally complemented by knowledge of [spears](/sp
 
 #### Notes on Learning
 
-**short sturdy man (Blackvine)** will only teach you once you have enough [reputation#Franlius](/reputation/#Franlius).
+**short sturdy man (Blackvine)** will only teach you once you have enough [reputation#Franlius](/reputation/#franlius).
 
 
 <a id="Subskill"></a>
@@ -367,7 +367,7 @@ You twist your body to one side, aiming a crushing blow at a gladiator's chest w
 
 ### Hoplite Accuracy  *n/a*
 
-With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
@@ -376,6 +376,6 @@ With enough training in Accuracy, you are able to raise your **perception** in c
 
 ### Hoplite Grip  *n/a*
 
-With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#dexterity).
 
 *(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*

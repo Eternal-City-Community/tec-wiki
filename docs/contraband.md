@@ -7,7 +7,7 @@ category: "Reference"
 
 <a id="Tears"></a>
 ### Tears
-Tears can be collected from various places in the [region of Rock Valley](/rock-valley-region/). Cracking a **tear** awards a character a varying amount of [skill points (SP)](/skills/#SP) or [general skill points (GSP)](/skills/#GSP).
+Tears can be collected from various places in the [region of Rock Valley](/rock-valley-region/). Cracking a **tear** awards a character a varying amount of [skill points (SP)](/skills/#skill-points-sp) or [general skill points (GSP)](/skills/#general-skill-points-gsp).
 
 > **By order of the Senate, Barbarian Tears are now to be considered contraband.**
 > 
@@ -19,9 +19,9 @@ Tears can be collected from various places in the [region of Rock Valley](/rock-
 > 
 > All those currently in possession of the barbarian pebbles are advised to turn them over to the nearest priest for destruction.  The Phoenix Guard has been alerted to confiscate these items during their regular searches at the gates.  Offenders will be prosecuted under the statute named above.
 > 
-> The use of these tears shall be punished as the [Use of Outlawed Magic](/warrants/#heresy).
+> The use of these tears shall be punished as the [Use of Outlawed Magic](/warrants/#v-heresy).
 
-Even being caught **in possession** of a **tear** (without use) can earn you a warrant of "*[9. Possession of Outlawed Magical Items](/warrants/#warrantList)*". [The Phoenix Guards](/orgs/#PG) may search your possessions for any such item while you cross the checkpoints in and out of the city and will arrest you if a tear is found in your possession.
+Even being caught **in possession** of a **tear** (without use) can earn you a warrant of "*[9. Possession of Outlawed Magical Items](/warrants/#warrant-list)*". [The Phoenix Guards](/orgs/#the-phoenix-guard) may search your possessions for any such item while you cross the checkpoints in and out of the city and will arrest you if a tear is found in your possession.
 
 #### Using Tears
 To use a tear **crack tear** while it's in-hand.
@@ -32,16 +32,16 @@ Tears **cannot be cracked** by characters with [Superstitious Fears](/traits/#Su
 Tears can be found in and collected from 3 different [Rock Valley](/town-of-rock-valley/) hunting grounds. *The '[x]' denotes the number of amphora to collect from.*
  _
 
-* [The Broken Tower](/rock-valley-region/#Broken-Tower) [**2**]
-* [Resting Place](/rock-valley-region/#Resting Place) [**4**]
-* [Burial Grounds](/rock-valley-region/#Burial Grounds) [**3**]
+* [The Broken Tower](/rock-valley-region/#broken-tower) [**2**]
+* [Resting Place](/rock-valley-region/#the-resting-place) [**4**]
+* [Burial Grounds](/rock-valley-region/#the-burial-grounds) [**3**]
 * [Undertown](/hg-undertown/) [**2-4***]
 
 ******Within Undertown, 2 of the boss room amphora have a 50% chance to spawn.*
 
 
 #### Types
-Different types of tears award [SP](/skills/#SP) into their related skillsets, but only if they are known by the character. If a character cracks a tear and knows **none** of its related skill sets, [GSP](/skills/#GSP) will be awarded instead.
+Different types of tears award [SP](/skills/#SP) into their related skillsets, but only if they are known by the character. If a character cracks a tear and knows **none** of its related skill sets, [GSP](/skills/#general-skill-points-gsp) will be awarded instead.
 
 
 Example of looking at a **gladius** tear:
@@ -58,7 +58,7 @@ Example of looking at a **gladius** tear:
 | Nightmare***** | *N/A* |
 
 
-*Nightmare Tears: The 6th type of tear is called a **nightmare tear**. This type differs in that it has no unique description of its own when looked at. **It will look like any of the 'normal'** types of **tears**. When it's cracked, **it will award no SP, and instead drain all of your character's [fatigue](/character-condition/#Fatigue)**. 
+*Nightmare Tears: The 6th type of tear is called a **nightmare tear**. This type differs in that it has no unique description of its own when looked at. **It will look like any of the 'normal'** types of **tears**. When it's cracked, **it will award no SP, and instead drain all of your character's [fatigue](/character-condition/#fatigue)**. 
 
 **Awarding SP**: If several of the related skill sets are known by the character, **only 1 skill set** (selected at random) **earns the SP** from cracking the tear. 
 

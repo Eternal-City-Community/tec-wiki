@@ -15,7 +15,7 @@ Being a rather uncivilized group of peoples, the Ut-Jor (much like the [Parcines
 ### Appearance
 
 ### Culture
-Their love of animals was seen in the [174th Year of the Republic](/history/#174), when a prominent patrician, Septum Anande (father of the Senator Oman Anande), and his entourage, were killed in Iridine by a party of these barbarians. During a leisure hunting excursion, the senator had killed a Rain Elk, one of the Ut-Jor’s animal guides, near an Ut-Jor village, prompting the retaliatory hunt.
+Their love of animals was seen in the [174th Year of the Republic](/history/#year-of-the-republic-yotr), when a prominent patrician, Septum Anande (father of the Senator Oman Anande), and his entourage, were killed in Iridine by a party of these barbarians. During a leisure hunting excursion, the senator had killed a Rain Elk, one of the Ut-Jor’s animal guides, near an Ut-Jor village, prompting the retaliatory hunt.
 
 ### History
 

@@ -13,7 +13,7 @@ Leaves, flowers, roots--you breathe and eat them; sometimes you even dream about
 > 
 > Treat each one with care, like a friend who who not only rewards you with the unique pleasures of his company, but who also requires unique nourishment and care. Some are stout and hardy, some delicate and tender. Whatever its character, you must be careful not to over-harvest a plant. Plunder too often its gifts, and it may die."
  
-Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
+Herbalism deals with the study and use of [flora](/flora-fauna/#plants).
 
 **For guidance on using the skill set, see the [Herbalism Guide](/herbalism-guide/)**.
 
@@ -21,26 +21,26 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Flosturian | **Terali **|
 | *<u>Herbalism</u>* | Easy | 30 | 150 |
-| [Plant Identification](#plantid) | Average | 30 | 100 |
-| [Basic Herb Foraging](#basic-forage) | Easy | 30 | 100 |
-| [Intermediate Herb Foraging](#intermediate-forage) | Average | 30 | 100 |
-| [Advanced Herb Foraging](#advanced-forage) | Difficult | 30 | 100 |
-| [Brewing Fundamentals](#brew) | Easy | 30 | 100 |
-| [Brew Paint](#paint) | Easy | 30 | 100 |
-| [Brew Flask](#flask) | Average | 30 | 100 |
-| [Brew Salve](#salve) | Difficult | 30 | 100 |
-| [Brew Potion](#potion) | Impossible | 30 | 100 |
-| [Craft Vessel](#vessel) | Average | 30 | 100 |
-| [Label Container](#label) | Average | 30 | 100 |
-| [Volume Estimation](#estimation) | Easy | 30 | 100 |
+| [Plant Identification](#plant-identification-plantid) | Average | 30 | 100 |
+| [Basic Herb Foraging](#basic-herb-foraging-find-herbs) | Easy | 30 | 100 |
+| [Intermediate Herb Foraging](#intermediate-herb-foraging-na) | Average | 30 | 100 |
+| [Advanced Herb Foraging](#advanced-herb-foraging-na) | Difficult | 30 | 100 |
+| [Brewing Fundamentals](#brewing-fundamentals-brew) | Easy | 30 | 100 |
+| [Brew Paint](#brew-paint-na) | Easy | 30 | 100 |
+| [Brew Flask](#brew-flask-na) | Average | 30 | 100 |
+| [Brew Salve](#brew-salve-na) | Difficult | 30 | 100 |
+| [Brew Potion](#brew-potion-na) | Impossible | 30 | 100 |
+| [Craft Vessel](#craft-vessel-craft-jarflaskbottlevial-fromwith) | Average | 30 | 100 |
+| [Label Container](#label-container-label) | Average | 30 | 100 |
+| [Volume Estimation](#volume-estimation-estimate) | Easy | 30 | 100 |
 
 **Directions to Flosturian** ([Sandbar](/sandbar/)): Walk to the **Temple of the Morning**, Nx3, Ex2
 **Directions to Terali** ([Salinae Swamp](/the-salinae-swamp/)): Walk to the **Bandit Complex**, Nx3, Ex15 or **From the ford**: Nx1, NEx29, Nx14
 
 
 #### Notes on Learning
-* When learning your first rank of Herbalism using [GSP](/skills/#GSP), will also learn the Plant Identification and Basic Herb Foraging sub skills.
-* **Terali** will only teach you once you've earned enough reputation. **See [Reputation Guide](/reputation/#Herb-Lessons) for details.**
+* When learning your first rank of Herbalism using [GSP](/skills/#general-skill-points-gsp), will also learn the Plant Identification and Basic Herb Foraging sub skills.
+* **Terali** will only teach you once you've earned enough reputation. **See [Reputation Guide](/reputation/#reputation) for details.**
 
 
 ### Skill Details
@@ -52,7 +52,7 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 
 This skill allows you to identify plants you may have harvested or purchased. More ranks in this skill will allow you to identify a wider variety of plant types.
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's memory, reasoning, and judgement.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's memory, reasoning, and judgement.
 
 **When you see this in use you see:**
 
@@ -93,7 +93,7 @@ This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a char
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's perception.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's perception.
 
 **When you see this in use you see:**
 
@@ -117,7 +117,7 @@ This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a char
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
-See [Basic Herb Foraging](#basic-forage).
+See [Basic Herb Foraging](#basic-herb-foraging-find-herbs).
 
 
 <a id="advanced-forage"></a>
@@ -126,7 +126,7 @@ See [Basic Herb Foraging](#basic-forage).
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
-See [Basic Herb Foraging](#basic-forage).
+See [Basic Herb Foraging](#basic-herb-foraging-find-herbs).
 
 
 <a id="brew"></a>
@@ -161,7 +161,7 @@ Enter the number of the product you would like to brew.
 
 ### Brew Paint  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brewing-fundamentals-brew).*
 
 Allows crafting of **paints** of various colors and **writing ink**.
 
@@ -180,7 +180,7 @@ For details on existing recipes, *see the [brewing chart](/herbalism-guide/#Brew
 
 ### Brew Flask  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brewing-fundamentals-brew).*
 
 Allows crafting of products that are not meant to be ingested, such as **fuel oil** and **smoking tobacco**.
 
@@ -199,7 +199,7 @@ For details on existing recipes, *see the [brewing chart](/herbalism-guide/#Brew
 
 ### Brew Salve  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brewing-fundamentals-brew).*
 
 Allows crafting of **salves** applied with the [Healing](/healing/) skill, such as burn or painkilling salve.
 
@@ -218,7 +218,7 @@ For details on existing recipes, *see the [brewing chart](/herbalism-guide/#Brew
 
 ### Brew Potion  *n/a*
 
-*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
+*This skill is used in combination with [Brewing Fundamentals](/herbalism/#brewing-fundamentals-brew).*
 
 The most advanced brewing skill, this allows crafting of products with special effects like rock candy drugs.
 
@@ -268,7 +268,7 @@ TBC
 
 ### Volume Estimation  *estimate <liquid|powder|container>*
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's reasoning & judgement.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's reasoning & judgement.
 
 The volume of a container can be determined with the Volume Estimation skill and a scroll outlining Iridine's system of measurement can be purchased IG.
 

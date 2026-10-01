@@ -9,9 +9,9 @@ category: "Reference"
 
 **Important:**  **Magic is -NOT- widely available**.
 
-It is currently only available to very few characters who have been successfully gone through the [Cult of Ereal - Acolyte](/cult-of-ereal/#Acolyte) recruiting class. **Magic does NOT mean such things as casting fireballs, teleport, invisibility and so on. Magic spells done by performing detailed rituals are the ONLY form of available magic**. Only Erealite magic exists at this time in the form of the Bright Hope rituals.
+It is currently only available to very few characters who have been successfully gone through the [Cult of Ereal - Acolyte](/cult-of-ereal/#cult-of-ereal) recruiting class. **Magic does NOT mean such things as casting fireballs, teleport, invisibility and so on. Magic spells done by performing detailed rituals are the ONLY form of available magic**. Only Erealite magic exists at this time in the form of the Bright Hope rituals.
 
-Magical skills are designed so that **they do not replace** related [non-combat skills](/skills/#NonCom). For example, healing magic will not close wounds, splint bones, and stop bleeding. Rather, it will deal with more esoteric values such as health points, fatigue, recovery speed, and status ailments. Mundane healing techniques will complement magical healing rituals, and vice versa.
+Magical skills are designed so that **they do not replace** related [non-combat skills](/skills/#non-combat-skill-sets). For example, healing magic will not close wounds, splint bones, and stop bleeding. Rather, it will deal with more esoteric values such as health points, fatigue, recovery speed, and status ailments. Mundane healing techniques will complement magical healing rituals, and vice versa.
 
 Similarly, illusory magic will not replace the need to train in order to stay out of sight or move undetected.
 
@@ -31,7 +31,7 @@ After years of training, Acolytes have the ability to use limited magic through 
 
 **Spells** (i.e. blessings & rituals) can vary in complexity, but they generally involve a combination of physical gestures and uttered phrases. Rather than there being a 'command verb' associated with each skill-action, as is the case in most [skill sets](/skills/), there are steps you must perform in order to activate a spell. 
 
-There are several stones of importance for performing spells. These [stones](/stones-ores/) can be [donated for reputation](/reputation/#Acolytes) to the [Cult of Ereal](/cult-of-ereal/).
+There are several stones of importance for performing spells. These [stones](/stones-ores/) can be [donated for reputation](/reputation/#reputation) to the [Cult of Ereal](/cult-of-ereal/).
 
 | Related Spell | Required Stone (description) | Effect |
 | --- | --- | --- |
@@ -69,9 +69,9 @@ There are **3 Main Key Factors** that are a part of performing any ritual.
 <a id="sanity"></a>
 ### Sanity
 
-Every player character has a [sanity](/character-condition/#Sanity) level. Channelling otherworldly powers is taxing on the mortal mind, and over-use of magic will lead to reduced sanity levels. Sanity gradually restores itself over time - in most cases.
+Every player character has a [sanity](/character-condition/#sanity) level. Channelling otherworldly powers is taxing on the mortal mind, and over-use of magic will lead to reduced sanity levels. Sanity gradually restores itself over time - in most cases.
 
-Impaired sanity will gradually reduce your capacity to cast spells. It may also have other deleterious effects, such as reducing your [rank bonus](/skills/#RB).
+Impaired sanity will gradually reduce your capacity to cast spells. It may also have other deleterious effects, such as reducing your [rank bonus](/skills/#rank-bonus-rb).
 
 Sanity will drop faster if you make use of spells provided by different otherworldly patrons. For example, if you channel spells granted by **Ereal**, then follow up with spells granted by **Lucifal** or **Aera**, you will suffer a severe sanity hit.
 
@@ -96,19 +96,19 @@ In many cases, the spell ritual will require that both hands be free. Or that th
 
 ### Damage Checks
 
-If a spell caster incurs damage during the course of performing a ritual, there is a chance that their concentration will be broken and the ritual will be interrupted. In such a case, the spell caster will have to begin the ritual all over again. The chance of this happening is based on the spell caster's [willpower](/stats/#Willpower) versus the amount of damage done.
+If a spell caster incurs damage during the course of performing a ritual, there is a chance that their concentration will be broken and the ritual will be interrupted. In such a case, the spell caster will have to begin the ritual all over again. The chance of this happening is based on the spell caster's [willpower](/stats/#willpower) versus the amount of damage done.
 
 
 ### Gaining SP
-Due to "using" character [sanity](/character-condition/#Sanity) to perform rituals, Magic SP cannot simply be gained by sitting in one location and continuously training. Especially early on, it takes very few spells to drain your sanity to the point of having a 95 success for everything.
+Due to "using" character [sanity](/character-condition/#sanity) to perform rituals, Magic SP cannot simply be gained by sitting in one location and continuously training. Especially early on, it takes very few spells to drain your sanity to the point of having a 95 success for everything.
 
 Additionally, **some** [shrines](/shrines/) give SP for praying to them, but this can only be done once per shrine every 24 hours.
 
-Each casting *(successful or not)* uses [sanity](/character-condition/#Sanity), so the difficulty goes up with **every** attempt. It starts small and quickly turns into **huge** jumps.
+Each casting *(successful or not)* uses [sanity](/character-condition/#sanity), so the difficulty goes up with **every** attempt. It starts small and quickly turns into **huge** jumps.
 
 
 ### Spell Resistance
-All individuals will have a natural resistance to spells that are hostile or debilitating in nature. This resistance is based on [Willpower](/stats/#Willpower).
+All individuals will have a natural resistance to spells that are hostile or debilitating in nature. This resistance is based on [Willpower](/stats/#willpower).
 
 Spell resistance will not apply when the ritual performed is a beneficial one, such as a ritual that heals, temporarily improves a [stat](/stats/), or grants some other benevolent boon.
 

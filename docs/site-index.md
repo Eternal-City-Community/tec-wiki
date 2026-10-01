@@ -24,9 +24,9 @@ testing tabs:
 #### Account
 
 [Account](/account/) 
-[Account - RolePoints](/account/#RolePoints) 
-[Account - StoryPoints](/account/#Storypoints) 
-[Account - Perks](/account/#Perks)
+[Account - RolePoints](/account/#account) 
+[Account - StoryPoints](/account/#account) 
+[Account - Perks](/account/#perks)
 
 
 #### Guides
@@ -154,7 +154,7 @@ X: [Debt](/debt/) XI: [Punishment](/punishment/) XII: [Building and Civic Mainte
 [Character Generator](/character-generator/) [Veteran Characters](/veteran-characters/) [Traits](/traits/) [National Lores](/national-lores/) [National Advantages](/national-advantages/) [Stats](/stats/)
 
 ##### Account
-[Account](/account/) [Account - RolePoints](/account/#RolePoints) [Account - StoryPoints](/account/#Storypoints) [Account - Perks](/account/#Perks)
+[Account](/account/) [Account - RolePoints](/account/#account) [Account - StoryPoints](/account/#account) [Account - Perks](/account/#perks)
 
 ##### Guides
 [Mission Guide](/newbie-mission-guide/) [Money Guide](/newbie-money-guide/) [Basic Combat Guide](/newbie-combat-guide/) [Non-Combat Guides](/newbie-non-combat-guides/) [Officium de Humanitas (New Character office)](/newbie-office/) [Hunting Guide](/aoden-hunting-guide/) [Customization guide](/customization-guide/)

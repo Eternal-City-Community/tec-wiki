@@ -11,7 +11,7 @@ Below you'll find everything important to know about using [Brawling](/brawling/
 #### Pros
 * **No** need to carry the extra **weight of a weapon** or shield.
 * You can use Skill Points **(SP) from [Pankration](/pankration/)** to learn Brawling *(and vice versa)*.
-* Brawling can be used to **complement most weapon-based skill sets**. When wielding a weapon/shield, only [kick](/brawling/#Kick), [knee](/brawling/#Kick), [Foot Stomp](/brawling/#Foot-Stomp), [Knee Break](/brawling/#Knee-Break) & [Head Butt](/brawling/#Head-Butt) will be available to use.
+* Brawling can be used to **complement most weapon-based skill sets**. When wielding a weapon/shield, only [kick](/brawling/#kick-kick), [knee](/brawling/#kick-kick), [Foot Stomp](/brawling/#foot-stomp-stomp), [Knee Break](/brawling/#knee-break-kneebreak) & [Head Butt](/brawling/#head-butt-butt) will be available to use.
 
 #### Cons
 * Blocking with your bare (unarmored) limbs can cause you to take damage. **The damage you take is negated after rank 60 in the associated block.**
@@ -30,9 +30,9 @@ Below you'll find everything important to know about using [Brawling](/brawling/
 
 ### Moves
 #### Worthwhile
-* [Foot Stomp](/brawling/#Foot-Stomp) - Great knockdown move. High crit rate. Can be used with or without a weapon wielded.
-* [Knee Break](/brawling/#Knee-Break) - Great knockdown move. Harder to land than Foot Stomp, but will often stun. High crit rate. Can be used with or without a weapon wielded.
-* [Leg Whip](/brawling/#Leg-Whip) - Versatile attack, can be used while laying and it triggers a rise.
+* [Foot Stomp](/brawling/#foot-stomp-stomp) - Great knockdown move. High crit rate. Can be used with or without a weapon wielded.
+* [Knee Break](/brawling/#knee-break-kneebreak) - Great knockdown move. Harder to land than Foot Stomp, but will often stun. High crit rate. Can be used with or without a weapon wielded.
+* [Leg Whip](/brawling/#leg-whip-legwhip) - Versatile attack, can be used while laying and it triggers a rise.
 * [Punch](/brawling/#Punch) - Highly accurate (easy to land) attack, but does weak damage.
 
 

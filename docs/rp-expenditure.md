@@ -31,7 +31,7 @@ See the full list of [commands](/commands/).
 
 <a id="Creature"></a>
 ### Creature Button Pushes
-Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** received as a [perk](/account/#perk). The creature button is located in **the creature controller room** (Ex1 & Nx1 from the main Welcome Room). Look for **"A big red button"** and push it.
+Creature button pushes can be bought using [RPs](/account/#role-points-rps) **or** received as a [perk](/account/#perk). The creature button is located in **the creature controller room** (Ex1 & Nx1 from the main Welcome Room). Look for **"A big red button"** and push it.
 
 > **In-Game Prompt**
 > By pushing this button you will be given the opportunity to play an NPC that is already active in the game for a cost of 30 Role Points. The NPC will be chosen at random. Keep in mind that the creature could be in the middle of combat and about to die at any minute. The NPC could also be alone somewhere in the game world with no danger in sight. It is a gamble you take, but one that could open up many role-play opportunities for you. The list of available NPCs for you to play will NOT include any shopkeepers, law-keepers, or any other long-standing NPCs of the game. The list will be chosen from the creatures that spawn in hunting grounds or are pulled from crowds. You will lose control of the NPC once the NPC is killed, or you decide to quit (using the normal method you use to quit playing any of your characters) and return here. By pushing this button you agree that you fully understand the above and want to spend 30 role points to emulate a random NPC in the game world. Do you wish to continue? [Y/N]
@@ -50,7 +50,7 @@ Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** re
 ## @Play Menu
 
 ### [1] General Skill Point Purchase
-Purchase 1 [General Skill Point (GSP)](/skills/#GSP) per 25 role points.
+Purchase 1 [General Skill Point (GSP)](/skills/#general-skill-points-gsp) per 25 role points.
 
 ### [2] Luck Point Purchase
 Purchase 1 Luck points per 100 role points.
@@ -75,7 +75,7 @@ Allows you to **move a character up 1 slot per purchase**. Meaning if you want t
 For accounts with more than one character, the @number-one command has a **one-time use** to change which character is in the 1<sup>st</sup> character slot.
 
 ### [6] Increase Markable Destinations
-Increase the capacity of your [personal markable destinations](/nav-overview/#Mark) by 1.
+Increase the capacity of your [personal markable destinations](/nav-overview/#marked-destinations) by 1.
 
 ### [7] Automated Character Alteration
 
@@ -88,7 +88,7 @@ Increase the capacity of your [personal markable destinations](/nav-overview/#Ma
 ### [8] Increase Attribute Potential
 This expenditure increases one of your character's [stat](/stats/) ***potential***. Your stats do not all need to remain at the same level forever. An example is if you want to raise a stat from **average** to **above average**. Adding potential will not raise the stat immediately, but will allow you to put in work which can raise a stat. 
 
-Note:Before increasing your stat potential, it is encouraged to understand how to [improve your stats](/stats/#improvingattributes).
+Note:Before increasing your stat potential, it is encouraged to understand how to [improve your stats](/stats/#improving-attributes).
 
 The below stat potentials can be raised using RPs:
 * [G] Agility
@@ -170,7 +170,7 @@ Message will automatically start with your username. For example, if you want it
 
 <a id="superior"></a>
 ### [15] Superior Weapon Upgrade
-Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
+Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat-martial-arts) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
 
 
 ---
@@ -178,7 +178,7 @@ Superior Weapon Upgrade takes a weapon in your character's inventory and **incre
 ## Property
 You are able to **buy** & **modify** certain types of [property](/property/) in-game. A **property owner** may modify their property **via @request** and have a **minimum in-game cost of 5 talents** each. Larger, fancier modifications will have higher prices. These prices are the same for domus and other property types.
 
-Property modifications may **only be requested by [premium](/account/#AccountSub) subscribers**.
+Property modifications may **only be requested by [premium](/account/#account-subscriptions) subscribers**.
 
 
 <a id="store"></a>
@@ -206,7 +206,7 @@ The Club House package includes:
 
 The requester can alter the rooms', exits', and items' appearances, as well as the NPCs appearance and clothing to fit their theme for the establishment. The door guard can optionally **restrict access to an entrance/exit of the owner's choice** by adding/removing allowed players to or from a list, similar to how the guards at the MVG and SOE org buildings work. The owner can choose to have **any portion of the building open to the public**. 
 
-Included in the package is a **free [Custom Item](#customItem)** to **add mechanics to one of the building's rooms**. For example, turning one of the rooms into a **sleeping barracks** or **fighting pit**.
+Included in the package is a **free [Custom Item](#custom-item)** to **add mechanics to one of the building's rooms**. For example, turning one of the rooms into a **sleeping barracks** or **fighting pit**.
 
 Players request the location of these special property types, but it must be in/near a major settlement. The staff will work with players to identify a location that is close to the desired location, with price and map availability weighing in. NPC wages and property taxes are included in the building's monthly expenses. Expect properties located in desirable areas to be much more expensive than the minimum price. These property packages may only be requested by premium subscribers.
 
@@ -219,7 +219,7 @@ Examples:
 * **Basic Lantern** - "Hanging from the ceiling is brightly glowing bronze lantern."
 * **Fancy Lantern** - "A brightly glowing polished silver lantern with rectangular glass panes hangs from the ceiling by a thin chain."
 
-These requests should be made under [Item Alterations](/customization-guide/#Alterations).
+These requests should be made under [Item Alterations](/customization-guide/#item-alterations).
 
 
 <a id="alteration"></a>
@@ -232,7 +232,7 @@ Example:
 
 **to** *"You are in a spacious room. The high ceiling is held by gently arching timbers spaced regularly along the bright blue painted walls. Polished gold-veined white marble floor slabs are expertly fitted underfoot."*
 
-These requests should be made under [Item Alterations](/customization-guide/#Alterations).
+These requests should be made under [Item Alterations](/customization-guide/#item-alterations).
 
 
 <a id="keying"></a>
@@ -241,25 +241,25 @@ This modifies an existing lockable door to provide a convenience bonus - as long
 
 Anyone following you will not follow you through the door.
 
-These requests should be made under [Custom Items](/customization-guide/#CustomItems).
+These requests should be made under [Custom Items](/customization-guide/#custom-items-armor-weapon-face-covers).
 
 
 <a id="room"></a>
 #### Additional Room
 Adds an additional room to an existing owned property. Restricted by map space availability. Appearance of the room can be altered and exits/locks are included. Discounted price for any special mechanics added.
 
-These requests should be made under [Custom Items](/customization-guide/#CustomItems).
+These requests should be made under [Custom Items](/customization-guide/#custom-items-armor-weapon-face-covers).
 
 
 <a id="npc"></a>
 #### Additional NPC
 An additional proprietor or door guard NPC that can be added to an existing Store or Club House building.
 
-These requests should be made under [Custom Items](/customization-guide/#CustomItems).
+These requests should be made under [Custom Items](/customization-guide/#custom-items-armor-weapon-face-covers).
 
 
 <a id="customItem"></a>
 #### Custom Item
 Custom Item requests can be used to change an owned property's room, exit, or item's mechanics, or edit which items are permanently fastened in a room.
 
-See [Custom Items](/customization-guide/#CustomItems).
+See [Custom Items](/customization-guide/#custom-items-armor-weapon-face-covers).

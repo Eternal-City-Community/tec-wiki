@@ -16,7 +16,7 @@ Situated just off the heart of the military town of Vetallun, this seclusive app
 * a cocoon (WARNING: will spawn a very dangerous large wasp once destroyed that requires high skill to defeat)
 
 #### Jobs
-* [Cleaning the Vetallun Orchard](/newbie-mission-guide/#RottenApples)
+* [Cleaning the Vetallun Orchard](/newbie-mission-guide/#rotten-apples-vetallun-orchard)
 
 #### Map
 [![](/assets/wikidot/files/invexriverdelta-vetallun2.gif)](/assets/wikidot/files/invexriverdelta-vetallun2.gif)

@@ -9,12 +9,12 @@ Below you'll find everything important to know about [Locksmithing](/locksmithin
 
 ### In a Nutshell
 #### Pros
-* **Easy to train** anywhere. You can perform [Lock Lore](/locksmithing/#Lock-Lore) or even unlock things anywhere, even while laying down in your room or the baths.
-* If your focus is just **opening chests & coffers**, you can get by with **only a few critical skills**, focusing on [Unjam Lock](/locksmithing/#Unjam-Lock) and [Study Lock](/locksmithing/#Study-Lock).
+* **Easy to train** anywhere. You can perform [Lock Lore](/locksmithing/#lock-lore-recall-lock-tumbler) or even unlock things anywhere, even while laying down in your room or the baths.
+* If your focus is just **opening chests & coffers**, you can get by with **only a few critical skills**, focusing on [Unjam Lock](/locksmithing/#unjam-lock-unjam-with) and [Study Lock](/locksmithing/#study-lock-study).
 
 
 #### Cons
-* The journey to **[forging](#Forging) a [flawless lockpick](#Lockpicks) is long** and will likely require rank 200/200 in [Create Wax Imprint](/locksmithing/#Wax-Imprint), [Create Clay Mold](/locksmithing/#Clay-Mold) & [Forge Lock Instrument](/locksmithing/#Forge-Lock-Instrument).
+* The journey to **[forging](#forging-key-lockpick) a [flawless lockpick](#forging-key-lockpick) is long** and will likely require rank 200/200 in [Create Wax Imprint](/locksmithing/#create-wax-imprint-imprint-with), [Create Clay Mold](/locksmithing/#create-clay-mold-create-mold-of-with) & [Forge Lock Instrument](/locksmithing/#forge-lock-instrument-forge-tool-with-and).
 
 ### Advice & Tips
 * Your **lockpick quality** will **greatly affect** your success to open containers, try to get at least a **Very Spectacular** lockpick to start with and avoid using store-bought lockpicks. *(See the difference in [Lockpicks](#LockpickQualityChart))*
@@ -37,7 +37,7 @@ Higher quality lockpicks will make it easier to perform any skill that requires 
 
 Below is the list of **lockpick qualities** that can be forged. 
 
-The **RB Bonus** listed, refers to how the **quality of your lockpick** will **impact your success** for skills such as **[Pick Lock-Locking](/locksmithing/#Lock-Locking)**, **[Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking)**, **[Jam Lock](/locksmithing/#Jam-Lock)** & **[Unjam Lock](/locksmithing/#Unjam-Lock)**.
+The **RB Bonus** listed, refers to how the **quality of your lockpick** will **impact your success** for skills such as **[Pick Lock-Locking](/locksmithing/#pick-lock-locking-lock-with)**, **[Pick Lock-Unlocking](/locksmithing/#pick-lock-unlocking-unlock-with)**, **[Jam Lock](/locksmithing/#jam-lock-jam-with-lockpick)** & **[Unjam Lock](/locksmithing/#unjam-lock-unjam-with)**.
 
 
 | Quality | RB Bonus |
@@ -116,7 +116,7 @@ The below steps use the furnaces across from Apula's as the example.
 
 | **Step 1**: Creating a wax imprint | - Make sure to have a piece of wax and the instrument inhand.<br><br>- Imprint the wax with the instrument. ([*/locksmithing#Wax-Imprint Create Wax Imprint])<br><br>- Example: '**imprint wax with key**'.<br><br>- Repeat until finished. *(# rolls vary on skill level)* |
 | --- | --- |
-| **Step 1-B** *(optional)* : Etch Text into Imprint. | - Make sure to have a stylus inhand.<br><br>- Etch characters onto the wax imprint. ([*/locksmithing#Wax-Letter-Etching Wax Letter Etching])<br><br>- Example: '**etch imprint Home**'.<br><br>- See [Etching](#Etching) for more details. |
+| **Step 1-B** *(optional)* : Etch Text into Imprint. | - Make sure to have a stylus inhand.<br><br>- Etch characters onto the wax imprint. ([*/locksmithing#Wax-Letter-Etching Wax Letter Etching])<br><br>- Example: '**etch imprint Home**'.<br><br>- See [Etching](#etching) for more details. |
 | **Step 2**: Creating a clay mold. | - Hold the imprinted wax and a piece of clay in your hands.<br><br>- Create a mold from the wax imprint. ([*/locksmithing#Clay-Mold Create Clay Mold])<br><br>- Example: '**create mold of imprint with clay**'.<br><br>- Repeat until finished. *(# rolls vary on skill level)* |
 | **Step 3**: Baking the clay mold. | - Bake the mold over the furnace.<br><br>- **Light the brick furnace** for a low fire.<br><br>- Make sure to hold a pair of tongs!<br><br>- Heat the clay over the furnace.<br><br>- Example: '**heat clay over brick**'<br><br>- Repeat until done. *(~6 echoes)* |
 | **Step 4**: Getting liquid metal. | - **Light the iron furnace** for a strong fire.<br><br>- Get a crucible and put a piece of metal slag inside. *(your choice of metal!)*<br><br>- Hold the crucible and the tongs in hand, then heat the crucible over the furnace.<br><br>- Example: '**heat crucible over iron furnace**'.<br><br>- Repeat until you have liquid metal. *(~8 echoes)* |
@@ -126,7 +126,7 @@ The below steps use the furnaces across from Apula's as the example.
 
 <a id="Etching"></a>
 ##### Etching
-You can inscribe a small amount of characters onto a lockpick using [Wax Letter Etching](/locksmithing/#Wax-Letter-Etching) which will show when you look at it. Your rank in **basics does not** seem to **help**.
+You can inscribe a small amount of characters onto a lockpick using [Wax Letter Etching](/locksmithing/#wax-letter-etching-etch) which will show when you look at it. Your rank in **basics does not** seem to **help**.
 
 
 ~~~
@@ -201,11 +201,11 @@ In order to be offered a job, you must first meet the rank requirements.
 
 | Job Type | Rank Requirements |
 | --- | --- |
-| Unlock a container | Rank 1 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at Apula's<br><br>Rank 10 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at other locations |
-| Lock a container | Rank 10 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at Apula's<br><br>Rank 1 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at other locations |
-| Unjam a container | Rank 10 [Unjam Lock](/locksmithing/#Unjam-Lock) |
-| Create a lockpick | Rank 20 [Fashion Lockpick](/locksmithing/#Fashion-Lockpick) (tin)<br><br>Rank 30 [Fashion Lockpick](/locksmithing/#Fashion-Lockpick) (bronze/iron)<br><br>--  --or--  --<br><br>Rank 30 [Create Wax Imprint](/locksmithing/#Wax-Imprint),<br><br>Rank 30 [Create Clay Mold](/locksmithing/#Clay-Mold), and<br><br>Rank 30 [Forge Lock Instrument](/locksmithing/#Forge-Lock-Instrument) |
-| Install a tumbler | Rank 30 [Install Lock](/locksmithing/#Install-Lock) |
+| Unlock a container | Rank 1 [Pick Lock-Unlocking](/locksmithing/#pick-lock-unlocking-unlock-with) at Apula's<br><br>Rank 10 [Pick Lock-Unlocking](/locksmithing/#pick-lock-unlocking-unlock-with) at other locations |
+| Lock a container | Rank 10 [Pick Lock-Locking](/locksmithing/#pick-lock-locking-lock-with) at Apula's<br><br>Rank 1 [Pick Lock-Locking](/locksmithing/#pick-lock-locking-lock-with) at other locations |
+| Unjam a container | Rank 10 [Unjam Lock](/locksmithing/#unjam-lock-unjam-with) |
+| Create a lockpick | Rank 20 [Fashion Lockpick](/locksmithing/#fashion-lockpick-fashion-lockpick-from) (tin)<br><br>Rank 30 [Fashion Lockpick](/locksmithing/#fashion-lockpick-fashion-lockpick-from) (bronze/iron)<br><br>--  --or--  --<br><br>Rank 30 [Create Wax Imprint](/locksmithing/#create-wax-imprint-imprint-with),<br><br>Rank 30 [Create Clay Mold](/locksmithing/#create-clay-mold-create-mold-of-with), and<br><br>Rank 30 [Forge Lock Instrument](/locksmithing/#forge-lock-instrument-forge-tool-with-and) |
+| Install a tumbler | Rank 30 [Install Lock](/locksmithing/#install-lock-install-in) |
 
 
 #### Apula (Iridine)
@@ -265,12 +265,12 @@ Being in the city center, there's also a high chance of making money from player
 
 ### Moves
 #### Worthwhile
-* [Unjam Lock](/locksmithing/#Unjam-Lock)
-* [Study Lock](/locksmithing/#Study-Lock)
+* [Unjam Lock](/locksmithing/#unjam-lock-unjam-with)
+* [Study Lock](/locksmithing/#study-lock-study)
 
 #### Less useful
-* [Lock Lore](/locksmithing/#Lock-Lore) - Oftentimes 1 rank is enough. Only used for training.
-* [Jam Lock](/locksmithing/#Jam-Lock) - Very few reasons you'd need to jam a lock. Mainly used in a training rotation for maximum SP gain.
+* [Lock Lore](/locksmithing/#lock-lore-recall-lock-tumbler) - Oftentimes 1 rank is enough. Only used for training.
+* [Jam Lock](/locksmithing/#jam-lock-jam-with-lockpick) - Very few reasons you'd need to jam a lock. Mainly used in a training rotation for maximum SP gain.
 
 
 ### Complementary Skill Sets

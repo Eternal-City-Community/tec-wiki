@@ -15,32 +15,32 @@ You can find the important figures of organizations involved with the game world
 
 | Guild/Organization | Org Type | Official | Active | Player Joinable |
 | --- | --- | --- | --- | --- |
-| [Divortium Auxilii](#Auxilii) | New Player Assistance | Yes | Yes | **Yes** |
-| [Iridine Constables](#Constables) | Lawkeeper | Yes | Yes | Yes |
-| [Legio](#Legio) | Lawkeeper | Yes | Yes | Yes |
-| [Monlon Vigiles](#Vigiles) | Lawkeeper | Yes | - | -* |
-| *[Phoenix Guard](#PG)* | Lawkeeper | Yes | - | - |
-| *[Rock Valley Watch](#Watch)* | Lawkeeper | Yes | - | - |
-| *[Quaesitus Monitor](#QM)* | Lawkeeper | Yes | - | - |
-| *[Lex Legalis](#LexLegalis)* | Lawyer | Yes | - | -* |
-| [Black Centurions](#BC) | Criminal | Yes | Yes | Yes |
-| [Harbor Rats](#TG) | Criminal | Yes | Yes | Yes |
-| [Umbra Alati](#Alati) | Criminal | Yes | Yes | Yes |
-| [Shrikes](#Shrikes) | Criminal | Yes | - | - |
-| [Sinistrals](#Sinistrals) | Criminal | Yes | - | - |
-| [Traevant Militia](#Traevant) | Militia | Yes | Yes | Yes |
-| [Blackvine Volunteer Militia](#BVM) | Militia | Yes | - | Yes |
-| [Monlon Volunteer Guard](#MVG) | Militia | - | - | Yes |
-| [Seld Sentinels](#SS) | Militia | Yes | Yes | Yes |
-| [Cult of Ereal](#CoE) | Religious | Yes | Yes | Yes |
-| [Soldiers of Ereal](#SoE) | Religious | Yes | Yes | Yes |
-| [Cruentus Laureola](#CL) | Gladiator Stable | Yes | Yes | Yes |
-| [Silver Wolves](#SW) | Gladiator Stable | Yes | Yes | Yes |
-| [Guild of Locksmiths](#GoL) | Non-Combat | Yes | Yes | Yes |
-| [Healers of Light](#HoL) | Non-Combat | Yes | Yes | Yes |
-| [Vestis Formatae](#Vestis) | Non-Combat | ? | Yes | Yes |
-| [Diamond Eye](#DE) | Non-Combat | ? | Yes | Yes |
-| [Slime Squad](#Slime) | Social Affiliations | - | No | Yes |
+| [Divortium Auxilii](#divortium-auxilii) | New Player Assistance | Yes | Yes | **Yes** |
+| [Iridine Constables](#the-iridine-constables) | Lawkeeper | Yes | Yes | Yes |
+| [Legio](#legio) | Lawkeeper | Yes | Yes | Yes |
+| [Monlon Vigiles](#the-monlon-vigiles) | Lawkeeper | Yes | - | -* |
+| *[Phoenix Guard](#the-phoenix-guard)* | Lawkeeper | Yes | - | - |
+| *[Rock Valley Watch](#rock-valley-watch)* | Lawkeeper | Yes | - | - |
+| *[Quaesitus Monitor](#the-quaesitus-monitor)* | Lawkeeper | Yes | - | - |
+| *[Lex Legalis](#lex-legalis)* | Lawyer | Yes | - | -* |
+| [Black Centurions](#black-centurions) | Criminal | Yes | Yes | Yes |
+| [Harbor Rats](#harbor-rats) | Criminal | Yes | Yes | Yes |
+| [Umbra Alati](#umbra-alati) | Criminal | Yes | Yes | Yes |
+| [Shrikes](#shrikes) | Criminal | Yes | - | - |
+| [Sinistrals](#sinistrals) | Criminal | Yes | - | - |
+| [Traevant Militia](#traevant-militia) | Militia | Yes | Yes | Yes |
+| [Blackvine Volunteer Militia](#blackvine-volunteer-militia) | Militia | Yes | - | Yes |
+| [Monlon Volunteer Guard](#monlon-volunteer-guard) | Militia | - | - | Yes |
+| [Seld Sentinels](#seld-sentinels) | Militia | Yes | Yes | Yes |
+| [Cult of Ereal](#cult-of-ereal) | Religious | Yes | Yes | Yes |
+| [Soldiers of Ereal](#soldiers-of-ereal) | Religious | Yes | Yes | Yes |
+| [Cruentus Laureola](#cruentus-laureola) | Gladiator Stable | Yes | Yes | Yes |
+| [Silver Wolves](#silver-wolves) | Gladiator Stable | Yes | Yes | Yes |
+| [Guild of Locksmiths](#guild-of-locksmiths) | Non-Combat | Yes | Yes | Yes |
+| [Healers of Light](#healers-of-light) | Non-Combat | Yes | Yes | Yes |
+| [Vestis Formatae](#vestis-formatae) | Non-Combat | ? | Yes | Yes |
+| [Diamond Eye](#diamond-eye) | Non-Combat | ? | Yes | Yes |
+| [Slime Squad](#slime-squad) | Social Affiliations | - | No | Yes |
 
 ******Formerly joinable by PCs, but this is no longer the case.*
 
@@ -58,7 +58,7 @@ For more information: See [Divortium Auxilii](/divortium-auxilii/).
 
 **Recruitment:** Invitation Only
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -72,7 +72,7 @@ For more information: See [Constables](/constables/).
 
 **Recruitment:** Via Public Announcement of Recruit Class
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -86,7 +86,7 @@ For more information: See [Legio](/legio/).
 
 **Recruitment:** Via Public Announcement of Recruit Class
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -99,7 +99,7 @@ For more information: See [Monlon Vigiles](/monlon-vigiles/).
 
 **Recruitment:** Unknown
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -112,7 +112,7 @@ For more information: See [Phoenix Guard](/phoenix-guard/).
 
 **Recruitment:** None.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Watch"></a>
@@ -124,7 +124,7 @@ For more information: See [Rock Valley Watch](/rock-valley-watch/).
 
 **Recruitment:** None.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="QM"></a>
@@ -136,7 +136,7 @@ For more information: See [Quaesitus Monitor](/quaesitus-monitor/).
 
 **Recruitment:** None.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="LexLegalis"></a>
@@ -148,7 +148,7 @@ For more information: See [Lex Legalis](/lex-legalis/).
 
 **Recruitment:** None.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -165,7 +165,7 @@ Despite the rumors of their activities, the Black Centurions display an odd resp
 
 **Recruitment:** Invitation only
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -178,7 +178,7 @@ For more information: See [Harbor Rats](/harbor-rats/).
 
 **Recruitment:** Invitation only
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -223,7 +223,7 @@ For more information: See [Traevant Militia](/traevant-militia/).
 
 **Recruitment:** By Invitation or via public announcement of training classes
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -236,7 +236,7 @@ For more information: See [Blackvine Volunteer Militia](/blackvine-volunteer-mil
 
 **Recruitment:** Inactive 
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -249,7 +249,7 @@ For more information: See [Monlon Volunteer Guard](/monlon-volunteer-guard/).
 
 **Recruitment:** Unknown
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -260,7 +260,7 @@ With the ongoing [war](/monlon-invasion/) in full force, it is important not to 
 
 **Recruitment:** Speak with **Tyril Marcius**.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -274,7 +274,7 @@ For more information: See [Cult of Ereal](/cult-of-ereal/).
 
 **Recruitment:** Unknown
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -288,7 +288,7 @@ For more information: See [Soldiers of Ereal](/soldiers-of-ereal/).
 
 **Recruitment:** Contact **Syden** Valek *(in-game)*.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -301,7 +301,7 @@ One of the city's two gladiator stables, the Cruentus Laureola pride themselves 
 
 *Former leaders include: Gorthos.*
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -314,7 +314,7 @@ One of the city's two gladiator stables. The Silver Wolves (SW) are currently ma
 
 *Former leaders include: Skye, Victavian & Alkain.*
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -325,7 +325,7 @@ The GoL is a fellowship of locksmiths in the City of Iridine. If you aspire to b
 
 **Recruitment:** Invitation only
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -344,7 +344,7 @@ All of our members are capable of answering question regarding the group and can
 
 **Recruitment:** We always accept new members. Typically a person can be considered a recruit on request to leadership. Full membership requires participation in two consecutive meetings. Due to the current state of the Lion Guard recruitment, this is much more restrictive and requires first an audience with the captain and secondly approval by the Healers of Light leadership.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -359,7 +359,7 @@ For more information: See [Vestis Formatae](/vestis-formatae/).
 
 **Recruitment:** Invitation only
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -372,7 +372,7 @@ Founded by Vinian Quartz.
 
 **Recruitment:**  Unknown
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
@@ -383,4 +383,4 @@ Lately there have been complaints of excessive noise echoing up from the well in
 
 **Recruitment:** Unknown
 
-[Back to Top](#Top)
+[Back to Top](#)

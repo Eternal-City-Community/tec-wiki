@@ -8,7 +8,7 @@ category: "Wiki & Help"
 <a id="about"></a>
 ### About
 #### What is The Eternal City (TEC)?
-The Eternal City (TEC) is a Roman Based, Fantasy MUD connecting players in a world unlike any other available on the internet. The game world runs heavily on role-play (RP), players run the army ([Legio](/orgs/#Legio)), the police force ([Constables](/orgs/#Constables)) and participate in a government and legal system based off of early/mid-Republic Rome. Even with mandatory RP, it still manages to offer advanced combat and GM interaction to a level not seen since the glory days of MUDDing in the 90s. It is not without its issues, but those are eclipsed by the active, passionate, and dedicated players and GMs.
+The Eternal City (TEC) is a Roman Based, Fantasy MUD connecting players in a world unlike any other available on the internet. The game world runs heavily on role-play (RP), players run the army ([Legio](/orgs/#legio)), the police force ([Constables](/orgs/#the-iridine-constables)) and participate in a government and legal system based off of early/mid-Republic Rome. Even with mandatory RP, it still manages to offer advanced combat and GM interaction to a level not seen since the glory days of MUDDing in the 90s. It is not without its issues, but those are eclipsed by the active, passionate, and dedicated players and GMs.
 
 
 #### What sets The Eternal City apart?

@@ -26,13 +26,13 @@ Below you'll find everything important to know about [Two-Handed Axes](/two-hand
 
 
 ### Advice & Tips
-* For fights where you're able to control the start of combat, starting combat in a more defensive stance than you primarily use and opening the fight with [Stepping Slash](/two-handed-axes/#Steppingslash) is a great way to open combat and take advantage of the tremendous damage output of [Stepping Slash](/two-handed-axes/#Steppingslash).
-* With defenses being in short supply for the weapon, sometimes your best means of defending yourself is to disable your opponents' ability to attack you. With the assistance of [Swinging Disarm](/two-handed-axes/#Swingingdisarm), your Hook skills will be your best friends. Basic [Hook](/two-handed-axes/#Hook) will allow you to disarm armed opponents, where [Ankle Hook](/two-handed-axes/#Anklehook) and [Arm Hook](/two-handed-axes/#Armhook) can be used to make your opponent prone/kneeling.
-* When fighting creatures where you don't need to rotate moves and you just need to kill them as quick as possible, [Overhead Chop](/two-handed-axes/#Overheadchop) will be your most useful attack due to its high damage output and ability to be used at range.
-* Remember that [Swinging Disarm](/two-handed-axes/#Swingingdisarm) can also be used defensively; if an opponent snares your weapon with their own weapon-entangling attack, you can use [Swinging Disarm](/two-handed-axes/#Swingingdisarm) for a better chance of not only freeing your weapon, but sending their weapon flying out of their grip.
-* Your best 5-move rotation early on will be [Basic Slash](/two-handed-axes/#Slash), [Chop](/two-handed-axes/#Chop), [Swat](/two-handed-axes/#Swat), [Haft Strike](/two-handed-axes/#Haftstrike), and [Overhead Chop](/two-handed-axes/#Overheadchop).
-* [Crossing Block](/two-handed-axes/#Crossingblock) and [Haft Block](/two-handed-axes/#Haftblock) - These two blocks will cover everything that [Jump](/combat-maneuvers/#Jump) and [Leg Dodge](/combat-maneuvers/#Leg-Dodge) will, and then some, with the same difficulty level. While there are advantages to having your dodges have a higher rank bonus than your weapon blocks in the long run, in your early training, it can be worthwhile to prioritize these two blocks over those two dodges.
-* [Swinging Disarm](/two-handed-axes/#Swingingdisarm) - When attempting to disarm an opponent, swinging disarm is nearly 100% effective against targets that are not standing. If you are planning to use disarmament as a strategy, it is advised to use ankle hook to put the target on their back before hooking their weapon accordingly!
+* For fights where you're able to control the start of combat, starting combat in a more defensive stance than you primarily use and opening the fight with [Stepping Slash](/two-handed-axes/#2h-axe-stepping-slash-sslash) is a great way to open combat and take advantage of the tremendous damage output of [Stepping Slash](/two-handed-axes/#2h-axe-stepping-slash-sslash).
+* With defenses being in short supply for the weapon, sometimes your best means of defending yourself is to disable your opponents' ability to attack you. With the assistance of [Swinging Disarm](/two-handed-axes/#2h-axe-swinging-disarm-fling), your Hook skills will be your best friends. Basic [Hook](/two-handed-axes/#Hook) will allow you to disarm armed opponents, where [Ankle Hook](/two-handed-axes/#2h-axe-ankle-hook-pin) and [Arm Hook](/two-handed-axes/#2h-axe-arm-hook-ahook) can be used to make your opponent prone/kneeling.
+* When fighting creatures where you don't need to rotate moves and you just need to kill them as quick as possible, [Overhead Chop](/two-handed-axes/#2h-axe-overhead-chop-overhead) will be your most useful attack due to its high damage output and ability to be used at range.
+* Remember that [Swinging Disarm](/two-handed-axes/#2h-axe-swinging-disarm-fling) can also be used defensively; if an opponent snares your weapon with their own weapon-entangling attack, you can use [Swinging Disarm](/two-handed-axes/#2h-axe-swinging-disarm-fling) for a better chance of not only freeing your weapon, but sending their weapon flying out of their grip.
+* Your best 5-move rotation early on will be [Basic Slash](/two-handed-axes/#2h-axe-basic-slash-slash), [Chop](/two-handed-axes/#Chop), [Swat](/two-handed-axes/#Swat), [Haft Strike](/two-handed-axes/#2h-axe-haft-strike-strike), and [Overhead Chop](/two-handed-axes/#2h-axe-overhead-chop-overhead).
+* [Crossing Block](/two-handed-axes/#2h-axe-crossing-block) and [Haft Block](/two-handed-axes/#2h-axe-haft-block) - These two blocks will cover everything that [Jump](/combat-maneuvers/#jump-na) and [Leg Dodge](/combat-maneuvers/#leg-dodge-na) will, and then some, with the same difficulty level. While there are advantages to having your dodges have a higher rank bonus than your weapon blocks in the long run, in your early training, it can be worthwhile to prioritize these two blocks over those two dodges.
+* [Swinging Disarm](/two-handed-axes/#2h-axe-swinging-disarm-fling) - When attempting to disarm an opponent, swinging disarm is nearly 100% effective against targets that are not standing. If you are planning to use disarmament as a strategy, it is advised to use ankle hook to put the target on their back before hooking their weapon accordingly!
 * **Pick axes** have a **unique speed advantage** over traditional two-handed axes in that they reach maximum speed for most attacks with perfected Reflexes, rather than max speed stat.
 
 ### Weapons
@@ -53,7 +53,7 @@ This is the list of weapons that can be used by the 2HA skill set.
 | Tin Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 950d or NPC loot. |
 | Bronze Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 2t 675d |
 | Iron Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 24t 500d |
-| Boison Pick Axe **[RF]** | Sold by [Nominis](/shops/) ([Seld](/village-of-seld/)) | 43t (+[Reputation#Seld](/reputation/#Seld)) |
+| Boison Pick Axe **[RF]** | Sold by [Nominis](/shops/) ([Seld](/village-of-seld/)) | 43t (+[Reputation#Seld](/reputation/#seld)) |
 | Retalq Pick Axe | Sold by [???](/shops/) ([Vetallun](/town-of-vetallun/)) | ??? |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
@@ -142,32 +142,32 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 
 ### Moves
 #### Worthwhile
-* [Overhead Chop](/two-handed-axes/#Overheadchop) - High damage output and usable at either range makes this one of your best attacks.
-* [Cross Chop](/two-handed-axes/#Crosschop) - Second most damaging 2HA attack, after Stepping Slash. Good pairing with defenses, making it one of the easier attacks to land.
-* [Woodcutter Slash](/two-handed-axes/#Woodcutterslash) - Excellent shield-breaker to get rid of an opponent's shield quickly.
-* [Swinging Disarm](/two-handed-axes/#Swingingdisarm) - A necessary move to make full use of your three Hooks, as well as making it easy to free your weapon from your opponents' weapon snares.
-* [Haft Sap](/two-handed-axes/#Haftsap) - This move is difficult to land on an opponent that is able to defend themselves, but a great move to follow-up a successful to takedown from [Arm](/two-handed-axes/#Armhook) or [Ankle Hook](/two-handed-axes/#Anklehook) to stun your opponent and keep them down longer.
-* [Haft Strike](/two-handed-axes/#Haftstrike) - Against most opponents, this maneuver will tend to be your easiest move to land due to being an easy attack with few weapons having any defenses easier than average to defend against its default aim.
+* [Overhead Chop](/two-handed-axes/#2h-axe-overhead-chop-overhead) - High damage output and usable at either range makes this one of your best attacks.
+* [Cross Chop](/two-handed-axes/#2h-axe-cross-chop-cchop) - Second most damaging 2HA attack, after Stepping Slash. Good pairing with defenses, making it one of the easier attacks to land.
+* [Woodcutter Slash](/two-handed-axes/#2h-axe-woodcutter-slash-break) - Excellent shield-breaker to get rid of an opponent's shield quickly.
+* [Swinging Disarm](/two-handed-axes/#2h-axe-swinging-disarm-fling) - A necessary move to make full use of your three Hooks, as well as making it easy to free your weapon from your opponents' weapon snares.
+* [Haft Sap](/two-handed-axes/#2h-axe-haft-sap-sap) - This move is difficult to land on an opponent that is able to defend themselves, but a great move to follow-up a successful to takedown from [Arm](/two-handed-axes/#2h-axe-arm-hook-ahook) or [Ankle Hook](/two-handed-axes/#2h-axe-ankle-hook-pin) to stun your opponent and keep them down longer.
+* [Haft Strike](/two-handed-axes/#2h-axe-haft-strike-strike) - Against most opponents, this maneuver will tend to be your easiest move to land due to being an easy attack with few weapons having any defenses easier than average to defend against its default aim.
 
 
 #### Less useful
-* [Falling Strike](/two-handed-axes/#Fallingstrike) - Not only is this move difficult to land on opponents, it also causes you to retreat and there are no engaging attacks for the weapon, nor are there enough moves that can be used at range for a full rotation. The damage output of the move is good, but generally when you want to retreat from an opponent, you're better off just using [Fall Back](/combat-maneuvers/#FB).
-* [Backhand Strike](/two-handed-axes/#Backhandstrike) - This move has to follow a slashing attack so it isn't as versatile to fit in rotations, and is also difficult to land.
+* [Falling Strike](/two-handed-axes/#2h-axe-falling-strike-pchop) - Not only is this move difficult to land on opponents, it also causes you to retreat and there are no engaging attacks for the weapon, nor are there enough moves that can be used at range for a full rotation. The damage output of the move is good, but generally when you want to retreat from an opponent, you're better off just using [Fall Back](/combat-maneuvers/#fall-back-fall-back).
+* [Backhand Strike](/two-handed-axes/#2h-axe-backhand-strike-bstrike) - This move has to follow a slashing attack so it isn't as versatile to fit in rotations, and is also difficult to land.
 * TBC
 
 
 ### Complementary Skill Sets
 * [Brawling](/brawling/) is highly encouraged for access to kick/headbutt moves and additional ways to knock your opponents off their feet. Additionally, there are no non-metal two-handed axes, so you'll want to have a way to deal with some of the Valley's more electrifying fauna!
 * [Combat Maneuvers](/combat-maneuvers/) is necessary for any weapon, but especially so for two-handed axes due to the weapon's extremely lackluster built-in defenses.
-* While not a skill set, it is **highly recommended** to learn the **[Blackroot Language](/languages/#Blackroot)** during your early training so that you will have easy access to the Nehal [village of Stromheim](/village-of-stromheim/).
+* While not a skill set, it is **highly recommended** to learn the **[Blackroot Language](/languages/#rock-valley-blackroot-teacher)** during your early training so that you will have easy access to the Nehal [village of Stromheim](/village-of-stromheim/).
 
 
 ### Complementary Traits
-* [Cunning Opportunist](/traits/#CO) is highly recommended due to the high raw damage output of the weapon and lack of any multi-hit moves. Note that [Woodcutter Slash](/two-handed-axes/#Woodcutterslash) does not benefit from this trait.
+* [Cunning Opportunist](/traits/#CO) is highly recommended due to the high raw damage output of the weapon and lack of any multi-hit moves. Note that [Woodcutter Slash](/two-handed-axes/#2h-axe-woodcutter-slash-break) does not benefit from this trait.
 * [Ox's Grace](/traits/) /[Granite Grip](/traits/) are recommended to increase strength further. Two-handed axes are not meant to be flashy, graceful weapons; they are meant to overpower opponents quickly. Bonus strength will not only increase the already high damage output, but also assist in the effectiveness of the Swinging Disarm. Note: Granite Grip will not allow you to wield two-handed axes with one hand.
 * [Ravenous Hunger](/traits/) is highly recommended for the huge damage increase it provides to the weapon's already huge damage output.
 * [Night Vision](/traits/) is useful due to the weapon requiring both hands, preventing you from carrying a torch/lantern in your off-hand.
 
 ### Miscellaneous
-* Both regular two-handed axes and pick axes can use the **behead** command. Special tip: heads are useful trade-ins for [Nehal tokens](/wealth/#Nehal) to help pay for your training later on!
+* Both regular two-handed axes and pick axes can use the **behead** command. Special tip: heads are useful trade-ins for [Nehal tokens](/wealth/#nehal-currency) to help pay for your training later on!
 * Pick axes can be used for **mining** metal ore.

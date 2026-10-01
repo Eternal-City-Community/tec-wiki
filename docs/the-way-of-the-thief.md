@@ -22,28 +22,28 @@ A Note from the Author: I have had a number of thieves in my time here in Iridin
 
 ### Table of Contents
 
-* [Day 0 - Character Creation](#Day0)
- * [Stats And Why They Matter](#Stats)
- * [Nationalities and their Impact](#Nationalities)
- * [Traits to Consider](#Traits)
- * [A Cover Story](#Cover)
- * [Meet Thaelan](#Thaelan)
-* [Day 1 - Arrival in the City](#Day1)
- * [First Priorities](#Priorities)
- * [Training, Lots and Lots of Palming](#Training)
- * [Finding a Teacher](#Teacher)
- * [What Lies Ahead](#Ahead)
-* [Day 7 - Broadening Horizons](#Day7)
- * [Supporting Skillsets](#Skills)
- * [New Marks, New Locations](#Marks)
- * [Making Friends](#Friends)
-* [Closing Notes and Additional Resources](#Resources)
+* [Day 0 - Character Creation](#day-0-character-creation)
+ * [Stats And Why They Matter](#stats-and-why-they-matter)
+ * [Nationalities and their Impact](#nationalities-and-their-impact)
+ * [Traits to Consider](#traits-to-consider)
+ * [A Cover Story](#a-cover-story)
+ * [Meet Thaelan](#meet-thaelan)
+* [Day 1 - Arrival in the City](#day-1-arrival-in-the-city)
+ * [First Priorities](#first-priorities)
+ * [Training, Lots and Lots of Palming](#training-lots-and-lots-of-palming)
+ * [Finding a Teacher](#finding-a-teacher)
+ * [What Lies Ahead](#what-lies-ahead)
+* [Day 7 - Broadening Horizons](#day-7-broadening-horizons)
+ * [Supporting Skillsets](#supporting-skillsets)
+ * [New Marks, New Locations](#new-marks-new-locations)
+ * [Making Friends](#making-friends)
+* [Closing Notes and Additional Resources](#closing-notes-and-additional-resources)
 
 ---
 <a id="Day0"></a>
 ### Day 0 - Character Creation
 
-This primarily OOC section will go over the creation of a [Pickpocketing](/pickpocketing/) focused character, what stats, traits, and nationalities are beneficial for one, and whether or not your preferred playing style would benefit from a 'cover' skill. For those of you that have already made your character, or may already be familiar with what stats and traits are beneficial for a thief, feel free to skip on to the next section: [Day 1 - Arrival in the City](#Day1).
+This primarily OOC section will go over the creation of a [Pickpocketing](/pickpocketing/) focused character, what stats, traits, and nationalities are beneficial for one, and whether or not your preferred playing style would benefit from a 'cover' skill. For those of you that have already made your character, or may already be familiar with what stats and traits are beneficial for a thief, feel free to skip on to the next section: [Day 1 - Arrival in the City](#day-1-arrival-in-the-city).
 
 <a id="Stats"></a>
 #### Stats And Why They Matter
@@ -170,7 +170,7 @@ sitting or laying down.
 
 All in all, I got lucky with a decent character roll that fulfilled all three of my stat requirements. Hopefully, your rolls will be at least as successful, but the chargen can be a very fickle creature. Now that we have created Thaelan, it's time to bring him into Iridine for a bit of mischief and mayhem.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Day1"></a>
@@ -260,7 +260,7 @@ A Note on Skills: Up to this point, we really have not discussed the reason why 
 
 At this point, you should be able to safely use cut and lift to make some coin between rounds of palming. As always, choose your location wisely. In order to provide you some guidance in that regard, there are 6 establishments in the harbor that have crowds at all hours of the day and do not have constables or soldiers in those crowds for the marks to pull on you. Three of them are uncomfortably close to highly trafficked areas like the [Stone Toga Inn](/stone-toga-inn/) where someone might hear a trader or other mark yell if you miss your lift. One of them is just an unwise choice to utilize unless you want to make a bad first impression with the wrong group of people (Be wary of doors with moons on them). The other two, however, are perfect for our purposes - situated in low traffic areas and rarely visited by anyone but our potential victims. Find them, use them, and make the coin that you need with little worry of getting yourself arrested early on. So for now, get your cut and lift up to a perfect 1 success and then we'll move on to bigger and better marks for you to make a living from.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Day7"></a>
@@ -277,7 +277,7 @@ A throaty chortle emanates from the hooded figure as he continues his story, "Wh
 <a id="Skills"></a>
 #### Supporting Skillsets
 
-There are three truly essential skillsets for a thief: [Pickpocketing](/pickpocketing/), [Setups](/setups/), and [Street Smarts](/street-smarts/). While other skillsets may come in handy, those three are absolutely must haves for any proper thief character. The problem is, a lot of the more useful stuff won't be available to you right away. Eventually, if you want to master the trade, you'll either have to join a gang or find a skilled trainer that knows a thing or two that the trainer from [Day 1 - Finding a Teacher](#Teacher) doesn't. For now though, we'll have to make due with what we have available to us, and your first couple of skills from [Setups](/setups/) are genuinely useful for our purposes.
+There are three truly essential skillsets for a thief: [Pickpocketing](/pickpocketing/), [Setups](/setups/), and [Street Smarts](/street-smarts/). While other skillsets may come in handy, those three are absolutely must haves for any proper thief character. The problem is, a lot of the more useful stuff won't be available to you right away. Eventually, if you want to master the trade, you'll either have to join a gang or find a skilled trainer that knows a thing or two that the trainer from [Day 1 - Finding a Teacher](#finding-a-teacher) doesn't. For now though, we'll have to make due with what we have available to us, and your first couple of skills from [Setups](/setups/) are genuinely useful for our purposes.
 
 [Setups](/setups/) Skills You'll Need:
 * Ear for Coin: This is the most important one from an efficiency and training standpoint. Ear for Coin will give you a good estimate on how much coin a particular mark is carrying. If they're only carrying a denar or so, let em move on by and go for the next target. If they're carrying 15-20 cents like some patricians do, try not to drool all over yourself as you're lifting the pouch from his belt. The best part is, this move is completely silent and will never be noticed by anyone. If you have time to kill in front of the Stone Toga Inn, use this technique on whoever might be standing with ya - you'll be getting valuable skill points and they'll be none the wiser about it.
@@ -315,13 +315,13 @@ While prostitutes are easily found amongst the crowds of the [Harbor of the Moon
 
 During your time of lifting pouches from traders, no doubt you noticed a few bags, tubes, or heavier pouches that you just couldn't manage to lift. Let me reassure you, those little pouches of gems and other shiny goods can be had as well for those with a little more skill in the trade. Once you grow tired of lifting pouches from the rich (Bahahaha, who gets tired of robbing patricians, I mean really), it might be time to make friends with some like minded individuals to learn some of the things you don't currently have access to. There are three known criminal organizations in Iridine that might just do the trick: 
 
-* The [Harbor Rats](/orgs/#TG): A den of thieves the likes of which there is no compare. Stealing is their sole focus and would be a good first stop for a young thief striving to become a great thief. Be careful in how you approach them, as they are as likely to toss ya out on your rear as help you if you make a poor first impression. However, word is that you can leave an offering with a certain proprietor in the coastal alleys of the [harbor](/harbor/) to get their attention the proper way. 
-* The [Umbra Alati](/orgs/#Alati): Located in the [Southern Steps](/the-steps-south/), this group also has a knack for thievery but is better known for feats of acrobatics and agility as well as their penchant for ensuring that anyone unwelcome entering their territory doesn't leave it again.. at least not alive. You'll need to make friends with the people of that area of the Steps first before you can approach them.
-* The [Black Centurions](/orgs/#BC): Controlling the [Northern Steps](/the-steps-north/), the BC are known as a hardened group of former soldiers, ruffians, and rogues who will fiercely defend their territory from any intrusion but unwanted lawkeepers and vigilantes. While theft isn't their focus, having a few good thieves around is good for any criminal organization. Just like the Alati, you'll need to earn the good will of the people of the northern steps first before you should even consider approaching them.
+* The [Harbor Rats](/orgs/#harbor-rats): A den of thieves the likes of which there is no compare. Stealing is their sole focus and would be a good first stop for a young thief striving to become a great thief. Be careful in how you approach them, as they are as likely to toss ya out on your rear as help you if you make a poor first impression. However, word is that you can leave an offering with a certain proprietor in the coastal alleys of the [harbor](/harbor/) to get their attention the proper way. 
+* The [Umbra Alati](/orgs/#umbra-alati): Located in the [Southern Steps](/the-steps-south/), this group also has a knack for thievery but is better known for feats of acrobatics and agility as well as their penchant for ensuring that anyone unwelcome entering their territory doesn't leave it again.. at least not alive. You'll need to make friends with the people of that area of the Steps first before you can approach them.
+* The [Black Centurions](/orgs/#black-centurions): Controlling the [Northern Steps](/the-steps-north/), the BC are known as a hardened group of former soldiers, ruffians, and rogues who will fiercely defend their territory from any intrusion but unwanted lawkeepers and vigilantes. While theft isn't their focus, having a few good thieves around is good for any criminal organization. Just like the Alati, you'll need to earn the good will of the people of the northern steps first before you should even consider approaching them.
 
 Finally, you can hope to run across a freelance thief. There are a handful of notorious thieves out there, who might be willing to teach you a thing or two - for a price, and usually a hefty price. It is possible for a thief to make it out there entirely on his or her own, but it is not an easy path to pursue by any means. These freelancers will be your primary source of training, but there's always a risk in going that route. While an organization will have a certain amount of loyalty to you, a freelancer is loyal to himself only - therefore you never know when or if they might turn on you. Consider yourself properly warned.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 ---
 <a id="Resources"></a>
@@ -334,4 +334,4 @@ I hope that this guide has been useful to you and wish you the best of luck in y
 
 Happy Hunting!
 
-[Back to Top](#Top)
+[Back to Top](#)

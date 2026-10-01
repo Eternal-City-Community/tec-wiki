@@ -5,10 +5,10 @@ category: "Guides & Commands"
 
 # Advanced Commands
 
-[Emotes](#Emotes)
+[Emotes](#emotes)
 [Advanced Macros](#AdvancedMacros)
-[Advanced Speech](#AdvancedSpeech)
-[Miscellaneous Advanced Commands](#AdvancedMisc)
+[Advanced Speech](#advanced-speech)
+[Miscellaneous Advanced Commands](#advanced-miscellaneous-commands)
 
 ---
 <a id="Emotes"></a>

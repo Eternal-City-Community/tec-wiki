@@ -8,19 +8,19 @@ category: "Reference"
 ### Latest Major Updates To The Game *(sorted chronologically↑)*
 
 
-* **March 1<sup>st</sup> 2024**: The promo for March is **50% off [Superior Weapon Upgrades](/account/#RolePointPurchases)**.
+* **March 1<sup>st</sup> 2024**: The promo for March is **50% off [Superior Weapon Upgrades](/account/#role-point-purchases)**.
 
 
 * **February 23<sup>rd</sup> 2024**: **Combat trainers** have been updated. Some trainers now **teach up to 300/300 or 500/500** ranks. Visit the related [skills page](/skills/#Combat) for details.
 
 
-* **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#naturalatt) for details.
+* **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#natural-attribute-increases) for details.
 
 
 * **February 1<sup>st</sup> 2024**: **50% off** **GSP purchases & Swapping Skill Slots** for the February Promotion! 
 
 
-* **January 4<sup>th</sup> 2024**: The ability to **teach above rank 1150 has been disabled** along with additional changes to self-training. For more information, see [self-training](/skills/#SelfTraining). 
+* **January 4<sup>th</sup> 2024**: The ability to **teach above rank 1150 has been disabled** along with additional changes to self-training. For more information, see [self-training](/skills/#self-training). 
 
 
 * **January 1<sup>st</sup> 2024**: For the month of January, the Role Point cost for **[Veteran Character Packages](/veteran-characters/)** are **50% off**!
@@ -59,7 +59,7 @@ category: "Reference"
 * **June 18<sup>th</sup> 2022**: Reminder on **Language & Immersion in Midlight**. Please be respectful of the immersion and role-playing nature of the game. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/829/) for more details.
 
 
-* **June  18<sup>th</sup> 2022**: The maximum length of **[coma sickness](/character-condition/#Coma) has been reduced**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/828/) for more details.
+* **June  18<sup>th</sup> 2022**: The maximum length of **[coma sickness](/character-condition/#coma) has been reduced**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/828/) for more details.
 
 
 * **May 29<sup>th</sup> 2022**: For the rest of the month, the **RP gain** rate has been **doubled**. Enjoy! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/824/) for more details.
@@ -128,7 +128,7 @@ category: "Reference"
 * **August 6<sup>th</sup> 2021**: As part of our one year celebration, through the end of day on Sunday, **creature button** pushes in the Welcome Room are **free**. Enjoy! [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/393/) for more details.
 
 
-* **August 1<sup>st</sup> 2021**: ThreeSeas x **TEC Anniversary Celebration** has begun, including **free [Vet Char packages](/veteran-characters/)**, OOC **parchment event**, in-game **auction**, **Flash Sales** and more! Also the release of a **new [perk](/account/#Perks)**: **"1/2 off character stats"**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/381/) for more details.
+* **August 1<sup>st</sup> 2021**: ThreeSeas x **TEC Anniversary Celebration** has begun, including **free [Vet Char packages](/veteran-characters/)**, OOC **parchment event**, in-game **auction**, **Flash Sales** and more! Also the release of a **new [perk](/account/#perks)**: **"1/2 off character stats"**. [Visit the forums](https://www.eternalcitygame.com/index.php/community/postid/381/) for more details.
 
 
 * **June 15<sup>th</sup> 2021**: The current **role point rate** has been temporarily **doubled**. Enjoy! *(In-Game Only Announcement)*

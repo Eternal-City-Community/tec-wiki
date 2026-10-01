@@ -10,10 +10,10 @@ category: "Reference"
 Each character has 13 attributes that set the groundwork for his or her abilities. Most stats are intuitive. You need strength to carry large amounts of equipment. Others have underlying hidden benefits that aren't always apparent. Attributes are displayed on your character sheet (type stats).
 
 **Jump to:**
-* [Attribute Types](#Attributetypes)
-* [Improving Attributes](#improvingattributes)
-* [Temporary Modifiers](#temporarymods)
-* [Numeric Equivalents](#numerics)
+* [Attribute Types](#attribute-types)
+* [Improving Attributes](#improving-attributes)
+* [Temporary Modifiers](#temporary-modifiers)
+* [Numeric Equivalents](#numeric-equivalents)
 
 ### Related Commands
 
@@ -30,7 +30,7 @@ See the full list of [commands](/commands/).
 <a id="Agility"></a>
 #### Agility
 
-Can your character bob and weave in a fistfight?  Does she twist and turn in a hail of arrows, watching them hit nothing but air and dirt?  If so, she has high Agility. Agility sets a character's baseline defensive capability. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, and by using story points. 
+Can your character bob and weave in a fistfight?  Does she twist and turn in a hail of arrows, watching them hit nothing but air and dirt?  If so, she has high Agility. Agility sets a character's baseline defensive capability. This stat can be improved at a [training course](#the-training-courses), performing combat-related skills, and by using story points. 
 ***Agility provides a 2:1 to-hit bonus to your defense.** (i.e. 100 agility will naturally increases successes against you by 50 points. 120 agility will naturally increases successes against you by 60 points. Etc.)*
 
 <a id="Appearance"></a>
@@ -43,7 +43,7 @@ Can your character make a deal that sounds too good to refuse? Has she spent man
 
 <a id="Dexterity"></a>
 #### Dexterity
-Did your character master juggling multiple objects at an early age?  Can he write a codex with beautiful stylized lettering and illustrations?  If so, he has high Dexterity.  Dexterity measures a character's tactile precision and provides a bonus to non-combat skills such as healing, pickpocketing, and locksmithing, and also sets a character's baseline attack bonus.  This stat can be improved at a [training course](#trainingcourses), performing certain non-combat-related skills, and by using story points. 
+Did your character master juggling multiple objects at an early age?  Can he write a codex with beautiful stylized lettering and illustrations?  If so, he has high Dexterity.  Dexterity measures a character's tactile precision and provides a bonus to non-combat skills such as healing, pickpocketing, and locksmithing, and also sets a character's baseline attack bonus.  This stat can be improved at a [training course](#the-training-courses), performing certain non-combat-related skills, and by using story points. 
 ***Dexterity provides a 2:1 to-hit bonus to your offense.** (i.e. 100 dexterity will naturally reduce your success by 50 points. 120 dexterity will naturally reduce your success by 60 points. Etc.)*
 
 <a id="Empathy"></a>
@@ -53,7 +53,7 @@ Does your character have an understanding of how others feel? If so, she has hig
 
 <a id="Endurance"></a>
 #### Endurance
-Can your character run a mile, hardly breaking a sweat? Has he taken a beating and still managed to walk away alive? If so, he has high Endurance. Endurance sets a character's maximum Hit Points and fatigue pool, allowing your character to take more damage and perform more actions before becoming exhausted. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, and by using story points.
+Can your character run a mile, hardly breaking a sweat? Has he taken a beating and still managed to walk away alive? If so, he has high Endurance. Endurance sets a character's maximum Hit Points and fatigue pool, allowing your character to take more damage and perform more actions before becoming exhausted. This stat can be improved at a [training course](#the-training-courses), performing combat-related skills, and by using story points.
 
 <a id="Judgement"></a>
 #### Judgement
@@ -67,7 +67,7 @@ Does your character know exactly what he ate for breakfast on the 17th day of Lu
 
 <a id="Perception"></a>
 #### Perception
-Can your character hear the drovers shouting all the way from Seneda's Bank?  Can she identify the strange traveler approaching from far up the path?  If so, she has high Perception.  Perception measures your character's ability to identify her environment when detecting a sneaky thief, seeing farther or with less ambient light, searching out clues in a dusty catacomb and more. Perception also provides a bonus to attack. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, performing certain non-combat-related skills, and by using story points.  
+Can your character hear the drovers shouting all the way from Seneda's Bank?  Can she identify the strange traveler approaching from far up the path?  If so, she has high Perception.  Perception measures your character's ability to identify her environment when detecting a sneaky thief, seeing farther or with less ambient light, searching out clues in a dusty catacomb and more. Perception also provides a bonus to attack. This stat can be improved at a [training course](#the-training-courses), performing combat-related skills, performing certain non-combat-related skills, and by using story points.  
 ***Perception provides a 4:1 to-hit bonus to your offense.** (i.e. 100 perception will naturally reduce your success by 25 points. 120 perception will naturally reduce your success by 30 points. Etc.)*
 Note: For bows specifically dexterity and perception have their stat values flip-flopped for offense.
 
@@ -79,13 +79,13 @@ Did your character understand the subtle wording weaved into that last play? Had
 
 <a id="Speed"></a>
 #### Speed
-Did your character just steal that man's pouch, stab him a few times, and run away before he could even get out of his chair?  If so, she has high Speed.  Higher speed will decrease a character's round time for combat actions. Speed also provides a bonus to a character's base defense. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, and by using story points.  
+Did your character just steal that man's pouch, stab him a few times, and run away before he could even get out of his chair?  If so, she has high Speed.  Higher speed will decrease a character's round time for combat actions. Speed also provides a bonus to a character's base defense. This stat can be improved at a [training course](#the-training-courses), performing combat-related skills, and by using story points.  
 ***Speed provides a 4:1 to-hit bonus to your defense.** (i.e. 100 speed will naturally increases successes against you by 25 points. 120 speed will naturally increases successes against you by 30 points. Etc.)*
 
 
 <a id="Strength"></a>
 #### Strength
-Can your character carry two heavy soft sun dressers upstairs at the same time?  If so, he has high Strength. Strength measures the maximum weight you can carry, and how much weight can be carried before being burdened by a significant load.  Higher-strength allows a character to do more damage in combat and provides a small bonus to attack. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, and by using story points. 
+Can your character carry two heavy soft sun dressers upstairs at the same time?  If so, he has high Strength. Strength measures the maximum weight you can carry, and how much weight can be carried before being burdened by a significant load.  Higher-strength allows a character to do more damage in combat and provides a small bonus to attack. This stat can be improved at a [training course](#the-training-courses), performing combat-related skills, and by using story points. 
 ***Strength provides a 10:1 to-hit bonus to your offense.** (i.e. 100 strength will naturally reduce your success by 10 points. 120 strength will naturally reduce your success by 12 points. Etc.)*
 
 Strength also affects damage severity. Strength allows increases how much you can carry or deal with a significant load.
@@ -98,9 +98,9 @@ Strength calculates how much you can carry:
 
 <a id="Willpower"></a>
 #### Willpower
-Can your character withstand a novice healer's unsuccessful attempts at setting that broken bone, bearing nothing but a smile? If so, she has high Willpower. Willpower helps you hold absolutely still when trying to hide, survive blows to the head without blacking out and mitigate penalties associated with fighting at less than maximum Hit Points. This stat can be improved at a [training course](#trainingcourses), performing combat-related skills, and by using story points.
+Can your character withstand a novice healer's unsuccessful attempts at setting that broken bone, bearing nothing but a smile? If so, she has high Willpower. Willpower helps you hold absolutely still when trying to hide, survive blows to the head without blacking out and mitigate penalties associated with fighting at less than maximum Hit Points. This stat can be improved at a [training course](#the-training-courses), performing combat-related skills, and by using story points.
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="trainingcourses"></a>
@@ -125,12 +125,12 @@ Head to a training course to improve your character's physical attributes more q
 * Obstacles: Climbing Wall, Mud Pit, Swinging Sandbags, Plank Pool, Burning Coal Walk
 * Attributes: Strength, Dexterity, Agility, Perception, Willpower
 * Directions: walk to Vetallun Road, walk to Vetallun Crossroads, w x5, nw x3, n x2
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 <a id="numerics"></a>
 ### Numeric Equivalents
-Each attribute in your character's stats is linked to a hidden numeric value, which corresponds to the descriptive adjectives you see on the character sheet. While knowing the exact numbers isn't always necessary, it can be useful—especially when planning to use role-points to improve a particular attribute. Understanding these values helps you estimate how many role-points you'll need to reach your desired stat level. (See [RolePoint Purchases](/account/#RolePointPurchases) for details on the cost of increasing attribute potential. Completing training courses will also raise your attribute’s numeric value by 1 point.)
+Each attribute in your character's stats is linked to a hidden numeric value, which corresponds to the descriptive adjectives you see on the character sheet. While knowing the exact numbers isn't always necessary, it can be useful—especially when planning to use role-points to improve a particular attribute. Understanding these values helps you estimate how many role-points you'll need to reach your desired stat level. (See [RolePoint Purchases](/account/#role-point-purchases) for details on the cost of increasing attribute potential. Completing training courses will also raise your attribute’s numeric value by 1 point.)
 
 By default, a stat’s potential maxes out at **Outstanding** (200). However, the maximum value you can achieve for a particular stat may vary based on the nationality and traits you selected during character creation. With certain traits that boost a specific attribute, you may be able to train that stat beyond **Outstanding**, reaching levels like **Remarkable**, **Extraordinary**, **Phenomenal**, or even higher.
 
@@ -166,7 +166,7 @@ For example, the numeric value for **Endurance** directly corresponds to your ch
 ### Improving Attributes
 When your character is created, they start with a set of "base" attribute values. These are determined by a combination of chance and the choices you make during character generation. Each character also has a "potential" for each attribute, which is the maximum value they can reach without further RP or StP purchases. **Stats under 150 receive 10 potential where anything over 150 receive 5 potential.**
 
-* You can [naturally](#naturalatt) increase your base attribute values by completing [training courses](#trainingcourses) or simply through normal gameplay by using your skills. Once an attribute's base value reaches its potential, you can use [role-points](/account/#RolePoints) to increase it further.
+* You can [naturally](#natural-attribute-increases) increase your base attribute values by completing [training courses](#the-training-courses) or simply through normal gameplay by using your skills. Once an attribute's base value reaches its potential, you can use [role-points](/account/#RolePoints) to increase it further.
 
 * You can use [StoryPoints](/account/#StoryPoints) to instantly increase an attribute. With StoryPoints, there’s no need to train or wait for natural growth—your character gets the improvement immediately.
 
@@ -174,30 +174,30 @@ When your character is created, they start with a set of "base" attribute values
 
 * Your character's potential to improve is not limitless, and the [traits](/traits/) you chose during character generation impact your maximum potential. You'll be notified in the StoryPoint or RolePoint menu when you can no longer purchase increases for a particular stat.
 
-There are also [skills](#statskills) you can learn that, if sufficiently trained, will replace an attribute's value with a higher one in certain situations (effectively raising the appropriate attribute level).
+There are also [skills](#stat-skills) you can learn that, if sufficiently trained, will replace an attribute's value with a higher one in certain situations (effectively raising the appropriate attribute level).
 
 ---
 <a id="naturalatt"></a>
 ### Natural Attribute Increases
 A character will gain attribute increases slowly by using her skills and actions, as long as his or her potential is still unmet. The attribute increased will be one that has an effect on that action: Sword Side Strike might increase Strength and Pick Lock-Unlocking might increase Dexterity. Here are a few samples of what you see when your character naturally increases an attribute:
 
-* You feel as if your movements are more accurate. ([Agility](#Agility))
-* You feel as if you may now manipulate things easier. ([Dexterity](#Dexterity))
-* You feel as if you can accurately make small adjustments. ([Dexterity](#Dexterity))
-* You feel invigorated. ([Endurance](#Endurance))
-* You feel as if your breathing isn't as deep. ([Endurance](#Endurance))
-* You feel as if your breathing is less labored. ([Endurance](#Endurance))
-* You feel as if you could determine what to do next quicker next time. ([Judgement](#Judgement))
-* You feel as if you've learnt a better way to think about that. ([Judgement](#Judgement))
-* With a burst of insight, you feel as if you could absorb a bit more knowledge. ([Memory](#Memory))
-* With a burst of insight, you feel as if you're able to learn a bit more. ([Memory](#Memory))
-* You feel as if your focus has increased. ([Perception](#Perception))
-* You feel as if you spotted more detail that time. ([Perception](#Perception))
-* You feel as if you solved the problem quicker that time. ([Reasoning](#Reasoning))
-* With a burst of insight, you determine a better way to perform the movement. ([Reasoning](#Reasoning))
-* You feel as if you are moving a little quicker. ([Speed](#Speed))
-* You feel as if you are able to put more power into the movement. ([Strength](#Strength))
-* You feel as if your confidence has improved. ([Willpower](#Willpower))
+* You feel as if your movements are more accurate. ([Agility](#agility))
+* You feel as if you may now manipulate things easier. ([Dexterity](#dexterity))
+* You feel as if you can accurately make small adjustments. ([Dexterity](#dexterity))
+* You feel invigorated. ([Endurance](#endurance))
+* You feel as if your breathing isn't as deep. ([Endurance](#endurance))
+* You feel as if your breathing is less labored. ([Endurance](#endurance))
+* You feel as if you could determine what to do next quicker next time. ([Judgement](#judgement))
+* You feel as if you've learnt a better way to think about that. ([Judgement](#judgement))
+* With a burst of insight, you feel as if you could absorb a bit more knowledge. ([Memory](#memory))
+* With a burst of insight, you feel as if you're able to learn a bit more. ([Memory](#memory))
+* You feel as if your focus has increased. ([Perception](#perception))
+* You feel as if you spotted more detail that time. ([Perception](#perception))
+* You feel as if you solved the problem quicker that time. ([Reasoning](#reasoning))
+* With a burst of insight, you determine a better way to perform the movement. ([Reasoning](#reasoning))
+* You feel as if you are moving a little quicker. ([Speed](#speed))
+* You feel as if you are able to put more power into the movement. ([Strength](#strength))
+* You feel as if your confidence has improved. ([Willpower](#willpower))
 
 
 ---
@@ -209,12 +209,12 @@ Certain skills supplement your character's attributes, allowing you to save on R
 
 Learning statskills, however, has its limitations.  A statskill's bonus will cap at rank 90 (grandmaster), and will provide the equivalent of being low-end Great in the relevant attribute. However, this bonus applies only to combat situations - stat skills do not increase your attributes for any other purpose. <sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1720813-attribute-caps?p=1721016#post1721016)</sup>
 
-[Back to Top](#Top)
+[Back to Top](#)
 
 
 ---
 <a id="temporarymods"></a>
 ### Temporary Modifiers
-Your character's stats can be temporarily modified by certain substances (shh - they're a secret), prayers or blessings, [coma sickness](/character-condition/#Coma), [encumbrance](/character-condition/#Load), [sitting or lying](/character-condition/#Position), and other events. For example, being sprayed by a skunk will temporarily lower your Appearance, Charisma, and Perception. Positive modifiers have the potential to temporarily increase your character's attributes beyond her natural cap.
+Your character's stats can be temporarily modified by certain substances (shh - they're a secret), prayers or blessings, [coma sickness](/character-condition/#coma), [encumbrance](/character-condition/#encumbrance), [sitting or lying](/character-condition/#position), and other events. For example, being sprayed by a skunk will temporarily lower your Appearance, Charisma, and Perception. Positive modifiers have the potential to temporarily increase your character's attributes beyond her natural cap.
 
-[Back to Top](#Top)
+[Back to Top](#)

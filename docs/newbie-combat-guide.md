@@ -22,7 +22,7 @@ Blocks and dodges only occur if a roll fails; they provide no skill points and a
 
 As a new player, you will most likely begin with one rank of your primary weapon. Your first task must be to have five attacks to ensure you receive maximum skill point gain in a rotation and no penalty for using the same attack over and over. To do this, it is recommended you follow this course:
 
-1. Find the nearest [Practice Dummy](/skills/#dummy) and begin by approaching it and [ATTACK DUMMY](/skills/#EarningSP) until you earn 1,000 SP (total) or 250 combat ranks (total), whichever comes first. These are the current caps used for training on practice dummies.
+1. Find the nearest [Practice Dummy](/skills/#practice-dummy) and begin by approaching it and [ATTACK DUMMY](/skills/#earning-sp) until you earn 1,000 SP (total) or 250 combat ranks (total), whichever comes first. These are the current caps used for training on practice dummies.
 2. Locate your trainer and learn the easiest attacks first to 1, then spend the remaining on average attacks.
 
 At this point, you are ready for more combat and improving your skills further. There are two courses to take:

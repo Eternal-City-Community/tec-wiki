@@ -19,18 +19,18 @@ Most leatherworking projects are completed through a series of recipes. Individu
 | --- | --- | --- |
 | Skills/Actions | Difficulty | Malktros |
 | <u>*Basic Leatherworking*</u> |  | 103 |
-| [Cut Leather Component](#Cut-Leather) | easy | 50 |
-| [Lace Leather Components](#Lace-Leather) | easy | 50 |
+| [Cut Leather Component](#cut-leather-tbd) | easy | 50 |
+| [Lace Leather Components](#lace-leather-tbd) | easy | 50 |
 | [Layout Leather Component](#Layout-Leather) | easy | 50 |
-| [Punch Leather Holes](#Punch-Leather) | easy | 50 |
-| [Apply Metal Studs](#Apply-Metal) | average | 50 |
-| [Bevel Leather Component](#Bevel-Leather) | average | 50 |
-| [Line Leather Item](#Line-Leather) | average | 50 |
-| [Rivet Leather Components](#Rivet-Leather) | average | 50 |
-| [Skive Leather Component](#Skive-Leather) | average | 50 |
-| [Emboss Leather Item](#Emboss-Leather) | difficult | 50 |
-| [Mold Leather Component](#Mold-Leather) | difficult | 50 |
-| [Sew Leather Components](#Sew-Leather) | difficult | 50 |
+| [Punch Leather Holes](#punch-leather-tbd) | easy | 50 |
+| [Apply Metal Studs](#apply-metal-studs-tbd) | average | 50 |
+| [Bevel Leather Component](#bevel-leather-component-tbd) | average | 50 |
+| [Line Leather Item](#line-leather-item-tbd) | average | 50 |
+| [Rivet Leather Components](#rivet-leather-components-tbd) | average | 50 |
+| [Skive Leather Component](#skive-leather-component-tbd) | average | 50 |
+| [Emboss Leather Item](#emboss-leather-item-tbd) | difficult | 50 |
+| [Mold Leather Component](#mold-leather-component-tbd) | difficult | 50 |
+| [Sew Leather Components](#sew-leather-components-tbd) | difficult | 50 |
 
 <a id="Recipes"></a>
 
@@ -160,7 +160,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 #### Notes on Learning
 * You **cannot train 'Basic Leatherworking'**. Your Basic Leatherworking rank increases as you train the sub-skills.
 * Leatherworking requires the knowledge of specific recipes. Once these recipes are known, you do not need to learn additional ranks.
-* When you learn the Basic Leatherworking skill with [GSP](/skills/#GSP), you also learn the following sub-skills and the Gladius Sheathe recipe.
+* When you learn the Basic Leatherworking skill with [GSP](/skills/#general-skill-points-gsp), you also learn the following sub-skills and the Gladius Sheathe recipe.
 * All Leatherworking skills require a recipe to be recalled to used. Use **recipe-recall** and select from the options listed.
 
 

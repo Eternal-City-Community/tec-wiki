@@ -11,7 +11,7 @@ This fighting style based on **an existing knowledge of [Knives](/knives/)**.
 
 ### In a Nutshell
 #### Pros
-* [Dirk Balance](/cineran-knife-fighting-knives/#Dirk) can be used to untangle your weapon, if hooked by an axe, trident or cestus.
+* [Dirk Balance](/cineran-knife-fighting-knives/#ckf-dirk-balance-dirkbalance) can be used to untangle your weapon, if hooked by an axe, trident or cestus.
 * Unique forehand/backhand mechanics, providing additional to-hit bonuses.
 * --Unique *counter* mechanics, allowing you to pull off a highly effective.--
 

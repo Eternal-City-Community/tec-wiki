@@ -9,12 +9,12 @@ Below you'll find everything important to know about One-Handed Axes (1HA).
 
 ### In a Nutshell
 #### Pros
-* Four (4) fast, easy-difficulty attacks (**[Chop](/one-handed-axes/#Basic-Chop)**, **[Slash](/one-handed-axes/#Slash)**, **[Swat](/one-handed-axes/#Head-Swat)**, **[Shield-Breaker](/one-handed-axes/#Shield-Breaker)**).
-* Two (2) Offensive-Stepping attacks ([Stepping Chop](/one-handed-axes/#SteppingChop), [Stepping Leg Strike](/one-handed-axes/#SteppingLegstrike)).
+* Four (4) fast, easy-difficulty attacks (**[Chop](/one-handed-axes/#axe-basic-chop-chop)**, **[Slash](/one-handed-axes/#axe-slash-slash)**, **[Swat](/one-handed-axes/#axe-head-swat-swat)**, **[Shield-Breaker](/one-handed-axes/#axe-shield-breaker-break)**).
+* Two (2) Offensive-Stepping attacks ([Stepping Chop](/one-handed-axes/#axe-stepping-chop-schop), [Stepping Leg Strike](/one-handed-axes/#axe-stepping-leg-strike-slegstrike)).
 * Only skill set with an Easy-difficulty shield-breaker.
-* Several harder-hitting attacks ([Pivot Smash](/one-handed-axes/#Pivot-Smash), [Longarm Strike](/one-handed-axes/#Longarm-Strike), [Overhead Strike](/one-handed-axes/#Overhead-Strike), [Side Strike](/one-handed-axes/#Side-Strike), [Pivoting Longarm](/one-handed-axes/#Pivoting-Longarm)).
-* **[Pivoting Longarm](/one-handed-axes/#Pivoting-Longarm)** is a hard-hitting, defense-penetrating attack.
-* The combination of **[Hook](/one-handed-axes/#Hook)** & **[Loosening Toss](/one-handed-axes/#Loosening-Toss)** can lead to great offensive opportunities.
+* Several harder-hitting attacks ([Pivot Smash](/one-handed-axes/#axe-pivot-smash-smash), [Longarm Strike](/one-handed-axes/#axe-longarm-strike-longarm), [Overhead Strike](/one-handed-axes/#axe-overhead-strike-overhead), [Side Strike](/one-handed-axes/#axe-side-strike-sidestrike), [Pivoting Longarm](/one-handed-axes/#axe-pivoting-longarm-pivotstrike)).
+* **[Pivoting Longarm](/one-handed-axes/#axe-pivoting-longarm-pivotstrike)** is a hard-hitting, defense-penetrating attack.
+* The combination of **[Hook](/one-handed-axes/#axe-hook-hook)** & **[Loosening Toss](/one-handed-axes/#axe-loosening-toss-loose)** can lead to great offensive opportunities.
 
 #### Cons
 * **Many defensive holes**, requiring dependence on wielding a [shield](/shields/) in most cases.
@@ -108,14 +108,14 @@ A rank of **1 signifies the best** in this category.
 
 ### Moves
 #### Worthwhile
-* [Pivoting Longarm](/one-handed-axes/#Pivoting-Longarm) - Defense-penetrating, hard hitting attack. Likely your best bet.
-* [Chop](/one-handed-axes/#Basic-Chop) & [Shield-Breaker](/one-handed-axes/#Shield-Breaker) - Top-hitting easy attacks.
-* [Slash](/one-handed-axes/#Slash) & [Swat](/one-handed-axes/#Head-Swat) - Additional easy attacks, still decently accurate.
-* [Overhead Strike](/one-handed-axes/#Overhead-Strike) - Next-best damage after Pivoting Longarm and strikes are auto-aimed high.
+* [Pivoting Longarm](/one-handed-axes/#axe-pivoting-longarm-pivotstrike) - Defense-penetrating, hard hitting attack. Likely your best bet.
+* [Chop](/one-handed-axes/#axe-basic-chop-chop) & [Shield-Breaker](/one-handed-axes/#axe-shield-breaker-break) - Top-hitting easy attacks.
+* [Slash](/one-handed-axes/#axe-slash-slash) & [Swat](/one-handed-axes/#axe-head-swat-swat) - Additional easy attacks, still decently accurate.
+* [Overhead Strike](/one-handed-axes/#axe-overhead-strike-overhead) - Next-best damage after Pivoting Longarm and strikes are auto-aimed high.
 
 #### Less useful
-* [Throw](/one-handed-axes/#Throw) - Rarely usable. Axe throw requires a very specific distance from your target.
-* [Pivot Smash](/one-handed-axes/#Pivot-Smash) - Moderate damage, but hard to land on most opponents.
+* [Throw](/one-handed-axes/#axe-throw-throw) - Rarely usable. Axe throw requires a very specific distance from your target.
+* [Pivot Smash](/one-handed-axes/#axe-pivot-smash-smash) - Moderate damage, but hard to land on most opponents.
 
 ### Complementary Skill Sets
 [Shields](/shields/) are a **must** when seriously using 1HA. Without them, 1HA have many [defensive holes](/combat-overview/) with 0 or only 1 layer of defence. Particularly troubling attacks are pushasides (Knives)

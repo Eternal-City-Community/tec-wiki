@@ -47,9 +47,9 @@ This ranking does not factor in critical hit frequency/quality or the difference
 | Weapon | Weight | Material | Source(s) | Notes |
 | --- | --- | --- | --- | --- |
 | a padded club | 1.3 lbs | wood? | [Usius (Practice Weapons)](/bronze-lane/) | training weapon / no damage |
-| a rough bone club | 2.5 lbs | bone | [Craft Basic Club](/hunting/#club) |  |
-| a wooden cane | 2.1 lbs | wood | [Whittling](/outdoor-survival/#Whittling) |  |
-| a rough wooden club | 3.5 lbs | wood | [Craft Basic Club](/hunting/#club) |  |
+| a rough bone club | 2.5 lbs | bone | [Craft Basic Club](/hunting/#craft-basic-club) |  |
+| a wooden cane | 2.1 lbs | wood | [Whittling](/outdoor-survival/#whittling-whittle-into) |  |
+| a rough wooden club | 3.5 lbs | wood | [Craft Basic Club](/hunting/#craft-basic-club) |  |
 | wooden club (various) | 3.5 lbs | wood | [Iridine Alley](/hg-alleys/) brutes | Variants include:<br><br>- a nicked club<br><br>- a smooth wooden club<br><br>- a plain oaken club<br><br>- a large wooden club |
 | wooden club (various) | 3.5 lbs | wood | [Bandit Complex](/hg-bandit-complex/) bandits | Variants include:<br><br>- a scarred wooden club<br><br>- a rough wooden club<br><br>- a hardy wooden club<br><br>- a crude wooden club |
 | a club | 3.5 lbs | wood? | [Bacei (Junk Dealer)](/vetallun-road/) |  |

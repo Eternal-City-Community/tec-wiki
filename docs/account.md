@@ -17,15 +17,15 @@ The Eternal City offers three account subscription levels. Find the one that bes
 | Participate in events | ✓ | ✓ | ✓ |
 | Access entire gameworld | ✓ | ✓ | ✓ |
 | Give and receive @kudos | ✓ | ✓ | ✓ |
-| Convert [Skill Points](/skills/#SP) to [General Skill Points](/skills/#GSP) | ✓ | ✓ | ✓ |
+| Convert [Skill Points](/skills/#SP) to [General Skill Points](/skills/#general-skill-points-gsp) | ✓ | ✓ | ✓ |
 | Multiple accounts per IP address* |  | ✓ | ✓ |
 | **Free** Tier 1 [Veteran Characters](/veteran-characters/) |  |  | ✓ |
 | [Role Points](#RolePoints) earned per hour ( base / max ) | 0 | 2.5 / 8 | 5 / 12 |
 | Accessible Character Slots** | 2 | 5 * | 10 |
-| [Role Point Purchases](#RolePointPurchases) | Limited | Reduced cost | Greatly reduced cost |
+| [Role Point Purchases](#role-point-purchases) | Limited | Reduced cost | Greatly reduced cost |
 | Monthly [StoryPoints](#Storypoints) Awarded | 0 | 0 | 50 |
-| Monthly [General Skill Points](/skills/#GSP) Received (per character) | 0 | 10 | 25 |
-| Monthly [Perk](#Perks) Received | None | 1 Basic Perk | 1 Premium Perk |
+| Monthly [General Skill Points](/skills/#general-skill-points-gsp) Received (per character) | 0 | 10 | 25 |
+| Monthly [Perk](#perks) Received | None | 1 Basic Perk | 1 Premium Perk |
 | Monthly | Free | $12.95 | $29.95 |
 | Quarterly | Free | $34.95 (6% savings) | $79.95 (12% savings) |
 | Annually | Free | $129.95 (19% savings) | $299.95  (19% savings) |
@@ -71,29 +71,29 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 
 | Role Point Expenditure Description | Free | Basic | Premium | How to redeem |
 | --- | --- | --- | --- | --- |
-| [Creature Button](/rp-expenditure/#Creature) | 30 | 25 | 20 | Push "Big Red Button" in WA |
-| [Custom WA logout echo](/rp-expenditure/#logout) | N/A | 500 | 500 | @play |
+| [Creature Button](/rp-expenditure/#creature-button-pushes) | 30 | 25 | 20 | Push "Big Red Button" in WA |
+| [Custom WA logout echo](/rp-expenditure/#12-custom-logout-message) | N/A | 500 | 500 | @play |
 | Private Welcome Room area | N/A | N/A | 2,500 | @request |
-| [Playable NPCs](/rp-expenditure/#NPC) | N/A | 50 - 700 | 50 - 700 | @play |
-| [Exchange Character Order on Playlist](/rp-expenditure/#moveCharacter) | N/A | 500 | 250 | @play |
+| [Playable NPCs](/rp-expenditure/#10-create-a-playable-npc-character) | N/A | 50 - 700 | 50 - 700 | @play |
+| [Exchange Character Order on Playlist](/rp-expenditure/#5-exchange-character-order-on-playlist) | N/A | 500 | 250 | @play |
 | Retrieve deleted character | 500 | 500 | 500 | @play |
 | Extra character slot | N/A | 4,000 | 3,000 | @play |
 | [Veteran Character Package](/veteran-characters/) |  |  | Free - 100K | @play |
 | Recover sold/discarded item | 200 | 150 | 100 | retrieve command IG |
-| [Item Alteration](/customization-guide/#Alteration) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#Alteration))* |
-| [Custom Roleplay Prop](/customization-guide/#Props) | N/A | 1,500+ | 1,000+ | @request *(see [Custom Props](/customization-guide/#Props))* |
-| [Gear Alteration Package](/customization-guide/#gearAlteration) | N/A | 2,000 | 1,000 | @request *(see [Custom Requests](/customization-guide/#gearAlteration))* |
-| [Superior Weapon Upgrade](/rp-expenditure/#superior) | N/A | 2,500 | 1,500 | @play *(see [Custom Requests](/customization-guide/))* |
-| [Custom Item (armor/weapon/face cover)](/customization-guide/#CustomItems) | N/A | 3,000+ | 2,000+ | @request *(see [Custom Item](/customization-guide/#CustomItems))* |
+| [Item Alteration](/customization-guide/#item-alterations) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#item-alterations))* |
+| [Custom Roleplay Prop](/customization-guide/#custom-roleplay-prop) | N/A | 1,500+ | 1,000+ | @request *(see [Custom Props](/customization-guide/#Props))* |
+| [Gear Alteration Package](/customization-guide/#gear-alteration-package) | N/A | 2,000 | 1,000 | @request *(see [Custom Requests](/customization-guide/#gear-alteration-package))* |
+| [Superior Weapon Upgrade](/rp-expenditure/#15-superior-weapon-upgrade) | N/A | 2,500 | 1,500 | @play *(see [Custom Requests](/customization-guide/))* |
+| [Custom Item (armor/weapon/face cover)](/customization-guide/#custom-items-armor-weapon-face-covers) | N/A | 3,000+ | 2,000+ | @request *(see [Custom Item](/customization-guide/#custom-items-armor-weapon-face-covers))* |
 | Mini/temporary makeover (48-hour) | 100 | 100 | 100 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom scar | 350 | 250 | 200 | @play |
 | Custom speech pattern | N/A | N/A | 250 | @play |
 | Single feature makeover/tattoo | N/A | 750 | 500 | @request *(see [Custom Requests](/customization-guide/))* |
-| [Character makeover](/customization-guide/#CharMakeover) <a id="CharMakeover"></a> | 2,000 | 1,500 | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
+| [Character makeover](/customization-guide/#character-makeovers-custom-descriptions) <a id="CharMakeover"></a> | 2,000 | 1,500 | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom IG wakeup emote | N/A | N/A | 1,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom IG Walk ("Siddhe stomps in from the west.") | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |
 | Custom IG Room Stance (“Senses slouches before you.”) | N/A | N/A | 2,000 | @request *(see [Custom Requests](/customization-guide/))* |
-| Purchase [General Skill Points](/skills/#GSP) | N/A | 25 | 25 | @play OR @buy-gsp |
+| Purchase [General Skill Points](/skills/#general-skill-points-gsp) | N/A | 25 | 25 | @play OR @buy-gsp |
 | Additional Mark Point | 150 | 100 | 50 | @play |
 | Luck! Point | 150 | 150 | 100 | @play |
 | Rearrange Skill Slot | N/A | 250 | 250 | @play |
@@ -105,13 +105,13 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Bone Break](/pvp/#bone-break) | N/A | 250 | 250 | [See PvP info](/pvp/) |
 | [Branding/Scarring](/pvp/#bone-break) (GM Approval) | N/A | 1,000 | 1,000 | [See PvP info](/pvp/) |
 | [Cut Tongue](/pvp/#bone-break) (GM Approval) | N/A | 2,000 | 2,000 | [See PvP info](/pvp/) |
-| [Permanent Light Fixture](/rp-expenditure/#fixture) | N/A | N/A | 500 | @request |
-| [Room Alteration](/rp-expenditure/#alteration) | N/A | N/A | 500 | @request |
-| [Quick Keying Door](/rp-expenditure/#keying) | N/A | N/A | 1,000 | @request |
-| [Additional Room](/rp-expenditure/#room) | N/A | N/A | 1,500+ | @request |
-| [Additional NPC](/rp-expenditure/#npc) (for Stores & Club Houses) | N/A | N/A | 5,000 | @request |
-| [Store Package](/rp-expenditure/#store) | N/A | N/A | 10,000 | @request |
-| [Club House Package](/rp-expenditure/#club-house) | N/A | N/A | 15,000 | @request |
+| [Permanent Light Fixture](/rp-expenditure/#permanent-light-fixture) | N/A | N/A | 500 | @request |
+| [Room Alteration](/rp-expenditure/#room-alteration) | N/A | N/A | 500 | @request |
+| [Quick Keying Door](/rp-expenditure/#quick-keying-door) | N/A | N/A | 1,000 | @request |
+| [Additional Room](/rp-expenditure/#additional-room) | N/A | N/A | 1,500+ | @request |
+| [Additional NPC](/rp-expenditure/#additional-npc) (for Stores & Club Houses) | N/A | N/A | 5,000 | @request |
+| [Store Package](/rp-expenditure/#store-package-purchase) | N/A | N/A | 10,000 | @request |
+| [Club House Package](/rp-expenditure/#club-house-package-purchase) | N/A | N/A | 15,000 | @request |
 | Change pet's name | N/A | N/A | 500 | @request |
 | Pet makeover (cosmetic change) | N/A | 1,000 | 750 | @request |
 | Custom Event (GM Approval & Availability) | N/A | 3,000+ | 3,000+ | @request |
@@ -147,7 +147,7 @@ Your ability to make purchases with StoryPoints varies based on your [account su
 | StoryPoint (StP) Expenditure Option | StP Cost | How It Works |
 | --- | --- | --- |
 | Convert StoryPoints to Role Points | 1+ | Convert StoryPoints to Role Points. Ratio: 1 StP = 5 RPs |
-| [Attribute Increase](/stats/#improvingattributes) | 25 | Immediately increase a character's (non-maxed) stat by 1 point.<br><br>No need to run the courses.<br><br>A **Premium Subscription** is **required** for this option. |
+| [Attribute Increase](/stats/#improving-attributes) | 25 | Immediately increase a character's (non-maxed) stat by 1 point.<br><br>No need to run the courses.<br><br>A **Premium Subscription** is **required** for this option. |
 | <a id="DomusPurchase"></a>Domus Purchase | 400 to 600 | Select a Domus region using @play. **Quantities are limited.** Unavailable regions may still be selected.<br><br>**Sandbar Domus** (400) - Includes **6** rooms \| Materials: Marble floors & painted plaster walls.<br><br>**Rock Valley Domus** (500) - Includes **4** rooms \| Materials: Painted/Polished timber.<br><br>**Blackvine Domus** (500) - Includes **5** rooms \| Materials: Unfinished timber, stone, and brick.<br><br>**Seld Domus** (500) - Includes **5** rooms \| Materials: Rustic timber, unplastered stone, and brick.<br><br>**Steps Domus** (500)  - Includes **5** rooms \| Materials: Aged painted plaster and cracking stone construction.<br><br>**Quartz Heights Domus** (600) - Includes **7 rooms + an atrium** \| Materials: Highest-quality marble floors and richly decorated walls. |
 | Domus Baths Addition | 250 | This purchase allows you to add a hot or cold **bath** room to your existing domus. Baths come with permanent lighting.<br><br>Once purchased, you'll receive the "domus bath" option in your @perks menu. When you're ready to use it, send in an @request to get started. *(Using the perk will prompt you with the same information).*<br><br>The baths can be in a new room *(typically by going down, as long as there is space)* or they can replace an existing room.<br><br>There is no IG or RP cost to transform/add a new room for a basic bath. If you want to upgrade your basic bath cosmetically, there would be an IC charge for that. |
 | Double Role Points for 7 Days | 50 | This purchase sets your account's multiplier to 2, or to the game-wide rate<br><br>(whichever is higher) for 7 days. This impacts RPs/Hour rate.<br><br>It does not stack with promotional Role Point gain rates, and may only be purchased once per month. |
@@ -204,7 +204,7 @@ As reported by players, possible Perks include:
 
 | Basic Perks |
 | --- |
-| 1 [Creature Button Push](/rp-expenditure/#Creature) ***** |
+| 1 [Creature Button Push](/rp-expenditure/#creature-button-pushes) ***** |
 | 1 Luck Point |
 | 10 Role Points |
 | 25 Role Points |
@@ -213,7 +213,7 @@ As reported by players, possible Perks include:
 
 | Premium Perks | Probability **†** | Rarity |
 | --- | --- | --- |
-| 3 [Creature Button Push](/rp-expenditure/#Creature)***** | 12% |  |
+| 3 [Creature Button Push](/rp-expenditure/#creature-button-pushes)***** | 12% |  |
 | 100 Role Points | 9% |  |
 | 150 Role Points | 7% |  |
 | 200 Role Points | 7% |  |
@@ -221,8 +221,8 @@ As reported by players, possible Perks include:
 | 300 Role Points | 2% |  |
 | 1 Free Item Alteration | 4% |  |
 | 100 Combat Skill Points | 10% |  |
-| 30 [General Skill Points](/skills/#GSP) | 7% |  |
-| 60 [General Skill Points](/skills/#GSP) | 13% |  |
+| 30 [General Skill Points](/skills/#general-skill-points-gsp) | 7% |  |
+| 60 [General Skill Points](/skills/#general-skill-points-gsp) | 13% |  |
 | 100 Non-Combat Skill Points | 7% |  |
 | 5 Reduced Price Attribute Increases | 3% |  |
 | 10 Reduced Price Attribute Increases | ?% | Rare |

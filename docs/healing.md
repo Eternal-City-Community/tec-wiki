@@ -15,26 +15,26 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Iskara | Cipus | Piroska | Tullaria |
 | *<u>Healing</u>* | Easy | 100 | 200 | 50 | 80 |
-| [Bandage Wound](#Bandage-Wound) | Easy | 100 | 150 | 30 | 80 |
-| [Rouse](#Rouse) | Easy | 100 | 150 | 30 | 80 |
-| [Administer](#Administer) | Average | 100 | 150 | 30 | 80 |
-| [Arrow-Pulling](#Arrow-Pulling) | Average | 100 | 150 | 30 | 80 |
-| [Diagnose](#Diagnose) | Average | 100 | 150 | 30 | 80 |
-| [Remove Bandages](#Remove-Bandages) | Easy | 100 | 150 | 30 | 80 |
-| [Application](#Application) | Easy | 100 | 150 | 30 | 80 |
-| [Clean Wound](#Clean-Wound) | Easy | 100 | 150 | 30 | 80 |
-| [Stitch Wound](#Stitch-Wound) | Difficult | 100 | 150 | 30 | 80 |
-| [Remove Stitches](#Remove-Stitches) | Average | 100 | 150 | 30 | 80 |
-| [Set Bone](#Set-Bone) | Difficult | 100 | 150 | 30 | 80 |
-| [Splint Bone](#Splint-Bone) | Average | 100 | 150 | 30 | 80 |
-| [Remove Splint](#Remove-Splint) | Easy | 100 | 150 | 30 | 80 |
-| [Apply Tourniquet](#Apply-Tourniquet) | Average | 100 | 150 | 30 | 80 |
+| [Bandage Wound](#bandage-wound-bandage-with) | Easy | 100 | 150 | 30 | 80 |
+| [Rouse](#rouse-rouse-with) | Easy | 100 | 150 | 30 | 80 |
+| [Administer](#administer-feed-to) | Average | 100 | 150 | 30 | 80 |
+| [Arrow-Pulling](#arrow-pulling-yank-arrow-from) | Average | 100 | 150 | 30 | 80 |
+| [Diagnose](#diagnose-diagnose) | Average | 100 | 150 | 30 | 80 |
+| [Remove Bandages](#remove-bandages-cut-bandages-from) | Easy | 100 | 150 | 30 | 80 |
+| [Application](#application-apply-to) | Easy | 100 | 150 | 30 | 80 |
+| [Clean Wound](#clean-wound-clean-with) | Easy | 100 | 150 | 30 | 80 |
+| [Stitch Wound](#stitch-wound-stitch-with) | Difficult | 100 | 150 | 30 | 80 |
+| [Remove Stitches](#remove-stitches-cut-stitches-from) | Average | 100 | 150 | 30 | 80 |
+| [Set Bone](#set-bone-align) | Difficult | 100 | 150 | 30 | 80 |
+| [Splint Bone](#splint-bone-splint-with) | Average | 100 | 150 | 30 | 80 |
+| [Remove Splint](#remove-splint-cut-from) | Easy | 100 | 150 | 30 | 80 |
+| [Apply Tourniquet](#application-apply-to) | Average | 100 | 150 | 30 | 80 |
 | [Remove Tourniquet](#Remove-Tourniquet) | Easy | 100 | 150 | 30 | 80 |
 
 |  | Healing Lores |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- |
 | Lores | Difficulty | Iskara | Cipus | Piroska | Tullaria |
-| [Pressure Wound Technique](#Pressure-Wound-Technique) | Easy | 25 | 25 | 25 | - |
+| [Pressure Wound Technique](#pressure-wound-technique-pressure) | Easy | 25 | 25 | 25 | - |
 
 **Directions to Iskara** ([Iridine](/gardens-and-hospice/)): Walk to Hospice, Nx7, Wx1, Nx1
 **Directions to Piroska** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Nx2, Ex15, S, W
@@ -43,10 +43,10 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 **--Directions to Cipus-- (Currently Unavailable)** ([Monlon](/monlon/)): Take the ferry to Monlon, Nx3, W, N, NW, W, Nx3, NEx2, Nx2, NE, Nx2, Wx3, NW, NEx3, N, NWx3, W, SWx2, NWx2, NE, Nx3, U, N, Ex3, S
 
 #### Notes on Learning
-* Healing requires the use of the **[Tend](#Tend)** command, which requires no skill to use, but is the first step in most healing skills.
+* Healing requires the use of the **[Tend](#tending-tend-thorough)** command, which requires no skill to use, but is the first step in most healing skills.
 * Healing is **more difficult to learn** than most skillsets since **all skills cost an additional five skill points** (SP) to learn. _
 *Example:* Your first easy skill costs 10 skill points to learn initially, and then 5 skill points for every subsequent rank in that skill. If it were in your 1st slot, healing requires 15 SPs for the first rank in an easy skill and 10 SPs for every subsequent rank. When using the [Training Cost Calculator](/training-cost-calculator/) be sure to check the **Healing** box to adjust costs accordingly.
-* For characters learning Healing for the first time, the **starting skills** are: [Diagnose](#Diagnose), [Clean Wound](#Clean-Wound), [Bandage Wound](#Bandage-Wound), and [Remove Bandages](#Remove-Bandages).
+* For characters learning Healing for the first time, the **starting skills** are: [Diagnose](#diagnose-diagnose), [Clean Wound](#clean-wound-clean-with), [Bandage Wound](#bandage-wound-bandage-with), and [Remove Bandages](#remove-bandages-cut-bandages-from).
 
 
 ### Related Commands
@@ -201,7 +201,7 @@ Stitching is the only way to fully close a wound when it is bleeding. Cleaning t
 
 **Tools Required:** a surgical needle; suture thread
 
-This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Perception** & **Reasoning**.
+This skill has a chance of **[naturally increasing](/stats/#natural-attribute-increases)** a character's **Perception** & **Reasoning**.
 
 **When you see this in use you see:**
 

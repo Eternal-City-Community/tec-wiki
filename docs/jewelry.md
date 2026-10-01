@@ -19,18 +19,18 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 | --- | --- | --- |
 | Skills/Actions | Difficulty | Captuo |
 | <u>*Basic Jewelry*</u> | Average | 100 |
-| [Assemble Jewelry](#Assemble-Jewelry) | Average | 100 |
-| [Cast Jewelry](#Cast-Jewelry) | Average | 100 |
-| [Cold Work Stock](#Cold-Work-Stock) | Average | 100 |
-| [Engrave Jewelry](#Engrave-Jewelry) | Difficult | 100 |
-| [Form Wax](#Form-Wax) | Average | 100 |
-| [Hot Work Stock](#Hot-Work-Stock) | Difficult | 100 |
-| [Layout Gem](#Layout-Gem) | Average | 100 |
-| [Make Mold](#Make-Mold) | Average | 100 |
-| [Set Gem](#Set-Gem) | Difficult | 100 |
-| [Rough Cut Gem](#Rough-Cut-Gem) | Average | 100 |
-| [Shape Gem](#Shape-Gem) | Average | 100 |
-| [Polish Gem](#Polish-Gem) | Average | 100 |
+| [Assemble Jewelry](#assemble-jewelry-assemble-to) | Average | 100 |
+| [Cast Jewelry](#cast-jewelry-cast) | Average | 100 |
+| [Cold Work Stock](#cold-work-stock-coldwork) | Average | 100 |
+| [Engrave Jewelry](#engrave-jewelry-engrave) | Difficult | 100 |
+| [Form Wax](#form-wax-form) | Average | 100 |
+| [Hot Work Stock](#hot-work-stock-hotwork) | Difficult | 100 |
+| [Layout Gem](#layout-gem-layout) | Average | 100 |
+| [Make Mold](#make-mold-mold) | Average | 100 |
+| [Set Gem](#set-gem-set-with) | Difficult | 100 |
+| [Rough Cut Gem](#rough-cut-gem-roughcut) | Average | 100 |
+| [Shape Gem](#shape-gem-shape) | Average | 100 |
+| [Polish Gem](#polish-gem-polish) | Average | 100 |
 
 
 <a id="Recipes"></a>
@@ -171,7 +171,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 * You **cannot train 'Basic Jewelry' alone**. Your basic **jewelry rank increases as you train the jewelry actions and recipes**.
 * To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [<lore name>] from <trainer>** commands.
 * Jewelry work requires **[recipes](#Recipes)** recalled before many steps. Engraving patterns are **[lores](#Lores)** learned from the trainer.
-* Jewelers can use **[restyle](#Restyle)** on finished player-crafted pieces. No separate skill rank is required beyond owning the work.
+* Jewelers can use **[restyle](#restyle-restyle)** on finished player-crafted pieces. No separate skill rank is required beyond owning the work.
 * You can unlearn recipes; engraving lores follow the same rules as other craft lores.
 * **Wire recipes need wire**, not heavy stock — draw stock into wire first when the recipe calls for it.
 * Some stones **cannot be cut**. Failed cutting steps can **ruin the stone**.

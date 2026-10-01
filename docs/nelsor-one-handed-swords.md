@@ -17,18 +17,18 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Ariston | Vashren | **Prestis |
 | *<u>Nelsor Gladius Combat</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
-| [Arch of the Sky](#AotS) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 300 | 500 | 154 |
-| [Extended Arm Spin](#EAS) | Average | Either | Short | Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
-| [Kicking Leap Strike](#KLS) | Difficult | Either | Long | Cut | 10 Ranks in [Kicking Slash](#KS) | 300 | 500 | 154 |
-| [Kicking Slash](#KS) | Average | Either | Short | Cut | 10 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
-| [Leaping Cross Strike](#LCS) | Difficult | 2 | Long | Cut | 10 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>10 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
-| [Lightning Thrust](#LT) | Difficult | Either | Long | Pierce | 10 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 300 | 500 | 154 |
-| [Planting the Blade](#PtB) | Easy | 1 | - | - | - | 100 | 175 | 154 |
-| [Spinning Duck and Strike](#SDaS) | Average | Either | Short | Cut | 1 Rank in [Duck](/combat-maneuvers/#Duck)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
-| [Vulture Block](#VB) | Difficult | Either | - | - | - | 300 | 500 | 154 |
-| [Reverse Sky Arch](#RSA) | Average | Either | Short | Cut | [Tiger Stance](/nelsor-one-handed-swords/#T) | 300 | 500 | 154 |
-| [Tiger Slash](#TS) | Difficult | Either | Short | Cut<br><br>Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
-| [Tiger Stance](#T) | Easy | Either | - | - | - | 100 | 100 | 154 |
+| [Arch of the Sky](#arch-of-the-sky-arch) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#sword-chop-chop) | 300 | 500 | 154 |
+| [Extended Arm Spin](#extended-arm-spin-armspin) | Average | Either | Short | Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#sword-slash-slash) | 300 | 500 | 154 |
+| [Kicking Leap Strike](#kicking-leap-strike-kleap) | Difficult | Either | Long | Cut | 10 Ranks in [Kicking Slash](#kicking-slash-kslash) | 300 | 500 | 154 |
+| [Kicking Slash](#kicking-slash-kslash) | Average | Either | Short | Cut | 10 Ranks in [Swords Slash](/one-handed-swords/#sword-slash-slash) | 300 | 500 | 154 |
+| [Leaping Cross Strike](#leaping-cross-strike-strike) | Difficult | 2 | Long | Cut | 10 Ranks in [Swords Chop](/one-handed-swords/#sword-chop-chop)<br><br>10 Ranks in [Swords Slash](/one-handed-swords/#sword-slash-slash) | 300 | 500 | 154 |
+| [Lightning Thrust](#vulture-block) | Difficult | Either | Long | Pierce | 10 Ranks in [Swords Lunge](/one-handed-swords/#sword-lunge-lunge) | 300 | 500 | 154 |
+| [Planting the Blade](#planting-the-blade-bladeplant) | Easy | 1 | - | - | - | 100 | 175 | 154 |
+| [Spinning Duck and Strike](#spinning-duck-and-strike-spinduck) | Average | Either | Short | Cut | 1 Rank in [Duck](/combat-maneuvers/#duck-na)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#sword-slash-slash) | 300 | 500 | 154 |
+| [Vulture Block](#vulture-block) | Difficult | Either | - | - | - | 300 | 500 | 154 |
+| [Reverse Sky Arch](#reverse-sky-arch-rarch) | Average | Either | Short | Cut | [Tiger Stance](/nelsor-one-handed-swords/#tiger-stance-tiger) | 300 | 500 | 154 |
+| [Tiger Slash](#tiger-slash-tslash) | Difficult | Either | Short | Cut<br><br>Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#sword-slash-slash) | 300 | 500 | 154 |
+| [Tiger Stance](#tiger-stance-tiger) | Easy | Either | - | - | - | 100 | 100 | 154 |
 
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex4, N, W
 **Directions to Vashren** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W 
@@ -37,7 +37,7 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 
 #### Notes on Learning
 * You can also use Skill Points (SP) from [Swords](/one-handed-swords/) to learn Nelsor.
-* **Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+* **Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [reputation#Aralex](/reputation/#aralex-eggs).
 
 
 ### Skill Details
@@ -154,7 +154,7 @@ Tossing his gladius dramatically into the air, Ariston watches the weapon twirl 
 
 ### Spinning Duck and Strike  *spinduck <target>*
 
-The wielder ducks downward, whirling on one knee like a top, and strikes at the end of the spin. If the maneuver succeeds, it amounts to a very fast, very strong slashing attack aimed low. The primary disadvantage of the maneuver is that **the wielder** is left temporarily vulnerable, **ending up in a kneeling position** following the strike. Ranks in [Simple Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) will help in naturally rolling back to a standing position after performing this attack.
+The wielder ducks downward, whirling on one knee like a top, and strikes at the end of the spin. If the maneuver succeeds, it amounts to a very fast, very strong slashing attack aimed low. The primary disadvantage of the maneuver is that **the wielder** is left temporarily vulnerable, **ending up in a kneeling position** following the strike. Ranks in [Simple Rolling Rise](/combat-maneuvers/#simple-rolling-rise-na) or [Backwards Rolling Rise](/combat-maneuvers/#backwards-rolling-rise-brise) will help in naturally rolling back to a standing position after performing this attack.
 
 * Using this maneuver has a change to leave the attacker in a **prone** position. This can be **negated with 90 ranks in Nelsor Gladius Combat**.
 
