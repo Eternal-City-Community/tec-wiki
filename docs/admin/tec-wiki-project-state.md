@@ -344,6 +344,18 @@ User-reported issues and fixes on 2026-10-01:
   - `90de8c65988c823c0d336dd7f855658ef78f0549`
   - `f421a74d7211a410ccd4a9d2479e5c0d2b6b436c`
 
+
+
+### Harbor of the Moons feature-image sizing correction
+
+- User reported the top illustration on `/harbor-of-the-moons/` became excessively large on desktop after the broader map-image width change.
+- Root cause: the generic linked-image/map styling treated all linked images as map-like content.
+- Converted the Harbor artwork to an explicit `.tec-feature-image` / `.tec-feature-image-link` treatment.
+- Feature artwork is now capped at 900px wide and 68vh tall on desktop, centered, while remaining full-width/fluid on mobile.
+- The actual Harbor map inside the Map section keeps the wider map behavior.
+- Page commit: `c39f147ad41abbd4bd5d2a26d6dc1c6c148053e4`
+- CSS commit: `175d89cdb3a2797211066961648c879c9b5746be`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
