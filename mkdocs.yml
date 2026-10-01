@@ -58,3 +58,4 @@ extra_javascript:
   - javascripts/tec-skill-pages.js
   - javascripts/tec-veteran-tabs.js
   - javascripts/tec-rank-bonus.js
+  - javascripts/tec-money-calculator.js
