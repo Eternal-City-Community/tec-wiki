@@ -35,7 +35,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 <a id="Recipes"></a>
 
-<details>
+<details markdown="1">
 <summary>+ Show Jewelry Recipes</summary>
 
 
@@ -135,7 +135,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 <a id="Lores"></a>
 
-<details>
+<details markdown="1">
 <summary>+ Show Jewelry Lores</summary>
 
 
