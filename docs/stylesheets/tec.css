@@ -2018,3 +2018,126 @@ html, body {
 .tec-rb-calculator-card {
   margin: 0;
 }
+
+
+/* Mobile calculator usability pass: Money + Fight It.
+   Training Cost has page-local styles because its legacy calculator is self-contained. */
+@media screen and (max-width: 600px) {
+  #tec-money-calculator,
+  #fight-it-app {
+    max-width: 100%;
+    margin-top: .65rem;
+  }
+
+  .tec-money-card {
+    padding: 9px;
+    border-radius: 7px;
+  }
+
+  .tec-money-scroll {
+    margin-left: -2px;
+    margin-right: -2px;
+    padding-bottom: 4px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+
+  .md-typeset table.tec-money-input-table {
+    min-width: 34rem;
+  }
+
+  .md-typeset table.tec-money-total-table {
+    min-width: 31rem;
+  }
+
+  .tec-money-input-table input {
+    width: 4.25rem;
+    min-height: 40px;
+    padding: 7px 6px;
+    font-size: 16px;
+  }
+
+  .tec-money-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 7px;
+  }
+
+  .tec-money-actions button {
+    width: 100%;
+    min-height: 44px;
+    padding: 9px 12px;
+    font-size: .8rem;
+  }
+
+  .tec-money-heading strong,
+  .tec-money-total-title {
+    font-size: .95rem;
+  }
+
+  .tec-money-heading span {
+    font-size: .75rem;
+    line-height: 1.4;
+  }
+
+  .fight-it-grid {
+    gap: 10px;
+  }
+
+  .fight-it-panel,
+  .fight-it-results {
+    padding: 10px;
+    border-radius: 6px;
+  }
+
+  .fight-it-panel legend {
+    font-size: .95rem;
+  }
+
+  .fight-it-panel label {
+    display: block;
+    margin: 9px 0 3px;
+    font-size: .78rem;
+    line-height: 1.35;
+  }
+
+  .fight-it-panel select,
+  .fight-it-panel input[type="text"] {
+    display: block;
+    width: 100% !important;
+    min-width: 0 !important;
+    min-height: 44px;
+    margin: 0 0 8px;
+    padding: 8px 9px;
+    font-size: 16px;
+  }
+
+  .fight-it-panel input[type="checkbox"] {
+    width: 22px;
+    height: 22px;
+    margin: 3px 8px 7px 0;
+  }
+
+  .fight-it-calc-button {
+    width: 100%;
+    min-height: 46px;
+    padding: 10px 14px;
+    font-size: .82rem;
+  }
+
+  .fight-it-results-grid {
+    gap: 9px;
+  }
+
+  .fight-it-result-primary,
+  .fight-it-result-detail {
+    padding: 10px;
+    min-height: 0;
+  }
+
+  .fight-it-results p {
+    font-size: .78rem;
+    line-height: 1.45;
+  }
+}
