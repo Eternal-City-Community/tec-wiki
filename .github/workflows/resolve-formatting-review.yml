@@ -1,0 +1,41 @@
+name: Resolve formatting review
+
+on:
+  push:
+    paths:
+      - "tools/resolve_formatting_review.py"
+      - ".github/workflows/resolve-formatting-review.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: resolve-formatting-review
+  cancel-in-progress: true
+
+jobs:
+  resolve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Resolve safe manual-review items
+        run: python tools/resolve_formatting_review.py
+      - name: Rerun formatting audit
+        run: python tools/fix_formatting_artifacts.py
+      - name: Commit fixes and report
+        run: |
+          git config user.name "tec-wiki-audit"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs FORMATTING_SWEEP.md
+          if git diff --cached --quiet; then
+            echo "No review changes."
+          else
+            git commit -m "Resolve remaining formatting review items"
+            git pull --rebase origin main
+            git push
+          fi
