@@ -53,8 +53,7 @@ To get onto the ship, there will be a section of the cliffwalk path that has 3 t
 
 If you carry loot out and it is heavy, you will sink. The trick to this is, Remove the sacks of loot and carry them in your hand. When you swim out, swim south, northeast and then drop the sacks. When you swim Up from this room, your loot sacks will float up after a few seconds. Grab the sacks, toss them northeast (to the middle of the 3 tiny squares mentioned earlier) , then swim northeast and you will be back on land with your loot at your feet.
 
-<a id="Outer"></a>
-### Outer Area
+### Outer Area {#Outer}
 
 This area is geared towards the **lower-mid tier**, but has frequent spawns and can swarm a bit if not careful.
 
@@ -65,9 +64,7 @@ This area is geared towards the **lower-mid tier**, but has frequent spawns and 
 
 **Notable Loot**: [occasional] Bronze dagger, tin dagger, leather armor.
 
-
-<a id="Ship"></a>
-### Wrecked Ship
+### Wrecked Ship {#Ship}
 This area is geared towards the **mid tier**. It has regular spawns and can swarm a bit if not careful.
 
 

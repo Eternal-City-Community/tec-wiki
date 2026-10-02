@@ -10,8 +10,7 @@ category: "Reference"
 
 Those marked with ??? at the end need to be verified.
 
-<a id="Buyers"></a>
-## Buyers
+## Buyers {#Buyers}
 ### Carcass Buyers
 * **Caprarius** ([Transinvexium](/transinvexium/))
 * **Jalgris** ([Vetallun](/town-of-vetallun/))
@@ -33,9 +32,7 @@ Those marked with ??? at the end need to be verified.
 * Nornius ([Blackvine](/village-of-blackvine/))
 * Flumen ([Seld](/village-of-seld/))
 
-
-<a id="Gem-Buyer"></a>
-### Gem Buyers
+### Gem Buyers {#Gem-Buyer}
 * Mondan ([Forum](/forum/))
 * Orphilius ([Quartz Heights](/quartz-heights/))
 * Corthina ([City of Monlon](/city-of-monlon/))
@@ -76,9 +73,7 @@ Those marked with ??? at the end need to be verified.
 * **Concinnant** [Bronze | Iron] ([Seld](/village-of-seld/))
 * Grindla [Non-rare metals] ([Blackvine](/village-of-blackvine/))
 
-
-<a id="Inns"></a>
-## Innkeepers
+## Innkeepers {#Inns}
 * Julian (Stone Toga Inn, [Riverside](/riverside/))
 * Volucer (Step Back Inn, [Riverside](/riverside/))
 * Battulus (Anlea's Rest, [Forum](/forum/))
@@ -119,8 +114,8 @@ Those marked with ??? at the end need to be verified.
 
 
 ## Recovery
-<a id="Baths"></a>
-### Baths
+
+### Baths {#Baths}
 * Hillus (Riverside Baths, [Riverside](/riverside/))
 * Laum (Corralarium, [Sandbar](/sandbar/))
 * Rayna ([Monlon](/monlon/))
@@ -139,8 +134,7 @@ Those marked with ??? at the end need to be verified.
 * Mortima ([Franlius](/town-of-franlius/))
 * Hathrus ([Vetallun](/town-of-vetallun/))
 
-<a id="Healers"></a>
-### Healers
+### Healers {#Healers}
 * Melilia ([Gardens and Hospice](/gardens-and-hospice/))
 * Sinon ([Town of Rock Valley](/town-of-rock-valley/))
 * Cipus ([City of Monlon](/city-of-monlon/))
@@ -148,8 +142,7 @@ Those marked with ??? at the end need to be verified.
 * Tullaria ([Franlius](/town-of-franlius/))
 * Vai'Ran ([Blackvine](/village-of-blackvine/))
 
-<a id="Vendors"></a>
-## Vendors
+## Vendors {#Vendors}
 ### Reputation
 * Fama ([Vetallun](/town-of-vetallun/))
 * Romulus ([Monlon](/monlon/))
@@ -173,9 +166,7 @@ Those marked with ??? at the end need to be verified.
 * Jovinus (bronze, [City of Monlon](/city-of-monlon/)) ???
 * Lepidus (Iron, [City of Monlon](/city-of-monlon/)) ???
 
-
-<a id="property"></a>
-## Property
+## Property {#property}
 * Elus (Transfer of Property, [Forum](/forum/))
  * See [Property Transfers](/property/#transfers)
 

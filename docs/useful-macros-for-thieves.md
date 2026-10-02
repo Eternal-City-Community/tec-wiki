@@ -5,9 +5,7 @@ category: "Reference"
 
 # Useful Macros For Thieves
 
-<a id="Top"></a>
-
-### Table of Contents
+### Table of Contents {#Top}
 
 * [How to Create A Macro](#Intro)
  * [What is a Macro](#Whatis)
@@ -19,18 +17,15 @@ category: "Reference"
 * [Random But Useful Macros](#Random)
 * [Closing Notes](#Conclusion)
 
-<a id="Intro"></a>
-### How to Create a Macro
+### How to Create a Macro {#Intro}
 
 First, for those of us that aren't all that familiar with macros in TEC or how they work, I felt a quick and broad overview of how to create and use macros would be very beneficial. For those of you that know your way around the macro system, feel free to skip on down to [The Essentials](#Essentials).
 
-<a id="Whatis"></a>
-#### What is a Macro
+#### What is a Macro {#Whatis}
 
 A macro is essentially a shortcut for a longer command. For instance, one of the macros that we will be creating today is for the command "lift pouch from <target>". While this is not an overly verbose command, it takes a lot longer to type out than the macro version of it - "lt". Stealing is all about efficiency and ease, the less time I spend typing, the more time I can spend watching for movement near me.. or checking how much wealth I've managed to steal so far. Macros also reduce the chance of mistyping a command at a crucial moment. For instance, if you spot a constable character moving toward you and you've still got a pouch in hand, typing dp instead of discard pouch is far easier under pressure. Follow it up with a quick y to confirm discarding it and voila, evidence properly disposed of - hopefully before the constable walks in on you.
 
-<a id="Menu"></a>
-#### The Macro Menu
+#### The Macro Menu {#Menu}
 
 In order to make a macro, we first need to access the menu for controlling macros and macro sets. Do so by typing the command "@macro" and you should see the following screen:
 
@@ -237,13 +232,12 @@ Proper use of macros will make your life in TEC a thousand times easier, and sav
 [Back to Top](#)
 
 ---
-<a id="Essentials"></a>
-### The Essentials
+
+### The Essentials {#Essentials}
 
 Now that we've gone over the basics of how to add a macro and make a macro set, we're going to go into the basic macros that form the basis for all of the more advanced macros we're going to use. The first set of macros is to help you manage which marks you're working and easily switch between them as you please, thus I refer to them as targeting macros.
 
-<a id="Targeting"></a>
-#### Targeting Macros
+#### Targeting Macros {#Targeting}
 
 The first macro we are going to set up is lft, which expands to look for <target>. This utilizes the @mtarg command to look for whatever you specify as your target. We could leave it at that, but then you're still typing out @mtarg prostitute if you want to steal from prostitutes now aren't you? That just isn't efficient enough for a proper thief, no sir! Here's how we're going to set up our targeting macros:
 
@@ -259,8 +253,7 @@ The first macro we are going to set up is lft, which expands to look for <target
 
 I'm sure by now you've figured out the form that we're using. A shortened version of the marks name expands out to an @mtarg macro for that particular mark. It saves time and lets you change targets quickly whenever you want to. Also, @mtarg will be used for all further macros in this guide, so doing this properly is very, very important. Coincidentally, for those warrior types out there, you could just as easily use this method for hunting grounds (ex. treehouse: @mtarg man|brigand|archer).
 
-<a id="Movement"></a>
-#### Movement Macros
+#### Movement Macros {#Movement}
 
 Now that we have our targeting macros in place, we need to set up the macros to let us get up next to the mark quickly, and if you know a thing or two beyond the basics, get away from them quickly as well. The following are some useful movement macros:
 
@@ -275,8 +268,7 @@ Now that we have our targeting macros in place, we need to set up the macros to 
 
 It should also be noted that you can use the retreat command, or its shortened form of ret without the need for any macro at all. I've added a few non-standard macros in there, if you don't know what they do or what they're used for, well you'd better make friends with some more skilled folk to find out. I can't give you all the secrets outside the game after all.
 
-<a id="Setups"></a>
-#### Setup Macros
+#### Setup Macros {#Setups}
 
 There are a number of useful setup maneuvers that we can put to use before actually stealing from the target, like using ear for coin to find out if they've even got enough coin on them to bother over. Here is the short macros for some of the more common skills, and some of the less common ones for those in the know.
 
@@ -291,8 +283,7 @@ There are a number of useful setup maneuvers that we can put to use before actua
 
 It may or may not be common knowledge, but having a three move rotation for a non-combat skillset will maximize your sp gain per move. So it would be very much worth your while to ground approach the mark, coin them, then spook them for an easy three moves in setups. This is also possible with pickpocketing, if you know the right sort of people to learn some additional maneuvers from.
 
-<a id="Theft"></a>
-#### Theft Macros
+#### Theft Macros {#Theft}
 
 Now for the really fun ones - stealing stuff! After all, the thrill of that next big mark is what drives us right? Let's get down to business and make the macros that make us the coin we crave so much.
 
@@ -313,8 +304,8 @@ Unfortunately, there is no easy macro for grabbing items since the items to be g
 [Back to Top](#)
 
 ---
-<a id="Random"></a>
-### Random But Useful Macros
+
+### Random But Useful Macros {#Random}
 
 There are still a few useful macros for a thief to know that don't exactly fall into the standard categories we have above, so I'll throw them below for your use and enjoyment!
 
@@ -345,7 +336,7 @@ It's okay to be paranoid, really. You are a thief after all. You know what it's 
 [Back to Top](#)
 
 ---
-<a id="Conclusion"></a>
-### Closing Notes
+
+### Closing Notes {#Conclusion}
 
 I hope you have enjoyed this guide and found its contents useful. Macros are truly a very powerful aspect of TEC and when used properly they can make playing vastly easier, as well as enhancing RP by giving you a canvas of emotes available with the use of a single keyword. Learn them, use them, love them, and most of all have fun out there!

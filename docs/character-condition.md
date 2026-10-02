@@ -27,14 +27,12 @@ These are useful commands for staying aware of your **character's current state*
 
 See the full list of [commands](/commands/).
 
-<a id="HP"></a>
-### Health Points
+### Health Points {#HP}
 Health Points (HP) measure how much damage your character can sustain before becoming incapacitated. The amount of HP you have is determined by your [Endurance](/stats/#Endurance) stat.
 
 Each inflicted wound can cause damage to your HP, and if your HP falls below 0, your character will fall unconscious. Some traits, like [Iron Will](/traits/#IronWill), can modify this threshold.
 
-<a id="Coma"></a>
-#### Coma
+#### Coma {#Coma}
 If your character's HP falls below zero, they will fall unconscious. If the damage is severe enough, they may fall into a coma. The threshold for falling into a coma is typically the negative value of your maximum health points, meaning that if you have a maximum of 100 HP, you would fall unconscious at -1/100 HP and fall into a coma at -100/100 HP.  The threshold for falling into a coma can be changed with certain traits, such as [Vitality](/traits/#Vitality). 
 
 There is also a **[PvP#coma](/pvp/#coma) means to bypass the threshold** and immediately enter an unconscious person into a coma using the **kill** command on them.
@@ -45,14 +43,12 @@ Once you've recovered from a coma, you will suffer from coma sickness, which tem
 
 For more information on Comas and Coma Sickness, consult the ?coma help file in-game.
 
-<a id="Nourishment"></a>
-### Nourishment
+### Nourishment {#Nourishment}
 In order to maintain good health, your character must eat and drink water regularly. Your need for nourishment increases as you spend more time in the city, and hunger can cause your stomach to rumble audibly.
 
 To check your level of fullness, use the condition or satiation commands in-game.
 
-<a id="Hunger"></a> <a id="Satiation"></a>
-#### Hunger
+#### Hunger {#Satiation}
 Different types of food will fill you up to varying degrees. As you become hungrier, you will receive notifications of hunger or a rumbling stomach, some of which can be heard by others.
 
 | Levels of Satiation |
@@ -67,8 +63,7 @@ Different types of food will fill you up to varying degrees. As you become hungr
 | Famished |
 | Starving to death (causing -5 HP and -5% fatigue per tick) |
 
-<a id="Thirst"></a>
-#### Thirst
+#### Thirst {#Thirst}
 Drinking water is essential for staying healthy. To check your level of thirst, use the condition command in-game.
 
 Consuming large amounts of alcohol can make your character drunk to the point of slurring their speech and stumbling around. When your character is drunk, you may notice temporary changes to their [statistics](/stats/).
@@ -86,9 +81,7 @@ Consuming large amounts of alcohol can make your character drunk to the point of
 
 Remember to keep your character fed and hydrated to avoid negative consequences!
 
-
-<a id="Load"></a>
-### Encumbrance
+### Encumbrance {#Load}
 
 Encumbrance, or the weight your character is carrying, affects both their fatigue drain and combat performance. The maximum amount of weight your character can carry depends on their [strength](/stats/).
 
@@ -106,8 +99,7 @@ Encumbrance, or the weight your character is carrying, affects both their fatigu
 
 For more information on combat RB penalty, see [Combat Overview](/combat-overview/).
 
-<a id="Wounds"></a>
-### Wounds
+### Wounds {#Wounds}
 
 Wounds inflicted on your character can be classified as cutting, piercing, bruising, or burning*. Each type of wound has different levels of severity, from minor to potentially disabling. Wounds can stack up, and taking enough damage to a limb or body part can affect your character's movement and combat abilities.
 
@@ -123,9 +115,7 @@ Wounds inflicted on your character can be classified as cutting, piercing, bruis
 | Level 4 | Severe cut | Severe puncture | Major bruise | Severe burn |
 | Level 5 | Devastating cut | Gaping wound | Fracture | ??? |
 
-
-<a id="Bleeding"></a>
-#### Bleeding
+#### Bleeding {#Bleeding}
 
 During combat, your character may sustain bleeding wounds (or bleeders) if they are hit with a critical hit, particularly from cutting or piercing attacks. Some skills, such as CKF Face Slash, can also cause bleeding wounds upon a successful attack.
 
@@ -141,8 +131,7 @@ The severity of bleeding wounds varies and can range from slowly oozing blood to
 
 **The amount of HP lost is listed "per bleed". The frequency a bleeding wound might bleed could be as little as once a minute or as often as once every few seconds. The severity of HP loss can be impacted by the selection certain traits, such as [Bleeder](/traits/#bleed) & [Aversion to Pain](/traits/#AtP).*
 
-<a id="Fatigue"></a>
-### Fatigue
+### Fatigue {#Fatigue}
 
 Fatigue represents how tired your character is and ranges from 100% (fully rested) to -50% (exhausted to the point of collapse). Every action you take requires fatigue, but some actions have a more noticeable impact than others. Your exact level of fatigue can be viewed using the stats and sstats commands, while the condition command provides a general "level of fatigue."
 
@@ -161,21 +150,18 @@ After reaching a completely exhausted level of fatigue, your character's success
 
 Important Note: Fatigue is one of the only things that can increase while your character is asleep. If you rest in a rented inn room or a flop house, you can regain fatigue, though at a slower rate, even while asleep.
 
-<a id="Sanity"></a>
-### Sanity
+### Sanity {#Sanity}
 
 Sanity levels are impacted by various actions, such as praying to shrines or performing magic. You can check your sanity level by typing the condition command, which will only display if your sanity is not at normal levels.
 
-<a id="Recovery"></a>
-### Recuperation
+### Recuperation {#Recovery}
 Your character naturally recovers from fatigue and restores HP over time. Certain actions and locations can help increase recovery rates.
 
 Laying down increases the rate at which you recover from fatigue.
 
 Certain locations like warm and cold baths, as well as inn rooms and flophouses, can increase your fatigue recovery rate. In fact, you can even recover your character's fatigue while sleeping in an inn room or flophouse.
 
-<a id="Position"></a>
-### Position
+### Position {#Position}
 Your character can be in a variety of positions, such as sitting or laying down. Being in any position other than standing is known as being prone.
 
 When you are prone, you will suffer a penalty to your stats, with the exception of the Wrestler trait.
@@ -192,8 +178,7 @@ To receive healing, you must be in a prone position for a healer to tend to you.
 | Sitting | Penalty |
 | Laying | Penalty |
 
-<a id="Lighting"></a>
-### Lighting
+### Lighting {#Lighting}
 
 The level of lighting in an area can affect your ability to see and may even result in penalties when trying to perform certain actions that require visibility.
 
@@ -205,9 +190,7 @@ The level of lighting in an area can affect your ability to see and may even res
 | Difficult to see | The area is very dark, making it difficult to see. |
 | Almost impossible to see | The area is pitch black, making it almost impossible to see. |
 
-
-<a id="Temperature"></a>
-### Body Temperature
+### Body Temperature {#Temperature}
 Body temperatures do...
 
 | Lighting Level |

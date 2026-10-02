@@ -7,7 +7,7 @@ category: "Skills & Combat"
 
 Hunting Grounds Version 1 by Aoden:
 
-#### Preface <a id="Preface"></a>
+#### Preface {#Preface}
  
 This volume is intended as a complete technical price guide of the various bestial hunting grounds available to an Iridinian hunter. This guide has been compiled with flawless cuts sold by a respected and skilled broker at the most generous carcass buyer. With those factors in mind, personal experience may vary. Of specific note, the heads of all beasts require careful handling and are worth significantly less when skinned by any other than a true master. Also of note, many animals manage to collect precious stones in their stomachs. These will not be noted in the listings. Rats, spiders, hounds, and other small vermin are the 
 common suspects.
@@ -20,7 +20,7 @@ The difficulty and profitability of each area is entirely subjective and based o
 Aoden Muisech
 
 ---
-#### Table of Contents <a id="ToC"></a>
+#### Table of Contents {#ToC}
  
   1)  [Preface](#Preface)
   2)  [Table of Contents](#ToC)
@@ -82,7 +82,7 @@ Aoden Muisech
   40) [Oddities](#Oddities)
 
 ---
-#### Signal Tower Island <a id="STI"></a>
+#### Signal Tower Island {#STI}
  
 Commonly referred to as "the Island", this area is a good choice for the first 
 area any new fighter should visit. Small and weak vermin wander the large island 
@@ -132,7 +132,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Riverside Sewers - Entrance <a id="Sewers1"></a>
+#### Riverside Sewers - Entrance {#Sewers1}
  
 The sewers can be divided into three areas, which are roamed by different 
 beasts. The entrance of the sewers is the natural progression from the Island, 
@@ -172,7 +172,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Riverside Sewers - South <a id="Sewers2"></a>
+#### Riverside Sewers - South {#Sewers2}
  
 Follow the directions to reach the sewer entrance. After that, follow the path
 in the generally eastern and southeastern direction. Once you reach a three-way
@@ -203,7 +203,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Riverside Sewers - Southeast <a id="Sewers3"></a>
+#### Riverside Sewers - Southeast {#Sewers3}
  
 Follow the directions to reach the sewer entrance. After that, follow the path 
 in the generally eastern and southeastern direction. Once you reach a three-way 
@@ -268,7 +268,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Iridine City Dumps <a id="Dumps"></a>
+#### Iridine City Dumps {#Dumps}
  
 The city dumps, located just outside the walls, is the final home of much of 
 the city’s solid refuse. All of this trash understandably attracts swarms of
@@ -314,7 +314,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Colosseum Pits <a id="Pits"></a>
+#### Colosseum Pits {#Pits}
  
 A gaping pit has opened next to the Colosseum foundation, opening an entrance to
 long-buried ruins of a street and the surrounding buildings. Rats now swarm the
@@ -340,7 +340,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Under the Boardwalk <a id="Boardwalk"></a>
+#### Under the Boardwalk {#Boardwalk}
  
 The southwest edge of Quartz Heights is adorned with a boardwalk elevated off
 of the beachfront. While the boardwalk is home to colorful shops and delicious 
@@ -369,7 +369,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Old City - Moondeep <a id="OldCity"></a>
+#### Old City - Moondeep {#OldCity}
  
 Moondeep is an ancient burial ground in the Old City, which is rumored to be
 the original center of Iridine. Now that it has fallen to ill-repair, snakes,
@@ -413,7 +413,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Harbor Sea Caves <a id="SeaCaves"></a>
+#### Harbor Sea Caves {#SeaCaves}
  
 The harbor sea caves are a natural set of caverns carved into the sea cliffs by
 an ancient underground river. The river has since disappeared, but the caverns
@@ -470,7 +470,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Old City Tunnels <a id="OCT"></a>
+#### Old City Tunnels {#OCT}
  
 A set of tunnels frequented by lunatics and heretics exists east of Moondeep,
 under a broken structure. Large carrion snakes and scythe bugs roam the tunnels
@@ -514,7 +514,7 @@ Crazy Men / Ravanite Soldiers (No valuable parts)
 [Back to Table of Contents](#ToC)
 
 ---
-#### Iridine Steps Sewers <a id="SSewers"></a>
+#### Iridine Steps Sewers {#SSewers}
  
 The sewers below the Steps are unfortunately in ill-repair. The lack of good
 maintenance leads to regular blockages that cause flooding and provides ample
@@ -570,7 +570,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Franlius Sewers <a id="FSewers"></a>
+#### Franlius Sewers {#FSewers}
  
 The Franlius sewers weave under the war-torn streets. The usual excreta is the 
 least of an adventurer’s concerns, as the Cinerans use the locale as a prison.
@@ -602,7 +602,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Rock Valley Alleys <a id="RVAlleys"></a>
+#### Rock Valley Alleys {#RVAlleys}
  
 Every growing town eventually finds itself with a vermin and feral animal
 population. Rock Valley has grown into those pains and this specific stretch
@@ -633,7 +633,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Rock Valley Dumps <a id="RVDumps"></a>
+#### Rock Valley Dumps {#RVDumps}
  
 The Rock Valley dumps is where all refuse created in the town or Rock Valley
 is eventually piled into wagons and shipped to. Here the garbage rots in the
@@ -751,7 +751,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Fenri-Gifr Ruins - Meadow <a id="RVRuins"></a>
+#### Fenri-Gifr Ruins - Meadow {#RVRuins}
  
 The Fenri-Gifr ruins is an ancient, desolate temple deep in the grasslands of 
 the valley. The meadow surrounding it is dotted with burrows of large lizards 
@@ -786,7 +786,7 @@ Profit:     5/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Burial Grounds <a id="BG"></a>
+#### Burial Grounds {#BG}
  
 The burial grounds is a graveyard of heroes from a bygone era. At the far end
 of a sweltering, steamy cave system and a cliff-side trek lies a mausoleum
@@ -816,7 +816,7 @@ Profit:     3/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Broken Tower <a id="BT"></a>
+#### Broken Tower {#BT}
  
 This broken tower stands on the crest of a hill in the center of the valley. Its
 ruined halls spiral up the tower and are lined with puzzling traps. A keen mind
@@ -842,7 +842,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Resting Place - Entrance <a id="RP1"></a>
+#### Resting Place - Entrance {#RP1}
  
 The resting place is a dangerous cave system that has recently been bolted
 closed. The mysteries residing inside will fortunately not lure any new
@@ -887,7 +887,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Burnt Villa <a id="Villa"></a>
+#### Burnt Villa {#Villa}
  
 North of the city lies a burnt villa next to its burnt fields. Some time after
 the villa’s unfortunate fate, large insects have begun nesting in its basement.
@@ -930,7 +930,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Spider Caverns <a id="Caverns"></a>
+#### Spider Caverns {#Caverns}
  
 Just northwest of the Traevent Militia’s fort, the spider caverns are an 
 immense web of twisting caverns underneath the grasslands. As the name suggests, 
@@ -972,7 +972,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Swamp Mansion <a id="Mansion"></a>
+#### Swamp Mansion {#Mansion}
  
 At the far north edge of the swamp, an abandoned mansion has been swallowed by
 the muck. Bats, rats, and swamp snakes can be found here. The northeast corner
@@ -1011,7 +1011,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Swamp Vale <a id="Vale"></a>
+#### Swamp Vale {#Vale}
  
 The swamp vale is a small, densely-fogged depression surrounding a sulfurous
 pond. The extremely dense vegetation and climate attracts alligators, small
@@ -1069,7 +1069,7 @@ Profit:     3/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Spider Temple <a id="SpiderTemple"></a>
+#### Spider Temple {#SpiderTemple}
  
 Very deep inside the Oak Forest is hidden an underground complex that I will
 refer to as the Spider Temple. Some unfortunate soul intended to use the 
@@ -1102,7 +1102,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Monlon Catacombs <a id="Catacombs"></a>
+#### Monlon Catacombs {#Catacombs}
  
 An expansive catacombs exists under the Monlon Temple. While the area was once
 overrun by large lizards, the Temple has since resolved the infestation and 
@@ -1126,7 +1126,7 @@ Profit:     1/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Monlon Mines - First Level <a id="Mines1"></a>
+#### Monlon Mines - First Level {#Mines1}
  
 The northeast edge of Monlon adjoins a mine. The mine is open to the public and
 is a good source of income for miners and beast hunters. A pick can be purchased
@@ -1165,7 +1165,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Monlon Mines - Second Level <a id="Mines2"></a>
+#### Monlon Mines - Second Level {#Mines2}
   
 Difficulty: 2/5
 Profit:     2/5
@@ -1202,7 +1202,7 @@ Profit:     2/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Monlon Mines - Third Level <a id="Mines3"></a>
+#### Monlon Mines - Third Level {#Mines3}
    
 Difficulty: 3/5
 Profit:     3/5
@@ -1247,7 +1247,7 @@ Profit:     3/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Monlon Barracks <a id="Barracks"></a>
+#### Monlon Barracks {#Barracks}
  
 There is an abandoned barracks to the northwest of Monlon, at the end of a
 rocky trail people dub the rockslide. The barracks has become the refuge of the
@@ -1290,7 +1290,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Rats <a id="Rats"></a>
+#### Rats {#Rats}
  
 **Large brown rat**
   You see a depiction of a filthy specimen of city vermin. The rodent has a 
@@ -1330,7 +1330,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Other Vermin <a id="Vermin"></a>
+#### Other Vermin {#Vermin}
  
 **Osecar**
   You stare at an illustration of a small wild-eyed animal which is about a foot 
@@ -1373,7 +1373,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Mammals <a id="Mammals"></a>
+#### Mammals {#Mammals}
  
 **Alley dog**
   You see a depiction of a ragged-looking canine that seems to have been crossed 
@@ -1417,7 +1417,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Snakes <a id="Snakes"></a>
+#### Snakes {#Snakes}
  
 **Sewer snake**
   You see the curving visage of a sewer snake. The stream-lined snake looks to be 
@@ -1477,7 +1477,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Other Reptiles <a id="Reptiles"></a>
+#### Other Reptiles {#Reptiles}
  
 **Saltwater snapper**
   You see a picture of a thick-shelled turtle about four feet in length. Its skin 
@@ -1519,7 +1519,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Beetles <a id="Beetles"></a>
+#### Beetles {#Beetles}
  
 **Carrion beetle**
   You look down at the drawing of a narrow beetle that is about the size of a 
@@ -1557,7 +1557,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Spiders and Crabs <a id="Legs"></a>
+#### Spiders and Crabs {#Legs}
  
 **Gigantic spider**
   The arachnid depicted here is simply enormous, measuring in at about three feet 
@@ -1600,7 +1600,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Other Insects <a id="Insects"></a>
+#### Other Insects {#Insects}
  
 **Giant wasp**
   You sight a drawing of a sizable wasp which has a thick fur coat along its 
@@ -1644,7 +1644,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Birds <a id="Birds"></a>
+#### Birds {#Birds}
  
 **Angry gull**
   You see a sketch of a large, dirty seagull. Its feathers are filthy and it looks 
@@ -1665,7 +1665,7 @@ Profit:     4/5
 [Back to Table of Contents](#ToC)
 
 ---
-#### Oddities <a id="Oddities"></a>
+#### Oddities {#Oddities}
   
 **Chaulidodus sloani**
   You see an attentive drawing of a four-legged creature with a long, slender 

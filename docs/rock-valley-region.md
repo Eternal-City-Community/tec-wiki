@@ -43,8 +43,7 @@ For a recounting on Iridine major history with the tribes of Rock Valley, see [J
 ### Surrounding Barbarian Tribes
 There are 3 main tribes surrounding the town of Rock Valley.
 
-<a id="Aziri"></a>
-#### The Aziri Tribe
+#### The Aziri Tribe {#Aziri}
 
 The Aziri tribe are the most primitive of the 3 main tribes. The Aziri live in the mountains situated in the northeast region of Rock Valley. They 'disappear' during the day and they come out when the sun sets, which makes them quite the fearsome enemies. The Aziri seem to be affiliated with the Nehal since they both share a burial ground which is guarded by sacred fiery hounds and many other odd creatures.
 
@@ -54,9 +53,7 @@ The Aziri mostly use daggers, made of bone, bronze or iron, and some black shiel
 
 From information gathered from non-official sources, the Aziri are said to make rituals of various sorts. Some of which may give them strength and willpower. Cannibalism may be one of those. This tribe is definitely mysterious. 
 
-
-<a id="Lokeen"></a>
-#### The Lokeen Tribe
+#### The Lokeen Tribe {#Lokeen}
 
 The Lokeen tribe has existed for a long time within the Rock Valley region, it is hard to estimate how long they have established themselves there. It is rumored that the Lokeen tribe only exists to cause problems and wars. The Lokeen tribe isn't associated with the other tribes in Rock Valley, both the Aziri and the Nehal seem to dislike the Lokeen due to their thirst for conflicts.
 
@@ -68,9 +65,7 @@ The tribe speaks a language that both the Nehal and Aziri seem to be able to und
 
 The Lokeen are supposedly causing so many conflicts because they wish to have power and rule over the lands in Rock Valley. Their numbers are unknown, but from personally experience I can honestly estimate their population to easily be of several thousands.
 
-
-<a id="Nehal"></a>
-#### The Nehal Tribe
+#### The Nehal Tribe {#Nehal}
 
 The Nehal tribe are known for their **fearsome warriors**, but they are also the **most intellectual barbarians** that can be found in Rock Valley. They are currently **allied with the Republic**, but they are considering war with it due to some struggles and conflicts of various natures.
 
@@ -101,8 +96,7 @@ More **information on the history** between Iridine & Rock Valley can be found i
 
 ### Points of Interest 
 
-<a id="TownOfRV"></a>
-#### Town of Rock Valley
+#### Town of Rock Valley {#TownOfRV}
 Small community built around a disgraced ex-Senator.
 
 More information about the **[Town of Rock Valley](/town-of-rock-valley/)**.
@@ -113,9 +107,7 @@ These ruins are situated east of the tall tower, or if you'd prefer, directly so
 
 The place is now mostly safe, baring a few **blischa'ag** and **schtraffeg** here and there. Two pictures can be seen in the Fenri'Gifr ruins, one on each side of the podium, on the lower level near the arches. These images bring curious thoughts as to what was this place and who were the Fenri'Gifr people.
 
-
-<a id="Resting-Place"></a>
-#### The Resting Place
+#### The Resting Place {#Resting-Place}
 
 From the Tower of Heavens, you will have to head a little ways to the southwest, but mostly to the south in order to find this place. It isn't very hard to find, the hole is big enough to be seen from far away.
 
@@ -129,9 +121,7 @@ Once you reach the end of this lower level, you will be able to go down to anoth
 
 [Tears](/contraband/#Tears) can be found in this area.
 
-
-<a id="Burial-Grounds"></a>
-#### The Burial Grounds
+#### The Burial Grounds {#Burial-Grounds}
 
 These grounds can be found within the Aziri territory, in the mountains to the northeast of the village of Rock Valley. These mountains are renown for being quite dangerous.
 
@@ -141,15 +131,11 @@ These burial grounds were built by the Aziri. You will find danger and odd creat
 
 [Tears](/contraband/#Tears) can be found in this area.
 
-
-<a id="Broken-Tower"></a>
-#### Broken Tower
+#### Broken Tower {#Broken-Tower}
 ...
 [Tears](/contraband/#Tears) can be found in this area.
 
-
-<a id="Stromheim"></a>
-#### Stromheim
+#### Stromheim {#Stromheim}
 This is a very simple village, with people of few professions. It is located by the second mountain to the northeast of Rock Valley. 
 
 More information about the **[Village of Stromheim](/village-of-stromheim/)**.

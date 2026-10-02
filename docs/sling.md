@@ -53,10 +53,7 @@ Sling Missile Weapons can use a wide array of ammunition types to hit targets wi
 | Iron Bullet | It has a decent weight to it and would be serviceable on the battlefield. | [monlon-kelestian-outpost](/monlon-kelestian-outpost/) (Kavacu) |
 | Lead Bullet | It has the weight and density to be deadly in combat. | [monlon-kelestian-outpost](/monlon-kelestian-outpost/) (Kavacu) |
 
-
-<a id="basic-throw"></a>
-
-### Basic Throw  *sling <target>*
+### Basic Throw  *sling <target>* {#basic-throw}
 
 The most basic sling maneuver. Can only be used in the same square as the target.
 
@@ -68,10 +65,7 @@ A tall Kelestian menace whips his sling and releases a bullet at you!
 
 </div>
 
-
-<a id="arcing-throw"></a>
-
-### Arcing Sling Throw  *slingarc <target>*
+### Arcing Sling Throw  *slingarc <target>* {#arcing-throw}
 
 Description
 
@@ -83,10 +77,7 @@ A tall Kelestian menace tilts his arm back and whips his sling up at an angle, t
 
 </div>
 
-
-<a id="snap-throw"></a>
-
-### Snap Sling Throw  *slingsnap <target>*
+### Snap Sling Throw  *slingsnap <target>* {#snap-throw}
 
 Description
 
@@ -98,10 +89,7 @@ A tall Kelestian menace snaps her sling forward and releases it quickly, throwin
 
 </div>
 
-
-<a id="focused-throw"></a>
-
-### Focused Sling Throw  *slingfocus <target>*
+### Focused Sling Throw  *slingfocus <target>* {#focused-throw}
 
 Description
 
@@ -113,10 +101,7 @@ A tall Kelestian menace takes careful aim before pitching his sling forward and 
 
 </div>
 
-
-<a id="underhand-throw"></a>
-
-### Underhand Sling Throw  *slingunder <target>*
+### Underhand Sling Throw  *slingunder <target>* {#underhand-throw}
 
 Description
 
@@ -128,10 +113,7 @@ A lithe Kelestian menace spins her sling low at her side before flinging it unde
 
 </div>
 
-
-<a id="sling-clobber"></a>
-
-### Sling Clobber  *slingclobber <target>*
+### Sling Clobber  *slingclobber <target>* {#sling-clobber}
 
 This is **melee attack** can only be performed with a **loaded sling**. This attack requires a heavy bullet.
 
@@ -145,10 +127,7 @@ A tall Kelestian menace gives their sling a wide spin before bringing the loaded
 
 </div>
 
-
-<a id="sling-stance"></a>
-
-### Slinger's Windup Stance  *windup*
+### Slinger's Windup Stance  *windup* {#sling-stance}
 
 The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
@@ -160,17 +139,11 @@ Deftly putting one foot back, a tall Kelestian menace swings his military sling 
 
 </div>
 
-
-<a id="sling-timing"></a>
-
-### Sling Throw Timing  *syntax*
+### Sling Throw Timing  *syntax* {#sling-timing}
 
 This skill functions similarly to Archery - Shot Timing. There is a 2% chance per rank to not hit friendly characters. At rank 50, there is still a 5% chance of hitting other players.
 
-
-<a id="ammo-evaluation"></a>
-
-### Sling Ammo Evaluation  *syntax*
+### Sling Ammo Evaluation  *syntax* {#ammo-evaluation}
 
 Description
 
@@ -182,10 +155,7 @@ See ammunition table above.
 
 </div>
 
-
-<a id="load"></a>
-
-### Speed Loading
+### Speed Loading {#load}
 
 **When you see this in use you see:**
 
@@ -195,10 +165,7 @@ A tall Kelestian menace quickly loads his military sling with twisting cords wit
 
 </div>
 
-
-<a id="steady-spin"></a>
-
-### Steady Spin  *syntax*
+### Steady Spin  *syntax* {#steady-spin}
 
 Description
 
@@ -210,10 +177,7 @@ This is a stat skill.
 
 </div>
 
-
-<a id="finger-grip"></a>
-
-### Finger Grip  *syntax*
+### Finger Grip  *syntax* {#finger-grip}
 
 Description
 
@@ -225,10 +189,7 @@ This is a stat skill.
 
 </div>
 
-
-<a id="wrap-block"></a>
-
-### Sling Wrap Block  *syntax*
+### Sling Wrap Block  *syntax* {#wrap-block}
 
 Description
 
@@ -240,10 +201,7 @@ waiting for info
 
 </div>
 
-
-<a id="graded-throwing"></a>
-
-### Graded Throwing  *syntax*
+### Graded Throwing  *syntax* {#graded-throwing}
 
 Description
 
@@ -255,10 +213,7 @@ This skill helps with throwing from a slope or hill.
 
 </div>
 
-
-<a id="long-range-throwing"></a>
-
-### Long Range Throwing  *syntax*
+### Long Range Throwing  *syntax* {#long-range-throwing}
 
 Description
 
@@ -270,10 +225,7 @@ This skill helps with throwing at range.
 
 </div>
 
-
-<a id="wind"></a>
-
-### Wind Compensation  *syntax*
+### Wind Compensation  *syntax* {#wind}
 
 Description
 

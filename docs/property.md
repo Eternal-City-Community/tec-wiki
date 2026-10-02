@@ -27,17 +27,14 @@ See the full list of [commands](/commands/).
 
 ### Property Types
 
-<a id="domus"></a>
-#### Domus
+#### Domus {#domus}
 A **new domus** may only be **purchased using [Story Points](/account/#StoryPointPurchases)**. You can purchase **an existing domus** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 A domus is intended to be a character's personal dwelling, not a store, or a bar, club house, art gallery, etc. as is commonly requested. 
 
 Requests to modify a domus so that it can serve a purpose other than a private dwelling will be denied.
 
-
-<a id="store"></a>
-#### Store
+#### Store {#store}
 A **new store** (aka shop) may only be **purchased using [Role Points](/account/#RolePointPurchases)**. You can purchase **an existing store** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 At any time, the owner can choose to **have any portion of the building open to the public**.
@@ -52,9 +49,7 @@ A standard Store includes:
 
 For more details on purchasing a **new property, see [Store Package](/rp-expenditure/#store)**.
 
-
-<a id="club-house"></a>
-#### Club House
+#### Club House {#club-house}
 A **new club house** may only be **purchased using [Role Points](/account/#RolePointPurchases)**. You can purchase **an existing club house** in-game from another player using in-game currency and the [transfer of property](#transfers) service.
 
 At any time, the owner can choose to **have any portion of the building open to the public**.
@@ -69,8 +64,7 @@ A standard Club House includes:
 
 For more details on purchasing a **new property, see [Club House Package](/rp-expenditure/#club-house)**.
 
-<a id="transfers"></a>
-### Property Transfers
+### Property Transfers {#transfers}
 Property can be bought/sold in-game directly between players. To do so, you can transfer the title of a property by visiting the **[transfer of property](/services/#property)** establishment, managed by **Elus**.
 
 **Read the plaque** within the establishment for instructions.

@@ -5,9 +5,7 @@ category: "World & Maps"
 
 # Town Of Franlius
 
-<a id="Top"></a>
-
-## Franlius
+## Franlius {#Top}
 
 One-time stronghold of a powerful southern [Cineran](/cinera/) warlord, Franlius was razed by the famous Iridine Consul Hadrios Calsuan. What's left is no more than a border town and military fort on the edge of tension. Much of the population is somewhat transient, people who recently walked away from their harsh Cineran lives and came to find better ones in the Republic.
 
@@ -48,9 +46,7 @@ City of Iridine: [Harbor](/harbor/)
 
 </details>
 
-
-<a id="Tiers"></a>
-### Points of Interest
+### Points of Interest {#Tiers}
 
 #### Combat Areas
 Franlius battleground, located to the north, border the Cineran army. They consist of 5 areas.
@@ -66,9 +62,7 @@ See [Franlius Battlegrounds](/hg-franlius/) for more details.
 
 [Back to Top](#)
 
-
-<a id="Reputation"></a>
-#### **XXXX** Imports
+#### **XXXX** Imports {#Reputation}
 
 **XXXX** sells rare items for the right amount of reputation. 
 

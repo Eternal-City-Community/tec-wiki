@@ -51,14 +51,9 @@ While this skill set can be optionally complemented by knowledge of [spears](/sp
 
 **short sturdy man (Blackvine)** will only teach you once you have enough [reputation#Franlius](/reputation/#Franlius).
 
+### Skill Details {#Subskill}
 
-<a id="Subskill"></a>
-### Skill Details
-
-
-<a id="hoplite"></a>
-
-### Hoplite Combat Stance  *hoplite*
+### Hoplite Combat Stance  *hoplite* {#hoplite}
 
 This stance gives a bonus to hoplite attacks as well as shield bashes, and is required to perform some hoplite maneuvers.
 
@@ -74,10 +69,7 @@ A gladiator is holding his spear to the side with a shield vertically before him
 
 </div>
 
-
-<a id="pthrust"></a>
-
-### Phalanx Thrust  *pthrust <target>*
+### Phalanx Thrust  *pthrust <target>* {#pthrust}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -90,10 +82,7 @@ With a deft twist, you drive your bronze-tipped spear underhanded into a gladiat
 
 </div>
 
-
-<a id="bjab"></a>
-
-### Bash and Jab  *bjab <target>*
+### Bash and Jab  *bjab <target>* {#bjab}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -107,10 +96,7 @@ Slamming your shield into a gladiator, you follow with a quick spear jab! He suf
 
 </div>
 
-
-<a id="shstab"></a>
-
-### Shielded Stab  *shstab <target>*
+### Shielded Stab  *shstab <target>* {#shstab}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -124,10 +110,7 @@ Using your shield to balance, you stab a gladiator twice with your spear! He suf
 
 </div>
 
-
-<a id="rthrust"></a>
-
-### Rising Thrust  *rthr?ust <target>*
+### Rising Thrust  *rthr?ust <target>* {#rthrust}
 
 * This attack can be aimed at the following regions: **high** *(default)*.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -141,10 +124,7 @@ Rising from a low crouch, you surge into a high stance and stab aggressively at 
 
 </div>
 
-
-<a id="drepel"></a>
-
-### Defensive Repel  *drep?el <target>*
+### Defensive Repel  *drep?el <target>* {#drepel}
 
 * This attack can be aimed at the following regions: **mid***(default)*.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -160,10 +140,7 @@ You push a gladiator with your shield, stepping back defensively while stabbing 
 
 </div>
 
-
-<a id="rbash"></a>
-
-### Rotating Bash  *rbash <target>*
+### Rotating Bash  *rbash <target>* {#rbash}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -176,10 +153,7 @@ You sling your bronze-tipped spear over your back, feint a stab at a gladiator, 
 
 </div>
 
-
-<a id="sadvance"></a>
-
-### Shielded Advance  *sadv?ance <target>*
+### Shielded Advance  *sadv?ance <target>* {#sadvance}
 
 * This attack can be aimed at the following regions: **mid***(default)*.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -193,10 +167,7 @@ You lift your shield high and charge forward, thrusting your spear at a gladiato
 
 </div>
 
-
-<a id="uthrust"></a>
-
-### Underhand Thrust  *uthrust <target>*
+### Underhand Thrust  *uthrust <target>* {#uthrust}
 
 * This attack can be aimed at the following regions: **high** *(default)*.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -209,10 +180,7 @@ You sweep your shield aside and thrust your spear upward at a gladiator with an 
 
 </div>
 
-
-<a id="sswing"></a>
-
-### Stab and Swing  *sswing <target>*
+### Stab and Swing  *sswing <target>* {#sswing}
 
 * This attack can be aimed at the following regions: **high**, **mid**, **low** *(default)*.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -226,10 +194,7 @@ With a bold lunge, you stab forward at a gladiator with your spear, then whip it
 
 </div>
 
-
-<a id="lthrust"></a>
-
-### Leaping Thrust  *lthrust <target>*
+### Leaping Thrust  *lthrust <target>* {#lthrust}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -242,10 +207,7 @@ You step to the side suddenly then leap into the air, striking a decayed recruit
 
 </div>
 
-
-<a id="swthrust"></a>
-
-### Sweep and Thrust  *swthr?ust <target>*
+### Sweep and Thrust  *swthr?ust <target>* {#swthrust}
 
 * This attack can be aimed at the following regions: **low***(default)*.
 * This attack **can be aimed** at specific (low) body parts, but the aiming has no functional effect. (The damaging follow-up strike will always be targeted at a random high body part.)
@@ -260,10 +222,7 @@ Reversing your grip, you swing your spear's haft in a low sweep at a gladiator a
 
 </div>
 
-
-<a id="schop"></a>
-
-### Spinning Chop  *schop <target>*
+### Spinning Chop  *schop <target>* {#schop}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -276,10 +235,7 @@ You swing your shield wide, rotate with it close, and chop your spearhead down a
 
 </div>
 
-
-<a id="wstrike"></a>
-
-### Whirling Strike  *wstrike <target>*
+### Whirling Strike  *wstrike <target>* {#wstrike}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -295,10 +251,7 @@ Crouching low, you swing your shield sideways and slash a gladiator with your sp
 
 </div>
 
-
-<a id="sthrust"></a>
-
-### Slam and Thrust  *sthrust <target>*
+### Slam and Thrust  *sthrust <target>* {#sthrust}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -312,10 +265,7 @@ You lunge forward, slamming your shield into a gladiator, then leap back off you
 
 </div>
 
-
-<a id="lstrike"></a>
-
-### Lunge and Strike  *lstrike <target>*
+### Lunge and Strike  *lstrike <target>* {#lstrike}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -331,10 +281,7 @@ You lunge forward with a swift spear stab at a gladiator! He suffers a severe pu
 
 </div>
 
-
-<a id="hfeint"></a>
-
-### Feint  *hfeint <target>*
+### Feint  *hfeint <target>* {#hfeint}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -347,10 +294,7 @@ You lean forward, feigning a stab at a gladiator with your bronze-tipped spear! 
 
 </div>
 
-
-<a id="sblock"></a>
-
-### Swinging Block  *n/a*
+### Swinging Block  *n/a* {#sblock}
 
 This block counters weapon traps as well as some attacks that shields are unable to defend against.
 
@@ -362,19 +306,13 @@ You twist your body to one side, aiming a crushing blow at a gladiator's chest w
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Hoplite Accuracy  *n/a*
+### Hoplite Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
-
-<a id="Grip"></a>
-
-### Hoplite Grip  *n/a*
+### Hoplite Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 

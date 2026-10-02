@@ -114,7 +114,5 @@ The current interim governor is **Paprius Aketoros**, who was appointed after th
 * The city is currently in the **midst of the [Monlon Invasion](/monlon-invasion/)**. Enemy [Kelestians](/kelestia/) surround the city and roam the streets at night.
 * Trainer to learn **[Spoken Kelestian](/languages/#Kelestian)**.
 
-
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 The [Monlon Vigiles](/monlon-vigiles/) are the local [lawkeepers](/law/#Lawkeepers) of the city, assisted by the local militia the [Monlon Volunteer Guard](/monlon-volunteer-guard/).

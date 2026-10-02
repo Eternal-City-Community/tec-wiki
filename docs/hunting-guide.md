@@ -40,8 +40,7 @@ Fishing is one of man's oldest ways of providing food for himself and others. Fr
 #### Creating Weapons
 By necessity or choice, a Hunter will sometimes create his own weapons or ammunition. Using materials around him, these can either save his life or fill it with frustration.
 
-<a id="Jobs"></a>
-### Jobs
+### Jobs {#Jobs}
 
 Krimalus Jobs
 

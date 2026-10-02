@@ -23,10 +23,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 
 > **Archive include:** [monlon_ravines](/monlon-ravines/)
 
-
-<a id="Tiers"></a>
-<a id="Tier1"></a>
-### Tier I - Tunnels
+### Tier I - Tunnels {#Tiers}
 
 
 **<u>Opponents</u>** 
@@ -49,9 +46,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 
 [Back to Top](#)
 
-
-<a id="Tier2"></a>
-### Tier II - Outside the Tunnels
+### Tier II - Outside the Tunnels {#Tier2}
 **<u>Opponents</u>** 
 * Kelestian Warrior *([Falcata](/falcata/))*
 * A Mercenary *([Chainblade](/chainblade/) | [Falcata](/falcata/))*
@@ -77,38 +72,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 
 [Back to Top](#)
 
-
-<a id="Tier3"></a>
-### Tier III - North-East Section
-
-**<u>Opponents</u>** 
-* Kelestian Warrior *([Falcata](/falcata/))*
-* A Mercenary *([Chainblade](/chainblade/) | [Falcata](/falcata/))*
-* Kelestian Raider *([Falx](/falx/))*
-* Kelestian Tunneler *([2HA](/two-handed-axes/))*
-* Kelestian Servitor *([Hammer](/one-handed-crushing/))*
-* Kelestian Contemplative *([Staves](/staves/))*
-
-
- 
-
-
-<u>**Loot**</u>
-* a katitra with (bronze|tin|stone) plates
-* (**iron***|bronze|tin|stone)-plated Kelestian nagoda
-
-
- 
-
-
-**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
-
-
-[Back to Top](#)
-
-
-<a id="Tier4"></a>
-### Tier IV - Rafters
+### Tier III - North-East Section {#Tier3}
 
 **<u>Opponents</u>** 
 * Kelestian Warrior *([Falcata](/falcata/))*
@@ -135,9 +99,34 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 
 [Back to Top](#)
 
+### Tier IV - Rafters {#Tier4}
 
-<a id="Tier5"></a>
-### Tier V - (Outside) Kelestian Outpost
+**<u>Opponents</u>** 
+* Kelestian Warrior *([Falcata](/falcata/))*
+* A Mercenary *([Chainblade](/chainblade/) | [Falcata](/falcata/))*
+* Kelestian Raider *([Falx](/falx/))*
+* Kelestian Tunneler *([2HA](/two-handed-axes/))*
+* Kelestian Servitor *([Hammer](/one-handed-crushing/))*
+* Kelestian Contemplative *([Staves](/staves/))*
+
+
+ 
+
+
+<u>**Loot**</u>
+* a katitra with (bronze|tin|stone) plates
+* (**iron***|bronze|tin|stone)-plated Kelestian nagoda
+
+
+ 
+
+
+**Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
+
+
+[Back to Top](#)
+
+### Tier V - (Outside) Kelestian Outpost {#Tier5}
 
 **NOTE**: The asterisk(*) signifies a very rare type of drop.
 
@@ -164,7 +153,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
  * **Possible loot:** a (iron | bronze) **helmet**, a **katitra** with (bronze | tin | stone) plates, (iron***** | bronze | tin | stone)-plated Kelestian **nagoda**
 
 * **Kelestian Naturalist** *([Spears](/spears/), [Herbalism](/herbalism/) & [Brawling](/brawling/))*: Watch for shifts in stance. Gets tougher after the vial.
- * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **falx**, a pair of **gauntlets** with (iron***** | bronze | tin | stone) plates, a **katitra** with (bronze | tin | stone) plates, (boison***** | bronze | stone) **spear**, [brewing ingredients](/herbalism-guide/#Brewing)
+ * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **falx**, a pair of **gauntlets** with (iron***** | bronze | tin | stone) plates, a **katitra** with (bronze | tin | stone) plates, (boison***** | bronze | stone) **spear**, [brewing ingredients](/herbalism-guide/#BrewingChart)
 
 * **Kelestian Ascetic** *([Chainblade](/chainblade/) & [Brawling](/brawling/))*: 
  * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **chainblade**, a **katitra** with (iron***** | bronze | tin | stone) plates
@@ -172,9 +161,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 
 **Reputation Drops**: [Kelestian Armor](/reputation/#Monlon)
 
-
-<a id="Tier6"></a>
-### Tier VI - Ambush Spots
+### Tier VI - Ambush Spots {#Tier6}
 There are specific ambush spots. Once triggered, a mix of low-end & high-end opponents spawn.
 
 **NOTE**: The asterisk(*) signifies a very rare type of drop.
@@ -205,7 +192,7 @@ There are specific ambush spots. Once triggered, a mix of low-end & high-end opp
  * **Possible loot:** a (iron | bronze) **helmet**, a **katitra** with (bronze | tin | stone) plates, (iron***** | bronze | tin | stone)-plated Kelestian **nagoda**
 
 * **Kelestian Naturalist** *([Spears](/spears/), [Herbalism](/herbalism/) & [Brawling](/brawling/))*: Watch for shifts in stance. Gets tougher after the vial.
- * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **falx**, a pair of **gauntlets** with (iron***** | bronze | tin | stone) plates, a **katitra** with (bronze | tin | stone) plates, (boison***** | bronze | stone) **spear**, [brewing ingredients](/herbalism-guide/#Brewing)
+ * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **falx**, a pair of **gauntlets** with (iron***** | bronze | tin | stone) plates, a **katitra** with (bronze | tin | stone) plates, (boison***** | bronze | stone) **spear**, [brewing ingredients](/herbalism-guide/#BrewingChart)
 
 * **Kelestian Ascetic** *([Chainblade](/chainblade/) & [Brawling](/brawling/))*: 
  * **Possible loot:** (retalq*****| boison*****| sooty*****| iron | bronze) **chainblade**, a **katitra** with (iron***** | bronze | tin | stone) plates

@@ -8,8 +8,7 @@ category: "Guides & Commands"
 
 This page covers using the desktop app once it's installed. For installing it, and for a quick reference of every shortcut and slash command, see [Praetor](/praetor/).
 
-### The layout
-<a id="layout"></a>
+### The layout {#layout}
 
 ![](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
 
@@ -27,8 +26,7 @@ The numbers match the callouts in the picture.
 
 Regions 4 to 7 together are the **sidebar**. **Alt+S** hides or shows it. Right-click the output for a Copy/Paste menu. Ctrl+C copies a selection and Ctrl+V pastes into the input.
 
-### Tabs
-<a id="tabs"></a>
+### Tabs {#tabs}
 
 The **All** tab always receives everything. **Custom tabs** filter game text by your own include and exclude rules. A line appears in a tab if it matches any include rule and no exclude rule. Rules are case-insensitive substrings, with two wildcards:
 
@@ -92,8 +90,7 @@ The **Metrics** tab is a session dashboard: kills, actions, session duration, an
 
 **Tab** and **Shift+Tab** cycle tabs. **Alt+1** through **Alt+9** and **Alt+0** jump straight to a tab (0 is the tenth).
 
-### PraetorScript
-<a id="praetorscript"></a>
+### PraetorScript {#praetorscript}
 
 Beginning with **Praetor 0.5.0**, single-line command input and Action Set buttons support **PraetorScript**, a lightweight language for combining commands, saved values, timing, and reactions to game text.
 
@@ -337,8 +334,7 @@ While a chain is waiting, the Play button becomes **Stop**. Stop cancels queued 
 
 Pending chains are also discarded when the connection closes or is replaced.
 
-### Typing commands
-<a id="typing"></a>
+### Typing commands {#typing}
 
 Plain **Enter** sends the input line to the game. **Up** and **Down** recall earlier commands from your history, when the caret sits on the input's first or last line.
 
@@ -350,8 +346,7 @@ Plain **Enter** sends the input line to the game. **Up** and **Down** recall ear
 
 The **Input spellcheck** setting turns spellcheck on the command input on or off.
 
-### Moving around
-<a id="moving"></a>
+### Moving around {#moving}
 
 | Key | Sends | Key | Sends | Key | Sends |
 | --- | --- | --- | --- | --- | --- |
@@ -371,8 +366,7 @@ sizeup here
 ~~~
 
 
-### Slash commands
-<a id="slash"></a>
+### Slash commands {#slash}
 
 Anything you type starting with a slash is handled by Praetor itself and never reaches the game. A hint appears above the input as you type, showing what the command expects.
 
@@ -398,8 +392,7 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 
 Slash commands are not interpreted inside a multi-line block.
 
-### The Esc menu
-<a id="menu"></a>
+### The Esc menu {#menu}
 
 This is the main entrypoint to all Praetor menus
 
@@ -419,8 +412,7 @@ This is the main entrypoint to all Praetor menus
 
 ![](/assets/wikidot/praetor-guide/praetor-action-sets.png)
 
-#### Settings
-<a id="settings"></a>
+#### Settings {#settings}
 
 
 To change any setting:
@@ -486,8 +478,7 @@ retreat
 
 **3.** Click **Save**.
 
-#### Filters
-<a id="filters"></a>
+#### Filters {#filters}
 
 * Ignore OOC Accounts: hide OOC chatter from accounts you name
 * Ignore Think Characters: hide think-channel text from characters you name
@@ -530,8 +521,7 @@ Each of these has its own section further down this page.
 * Logout: return to the account picker without quitting
 * Exit: close Praetor
 
-### Highlights and notifications
-<a id="highlights"></a>
+### Highlights and notifications {#highlights}
 
 ![](/assets/wikidot/praetor-guide/praetor-highlights.png)
 
@@ -565,15 +555,13 @@ retalq
 
 If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Praetor uses the matching game text.
 
-### Search
-<a id="search"></a>
+### Search {#search}
 
 **Ctrl+F** opens the scrollback search bar. Matches are tinted in the output, and the current match is outlined. **Enter** steps to an older match, **Shift+Enter** to a newer one, and **Esc** closes the bar.
 
 **Alt+I** reveals lines the ignore filters (Ignore OOC Accounts, Ignore Think Characters) have hidden, without disabling the filters themselves.
 
-### Notes
-<a id="notes"></a>
+### Notes {#notes}
 
 ![](/assets/wikidot/praetor-guide/praetor-notes.png)
 
@@ -595,8 +583,7 @@ Notes are plain text files, one file per note, so you can edit or back them up o
 ~~~
 
 
-### Sending a file
-<a id="send"></a>
+### Sending a file {#send}
 
 **/send** expands saved variables in a text file, then sends its contents to the game line by line. Command-chain separators in the file are sent as ordinary text rather than interpreted by Praetor. Use it for a prepared block of emotes, a list of commands, or anything else you'd rather not type live.
 
@@ -639,8 +626,7 @@ wield sword
 
 **/send** is refused while a play script is running, and **/play** is refused during a send, so the two can never write to the game at the same time.
 
-### Play scripts
-<a id="play"></a>
+### Play scripts {#play}
 
 **/play** performs a prepared scene into the game: timed lines, waiting for another player's cue, and manual holds, for a staged announcement, a scripted duel, or any RP scene whose beats need to land at the right moment.
 
@@ -699,9 +685,8 @@ say Another round, on me.
 For the complete script-language reference: [full play-script reference](https://github.com/cyber-godzilla/praetor/blob/main/docs/play-scripts.md).
 
 ### Wiki, maps, calculator, kudos, and help
-<a id="lookups"></a>
 
-#### Wiki bookmarks
+#### Wiki bookmarks {#lookups}
 
 ![](/assets/wikidot/praetor-guide/praetor-wiki.png)
 
@@ -764,8 +749,7 @@ The training-cost section shows the Basics and Subskill rank changes and the cos
 
 **/guide** opens the getting-started window, with a short Praetor overview and links to this guide and the scripting documentation.
 
-### Logs and data
-<a id="logs"></a>
+### Logs and data {#logs}
 
 Session transcripts are turned on or off with the **Session transcript logging** setting and moved with the **Log path** setting. They're written to:
 

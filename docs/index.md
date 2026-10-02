@@ -10,9 +10,7 @@ category: Wiki & Help
 
 > Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
 
-### Getting Started
-
-<a id="GettingStarted"></a>
+### Getting Started {#GettingStarted}
 
 Welcome to the player-run unofficial Wiki, your best resource for information about the role-playing game, The Eternal City.
 
@@ -46,9 +44,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 - - -
 
-<a id="LatestUpdates"></a>
-
-### Latest Updates
+### Latest Updates {#LatestUpdates}
 
 <!--\\\* To add new updates, please use the "Latest Updates" page included below. \\\*--> 
 
@@ -129,9 +125,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 - - -
 
-<a id="WhatsNew"></a>
-
-### What's New In-Game
+### What's New In-Game {#WhatsNew}
 
 > **Archive note:** Wikidot module frontforum was not portable and has been omitted.
 

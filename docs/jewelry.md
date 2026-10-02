@@ -181,10 +181,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 ### Related Commands
 Related commands are commands that require little or no extra training beyond the skill set, but are necessary as part of jewelry work.
 
-
-<a id="Recall"></a>
-
-### Recall  *recall <recipe>
+### Recall  *recall <recipe> {#Recall}
 recipe-recall <text>*
 
 Before casting, cold-working a finished form, assembling chain, or cutting a stone, you need a recipe **recalled** so the work follows the correct steps.
@@ -240,10 +237,7 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
 
 </div>
 
-
-<a id="Restyle"></a>
-
-### Restyle  *restyle <jewelry>*
+### Restyle  *restyle <jewelry>* {#Restyle}
 
 Once player-crafted jewelry is complete, it can be altered slightly through the restyle menu. No skill training is required beyond owning the piece. Simply **restyle <jewelry>** and you will be shown a menu of short names based on what has actually been done to the piece (metal, engraving, set stones, and similar features).
 
@@ -266,10 +260,7 @@ Once player-crafted jewelry is complete, it can be altered slightly through the 
 
 ### Skill Details
 
-
-<a id="Form-Wax"></a>
-
-### Form Wax  *form <wax>*
+### Form Wax  *form <wax>* {#Form-Wax}
 
 Soften and shape wax into the form required by the recalled casting recipe. Low skill may need several passes; higher skill finishes the form more cleanly in fewer attempts. Continue forming an unfinished wax form until it is complete, then pack clay around it.
 
@@ -282,10 +273,7 @@ Soften and shape wax into the form required by the recalled casting recipe. Low 
 
 </div>
 
-
-<a id="Make-Mold"></a>
-
-### Make Mold  *mold <clay>*
+### Make Mold  *mold <clay>* {#Make-Mold}
 
 Pack clay around a finished wax form, leaving a runoff, until the mold is ready to bake. Incomplete molds are continued with the same command. Heat the packed mold over a low flame to bake it before casting.
 
@@ -298,10 +286,7 @@ Pack clay around a finished wax form, leaving a runoff, until the mold is ready 
 
 </div>
 
-
-<a id="Cast-Jewelry"></a>
-
-### Cast Jewelry  *cast <baked mold>*
+### Cast Jewelry  *cast <baked mold>* {#Cast-Jewelry}
 
 Pour molten metal from a crucible into a baked clay mold to produce the piece named by the recalled casting recipe. Requires metal melted in a crucible and tongs as needed. The mold is used up when you cast.
 
@@ -316,10 +301,7 @@ Pour molten metal from a crucible into a baked clay mold to produce the piece na
 
 </div>
 
-
-<a id="Hot-Work-Stock"></a>
-
-### Hot Work Stock  *hotwork <crucible>*
+### Hot Work Stock  *hotwork <crucible>* {#Hot-Work-Stock}
 
 Work molten metal from a crucible under the hammer into solid stock ready for cold work. The hammer should be available nearby.
 
@@ -334,10 +316,7 @@ Work molten metal from a crucible under the hammer into solid stock ready for co
 
 </div>
 
-
-<a id="Cold-Work-Stock"></a>
-
-### Cold Work Stock  *coldwork <stock|wire>*
+### Cold Work Stock  *coldwork <stock|wire>* {#Cold-Work-Stock}
 
 Draw or shape stock into wire, links, bands, or other forms the recalled recipe calls for. **Wire recipes require wire**, not heavy cylindrical stock — produce wire first when needed. Link recipes produce tiny or large links from wire. Solid band and forged recipes work from stock.
 
@@ -355,10 +334,7 @@ Draw or shape stock into wire, links, bands, or other forms the recalled recipe 
 
 </div>
 
-
-<a id="Assemble-Jewelry"></a>
-
-### Assemble Jewelry  *assemble <link|incomplete> to <link|incomplete>*
+### Assemble Jewelry  *assemble <link|incomplete> to <link|incomplete>* {#Assemble-Jewelry}
 
 Join links into an incomplete chain, then continue adding links until the recalled chain or bracelet recipe is complete. Pieces must be the same metal. Start with two matching links, then assemble further links to the incomplete work.
 
@@ -376,10 +352,7 @@ Join links into an incomplete chain, then continue adding links until the recall
 
 </div>
 
-
-<a id="Layout-Gem"></a>
-
-### Layout Gem  *layout <gem>*
+### Layout Gem  *layout <gem>* {#Layout-Gem}
 
 Mark the stone for the recalled cut. This is the first step of every cutting recipe. Some stones cannot be cut.
 
@@ -394,10 +367,7 @@ Mark the stone for the recalled cut. This is the first step of every cutting rec
 
 </div>
 
-
-<a id="Rough-Cut-Gem"></a>
-
-### Rough Cut Gem  *roughcut <gem>*
+### Rough Cut Gem  *roughcut <gem>* {#Rough-Cut-Gem}
 
 Reduce the stone toward the shape of the recalled cut. Harder cuts use more rough and shape passes and punish mistakes more severely — a failed step can ruin the stone.
 
@@ -412,10 +382,7 @@ Reduce the stone toward the shape of the recalled cut. Harder cuts use more roug
 
 </div>
 
-
-<a id="Shape-Gem"></a>
-
-### Shape Gem  *shape <gem>*
+### Shape Gem  *shape <gem>* {#Shape-Gem}
 
 Work the faces and outline of the cut into place after the rough form is established. Number of shape steps depends on the recalled cut.
 
@@ -430,10 +397,7 @@ Work the faces and outline of the cut into place after the rough form is establi
 
 </div>
 
-
-<a id="Polish-Gem"></a>
-
-### Polish Gem  *polish <gem>*
+### Polish Gem  *polish <gem>* {#Polish-Gem}
 
 Polish the finished cut so the faces take light cleanly. Last step of a cutting recipe.
 
@@ -448,10 +412,7 @@ Polish the finished cut so the faces take light cleanly. Last step of a cutting 
 
 </div>
 
-
-<a id="Engrave-Jewelry"></a>
-
-### Engrave Jewelry  *engrave <jewelry>*
+### Engrave Jewelry  *engrave <jewelry>* {#Engrave-Jewelry}
 
 Cut a learned engraving pattern into player-crafted jewelry that will take engraving. Patterns are **[lores](#Lores)** learned from the trainer. Work proceeds in several passes until the pattern is complete.
 
@@ -476,10 +437,7 @@ Cut a learned engraving pattern into player-crafted jewelry that will take engra
 
 </div>
 
-
-<a id="Set-Gem"></a>
-
-### Set Gem  *set <jewelry> with <cut gem>*
+### Set Gem  *set <jewelry> with <cut gem>* {#Set-Gem}
 
 Seat a **finished cut** stone into player-crafted jewelry that can accept a setting. Uncut stones will not set. Some pieces accept more than one stone; the short name and description update to reflect what is set.
 

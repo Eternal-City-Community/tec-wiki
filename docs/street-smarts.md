@@ -61,10 +61,7 @@ category: "Reference"
 
 ### Skill Details
 
-
-<a id="Graffiti"></a>
-
-### Graffiti  *graffiti <wall> <text>*
+### Graffiti  *graffiti <wall> <text>* {#Graffiti}
 
 For the respectable folk, graffiti is an aesthetically displeasing, distasteful stain on the otherwise dignified marble of the metropolis. For the city official, graffiti is a logistical nightmare, difficult to get rid of and impossible to squelch completely. But for those who with neither respect nor power, it is one of the few means of expression available. Whether the message be personal, political, or simply a cry for attention, what can be better than a naked wall for a canvas and the whole city for an audience?
 
@@ -88,10 +85,7 @@ TBC
 
 </div>
 
-
-<a id="Gang-Markings"></a>
-
-### Gang Markings  *gmark <wall> <text>*
+### Gang Markings  *gmark <wall> <text>* {#Gang-Markings}
 
 Just as the gangs have their own distinct lingo and clothing, they also have their own distinct symbols for communication. Gang markings are particularly social in nature, messages directed to other members of your own gang. It is also a means of marking territory, and letting trespassers know full well that they have just stepped on someone else's turf.
 
@@ -114,10 +108,7 @@ TBC
 
 </div>
 
-
-<a id="Stash"></a>
-
-### Stash  *stash <item>*
+### Stash  *stash <item>* {#Stash}
 
 Survival is not merely about acquisition. Survival is also hanging onto what is already yours. Not everyone in the Steps has the luxury of the bank or a nice, secure home (if such a thing really exists). Instead, many of the district's residents have learned how to make use of the smallest niches, cracks, and hidden potholes to stash their goods. Every thief, be it a professional burglar or a young pickpocket, knows the value of a good stash to keep their wares until they can be hocked. Even the street urchins learn how to hide food and trinkets from those who are even more desperate than they are.
 
@@ -136,10 +127,7 @@ Stash allows you to hide your treasured items out of sight. You will always be a
 
 </div>
 
-
-<a id="Find-Stash"></a>
-
-### Find Stash  *search [<place>]*
+### Find Stash  *search [<place>]* {#Find-Stash}
 
 While any idiot with a good memory can find a stash that he made himself, digging up what other people have hidden takes a keen eye and a sharp intuition. Anyone can search an area for a stash, but it takes experience to know what to look for.
 
@@ -158,19 +146,13 @@ You finish examining a high-ceilinged hall.
 
 </div>
 
-
-<a id="Watchers-Sense"></a>
-
-### Watcher's Sense
+### Watcher's Sense {#Watchers-Sense}
 
 In the right conditions, instinct can be trained, honed, and sharpened. In this case, it is the instinct of knowing that you are being watched, the gut feel of knowing that someone is behind you, or the intuitive feeling that... something... is about to happen.
 
 Watcher’s Sense is a **passive skill**. It is a technique used to augment your ability to detect those hiding and sneaking around you. Useful if your natural perception is lacking.
 
-
-<a id="Mimic-Signpost"></a>
-
-### Mimic Signpost  *signpost*
+### Mimic Signpost  *signpost* {#Mimic-Signpost}
 
 While the upper class general craves attention and clamors to be seen, those of the streets know the value of self-effacement, especially when you're running for your life. Being able to blend into a crowd effectively is a skill that can save one's skin. Standing still might not seem like such a difficult task, but doing so in a dangerous situation and in such a way as to look natural and inconspicuous requires firm willpower and steady nerves.
 
@@ -185,10 +167,7 @@ Mimic Signpost allows you to attempt to **blend in with a crowd**. People enteri
 
 </div>
 
-
-<a id="Steps-Cant"></a>
-
-### Steps Cant  *cant <target> <message>*
+### Steps Cant  *cant <target> <message>* {#Steps-Cant}
 
 Discretion is a prerequisite to survival in the Steps. Living is knowing who to clip and who to avoid, when to draw a blade and when to run. Sometimes its as simple as when to open your mouth and when to keep it shut. Naturally, the means to communicate silently is a useful skill in such an environment, necessary to many of the 'professions' that prosper in the district.
 
@@ -208,10 +187,7 @@ Steps Cant allows you to communicate with others without words, just motions. It
 
 </div>
 
-
-<a id="City-Hiding"></a>
-
-### City Hiding  *find cover*
+### City Hiding  *find cover* {#City-Hiding}
 
 Hiding is not ducking behind a table and hoping that you don't get seen. Any child can do that, and it usually doesn't save him from getting trounced either. Hiding is much more. Hiding is a full awareness of the environment, knowing the interplay between light and shadow, whisper and echo. Hiding is empathy and understanding, guessing where the other guy will look, when he will turn his shoulder, and what will find his attention. And most of all, hiding is discipline, exerting the self-control and mental focus to prevent the betrayal of your own body. A true master focuses on remaining hidden as if he is gripping onto life itself, for it is often one and the same.
 
@@ -228,10 +204,7 @@ While certain actions will automatically reveal you, you can also use the **unhi
 
 </div>
 
-
-<a id="City-Sneaking"></a>
-
-### City Sneaking  *sneak <direction>*
+### City Sneaking  *sneak <direction>* {#City-Sneaking}
 
 Stalking silently is as ancient and instinctive as the relationship between predator and prey. In the grimy urban alleyway, the fundamentals are the same. Whether you are closing unnoticed upon your victim, or slipping away in your escape, what is critical is moving without being noticed.*
 
@@ -258,10 +231,7 @@ You fumble out of your hiding place.
 
 </div>
 
-
-<a id="Quick-Reveal"></a>
-
-### Quick Reveal
+### Quick Reveal {#Quick-Reveal}
 
 With  the quick reveal skill, one can step from the shadows unnoticed. Sufficient training completely eliminates the time required to leave your hiding spot.
 
@@ -273,9 +243,6 @@ You stealthily move from your hiding place.
 
 </div>
 
-
-<a id="Guard-Evasion"></a>
-
-### Guard Evasion
+### Guard Evasion {#Guard-Evasion}
 
 This skill helps a person evade a person that is trying to [detain](/combat-maneuvers/#Offensive-Guarding) them. This skill does not currently work against regular guarding.

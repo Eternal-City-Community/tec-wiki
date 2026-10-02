@@ -272,8 +272,7 @@ A rank of **1 signifies the best** in this category. All arrows have the same sp
 ### Complementary Skill Sets
 * [Hunting](/hunting/) & [Outdoor Survival](/outdoor-survival/) - Will allow you to make your own arrows.
 
-<a id="traits"></a>
-### Complementary Traits
+### Complementary Traits {#traits}
 * **[Night Vision](/traits/#NightVision)** *(**essential**)*
 * [Ox's Grace](/traits/#OxGrace) - For carrying more arrows & more armor, which you will 100% need. *(recommended)*
 * [Berserker](/traits/#berserk) *(nice-to-have)* & [Spirit of Nature](/traits/#SoN) *(recommended if you took Berserker)*

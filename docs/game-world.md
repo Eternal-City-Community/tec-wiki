@@ -15,9 +15,7 @@ An ancient world, where magic once flowed freely, but where it is now feared and
 
 A young world, of men and their armies, of emerging philosophies and beliefs, of the growth of nations and the first struggles between rich and poor. A world of exploration and conflict.
 
-
-<a id="countries"></a> <a id="realms"></a>
-### Realms of Midlight
+### Realms of Midlight {#countries}
 
 
 [![](/assets/wikidot/files/realms%20of%20midlight.jpg)](/assets/wikidot/files/realms%20of%20midlight.jpg)

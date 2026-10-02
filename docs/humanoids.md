@@ -24,16 +24,12 @@ a Cineran heavy soldier
 a Cineran marine
 a man in a Cineran uniform with a red cloak
 
+#### Franlius {#Franlius}
 
-<a id="Franlius"></a>
-#### Franlius
-<a id="Fran-SE"></a>
-##### Franlius: Southeast Section
+##### Franlius: Southeast Section {#Fran-SE}
 TBD
 
-
-<a id="Fran-SW"></a>
-##### Franlius: Southwest Section
+##### Franlius: Southwest Section {#Fran-SW}
 
 **Cineran Recruit:** Equips a bronze dagger, usually of poor quality. Usually wears leather from head to toe, some of which has tin or bronze plates on it. These are not very challenging on their own, but can be a nuisance when they are grouped with others in this section. They fight more aggressively when they have allies, and stance dance when solo. Watch for the disarm and chopping moves aimed high.
 
@@ -41,8 +37,7 @@ TBD
 
 **Cineran Conscript:** Uses brawling and pankration techniques. Usually wears leather from head to toe, some of which has tin or bronze plates on it. These humanoids can be dangerous in a group if they are not quickly dealt with. When surrounded by allies, they will assume aggressive stances more often. Their critical hits can break bones. While they have the potential to dish out more damage, they are also much easier to hit than the other two humanoids in this zone. Consider knocking them out first.
 
-<a id="Fran-NE"></a>
-##### Franlius: Northeast Section
+##### Franlius: Northeast Section {#Fran-NE}
 
 **Cineran Foot Soldier:** Equips a wooden shield and bronze dirk. Usually wears leather from head to toe, some of which has tin or bronze plates on it. Easy to fight alone, but can be disruptive if left alone in a group. Has some knowledge of missile defense, and knows some unpleasant CKF maneuvers. These will fight more defensively when near death.
 
@@ -52,16 +47,12 @@ TBD
 
 **General Mob Tactics:** When any combination of the above are in the same square together, they will do their best to disarm and push you back, forcing you to re-wield, and oftentimes fall back to approach your primary target. Investing SP into feinting is necessary to make the above targets worth the fatigue.
 
-
-<a id="Fran-NW"></a>
-##### Franlius: Northwest Section
+##### Franlius: Northwest Section {#Fran-NW}
 TBD
 
+##### Franlius: Docks {#Fran-Docks}
 
-<a id="Fran-Docks"></a>
-##### Franlius: Docks
-<a id="Merc"></a>
-##### an unwashed hairy mercenary: 
+##### an unwashed hairy mercenary: {#Merc}
 **Variations:** an unwashed hairy mercenary, a tall beefy mercenary, an one-eyed mercenary
 **Difficulty:** High
 

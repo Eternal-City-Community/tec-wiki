@@ -9,8 +9,7 @@ category: "Reference"
 
 Allegiances and Families in the [Senate](/senate/).
 
-<a id="Anande"></a>
-### Anande Faction
+### Anande Faction {#Anande}
 
 #### Trocia Anande
 (**Coalition Leader**) - Though there are several men in the family older than he, Trocia rose to power early and has been the leader of the House and of the Anande Coalition for five years. With his wild gray eyebrows and hair, he is sometimes called “the hairy wolf” in private. From time to time, Trocia is known to closet himself in a private palace in the countryside, accompanied by a few doctors and close friends. Usually gone for about a week, he always returns full of vigor and even more indomitable willpower.
@@ -24,9 +23,7 @@ Allegiances and Families in the [Senate](/senate/).
 * **Pentheus Priaxios** - Foreign Justice
 * **Calparax Nelthon**
 
-
-<a id="Calsuan"></a>
-### Calsuan Faction
+### Calsuan Faction {#Calsuan}
 
 #### Sordo Calsuan
 (**Consul [Legio II](/legio/)**) - A brilliant commander, leader, and consul, Sordo has taken over the family name and faction leadership after the assassination of his father Orasca. He is known for championing the might of the Republic and its capable military. He has a short temper, a dominating presencse, and the lower classes consider his oratory a delight rivaling the best entertainment the sands of the arena can muster.
@@ -44,9 +41,7 @@ Allegiances and Families in the [Senate](/senate/).
 * **Baelan Neslor** - Player Patron Tier I
 * **Paralex Larecean**
 
-
-<a id="Allende"></a>
-### Allende Faction
+### Allende Faction {#Allende}
 
 #### Constain Allende
 (**Coalition Leader**) - Constian is somewhat overweight in his declining years, with large jowls and a soft belly. His way is one of slow deliberation. He would like to bring further changes to the Republic, perhaps even give more control to the common people, but he must battle the more conservative elements within both the patricians and the lower classes.
@@ -73,9 +68,7 @@ Allegiances and Families in the [Senate](/senate/).
 * **Atroclus Traevant**
 * **Sargath Severius**
 
-
-<a id="Independents"></a>
-### Independents
+### Independents {#Independents}
 
 * **Adrian Tunitus**
 * **Senecor Tunitus**

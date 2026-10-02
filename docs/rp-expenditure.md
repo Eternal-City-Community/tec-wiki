@@ -28,9 +28,7 @@ These are useful commands for spending Role Points.
 
 See the full list of [commands](/commands/).
 
-
-<a id="Creature"></a>
-### Creature Button Pushes
+### Creature Button Pushes {#Creature}
 Creature button pushes can be bought using [RPs](/account/#RolePoints) **or** received as a [perk](/account/). The creature button is located in **the creature controller room** (Ex1 & Nx1 from the main Welcome Room). Look for **"A big red button"** and push it.
 
 > **In-Game Prompt**
@@ -68,8 +66,7 @@ This option has a variable cost, based on the number of skill slots already know
 This role-point expenditure allows you to move any known skill up one slot on a single character. An example is if your character knows Swords, CMs & Shields (in that order) and you want to move Shields into the 2nd slot.
 * For each purchase, a single skill can be moved up 1 slot.
 
-<a id="moveCharacter"></a>
-### [5] Exchange Character Order on Playlist
+### [5] Exchange Character Order on Playlist {#moveCharacter}
 Allows you to **move a character up 1 slot per purchase**. Meaning if you want to bring your character in slot 3 up to slot 1, you would need to purchase this twice.
 
 For accounts with more than one character, the @number-one command has a **one-time use** to change which character is in the 1<sup>st</sup> character slot.
@@ -120,8 +117,7 @@ Example
 * The second word (or first word if there is only one) must be a verb that conjugates as a regular verb.
 * If you do use a verb that the staff deems inappropriate or requires editing, the staff may remove or change the speech pattern, and you will not receive a refund for the spent role-points.
 
-<a id="NPC"></a>
-### [10] Create a Playable NPC character
+### [10] Create a Playable NPC character {#NPC}
 These are NPC 'creatures' that you can continue to play, like any of your characters. The rolepoint cost is displayed before it. 
 
 
@@ -150,9 +146,7 @@ Playable NPCs and associated costs are:
 ### [11] Purchase a Veteran Character Package
 See [Veteran Characters](/veteran-characters/).
 
-
-<a id="logout"></a>
-### [12] Custom Logout Message
+### [12] Custom Logout Message {#logout}
 Create a custom Welcome Area logout message. The default is "<user> leaves The Eternal City." (e.g. Dragonus leaves The Eternal City.)
 
 Message will automatically start with your username. For example, if you want it to read "Dragonus jumps out the window.", you would enter "jumps out the window."
@@ -167,22 +161,18 @@ Message will automatically start with your username. For example, if you want it
 ### [14] Retrieve Deleted Character
 * This can only be done if you have an **available slot** for the received character.
 
-
-<a id="superior"></a>
-### [15] Superior Weapon Upgrade
+### [15] Superior Weapon Upgrade {#superior}
 Superior Weapon Upgrade takes a weapon in your character's inventory and **increases the quality to the maximum of superior**.  It works on any weapon type, to include shields, [Kelestian weapons](/kelestia/#combat) and even fishing poles. ***Note for [cestii](/cestus/)***: A pair of cestii of the same type counts as **1 item for the purpose of RP purchases** such as Item Alteration, Custom Item, Superior Weapon Upgrade, etc.<sup>[source](https://www.eternalcitygame.com/community/postid/1070/)]</sup>
 
 
 ---
-<a id="properties"></a>
-## Property
+
+## Property {#properties}
 You are able to **buy** & **modify** certain types of [property](/property/) in-game. A **property owner** may modify their property **via @request** and have a **minimum in-game cost of 5 talents** each. Larger, fancier modifications will have higher prices. These prices are the same for domus and other property types.
 
 Property modifications may **only be requested by [premium](/account/#AccountSub) subscribers**.
 
-
-<a id="store"></a>
-#### Store (Package) Purchase
+#### Store (Package) Purchase {#store}
 
 The Store package includes:
 * An **NPC proprietor**
@@ -194,9 +184,7 @@ The requester can alter the rooms', exits', and items' appearances, as well as t
 
 Players request the location of these special property types, but it must be in/near a major settlement. The staff will work with players to identify a location that is close to the desired location, with price and map availability weighing in. NPC wages and property taxes are included in the building's monthly expenses. Expect properties located in desirable areas to be much more expensive than the minimum price. These property packages may only be requested by premium subscribers.
 
-
-<a id="club-house"></a>
-#### Club House (Package) Purchase
+#### Club House (Package) Purchase {#club-house}
 
 The Club House package includes:
 * An **NPC door guard**
@@ -210,9 +198,7 @@ Included in the package is a **free [Custom Item](#customItem)** to **add mechan
 
 Players request the location of these special property types, but it must be in/near a major settlement. The staff will work with players to identify a location that is close to the desired location, with price and map availability weighing in. NPC wages and property taxes are included in the building's monthly expenses. Expect properties located in desirable areas to be much more expensive than the minimum price. These property packages may only be requested by premium subscribers.
 
-
-<a id="fixture"></a>
-#### Permanent Light Fixture
+#### Permanent Light Fixture {#fixture}
 This option allows the placement of a permanently fastened, everlasting lantern or torch. The requester can alter the item's appearance and placement style.
 
 Examples:
@@ -221,9 +207,7 @@ Examples:
 
 These requests should be made under [Item Alterations](/customization-guide/#Alterations).
 
-
-<a id="alteration"></a>
-#### Room Alteration
+#### Room Alteration {#alteration}
 An item alteration can be used as a room alteration, changing the name and description of a room as seen with the look command. This only includes things in the room that are described and not otherwise able to be interacted with because they are not items. You may change the order that fastened items appear in the room's description, but not the fastened items' descriptions themselves.
 
 
@@ -234,32 +218,24 @@ Example:
 
 These requests should be made under [Item Alterations](/customization-guide/#Alterations).
 
-
-<a id="keying"></a>
-#### Quick Keying Door
+#### Quick Keying Door {#keying}
 This modifies an existing lockable door to provide a convenience bonus - as long as the player has the key to the door, or has a lockpick and is allowed to work on the door, the **character may walk through** the door and it will **automatically unlock/open/close/lock** with no round time. This enhancement **may not be applied to the outer (first) door/gate** of a property.
 
 Anyone following you will not follow you through the door.
 
 These requests should be made under [Custom Items](/customization-guide/#CustomItems).
 
-
-<a id="room"></a>
-#### Additional Room
+#### Additional Room {#room}
 Adds an additional room to an existing owned property. Restricted by map space availability. Appearance of the room can be altered and exits/locks are included. Discounted price for any special mechanics added.
 
 These requests should be made under [Custom Items](/customization-guide/#CustomItems).
 
-
-<a id="npc"></a>
-#### Additional NPC
+#### Additional NPC {#npc}
 An additional proprietor or door guard NPC that can be added to an existing Store or Club House building.
 
 These requests should be made under [Custom Items](/customization-guide/#CustomItems).
 
-
-<a id="customItem"></a>
-#### Custom Item
+#### Custom Item {#customItem}
 Custom Item requests can be used to change an owned property's room, exit, or item's mechanics, or edit which items are permanently fastened in a room.
 
 See [Custom Items](/customization-guide/#CustomItems).

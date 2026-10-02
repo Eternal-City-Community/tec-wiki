@@ -7,10 +7,7 @@ category: "Guides & Commands"
 
 ## Mission Guides *(UNDER CONSTRUCTION)*
 
-
-<a id="JunkDiver"></a>
-
-### Dumpster Diving - Quartz Heights
+### Dumpster Diving - Quartz Heights {#JunkDiver}
 
 * **Location**: [Quartz Heights](/quartz-heights/)' refuse piles.
 * **Directions**: Walk to temple, walk to emerald (orange Mark A on the map above), then choose your refuse heap from the map.
@@ -24,10 +21,7 @@ category: "Guides & Commands"
 **<u>Notes</u>** 
 **DO NOT** waste your time searching through the refuse. An entire fatigue bar will net you ~100 denars.
 
-
-<a id="RottenApples"></a>
-
-### Rotten Apples - Vetallun Orchard
+### Rotten Apples - Vetallun Orchard {#RottenApples}
 
 * **Location**: Apple Orchard ([Vetallun](/town-of-vetallun/))
 * **Directions**: walk to vetallun, walk to crossroads. From crossroads: w x 4, n x 4, nw x 1, n x 3, w x 1
@@ -46,10 +40,7 @@ category: "Guides & Commands"
 * Spending roughly **1-hour** searching for apples will net you **1,500-3,000 denars** (depending on the rate per apple).
 * 300 apples is the maximum you can have at a time; attempting to pull additional apples when you have 300 will result in being told that you need to turn in what you've already gathered before you can gather more.
 
-
-<a id="BarrelRepair"></a>
-
-### Barrel Repair - Vetallun Orchard
+### Barrel Repair - Vetallun Orchard {#BarrelRepair}
 
 * **Location**: Apple Orchard ([Vetallun](/town-of-vetallun/))
 * **Directions**: walk to vetallun, walk to crossroads. From crossroads: w x 4, n x 4, nw x 1, n x 3, e x 1, s x 1, e x 1, n x 1
@@ -69,10 +60,7 @@ category: "Guides & Commands"
 
 **<u>Notes</u>** 
 
-
-<a id="NetMending"></a>
-
-### Net Mending - Iridine Harbor
+### Net Mending - Iridine Harbor {#NetMending}
 
 * Location: Uvol's Net Mending Shop
 * Directions: walk to toga, n x 4
@@ -91,10 +79,7 @@ category: "Guides & Commands"
 * You can make **~370 denars / hour** while cleaning/repairing nets. 
 * You will need to equip yourself with **leather gloves** *(~120 denars cost)*.
 
-
-<a id="Milling"></a>
-
-### Milling Flour - Iridine
+### Milling Flour - Iridine {#Milling}
 
 * **Location 1**: Novias' Produce at the crossroads near [Colosseum](/colosseum/).
 * **Directions**: walk to colosseum, e x 7, se x 8, go door
@@ -113,10 +98,7 @@ category: "Guides & Commands"
 
 **DO NOT** waste your time milling flour. It will require you to spend **20% fatigue** and turning in the flour over to Pompious for a **profit of only 19 denars**. 
 
-
-<a id="Diving"></a>
-
-### Clams Diving - Signal Tower Island
+### Clams Diving - Signal Tower Island {#Diving}
 
 * **Location**: Keistos' Shack on [Signal Tower Island](/signal-tower-island/).
 * **Directions**: walk to toga, n x 2, w x 4, nw, go n (when ferry comes), go n (when ferry arrives to island), w x 2, nw x 2, n x 5.
@@ -141,12 +123,6 @@ category: "Guides & Commands"
 
 [ Once there, use the 'swim' command to move around.  Swim up, down, north, west, etc. to get where you want to go.  Use the 'weather' command to try to estimate the currents underwater.  To get back into the shack, 'swim up' back through the pool. ]
 
+### Salt Harvesting {#Salt}
 
-<a id="Salt"></a>
-
-### Salt Harvesting
-
-
-<a id="Mining"></a>
-
-### Stone Mining
+### Stone Mining {#Mining}

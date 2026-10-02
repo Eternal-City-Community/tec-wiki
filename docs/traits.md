@@ -125,8 +125,7 @@ In 2020, new traits were released.
 
 ## Relevant Tables
 
-<a id="MobileSkirmisherTable"></a>
-#### Mobile Skirmisher Weight Bonus Table
+#### Mobile Skirmisher Weight Bonus Table {#MobileSkirmisherTable}
 
 <details markdown="1">
 <summary>+ Expand table</summary>

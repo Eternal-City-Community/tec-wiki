@@ -5,7 +5,7 @@ category: "Reference"
 
 # Hg Undertown
 
-## Undertown <a id="Top"></a>
+## Undertown {#Top}
 
 Within [Rock Valley](/town-of-rock-valley/), mysterious, cryptic words are scrawled into the walls of a derelict building, providing would-be adventurous some hints as to how to navigate the area known as **Undertown**. As one ventures deeper down each level, challenges increase dramatically with difficulty. 
 
@@ -33,9 +33,7 @@ Specific stones are required to advance throughout this hunting ground.
 * **Level 2:** a **tiny** glassy yellow-gold stone with forked black lines (*[Tourmalated Topaz](/stones-ores/)*)
 * **Level 3:** a **tiny** pale violet stone with forked black lines (*[Tourmalated Amethyst](/stones-ores/)*)
 
-
-<a id="Level1"></a>
-### Level I
+### Level I {#Level1}
 
 For the first level, an intrepid explorer should be a graduate from the Ludus and able to hold their own in places such as the Bandit Complex. 
 
@@ -49,9 +47,7 @@ For the first level, an intrepid explorer should be a graduate from the Ludus an
 
 **Loot**: Bronze chisels, [tourmalated quartz](/stones-ores/) (rat stomachs & pouches), etc.
 
-
-<a id="Level1Boss"></a>
-#### Level I - Boss Room
+#### Level I - Boss Room {#Level1Boss}
 **Mildly dangerous. A group is recommended.**
 
 **<u>Special Notes</u>** 
@@ -64,9 +60,7 @@ For the first level, an intrepid explorer should be a graduate from the Ludus an
 
 **Loot**: *TBC*
 
-
-<a id="Level2"></a>
-### Level II
+### Level II {#Level2}
 A minimum of **2 people** are needed for this level.
 
 **<u>Special Notes</u>** 
@@ -79,9 +73,7 @@ A minimum of **2 people** are needed for this level.
 
 **Loot**: *TBC*
 
-
-<a id="Level2Boss"></a>
-#### Level II - Boss Room
+#### Level II - Boss Room {#Level2Boss}
  Moderately dangerous. **Decently skilled fighters are recommended.**
 
 **<u>Special Notes</u>** 
@@ -94,9 +86,7 @@ A minimum of **2 people** are needed for this level.
 
 **Loot**: **Loot chest**.
 
-
-<a id="Level3"></a>
-### Level III
+### Level III {#Level3}
 A minimum of **3 people** are needed for this level.
 
 
@@ -109,9 +99,7 @@ A minimum of **3 people** are needed for this level.
 
 **Loot**: *TBC*
 
-
-<a id="Level3Boss1"></a>
-#### Level III- Boss Room 1 (SW corner)
+#### Level III- Boss Room 1 (SW corner) {#Level3Boss1}
  Very dangerous. **Decently skilled fighters are recommended.**
 
 
@@ -126,9 +114,7 @@ A minimum of **3 people** are needed for this level.
 
 **Loot**: **Loot chest** or [Tear](/contraband/), statuette, etc.
 
-
-<a id="Level3Boss2"></a>
-#### Level III- Boss Room 2 (SE corner)
+#### Level III- Boss Room 2 (SE corner) {#Level3Boss2}
  Very dangerous. **Decently skilled fighters are recommended.**
 
 
@@ -143,9 +129,7 @@ A minimum of **3 people** are needed for this level.
 
 **Loot**: **Loot chest** or [Tear](/contraband/), etc.
 
-
-<a id="Level3Boss3"></a>
-#### Level III- Final Boss
+#### Level III- Final Boss {#Level3Boss3}
 A skeleton king with an army of skeletons. He wears the crown of the damned and sits on a throne of hatred. To face him is to face death.
 
  Extremely dangerous. **Do not attempt without guidance. Only skilled fighters are recommended.**
@@ -158,7 +142,7 @@ A skeleton king with an army of skeletons. He wears the crown of the damned and 
 * Skeleton King
 * Army of skeletons
 
-**Loot**: **Loot chest**, [tears](/contraband/#tears), grey vials (mentals), black vials (willpower, combat).
+**Loot**: **Loot chest**, [tears](/contraband/#Tears), grey vials (mentals), black vials (willpower, combat).
 
 
 [Back to Top](#)

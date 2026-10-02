@@ -10,8 +10,8 @@ These hunting areas are listed roughly in order of difficulty. Anything more cha
 Many more hunting grounds exist in the game, waiting to be discovered by intrepid explorers. Be clever and safe out there.
 
 ## By Location
-<a id="Iridine"></a>
-### City of Iridine
+
+### City of Iridine {#Iridine}
 * [Signal Tower Island](/signal-tower-island-guide/)
 * [Ludus Valerius](/hg-ludus-valerius/)
 * [Under the Quartz Heights Boardwalk](/hg-quartz-heights-boardwalk/)
@@ -29,8 +29,7 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
 * [Quartz Heights Boardward Crawlspace](/hg-quartz-heights-boardwalk/)
 * [Shipwreck](/hg-shipwreck/)
 
-<a id="Rock-Valley"></a>
-### Rock Valley
+### Rock Valley {#Rock-Valley}
 * [RV Attic](/hg-rock-valley-attic/)
 * [RV Critter Alley](/hg-rock-valley-critter-alley/)
 * [RV Well](/hg-rock-valley-well/)
@@ -43,15 +42,13 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
 * [RV Dumps](/hg-rock-valley-dumps/)
 * [RV Forests](/hg-rock-valley-forests/)
 
-<a id="Invex"></a>
-### Invex River Delta
+### Invex River Delta {#Invex}
 * [Spider Caverns](/hg-spider-caverns/)
 * [Burnt Villa](/hg-burnt-villa/)
 * [Bandit Forest](/hg-bandit-forest/)
 * [Vetallun Apple Orchard](/hg-vetallun-apple-orchard/)
 
-<a id="East"></a>
-### East of Invex River
+### East of Invex River {#East}
 * [Black Hand Caverns](/hg-black-hand-caverns/)
 * [Blackvine Forest](/hg-blackvine-forest/)
 * [Grey Sands](/grey-sands/)
@@ -60,20 +57,17 @@ Many more hunting grounds exist in the game, waiting to be discovered by intrepi
 * [Filinius Villa](/hg-filinius-villa/)
 * [Pirate Ship](/pirate-ship/)
 
-<a id="Swamps"></a>
-### The Salinae Swamps
+### The Salinae Swamps {#Swamps}
 * [Bandit Complex](/hg-bandit-complex/)
 * [Salinae Swamp](/hg-the-salinae-swamp/)
 * [Swamp Mansion](/hg-swamp-mansion/)
 * [Swamp Vale](/hg-swamp-vale/)
 * [Swamp Worm Temple](/worm-temple/)
 
-<a id="Franlius"></a>
-### Franlius
+### Franlius {#Franlius}
 * [Franlius Battlegrounds](/hg-franlius/) 
 
-<a id="Monlon"></a>
-### Monlon
+### Monlon {#Monlon}
 * [Monlon Mines](/hg-monlon-mines/)
 * [Monlon Battlefields](/hg_monlon-battlefields/)
 * [Monlon Catacombs](/hg_monlon-catacombs/)

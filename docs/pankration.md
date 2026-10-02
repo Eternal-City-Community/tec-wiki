@@ -57,10 +57,7 @@ This skill set is best **complemented by knowledge of [Brawling](/brawling/).**
 
 ### Skill Details
 
-
-<a id="stance"></a>
-
-### Pankration Basic Stance  *pank*
+### Pankration Basic Stance  *pank* {#stance}
 
 To learn something new, you must unlearn the old.  One of your first lessons will be to relearn how to stand, and how to move.  This is a necessary lesson.  The basic Pankration stance is the best position from which to launch your most powerful strikes and holds.  Learn it well, and you will be able to do it without thinking.  Until that point, practice it often.
 
@@ -74,10 +71,7 @@ Stelahos widens his feet, moving one slightly back and keeping his knees bent, w
 
 </div>
 
-
-<a id="lpalm"></a>
-
-### Lead Palm  *lpalm <target>*
+### Lead Palm  *lpalm <target>* {#lpalm}
 
 This is the easiest and swiftest strike to learn.  It makes use of a jabbing motion of your lead palm, and is best used to soften up a foe.
 
@@ -89,10 +83,7 @@ Stelahos leans into his forward shoulder, striking at a thug rapidly with his le
 
 </div>
 
-
-<a id="spalm"></a>
-
-### Straight Palm  *spalm <target>*
+### Straight Palm  *spalm <target>* {#spalm}
 
 This is another direct strike, making use of your rear hand.  Use it to follow a lead palm, or to catch a foe off-guard.  It packs somewhat more power.  Both the lead and the straight palm can be used from a grappling position, making them valuable in close combat.
 
@@ -104,10 +95,7 @@ Stelahos twists slightly, throwing a straight strike at a thug with the palm of 
 
 </div>
 
-
-<a id="rpalm"></a>
-
-### Rising Palm  *rpalm <target>*
+### Rising Palm  *rpalm <target>* {#rpalm}
 
 This is an upward stroke, utilizing the power of your hips as you twist your body.  A solid strike will knock an opponent senseless, especially if aimed towards the head or face.  This move can only be done standing up in a good stance.
 
@@ -119,10 +107,7 @@ Stelahos dips one hand then shoots an upward palm-strike at a thug! He suffers a
 
 </div>
 
-
-<a id="felbow"></a>
-
-### Forward Elbow  *felbow <target>*
+### Forward Elbow  *felbow <target>* {#felbow}
 
 A horizontal strike with the elbow of your rear arm.  This is a swift and hard strike, following naturally from your stance.  However, it can also be used in close quarters to beat down an opponent you've pinned, or to try drive off a foe who's grappled you.
 
@@ -134,10 +119,7 @@ Stelahos turns and leans into his shoulder while bringing his elbow around, aimi
 
 </div>
 
-
-<a id="relbow"></a>
-
-### Rising Elbow  *relbow <target>*
+### Rising Elbow  *relbow <target>* {#relbow}
 
 An upward motion with the arm, bringing up the elbow to strike at a foe's face or head.  This move is best used while standing.
 
@@ -149,10 +131,7 @@ Stelahos dips one hand then shoot an upward elbow-strike at a thug! He suffers a
 
 </div>
 
-
-<a id="dknee"></a>
-
-### Driving Knee  *dknee <target>*
+### Driving Knee  *dknee <target>* {#dknee}
 
 A direct, straight thrust with your back knee.  This attack hits hard and can be used while clenched to your opponent.
 
@@ -164,10 +143,7 @@ Stelahos slides one foot back, increasing the distance between his feet, then, l
 
 </div>
 
-
-<a id="wknee"></a>
-
-### Wide Knee  *wknee <target>*
+### Wide Knee  *wknee <target>* {#wknee}
 
 A strike with the back knee that uses a downwards circular motion.  This brings the momentum of your entire body to bear against your opponent.  This can only be done standing, while in your stance.
 
@@ -179,10 +155,7 @@ Stelahos lift his back leg up, perpendicular to a thug, then brings around his k
 
 </div>
 
-
-<a id="knife"></a>
-
-### Knife Hand  *knife <target>*
+### Knife Hand  *knife <target>* {#knife}
 
 An advanced attack.  Your teacher will allow you to begin using it only when you are a master of the basic skills, and capable in Lead Palm, Straight Palm, and Rising Palm.
 
@@ -194,10 +167,7 @@ Stelahos rotates one forearm until his palm faces upwards, then twists into a su
 
 </div>
 
-
-<a id="lcross"></a>
-
-### Lead and Cross  *lcross <target>*
+### Lead and Cross  *lcross <target>* {#lcross}
 
 A combination of the Lead Palm and the Forward Elbow.  Be familiar in both to devastate your opponent with a double-hit.
 
@@ -209,10 +179,7 @@ Stelhaos leans forward, striking a thug with his lead palm, then turns his shoul
 
 </div>
 
-
-<a id="srise"></a>
-
-### Strike and Rise  *srise <target>*
+### Strike and Rise  *srise <target>* {#srise}
 
 Learn how to hit twice with one arm, using a combination of the Straight Palm and Rising Elbow.  Be familiar in both to acquire a good, solid set of high strikes.
 
@@ -224,10 +191,7 @@ Stelahos strikes at a thug with his palm, then brings up his elbow of that same 
 
 </div>
 
-
-<a id="doubleknee"></a>
-
-### Double Knee  *doubleknee <target>*
+### Double Knee  *doubleknee <target>* {#doubleknee}
 
 Once learned in both Driving Knee and Wide Knee, you will be able to perform a difficult, but damaging Double Knee strike.  This move can be a match-ender, especially when used repeatedly on a grappled foe.
 
@@ -239,10 +203,7 @@ Stelahos leaps forward, driving his rear knee into a thug, then following up wit
 
 </div>
 
-
-<a id="sclasp"></a>
-
-### Swift Head Clasp  *sclasp <target>*
+### Swift Head Clasp  *sclasp <target>* {#sclasp}
 
 This clasp grasps the back of your foe's head with your palm.  This is made possible after a successful Lead Palm, Straight Palm, or Rising Palm.  It is a swift hold, and is naturally followed up by elbow strikes to the face, or the initiation of a Brotherly Clasp.
 
@@ -255,10 +216,7 @@ Stelahos manage to clasp the back of a thug's head head tightly!
 
 </div>
 
-
-<a id="bclasp"></a>
-
-### Brotherly Clasp  *bclasp <target>*
+### Brotherly Clasp  *bclasp <target>* {#bclasp}
 
 This can be done only when already grappling your opponent's head.  Bind him to your shoulder and weave your arms under his armpits.  This will prevent him from using his own arms effectively against you.
 
@@ -270,10 +228,7 @@ Stelahos pulls a thug's head to his shoulder, weaving his free hand under a thug
 
 </div>
 
-
-<a id="wclasp"></a>
-
-### Waist Clasp  *wclasp <target>*
+### Waist Clasp  *wclasp <target>* {#wclasp}
 
 The basic low grapple consists of a sudden crouch and low drive at your opponent's waist.  This is somewhat dangerous as your opponent's arms will be free to counterattack, but controlling his center of gravity gives you a choice between Plummet and Reverse Plummet.
 
@@ -286,10 +241,7 @@ Stelahos faces sideways and drives his head into a thug's chest while both arms 
 
 </div>
 
-
-<a id="kclasp"></a>
-
-### Knee Clasp  *kclasp <target>*
+### Knee Clasp  *kclasp <target>* {#kclasp}
 
 A more advanced low grapple that locks your opponent's legs and disturbs his balance.  Follow up with a Plummet, then strike at your foe once on top of him.
 
@@ -302,10 +254,7 @@ Stelahos manages to get one arm under a thug's knee and another one around his w
 
 </div>
 
-
-<a id="plummet"></a>
-
-### Plummet  *plummet <target>*
+### Plummet  *plummet <target>* {#plummet}
 
 A maneuver that can only be done while grappling your opponent's leg or waist.  Moves which lead up to this one include Waist Clasp and Knee Clasp.  With your existing grip, lift your opponent's feet off the ground, then control his descent to slam his back solidly onto the dirt.  This will knock the wind out of him and allow you an advantageous position on top of him, from which you can rain down blows.
 
@@ -317,10 +266,7 @@ Stelahos uses his position to lift a thug up off his feet, then twist and slam d
 
 </div>
 
-
-<a id="rplummet"></a>
-
-### Rear Plummet  *rplummet <target>*
+### Rear Plummet  *rplummet <target>* {#rplummet}
 
 An advanced move that lifts an opponent up and slams him into the ground behind you.  Moves which lead up to this one include Waist Clasp and Brotherly Clasp.  Once slammed into the dirt, your opponent will be prone on the ground and you will be left standing.  Unlike Plummet, this move ends the clench.
 
@@ -332,10 +278,7 @@ Stelahos grasps a thug tightly, lifts him up, then bends backwards, driving a th
 
 </div>
 
-
-<a id="pblock"></a>
-
-### Palm Block
+### Palm Block {#pblock}
 
 This block is one of the first you will learn, and helps to deflect straight jabbing and stabbing strikes at the face and upper body.
 
@@ -347,10 +290,7 @@ Stelahos moves his head aside while the palm of his hand diverts the attack away
 
 </div>
 
-
-<a id="sblock"></a>
-
-### Shoulder Block
+### Shoulder Block {#sblock}
 
 This block makes use of a clenched, raised shoulder to absorb circular or wide slashing attacks against the head and upper body.
 
@@ -362,10 +302,7 @@ Stelahos clenches his arm and turns, deflecting the attack off his shoulder.
 
 </div>
 
-
-<a id="kblock"></a>
-
-### Knee Block
+### Knee Block {#kblock}
 
 Despite the name, the main blocking surface is your shin.  Harden your shin to prevent damage to your lower joints and vital areas.  This form deflects straightforward attacks.
 
@@ -377,10 +314,7 @@ Stelahos brings up his knee, jamming the attack.
 
 </div>
 
-
-<a id="skblock"></a>
-
-### Side Knee Block
+### Side Knee Block {#skblock}
 
 Similar to the knee block, except directed laterally with an accompanying movement just before the blow hits.  This move counters slashing and sweeping strikes at your legs.
 
@@ -392,10 +326,7 @@ Stelahos lifts his knee and swings it to the side, deflecting the attack.
 
 </div>
 
-
-<a id="accuracy"></a>
-
-### Pankration Accuracy
+### Pankration Accuracy {#accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -407,10 +338,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="focus"></a>
-
-### Pankration Focus
+### Pankration Focus {#focus}
 
 With enough training in Focus, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

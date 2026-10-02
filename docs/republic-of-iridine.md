@@ -80,9 +80,7 @@ For specific events in the chronology of Iridine, see [History](/history/).
 ### Religion
 For information, see the [Cult of Ereal](/cult-of-ereal/).
 
-
-<a id="Politics"></a>
-### Politics
+### Politics {#Politics}
 Iridine is a Republic, from the Latin Res and Publica, roughly meaning 'Of the People'. The People is a term interpreted as those with the wealth in land holdings to justify caring to defend it and govern it appropriately. As such, Iridine is truly a Republican Aristrocracy with much of the legislative and executive power balanced towards the land-holding elite. The Head Count, those in a class who do not meet the minimum requirements for military service and income, are represented though they wield very little political influence.
 
 Any new law or legislation must be initiated by a magistrate, discussed and debated among the [Senate](/senate/), and then brought before one of the People's assemblies for a vote.
@@ -93,9 +91,7 @@ Any new law or legislation must be initiated by a magistrate, discussed and deba
 * [Political Factions](/political-factions/)
 * [Comitia Centuriata](/comitia-centuriata/)
 
-
-<a id="Law"></a>
-#### Laws
+#### Laws {#Law}
 The [Laws](/law/) of Iridine are spelled out in the Twelve Tables. Of special interest may be the Crimes and Punishments Table. It lists all offenses that a character can commit and be jailed for the player or non-player law enforcement forces. Non-citizens and citizens alike are bound to the same rules, but the punishments and crimes vary based on your status with the Republic. 
 
 Check here for a list of warrantable offenses. [Crimes of Iridine](/warrants/)

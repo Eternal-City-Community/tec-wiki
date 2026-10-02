@@ -30,9 +30,7 @@ When filled, the following vessels yield the noted number of sips.
 | a finely crafted wide clay jar | 30 ligulae | 30 |
 | a finely crafted tall clay bottle | 50 ligulae | 50 |
 
-
-<a id="Tools"></a>
-### Tools
+### Tools {#Tools}
 Below are the types of tools possibly needed for brewing. Tools **do not have to be in the character's hands** when brewing *(with the exception of water)* as long as they are in your inventory or in the area with you, they are available for use.
 
 For **recipes that require water**, the easiest way to make it available is to hold an **open container of water in one hand**.
@@ -56,11 +54,9 @@ Herbalism **tools**, including water, **are not consumed upon use** the way ingr
 | Wooden Stylus | Labeling | Available for purchase in [shops](/shops/) |
 | Measuring Cup | TBC | Available for purchase in [shops](/shops/) |
 
+#### Containers {#Containers}
 
-<a id="Containers"></a>
-#### Containers
-
-Containers are used in combination with **[Brewing](#Brewing)** and **determine how much of an ingredient you will need**.
+Containers are used in combination with **[Brewing](#BrewingChart)** and **determine how much of an ingredient you will need**.
 
 **The below container list is a work in progress and has been incorrect in smaller batches.**
 The following can be used as containers for brewing.
@@ -107,16 +103,12 @@ The following can be used as containers for brewing.
 
 ### Tasks
 
-<a id="Foraging"></a>
-#### Foraging
+#### Foraging {#Foraging}
 
 * It is recommended to train and rank up the 3 foraging skills ([Basic Foraging](/herbalism/#basic-forage), [Intermediate Foraging](/herbalism/#intermediate-forage), [Advanced Foraging](/herbalism/#advanced-forage)) equally.
 * If you look in the area first, you will get a better sense of the types of raw ingredients you can find.
 
-
-<a id="BrewingChart"></a>
-<a id="Brewing"></a>
-#### Brewing - Fundamentals
+#### Brewing - Fundamentals {#BrewingChart}
 The cornerstone Herbalism is the ability to make useful products from ingredients, either foraged or purchased.
 
 **Brewing Fundamentals** allows you to create drinks and such.
@@ -143,9 +135,7 @@ Characters use the brew <container> command. The **size of the [container](#Cont
 | Beer | Barley grain (75) 🪙<br>Long, dark green tri-pointed leaf (10)<br>Ridged brilliant red mushroom cap (5) | Boiling Pot<br>Filter Paper<br>Fire<br>Mortar & Pestal<br>Water | **XX** Ranks in [Brew Fundamentals](/herbalism/#brew) |
 | Liquor | Wheat flour (5) 🪙<br>Barley grain (75) 🪙<br>Ridged brilliant red mushroom cap (50) | Boiling Pot<br>Filter Paper<br>Fire<br>Knife<br>Mortar & Pestal<br>Still<br>Stirring Stick<br>Water | **XX** Ranks in [Brew Fundamentals](/herbalism/#brew) |
 
-
-<a id="BrewingPaint"></a>
-#### Brewing - Paint
+#### Brewing - Paint {#BrewingPaint}
 Paints to paint... stuff.
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
@@ -166,9 +156,7 @@ Paints to paint... stuff.
 | Jade Green Paint | Small furry green leaf (100)<br>Long stem covered in small spiky leaves (50)<br>Long, dark green tri-pointed leaf (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
 | Pearl White Paint | Small furry green leaf (100)<br>Slender yellow stem (50)<br>Piece of thin grey bark (25) | TBC | **XX** Ranks in [Brew Paint](/herbalism/#paint) |
 
-
-<a id="BrewingFlasks"></a>
-#### Brewing - Flask
+#### Brewing - Flask {#BrewingFlasks}
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
 | --- | --- | --- | --- |
@@ -181,9 +169,7 @@ Paints to paint... stuff.
 | Violet Soap | Oblong green fruit (100)<br>Deep blue flower with white edges (40) | TBC | 50 Ranks in [Brew Flask](/herbalism/#flask) |
 | Rose Soap | Oblong green fruit (100)<br>Blossoming red flower (40) | TBC | **XX** Ranks in [Brew Flask](/herbalism/#flask) |
 
-
-<a id="BrewingSalves"></a>
-#### Brewing - Salve
+#### Brewing - Salve {#BrewingSalves}
 
 Items to help with character general health. Often combined with [healing](/healing/).
 
@@ -195,9 +181,7 @@ Items to help with character general health. Often combined with [healing](/heal
 | Burn Salve | Thick spike-edged green leaf (50)<br>Blossoming red flower (10) | Knife<br>Mixing Stick<br>Mortar & Pestal | 30 Ranks in [Brew Salve](/herbalism/#salve) |
 | Relaxing Massage Oil | Oblong green fruit (280)<br>Small star-like yellow flowers clustered atop a fleshy green stalk (140) | Drying Rack<br>Fire<br>Mortar & Pestal<br>Stirring Stick<br>Water | 50 Ranks in [Brew Salve](/herbalism/#flask) |
 
-
-<a id="BrewingPotions"></a>
-#### Brewing - Potions
+#### Brewing - Potions {#BrewingPotions}
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
 | --- | --- | --- | --- |
@@ -221,9 +205,7 @@ Something something craft vessel.
 
 Can craft the following items:  jars, flasks, bottles, vials.
 
-
-<a id="Jobs"></a>
-### Jobs
+### Jobs {#Jobs}
 
 * Mollicia, located in [the swamps](/the-salinae-swamp/), will buy harvested herbs of all types.
 * Flosturian, located near the Quartz Heights Temple, will buy harvested herbs of all types.

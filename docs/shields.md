@@ -64,10 +64,7 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 
 ### Skill Details
 
-
-<a id="sBlock"></a>
-
-### Shield Simple Block
+### Shield Simple Block {#sBlock}
 
 The most basic shield maneuver. Hold the thing up in front of you and hope that your opponent hits the shield instead of hitting you. 
 Crude, but effective. Defends against simple attacks to the midsection.
@@ -80,10 +77,7 @@ Hroth raises his shield, blocking a thug's attack!
 
 </div>
 
-
-<a id="cBlock"></a>
-
-### Shield Cross Block
+### Shield Cross Block {#cBlock}
 
 When your opponent slashes at you from the side, you'll need to act quickly to avoid getting sliced in half. Mastering the cross block maneuver means that you are able to quickly recognize such blows and swing your shield toward the opponent's incoming weapon to deflect or repel the attack. Defends against slashing attacks aimed anywhere.
 
@@ -95,10 +89,7 @@ Gilven sweeps his shield sideways, deflecting a thugs blow!
 
 </div>
 
-
-<a id="oBlock"></a>
-
-### Shield Overhead Block
+### Shield Overhead Block {#oBlock}
 
 Lifting your arm upward and flexing your elbow against an incoming blow, you attempt to deflect or absorb an opponent's attack that might otherwise hit you in the face or the side of the head. This maneuver defends against almost all attacks aimed high, making it a valuable defensive tool against attacks such as Spears Overhead Thrust.
 
@@ -110,10 +101,7 @@ Majell raises his shield over his head, blocking a thug's attack!
 
 </div>
 
-
-<a id="lBlock"></a>
-
-### Shield Low Block
+### Shield Low Block {#lBlock}
 
 Dropping your shield toward the ground, you attempt to cut off any attacks aimed at the feet or legs. Managing to get low quickly in the heat of battle is no simple task, though, particularly if you're carrying a heavy shield or wearing full armor. However, those who manage to master this maneuver will find that it defends against almost every low-aimed attack they'll encounter, with only a few exceptions.
 
@@ -125,10 +113,7 @@ Majell drops his shield down low, blocking a thug's attack!
 
 </div>
 
-
-<a id="Bash"></a>
-
-### Shield Bash  *sbash <target>*
+### Shield Bash  *sbash <target>* {#Bash}
 
 Using the knob, dome, or front side of your shield, you bash forward suddenly at your opponent. While not particularly complicated, this bruising attack can still catch someone off-guard if you time it right.
 
@@ -140,10 +125,7 @@ Gilven bashes a thug with his shield!
 
 </div>
 
-
-<a id="uBash"></a>
-
-### Shield Upward Bash  *supbash <target>*
+### Shield Upward Bash  *supbash <target>* {#uBash}
 
 Tilting the lower edge of your shield forward, you bash suddenly at your opponent's shin or ankle, using the lower rim of your shield to deliver a rapid bruising strike.
 
@@ -155,10 +137,7 @@ Cottus bashes upward at a thug with the foot of his shield!
 
 </div>
 
-
-<a id="eBash"></a>
-
-### Shield Edge Bash  *edgebash <target>*
+### Shield Edge Bash  *edgebash <target>* {#eBash}
 
 You slam the upper rim of the shield or buckler at the opponent. Typically this is aimed at the opponent's face or head, but you can also try to surprise them with an edge bash aimed low. The force of this attack is capable of stunning them momentarily and unlike the other shield attacks, delivers cutting damage as oppose to bruising.
 
@@ -173,10 +152,7 @@ Tilting his shield forward, Gilven slams the rim up into a thug! She suffers a c
 
 </div>
 
-
-<a id="pBack"></a>
-
-### Shield Push Back  *spushback <target>*
+### Shield Push Back  *spushback <target>* {#pBack}
 
 Using your shield as a barrier between you and your opponent, you throw your weight into them, pushing them backward and possibly off balance. When executed successfully, this will keep your opponent occupied for a few seconds, and if you're lucky, they might even leave an opening that you can exploit with a quick follow-up strike.
 
@@ -188,10 +164,7 @@ Hroth throws his weight towards a thug, pushing him back with his shield.
 
 </div>
 
-
-<a id="mDef"></a>
-
-### Shield Missile Defense
+### Shield Missile Defense {#mDef}
 
 With enough training in Shield Missile Defense, the wielder is able to effectively deflect arrows with the shield, which not only prevents the wielder from being wounded, but it also preserves the shield, preventing the kind of significant damage that it might otherwise sustain if an arrow strikes it straight on. Grandmasters (90 ranks) in this skill are able to perfect their knowledge of other shield blocks to deflect oncoming arrows. Those lesser skilled in this technique may only be able to apply some of the knowledge they've learned about other shield blocks to their attempt to deflect an arrow.
 

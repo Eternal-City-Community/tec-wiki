@@ -11,8 +11,8 @@ category: "Guides & Commands"
 [Miscellaneous Advanced Commands](#AdvancedMisc)
 
 ---
-<a id="Emotes"></a>
-## Emotes
+
+## Emotes {#Emotes}
 ### Basic Emotes
 You can express yourself using the 'emote' command or the ':' command shortcut followed by your action.
 
@@ -58,8 +58,8 @@ The players in the same room will see:
 While Leda will see:
 ***Hooting wildly, Constantine dances around the room and grabs your arm.***
 ---
-<a id="AdvancedMacros"></a>
-## Advanced Macros
+
+## Advanced Macros {#AdvancedMacros}
 
 ### Basic Macros:
 
@@ -160,8 +160,8 @@ emote opens his mouth wide open and flashes a quick smile in <<target>+p> direct
 It would show up as: **Yourname opens his mouth wide open and flashes a quick smile in Leda's direction.** when you enter the **supersmile** command if Leda is your TARGET.
 
 ---
-<a id="AdvancedSpeech"></a>
-## Advanced Speech
+
+## Advanced Speech {#AdvancedSpeech}
 
 ### Verbs and Adverbs
 
@@ -1214,9 +1214,7 @@ zealously
 zestfully
 zestily
 
-
-<a id="AdvancedMisc"></a>
-## Advanced Miscellaneous Commands
+## Advanced Miscellaneous Commands {#AdvancedMisc}
 ### Dress/Undress/Outfits/Wear All
 #### Dress
 **dress <outfit name>**  (See @outfits)

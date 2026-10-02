@@ -4,9 +4,7 @@ category: Wiki & Help
 ---
 # FAQ
 
-<a id="about"></a>
-
-### About
+### About {#about}
 
 #### What is The Eternal City (TEC)?
 
@@ -21,9 +19,7 @@ Four main factors separate The Eternal City from most other MUDs.
 3. **Mandatory role play**.
 4. Classless **skill system** that allows players to **craft their own playstyle** and distinct personas.
 
-<a id="account"></a>
-
-### Account
+### Account {#account}
 
 #### How do I sign up to Play?
 
@@ -48,9 +44,7 @@ There are multiple ways to stay up to date.
 3. Subscribe to the official **TEC Newsletter**: https://mailchi.mp/e15b15d2c6d3/tec-email-subscription .
 4. Visit the official **TEC Forums**: https://www.eternalcitygame.com/index.php/community/
 
-<a id="buy"></a> <a id="IG"></a>
-
-### In-Game
+### In-Game {#buy}
 
 #### Help!! I'm stuck or blocked in-game and I don't know what to do!!
 

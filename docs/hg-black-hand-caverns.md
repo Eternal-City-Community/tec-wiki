@@ -54,9 +54,7 @@ F.   Trapdoor
 From Seld Gate: 14xW, 124xN 
 From Vetallun Bridge: 125xNE + 113xE
 
-
-<a id="Level1"></a>
-### Level I
+### Level I {#Level1}
 
 <insert description>
 
@@ -71,9 +69,7 @@ From Vetallun Bridge: 125xNE + 113xE
 * A red poorly-woven **linen armband** stitched with a black hand
 * ...
 
-
-<a id="Level2"></a>
-### Level II
+### Level II {#Level2}
 <insert description>
 
 **<u>Opponents</u>** 
@@ -91,9 +87,7 @@ From Vetallun Bridge: 125xNE + 113xE
 * A <gray> rough **cotton armband** embossed with a black hand
 * ...
 
-
-<a id="Level2Boss"></a>
-#### Level II - Boss Room
+#### Level II - Boss Room {#Level2Boss}
  A group is recommended. 
 
 **<u>Opponents</u>** 
@@ -105,9 +99,7 @@ From Vetallun Bridge: 125xNE + 113xE
 * TBC
 * ...
 
-
-<a id="Level3"></a>
-### Level III
+### Level III {#Level3}
 <insert description>
 
 **<u>Opponents</u>**
@@ -124,9 +116,7 @@ From Vetallun Bridge: 125xNE + 113xE
 * A <blood red> rough **leather armband** stitched with a black hand
 * A worn-out rough **leather dog collar**
 
-
-<a id="Level4"></a>
-### Level IIII - Boss Room
+### Level IIII - Boss Room {#Level4}
  A group is recommended. 
 
 <insert description>

@@ -31,9 +31,7 @@ Below you'll find everything important to know about [Tailoring](/tailoring/).
 * You **can unlearn recipes**, you **cannot unlearn lores**.
 * You have to sew back to front. If you try to sew front to back, it won't work.
 
-
-<a id="Tools"></a>
-### Tools
+### Tools {#Tools}
 
 Below is a list of the various tools of the trade necessary for tailoring. 
 
@@ -46,9 +44,7 @@ Below is a list of the various tools of the trade necessary for tailoring.
 | Thimble | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
 | Measuring Cord | n/a | Prop, only used for RP. Available for purchase in [shops](/shops/) |
 
-
-<a id="Cloth"></a><a id="Fabric"></a>
-#### Fabric
+#### Fabric {#Cloth}
 
 Working with fabric is the lifeblood of a tailor. Different fabrics require a different level of skill to manipulate. Fabrics can be categorized into the below types. As a rule of thumb, the **lower the fabric type is on the below list, the more difficult it is to work with**.
 
@@ -71,9 +67,7 @@ To find where the appropriate fabric is sold, you can search for *'**length of c
 
 To manipulate pieces of cloth, see [Handling Cloth](#HandlingCloth).
 
-
-<a id="FabricChart"></a>
-##### Fabric Chart
+##### Fabric Chart {#FabricChart}
 The below chart columns reference the base materials, but includes all variants of that type of fabric. 
 
 
@@ -138,8 +132,7 @@ The below chart columns reference the base materials, but includes all variants 
 
 ### Tasks
 
-<a id="Garments"></a><a id="Clothing"></a>
-#### Create Clothing
+#### Create Clothing {#Clothing}
 
 At the core of tailoring is creating new and unique, oftentimes matching, outfits for those to wear. Creating garments and clothing is where a tailor typically spends the majority of their time.
 
@@ -160,9 +153,7 @@ The below **step-by-step** guide explain how to create a clothing item, using **
 | 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#Basic-Sewing))<br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew square to 2 square**'.<br>- The description changes to *"**an incomplete neckpouch**"*. _ |
 | 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#Basic-Hemming))<br><br>- Example: '**hem incomplete**'.<br>- The description changes to *"a homespun wool neckpouch"*. _ |
 
-
-<a id="HandlingCloth"></a>
-#### Handling Cloth
+#### Handling Cloth {#HandlingCloth}
 
 [Lengths of  cloth](#Cloth) can be [sewn together](/tailoring/#Basic-Sewing) to fashion larges pieces or can be [cut](/tailoring/#Tailors-Shears) into halves (<sup>1/2</sup>), quarters (<sup>1/4</sup>), and eighths (<sup>1/8</sup>) when smaller pieces are necessary.
 
@@ -178,9 +169,7 @@ To combine 2 pieces of cloth together, use '**sew square to 2 square**'.
 
 To cut cloth into pieces, simply '**cut cloth**'.
 
-
-<a id="Stitching"></a>
-#### Stitching (Patterns | Edging)
+#### Stitching (Patterns | Edging) {#Stitching}
 
 Stitching can be added to completed items. 
 
@@ -190,15 +179,11 @@ An example would be adding **crossed axes stitching** to '*a homespun wool neckp
 | --- | --- |
 | Step 2 : Stitch Pattern<br>(repeat as needed) | - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#Stitch-Pattern))<br>- Some stitches will require multiple successes to complete. Repeat as needed.<br>- Example: '**stitch neckpouch**'.<br><br>*To make a Pouch Square:*<br>** Lay out an eighth length of fabric.*<br>** Cut the part from the fabric.* _ |
 
-
-<a id="Mending"></a>
-#### Mend Clothing
+#### Mend Clothing {#Mending}
 
 Add something about mending...
 
-
-<a id="Jobs"></a>
-### Jobs
+### Jobs {#Jobs}
 
 
 There are various consignment board jobs for **skilled tailors** to earn work. Consignment boards have a rotating list of requested items. Complete the order and offer it to the NPC to receive payment. In addition to the below, player-characters may also request you to perform specific jobs.

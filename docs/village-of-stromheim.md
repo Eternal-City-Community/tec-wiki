@@ -62,8 +62,7 @@ These barbarians are friendly, but they do not talk our language or tolerate vio
 #### Entering
 The guard at the entrance will allow you to enter if you **offer him [a tear](/contraband/#Tears)** or **say a specific phrase** to him in [Spoken Blackroot](/languages/#Blackroot) asking him to allow you to enter. If you've already been in the village and **exchanged goods** equal in value to ~1,000 tokens, the Nehal people may respect you enough to enter as well.
 
-<a id="Runes"></a>
-#### Runes
+#### Runes {#Runes}
 **Ghendrahda** can place a rune on an organic (bone, wood, etc.) weapon if you reach a certain [reputation](/reputation/) threshold.
 
 #### Trade
@@ -74,7 +73,5 @@ Ways of **earning tokens**:
 * Trading clothing of *high-quality fabric* to **Borkos**.
 * Trading bronze & iron weapons/armor to **Borkos**. *Note: The more interest he shows in an item, the more tokens he will provide.*
 
-
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 TBC

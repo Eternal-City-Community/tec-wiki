@@ -11,9 +11,7 @@ Below are a list of all major game announcements:
 
 <!-- TEC_LISTPAGES parent=announcements -->
 
-
-<a id="promos"></a>
-### Monthly Promotions
+### Monthly Promotions {#promos}
 Below is a list of additional promotions the staff occasionally releases along with the last promo date.
 
 

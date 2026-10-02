@@ -18,8 +18,8 @@ You earn reputation with this establishment by: providing crafted goods, managin
 **Note:** Only characters with less than 1000 Total Ranks (includes both combat and non-combat ranks) will be able to enter this establishment.
 
 ---
-<a id="Credit"></a>
-#### Earning Credit:
+
+#### Earning Credit: {#Credit}
 
 **WHAT CAN BE TURNED IN FOR CREDIT:**
 1) Anything made, crafted, fashioned, assembled, sewn, etc. (BY the person turning it in)
@@ -38,8 +38,8 @@ You earn reputation with this establishment by: providing crafted goods, managin
 6) Making Package Deliveries for local businessmen and women when asked.
 
 ---
-<a id="Trainers"></a>
-#### Trainers:
+
+#### Trainers: {#Trainers}
 
 The Officium de Humanitas offers two poorly skilled trainers that will teach you for free of cost, but will require Reputation Points to allow you to rank up.
 
@@ -48,8 +48,8 @@ The Officium de Humanitas offers two poorly skilled trainers that will teach you
 **Nihleos** teaches these skillsets and all of their subskills up to rank 20 (requires 27 Pebbles to unlock Rank 20): Outdoor Survival, Hunting, Basic Tailoring, Healing and Locksmithing.
 
 ---
-<a id="Shops"></a>
-#### Shops:
+
+#### Shops: {#Shops}
 
 Priest Neathius will be accepting items that are listed above. The list below was built using pebbles only gathered from creatures' stomachs. Some items that are given to the Priest are worth more or less. As Tale told us in the Welcome Area one day, one pebble is worth 0.75 Reputation, so the list below is not 100% accurate. If an item unlocks at 4 Reputation Points, it will also consume those 4 Reputation Points if you purchase said item.
 
@@ -104,8 +104,8 @@ Priest Neathius will be accepting items that are listed above. The list below wa
 * All weapons come in Extremely Poor quality.
 
 ---
-<a id="Items"></a>
-#### Items:
+
+#### Items: {#Items}
 
 | Item | Weight | Protection | Covers |
 | --- | --- | --- | --- |

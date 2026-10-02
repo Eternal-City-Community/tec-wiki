@@ -50,10 +50,7 @@ Basic familiarity with the cestus involves becoming comfortable enough with the 
 
 ### Skill Details
 
-
-<a id="Stance"></a>
-
-### Cestus Weaving Stance  *weave*
+### Cestus Weaving Stance  *weave* {#Stance}
 
 The wielder swings his cestus-hand in a figure-eight before him, keeping the elbow "ahead" of the weight at all times to ensure maximum maneuverability. From this stance, any attack is slightly more likely to succeed. Failure means it was done too slowly or clumsily to be effective and amounts to little more than a wasted motion.
 
@@ -68,10 +65,7 @@ In a series of deft motions, a gladiator swiftly weaves his cestii in a figure e
 
 </div>
 
-
-<a id="Jab"></a>
-
-### Cestus Jab  *jab <target>*
+### Cestus Jab  *jab <target>* {#Jab}
 
 The wielder learns how to punch with the added weight on his arm, eventually learning how to land quick jabs using the blades and spikes along the cestus' knuckles.
 
@@ -83,10 +77,7 @@ A gladiator jabs at a thug with a swift punch using his iron cestus, but misses.
 
 </div>
 
-
-<a id="Shortupcut"></a>
-
-### Cestus Short Upcut  *upcut <target>*
+### Cestus Short Upcut  *upcut <target>* {#Shortupcut}
 
 **When you see this in use you see:**
 
@@ -96,10 +87,7 @@ A gladiator dips his lead hand and throw a quick uppercut at a thug with his bro
 
 </div>
 
-
-<a id="Slash"></a>
-
-### Cestus Spike Slash  *slash <target>*
+### Cestus Spike Slash  *slash <target>* {#Slash}
 
 The wielder swings his fist sideways, trying to score a shallow gouge on the opponent's body or armor with the cestus' spikes or blades. Though the attack causes little damage, it's difficult to block, as the human arm bends, unlike most weapons.
 
@@ -111,10 +99,7 @@ A gladiator swings a cestus covered fist sideways, lashing out at a thug with th
 
 </div>
 
-
-<a id="Doublejab"></a>
-
-### Cestus Double Jab  *doublejab <target>*
+### Cestus Double Jab  *doublejab <target>* {#Doublejab}
 
 The gladiator has become proficient enough at punching with cestus-covered fists to be able to perform conventional combination punches. Double jab is a heavily armored version of the standard one-two double punch.
 
@@ -126,10 +111,7 @@ With a rapid one-two punch, a gladiator jabs quickly at a thug with both cestii!
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Cestus Feint  *feint <target>*
+### Cestus Feint  *feint <target>* {#Feint}
 
 Similar to the fake jabs and sucker punches thrown by any good brawler, the gladiator leans forward and uses his cestus to distract his opponent. The difficulty for a feint to be used is dependant on the opponents overall fighting ability, a less skilled opponent will fall for a feint easier then a more skilled warrior.
 
@@ -141,10 +123,7 @@ A gladiator leans forward, feigning a thrust at a thug with his iron cestus!
 
 </div>
 
-
-<a id="Lunge"></a>
-
-### Cestus Tumble Lunge  *lunge <target>*
+### Cestus Tumble Lunge  *lunge <target>* {#Lunge}
 
 In a skillfull show of acrobatics, the gladiator dives forward from a distance, rolling on the ground towards his opponent while keeping his cestii locked together, then does a rapid low double-punch at his opponent as he rises. A very flashy way of quickly closing the distance with your target (the flashy way is usually the better way when in the arena), the maneuver leaves the wielder temporarily vulnerable and on his knees following the attack. At this point, Ducking Cross might become useful.
 
@@ -156,10 +135,7 @@ Diving forward, a gladiator rolls into the ground towards a thug, before rising 
 
 </div>
 
-
-<a id="Rearupcut"></a>
-
-### Cestus Rear Upcut  *rupcut <target>*
+### Cestus Rear Upcut  *rupcut <target>* {#Rearupcut}
 
 **When you see this in use you see:**
 
@@ -169,10 +145,7 @@ Arm extended, a gladiator pivots backwards on one foot, his boison cestus arcing
 
 </div>
 
-
-<a id="Spinning"></a>
-
-### Cestus Spinning Backhand  *spin <target>*
+### Cestus Spinning Backhand  *spin <target>* {#Spinning}
 
 The wielder pivots on one foot, turning all the way around. The attack is time-consuming, but strikes with greater force if it lands. This is best used when the opponent is too off-balance or stunned to strike during the moment of opportunity. It is a real crowd-pleaser, obviously dangerous.
 
@@ -184,10 +157,7 @@ Arms extended, a gladiator pivots backwards on one foot, his cestus slashing wil
 
 </div>
 
-
-<a id="Stab"></a>
-
-### Cestus Stab  *stab <target>*
+### Cestus Stab  *stab <target>* {#Stab}
 
 The gladiator has become used enough to the weight of the cestus to throw heavier, underhand punches, attempting slower and more powerful stabbing motions with the cestus' spikes.
 
@@ -199,10 +169,7 @@ A gladiator sends a heavy underhand punch towards a thug, stabbing at him with t
 
 </div>
 
-
-<a id="Upthrust"></a>
-
-### Cestus Upward Thrust  *upthrust*
+### Cestus Upward Thrust  *upthrust* {#Upthrust}
 
 From a kneeling position, the wielder leaps upwards, bringing up his forward fist in a rapid and powerful uppercut. This maneuver is a crowd-pleaser, as the rising uppercut is visibly dramatic to distant onlookers.
 
@@ -214,10 +181,7 @@ A gladiator rises up with a quick upward stabbing motion at a thug with his bron
 
 </div>
 
-
-<a id="Tripleslash"></a>
-
-### Cestus Triple Slash  *tripleslash <target>*
+### Cestus Triple Slash  *tripleslash <target>* {#Tripleslash}
 
 Similar to Spinning Backhand but with two cestii, the wielder steps back and pivots on his rear foot, effectively whirling in place with his bladed fists extended. This highly dramatic attack can cause up to three powerful slashing strikes against an opponent in rapid succession.
 
@@ -229,10 +193,7 @@ With both arms extended, a gladiator spins in place, striking at a thug with the
 
 </div>
 
-
-<a id="Upcutspin"></a>
-
-### Cestus Upcut Spin  *upspin <target>*
+### Cestus Upcut Spin  *upspin <target>* {#Upcutspin}
 
 **When you see this in use you see:**
 
@@ -242,10 +203,7 @@ A gladiator bobs down and darts towards a thug, spinning both hands upwards in a
 
 </div>
 
-
-<a id="Gouge"></a>
-
-### Cestus Vital Gouge  *gouge <target>*
+### Cestus Vital Gouge  *gouge <target>* {#Gouge}
 
 Combining his ability to punch using the cestus' weight with first-hand experience of the body's weak points, a gladiator attempts a 'hook' punch which, if successful, gouges deep into the opponent's body with the cestus' blades. Aimed towards the vital organs and areas of the waist, chest, neck, and head, a successful blow is often incapacitating and always bloody.
 
@@ -257,10 +215,7 @@ In a heavy raking punch, a gladiator viciously gouges at a thug with the blades 
 
 </div>
 
-
-<a id="Trap"></a>
-
-### Cestus Weapon Trap  *trap <target>*
+### Cestus Weapon Trap  *trap <target>* {#Trap}
 
 The wielder catches the blade or haft of the opponent's weapon between two long spikes or blades of the cestus and tries to trap the weapon. If successful, the opponent's weapon is temporarily entangled, but so is the cestus. Both the wielder and the opponent can try to free the weapon (*free <weapon>*). Of course, you can only attempt this maneuver if the opponent is wielding a weapon.
 
@@ -272,10 +227,7 @@ A gladiator thrusts his arm forward and twists, but fails to catch a thug's tin 
 
 </div>
 
-
-<a id="Simpleblock"></a>
-
-### Cestus Simple Block
+### Cestus Simple Block {#Simpleblock}
 
 The wielder blocks a cutting or stabbing strike with the cestus, which can absorb a lot more punishment than an unarmored arm can. An untrained wielder has no chance of blocking a weapon with that much extra weight on his arm.
 
@@ -287,10 +239,7 @@ A gladiator raises his arm before a thug's dagger, absorbing the brunt of the at
 
 </div>
 
-
-<a id="Crossblock"></a>
-
-### Cestus Cross Block
+### Cestus Cross Block {#Crossblock}
 
 In a motion similar to Spike Slash, the gladiator casts the blades of his cestii to the side in an attempt to catch or deflect incoming blows.
 
@@ -302,10 +251,7 @@ With a quick sideways motion, a gladiator catches a thug's tin dagger with the b
 
 </div>
 
-
-<a id="Weavingblock"></a>
-
-### Cestus Weaving Block
+### Cestus Weaving Block {#Weavingblock}
 
 The gladiator applies a weaving stance to a deft defensive movement in front of the upper body, knocking aside or deflecting high-aimed strikes. It is very useful against any slashing, chopping, or swatting attacks, but is nearly useless against stabbing and jabbing strikes. Against someone who doesn't know this, however, it can be very effective.
 
@@ -317,10 +263,7 @@ A gladiator rapidly deflects a thugs tin dagger using a swift weaving motion of 
 
 </div>
 
-
-<a id="Bladeblock"></a>
-
-### Cestus Blade Block
+### Cestus Blade Block {#Bladeblock}
 
 **When you see this in use you see:**
 
@@ -330,10 +273,7 @@ A thug makes a quick stabbing motion at a gladiator with his tin dagger, but mis
 
 </div>
 
-
-<a id="Lowcross"></a>
-
-### Cestus Low Cross
+### Cestus Low Cross {#Lowcross}
 
 The gladiator squats down quickly and crosses his arms, the interlocked cestii hopefully absorbing any low-aimed attack or strike.
 
@@ -345,17 +285,11 @@ A gladiator squats and crosses his arms before him, blocking a thug's attack wit
 
 </div>
 
-
-<a id="Duckingcross"></a>
-
-### Cestus Ducking Cross
+### Cestus Ducking Cross {#Duckingcross}
 
 While in a prone position, such as kneeling or laying, the gladiator crosses his arms, the interlocked cestii hopefully absorbing any incoming strike.
 
-
-<a id="Accuracy"></a>
-
-### Cestus Accuracy
+### Cestus Accuracy {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -367,10 +301,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Form"></a>
-
-### Cestus Form
+### Cestus Form {#Form}
 
 With enough training in Form, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

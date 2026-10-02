@@ -81,6 +81,5 @@ The current governor is [bio:Calastor Triarchus](/bio_calastor-triarchus/).
 ### Points of Interest
 tbc
 
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 * The [Rock Valley Watch](/rock-valley-watch/) are the local [lawkeepers](/law/#Lawkeepers) of this town.

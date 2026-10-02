@@ -30,8 +30,7 @@ Some locations within Iridine are considered to be *"common knowledge"*. From **
 
 You **cannot** use **'walk to'** to get to somewhere that's too far away. As an example, you cannot use the command to **walk to blackvine** directly from within the capital city of Iridine. You would need to first get closer to Blackvine (**walk to vetallun crossroad**) then you could walk to the **Blackvine** marked location.
 
-<a id="Mark"></a>
-##### Marked Destinations
+##### Marked Destinations {#Mark}
 For a full list of all known (aka marked) destinations, type in **mark**.
 
 To add a (limited amount) of personal marked locations to use personally, use the mark? <destination> command. *(Note: Only destinations on main roads can be marked and walked to.)*
@@ -73,9 +72,7 @@ The **[Phoenix Guards (PG)](/orgs/#PG)** are a special division of soldiers, sta
 
 Citizenship will make you get checked for contraband less frequently than those smelly foreigners. 
 
-
-<a id="Fast-Wagon"></a>
-### *(Fast-Travel)* Wagons
+### *(Fast-Travel)* Wagons {#Fast-Wagon}
 Travel wagons exist in the game world. For paid wagons, only 1 ticket must be purchased.
 
 #### Iridine <-> Rock Valley

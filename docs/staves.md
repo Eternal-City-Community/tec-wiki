@@ -66,10 +66,7 @@ Keeping in the spirit of remaining at a distance, a staver with parting moves an
 
 ### Skill Details
 
-
-<a id="Sweep"></a>
-
-### Staves Sweep  *sweep <target>*
+### Staves Sweep  *sweep <target>* {#Sweep}
 
 The wielder attempts to swing the stave at the opponent's legs and knock him on his rear end. Of course, your target must be standing in order to use this attack.
 
@@ -81,10 +78,7 @@ Leda brings her quarterstave in a downward sweeping arc aimed at a thug's legs, 
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Staves Feint  *feint <target>*
+### Staves Feint  *feint <target>* {#Feint}
 
 Exactly like all the other feints, it lowers the opponents defensive abilities. The difficulty for a feint to be used is dependant on the opponents overall fighting ability, a less skilled opponent will fall for a feint easier then a more skilled warrior.
 
@@ -96,10 +90,7 @@ Leda leans forward, feigning a strike at a thug with her quarterstave.
 
 </div>
 
-
-<a id="Jab"></a>
-
-### Staves End Jab  *jab <target>*
+### Staves End Jab  *jab <target>* {#Jab}
 
 The least damaging of all the staves moves, its only plus is that it is easy. It's basically the wimpy little brother to Staves Simple Strike, and is avoided by similar defenses. If you see someone using End Jab, they're probably Altene, because hardly anyone in their right mind would learn this one.
 
@@ -111,10 +102,7 @@ Rook jabs tentatively at a thug with with the butt of his quarterstave, but miss
 
 </div>
 
-
-<a id="Swat"></a>
-
-### Staves Swat  *swat <target>*
+### Staves Swat  *swat <target>* {#Swat}
 
 Another easy move, you'll often see swat in use by a stave user. It is decent to hit with, but doesn't hit hard at all. About the only move weaker is staves end jab. It is a slashing move, and thus is typically blocked by cross blocks. It is dodged relatively easily.
 
@@ -126,10 +114,7 @@ Using the center of a quarterstave as a fulcrum, Leda swats at a thug with one e
 
 </div>
 
-
-<a id="Strike"></a>
-
-### Staves Simple Strike  *strike <target>*
+### Staves Simple Strike  *strike <target>* {#Strike}
 
 An easy staves move, it is one of the better easy stave moves. Swat hits slightly less hard, but because it is a slashing attack, it is harder to block then Simple Strike. Simple Strike is blocked by relatively simple blocks. Aimed low, it is defended by a well-timed leg dodge or a low shield block, as well as assorted other low and simple blocks from other weapons.
 
@@ -141,10 +126,7 @@ With a quick forward rotation, Rook brings then end of a quarterstave down and s
 
 </div>
 
-
-<a id="Sidestrike"></a>
-
-### Staves Side Strike  *sidestrike <target>*
+### Staves Side Strike  *sidestrike <target>* {#Sidestrike}
 
 A manuever of average difficulty, this involves swiping sideways at your opponent with the stave. It hits harder than a simple strike, though many stavers seem to prefer the pivot smash over this maneuver.
 
@@ -156,10 +138,7 @@ With quarterstave held at the horizontal, Leda lets loose a quick sidestrike at 
 
 </div>
 
-
-<a id="Smash"></a>
-
-### Staves Pivot Smash  *smash <target>*
+### Staves Pivot Smash  *smash <target>* {#Smash}
 
 The most damaging average staves attack, slightly stronger than even the infamous Snap Strike. Their damages are very close, though Pivot Smash aims toward the midsection by default, while Snap Strike aims higher. It is defended the same as a Swat, as it is also a slashing attack.
 
@@ -171,10 +150,7 @@ With quarterstave held at the horizontal, Pelias steps forward and pivots slight
 
 </div>
 
-
-<a id="Longarm"></a>
-
-### Staves Longarm Strike  *longarm <target>*
+### Staves Longarm Strike  *longarm <target>* {#Longarm}
 
 The most powerful, and most difficult of all the standard single-hitting staves moves. It is basically a harder and stronger version of Snap Strike (below) which can only be used from a distance. It can also be performed with only one hand. It aims high by default, as does Snap Strike, and is defended by overhead blocks and Swaying Dodge. This technique can be aimed towards the mid section, but not at any specific body parts.
 
@@ -186,10 +162,7 @@ Using her quarterstave like a long club, Leda bashes at a thug, and hits! He suf
 
 </div>
 
-
-<a id="Sblock"></a>
-
-### Staves Simple Block
+### Staves Simple Block {#Sblock}
 
 The wielder interposes the lengthy quarterstave between him and his opponent's weapon. A simple block, it blocks simple attacks, aimed at the midsection, or low.
 
@@ -201,10 +174,7 @@ Leda blocks a thug's tin dagger with her quarterstave!
 
 </div>
 
-
-<a id="Cblock"></a>
-
-### Staves Crossblock
+### Staves Crossblock {#Cblock}
 
 Crossblock defends against slashing attacks aimed at the midsection or low.
 
@@ -216,10 +186,7 @@ Holding quarterstave vertically, Rook catches a thug's tin dagger with an inside
 
 </div>
 
-
-<a id="Oblock"></a>
-
-### Staves Overhead Block
+### Staves Overhead Block {#Oblock}
 
 Overhead Block blocks many attacks aimed high except for some more advanced techniques that instead must be deflected with Whirling Block.
 
@@ -231,10 +198,7 @@ Sliding her hand's apart, Leda bends her knees slightly and blocks upward, stopp
 
 </div>
 
-
-<a id="Pjab"></a>
-
-### Staves Parting Jab  *pjab <target>*
+### Staves Parting Jab  *pjab <target>* {#Pjab}
 
 Staves parting moves provide a quick way to fall back and attack at one time, even if the attack is unsuccessful. Parting Jab hits much better than End Jab.
 
@@ -249,10 +213,7 @@ Pelias steps back, jabbing at a thug with the tip of his quarterstave but missin
 
 </div>
 
-
-<a id="Pswat"></a>
-
-### Staves Parting Swat  *pswat <target>*
+### Staves Parting Swat  *pswat <target>* {#Pswat}
 
 Staves parting moves provide a quick way to fall back and attack at one time, even if the attack is unsuccessful. Parting Swat is a bit more powerful than Parting Jab.
 
@@ -267,10 +228,7 @@ Pelias steps back with his lead foot while spinning around, but fails to catch a
 
 </div>
 
-
-<a id="Psmash"></a>
-
-### Staves Parting Smash  *psmash <target>*
+### Staves Parting Smash  *psmash <target>* {#Psmash}
 
 Staves parting moves provide a quick way to fall back and attack at one time, even if the attack is unsuccessful. Parting Smash hits harder than Pivot Smash and may be the second hardest hitting staves attack, aside from Pivoting Longarm. Parting Smash targets high by default.
 
@@ -285,10 +243,7 @@ Leda steps back with her lead foot while spinning backwards, but fails to catch 
 
 </div>
 
-
-<a id="DSweep"></a>
-
-### Staves Defensive Sweep  *dsweep <target>*
+### Staves Defensive Sweep  *dsweep <target>* {#DSweep}
 
 The wielder attempts to swing the stave at the opponent's legs and knock him on his rear end. 
 
@@ -304,10 +259,7 @@ Assuming a more defensive posture, Rook brings his quarterstave in a downward sw
 
 </div>
 
-
-<a id="SSpin"></a>
-
-### Staves Stepping Spin  *sspin <target>*
+### Staves Stepping Spin  *sspin <target>* {#SSpin}
 
 Stepping forward toward your foe, you take on a more aggressive stance and simultaneously unleash a rapid barrage of strikes.
 
@@ -323,10 +275,7 @@ Leda takes several aggressive steps forward, striking at a thug with an opposite
 
 </div>
 
-
-<a id="Stance"></a>
-
-### Altene Skirmish Stance  *skirmish?stance*
+### Altene Skirmish Stance  *skirmish?stance* {#Stance}
 
 At 90 ranks, provides a +18 to hit bonus and +3 defensive bonus while maintaining the stance.
 
@@ -340,10 +289,7 @@ Angling your body to produce a narrower profile, you wield your quarterstave wit
 
 </div>
 
-
-<a id="Snapstrike"></a>
-
-### Staves Snap Strike  *snap?strike <target>*
+### Staves Snap Strike  *snap?strike <target>* {#Snapstrike}
 
 A decent staves move, Snap Strike automatically aims high like chop does for swords. It used to be the best, back when aiming didn't work for staves, because of this. But it isn't the best any more. It is strong, but Pivot Smash would probably be a better choice in the long run. It is stronger, and doesn't always aim high, so you can aim it elsewhere, where someone may be less defended. Snap Strike is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
@@ -355,10 +301,7 @@ Without interrupting his quarterstave's spinning motion, Malezzerai chops down a
 
 </div>
 
-
-<a id="Sweepandstrike"></a>
-
-### Staves Sweep and Strike  *sweepstrike <target>*
+### Staves Sweep and Strike  *sweepstrike <target>* {#Sweepandstrike}
 
 A combination of a sweep, followed with a rapid strike, originally created by Constable Juggalos. This move can only be dodged, it cannot be defended with rolling rise. Sweep and Strike is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
@@ -370,10 +313,7 @@ With a fluid motion, a constable brings his oak quarterstave in a downward sweep
 
 </div>
 
-
-<a id="Spinstrike"></a>
-
-### Staves Spinstrike  *spinstrike <target>*
+### Staves Spinstrike  *spinstrike <target>* {#Spinstrike}
 
 A little known but hard-hitting staves maneuver created by Constable Lorican. This maneuver automatically aims high, much like Snap Strike, and is capable of dealing up to three blows. Spinstrike is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
@@ -385,10 +325,7 @@ Stepping slightly to the side, Lorican brings his quarterstave down in a forward
 
 </div>
 
-
-<a id="Triplebash"></a>
-
-### Staves Triple Bash  *triplebash <target>*
+### Staves Triple Bash  *triplebash <target>* {#Triplebash}
 
 A little known but heavy-hitting staves manuever created by Constable Lothar. This maneuver automatically aims high, much like Snap Strike, and is the strongest manuever available to the stave, being able to deal up to three ugly bruises. This technique can be aimed towards the middle section, but not at any specific target. Triple Bash is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
@@ -400,10 +337,7 @@ Bashing downwards with his quarterstave, Lothar strikes at a thug then steps for
 
 </div>
 
-
-<a id="Wblock"></a>
-
-### Staves Whirling Block
+### Staves Whirling Block {#Wblock}
 
 A little known but extremely effective staves block created by Antaeus, it deflects many attacks that would otherwise pierce through the quarterstave's defenses. For example, it acts as a second layer of defense for many of the same powerful attacks that are dodged by Swaying Dodge, such as Spears Overhead Thrust. Whirling Block is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
@@ -415,10 +349,7 @@ Antaeus deflects a thug's spear with his quarterstave, twirling it masterfully i
 
 </div>
 
-
-<a id="Pivotinglongarm"></a>
-
-### Staves Pivoting Longarm  *pivot <target>*
+### Staves Pivoting Longarm  *pivot <target>* {#Pivotinglongarm}
 
 A little known staves maneuver **created by** [Constable Shara](/bio_shara/), Pivoting Longarm combines the one-handed power strike of Longarm Strike with the pivoting motion of Pivot Smash to increase the power even more. This maneuver is the strongest single strike available to the stave, being able to give major bruises with a very poor stave provided by Rufus. It can easily fracture bones with a more adequate stave. Pivoting Longarm is one of several lesser-known staves maneuvers that are only taught by other players and two reputation based NPC trainers.
 
@@ -430,10 +361,7 @@ Pivoting on one foot, Shara extends her stave along one arm and unleashes a vici
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Staves Accuracy
+### Staves Accuracy {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -445,10 +373,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Grip"></a>
-
-### Staves Grip
+### Staves Grip {#Grip}
 
 With enough training in Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

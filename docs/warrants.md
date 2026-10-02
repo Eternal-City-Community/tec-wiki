@@ -8,7 +8,7 @@ category: "Reference"
 As the Twelve Tables of Iridinian law make clear, those who commit a crime must be punished. The Senate has defined a thorough list of recognized crimes, along with associated penalties and forfeitures.
 
 
-### <a id="warrantList"></a> Warrant List
+### Warrant List {#warrantList}
 
 | Warrant | **Real-Life** Time | In-Game Fine | Type of Crime |
 | --- | --- | --- | --- |
@@ -61,10 +61,10 @@ As the Twelve Tables of Iridinian law make clear, those who commit a crime must 
 
 
 ---
-### <a id="warrantDetail"></a> Warrant Details
+### Warrant Details {#warrantDetail}
 
 
-#### <a id="papc"></a> **I. Property and Possession Crimes**
+#### **I. Property and Possession Crimes** {#papc}
 
 i. **Petty Theft**
  Theft of personal property valuing under two-hundred and fifty denars. 
@@ -116,7 +116,7 @@ ix. **Posession of Outlawed Magical Items**
 
 
 ---
-#### <a id="hav"></a> **II. Harassment and Violence**
+#### **II. Harassment and Violence** {#hav}
 
 i. **Harassment**
  Discomfort or aggression not resulting in physical harm.
@@ -187,7 +187,7 @@ xiv. **Banditry**
 
 
 ---
-#### <a id="pdaf"></a>**III. Public Disturbance and Fraud**
+#### **III. Public Disturbance and Fraud** {#pdaf}
  These are generally crimes that are social or political in nature. They may or may not be combined with other forms of crime.
 
 i. **Impropriety**
@@ -264,7 +264,7 @@ xiii. **Abuse of the Public Trust**
 
 
 ---
-#### <a id="admin"></a> **IV. Administrative**
+#### **IV. Administrative** {#admin}
   
 i. **Jail Time Outstanding**
  Used for adjustment of a person's jailtime sentence, or for early release. A Justice can also have the individual warranted for this and adjust their jailtime once in the cell, but it is not preferred to specific, named charges and is to only be used with explanations provided.
@@ -274,7 +274,7 @@ i. **Jail Time Outstanding**
 
 
 ---
-#### <a id="heresy"></a> **V. Heresy**
+#### **V. Heresy** {#heresy}
  When uncertain of the necessity or application of these warrants, consultation with a higher authority in the Cult or Law Offices is suggested.
 
 i. **Blasphemous Worship**
@@ -302,7 +302,7 @@ iv. **Blasphemous Propaganda**
 
 
 ---
-#### <a id="cai"></a> **VI. Crimes Against Iridine**
+#### **VI. Crimes Against Iridine** {#cai}
  These warrants may only be issued with the blessing of legates, justices, local magistrates, equivalents or superiors thereof. If no such authority can be found, the lead officer of a law body may allow the warrant to be issued, but should be prepared to fully explain the need at a later time, and face full responsibility for issuing the order.
 
 i. **Treason**

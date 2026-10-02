@@ -135,8 +135,7 @@ A rank of **1 signifies the best** in this category. All ammo has the same speed
 ### Complementary Skill Sets
 * [Hunting](/hunting/) & [Outdoor Survival](/outdoor-survival/) - Will allow you to make your own arrows.
 
-<a id="traits"></a>
-### Complementary Traits
+### Complementary Traits {#traits}
 * **[Night Vision](/traits/#NightVision)**
 * [Berserker](/traits/#berserk)
 

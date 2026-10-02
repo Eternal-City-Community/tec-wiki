@@ -73,8 +73,7 @@ C:\Users\<you>\.config\praetor\scripts\
 ~~~
 
 
-### Run a mode
-<a id="run"></a>
+### Run a mode {#run}
 
 Start a mode with **/mode** followed by its name and any arguments it takes. Names are matched regardless of case, and **/sm** is a shorter alias:
 
@@ -195,8 +194,7 @@ What it shows you: an optional named argument (**drop:**) picked out of the argu
 
 What it shows you: default values for arguments (**args[1] or 'sack'**), and a four-step loop of reactions (**You take**, then **You empty**, then **You drop**, then back to the next take) that ends when the source runs out. It is the shortest complete example of the take-act-repeat shape most utility modes use.
 
-### What the combat macros need
-<a id="macros"></a>
+### What the combat macros need {#macros}
 
 The combat modes don't fight for you directly. They send short commands like **at1** and **k1**, and the game turns those into your real attacks through its own **@macro** system. Each character needs these macros defined once, before any combat mode will do anything useful.
 

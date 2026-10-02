@@ -45,14 +45,9 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
 
+### Skill Details {#Subskill}
 
-<a id="Subskill"></a>
-### Skill Details
-
-
-<a id="siege"></a>
-
-### Falx Kelestian Siege Stance  *siege*
+### Falx Kelestian Siege Stance  *siege* {#siege}
 
 The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
@@ -65,10 +60,7 @@ The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
 </div>
 
-
-<a id="jab"></a>
-
-### Falx Extending Jab  *jab <target>*
+### Falx Extending Jab  *jab <target>* {#jab}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -82,10 +74,7 @@ A robust Kelestian raider twists her torso and extends the blade of her worn tin
 
 </div>
 
-
-<a id="wstrike"></a>
-
-### Falx Wild Strike  *wstrike <target>*
+### Falx Wild Strike  *wstrike <target>* {#wstrike}
 
 This maneuver attempts to hit ALL targets surrounding you.
 
@@ -104,10 +93,7 @@ You grip your polished tin falx tight and swing wildly, bringing the blade acros
 
 </div>
 
-
-<a id="slash"></a>
-
-### Falx Narrow Slash  *slash <target>*
+### Falx Narrow Slash  *slash <target>* {#slash}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -120,10 +106,7 @@ A livid Kelestian ravager leans forward slashing at you with the blade of his lo
 
 </div>
 
-
-<a id="chop"></a>
-
-### Falx Overhead Chop  *chop <target>*
+### Falx Overhead Chop  *chop <target>* {#chop}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -136,10 +119,7 @@ You swing the blade of your worn tin falx over your head, chopping at a fully-ar
 
 </div>
 
-
-<a id="strike"></a>
-
-### Pommel Strike  *strike <target>*
+### Pommel Strike  *strike <target>* {#strike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -152,10 +132,7 @@ A strong Kelestian raider tilts the blade of his sharpened tin falx back over hi
 
 </div>
 
-
-<a id="bash"></a>
-
-### Falx Haft Bash  *bash <target>*
+### Falx Haft Bash  *bash <target>* {#bash}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -169,10 +146,7 @@ A strong Kelestian raider holds his sharpened tin falx horizontally and swings t
 
 </div>
 
-
-<a id="stab"></a>
-
-### Falx Hook Stab  *stab <target>*
+### Falx Hook Stab  *stab <target>* {#stab}
 
 * This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Strength**.
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
@@ -186,10 +160,7 @@ A livid Kelestian ravager takes a wide grip on his long bronze falx with a dull 
 
 </div>
 
-
-<a id="eviscerate"></a>
-
-### Falx Eviscerate  *eviscerate <target>*
+### Falx Eviscerate  *eviscerate <target>* {#eviscerate}
 
 With your prone target in a vulnerable state, you attempt to slam your falx down into your opponent, putting your whole body weight behind it.
 
@@ -206,10 +177,7 @@ You drop your weight, slamming the hook of your alanti falx into a stoic Kelesti
 
 </div>
 
-
-<a id="break"></a>
-
-### Falx Formation Breaker  *break <target>*
+### Falx Formation Breaker  *break <target>* {#break}
 
 If successful, you can pull the opponent toward you.
 
@@ -224,10 +192,7 @@ A livid Kelestian ravager lifts his long bronze falx with a dull finish high and
 
 </div>
 
-
-<a id="ankle"></a>
-
-### Falx Ankle Drag  *ankle <target>*
+### Falx Ankle Drag  *ankle <target>* {#ankle}
 
 If successful, you can pull the opponent toward you.
 
@@ -244,10 +209,7 @@ A livid Kelestian ravager crouches low, swinging his bronze falx with a sharpene
 
 </div>
 
-
-<a id="wslash"></a>
-
-### Falx Whirlwind Slash  *wslash <target>*
+### Falx Whirlwind Slash  *wslash <target>* {#wslash}
 
 * This is an **Area of Effect** attack, striking at all approached opponents.
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
@@ -261,10 +223,7 @@ You raise your retalq falx high then bring it swiftly down while spinning in pla
 
 </div>
 
-
-<a id="spin"></a>
-
-### Falx Spinning Backhand  *spin <target>*
+### Falx Spinning Backhand  *spin <target>* {#spin}
 
 Attempts to hit multiple targets in the same room.
 
@@ -280,10 +239,7 @@ A livid Kelestian ravager slides his rear foot to the side and adjust his grip b
 
 </div>
 
-
-<a id="rake"></a>
-
-### Falx Wide Hook Rake  *rake <target>*
+### Falx Wide Hook Rake  *rake <target>* {#rake}
 
 Attempts to hit multiple targets in the same room.
 
@@ -299,10 +255,7 @@ A livid Kelestian ravager thrusts his long bronze falx with a dull finish behind
 
 </div>
 
-
-<a id="fslash"></a>
-
-### Falx Final Slash  *fslash <target>*
+### Falx Final Slash  *fslash <target>* {#fslash}
 
 This skill acts as a normal slashing attack until the opponent is KO or should be KO. Once they've hit that threshold it turns into a ranged killing blow cleaving them in two. 
 
@@ -320,10 +273,7 @@ You dip the blade of your worn bronze falx behind you before sliding your rear f
 
 </div>
 
-
-<a id="cblock"></a>
-
-### Falx Chopping Block  *n/a*
+### Falx Chopping Block  *n/a* {#cblock}
 
 **When you see this in use you see:**
 
@@ -333,10 +283,7 @@ A livid Kelestian ravager chops down with his long bronze falx with a dull finis
 
 </div>
 
-
-<a id="hparry"></a>
-
-### Falx High Parry  *n/a*
+### Falx High Parry  *n/a* {#hparry}
 
 **When you see this in use you see:**
 
@@ -346,10 +293,7 @@ Twisting his torso, a livid Kelestian ravager angles the blade of his long bronz
 
 </div>
 
-
-<a id="oparry"></a>
-
-### Falx Outside Parry  *n/a*
+### Falx Outside Parry  *n/a* {#oparry}
 
 **When you see this in use you see:**
 
@@ -359,10 +303,7 @@ Swinging his bronze falx with a sharpened blade down and to the side, a livid Ke
 
 </div>
 
-
-<a id="rdeflect"></a>
-
-### Falx Rising Deflect  *n/a*
+### Falx Rising Deflect  *n/a* {#rdeflect}
 
 **When you see this in use you see:**
 
@@ -372,10 +313,7 @@ A vicious-looking mercenary takes a wide grip on his dull tin falx and twists at
 
 </div>
 
-
-<a id="sdeflect"></a>
-
-### Falx Spinning Deflect  *n/a*
+### Falx Spinning Deflect  *n/a* {#sdeflect}
 
 **When you see this in use you see:**
 
@@ -385,10 +323,7 @@ Spinning his dull tin falx hand-over-hand, a strong Kelestian raider catches you
 
 </div>
 
-
-<a id="feint"></a>
-
-### Falx Feint  *feint <target>*
+### Falx Feint  *feint <target>* {#feint}
 
 **When you see this in use you see:**
 
@@ -398,19 +333,13 @@ A livid Kelestian ravager leans forward, feigning a thrust at you with his bronz
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Falx Accuracy  *n/a*
+### Falx Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
-
-<a id="Grip"></a>
-
-### Falx Grip  *n/a*
+### Falx Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 

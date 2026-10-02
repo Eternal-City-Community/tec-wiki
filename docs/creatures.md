@@ -33,10 +33,9 @@ Difficulty currently set to 0 until scaling/rating system is created.
 ##### Creatures:
 [Angry Gull](#AngryGull) | [Chauliodus Sloani](#ChauliodusSloani) | [Fluvitur](#Fluvitur) | [Fluvitur Pup](#FluPup) | [Gigantic Spider](#GiganticSpider) | [Large Brown Rat](#BrownRat) | [Osecar](#Osecar) | [Pungopiscor](#Pungopiscor) | [Quivering Ooze](#QuivOoze) | [Rock Crab](#RockCrab) | [Saltwater Snapper Turtle](#SaltSnapper) | [Sewer Rodent](#Rodent) | [Sewer Snake](#SewerSnake) | [Small Alligator](#SmallAlligator) | [Statorus](#Statorus)
 
-<a id="STI"></a>
-#### Signal Tower Island: 
-<a id="FluPup"></a>
-##### A fluvitur pup: 
+#### Signal Tower Island: {#STI}
+
+##### A fluvitur pup: {#FluPup}
 **Description:** You look at a small mammal that looks like a cross between a rat and an aquatic puppy. The pup has soft, brown fur and highly-muscled hind legs
 **Attack:** A fluvitur pup darts in towards you, but does not manage to bite.
 **Defense against attack:** staves simple block, basic dodge
@@ -45,8 +44,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Pelt:** soft brown pelt
 **Difficulty:**
 
-<a id="RockCrab"></a>
-##### A rock crab: 
+##### A rock crab: {#RockCrab}
 **Description:** You look down at a small, brown crab. It has a fairly soft carapace and big, serrated claws. It looks at you with eyes that sit up on little stalks.
 **Attack:** A rock crab swipes a claw at you, but misses.
 **Defense against attack:** None
@@ -54,8 +52,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Prices:** Small Crab Shell (6d 1st)
 **Difficulty:**
 
-<a id="SaltSnapper"></a>
-##### A saltwater snapper turtle: 
+##### A saltwater snapper turtle: {#SaltSnapper}
 **Description:** You see a thick-shelled turtle about three feet in length. Its skin is a dark ebony-green hue  and its shell a mixture of yellowish-brown and orange scales. You notice the maw of the creature to be particularly sharp and jagged  stained crimson by a meaty diet.
 **Attack:** A saltwater snapper snaps its jaws, missing you.
 **Defense against attack:** staves simple block, basic dodge
@@ -64,8 +61,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Difficulty:**
 **Notes:** Armored, TCR does not affect damage output
 
-<a id="AngryGull"></a>
-##### An angry gull: 
+##### An angry gull: {#AngryGull}
 **Description:** You see a large  dirty seagull. Its feathers are filthy and it reeks of rotten fish and garbage. It gives you a menacing glance.
 **Attack:** An angry gull swoops towards your head, but misses. DOUBLE HITTER
 **Defense against attack:** None
@@ -73,10 +69,9 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Prices:** Gull Wing (1 sen), Gull Beak (1 sen), Gull Leg (1 sen), Gull feather (won't buy)
 **Difficulty:**
 
-<a id="Shipwreck"></a>
-#### Signal Tower Island Shipwreck:
-<a id="Fluvitur"></a>
-##### A fluvitur: 
+#### Signal Tower Island Shipwreck: {#Shipwreck}
+
+##### A fluvitur: {#Fluvitur}
 **Description:** You look upon a massive rodent which stands low to the ground. It is covered with shaggy brown fur. You note that it has strong hind legs, contrasted by weak forelegs. The fluvitur has no tail and a thick membrane covers its eyes. It has canine-like jaws and teeth. It looks right back at you!
 **Attack:** A fluvitur tries to take a bite out of you, but misses.
 **Defense against attack:** None
@@ -85,10 +80,9 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Pelt:** a shaggy brown pelt
 **Difficulty:**
 
-<a id="IriSewers"></a>
-#### Iridine Sewers:
-<a id="BrownRat"></a>
-##### A large brown rat: 
+#### Iridine Sewers: {#IriSewers}
+
+##### A large brown rat: {#BrownRat}
 **Description:** You see a filthy specimen of urban vermin. The creature has a long  hairless tail as well as a pronounced snout and large front teeth. It is covered all over with matted brown fur. 
 **Skinnables:** Head, stomach, pelt, raw meat.
 **Prices:** Pelt (4d 1st 1s), Meat (1 sen), Head (1 sen), stomach
@@ -98,8 +92,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Difficulty:**
 **Additional notes:** Large brown rats do very low damage. Stomachs may contain a tiny dull gray stone.
 
-<a id="Osecar"></a>
-##### An osecar: 
+##### An osecar: {#Osecar}
 **Description:** You stare at a small wild-eyed animal which is about a foot and a half tall and is covered with striped brown fur. Its long  thick-looking teeth  powerful front legs and heavy claws mark it as a natural digger. It has a bloated tail  which it can rest on and sit upright. It seems to be remarkably agile.
 **Skinnables:** Head, stomach, pelt, raw meat, claw.
 **Prices:** Pelt (7 denars), Claw (1 sen), Head (1 sen)
@@ -111,8 +104,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Difficulty:**
 **Additional notes:** Osecars do low damage. Osecars can latch onto you and you will have to FREE yourself. If you end up grappled to an osecar, you will lose ALL of your defense.
 
-<a id="Rodent"></a>
-##### A sewer rodent: 
+##### A sewer rodent: {#Rodent}
 **Description:** You see a greyish-black rodent  its fur slick with slime and sewer waste. It is roughly the size of a grown man's forearm  with a tail about one and a half times as long. Under its elongated snout  you see a set of sharp carnivore teeth. It reeks of waste and rotting flesh.
 **Skinnables:** Head, tail, pelt.
 **Prices:** head (1 sen), pelt (6d 1st)
@@ -122,8 +114,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Difficulty:**
 **Additional notes:** Sewer rodents do very low damage.
 
-<a id="SewerSnake"></a>
-##### A sewer snake: 
+##### A sewer snake: {#SewerSnake}
 **Description:** You gaze at the sinuous form of a sewer snake. The speedy snake looks to be about ten feet in length. It has large eyes, a whip-like tail and is covered in all parts except for its abdomen with bright white scales. A strong odor of sewage emanates from this snake. The snake sticks its head up and looks about.
 **Skinnables:** Head, hide, tail. 
 **Hide:** 1 denar 2st 2 sen (5 pounds)
@@ -136,16 +127,14 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Difficulty:**
 **Additional notes:** Sewer snakes have armor on their heads. They do low damage. The reeking saliva may stun you and cause you to vomit. Sewer snakes will die rapidly if your Total Combat Ranks are too high as your damage will be increased.
 
-<a id="QuivOoze"></a>
-##### A quivering ooze: 
+##### A quivering ooze: {#QuivOoze}
 **Description:** Your cast your gaze over a enormous collection of ooze. Sticks and other detritus which covers it in most places lends itself to camouflage, looking mostly like a pile of oily-slick wilderness refuse. It has no limbs or sensory organs that you can detect. Nevertheless, this particular mass of ooze is quite animated. You think it is growing some form of pseudopod.
 **Skinnables:** None.
 **Attack:** A quivering ooze flails at you with its pseudopod, and hits!  You suffer a bruise to your right thigh. You suffer a bruise to your left thigh.
 **Difficulty:**
 **Additional notes:** The quivering ooze have a large amount of HP. They do high damage (bruise at 1 over). When they die, they do not go unconscious.
 
-<a id="SmallAlligator"></a>
-##### A small alligator
+##### A small alligator {#SmallAlligator}
 **Description:** This scaly creature is about three feet long, with mottled greenish-brown skin and cold black eyes.
 **Skinnables:** You note a piece of raw meat, two ribs, a hide, a skull, and a jagged alligator tooth still intact.
 **Prices:** small alligator rib (1 sen), small alligator skull (1 sen), jagged small alligator tooth (1 sen)
@@ -154,8 +143,7 @@ Difficulty currently set to 0 until scaling/rating system is created.
 **Difficulty:**
 **Additional notes:** Low HP. Have an attack that can cause two hits at relatively low damage.
 
-<a id="GiganticSpider"></a>
-##### A gigantic spider
+##### A gigantic spider {#GiganticSpider}
 **Description:** The arachnid is simply enormous  measuring in at about three feet tall. Its many long legs are covered in bands of brown and white hair  each of which terminate in a splayed trio of feet.
 **Skinnables:** You note eight eyes, eight large spider legs, and two stomachs still intact.
 **Prices:** Spider eye (1 sen), spider leg (1 sen)
@@ -282,10 +270,10 @@ You see a muck-covered rodent with ragged fur  and flea-bitten ears and a partia
 **Additional notes:** changes stances
 
 ---
-<a id="MonBar"></a>
-#### Monlon Barracks: 
-<a id="Statorus"></a>
-##### Statorus: 
+
+#### Monlon Barracks: {#MonBar}
+
+##### Statorus: {#Statorus}
 **Description:** This small  brown-skinned aquatic creature bears some resemblance to a large frog  though its limbs are stunted. It possesses a pair of relatively large fins and large eyes that protrude from the top of its head. The creature stares forward with its mouth half-open  revealing two rows of large teeth.
 **Attack:** A statorus roars at you, but fails to bite you. You sway to one side to avoid a statorus's attack.
 
@@ -295,8 +283,7 @@ A statorus tries to take a bite out of a woman, but misses.
 **Pelt:** *TBC*
 **Difficulty:** *TBC*
 
-<a id="ChauliodusSloani"></a>
-##### Chauliodus Sloani: 
+##### Chauliodus Sloani: {#ChauliodusSloani}
 **Description:** You see a four-legged creature with a long  slender body. It is almost six feet in length  covered with dark bluish-green scales that shimmer with light. Its fish-like head bears a pair of milky white eyes atop a wide maw. The lower jaw extends farther than the upper jaw  with sharp fangs that protrude upwards. A ridge follows its spinal column as it winds down its back and long tail. Its mouth opens to reveal a long  slimy tongue.
 **Attack:** A chauliodus sloani tries to lash a man with its long tongue, but misses. A man jumps upward, his legs avoiding a chauliodus sloani's attack! (Sway + Jump)
 
@@ -305,8 +292,7 @@ A chauliodus sloani lashes out towards you with its tail, but misses. You dodge 
 **Prices:** *TBC*
 **Difficulty:** *TBC*
 
-<a id="Pungopiscor"></a>
-##### Pungopiscor: 
+##### Pungopiscor: {#Pungopiscor}
 **Description:** You see a thick-shelled turtle about three feet in length. Its skin is a dark ebony-green hue  and its shell a mixture of yellowish-brown and orange scales. You notice the maw of the creature to be particularly sharp and jagged  stained crimson by a meaty diet.
 **Attack:** A pungopiscor snaps at a woman with its claws, but does not manage to catch him. A woman ducks under a pungopiscor's attack, avoiding it completely!
 

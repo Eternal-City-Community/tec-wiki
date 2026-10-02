@@ -102,7 +102,5 @@ With the opening of the gates of the idyllic fishing village of Seld, new opport
 
 </details>
 
-
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 tbc

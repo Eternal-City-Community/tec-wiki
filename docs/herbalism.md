@@ -45,10 +45,7 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 
 ### Skill Details
 
-
-<a id="plantid"></a>
-
-### Plant Identification  *plantid <plant>*
+### Plant Identification  *plantid <plant>* {#plantid}
 
 This skill allows you to identify plants you may have harvested or purchased. More ranks in this skill will allow you to identify a wider variety of plant types.
 
@@ -86,10 +83,7 @@ This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a char
 
 </div>
 
-
-<a id="basic-forage"></a>
-
-### Basic Herb Foraging  *find herbs*
+### Basic Herb Foraging  *find herbs* {#basic-forage}
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
@@ -110,28 +104,19 @@ This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a char
 
 </div>
 
-
-<a id="intermediate-forage"></a>
-
-### Intermediate Herb Foraging  *n/a*
+### Intermediate Herb Foraging  *n/a* {#intermediate-forage}
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
 See [Basic Herb Foraging](#basic-forage).
 
-
-<a id="advanced-forage"></a>
-
-### Advanced Herb Foraging  *n/a*
+### Advanced Herb Foraging  *n/a* {#advanced-forage}
 
 Herbalism has three subskills related to foraging - Basic, Intermediate, and Advanced herb foraging. These skills function similarly to Hunting's skinning skills. Ranks in Basic Herb Foraging increase your character's ability to find usable herbs and ranks in the Intermediate and Advanced skills increase your character's liklihood of finding herbs of increasing rarity. Areas should never "run out" of herbs, and areas can provide new herbs when your character revisits them after ranking up.
 
 See [Basic Herb Foraging](#basic-forage).
 
-
-<a id="brew"></a>
-
-### Brewing Fundamentals  *brew <container>*
+### Brewing Fundamentals  *brew <container>* {#brew}
 
 The size of the container determines how much product will be made and the quantity of ingredients needed. If you don't have enough ingredients to make a bucket of beer, try to make just a mug.
 
@@ -156,10 +141,7 @@ Enter the number of the product you would like to brew.
 
 </div>
 
-
-<a id="paint"></a>
-
-### Brew Paint  *n/a*
+### Brew Paint  *n/a* {#paint}
 
 *This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
@@ -175,10 +157,7 @@ For details on existing recipes, *see the [brewing chart](/herbalism-guide/#Brew
 
 </div>
 
-
-<a id="flask"></a>
-
-### Brew Flask  *n/a*
+### Brew Flask  *n/a* {#flask}
 
 *This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
@@ -194,10 +173,7 @@ For details on existing recipes, *see the [brewing chart](/herbalism-guide/#Brew
 
 </div>
 
-
-<a id="salve"></a>
-
-### Brew Salve  *n/a*
+### Brew Salve  *n/a* {#salve}
 
 *This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
@@ -213,10 +189,7 @@ For details on existing recipes, *see the [brewing chart](/herbalism-guide/#Brew
 
 </div>
 
-
-<a id="potion"></a>
-
-### Brew Potion  *n/a*
+### Brew Potion  *n/a* {#potion}
 
 *This skill is used in combination with [Brewing Fundamentals](/herbalism/#brew).*
 
@@ -232,10 +205,7 @@ TBC
 
 </div>
 
-
-<a id="vessel"></a>
-
-### Craft Vessel  *craft [jar|flask|bottle|vial] [from|with] <clay>*
+### Craft Vessel  *craft [jar|flask|bottle|vial] [from|with] <clay>* {#vessel}
 
 This skill requires clay, which can be purchased from locksmithing shops, or foraged for with Outdoor's Survival Foraging skill at river banks. Any liquid container can be used for brewing, from vials to barrels, as long as the herbalist has an appropriate amount of ingredients to fill it. The volume of a container can be determined with the Volume Estimation skill and a scroll outlining Iridine's system of measurement can be purchased IG.
 
@@ -248,10 +218,7 @@ This skill requires clay, which can be purchased from locksmithing shops, or for
 
 </div>
 
-
-<a id="label"></a>
-
-### Label Container  *label <container> <text>*
+### Label Container  *label <container> <text>* {#label}
 
 You must **wield** a sharp tool to label a container.
 
@@ -263,10 +230,7 @@ TBC
 
 </div>
 
-
-<a id="estimation"></a>
-
-### Volume Estimation  *estimate <liquid|powder|container>*
+### Volume Estimation  *estimate <liquid|powder|container>* {#estimation}
 
 This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's reasoning & judgement.
 

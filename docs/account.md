@@ -11,8 +11,7 @@ category: "Guides & Commands"
 
 </div>
 
-<a id="AccountSub"></a>
-## Account Subscriptions
+## Account Subscriptions {#AccountSub}
 
 The Eternal City offers three account subscription levels. Find the one that best fits your needs and goals:
 
@@ -41,9 +40,7 @@ The Eternal City offers three account subscription levels. Find the one that bes
 **Only applies to **Basic** & **Premium** account subscription. Accounts with more than one character can use the @number-one command once to set a character in the first slot. "You must have created your account prior to 5/7/2010 to use the @number-one command."
 *Accounts that are grandfathered from old system receive 6 instead of 5 character slots. 
 
-
-<a id="RolePoints"></a>
-## Role Points (RPs)
+## Role Points (RPs) {#RolePoints}
 
 Role Points (aka **RPs**, Role-Points or RolePoints) are out-of-character currencies that can be used to make purchases that enhance your in-character gameplay. Their use is not mandatory. To see how many RPs your account has, you can use the **@rps** command from the Welcome Area (WA) while not in-game.
 
@@ -65,9 +62,7 @@ You earn Role Points multiple ways; based on your play time, being visible on WH
 | RolePlayer(RPer) of the Month | Each month, the number of points earned from Players (Kudos) or Staff (BPs & RPS) are counted towards the Roleplayer of the Month for that month. The points earned from these methods are also converted to role points at the end of the month. It scales based on how many you received.<br>(e.g. 300+ was 3:1 the number, so at 300 you'd get 900 RPS. Lower end was 1:1 and went up to 2:1 around 100) |
 | Converting [StoryPoints](#Storypoints) | You can spend Storypoints and convert them to RPs at a rate of 1 StoryPoint = 5 Role Points. |
 
-
-<a id="RolePointPurchases"></a>
-#### Role Point Purchases
+#### Role Point Purchases {#RolePointPurchases}
 Role Points can be used to change how **your character appears** cosmetically (e.g. custom description), change **your character's mechanics** (e.g. how many skills they can learn), to request a **custom in-game event** supported by the GMs and more.
 
 The cost of making purchases using Role Points (RPs) can vary based on your [account subscription level](/account/). Below is a list of all RP expenditure options with their varying costs.
@@ -86,7 +81,7 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | Extra character slot | N/A | 4,000 | 3,000 | @play |
 | [Veteran Character Package](/veteran-characters/) |  |  | Free - 100K | @play |
 | Recover sold/discarded item | 200 | 150 | 100 | retrieve command IG |
-| [Item Alteration](/customization-guide/) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#item-alterations))* |
+| [Item Alteration](/customization-guide/) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#Alterations))* |
 | [Custom Roleplay Prop](/customization-guide/#Props) | N/A | 1,500+ | 1,000+ | @request *(see [Custom Props](/customization-guide/#Props))* |
 | [Gear Alteration Package](/customization-guide/#gearAlteration) | N/A | 2,000 | 1,000 | @request *(see [Custom Requests](/customization-guide/#gearAlteration))* |
 | [Superior Weapon Upgrade](/rp-expenditure/#superior) | N/A | 2,500 | 1,500 | @play *(see [Custom Requests](/customization-guide/))* |
@@ -112,8 +107,7 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Branding/Scarring](/pvp/#bone-break) (GM Approval) | N/A | 1,000 | 1,000 | [See PvP info](/pvp/) |
 | [Cut Tongue](/pvp/#bone-break) (GM Approval) | N/A | 2,000 | 2,000 | [See PvP info](/pvp/) |
 
-<a id="requests-property"></a>
-##### Property, Pet, and Event Requests
+##### Property, Pet, and Event Requests {#requests-property}
 
 | Role Point Expenditure Description | Free | Basic | Premium | How to redeem |
 | --- | --- | --- | --- | --- |
@@ -131,9 +125,7 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 For **detailed information on the above Role Point Expenditure** options, please see **[RP Expenditure](/rp-expenditure/)** page.
 For more **information on Custom Requests**, please see the **[Customization Guide](/customization-guide/)**.
 
-
-<a id="Storypoints"></a>
-## StoryPoints (StPs)
+## StoryPoints (StPs) {#Storypoints}
 StoryPoints (story-points/StPs) are out-of-character currencies that can be used to make purchases that enhance your in-character gameplay. Their use is not mandatory. To see how many StPs your account has, you can use the **@storypoints** command.
 
 #### Obtaining StoryPoints
@@ -152,8 +144,7 @@ StoryPoints (story-points/StPs) are out-of-character currencies that can be used
 | Premium | 200 | $99.80 | $0.499 |
 | Premium | 250 | $124.75 | $0.499 |
 
-<a id="StoryPointPurchases"></a>
-#### StoryPoint Purchases
+#### StoryPoint Purchases {#StoryPointPurchases}
 Your ability to make purchases with StoryPoints varies based on your [account subscription](/account/). All purchases are made using the **@play** command within the Welcome Area (WA).
 
 | StoryPoint (StP) Expenditure Option | StP Cost | How It Works |
@@ -165,8 +156,7 @@ Your ability to make purchases with StoryPoints varies based on your [account su
 | Double Role Points for 7 Days | 50 | This purchase sets your account's multiplier to 2, or to the game-wide rate<br>(whichever is higher) for 7 days. This impacts RPs/Hour rate.<br>It does not stack with promotional Role Point gain rates, and may only be purchased once per month. |
 | Skill Point Cycle Reset | 50 | This purchase will reset the weekly Skill Point Cycle to Day 1 for a single character.<br><br>***Note**:* You will get the most out of this purchase if your character has already<br>trained and is as close to minimum SP gains this Cycle as possible.<br><br>***Community Note**:* This purchase appears limited to once per month. (30 calendar days)<br>A **Premium Subscription** is **required** for this option.<br>This **does not pause the standard weekly SP Cycle Reset** on Wednesdays @ 8PM EST. |
 
-<a id="Apartments"></a>
-## Apartments
+## Apartments {#Apartments}
 ### Monlon Apartments
 2-Room Apartment
 * Price: 3000 rps and 300t or 650 storypoints
@@ -202,8 +192,7 @@ Vetallun Insula Apartment Pricing
 * Price: 7000 rps &amp; 500t or 450 storypoints
 * Features: Includes a culina, triclinium, cubiculum, and balcony room. Permanent lighting included.
 
-<a id="Perks"></a>
-## Perks
+## Perks {#Perks}
 Paid accounts receive a usable gift on the 1st of every month, referred to as a ***Perk***. These perks can be accessed through the **@perks** menu from the Welcome Area (WA). 
 
 

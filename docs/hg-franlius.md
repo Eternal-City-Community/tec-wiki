@@ -43,10 +43,7 @@ City of Iridine: [Harbor](/harbor/)
 4. Legio fort
 5. Baths
 
-
-<a id="Tiers"></a>
-<a id="Tier1"></a>
-### Tier I - Southeast Corner
+### Tier I - Southeast Corner {#Tiers}
 
 This Tier is generally survivable if your character has graduated from Tier 2 of the Ludus and requires no additional help to defeat the slaves there. Some caution must be exercised at this level, however, as the Cinerans undead can gang up on your quickly. 
 
@@ -60,9 +57,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **<u>Reputation Drops</u>** 
 * A wide **wool armband** bearing a faded red emblem
 
-
-<a id="Tier2"></a>
-### Tier II - Southwest Corner
+### Tier II - Southwest Corner {#Tier2}
 
 
 **<u>Opponents</u>** 
@@ -78,9 +73,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **<u>Reputation Drops</u>** 
 * A wide **linen armband** *<bearing|stitched with>* a *<scarlet|faded scarlet|bright red|red>* emblem.
 
-
-<a id="Tier3"></a>
-### Tier III - Northeast Corner
+### Tier III - Northeast Corner {#Tier3}
 
 
 **<u>Opponents</u>** 
@@ -96,9 +89,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **<u>Reputation Drops</u>** 
 * A wide **fine linen armband** *<bearing|stitched with>* a *<scarlet|detailed scarlet|red>* emblem.
 
-
-<a id="Tier4"></a>
-### Tier IV - Northwest Corner
+### Tier IV - Northwest Corner {#Tier4}
 
 **<u>Opponents</u>** 
 * A officer *(Gladius)*
@@ -111,9 +102,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **<u>Reputation Drops</u>** 
 * A wide **silk armband** *<bearing|stitched with>* a [*<detailed>*] *<crimson|a rotting|a decaying>* <emblem|rot>.
 
-
-<a id="Tier5"></a>
-### Tier V - Docks
+### Tier V - Docks {#Tier5}
 **<u>Rank Threshold</u>**
 * None
 

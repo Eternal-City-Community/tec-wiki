@@ -26,8 +26,7 @@ Use rat pelts and brains from Burnt Villa to skill with by making leather. This 
 
 Now not only can you reliably create leather, but you can also efficiently skill up the rest of the sub-skills in Tanning and learn the fur lining recipes.
 
-<a id="Tools"></a>
-### Tools & Consumables
+### Tools & Consumables {#Tools}
 Below are the types of tools needed for tanning.
 
 Tanning tools are not consumed upon use, however ingredients have a limited number of usages.

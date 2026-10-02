@@ -47,10 +47,7 @@ Other cultures, primarily primitive ones, have been known to use clubs extensive
 
 ### Skill Details
 
-
-<a id="Crush"></a>
-
-### Club Crush  *crush <target>*
+### Club Crush  *crush <target>* {#Crush}
 
 One of the more barbaric maneuvers, crush is a technique of bringing a club over one's head and then bringing it down in a powerful swatting action. If blocked, there is a chance of disarming your opponent.
 
@@ -62,10 +59,7 @@ Grasping a club in both hands, Cralus twists into a crushing overhead blow, aime
 
 </div>
 
-
-<a id="Strike"></a>
-
-### Club Strike  *strike <target>*
+### Club Strike  *strike <target>* {#Strike}
 
 A common, simple technique of bringing a club down in a striking motion.
 
@@ -77,10 +71,7 @@ Cottus brings his club down in an overhead motion, striking at a thug, but misse
 
 </div>
 
-
-<a id="Side"></a>
-
-### Club Side Strike  *side <target>*
+### Club Side Strike  *side <target>* {#Side}
 
 A powerful technique of swinging a club horizontally with one hand.
 
@@ -92,10 +83,7 @@ Cralus holds out a club with one extended arm and swings it horizontally at a th
 
 </div>
 
-
-<a id="Swat"></a>
-
-### Club Swat  *swat <target>*
+### Club Swat  *swat <target>* {#Swat}
 
 A simple technique of using a club to strike an opponent with a quick back-handed movement.
 
@@ -107,10 +95,7 @@ With a quick back-handed movement, Cassius swats at a thug with his club, but mi
 
 </div>
 
-
-<a id="Smash"></a>
-
-### Club Smash  *smash <target>*
+### Club Smash  *smash <target>* {#Smash}
 
 A powerful technique of pivoting into a powerful, one-handed sidestrike with a club. If blocked, there is a chance of disarming your opponent.
 
@@ -122,10 +107,7 @@ Stepping forward with his club outstretched, Cassius pivots into a crushing side
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Club Feint  *feint <target>*
+### Club Feint  *feint <target>* {#Feint}
 
 A quick, false strike aimed to lower an opponent's guard.
 
@@ -137,10 +119,7 @@ Cassius leans forward, feigning a strike at a thug with his club.
 
 </div>
 
-
-<a id="Sap"></a>
-
-### Club Sap  *sap <target>*
+### Club Sap  *sap <target>* {#Sap}
 
 A vicious maneuver utilizing the handle of a club to strike an opponent's head, often disorienting the target.
 
@@ -152,10 +131,7 @@ Cottus raises the handle of his club, aiming it at a thugs head! He suffers a sm
 
 </div>
 
-
-<a id="Simple"></a>
-
-### Club Simple Block  *n/a*
+### Club Simple Block  *n/a* {#Simple}
 
 A basic blocking maneuver in which the wielder interposes the club in front of a simple or direct attack.
 
@@ -167,10 +143,7 @@ Rontubius blocks a thug's tin dagger with his club!
 
 </div>
 
-
-<a id="Round"></a>
-
-### Club Round Strike  *round <target>*
+### Club Round Strike  *round <target>* {#Round}
 
 The wielder swings, shifting his grip and making the strike end of the weapon circle a bit. If it succeeds, it is a normal attack- save that it's much easier to block. If it is blocked, then a second attack is made instantly, the weapon revolving around the blocking weapon. This "second chance" attack has half normal effectiveness, but against someone who'se good at blocking can be much better than nothing. This can be aimed as well, which is a good thing, since the attack is pretty weak. 
 
@@ -185,10 +158,7 @@ Cottus swings at a thug, shifting his grip and making the striking end of his cl
 
 </div>
 
-
-<a id="Leg"></a>
-
-### Club Leg Strike  *legstrike <target>*
+### Club Leg Strike  *legstrike <target>* {#Leg}
 
 The wielder aims a vicious lateral blow at the opponent's lower legs. If the maneuver succeeds, little damage is inflicted but there is a chance of tripping the opponent (defender's agility may counter this, the opponent is knocked down only if the roll is 30 over the success). The higher the strength of the character, the greater the effectiveness). This attack is much like Staves or Spears Sweep, except that it can cause quite a bit of damage (despite the official description), and doesn't always knock the person down. I like this one quite a bit.
 
@@ -201,10 +171,7 @@ In a vicious lateral blow, Rontubius aims his club towards a thug in a powerful 
 
 </div>
 
-
-<a id="Knock"></a>
-
-### Club Knock Aside  *knockaside <target>*
+### Club Knock Aside  *knockaside <target>* {#Knock}
 
 The wielder strikes at the opponent's weapon hand. If the maneuver succeeds, the struck weapon may be knocked aside, leaving the opponent off-guard for the next attack
 
@@ -216,10 +183,7 @@ Aiming for his weapon hand, Cottus directs his club towards a thug and hits! It 
 
 </div>
 
-
-<a id="Cross"></a>
-
-### Club Cross Block  *n/a*
+### Club Cross Block  *n/a* {#Cross}
 
 Essentially the same as crossblocks with various other weapons, the wielder moves the club across the field where the weapons clash, knocking a strike aside. More effective than a simple block with this weapon. Defends against slashing attacks to the midsection.
 
@@ -231,10 +195,7 @@ Swinging his club towards a thug's tin dagger, Cralus knocks the attack harmless
 
 </div>
 
-
-<a id="Head"></a>
-
-### Club Head Block  *n/a*
+### Club Head Block  *n/a* {#Head}
 
 Protects against problematic attacks such as weapon hooks and catches, or overhead chops aimed at the midsection.
 
@@ -246,10 +207,7 @@ Bashing downward with the head of his long wooden club, a brute knocks your tin 
 
 </div>
 
-
-<a id="Upswing"></a>
-
-### Club Upswing  *upswing <target>*
+### Club Upswing  *upswing <target>* {#Upswing}
 
 A slightly more difficult bashing maneuver, but reversed. Swinging the club down and bashing upwards.
 
@@ -261,10 +219,7 @@ Rontubius lowers his iron mace and twists, smashing upwards at a thug! A thug su
 
 </div>
 
-
-<a id="Bash"></a>
-
-### Club Simple Bash  *bash <target>*
+### Club Simple Bash  *bash <target>* {#Bash}
 
 Simple technique of bashing downward at an opponent with one's club.
 
@@ -276,10 +231,7 @@ Rontubius raises his iron mace and bashes downwards at a thug! A thug suffers a 
 
 </div>
 
-
-<a id="Hop"></a>
-
-### Club Hop Bash  *hbash <target>*
+### Club Hop Bash  *hbash <target>* {#Hop}
 
 Powerful maneuver in which the user jumps up and bring his club down on the opponent as he descends. If blocked, there is a chance of disarming your opponent.
 
@@ -291,10 +243,7 @@ Cralus cloak raises his iron mace and jumps up, bashing at a thug on his way dow
 
 </div>
 
-
-<a id="Break"></a>
-
-### Club Shield-Breaker  *break <target>*
+### Club Shield-Breaker  *break <target>* {#Break}
 
 The wielder aims a heavy arc with his club at an opponent's shield, with the sole intent of damaging it, possibly even destroying it.
 
@@ -307,10 +256,7 @@ Cassius swings his iron mace in a wide arc at a thug but misses.
 
 </div>
 
-
-<a id="Stepping"></a>
-
-### Club Stepping Crush  *scrush <target>*
+### Club Stepping Crush  *scrush <target>* {#Stepping}
 
 Executing this attack will leave the attacker in a **more aggressive posture** and cannot be used from a berserk posture.
 
@@ -323,10 +269,7 @@ Rontubius aggressively swings his mace down at a thug while stepping forward, bu
 
 </div>
 
-
-<a id="Stance"></a>
-
-### Iunius' Stance  *iunius?stance*
+### Iunius' Stance  *iunius?stance* {#Stance}
 
 The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
@@ -338,10 +281,7 @@ Cassius is standing in a relaxed posture, one foot forward, with his club restin
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Club Accuracy  *n/a*
+### Club Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -353,10 +293,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Grip"></a>
-
-### Club Grip  *n/a*
+### Club Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

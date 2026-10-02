@@ -51,10 +51,7 @@ This skill set is best complemented by knowledge of [Pankration](/pankration/), 
 
 ### Skill Details
 
-
-<a id="Punch"></a>
-
-### Punch  *punch <target>*
+### Punch  *punch <target>* {#Punch}
 
 A basic punch. This skill aims High by default. A fairly weak but easy to hit with maneuver. 80 ranks in this maneuver will allow you to do max damage.
 
@@ -66,10 +63,7 @@ Pugilius punches a thug! He suffer a small bruise to his left arm.
 
 </div>
 
-
-<a id="Kick"></a>
-
-### Kick  *kick <target>*
+### Kick  *kick <target>* {#Kick}
 
 A basic kick. This technique is possible while wielding a weapon. 
 
@@ -83,10 +77,7 @@ Pugilius kicks a thug! He suffers a small bruise to his right foot.
 
 </div>
 
-
-<a id="Elbow"></a>
-
-### Elbow  *elbow <target>*
+### Elbow  *elbow <target>* {#Elbow}
 
 A decent move for damage, you bring your elbow across at your target, aiming it high. It is possible to aim this attack towards the mid section as well.
 
@@ -98,10 +89,7 @@ Pugilius twists to one side and slams his elbow into a thug! He suffer a small b
 
 </div>
 
-
-<a id="Knee"></a>
-
-### Knee  *knee <target>*
+### Knee  *knee <target>* {#Knee}
 
 Thrust your knee upward at your opponent. This technique is possible while wielding a weapon. 
 
@@ -116,10 +104,7 @@ Pugilius slams his knee into a thug! He suffers a small bruise to his waist.
 
 </div>
 
-
-<a id="Choke"></a>
-
-### Choke  *choke <target>*
+### Choke  *choke <target>* {#Choke}
 
 Used to initially grab hold of your opponent's neck. Once grappled it is possibly to use it to tighten your grip inflicting much pain and discomfort. It is also possible to release your opponent with one hand, and still attack with the other one, or you can continue to attack with your head, feet or knees.
 
@@ -132,10 +117,7 @@ Pugilius wraps his hands around a thug's throat!
 
 </div>
 
-
-<a id="Leg-Whip"></a>
-
-### Leg Whip  *legwhip <target>*
+### Leg Whip  *legwhip <target>* {#Leg-Whip}
 
 Throw yourself at your opponent feet first, whipping your legs at them in an attempt them to knock them to the floor. 
 
@@ -149,17 +131,11 @@ Pugilius whips at a thug with his legs, and hits! He suffers an ugly bruise to h
 
 </div>
 
-
-<a id="Hair-Pull"></a>
-
-### Hair Pull  *hairpull <target>*
+### Hair Pull  *hairpull <target>* {#Hair-Pull}
 
 Used to grapple with your opponents hair by grabbing hold of their hair. Good luck pulling this off on a bald adversary or one wearing head cover.
 
-
-<a id="Head-Butt"></a>
-
-### Head Butt  *butt <target>*
+### Head Butt  *butt <target>* {#Head-Butt}
 
 Your basic headbutt to the face. This is a great technique for inflicting pain and can be used while wielding a weapon
 
@@ -171,10 +147,7 @@ Pugilius slams his head into a thug.  He suffers a ugly bruise to his face.
 
 </div>
 
-
-<a id="Head-Slam"></a>
-
-### Head Slam  *slam <target>*
+### Head Slam  *slam <target>* {#Head-Slam}
 
 Attempt to slam your opponent's head into an item in your surroundings, such as a chair or table.  _
 You must first grapple your opponent before you can attempt to head slam them.
@@ -187,10 +160,7 @@ Holding tightly onto a thug's head, Pugilius lifts it up and slams it hard again
 
 </div>
 
-
-<a id="Body-Slam"></a>
-
-### Body Slam  *bodyslam <target>*
+### Body Slam  *bodyslam <target>* {#Body-Slam}
 
 Charge at your opponent and attempt to knock him over in the process.
 
@@ -202,10 +172,7 @@ With his arm held out, Pugilius charge straight into a thug! He suffers a bruise
 
 </div>
 
-
-<a id="Uppercut"></a>
-
-### Uppercut  *uppercut <target>*
+### Uppercut  *uppercut <target>* {#Uppercut}
 
 Uppercut is a strong punch that hits upward at your opponent, and can only hit the upper portion of your victim.
 
@@ -217,10 +184,7 @@ Pugilius winds up and punches a thug with an uppercut! He suffers a small bruise
 
 </div>
 
-
-<a id="Sucker-Punch"></a>
-
-### Sucker Punch  *sucker <target>*
+### Sucker Punch  *sucker <target>* {#Sucker-Punch}
 
 Also known as a cheap shot, you attempt to distract your opponent and then hit him while he's not looking. This technique can also be aimed high.
 
@@ -232,10 +196,7 @@ A thug is distracted by a quick hand movement from Pugilius, who then slams a he
 
 </div>
 
-
-<a id="Knee-Break"></a>
-
-### Knee Break  *kneebreak <target>*
+### Knee Break  *kneebreak <target>* {#Knee-Break}
 
 This is a strong, but extremely hard to land technique that is used to knock down your opponent and hopefully break your opponent's legs. This technique can be used while wielding a weapon.
 
@@ -247,10 +208,7 @@ Pugilius kicks a thug in the legs! Pugilius's toe strikes precisely at the joint
 
 </div>
 
-
-<a id="Nose-Break"></a>
-
-### Nose Break  *nosebreak <target>*
+### Nose Break  *nosebreak <target>* {#Nose-Break}
 
 Break your opponent's face with a well-landed nose break.
 
@@ -262,10 +220,7 @@ Pugilius brutally punch a thug in the face! He suffers an ugly bruise to his fac
 
 </div>
 
-
-<a id="Foot-Stomp"></a>
-
-### Foot Stomp  *stomp <target>*
+### Foot Stomp  *stomp <target>* {#Foot-Stomp}
 
 Attempt to knock your opponent down to his knees, and maybe shatter his foot. This technique can be used while wielding a weapon. 
 
@@ -279,10 +234,7 @@ Pugilius stomps his foot down on a thug, and hits! He suffer a bruise to his rig
 
 </div>
 
-
-<a id="Slap"></a>
-
-### Slap  *hardslap <target>*
+### Slap  *hardslap <target>* {#Slap}
 
 A quick attack aimed at the face, hurt your opponent's health and his pride with this technique.
 
@@ -294,10 +246,7 @@ Pugilius winds up and slaps a thug! He suffers a small bruise to his face.
 
 </div>
 
-
-<a id="Bear-Hug"></a>
-
-### Bear Hug  *bearhug <target>*
+### Bear Hug  *bearhug <target>* {#Bear-Hug}
 
 Try to grab your target with both arms and squeeze tightly around their waist.
 
@@ -310,10 +259,7 @@ Pugilius fails to grab a thug with both arms.
 
 </div>
 
-
-<a id="Face-Block"></a>
-
-### Face Block
+### Face Block {#Face-Block}
 
 Attempt to block an attack by crossing your arms over your face.
 
@@ -325,10 +271,7 @@ Pugilius crosses his arms over his face, absorbing the attack with his bare limb
 
 </div>
 
-
-<a id="Swat-Block"></a>
-
-### Swat Block
+### Swat Block {#Swat-Block}
 
 Attempt to block an attack by swatting it away from the body.
 
@@ -340,10 +283,7 @@ Pugilius instinctively swats at the attack with one arm, trying to deflect it aw
 
 </div>
 
-
-<a id="Bite"></a>
-
-### Bite  *bite <target>*
+### Bite  *bite <target>* {#Bite}
 
 A quick bite to your opponent using your teeth, which takes little effort to master. _
 You must first grapple your opponent before you can attempt to bite them.
@@ -356,10 +296,7 @@ Pugilius sinks his teeth into a thug! He suffers a puncture to his right shoulde
 
 </div>
 
-
-<a id="Ale-Focus"></a>
-
-### Ale Focus
+### Ale Focus {#Ale-Focus}
 
 With enough training in Ale Focus, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.  _
  _
@@ -373,10 +310,7 @@ With enough training in Ale Focus, you are able to raise your perception in comb
 
 </div>
 
-
-<a id="Instinct"></a>
-
-### Brawler's Instinct
+### Brawler's Instinct {#Instinct}
 
 With enough training in Brawler's Instinct, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity. _
  _
@@ -390,10 +324,7 @@ With enough training in Brawler's Instinct, you are able to raise your dexterity
 
 </div>
 
-
-<a id="Brawl-Feint"></a>
-
-### Brawling Feint  *feint <target>*
+### Brawling Feint  *feint <target>* {#Brawl-Feint}
 
 The brawler attempts to feint an attack in order to get his opponent to lower his guard. The difficulty for a feint to be used is dependent on the opponents overall fighting ability and combat posture, a less skilled or more defensive opponent will fall for a feint easier then a more skilled, berserking warrior.
 

@@ -62,10 +62,7 @@ Covering the most areas in combative situations, CMs are an integral part of you
 
 ### Skill Details
 
-
-<a id="Duck"></a>
-
-### Duck  *n/a*
+### Duck  *n/a* {#Duck}
 
 This dodge defends against high slashing attacks, jabs, and stabs.
 
@@ -77,10 +74,7 @@ Clobris ducks, allowing a thug's attack to pass over his head.
 
 </div>
 
-
-<a id="Dodge"></a>
-
-### Basic Dodge  *n/a*
+### Basic Dodge  *n/a* {#Dodge}
 
 A simple dodge, this maneuver defends against slashing and simple attacks aimed at the midsection, as well as on swats aimed at the midsection and aimed low.
 
@@ -92,10 +86,7 @@ Rontubius dodges a thug's attack.
 
 </div>
 
-
-<a id="Sidestep"></a>
-
-### Sidestep  *n/a*
+### Sidestep  *n/a* {#Sidestep}
 
 This dodge defends against simple attacks aimed toward the midsection.
 
@@ -107,10 +98,7 @@ Cralus steps to the side, avoiding a thug's attack.
 
 </div>
 
-
-<a id="Jump"></a>
-
-### Jump  *n/a*
+### Jump  *n/a* {#Jump}
 
 This maneuver jumps over low slashing attacks, including sweeps.
 
@@ -122,10 +110,7 @@ Leda jumps upward, his legs avoiding a thug's attack!
 
 </div>
 
-
-<a id="Leg-Dodge"></a>
-
-### Leg Dodge  *n/a*
+### Leg Dodge  *n/a* {#Leg-Dodge}
 
 This maneuver dodges your leg away from a low simple attack.
 
@@ -137,10 +122,7 @@ Pelias moves his leg out of the way of a thug's attack!
 
 </div>
 
-
-<a id="Swaying"></a>
-
-### Swaying Dodge  *n/a*
+### Swaying Dodge  *n/a* {#Swaying}
 
 This is the most important CM maneuver. It dodges overhead attacks, but more than that is one of the few defenses against moves such as Spears Overhead Thrust, and Trident Pierce, accompanied only by Shields Overhead Block, Tridents Tine Block, and Staves Whirling Block.
 
@@ -152,10 +134,7 @@ Clobris sways to one side to avoid a thug's attack!
 
 </div>
 
-
-<a id="Guard"></a>
-
-### Combat Guarding  *guard <target>*
+### Combat Guarding  *guard <target>* {#Guard}
 
 This maneuver simple prevents someone from touching or engaging whatever you are guarding. It does not prevent long ranged attacks.
 
@@ -169,10 +148,7 @@ You prevent a fluvitur from getting to a short bronze ladder.
 
 </div>
 
-
-<a id="Cry"></a>
-
-### Battle Cry  *battlecry <words>*
+### Battle Cry  *battlecry <words>* {#Cry}
 
 This shout adds a slight bonus to your next attack, but is really annoying when overused. Can give a bonus every 20 seconds. Parcine Battlecry trait + Rank 1 = 30 Bonus regardless of stance. Has a 2+MoS roundtime. Parcine Battlecry trait also doubles the regular range of battlecry. More ranks in battlecry will only lower success and does not impact bonus/range.
 
@@ -184,10 +160,7 @@ Rontubius shouts out a battlecry of "Time to die!"
 
 </div>
 
-
-<a id="Kill"></a>
-
-### Killing Blow  *kill <target>*
+### Killing Blow  *kill <target>* {#Kill}
 
 This maneuver quickly kills an already unconscious opponent. It is affected by lighting and carrying a significant amount of weight, just as attacks are. Different weapons also affect it. A gladius is far easier to kill with than a stave. When you attempt to use killing blow and fail, that doesn't mean you miss. It then acts like your normal attack. Some times it acts up a bit, but generally, it is a good way to finish off an unconscious opponent.
 
@@ -199,10 +172,7 @@ Uiseann thrusts his spear through a thug's heart.
 
 </div>
 
-
-<a id="Rise"></a>
-
-### Simple Rolling Rise  *n/a*
+### Simple Rolling Rise  *n/a* {#Rise}
 
 This brings you to your feet, only slightly dazed after being swept, or doing a maneuver that causes you to fall. Every rank in Rolling Rise gives you a 1% chance at succeeding, plus a bonus for your agility, making it easier to succeed for those with high natural agility. There is also, of course, a penalty if you are carrying a heavy load. It is not affected by basic CM's. 
 
@@ -219,10 +189,7 @@ Leda rolls forward as she lands, springing back up to her feet!
 
 </div>
 
-
-<a id="BRise"></a>
-
-### Backwards Rolling Rise  *brise**
+### Backwards Rolling Rise  *brise** {#BRise}
 
 This maneuver brings you to your feet, retreated and with a bonus to the next attack when you are swept. Every rank in Backwards Rolling Rise gives you a 1% chance at succeeding, plus a bonus for your agility, making it easier to succeed for those with high natural agility. There is also, of course, a penalty if you are carrying a heavy load. It is not affected by basic CMs. 
 
@@ -240,10 +207,7 @@ Gracefully controlling his movements, Hroth turns the momentum of his fall into 
 
 </div>
 
-
-<a id="Roll"></a>
-
-### Rolling Dodge  *n/a*
+### Rolling Dodge  *n/a* {#Roll}
 
 This dodge will allow you to roll away from any attack while prone.
 
@@ -255,10 +219,7 @@ Rontubius rolls on the ground, avoiding a thug's attack.
 
 </div>
 
-
-<a id="FB"></a>
-
-### Fall Back  *fall back*
+### Fall Back  *fall back* {#FB}
 
 This is a quick defended retreat. But if you fail, you have openings as in a normal retreat, sometimes for an even longer time period.
 
@@ -272,10 +233,7 @@ Pelias has left high, middle, and low openings.
 
 </div>
 
-
-<a id="Recovery"></a>
-
-### Recovery  *n/a*
+### Recovery  *n/a* {#Recovery}
 
 This maneuver will assist with the rather annoying fumble. Eventually, you can not only stop a complete fumble, but still attempt an attack, gaining a bonus to the next. Every rank in Recovery gives you a roughly 2% chance at succeeding in not fumbling your weapon, so around rank 50, you fumble no more (base Dexterity stat can decrease/increase the rank requirement range for 100% successful recovery to be between 40 and 60). This of course is based upon the wielder's natural dexterity and it is not affected by basic CM's. 
 
@@ -291,10 +249,7 @@ With quarterstave held at the horizontal, Leda lets loose a quick sidestrike at 
 
 </div>
 
-
-<a id="Missile"></a>
-
-### Missile Awareness  *n/a*
+### Missile Awareness  *n/a* {#Missile}
 
 With enough training in Missile Awareness, you are able to better anticipate arrows and other projectiles and attempt to move yourself out of the way in time. Just like Shields Missile Defense, it uses current blocks (dodges in this case) to defend against the oncoming projectile. You must achieve Grand Master, or 90 ranks, to get the maximum benefit from this skill.
 
@@ -306,17 +261,11 @@ Hroth sways to one side to avoid an archer's attack!
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Feint Awareness  *n/a*
+### Feint Awareness  *n/a* {#Feint}
 
 Ranking this skill will raise your ability to naturally defend against Feint type attacks. This skills functionality caps at 75.
 
-
-<a id="Advance"></a>
-
-### Melee Advance  *advance <Target>*
+### Melee Advance  *advance <Target>* {#Advance}
 
 This skill allows the user to approach a target without needing to manually retreat from other combatants first. 
 
@@ -338,29 +287,20 @@ This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a char
 
 </div>
 
-
-<a id="Footwork"></a>
-
-### Footwork  *n/a*
+### Footwork  *n/a* {#Footwork}
 
 With enough training in Footwork, you are able to raise your **[agility](/stats/#Agility)** in combat situations. A grandmaster in this skill will be equivalent to low-end great agility. *(90 ranks required)*
 
 *(This is a passive skill that improves your agility, improving your ability to defend.)*
 
-
-<a id="Reflexes"></a>
-
-### Reflexes  *n/a*
+### Reflexes  *n/a* {#Reflexes}
 
 With enough training in Reflexes, you are able to raise your **[speed](/stats/#Speed)** in combat situations. A grandmaster in this skill will be equivalent to low-end great speed. *(90 ranks required)*
 
 
 *(This is a passive skill that improves your speed, reducing your round times and improving your ability to defend.)*
 
-
-<a id="Offensive-Guarding"></a>
-
-### Offensive Guarding  *detain <target>*
+### Offensive Guarding  *detain <target>* {#Offensive-Guarding}
 
 This skill has been disabled.
 

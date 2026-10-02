@@ -7,9 +7,7 @@ category: "Reference"
 
 Below is an incomplete list of the plants, trees, and animals within the Republic of Iridine. Some may seem familiar to you...while others are found only in The Eternal City.
 
-
-<a id="Animals"></a>
-### Animals
+### Animals {#Animals}
 
 #### Anteater
 You see a creature the size of an average dog.  It is mostly gray in colour, save for a thick black stripe with a white border which runs along both its forward shoulders.  It has an elongated snout and a huge bushy tail. 
@@ -137,9 +135,7 @@ You see a large dog with shaggy brown fur. A cursory glance suggests that it is 
 
 #### Wolf, White
 
-
-<a id="Fish"></a>
-### Fish
+### Fish {#Fish}
 
 Fish can be caught in a variety of sizes: **small**, **somewhat small**,*'normal'* (no descriptor), **large**, **somewhat large** & **massive**. 
 
@@ -273,9 +269,7 @@ A popular food. The tuna has a sleek, streamlined body, and is among the fastest
 #### Weeder 
 **Description:** Thick yellow fish
 
-
-<a id="Plants"></a>
-### Plants
+### Plants {#Plants}
 #### Alaniss
 A short stubby brownish plant that grows freely in the plains. It has small star-shaped white flowers, commonly used to aid in digestion, and it is reported that the thick squat brown roots can help to quell nausea.
 
@@ -519,8 +513,7 @@ A thorny plant that hides in a forest or undergrowth. Thorndark looks dead, as i
 #### Tobacco
 A huge-leaved plant, dried tobacco is good for smoking, and also makes a good dye. 
 
-<a id="trifolium-leaf"></a>
-#### Trifolium Leaf
+#### Trifolium Leaf {#trifolium-leaf}
 Some small furry green leaves.
 
 #### Tymours
@@ -538,9 +531,7 @@ A small, 'shy' forest plant, the deep violet of the flowers is used in dyes.
 #### Yarrow
 A small plant with pale blue flowers. Yarrow is said to be helpful in treating skin problems.  It can be found in plains, forest or anywhere that isn't too wet.
 
-
-<a id="Trees"></a>
-### Trees
+### Trees {#Trees}
 #### Birch
 Description: a tall thin tree with white papery bark
 
@@ -566,9 +557,7 @@ Normally, moskan wood is a fairly ugly dark green color, although with such poli
 #### Tilock
 Exposure to the acids involved in papermaking turns the wood of this tree into a tan so bright it can be called yellow. It's very smooth wood, and easy to carve, but will snap easily under stress.
 
-
-<a id="Fruit"></a>
-### Fruit
+### Fruit {#Fruit}
 #### Almond
 A small tree found in forests, its large nuts can be eaten, provided they are properly roasted. Raw almonds are poisonous. The almond is pressed to make almond oil, one of the sweet nut oils.
 

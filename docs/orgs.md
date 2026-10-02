@@ -45,8 +45,8 @@ You can find the important figures of organizations involved with the game world
 ******Formerly joinable by PCs, but this is no longer the case.*
 
 ---
-<a id="Auxilii"></a>
-### Divortium Auxilii
+
+### Divortium Auxilii {#Auxilii}
 
 The Auxilii welcome newcomers to the City of Iridine. They aid newcomers in the ways of Iridine, give them information on where to begin their new life, and often offer useful gifts. If you’d like to join their ranks and welcome newcomers to Iridine, ask any Auxilii member when the next recruitment will be.
 
@@ -62,8 +62,8 @@ For more information: See [Divortium Auxilii](/divortium-auxilii/).
 
 
 ---
-<a id="Constables"></a>
-### The Iridine Constables
+
+### The Iridine Constables {#Constables}
 The constables protect lives, property, and help ensure that Iridine runs smoothly by enforcing [The Law](/law/) within the city proper. Trained in proficient use of weapons and people-handling, they have strict requirements for those who wish to join their ranks. Station I is led by Captain Nerwintok Glasht. 
 
 **Official Website:** [Go To Website](https://www.angelfire.com/games2/teccombat/constables/)
@@ -76,8 +76,8 @@ For more information: See [Constables](/constables/).
 
 
 ---
-<a id="Legio"></a>
-### Legio
+
+### Legio {#Legio}
 The Iridine Republic has two well-blooded veteran legions, Legio I and Legio II. As with any force of any size, neither legion is allowed to camp within the city or too close to its walls. **Legio I - Eagle Century** occupies the Vetallun Fort about a mile and a half from the city proper, and Legio II occupies its own camp about a mile out from the city. Legio I is currently led by **Centurion Daydro Starbern**.
 
 The games playable Legio, **Legio I**, is the **1st Century of the 1st Cohort**, making it's respective Centurion and Tribune of **"Primus" rank** and thus senior to all other members of similar rank in the Legio. 
@@ -90,8 +90,8 @@ For more information: See [Legio](/legio/).
 
 
 ---
-<a id="Vigiles"></a>
-### The Monlon Vigiles
+
+### The Monlon Vigiles {#Vigiles}
 
 Law keepers and protectors of the [Holy City](/city-of-monlon/).
 
@@ -103,8 +103,8 @@ For more information: See [Monlon Vigiles](/monlon-vigiles/).
 
 
 ---
-<a id="PG"></a>
-### The Phoenix Guard
+
+### The Phoenix Guard {#PG}
 
 An elite group of soldiers, hand-selected as the best of the best, answering directly to the [Senate](/senate/).
 
@@ -115,8 +115,8 @@ For more information: See [Phoenix Guard](/phoenix-guard/).
 [Back to Top](#)
 
 ---
-<a id="Watch"></a>
-### Rock Valley Watch
+
+### Rock Valley Watch {#Watch}
 
 Description pending.
 
@@ -127,8 +127,8 @@ For more information: See [Rock Valley Watch](/rock-valley-watch/).
 [Back to Top](#)
 
 ---
-<a id="QM"></a>
-### The Quaesitus Monitor
+
+### The Quaesitus Monitor {#QM}
 
 Description pending.
 
@@ -139,8 +139,8 @@ For more information: See [Quaesitus Monitor](/quaesitus-monitor/).
 [Back to Top](#)
 
 ---
-<a id="LexLegalis"></a>
-### Lex Legalis
+
+### Lex Legalis {#LexLegalis}
 
 Originally formed by Talius Noraetis, this group is trained in the prosecution of crimes within [Iridine](/republic-of-iridine/).
 
@@ -152,8 +152,8 @@ For more information: See [Lex Legalis](/lex-legalis/).
 
 
 ---
-<a id="BC"></a>
-### Black Centurions
+
+### Black Centurions {#BC}
 
 Just north/northeast of the Steps portcullis is the territory of a gang known as the Black Centurions. The edges of the territory are very strictly controlled, patrolled regularly by teams of gang members who observe all coming and going with alert gazes.
 
@@ -169,8 +169,8 @@ Despite the rumors of their activities, the Black Centurions display an odd resp
 
 
 ---
-<a id="TG"></a>
-### Harbor Rats
+
+### Harbor Rats {#TG}
 
 Do your hands twitch every time you see a pouch unguarded? Do you find it impossible to refrain from perusing other’s belongings and "transferring" the ownership of certain items? If this sounds interesting and you’d like the opportunity to join a larger group that looks after its own, offers a place to sell one’s acquisitions, and a safe haven when things heat up, perhaps The Harbor Rats are for you. They are one of many of Iridine’s competing crime organizations, with turf in the city’s Harbor District.
 
@@ -182,8 +182,8 @@ For more information: See [Harbor Rats](/harbor-rats/).
 
 
 ---
-<a id="Alati"></a>
-### Umbra Alati
+
+### Umbra Alati {#Alati}
 
 The southern quarter of the steps is home to a garish array of acrobats, actors, and prostitutes and marked by the characteristic Alati black circle with a silver or gray 'A' at the center. During the day, the streets are alive with the riotous colors of these professions, a sharp contrast to the squalor of the streets themselves. Being close to the neutral zone, and offering a number of desirable services, the Alati welcome outsiders to the fringes of their turf. Off of Forum Mico, east of Forum Axonus, the visitor can find entertainment of all kinds, for a price. The forum itself has a public platform that performers can rent for a small fee. Indeed, Forum Mico is awash in the sounds of revelry both day and night. But, keep a tight hold on your pouches, lest some nimble fingered waif lightens your load for you.
 
@@ -193,8 +193,8 @@ There are darker rumors about the Umbra Alati, and, indeed, those that wander be
 
 
 ---
-<a id="Shrikes"></a>
-### Shrikes
+
+### Shrikes {#Shrikes}
 Located in the East Steps.
 
 For more information: See [Shrikes](/shrikes/).
@@ -203,8 +203,8 @@ For more information: See [Shrikes](/shrikes/).
 
 
 ---
-<a id="Sinistrals"></a>
-### Sinistrals
+
+### Sinistrals {#Sinistrals}
 Rumoured to be a group of assassins.
 
 For more information: See [Sinistrals](/sinistrals/).
@@ -213,8 +213,8 @@ For more information: See [Sinistrals](/sinistrals/).
 
 
 ---
-<a id="Traevant"></a>
-### Traevant Militia
+
+### Traevant Militia {#Traevant}
 
 The Traevant Militia defends the Traevant Woods, Vetallun Road, as well as assists the Legio. For many decades the Traevant have kept Iridine safe from all threats. Led by [Kered Solace](/bio_kered/), First Speaker of the Traevant. The Traevant are sponsored by the House of Traevant, led respectfully by Senator Traevant.
 
@@ -227,8 +227,8 @@ For more information: See [Traevant Militia](/traevant-militia/).
 
 
 ---
-<a id="BVM"></a>
-### Blackvine Volunteer Militia
+
+### Blackvine Volunteer Militia {#BVM}
 
 This group holds it as their responsibility to guard and help rebuild Blackvine, a small coastal town north of Vetallun. As a militia, they are military force of composed of the civil population, but support the Legio when necessary.
 
@@ -240,8 +240,8 @@ For more information: See [Blackvine Volunteer Militia](/blackvine-volunteer-mil
 
 
 ---
-<a id="MVG"></a>
-### Monlon Volunteer Guard
+
+### Monlon Volunteer Guard {#MVG}
 
 The mission of the Monlon Volunteer Guard assists the Iridine legions in guarding Monlon, the holy city of the Republic. The mission of the Monlon Volunteer Guard is to guard the [City of Monlon](/city-of-monlon/), the holy city of the Republic, from all enemies. As a militia, they are military force of composed of the civil population, but support the Legio when necessary.
 
@@ -253,8 +253,8 @@ For more information: See [Monlon Volunteer Guard](/monlon-volunteer-guard/).
 
 
 ---
-<a id="SS"></a>
-### Seld Sentinels
+
+### Seld Sentinels {#SS}
 
 With the ongoing [war](/monlon-invasion/) in full force, it is important not to allow the Republic's other enemies, such as the Black Hand Bandits, time to strengthen. The Seld Sentinels **embark on regular excursions** into the caverns to ensure their forces stay in check and **maintain the security & safety of [Seld](/village-of-seld/)**. 
 
@@ -264,8 +264,8 @@ With the ongoing [war](/monlon-invasion/) in full force, it is important not to 
 
 
 ---
-<a id="CoE"></a>
-### Cult of Ereal
+
+### Cult of Ereal {#CoE}
 
 The religion or cult of Ereal is the official state religion of Iridine. The priests of the order work for the common good of all their fellow man, offering healing, guidance, and support where needed. They believe that they are the chosen to serve Ereal and as such follow their leaders in a strict hierarchy. There are three separate sects, each representing a different facet of the Sun God Ereal: The Sect of the Bright Hope, The Sect of Revealing Light, and The Sect of Nurturing Light.
 
@@ -278,8 +278,8 @@ For more information: See [Cult of Ereal](/cult-of-ereal/).
 
 
 ---
-<a id="SoE"></a>
-### Soldiers of Ereal
+
+### Soldiers of Ereal {#SoE}
 
 Devoted to the personification of Ereal the Conqueror, these at times dangerous fanatics preach the strength of the All Conquering Sun and condone violence if it is done for the greater glory of the God. Having proved invaluable in the defense of Iridine lands against invaders and showing a softer exterior and seemingly more understanding in public has kept the Soldiers of Ereal from almost disbanding after the death of Junia Gracious. 
 
@@ -292,8 +292,8 @@ For more information: See [Soldiers of Ereal](/soldiers-of-ereal/).
 
 
 ---
-<a id="CL"></a>
-### Cruentus Laureola
+
+### Cruentus Laureola {#CL}
 
 One of the city's two gladiator stables, the Cruentus Laureola pride themselves on entertaining on the Colosseum sands with honor. The CL accepts, equips and trains fighters of all levels and is currently managed by Resi.
 
@@ -305,8 +305,8 @@ One of the city's two gladiator stables, the Cruentus Laureola pride themselves 
 
 
 ---
-<a id="SW"></a>
-### Silver Wolves
+
+### Silver Wolves {#SW}
 
 One of the city's two gladiator stables. The Silver Wolves (SW) are currently managed by Drittsekk.
 
@@ -318,8 +318,8 @@ One of the city's two gladiator stables. The Silver Wolves (SW) are currently ma
 
 
 ---
-<a id="GoL"></a>
-### Guild of Locksmiths
+
+### Guild of Locksmiths {#GoL}
 
 The GoL is a fellowship of locksmiths in the City of Iridine. If you aspire to be a locksmith and would like the benefits of a society of locksmiths this is the guild for you. You can usually find many of their members within Apula's lock shop located north of the Bronze lane marker.
 
@@ -329,8 +329,8 @@ The GoL is a fellowship of locksmiths in the City of Iridine. If you aspire to b
 
 
 ---
-<a id="HoL"></a>
-### Healers of Light
+
+### Healers of Light {#HoL}
 
 The Healers of Light is a support group for the healers and medics of the Republic, offering training to members and non-members in many cases. We also offer supplies to healers having difficulty keeping stocked. The Healers of Light also provides a social aspect to the often solitary work of healing and have some of the kindest members in all of Iridine.
 
@@ -348,8 +348,8 @@ All of our members are capable of answering question regarding the group and can
 
 
 ---
-<a id="Vestis"></a>
-### Vestis Formatae
+
+### Vestis Formatae {#Vestis}
 
 The Vestis Formatae was formed many decades ago by a premiere tailor at the time, Anigel. Since the inception of the Vestis Formatae there have been many trials and tribulations, but for good times and bad the Vestis has progressed to become the most famous tailoring group in the Republic of Iridine. Tailors come and they go, but the Vestis Formatae remains the shining beacon of light for all clothing needs. Whether the client is a wealthy patrician or a refugee needing donations, the Vestis tailors take it upon themselves to turn out the highest quality garments possible. Those of more militant skill often seek to join the group of guards employeed by the Vestis Formatae. Those guards not only protect the tailors of the guild, but also offer their services to other reputable guilds as needed.
 
@@ -363,8 +363,8 @@ For more information: See [Vestis Formatae](/vestis-formatae/).
 
 
 ---
-<a id="DE"></a>
-### Diamond Eye
+
+### Diamond Eye {#DE}
 
 *Description pending.*
 
@@ -376,8 +376,8 @@ Founded by Vinian Quartz.
 
 
 ---
-<a id="Slime"></a>
-### Slime Squad
+
+### Slime Squad {#Slime}
 
 Lately there have been complaints of excessive noise echoing up from the well in the town square of Rock Valley. At all hours there can be heard the clash of weaponry, the squelch of slimes, and the whoops of battle-cries. Who are these mysterious dwellers of below? What is their purpose? Inquiring minds may wish to seek out the signpost nearby the well, just listen for the heavy breathing.
 

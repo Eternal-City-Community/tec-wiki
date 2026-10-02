@@ -21,8 +21,7 @@ This fighting style based on **an existing knowledge of [Knives](/knives/)**.
 
 ### Advice & Tips
 
-<a id="fhbh"></a>
-#### Forehand / Backhand
+#### Forehand / Backhand {#fhbh}
 A bonus is applied to slashing attacks that take advantage of a fluid back and forth movement. The list of affected skills and their starting positions (forehand or backhand) are below. All skills end on the opposite hand from whence they began. The bonus is a random from +0 to +32 depending on your rank with the skill your using, only available with a free hand or using a buckler.
 
 **Forehand Slashes:** Chop, Slash, Whirling Slash, Markad Slash, Triple Cut

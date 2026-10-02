@@ -5,19 +5,15 @@ category: "Reference"
 
 # Reputation
 
-<a id="Franlius"></a>
-### Franlius
+### Franlius {#Franlius}
 
 
 The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.
 
-
-<a id="Fran-Combat"></a>
-#### Earning Reputation
+#### Earning Reputation {#Fran-Combat}
 Enemies in [Franlius Battleground](/town-of-franlius/) may carry an armband, signifying their membership in the Cineran (zombie) army. **Collecting armbands** from the enemies you kill and turning them in to **[Pretium](/village-of-blackvine/)** will earn you reputation relative to the level of armband you acquired. The more difficult the [tier](/hg-franlius/) you fight in, the higher your reputation reward will be for each armband.
 
-<a id="Fran-Hiltha"></a>
-##### Hiltha Imports
+##### Hiltha Imports {#Fran-Hiltha}
 Hiltha stocks a variety of rare items, which are harder to come by. For more details on the available colors and qualities, consult the [Shops](/shops/) page.
 
 #### Rewards
@@ -139,9 +135,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 | 5,750 | Your epic battles against the undead are immortalized in Franlius |
 | 6,000 | If the undead dreamed, they'd have nightmares of you in Franlius. |
 
-
-<a id="Monlon"></a>
-### Monlon
+### Monlon {#Monlon}
 
 
 #### City of Monlon
@@ -214,8 +208,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 * Caligae are worn -under- boots.
 * The Iridine gauntlets are a pound lighter than the Kelestian iron equivalent. Protection rating while same word level, may be different.
 
-<a id="Kelestian"></a>
-#### Kelestian Outpost
+#### Kelestian Outpost {#Kelestian}
 
 ##### Earning Kelestian Reputation
 Turn in [stones](/stones-ores/) to Vivadhu.
@@ -254,8 +247,7 @@ Learn [Falcata](/falcata/) & [Slings](/sling/) from Sphara.
 
 Learning from Kelestian teachers will drain the reputation you've earned.
 
-<a id="Seld"></a>
-### Seld
+### Seld {#Seld}
 Seld has rep. Purchase from Nominis.
 
 #### Nominis' Goods (Rewards)
@@ -292,9 +284,7 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 | An iron helmet with a caged faceplate | 59t 833d 1st 1s |  |  |  |
 | A boison helmet with a caged faceplate | 82t 1510d 1st 2s |  |  |  |
 
-
-<a id="Collum"></a> <a id="Neck-Guard"></a>
-##### Neck Guards
+##### Neck Guards {#Collum}
 ***Collum** is located in the [town of Seld](/village-of-seld/), next door to Concinnant, and for the cost of 1 "neck guard token" will add a neck guard to the metal helmet of your choice, **excluding boison** (i.e. tin, bronze or iron).
 
 To redeem your token for a neck guard, have your token and helmet in hand. Then, offer your helmet to Collum to get the process started.
@@ -303,26 +293,20 @@ To redeem your token for a neck guard, have your token and helmet in hand. Then,
 #### Earning Rep
 Earning reputation for **Nominis' goods** can be accomplished in a number of ways. Combat is typically the easiest manner, followed by mining.
 
-
-<a id="Seld-Combat"></a>
-##### Combat
+##### Combat {#Seld-Combat}
 Each humanoid enemy combatant in the [BHC](/hg-black-hand-caverns/) carries an armband, signifying their membership as a Black Hand Cavern bandit. The war hounds also wear dog collars, signifying the same. **Collecting armbands & collars** from the enemies you kill and turning them in to **Salvare** will earn you reputation relative to the level of armband you acquired. 
 
 There are 3 floors in the [BHC](/hg-black-hand-caverns/) and the lower the floor, more difficult the tier you fight in and the higher your reputation reward will be for each armband.
 
-
-<a id="Seld-Mining"></a>
-##### Mining
+##### Mining {#Seld-Mining}
 Donate mined ore to **Salvare** for reputation.
 
-<a id="Stromheim"></a>
-### Stromheim
+### Stromheim {#Stromheim}
 
 #### City Entrance
 Enough reputation will allow you to enter the city for free.
 
-<a id="Runing"></a>
-#### Runing (Ghendrahda)
+#### Runing (Ghendrahda) {#Runing}
 The witch **Ghendrahda** is located in the [Stromheim](/village-of-stromheim/) and if you are in her good favor, she will accept an organic weapon (bone, wood, etc.) from you and **apply runes to it**. **This process will also leave you temporarily weakened.** Adding runes will permanently add a quality and/or damage boost to the weapon being runed, and can only be done once to a weapon. With weapon quality word levels spanning a range, adding runes to an existing superior quality weapon will still result in a more beneficial weapon than an excellent quality weapon which results in superior after the process.
 
 **This process will add the following detail to the long description of the item:**
@@ -339,9 +323,7 @@ Examples of items to trade to vendor:
 * Clothing exchange
 * Bronze weapons
 
-
-<a id="Aralex"></a>
-### Aralex Eggs
+### Aralex Eggs {#Aralex}
 Outraged at the death and destruction of the dreaded aralex, retired gladiator **Prestis** fumes within the [Colosseum](/colosseum/) and has taken to collecting the pilfered eggs of the aralex, offering favors to those who bring them to him. Eggs can be found in all levels of the **[Aralex Pits](/hg-aralex-pit/)**.
 
 
@@ -352,9 +334,7 @@ Prestis will only start to teach you once you've donated an **initial 100 aralex
 
 *Using* your reputation will reduce the overall number of lessons you can learn from him, but does not reduce the rank at which he will teach you.
 
-
-<a id="Gangs"></a>
-### Gang
+### Gang {#Gangs}
 A gruff old man (Umbra Alati, [The Steps East](/the-steps-east/))
 
 Lucio & Lexa (Black Centurions, [The Steps North](/the-steps-north/))
@@ -365,10 +345,7 @@ Lucio & Lexa (Black Centurions, [The Steps North](/the-steps-north/))
 * Adding to the donation box in the Eastern Steps.
 * Adding to the donation box of the Alati Fidesara. (Small shrines in memory of various people or events).
 
-
-<a id="Acolyte"></a>
-<a id="CoE"></a>
-### Cult of Ereal
+### Cult of Ereal {#CoE}
 #### Donations
 You can donate [stones](/stones-ores/) or [money](/wealth/#Iridine) to the [Cult of Ereal](/cult-of-ereal/) for reputation. Stones not commonly found around the area are typically considered more appreciated.
 
@@ -431,9 +408,7 @@ You may be offered the ability to **spend some reputation** with the Cult to **s
 
 ***Note:*** Choosing to pay **full price** when you do not have to **will provide a small additional bonus** to your Cult reputation.
 
-
-<a id="Krimalus"></a>
-### Krimalus
+### Krimalus {#Krimalus}
 Krimalus is an old woodsman that lives in a cave off a hidden cove (affectionately known as ***"Krim’s Cove"***), north of the [North Woods](/the-west-grasslands/).
 
 Simply **tell him you want training** (say 'train' or 'teach' to him) and he’ll explain how to receive it. He will ask a particular favor for him to teach you for that day and that day only.*****
@@ -452,18 +427,14 @@ Once you’ve gotten him to train you via a favor, you can type learn to see wha
 
 Only Krimalus currently teaches the skills [Survival Weaving](/outdoor-survival/#Weaving), [Whittling](/outdoor-survival/#Whittling), [Ursine Hunting](/hunting/#ursinelore), and [Goat Hunting](/hunting/#goatlore). He is also the only one that teaches [Survival Cordage Lore](/outdoor-survival/#cordage), [Advanced Camp Cooking Lore](/outdoor-survival/#cooklore).
 
-
-<a id="Herbalism"></a>
-### Herbalism
+### Herbalism {#Herbalism}
 Out in the [swamps](/the-salinae-swamp/) (east of the bandit complex & south of the vale), stands **a simple wooden hut** where you can trade in foraged herbs for coin and reputation. While near the hut, gazing will give you a general idea of its location.
 
 
 #### Earning Rep
 Earn reputation by selling foraged herbs to Mollicia.
 
-
-<a id="Herb-stock"></a>
-#### Mollicia's Extra Stock
+#### Mollicia's Extra Stock {#Herb-stock}
 She stocks a variety of rare items, which are harder to come by. For more details on the available colors and qualities, consult the [Shops](/shops/) page.
 
 The following items can be unlocked, given enough reputation. Generally, the further down the list the item is, the higher your reputation must be to make it available for purchase. Once you purchase an item, your reputation will be reduced by the amount that it took to reveal the item. So if you have just revealed an item and purchase it, your reputation will be reduced back to 0 and building reputation will be required to re-reveal extra items.
@@ -483,9 +454,7 @@ The following items can be unlocked, given enough reputation. Generally, the fur
 
 [Back to Top](#)
 
-
-<a id="Herb-Lessons"></a>
-#### Terali's Teachings
+#### Terali's Teachings {#Herb-Lessons}
 After selling at least 1000 denars worth of herbs to Mollicia's, attempting to 'learn' will have her direct you to **Terali**. 
 
 **Terali** is an [herbalist](/herbalism/), during daylight she is out exploring, but at sunset she can be found resting just to the south of Mollicia.

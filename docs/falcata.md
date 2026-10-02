@@ -50,14 +50,9 @@ The falcata is a versatile weapon that could be used for both hacking and thrust
 **Directions to Sataria** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Sphara** ([Kelestian Outpost](/monlon-ravines/)): Find Sphara in the Kelestian outputs in the Monlon ravines.
 
+### Skill Details {#Subskill}
 
-<a id="Subskill"></a>
-### Skill Details
-
-
-<a id="strikerstance"></a>
-
-### Falcata Striker's Stance  *striker?stance*
+### Falcata Striker's Stance  *striker?stance* {#strikerstance}
 
 The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
@@ -69,10 +64,7 @@ A brash Kelestian warrior has one foot back, with falcata held diagonal beside h
 
 </div>
 
-
-<a id="slash"></a>
-
-### Falcata Slash  *slash <target>*
+### Falcata Slash  *slash <target>* {#slash}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -85,10 +77,7 @@ A gruff-looking mercenary slashes diagonally at you with the edge of his worn ti
 
 </div>
 
-
-<a id="chop"></a>
-
-### Falcata Chop  *chop <target>*
+### Falcata Chop  *chop <target>* {#chop}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**, **except** hands, arms & waist.
@@ -101,10 +90,7 @@ A gruff-looking mercenary swings his worn tin falcata overhead, chopping downwar
 
 </div>
 
-
-<a id="stab"></a>
-
-### Falcata Stab  *stab <target>*
+### Falcata Stab  *stab <target>* {#stab}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -117,10 +103,7 @@ A gruff-looking mercenary thrusts at you with his worn tin falcata, but misses. 
 
 </div>
 
-
-<a id="strike"></a>
-
-### Falcata Tang Strike  *strike <target>*
+### Falcata Tang Strike  *strike <target>* {#strike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -133,10 +116,7 @@ A gruff-looking mercenary lifts the blade of his worn tin falcata vertically and
 
 </div>
 
-
-<a id="mug"></a>
-
-### Falcata Mugger Hold  *mug <target>*
+### Falcata Mugger Hold  *mug <target>* {#mug}
 
 * This attack can be aimed at the following regions: **high***(default)*.
 * This attack **can** be **aimed at** the **neck**.
@@ -155,10 +135,7 @@ With your well-balanced silvery-blue falcata in hand, you reach towards a brash 
 
 </div>
 
-
-<a id="cstrike"></a>
-
-### Falcata Cross Strike  *cstrike <target>*
+### Falcata Cross Strike  *cstrike <target>* {#cstrike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -171,10 +148,7 @@ A gruff-looking mercenary sweeps the blade of his worn tin falcata inward, follo
 
 </div>
 
-
-<a id="lunge"></a>
-
-### Falcata Lunge  *lunge <target>*
+### Falcata Lunge  *lunge <target>* {#lunge}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -188,10 +162,7 @@ A gruff-looking mercenary sweeps the blade of his worn tin falcata inward, follo
 
 </div>
 
-
-<a id="feint"></a>
-
-### Falcata Feint  *feint <target>*
+### Falcata Feint  *feint <target>* {#feint}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -204,10 +175,7 @@ A gruff-looking mercenary slashes quickly at you with his worn tin falcata, but 
 
 </div>
 
-
-<a id="legstrike"></a>
-
-### Falcata Leg Strike  *legstrike <target>*
+### Falcata Leg Strike  *legstrike <target>* {#legstrike}
 
 * This attack can be aimed at the following regions: **low***(default)*.
 * This attack **cannot be aimed** at specific body parts.
@@ -240,10 +208,7 @@ With your well-balanced sooty black falcata in hand, you reach towards a tough K
 
 </div>
 
-
-<a id="wstrike"></a>
-
-### Falcata Wide Strike  *wstrike <target>*
+### Falcata Wide Strike  *wstrike <target>* {#wstrike}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -258,10 +223,7 @@ Leaning back, a brash Kelestian warrior brings her bronze falcata toward you in 
 
 </div>
 
-
-<a id="smash"></a>
-
-### Falcata Smash and Slash  *smash <target>*
+### Falcata Smash and Slash  *smash <target>* {#smash}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -277,10 +239,7 @@ A stoic Kelestian warrior slams his towering pale white shield with metal reinfo
 
 </div>
 
-
-<a id="charge"></a>
-
-### Falcata Guarded Charge  *charge <target>*
+### Falcata Guarded Charge  *charge <target>* {#charge}
 
 When approached by three people, there is a chance/guarantee? that upon a successful attempt one of the three approached people will be knocked out of the way to allow the user to approach the target.
 
@@ -302,10 +261,7 @@ A dashing Kelestian warrior levels her polished iron falcata and charges at Ulat
 
 </div>
 
-
-<a id="tstrike"></a>
-
-### Falcata Triple Strike  *tstrike<target>*
+### Falcata Triple Strike  *tstrike<target>* {#tstrike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -329,10 +285,7 @@ A dashing Kelestian warrior levels her polished iron falcata and charges at Ulat
 
 </div>
 
-
-<a id="hslash"></a>
-
-### Falcata Heavy Slash  *hslash <target>*
+### Falcata Heavy Slash  *hslash <target>* {#hslash}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -349,10 +302,7 @@ A gutsy Kelestian warrior pivots with one leg, projecting with full force into a
 
 </div>
 
-
-<a id="sustab"></a>
-
-### Falcata Sudden Stab  *sustab <target>*
+### Falcata Sudden Stab  *sustab <target>* {#sustab}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -370,10 +320,7 @@ You deftly withdraw a silvery-blue falcata with a wire-wrapped handle from your 
 
 </div>
 
-
-<a id="tslash"></a>
-
-### Falcata Tumble Slash  *tslash <target>*
+### Falcata Tumble Slash  *tslash <target>* {#tslash}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -388,20 +335,14 @@ You deftly withdraw a silvery-blue falcata with a wire-wrapped handle from your 
 
 </div>
 
-
-<a id="fthrust"></a>
-
-### Falcata Feigning Thrust  *fthrust <target>*
+### Falcata Feigning Thrust  *fthrust <target>* {#fthrust}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**.
 * This attack **cannot be aimed** at specific body parts.
 * This can only be performed on a **standing target**.
 * Upon success, this maneuver will **knockdown** the target.
 
-
-<a id="simple-block"></a>
-
-### Falcata Simple Block  *n/a*
+### Falcata Simple Block  *n/a* {#simple-block}
 
 **When you see this in use you see:**
 
@@ -412,10 +353,7 @@ Slashing forward with your tin falcata, you block a woman in a hooded cloak's ha
 
 </div>
 
-
-<a id="wrist-block"></a>
-
-### Falcata Wrist Block  *n/a*
+### Falcata Wrist Block  *n/a* {#wrist-block}
 
 **When you see this in use you see:**
 
@@ -426,10 +364,7 @@ With a smooth flick of the wrist, a woman in a hooded cloak catches the attack a
 
 </div>
 
-
-<a id="overhead-block"></a>
-
-### Falcata Overhead Block  *n/a*
+### Falcata Overhead Block  *n/a* {#overhead-block}
 
 **When you see this in use you see:**
 
@@ -440,10 +375,7 @@ Swinging your tin falcata upward, you block a woman in a hooded cloak's hair whi
 
 </div>
 
-
-<a id="round-block"></a>
-
-### Falcata Round Block  *n/a*
+### Falcata Round Block  *n/a* {#round-block}
 
 **When you see this in use you see:**
 
@@ -454,10 +386,7 @@ Twisting her tin falcata, a woman in a hooded cloak catches your hair whip and f
 
 </div>
 
-
-<a id="low-block"></a>
-
-### Falcata Low Block  *n/a*
+### Falcata Low Block  *n/a* {#low-block}
 
 **When you see this in use you see:**
 
@@ -468,19 +397,13 @@ You swiftly lower your tin falcata and sweep outward, blocking a woman in a hood
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Falcata Accuracy  *n/a*
+### Falcata Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
-
-<a id="Grip"></a>
-
-### Falcata Grip  *n/a*
+### Falcata Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 

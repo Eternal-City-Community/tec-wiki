@@ -36,17 +36,13 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 | ***High Priest’s Proxy***<br>Darie Allende | ***Sword of Ereal***<br>Junia Gracious<br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br>i. Titus Ahala<br>ii. Albius Anande<br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br>v. Sartor Mithus<br>vi. Spurius Ravilla<br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
 |  | i. Fist of Ereal<br>ii. Firm of Ereal<br>iii. Shield of Ereal |  |  |  |  |
 
-
-<a id="High-Priest"></a>
-#### High Priest
+#### High Priest {#High-Priest}
 
 The cult of Ereal is led by a High Priest who must be elected by unanimous decision by a Council of Elders. Once elected, the High Priest receives full powers and is expected to maintain his seat until his death or until he deems it is time to retire. There are provisions for the removal of a High Priest by an extraordinary session of the cult where a three-quarters vote is needed to oust the leader.
 
 **[bio:Tharius Allende](/bio_tharius-allende/)** is the current **High Priest of Ereal**.
 
-
-<a id="High-Priest-Proxy"></a>
-#### High Priest’s Proxy
+#### High Priest’s Proxy {#High-Priest-Proxy}
 Second to the High Priest is the High Priest's Proxy, named by the former, his task is to serve as a liason to the Iridine Senate and oversee the cult's political efforts and maneuverings. Having the status of a senator (indeed the Proxy often is an ex-senator), the Proxy has the task of being Ereal's voice in the Senate.
 
 **[bio:Darius Allende](/bio_darius-allende/)** is the **High Priest's Proxy** and brother to [Tharius](/bio_tharius-allende/).
@@ -227,8 +223,7 @@ The religious obligations are not the same as social obligations. To an upper-cl
 
 Please note that as easy as this circumstance may seem to be entered in upon, it is not lightly broken. The Cult must sanction the sundering of the marital chains, and only if good cause is presented.
 
-<a id="Festivals"></a>
-### Festivals
+### Festivals {#Festivals}
 Ereal's priests are well-known for a variety of week and two-week long festivals held [throughout the year](/dates-and-time/) celebrating different aspects of the God and to the passing of seasons.
 
 They are the **Festival for Ereal of the Morning** which begins at the start of spring, the **Festival for Ereal the Conqueror** which begins at the start of summer, the **Festival for Ereal of the Evening** which begins at the start of autumn and the **Festival for Ereal the Wanderer** which begins at the start of winter.
@@ -238,9 +233,7 @@ They are the **Festival for Ereal of the Morning** which begins at the start of 
 <details markdown="1">
 <summary>+ Show More</summary>
 
-
-<a id="Palilia"></a>
-#### Palilia
+#### Palilia {#Palilia}
 
 Palilia is a **Festival for Ereal of the Morning**. Festival **honoring the founding of the city of Iridine**. As the advent of the city coincided with a rebirth of the land and the people, this celebration is held in [spring](/dates-and-time/) in between the months of Rindak and Ereal. The festival **lasts two weeks** and culminates with a great theatrical performance re-enacting the myth of creation.
 
@@ -248,9 +241,7 @@ The Festival of Palilia kicks spring off honouring the founding of Iridine. A ti
 
 Palilia represents **Compassion & Hope**.
 
-
-<a id="Armilustrium"></a>
-#### Armilustrium
+#### Armilustrium {#Armilustrium}
 
 Armilustrium is a **Festival for Ereal the Conqueror**. In the hot days of summer this celebration has for its purpose **the purification of weapons for the legions** and the demands for blessings and protection against death. It is a week-long affair between the months of Tulcas and Aera. This is also a traditional time for Iridine military leaders to embark upon campaigns.
 
@@ -260,9 +251,7 @@ Armilistrum signifies the beginning of summer. It falls between the months of Tu
 
 Armilistrum represents **Noon-Sun, War & Vengeance**.
 
-
-<a id="Lupercalia"></a>
-#### Lupercalia
+#### Lupercalia {#Lupercalia}
 
 Lupercalia is a **Festival for Ereal of the Evening**. One week after the month of Palut. Feast of the harvest and abundance where the soil is blessed and the territory of **the Republic of Iridine is ritually purified**. A **birth** during this week is perceived as a **very good omen** and proof that Ereal is smiling on the parents.
 
@@ -270,9 +259,7 @@ The Lupercalia festival is a time of thanks for a bountiful harvest. It is often
 
 Lupercalia represents **Harvest & Abundance**.
 
-
-<a id="Feralia"></a>
-#### Feralia
+#### Feralia {#Feralia}
 
 Feralia is a **Festival for Ereal the Wanderer**. Traditionally this festival falls on the **coldest week of the year**. Legend and popular belief state that **the dead walk freely at this period of the year** and can interact with the living. This week-long celebration between the months of Allinius and Lucifal, has for purpose to **appease the souls of the dead** so that they won't harm those who are still living. A certain prayer is started on the first day by the priest of Ereal and lasts for the duration of the week.
 

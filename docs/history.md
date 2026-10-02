@@ -43,8 +43,8 @@ and Emrial and his family were scourged and exiled to Cinera.
 Martius served as the Republic’s first "interrex", maintaining martial law for three months, until the new republic was in place and Iridine was restored to its nobles. Martius, by unanimous acclamation, also became the Republic’s first Consul.
 
 ---
-<a id="timeline"></a>
-## Timeline
+
+## Timeline {#timeline}
 
 #### Era of Kings
 

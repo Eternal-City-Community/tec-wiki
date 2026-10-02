@@ -722,9 +722,7 @@ Hit <return> to continue...
 Next you must enter three adjectives which describe your character: 
 Hit <return> to continue...
 
-
-<a id="Step-17"></a>
-### Step #17: Adjectives
+### Step #17: Adjectives {#Step-17}
 
 ~~~
 =[Character Generation]=======================================================
@@ -773,9 +771,7 @@ Your character can have up to five different skills. He or she will advance much
 
 Hit <return> to continue...
 
-
-<a id="Step-18"></a>
-### Step #18: Skill Choice
+### Step #18: Skill Choice {#Step-18}
 
 ~~~
 =[Skills]=====================================================================
@@ -808,9 +804,7 @@ Because of your nation choice, you automatically have the following advantages:
 
 Hit <return> to continue...
 
-
-<a id="Step-19"></a>
-### Step #19: Nationality Advantages
+### Step #19: Nationality Advantages {#Step-19}
 
 ~~~
 =[Advantages]=================================================================

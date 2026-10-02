@@ -58,10 +58,7 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 
 ### Skill Details
 
-
-<a id="Stab"></a>
-
-### Knife Stab  *stab <target>*
+### Knife Stab  *stab <target>* {#Stab}
 
 Using the pointy end of the knife, you stab at the opponent.
 
@@ -73,10 +70,7 @@ Hatrin makes a quick stabbing motion at a thug with his dagger, but misses.
 
 </div>
 
-
-<a id="Slash"></a>
-
-### Knife Slash  *slash <target>*
+### Knife Slash  *slash <target>* {#Slash}
 
 You swing the blade horizontally at the opponent, in an attempt to cut them.
 
@@ -88,10 +82,7 @@ Maerodus slashes horizontally at a thug with the tip of his tin dagger, but miss
 
 </div>
 
-
-<a id="Strike"></a>
-
-### Knife Overhead Strike  *strike <target>*
+### Knife Overhead Strike  *strike <target>* {#Strike}
 
 A lot like stab, but it is easier to hit with, and causes less damage.
 
@@ -103,10 +94,7 @@ Aiming for a thug's torso, Dreggo brings down his tin dagger to bear in a downwa
 
 </div>
 
-
-<a id="Chop"></a>
-
-### Knife Chop  *chop <target>*
+### Knife Chop  *chop <target>* {#Chop}
 
 Like gladius chop, except slightly weaker, you chop down at your opponent's head and shoulders. This attack is always aimed high
 
@@ -118,10 +106,7 @@ Maerodus brings down his dagger in a chopping motion aimed at a thug, but misses
 
 </div>
 
-
-<a id="Lunge"></a>
-
-### Knife Step and Lunge  *lunge <target>*
+### Knife Step and Lunge  *lunge <target>* {#Lunge}
 
 The wielder tries to approach the opponent and execute a stab in one step. If this attack is blocked, you will still find yourself too far away to make a close-range attack.
 
@@ -133,10 +118,7 @@ Gilven lunges forward a step, stabbing a thug with his knife! A thug suffers a f
 
 </div>
 
-
-<a id="Jab"></a>
-
-### Knife Jab  *jab <target>*
+### Knife Jab  *jab <target>* {#Jab}
 
 The same principle as gladius jab, you jab at the opponent with the pointy end of the knife. It is a simple attack.
 
@@ -148,10 +130,7 @@ Hatrin jabs at a thug with the point of his tin dagger, but misses.
 
 </div>
 
-
-<a id="Sblock"></a>
-
-### Knife Short Block
+### Knife Short Block {#Sblock}
 
 Knife short and long block are strange. I've seen them both, Basically, as far as I can tell, they both block mid-high attacks, Long Block is just harder, and fancier.
 
@@ -163,10 +142,7 @@ Vitrus blocks a thug's dagger this the blade of his dagger.
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Knife Feint  *feint <target>*
+### Knife Feint  *feint <target>* {#Feint}
 
 The wielder attempts to feint an attack with the blade in order to get his opponent to lower his guard. The difficulty for a feint to be used is dependent on the opponents overall fighting ability and combat posture, a less skilled or more defensive opponent will fall for a feint easier then a more skilled, berserking warrior.
 
@@ -178,10 +154,7 @@ Dreggo leans forward, feigning a strike at a thug with his dagger!
 
 </div>
 
-
-<a id="Lblock"></a>
-
-### Knife Long Block
+### Knife Long Block {#Lblock}
 
 This block actually works against a variety of weapon strikes and disarms, such at knife pushaside and spears weaponstrike. It also blocks some of the same strikes as simple block.
 
@@ -193,10 +166,7 @@ Vitrus catches a thug's tin dagger on the quillions of his dagger.
 
 </div>
 
-
-<a id="Cblock"></a>
-
-### Knife Cross Block
+### Knife Cross Block {#Cblock}
 
 Blocks slashing attacks aimed at the midsection, but because of the small size of the blade, cannot block low slashing attacks.
 
@@ -208,10 +178,7 @@ With a sideways, crossing motion, Hatrin blocks a thug's tin dagger with the bla
 
 </div>
 
-
-<a id="Draw"></a>
-
-### Knife Stealthy Draw  *draw <weapon>*
+### Knife Stealthy Draw  *draw <weapon>* {#Draw}
 
 This technique allows one to pull out a small bladed weapon (dirk, dagger, or knife) and wield it without anyone noticing. Total success means it is not seen and is performed swiftly and silently. Failure means that it is seen, with a slight chance of bumbling the whole process and dropping the weapon. A total failure, that is a person clutching the wrong end of the dirk, dropping it, and cutting himself in the process, has never happened. At least, no one has ever admitted doing it. (If the draw fails or marginally succeeds then the chances of others seeing it depends on their individual perception attribute).
 
@@ -226,10 +193,7 @@ Gilven cuts his hand in a horrible attempt at drawing a knife!
 
 </div>
 
-
-<a id="Wd"></a>
-
-### Knife Wrist-Dancing  *wristdance*
+### Knife Wrist-Dancing  *wristdance* {#Wd}
 
 The wielder flips the dagger around his (gloved, hopefully) hand, wrist, and fingers, the way a magician might spin a coin on his knuckles. If successful, this maneuver is a great way to impress children- or show potential adversaries that maybe they'd better leave you alone. Importantly, successful wrist-dancing means that the weapon is effectively wielded and ready no matter what it's doing at that second, making it much harder for an opponent to predict where the strike will come from when the wielder decides to attack. How effective the bonus is to the next attack, as well as how impressive the display, is dependent on how successful the wrist-dancing was. Failure means the wrist-dance is performed too slow or too clumsy to have been effective, or even the fumbling of the blade. Those not aware of the technique or not very adept in the use of knives also have the chance of cutting their own fingers in the process.
 
@@ -249,10 +213,7 @@ Vitrus attempts to spin a dagger but it comes out as clumsy and slow.
 
 </div>
 
-
-<a id="Pa"></a>
-
-### Knife Push Aside  *pushaside <target>*
+### Knife Push Aside  *pushaside <target>* {#Pa}
 
 This maneuver is an attempt to force the opponent's weapon out of line using the dirk's quillions. Successful performing of the maneuver means the opponent temporarily loses grip on their weapon and is disarmed. In extreme cases, and only if the wielder is particularly skilled, this technique may actually fling the opponent's weapon away from him. Of course, you can only use this skill if the target must be wielding a weapon.
 
@@ -264,10 +225,7 @@ Dreggo throws his weight towards a thug, ineffectually pushing upwards with the 
 
 </div>
 
-
-<a id="Round"></a>
-
-### Knife Round Strike  *round <target>*
+### Knife Round Strike  *round <target>* {#Round}
 
 This attack, similar to other round strikes in principle, attempts to bypass a defender's block using a deft twirling motion of the dirk. Because the power of the thrust is less concentrated, it does less damage then a regular thrusting attack. If the opponent doesn't try a block, this is just a fancy-looking jab. The nimbleness of short blades makes the rounding strike technique easier then with other weapons.
 
@@ -281,10 +239,7 @@ With an agile movement of the wrist, Maerodus whirls his dagger while lunging fo
 
 </div>
 
-
-<a id="Ustab"></a>
-
-### Knife Underhand Stab  *ustab <target>*
+### Knife Underhand Stab  *ustab <target>* {#Ustab}
 
 This strike is just like Overhead Strike,except that if it gets through the opponent's defenses, it is more likely to hit him in the guts or heart, and therefore more likely to kill him or put him out of commission. Stabbing someone in the head and shoulders just isn't as effective. This technique can be among the most damaging available, however it can only be directed towards the most vital areas of the chest and waist, and so is less useful against a heavily armored opponent.
 
@@ -298,10 +253,7 @@ Tightly gripping his dagger, Dreggo makes a quick underhand stab aimed at you, b
 
 </div>
 
-
-<a id="Whirl"></a>
-
-### Knife Whirling Slash  *whirlslash <target>*
+### Knife Whirling Slash  *whirlslash <target>* {#Whirl}
 
 The wielder whirls all the way around, then a little further, dragging the dirk's blade across the opponent's body on the way by. If the initial attack succeeds, a second check is made whether the wielder gets in another strike. If the second slash is successful, it inflicts about twice the damage as usual. The better the wielder is in basic slash, the easier it is to begin a whirling slash and the greater the chance of a second slash succeeding. Because of the nature of the attack, it can only be aimed at areas of the body, not specific parts.
 
@@ -313,10 +265,7 @@ Gilven takes a step back while gripping his blade tightly and begins a spinning 
 
 </div>
 
-
-<a id="Dc"></a>
-
-### Knife Stab and Slash  *doublecut <target>*
+### Knife Stab and Slash  *doublecut <target>* {#Dc}
 
 The wielder tries a standard Stab, but follows through, if it hits, with an automatic Slashing attack. The initial stab must succeed in order for the follow-up slash to take place and each stage is greatly affected by the wielder's proficiency in the corresponding skill.
 
@@ -328,10 +277,7 @@ Dreggo tightly grips his dagger. Stepping towards a thug, he then lunges a stab 
 
 </div>
 
-
-<a id="Flick"></a>
-
-### Knife Flicking Feint  *flick <target>*
+### Knife Flicking Feint  *flick <target>* {#Flick}
 
 A feinting maneuver where the attacker flicks their weapon at their target, bouncing it off them before catching it again. Not only does it put the target off guard, but it also effectively stuns them. If the feint isn't effective, the attacker will drop their weapon.
 
@@ -344,10 +290,7 @@ Vitrus flips forward his knife in an attempt to distract his target! His target 
 
 </div>
 
-
-<a id="Grip"></a>
-
-### Knives Grip
+### Knives Grip {#Grip}
 
 With enough training in Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 
@@ -359,10 +302,7 @@ With enough training in Grip, you are able to raise your dexterity in combat sit
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Knives Accuracy
+### Knives Accuracy {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -374,10 +314,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Lowblock"></a>
-
-### Knife Low Block
+### Knife Low Block {#Lowblock}
 
 **When you see this in use you see:**
 

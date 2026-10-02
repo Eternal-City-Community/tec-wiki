@@ -16,9 +16,7 @@ Kelestians have been known to have very fair complexions. The typical Kelestian 
 ### Culture
 Collectors of rocks and vegan-friendly fungus leather.
 
-
-<a id="combat"></a>
-#### Combat & Martial Arts
+#### Combat & Martial Arts {#combat}
 The Kelestian people have developed new methods of fighting, not previously seen to the Iridinian people. Their armies are trained in the following weapon styles:
 * [Chainblade](/chainblade/)
 * [Falcata](/falcata/) 

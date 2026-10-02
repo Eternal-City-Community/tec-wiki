@@ -46,9 +46,7 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 
 ### Skill Details
 
-<a id="smasherstance"></a>
-
-### 2H Crushing Smasher Stance  *smasherstance*
+### 2H Crushing Smasher Stance  *smasherstance* {#smasherstance}
 
 The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
@@ -60,9 +58,7 @@ The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
 </div>
 
-<a id="chop"></a>
-
-### 2H Crushing Chop  *chop <target>*
+### 2H Crushing Chop  *chop <target>* {#chop}
 
 Can be used melee or ranged.
 
@@ -76,9 +72,7 @@ This can be aimed High.
 
 </div>
 
-<a id="swat"></a>
-
-### 2H Crushing Swat  *swat <target>*
+### 2H Crushing Swat  *swat <target>* {#swat}
 
 This can be aimed High, Mid & Low.
 
@@ -90,9 +84,7 @@ This can be aimed High, Mid & Low.
 
 </div>
 
-<a id="haftsnap"></a>
-
-### 2H Crushing Haft Snap  *hafts?nap <target>*
+### 2H Crushing Haft Snap  *hafts?nap <target>* {#haftsnap}
 
 Can be used melee or ranged.
 
@@ -106,9 +98,7 @@ This can be aimed High, Mid & Low.
 
 </div>
 
-<a id="hthrust"></a>
-
-### 2H Crushing Head Thrust  *hthrust <target>*
+### 2H Crushing Head Thrust  *hthrust <target>* {#hthrust}
 
 Requires being in Smasher Stance to use.
 
@@ -124,9 +114,7 @@ This can be aimed High, Mid & Low.
 
 </div>
 
-<a id="fslam"></a>
-
-### 2H Crushing Forward Slam  *fslam <target>*
+### 2H Crushing Forward Slam  *fslam <target>* {#fslam}
 
 A windup move that can possibly knock your opponent away from you. This can be followed by Charging Smash to reapproach.
 
@@ -142,9 +130,7 @@ A thin sailor retreats.
 
 </div>
 
-<a id="charge"></a>
-
-### 2H Crushing Charging Upswing  *charge <target>*
+### 2H Crushing Charging Upswing  *charge <target>* {#charge}
 
 Must be used after forward slam.
 
@@ -158,9 +144,7 @@ This cannot be aimed.
 
 </div>
 
-<a id="vcrush"></a>
-
-### 2H Crushing Vital Crush  *vcrush <target>*
+### 2H Crushing Vital Crush  *vcrush <target>* {#vcrush}
 
 Must be used melee.
 
@@ -174,9 +158,7 @@ This can be aimed High & Mid.
 
 </div>
 
-<a id="lcrush"></a>
-
-### 2H Crushing Leg Crush  *lcrush <target>*
+### 2H Crushing Leg Crush  *lcrush <target>* {#lcrush}
 
 Possible knock down. Must be used melee.
 
@@ -190,9 +172,7 @@ This can be aimed Low.
 
 </div>
 
-<a id="oslam"></a>
-
-### 2H Crushing Overhead Slam  *oslam <target>*
+### 2H Crushing Overhead Slam  *oslam <target>* {#oslam}
 
 Must be used melee.
 
@@ -206,9 +186,7 @@ This can be aimed High.
 
 </div>
 
-<a id="break"></a>
-
-### 2H Crushing Shield Break  *break <target>*
+### 2H Crushing Shield Break  *break <target>* {#break}
 
 Can be used at range or melee.
 
@@ -224,9 +202,7 @@ A heavy shield fashioned from debris is destroyed. _
 
 </div>
 
-<a id="ssmash"></a>
-
-### 2H Crushing Stepping Smash  *ssmash <target>*
+### 2H Crushing Stepping Smash  *ssmash <target>* {#ssmash}
 
 Aggresive stepping move. Can be used at melee or ranged.
 
@@ -241,9 +217,7 @@ Your stance is now aggressive.
 
 </div>
 
-<a id="dbash"></a>
-
-### 2H Crushing Defensive Bash  *dbash <target>*
+### 2H Crushing Defensive Bash  *dbash <target>* {#dbash}
 
 Steps defensively. Must be used melee range.
 
@@ -258,9 +232,7 @@ Your stance is now normal.
 
 </div>
 
-<a id="hcrush"></a>
-
-### 2H Crushing Head Crusher  *hcrush <target>*
+### 2H Crushing Head Crusher  *hcrush <target>* {#hcrush}
 
 Can stun. Must be used melee. 
 
@@ -274,9 +246,7 @@ This can be aimed High, (Mid & Low?).
 
 </div>
 
-<a id="wsmash"></a>
-
-### 2H Crushing Whirling Smash  *wsmash <target>*
+### 2H Crushing Whirling Smash  *wsmash <target>* {#wsmash}
 
 Double hitter.
 
@@ -290,15 +260,11 @@ This can be aimed Mid & Low.
 
 </div>
 
-<a id="feint"></a>
-
-### 2H Crushing Feint  *feint <target>*
+### 2H Crushing Feint  *feint <target>* {#feint}
 
 Feinting move
 
-<a id="cblock"></a>
-
-### 2H Crushing Crossing Block  *n/a*
+### 2H Crushing Crossing Block  *n/a* {#cblock}
 
 **When you see this in use you see:**
 
@@ -309,9 +275,7 @@ You hold your tin war hammer vertically and swing it in front of you, blocking t
 
 </div>
 
-<a id="hblock"></a>
-
-### 2H Crushing Haft Block  *n/a*
+### 2H Crushing Haft Block  *n/a* {#hblock}
 
 **When you see this in use you see:**
 
@@ -322,9 +286,7 @@ You block the attack with the haft of your tin war hammer.
 
 </div>
 
-<a id="heblock"></a>
-
-### 2H Crushing Head Block  *n/a*
+### 2H Crushing Head Block  *n/a* {#heblock}
 
 **When you see this in use you see:**
 
@@ -335,9 +297,7 @@ Herdias raises the head of his tin war hammer in front of him, deflecting the at
 
 </div>
 
-<a id="sblock"></a>
-
-### 2H Crushing Swat Block  *n/a*
+### 2H Crushing Swat Block  *n/a* {#sblock}
 
 **When you see this in use you see:**
 
@@ -348,17 +308,13 @@ You use the head of your tin war hammer to knock aside the attack with a brute-f
 
 </div>
 
-<a id="Accuracy"></a>
-
-### 2H Crushing Accuracy  *n/a*
+### 2H Crushing Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
-<a id="Grip"></a>
-
-### 2H Crushing Grip  *n/a*
+### 2H Crushing Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 

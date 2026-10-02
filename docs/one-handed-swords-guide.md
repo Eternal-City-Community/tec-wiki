@@ -42,8 +42,7 @@ Everything you need to know about the never-ending journey of the One-Handed Swo
 * [Nelsor Guide](/nelsor-guide/) (suggested) - Reverse Sky Arch, Kicking Slash, Extended Arm Spin.
 * [Pardelian Guide](/pardelian-guide/) (suggested) - Hidden Thrust, Ankle Thrust, Reaper Slash, Side Jab.
 
-<a id="Weapons"></a>
-### Weapons
+### Weapons {#Weapons}
 This is the list of weapons that can be used by the One-Handed Swords skill set.
 
 | Weapons | How to get it | Cost |

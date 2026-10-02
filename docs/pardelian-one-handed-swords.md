@@ -49,10 +49,7 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 
 ### Skill Details
 
-
-<a id="Stance"></a>
-
-### Pardelian Turtle Stance  *turtle*
+### Pardelian Turtle Stance  *turtle* {#Stance}
 
 A specialty of the Iridinian Legion, a front line comprised fully of upright, braced wall shields is a sight to behold. The Pardelian's wall shield is arguably the most noticeable aspect of this style. The user must enter a properly turtled stance before any Pardelian maneuvers can be attempted.
 
@@ -66,10 +63,7 @@ The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
 </div>
 
-
-<a id="Side"></a>
-
-### Pardelian Side Jab  *sjab*
+### Pardelian Side Jab  *sjab* {#Side}
 
 This attack is relatively easy to land, but more often than not does little more than a scratch. 
 
@@ -85,10 +79,7 @@ This attack is relatively easy to land, but more often than not does little more
 
 </div>
 
-
-<a id="ShieldCharge"></a>
-
-### Pardelian Shield Charge  *scharge <target>*
+### Pardelian Shield Charge  *scharge <target>* {#ShieldCharge}
 
 With shield pressed to shoulder, a Pardelian attempts to quickly close ground with a foe using this charge, and inflict damage with the impact.  A slight misstep can result in one losing their own balance and landing face first into the dirt.
 
@@ -102,10 +93,7 @@ With shield pressed to shoulder, a Pardelian attempts to quickly close ground wi
 
 </div>
 
-
-<a id="HT"></a>
-
-### Pardelian Hidden Thrust  *hthrust <target>*
+### Pardelian Hidden Thrust  *hthrust <target>* {#HT}
 
 Hidden Thrust is a mid-aiming stabbing attack, used by Pardelians to particularly deadly effect by being hidden behind a wall shield until late in the maneuver.  Foes often do not have enough time to mount a defense before this blow comes to bear.
 
@@ -119,10 +107,7 @@ Hidden Thrust is a mid-aiming stabbing attack, used by Pardelians to particularl
 
 </div>
 
-
-<a id="KT"></a>
-
-### Pardelian Killing Thrust  *kthrust <target>*
+### Pardelian Killing Thrust  *kthrust <target>* {#KT}
 
 For decisive damage, a Pardelian can attempt this devastatingly heavy thrust. The user must be wary of many factors - including that only fallen foes may be struck in this way, and that an improperly prepared Pardelian will find her or himself vulnerable, too.
 
@@ -137,10 +122,7 @@ For decisive damage, a Pardelian can attempt this devastatingly heavy thrust. Th
 
 </div>
 
-
-<a id="LG"></a>
-
-### Pardelian Lion's Gambit  *gambit <target>*
+### Pardelian Lion's Gambit  *gambit <target>* {#LG}
 
 The cost of attempting this quick, lunging shift to a berserk stance is great - the Pardelian must drop the wielded wall shield entirely, and will soon find him or herself out of stance.
 
@@ -155,10 +137,7 @@ The cost of attempting this quick, lunging shift to a berserk stance is great - 
 
 </div>
 
-
-<a id="RS"></a>
-
-### Pardelian Reaper Slash  *reaper <target>*
+### Pardelian Reaper Slash  *reaper <target>* {#RS}
 
 This is a mid-aiming slash often used by a Pardelian to cut a foe down to size despite wide attacks being an oddity for a shield wall.  The heavy slash comes in from the right or left depending on the wielder's dominant hand.
 
@@ -172,10 +151,7 @@ This is a mid-aiming slash often used by a Pardelian to cut a foe down to size d
 
 </div>
 
-
-<a id="AT"></a>
-
-### Pardelian Ankle Thrust  *ankle <target>*
+### Pardelian Ankle Thrust  *ankle <target>* {#AT}
 
 A well-timed ankle thrust, often resulting in a crippling wound is something that can turn the tide of a battle.  Even though this thrust attempts to take advantage of fighter's frequent deficiencies in low defenses, this strike is notoriously difficult to land.
 
@@ -189,10 +165,7 @@ A well-timed ankle thrust, often resulting in a crippling wound is something tha
 
 </div>
 
-
-<a id="ShieldSap"></a>
-
-### Pardelian Shield Sap  *ssap <target>*
+### Pardelian Shield Sap  *ssap <target>* {#ShieldSap}
 
 Similar to Slash and Sap, this attack is favored due to it's ability to leave an opponent dazed and vulnerable.  Instead of striking with the pommel the wielder strikes with the boss of their shield.  Against a heavy helmet, this attack's effectiveness is reduced greatly.
 
@@ -208,10 +181,7 @@ Similar to Slash and Sap, this attack is favored due to it's ability to leave an
 
 </div>
 
-
-<a id="SS"></a>
-
-### Pardelian Slash and Sap  *sls*
+### Pardelian Slash and Sap  *sls* {#SS}
 
 Slash and sap is a favorite among soldiers due to it's good chance to daze an opponent.   This attack always aims for the head and can be hindered if the target is heavily armored.
 
@@ -227,10 +197,7 @@ Slash and sap is a favorite among soldiers due to it's good chance to daze an op
 
 </div>
 
-
-<a id="TS"></a>
-
-### Pardelian Tag and Strike  *tag <target>*
+### Pardelian Tag and Strike  *tag <target>* {#TS}
 
 In the right hands, this attempts to be a fast, if weak jab at an opponent. When it fails, it becomes a flimsy diversion for a follow-up slash that will graze skin.
 
@@ -244,10 +211,7 @@ In the right hands, this attempts to be a fast, if weak jab at an opponent. When
 
 </div>
 
-
-<a id="DB"></a>
-
-### Pardelian Downward Block  *n/a*
+### Pardelian Downward Block  *n/a* {#DB}
 
 This block bolsters a Pardelian's defenses by protecting the waist and legs from several mid-ranged and low attacks.
 
@@ -261,10 +225,7 @@ This block bolsters a Pardelian's defenses by protecting the waist and legs from
 
 </div>
 
-
-<a id="ST"></a>
-
-### Pardelian Stab and Twist  *n/a*
+### Pardelian Stab and Twist  *n/a* {#ST}
 
 While not an attack outright, this technique adds a measure of ruthless effectiveness to the standard stabs and thrusts most Pardelians are known for.
 

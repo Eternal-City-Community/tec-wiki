@@ -22,8 +22,8 @@ Below you'll find everything important to know about [Locksmithing](/locksmithin
 * Many locksmithing actions, like **unlocking**, **unjamming**, or creating clay molds, are **affected by the lighting** of your environment. Make sure you are in a **well-lit area** to ensure that you have the **lowest success** for your actions.
 
 ### Tools
-<a id="Lockpicks"></a>
-#### Lockpicks (& keys)
+
+#### Lockpicks (& keys) {#Lockpicks}
 
 Lockpicks can be **made of** the following materials.
 
@@ -98,8 +98,7 @@ Note that keys which are added to a keyring become effectively weightless - the 
 
 ### Tasks
 
-<a id="Forging"></a>
-#### Forging *(Key | Lockpick)*
+#### Forging *(Key | Lockpick)* {#Forging}
 
 * To make the best lockpick requires the best mold *(good rolls)*.
 * To make the best mold requires the best wax imprint *(good rolls)*.
@@ -123,9 +122,7 @@ The below steps use the furnaces across from Apula's as the example.
 | **Step 5**: Forge the key/lockpick. | - Pour liquid metal into mold. ([*/locksmithing#Forge-Lock-Instrument Forge Lock Instrument])<br>- Example: '**forge tool with crucible and mold**'. |
 | **Step 6** *(optional)*: Destroy the mold. | - Destroy the mold so it cannot be used to create duplicates of the same key.<br>- Example: '**crack mold**'. |
 
-
-<a id="Etching"></a>
-##### Etching
+##### Etching {#Etching}
 You can inscribe a small amount of characters onto a lockpick using [Wax Letter Etching](/locksmithing/#Wax-Letter-Etching) which will show when you look at it. Your rank in **basics does not** seem to **help**.
 
 
@@ -192,8 +189,7 @@ Below is the list of **keyring sizes** that can be created.
 | a very large *<metal>* keyring | Excellent | ? |
 | ??? | Excellent | ? |
 
-<a id="Jobs"></a>
-### Jobs
+### Jobs {#Jobs}
 
 NPC jobs are available at specific locations in the game world. Below is a list of the locations and types of jobs you can find, along with their estimated profit margin at each location. In addition to the below, player-characters may also request you to perform specific jobs.
 

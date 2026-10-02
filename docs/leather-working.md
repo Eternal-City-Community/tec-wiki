@@ -167,10 +167,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 ### Related Commands
 Related commands are commands that require no skill or training to use, but are necessary as part of the Leatherworking skill set.
 
-
-<a id="Threading"></a>
-
-### Threading  *thread <needle> with <thread>*
+### Threading  *thread <needle> with <thread>* {#Threading}
 
 Before performing actions such as stitching, your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
 
@@ -183,10 +180,7 @@ You thread a silver sewing needle with a spiraled grip carefully with a spool of
 
 </div>
 
-
-<a id="Knot"></a>
-
-### Knot  *knot <spool> with <spool>*
+### Knot  *knot <spool> with <spool>* {#Knot}
 
 What is a tailor to do with the remnants of their spools of thread? Combine them with other remnants using the knot command. No skill is necessary.
 
@@ -202,10 +196,7 @@ What is a tailor to do with the remnants of their spools of thread? Combine them
 
 ### Skill Details
 
-
-<a id="Cut-Leather"></a>
-
-### Cut Leather  *TBD*
+### Cut Leather  *TBD* {#Cut-Leather}
 
 TBD
 
@@ -217,10 +208,7 @@ TBD
 
 </div>
 
-
-<a id="Lace-Leather"></a>
-
-### Lace Leather  *TBD*
+### Lace Leather  *TBD* {#Lace-Leather}
 
 TBD
 
@@ -232,10 +220,7 @@ TBD
 
 </div>
 
-
-<a id="Layout-Leather"></a>
-
-### Layout Leather  *TBD*
+### Layout Leather  *TBD* {#Layout-Leather}
 
 TBD
 
@@ -247,10 +232,7 @@ TBD
 
 </div>
 
-
-<a id="Punch-Leather"></a>
-
-### Punch Leather  *TBD*
+### Punch Leather  *TBD* {#Punch-Leather}
 
 TBD
 
@@ -262,10 +244,7 @@ TBD
 
 </div>
 
-
-<a id="Apply-Metal"></a>
-
-### Apply Metal Studs  *TBD*
+### Apply Metal Studs  *TBD* {#Apply-Metal}
 
 TBD
 
@@ -277,10 +256,7 @@ TBD
 
 </div>
 
-
-<a id="Bevel-Leather"></a>
-
-### Bevel Leather Component  *TBD*
+### Bevel Leather Component  *TBD* {#Bevel-Leather}
 
 TBD
 
@@ -292,10 +268,7 @@ TBD
 
 </div>
 
-
-<a id="Line-Leather"></a>
-
-### Line Leather Item  *TBD*
+### Line Leather Item  *TBD* {#Line-Leather}
 
 TBD
 
@@ -308,10 +281,7 @@ TBD
 
 </div>
 
-
-<a id="Rivet-Leather"></a>
-
-### Rivet Leather Components  *TBD*
+### Rivet Leather Components  *TBD* {#Rivet-Leather}
 
 TBD
 
@@ -323,10 +293,7 @@ TBD
 
 </div>
 
-
-<a id="Skive-Leather"></a>
-
-### Skive Leather Component  *TBD*
+### Skive Leather Component  *TBD* {#Skive-Leather}
 
 TBD
 
@@ -339,10 +306,7 @@ TBD
 
 </div>
 
-
-<a id="Emboss-Leather"></a>
-
-### Emboss Leather Item  *TBD*
+### Emboss Leather Item  *TBD* {#Emboss-Leather}
 
 TBD
 
@@ -355,10 +319,7 @@ TBD
 
 </div>
 
-
-<a id="Mold-Leather"></a>
-
-### Mold Leather Component  *TBD*
+### Mold Leather Component  *TBD* {#Mold-Leather}
 
 TBD
 
@@ -370,10 +331,7 @@ TBD
 
 </div>
 
-
-<a id="Sew-Leather"></a>
-
-### Sew Leather Components  *TBD*
+### Sew Leather Components  *TBD* {#Sew-Leather}
 
 TBD
 

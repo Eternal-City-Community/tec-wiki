@@ -53,10 +53,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 
 ### Skill Details
 
-
-<a id="Throw"></a>
-
-### Trident Throw  *throw <trident>*
+### Trident Throw  *throw <trident>* {#Throw}
 
 The trident, like the spear, can be used as a thrown weapon to a certain degree. This technique is more common among fishermen and whalers used to casting harpoons then it is among the brutal melee combats of the arena. Given the bulk of the trident's head, it is more difficult to throw than the spear and cannot achieve the same range, but the inertia is often enough to effectively pierce armor.
 
@@ -68,10 +65,7 @@ A gladiator throws a trident at a thug, but misses.
 
 </div>
 
-
-<a id="Simple-Block"></a>
-
-### Trident Simple Block
+### Trident Simple Block {#Simple-Block}
 
 Similar to simple blocks with other pole weapons, the wielder interposes the lengthy trident haft between him and his opponent's weapon. Like the simple blocks of spears and staves, it also covers low, direct attacks.
 
@@ -83,10 +77,7 @@ A gladiator blocks a thugs tin dagger with the haft of his trident!
 
 </div>
 
-
-<a id="Cross-Block"></a>
-
-### Trident Cross Block
+### Trident Cross Block {#Cross-Block}
 
 Similar to the stave technique, the wielder spins the haft of the trident to deflect blows coming in from the side. Due to the length of the trident, it also covers such attacks aimed low.
 
@@ -98,10 +89,7 @@ A gladiator swings his trident inside out, blocking a thugs tin dagger with it!
 
 </div>
 
-
-<a id="Tine-Block"></a>
-
-### Trident Tine Block
+### Trident Tine Block {#Tine-Block}
 
 In order to deal with overhead attacks directed at the upper areas of the body, the wielder steps back and swings up the head of his trident in an attempt to catch or deflect the attack with the tines of his weapon. This is one of the few defenses for moves such as Spears Overhead Thrust.
 
@@ -114,10 +102,7 @@ You bring up the head of your trident, catching the attack in the tines!
 
 </div>
 
-
-<a id="Rotation-Block"></a>
-
-### Trident Rotation Block
+### Trident Rotation Block {#Rotation-Block}
 
 **When you see this in use you see:**
 
@@ -127,10 +112,7 @@ A gladiator spins his trident around in his grip, sweeping it circularly to knoc
 
 </div>
 
-
-<a id="Foot-Pin"></a>
-
-### Trident Foot Pin  *pin <target>*
+### Trident Foot Pin  *pin <target>* {#Foot-Pin}
 
 The wielder stabs down with the trident, attempting to catch his opponent's ankle with the tines of the trident. If successful, the opponent is bound in place and must take a test of strength and agility to free his foot (Type: **free me**). However, this attack does not stop the opponent from using his arms and hands (or the weapons held with those hands}, and is more useful in group battles or to catch a fleeing opponent then it is in individual combat.
 
@@ -143,10 +125,7 @@ A gladiator jabs his trident downwards at a thug's feet! He only manage to jostl
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Trident Feint  *feint <target>*
+### Trident Feint  *feint <target>* {#Feint}
 
 The wielder attempts to feint an attack with the head of his trident in order to get his opponent to lower his guard. The difficulty for a feint to be used is dependent on the opponents overall fighting ability, a less skilled opponent will fall for a feint easier than a more skilled warrior.
 
@@ -158,10 +137,7 @@ A gladiator leans forward, feigning a strike at a thug with his trident.
 
 </div>
 
-
-<a id="Pierce"></a>
-
-### Trident Pierce  *pierce <target>*
+### Trident Pierce  *pierce <target>* {#Pierce}
 
 After a great deal of experience in stabbing with the trident, the wielder learns how to most effectively direct the power and momentum of his whole body through the trident in his thrusts. Pierce can only be used at long range but it's power and speed greatly exceed standard stabbing attacks, often resulting in opponents skewered onto the trident's tines. This attack is much like Spears Thrust, and is defended only by Shields Overhead Block and ACM's Swaying Dodge and now Staves Whirling Block, to my knowledge.
 
@@ -173,10 +149,7 @@ A gladiator slams his trident forward in a powerful thrust, managing to skewer a
 
 </div>
 
-
-<a id="Blunt-Bash"></a>
-
-### Trident Blunt Bash  *bash <target>*
+### Trident Blunt Bash  *bash <target>* {#Blunt-Bash}
 
 As with the spear, a readily apparent distinction between trained and untrained users is the knowledge that both ends of the weapon can be used as striking ends. Within a combat range of two feet, it becomes increasingly difficult to use the teeth of the trident in conventional thrusts. Blunt Bash is the technique of letting a loose stave-like attack with the butt end of the trident in close quarters.
 
@@ -188,10 +161,7 @@ Using the blunt end of his trident, a gladiator releases a quick bash aimed at a
 
 </div>
 
-
-<a id="Rotating-Bash"></a>
-
-### Trident Rotating Bash  *rbash <target>*
+### Trident Rotating Bash  *rbash <target>* {#Rotating-Bash}
 
 A distinguishing feature of the trident is that it's center of gravity is much closer to the bladed end then other pole-arm weapons. Though this often hampers untrained wielders and makes the trident seem unwieldy to those more familiar with staves and spears, an experienced warrior can take advantage of this quirk. In this attack the wielder slides both hands closer to the head of the trident, then, while stepping forward, pushes down with one hand while the other remains on the haft as a fulcrum. The result is that the rear, blunt end of the trident rotates forward and strike the target overhead with swiftness approaching a blur. Given the space needed to perform this maneuver, it is purely a long-range attack.
 
@@ -203,10 +173,7 @@ Sliding both hands near the head of his trident, a gladiator spins the whole haf
 
 </div>
 
-
-<a id="Slash"></a>
-
-### Trident Slash  *slash <target>*
+### Trident Slash  *slash <target>* {#Slash}
 
 This attack has the same principle of Blunt Bash, except applied to the bladed end of the trident. Though a slash with a trident is not as powerful as a slash with a weapon with larger blade surfaces (i.e. swords and axes), it is more effective then jabbing or stabbing at close range.
 
@@ -218,10 +185,7 @@ A gladiator slashes horizontally at a thug with the teeth of his trident, but mi
 
 </div>
 
-
-<a id="Sweep"></a>
-
-### Trident Sweep  *sweep <target>*
+### Trident Sweep  *sweep <target>* {#Sweep}
 
 Grasping the trident near his head, the wielder attempts a wide and low swing at his opponent's feet in an attempt to knock him over. Because of the position, the wielder must be in to use this technique, it cannot be done at close range.
 
@@ -235,10 +199,7 @@ Holding a trident near its head, a gladiator sweeps the butt of the weapon at a 
 
 </div>
 
-
-<a id="Weapon-Catch"></a>
-
-### Trident Weapon Catch  *catch*
+### Trident Weapon Catch  *catch* {#Weapon-Catch}
 
 The bearer of the trident suddenly swings upward with the tines of his trident, attempting to catch his opponent's weapon, then lock it with a quick twist. This attack binds both weapons together, leaving the rest to a test of strength between the two warriors (*free <weapon>*).
 
@@ -253,10 +214,7 @@ In an impressive show of strength, a gladiator pulls a thugs tin dagger from his
 
 </div>
 
-
-<a id="Jab"></a>
-
-### Trident Jab  *jab <target>*
+### Trident Jab  *jab <target>* {#Jab}
 
 The most basic attack with the trident, requiring little more thought then sticking a pitchfork into a pile of hay. One untrained in using a trident would be able to do little more then this. This move is slightly faster than Stab, but slightly less damage.
 
@@ -268,10 +226,7 @@ A gladiator tentatively jabs at a thug with his trident, but misses.
 
 </div>
 
-
-<a id="Lunge"></a>
-
-### Trident Lunge  *lunge <target>*
+### Trident Lunge  *lunge <target>* {#Lunge}
 
 An attack/approach combination in which the wielder attempts to close in with his opponent while at the same time lunging forward with the teeth of his trident.
 
@@ -284,10 +239,7 @@ A gladiator lunges forward, thrusting at a thug with his trident! She suffers a 
 
 </div>
 
-
-<a id="Stab"></a>
-
-### Trident Stab  *stab <target>*
+### Trident Stab  *stab <target>* {#Stab}
 
 Slightly slower than Trident Jab, Stab is another basic attack which requires both hands. It is slightly more powerful than jab.
 
@@ -299,10 +251,7 @@ A gladiator makes a quick stabbing motion at a thug with his trident! He suffers
 
 </div>
 
-
-<a id="Vital-Jab"></a>
-
-### Trident Vital Jab  *vital <target>*
+### Trident Vital Jab  *vital <target>* {#Vital-Jab}
 
 In the show matches of the colosseum, long bloody matched are great crowd pleasers. Naturally, successful gladiators must learn which parts of the opponent not to strike if they want to prolong the match. This gives experienced gladiators an intimate knowledge of the weak points of the human body and where to strike if they do wish to cause the most possible damage. This attack allows for a vicious gouging strike at the opponent's most vital spots, often causing devastating and incapacitating wounds.
 
@@ -314,10 +263,7 @@ A gladiator viciously gouges at a thug with the teeth of his trident. Critical H
 
 </div>
 
-
-<a id="Parting-Jab"></a>
-
-### Trident Parting Jab  *pjab <target>*
+### Trident Parting Jab  *pjab <target>* {#Parting-Jab}
 
 The wielder retreats while quickly jabbing at his opponent. The technique allows the wielder to put a distance between him and his opponent without risking letting his own guard down.
 
@@ -330,10 +276,7 @@ A gladiator steps back while jabbing at a thug with his wooden pitchfork!
 
 </div>
 
-
-<a id="Harpoon-Stance"></a>
-
-### Trident Harpoon Stance  *harpoon*
+### Trident Harpoon Stance  *harpoon* {#Harpoon-Stance}
 
 The harpoon stance, while misleading (since you can't use a harpoon), positions your trident above your head in a downward angle. This stance allows for powerful downward thrusts to devastate your enemy's waist and thighs.
 
@@ -347,10 +290,7 @@ A gladiator is holding a trident with a wide grip, his rear hand raising the end
 
 </div>
 
-
-<a id="Swinging-Disarm"></a>
-
-### Trident Swinging Disarm  *fling <trident>*
+### Trident Swinging Disarm  *fling <trident>* {#Swinging-Disarm}
 
 Using the power of the tines of you trident, you're able to twist away a snared weapon or limb with great ease.
 
@@ -363,10 +303,7 @@ A gladiator slides his grip wider and turns, swinging his trident free and fling
 
 </div>
 
-
-<a id="Quick-Rake"></a>
-
-### Trident Quick Rake  *qrake <target>*
+### Trident Quick Rake  *qrake <target>* {#Quick-Rake}
 
 A fast slashing maneuver performed at close or long range.
 
@@ -378,10 +315,7 @@ With a hand sliding to the butt of his trident, a gladiator makes a raking motio
 
 </div>
 
-
-<a id="Parting-Gouge"></a>
-
-### Trident Parting Gouge  *pvital <target>*
+### Trident Parting Gouge  *pvital <target>* {#Parting-Gouge}
 
 Similar to Trident Vital Jab, this attack gouges at the opponent's most vulnerable parts, while also stepping back defensively and retreating from them. It is an effective way for a skilled Trident wielder to set up his next attack from a distance. 
 
@@ -395,10 +329,7 @@ Stepping back, a gladiator viciously gouges at a thug with the teeth of his trid
 
 </div>
 
-
-<a id="Defensive-Bash"></a>
-
-### Trident Defensive Bash  *dbash*
+### Trident Defensive Bash  *dbash* {#Defensive-Bash}
 
 Similar to Trident Blunt Bash, however, defensive bash differs in that the wielder also assumes a more defensive stance as he performs the motion of this maneuver.
 
@@ -414,10 +345,7 @@ You raise your trident with tin tines into a more defensive posture as you bash 
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Trident Accuracy  *n/a*
+### Trident Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -429,10 +357,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Grip"></a>
-
-### Trident Grip  *n/a*
+### Trident Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

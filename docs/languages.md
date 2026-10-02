@@ -31,8 +31,7 @@ Languages are closely linked and often derived from the various [countries of Mi
 
 *These are not the only languages within the world of Midlight, though **some are not so commonly known** due to their links to [religious heresy and false gods](/religion/)*.
 
-<a id="Learning"></a>
-### Learning Languages
+### Learning Languages {#Learning}
 
 #### Studying Languages
 
@@ -52,9 +51,7 @@ Learning a language is not *(mechanically)* difficult, but it can be a long and 
 4. **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
    - You can only attempt to **learn** from any tutor **20 times a *(real-life)* day**. After that, they'll inform you that they've taught you all they can for the day and escort you out.
 
-
-<a id="Success"></a>
-#### Mastering Languages
+#### Mastering Languages {#Success}
 
 **Speaking languages requires** at least **50 ranks** in that language, but as you train you may be able to catch certain words of those around you speaking the language.
 
@@ -91,9 +88,7 @@ speak Steps
 #### Writing in Languages
 To **write** in a language, type 'write [ON] <what> [IN <language>]'.
 
-
-<a id="Blackroot"></a>
-### Rock Valley - Blackroot Teacher
+### Rock Valley - Blackroot Teacher {#Blackroot}
 Within the [Town of Rock Valley](/town-of-rock-valley/) lives the **Blackroot language** teacher. 
 
 Once outside the tutor's door:
@@ -105,16 +100,12 @@ Once outside the tutor's door:
 3. **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
    - You can only have 20 total lessons per day, regardless of which language you are studying.
 
-
-<a id="Kelestian"></a>
-### Monlon - Kelestian Healer
+### Monlon - Kelestian Healer {#Kelestian}
 Within the [Monlon Battlefield](/monlon-battlefield/) resides a happy [Kelestian](/kelestia/) healer who speaks the **Kelestian language** as she heals, allowing you to [glean](/skills/#glean) certain amounts each day. 
 
 TBC.
 
 *Prison basement. Kelestian healer.*
 
-
-<a id="Lingo"></a>
-### Steps - Steps Lingo Teacher
+### Steps - Steps Lingo Teacher {#Lingo}
 The Steps lingo teacher is in the [Eastern Steps](/the-steps-east/). Be friendly and share a mug of thick mead with the right alcohol-loving person and you'll find the hidden teacher.

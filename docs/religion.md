@@ -10,8 +10,7 @@ The [Cult of Ereal](/cult-of-ereal/) (aka The Cult) is the official state religi
 
 ### Major Gods
 
-<a id="Ereal"></a>
-#### Ereal
+#### Ereal {#Ereal}
 In the ancient theology of Midlight, the story of creation is told as Ereal being at first alone, living in the Void, a timeless existence only known by gods. Eventually he came upon a rock, the World, and their union created Man and all other living things. Worshipers base a majority of their faith on the fact that without Ereal (the sun) there would be famine and the death of mankind.
 
 It is believed that Ereal continues to watch over and nurture his children.
@@ -71,27 +70,18 @@ The [Altene](/altene/) god, **Erai'Theran**, is accepted as a more warlike incar
 ### Old Gods
 These gods are left intentionally vague. If you'd like to know more find out IG.
 
-<a id="Ravan"></a>
-#### Ravan
+#### Ravan {#Ravan}
 God of Death, The Mad God, The Comforter, The Unravaller. Ravan is associated with death and madness. Be wary to utter his name outloud for fear of the Cult. 
 Known lore: [He slightly turned and said...](/official-ravan-helia-story-pascal/)
 
-
-<a id="Lucifal"></a>
-#### Lucifal
+#### Lucifal {#Lucifal}
 The Trickster, God of the Night, God of Thieves. Lucifal is attributed with trickery, the shadows, the night. He's often seen with a jet black cat with jade eyes in older works of art.
 
-
-<a id="Aera"></a>
-#### Aera
+#### Aera {#Aera}
 The Warrior, God of Fire. Aera is attributed with soldiers, battle, stubborness, and fire. He's often depicted as a warrior or soldier in artwork.
 
-
-<a id="Invex"></a>
-#### Invex
+#### Invex {#Invex}
 The Dreamer, God of Water, God of Time. 
 
-
-<a id="Helia"></a>
-#### Helia
+#### Helia {#Helia}
 God of Creation, The Sun, fertility, agriculture.

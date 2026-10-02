@@ -32,10 +32,7 @@ Keep in mind that going too deep can get you captured in the Kelestian prison.
 [Ravines Kelestian Outpost](/monlon-kelestian-outpost/)
 [City of Monlon](/city-of-monlon/)
 
-
-<a id="Tiers"></a>
-<a id="Tier1"></a>
-### Within The City
+### Within The City {#Tiers}
 
 This section relates to within the city gates of Monlon and is **only available during night time**. 
 
@@ -50,9 +47,7 @@ This section relates to within the city gates of Monlon and is **only available 
 * A Kelestian nagoda with polished stone plates
 * A Kelestian katitra with polished stone plates
 
-
-<a id="Tier2"></a>
-### Outside the Gates / Southern Battlefields
+### Outside the Gates / Southern Battlefields {#Tier2}
 
 TBC
 
@@ -70,9 +65,7 @@ TBC
 * A Kelestian nagoda with polished stone plates
 * A Kelestian katitra with polished stone plates
 
-
-<a id="Northern"></a>
-### Northern Battlefields
+### Northern Battlefields {#Northern}
 
 TBC
 
@@ -98,9 +91,7 @@ TBC
 * A Kelestian nagoda with polished stone plates
 * A Kelestian katitra with polished stone plates
 
-
-<a id="Prison"></a>
-### Prison Corridors
+### Prison Corridors {#Prison}
 
 **<u>Opponents</u>** 
 * **Kelestian Sentry *([Falx](/falx/) / [Falcata](/falcata/))*:** TBC...
@@ -136,9 +127,7 @@ Located at the center of the prison's main level, there are **2 Sentries** stati
 
 [Back to Top](#)
 
-
-<a id="PoW"></a>
-### Prisoner of War (PoW)
+### Prisoner of War (PoW) {#PoW}
 If overwhelmed by any of the Kelestian fighters and knocked unconscious, you will end up as a PoW. To be rescued, someone can venture to the prison. It is also possible to escape on your own. To do so, a good knowledge of **[Locksmithing](/locksmithing/)** is **highly recommended**, but you can also obtain a key to escape by looting one from a Kelestian Sentry.
 
 [Back to Top](#)

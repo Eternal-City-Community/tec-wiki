@@ -60,9 +60,7 @@ This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoo
 ### Snaring
 The easiest way to hunt an animal is to render it immobile. Using a combination of materials you've brought along with you and materials from the environment around you, you can create a snare to capture animals. It is said that carrying a shovel with you can help you to set up some kinds of snares more quickly and easily.
 
-
-<a id="deadfall"></a> 
-#### Deadfall Snares
+#### Deadfall Snares {#deadfall}
 Difficulty: Easy
 ##### Usage: setup deadfall snare
 Using nearby roughage and cover, the hunter digs a shallow pit in order to capture small animals. Usage of this skill requires relatively hard soil, but requires nothing but nearby foliage to execute.
@@ -70,14 +68,12 @@ Using nearby roughage and cover, the hunter digs a shallow pit in order to captu
 ##### Usage: release <snare> or release <animal>
 Generally, the only kind of animals deadfall snares can catch effectively are small game and forest rodents. Most animals that have lived to survive near human settlements are wily enough to get themselves out of a shallow pit. If you have set a snare and an animal has been caught inside, use 'release <snare>' 'release <animal>' to let it out. You will be given an option of either killing the animal or letting it go. Keep in mind that anyone can free an animal caught in a snare, so a good trapper will keep a close watch on his traps.
 
-<a id="cord"></a>  
-#### Cord Snares
+#### Cord Snares {#cord}
 Difficulty: Average
 ##### Usage: setup cord snare
 Using a cord of some kind (rope, cordage, or vine) and a stake (branch, torch, rib, or legbone), the hunter sets up a more advanced trap. Using the branch as a stake, the hunter cords the rope into a loop in such a way as to catch any animal which steps inside it. Useful for catching small to medium-sized animals, this trap can be set in areas of much looser soil.
  
-<a id="sapling"></a>  
-#### Sapling Snares
+#### Sapling Snares {#sapling}
 Difficulty: Difficult
 ##### Usage: setup sapling snare
 Sapling snares require a sapling and a rope. Setup in a way similar to a simple cord snare, instead of just holding the animal down with a stake, the sapling suspends them in the air, removing their chance for escape. Usable in the same kind of terrain as cord snares, sapling snares have the ability to catch much larger prey.
@@ -108,9 +104,7 @@ Higher ranks in this skill allow you to create higher quality snares, which last
 
 </details>
 
-
-<a id="disarm"></a>  
-#### Forester Dismantling
+#### Forester Dismantling {#disarm}
 Difficulty: Easy
 
 High ranks in the forester dismantling skill will automatically dismantle the trap after claiming your critter, and will return some of the components you used to make it
@@ -125,8 +119,7 @@ Knowledge of the best way to take apart an existing trap or lean-to is an extrem
 Fishing is one of man's oldest ways of providing food for himself and others. From catching fish in nets to using advanced baits and poles, the general goal and means are always the same: attracting the fish and getting him out of the water. 
 The Fishing commands and skill cover this area.
  
-<a id="cast"></a>  
-#### Pole Fishing
+#### Pole Fishing {#cast}
 Difficulty: Easy
 ##### Usage: cast <pole> (while in a room with access to a body of water)
 Using a fishing pole, baited or not, the hunter casts out his line and tries to retrieve a fish. Success in this skill does not guarantee bringing a fish in. More ranks in this skill will allow you to identify the type of fish you catch just by looking at it. You'll also be able to tell how the fish compares to the average size of other fish of that species (whether it's very large, average sized, tiny, etc.)
@@ -147,38 +140,31 @@ Some common types of bait you can find scattered around the gameworld include: c
 Through study of animal anatomy and behavior, a Hunter is better able to actively hunt his prey. 
 With these skills, even a hunter unskilled in combat will be infinitely better equipped at hunting their prey than a master of conventional fighting.
 
-<a id="deerlore"></a>
-#### Deer Hunting
+#### Deer Hunting {#deerlore}
 Difficulty: Average
 ##### Usage: Passive skill, automatically applied when attacking deer
 Whether buck, doe, stag, or fawn, all kinds of deer tend to behave in similar ways. The hides of them all, and the antlers of bucks and stags not only serve as proud trophies, but also fetch high prices among tailors and leatherworkers. Knowledge of this skill will make it easier to hit deer, with further ranks increasing your chance to stun the rapidly moving forest animals.
  
-<a id="rabbitlore"></a>
-#### Rabbit Hunting
+#### Rabbit Hunting {#rabbitlore}
 Difficulty: Easy
 ##### Usage: Passive skill, automatically applied when attacking rabbits
 Rabbits and hares occupy a unique place in an ecosystem, above the squirrels and mice, but far below the dangerous predators of a forest or grassland. Their soft pelts are valued for use in hats and other clothing, and fetch a high price for good cuts. Knowledge of this skill will make it easier to hit rabbits and hares, with further ranks increasing your chance to stun the swift animals.
 
-<a id="birdlore"></a>
-#### Gamebird Hunting
+#### Gamebird Hunting {#birdlore}
 Difficulty: Average
 ##### Usage: Passive skill, automatically applied when attacking quail or pheasants
 Valued for their beautiful feathers and succulent meat, game birds have been hunted for ages. A hunter, through study of their movements and anatomy, is among the few who can take down the fleet flyers. Knowledge of this skill will make it easier to hit game birds, with further ranks increasing your chance to stun them.
  
-<a id="boarlore"></a>
-#### Boar Hunting
+#### Boar Hunting {#boarlore}
 Difficulty: Average
 ##### Usage: Passive skill, automatically applied when attacking boars
 Animals both feared and desired for their ferocity and their presence on banquet tables, boars are among the most challenging of prey. While their tusks and teeth are very dangerous, those trained in proper ways of taking them down can and will come out on top in these instances. Knowledge of this skill will make it much easier to hit boars, with further ranks increasing the damage you inflict. Keep in mind that weapons which produce punctures are much more likely to hit veins and vital organs of the boar, so they will be much more desirable in hunting them.
 
-<a id="ursinelore"></a>
-#### Ursine Hunting
+#### Ursine Hunting {#ursinelore}
 Difficulty:
 ##### Usage: Passive skill, automatically applied when attacking bears
 
-
-<a id="goatlore"></a>
-#### Goat Hunting
+#### Goat Hunting {#goatlore}
 Difficulty:
 ##### Usage: Passive skill, automatically applied when attacking goats, rams, ewes, etc.
 
@@ -188,14 +174,12 @@ Difficulty:
 When in the wilderness, there comes a time when a predator greater than even the mighty Hunter comes to claim his prey. 
 The blending skills within hunting lore serve to protect the hunter under these circumstances.
  
-<a id="freeze"></a>
-#### Deer's Instinct
+#### Deer's Instinct {#freeze}
 Difficulty: Average
 ##### Usage: freeze
 Having observed the ability of deer to completely halt their movements and slow their breathing, the hunter can make himself nearly invisible to those just wandering through. Knowledge of this skill will allow you to remain hidden to those just walking through squares, with higher ranks making you more likely to not be seen.
  
-<a id="hide"></a>
-#### Simple Hiding
+#### Simple Hiding {#hide}
 Difficulty: Average
 ##### Usage: hide here
 Sometimes it becomes necessary to take a step beyond simply freezing your movements, instead taking cover behind nearby foliage or other cover. In order to hide, you must be in a square with significant cover, such as a forest. Knowledge of this skill will allow you to remain hidden to even those looking into the room, with subsequent ranks making it harder for people to find you by searching.
@@ -216,8 +200,7 @@ Knowledge of these skills will make it easier to not only remove the part, but t
 
 Skilled hunters should attempt to train basic, intermediate, and advanced skinning techniques in relative unison. Upon reaching about 100 lessons in all three techniques, a hunter will be able to achieve flawless cuts 45% of the time *(at a roll of 56 or higher)* and expert or masterful cuts 30% of the time *(at a roll of 26 or higher)*. The exact amount of training required to reach this threshold varies depending on a hunter's stats. Further training beyond this point may improve the quality of expert and masterful cuts, but has a noticeably less significant effect.
 
-<a id="skin"></a> 
-#### Basic Skinning
+#### Basic Skinning {#skin}
 Difficulty: Easy
 ##### Usage: skin [part] [from] <corpse>
 Using a knife or other small blade, the Hunter attempts to remove a part from a corpse. The most basic of the skinning skills, Basic Skinning will determine whether or not you successfully remove the part.
@@ -232,14 +215,12 @@ This will allow you to skin something from each corpse back to back until finish
 ##### Usage: collect [item] skinned from <#-#> [target]
 This will allow you to skin a specific item from each corpse back to back until finished. Example: collect pelt skinned from <1-20> rat
 
-<a id="intSkin"></a>  
-#### Intermediate Skinning
+#### Intermediate Skinning {#intSkin}
 Difficulty: Average
 ##### Usage: Passive skill, automatically used when skinning
 Ranks in this skill will make you more likely to skillfully remove a part from a corpse you are skinning, with subsequent ranks increasing the quality of the skillful parts you remove
 
-<a id="advSkin"></a>  
-#### Advanced Skinning
+#### Advanced Skinning {#advSkin}
 Difficulty: Difficult
 ##### Usage: Passive skill, automatically used when skinning
 Ranks in this skill will make you more likely to masterfully remove a part from a corpse you are skinning, automatically making the part of an excellent quality, and greatly increasing the profits gained.
@@ -249,32 +230,27 @@ Ranks in this skill will make you more likely to masterfully remove a part from 
  
 By necessity or choice, a Hunter will sometimes create his own weapons or ammunition. Using materials around him, these can either save his life or fill it with frustration.
 
-<a id="arrow"></a>  
-#### Craft Crude Arrow
+#### Craft Crude Arrow {#arrow}
 Difficulty: Average
 ##### Usage: craft arrow [from] <dead> [and] <feather>
 Using some deadwood and a long bird feather, the Hunter attempts to create an arrow. Subsequent ranks in this skill will not simply make it easier to create an arrow, but increase the number of arrows you can make with your materials.
 
-<a id="knapping"></a>  
-#### Survival Knapping
+#### Survival Knapping {#knapping}
 Difficulty: Average
 ##### Usage: knap <stone|bone> into <spearhead|arrowhead>
 Using a hammerstone (round rock), found in the wilderness, the Hunter will scrape nearby rocks or bones into arrowheads, to improve the quality and damage his manufactured arrows can inflict. You'll need to know [Hunter Tipping Lore](#tipping) in order to fasten your creations onto an arrow or other weapon
 
-<a id="spear"></a>  
-#### Craft Basic Spear
+#### Craft Basic Spear {#spear}
 Difficulty: Easy
 ##### Usage: craft spear [from] <sapling>
 Using a knife or other short blade, this skill allows you to craft a simple spear from a pine sapling. Subsequent ranks in this skill will not only allow you to produce the spears more easily, but will increase their quality dramatically. 100 ranks will give the user the ability to craft superior quality weapons with a high enough roll. While the user can craft superior quality wooden spears, having some cordage and a serrated bone spearhead will add an increase to damage. Note: knapped spearheads that are not serrated will actually lower the quality of the spear. 
 
-<a id="stave"></a> 
-#### Craft Basic Stave
+#### Craft Basic Stave {#stave}
 Difficulty: Easy
 ##### Usage: craft stave [from] <sapling> | craft fangstave [from] <sapling>
 Using a knife or other short blade, this skill allows you to craft a simple quarterstave from a sapling. Subsequent ranks in this skill will not only allow you to produce the staves more easily, but will increase their quality dramatically. With enough ranks, the user can also craft fangstaves (slight penalty for non-Altene characters). 100 ranks will give the user the ability to craft superior quality weapons with a high enough roll, though non-Altenes may need to improve their skill further to achieve the same results with a fangstave.
 
-<a id="club"></a> 
-#### Craft Basic Club
+#### Craft Basic Club {#club}
 Difficulty: Easy
 ##### Usage: craft club [from] <branch|legbone>
 Using a knife or other short blade, this skill allows you to craft clubs from branches and leg bones. Subsequent ranks in this skill will not only allow you to produce the clubs more easily, but will increase their quality dramatically. At 100 ranks, the user will be able to craft superior quality clubs with a high enough roll.
@@ -303,15 +279,12 @@ Using a knife or other short blade, this skill allows you to craft clubs from br
 
 </details>
 
-
-<a id="bow"></a> 
-#### Craft Basic Short Bow
+#### Craft Basic Short Bow {#bow}
 Difficulty: Difficult
 ##### Usage: craft bow [from] <sapling>
 Using a knife or other short blade, this skill allows you to craft bows from saplings. While subsequent ranks will increase quality and ease of crafting dramatically, using high quality whittled nocks and cordage can result in superior quality bows (with enough ranks and a decent roll).
 
-<a id="knife"></a> 
-#### Craft Basic Knife
+#### Craft Basic Knife {#knife}
 Difficulty: Average
 ##### Usage: craft knife [from] <rib, antler, horn, or large fang>
 With a rib, antler, horn, or large fang in one hand, and a whet stone in another hand, allows you to craft a basic knife. To improve the quality of the knife, you should also have a piece of cordage or vine available, which will be used to wrap the handle.
@@ -340,9 +313,7 @@ With a rib, antler, horn, or large fang in one hand, and a whet stone in another
 
 </details>
 
-
-<a id="axe"></a> 
-#### Craft Basic Axe
+#### Craft Basic Axe {#axe}
 Difficulty: Average
 ##### Usage: craft axe [from] <bone>
 Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or a leg bone and a whet stone. These materials will be used to create the main shaft of the axe. Additionally, requires one jawbone to form the blade of the axe and one piece of cordage to attach that blade to the shaft.
@@ -374,8 +345,7 @@ Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or
 ---
 ### Lore
 
-<a id="tipping"></a>
-#### Hunter Tipping Lore
+#### Hunter Tipping Lore {#tipping}
 ##### Usage: 
 * fasten <arrowhead|quill> to <arrow>
 * fasten <spearhead> to <spear>
@@ -390,9 +360,7 @@ This command allows you to attach arrowheads, spikes, or other objects to the ti
 
 Note: In some cases, if you have enough knowledge about crafting and you're proficient in using the weapon that you're fastening something to, you don't need to learn this lore from a trainer - you will know about it innately (see [Tale's forum post](https://forum.skotos.net/showpost.php?p=1045042&postcount=2) for details).
 
-
-<a id="fdress"></a>
-#### Field Dressing Lore
+#### Field Dressing Lore {#fdress}
 ##### Usage: fdress <corpse>
 
 This lore allows you to prepare a whole animal corpse or a fish into fillets to be cooked. This can only be done with fish and certain types of small game and birds, such as rabbits, squirrels, pheasants, and quail. Your skinning ability will be used to determine the quality of the prepared corpse.

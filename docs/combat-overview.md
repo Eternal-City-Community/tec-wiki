@@ -78,8 +78,7 @@ Your RB in a skill is determined by the Rank Bonus from your Basics skill + your
 
 [Back to Top](#)
 
-<a id="Posture"></a>
-#### Combat Posture
+#### Combat Posture {#Posture}
 Unlike with non-combat skillsets, combat skillsets are impacted by your **Combat Posture** aka **"Stance"**. If you're in a more **Defensive** stance, you're more focused on using the full potential of your defences, therefore less focus on your attacks. Alternatively,  if you're in a more **Berserk** stance, you're more focused on using the full potential of your attacks, therefore less focus on your defences.
 
 There are five stances that allow you to balance your fighting style.

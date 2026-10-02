@@ -83,6 +83,5 @@ A.   Blackvine Town Square
 * Metal Buyer (Grindla)
 * [Reputation#Franlius](/reputation/#Franlius) Shop (Hiltha)
 
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 * Although there are no official local [lawkeepers](/law/#Lawkeepers) for this town, the [Blackvine Volunteer Militia](/blackvine-volunteer-militia/) are tasked with its protection.

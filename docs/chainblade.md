@@ -41,15 +41,9 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
 
+### Skill Details {#Subskill}
 
-<a id="Subskill"></a>
-
-### Skill Details
-
-
-<a id="wingedstance"></a>
-
-### Chainblade Winged Stance  *wing?edstance*
+### Chainblade Winged Stance  *wing?edstance* {#wingedstance}
 
 The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
@@ -61,10 +55,7 @@ A dusty Kelestian mountaineer wields her chainblade loosely, swinging the blade 
 
 </div>
 
-
-<a id="slash"></a>
-
-### Chainblade Flying Slash  *slash <target>*
+### Chainblade Flying Slash  *slash <target>* {#slash}
 
 **When you see this in use you see:**
 
@@ -74,10 +65,7 @@ A dusty Kelestian mountaineer swings her scuffed bronze chainblade in a slow arc
 
 </div>
 
-
-<a id="jab"></a>
-
-### Chainblade Ring Jab  *jab <target>*
+### Chainblade Ring Jab  *jab <target>* {#jab}
 
 **When you see this in use you see:**
 
@@ -87,10 +75,7 @@ A gruff-looking mercenary steps forward and throws a jab at you with the ring of
 
 </div>
 
-
-<a id="stab"></a>
-
-### Chainblade Close Stab  *stab <target>*
+### Chainblade Close Stab  *stab <target>* {#stab}
 
 **When you see this in use you see:**
 
@@ -100,10 +85,7 @@ A rugged Kelestian mountaineer grips the handle of her scuffed bronze chainblade
 
 </div>
 
-
-<a id="uppercut"></a>
-
-### Chainblade Ring Uppercut  *uppercut <target>*
+### Chainblade Ring Uppercut  *uppercut <target>* {#uppercut}
 
 * Upon success, this maneuver has a chance to make your target retreat. 
 * This maneuver has the possibility of **stunning** your opponent.
@@ -120,10 +102,7 @@ A disciplined Kelestian ascetic crouches slightly and brings up the ring of her 
 
 </div>
 
-
-<a id="handslash"></a>
-
-### Chainblade Hand Slash  *handsl?ash <target>*
+### Chainblade Hand Slash  *handsl?ash <target>* {#handslash}
 
 * If blocked, this maneuver has the chance to knock your opponent's weapon out of their grip *(**unwield**)*.
 * This maneuver executes after a brief **windup**, but suffers no roundtime once executed.
@@ -138,10 +117,7 @@ A dusty Kelestian mountaineer releases her scuffed bronze chainblade at a high a
 
 </div>
 
-
-<a id="thrust"></a>
-
-### Chainblade Flying Thrust  *thrust <target>*
+### Chainblade Flying Thrust  *thrust <target>* {#thrust}
 
 **When you see this in use you see:**
 
@@ -151,10 +127,7 @@ A dusty Kelestian mountaineer extends the chain and snaps her hand forward, send
 
 </div>
 
-
-<a id="ankle"></a>
-
-### Chainblade Ankle Snare  *ankle <target>*
+### Chainblade Ankle Snare  *ankle <target>* {#ankle}
 
 Upon success will cause the target to fall to the ground immediately. This maneuver executes after a brief **windup**, but suffers no roundtime once executed.
 
@@ -168,10 +141,7 @@ A tough Kelestian mountaineer releases her scuffed bronze chainblade at a low an
 
 </div>
 
-
-<a id="overhead"></a>
-
-### Chainblade Overhead Spin  *overhead <target>*
+### Chainblade Overhead Spin  *overhead <target>* {#overhead}
 
 * Multi-hitting attack, up to **2 hits**.
 
@@ -185,10 +155,7 @@ A tough Kelestian mountaineer extends the chain of her scuffed bronze chainblade
 
 </div>
 
-
-<a id="raptor"></a>
-
-### Chainblade Raptor Spike  *raptor <target>*
+### Chainblade Raptor Spike  *raptor <target>* {#raptor}
 
 * Upon success, pulls the target toward you and away from their approached combatants.
 * This maneuver executes after a brief **windup**, but suffers no roundtime once executed.
@@ -203,10 +170,7 @@ A dusty Kelestian mountaineer releases her scuffed bronze chainblade leveled at 
 
 </div>
 
-
-<a id="doublejab"></a>
-
-### Chainblade Double Jab  *doublejab <target>*
+### Chainblade Double Jab  *doublejab <target>* {#doublejab}
 
 * Multi-hitting attack, up to **2 hits**.
 
@@ -218,10 +182,7 @@ You step forward with a quick jab at a gutsy Kelestian warrior with the ring of 
 
 </div>
 
-
-<a id="feint"></a>
-
-### Chainblade Feint  *feint <target>*
+### Chainblade Feint  *feint <target>* {#feint}
 
 * This maneuver executes after a brief **windup**, but suffers no roundtime once executed.
 
@@ -233,10 +194,7 @@ A rugged Kelestian mountaineer steps forward, feigning an attack at you with her
 
 </div>
 
-
-<a id="spin"></a>
-
-### Chainblade Kneeling Spin  *spin <target>*
+### Chainblade Kneeling Spin  *spin <target>* {#spin}
 
 **The attacker** is left in a **kneeling** position after attempting this attack. Ranks in [Simple Rolling Rise](/combat-maneuvers/#Rise) or [Backwards Rolling Rise](/combat-maneuvers/#BRise) will help in naturally rolling back to a standing position after performing this attack.
 
@@ -250,10 +208,7 @@ A calm Kelestian ascetic drops to one knee, flinging the spinning blade of her b
 
 </div>
 
-
-<a id="hawk"></a>
-
-### Chainblade Hawk Talon  *hawk <target>*
+### Chainblade Hawk Talon  *hawk <target>* {#hawk}
 
 * This maneuver executes after a brief **windup**, but suffers no roundtime once executed.
 * Multi-hitting attack, up to **4 hits**.
@@ -268,10 +223,7 @@ A weathered Kelestian ascetic releases her boison chainblade at a wide angle tow
 
 </div>
 
-
-<a id="nomind"></a>
-
-### Chainblade No Mind Strike  *nomind <target>*
+### Chainblade No Mind Strike  *nomind <target>* {#nomind}
 
 Clearing your mind, you allow your body to instinctively decide on the next attack to perform. 
 
@@ -291,10 +243,7 @@ Your surroundings blur and fade as you clear your mind and flow effortlessly int
 
 </div>
 
-
-<a id="bladeblock"></a>
-
-### Chainblade Blade Block  *n/a*
+### Chainblade Blade Block  *n/a* {#bladeblock}
 
 **When you see this in use you see:**
 
@@ -304,10 +253,7 @@ Gripping the handle of her scuffed bronze chainblade tightly, she catches your r
 
 </div>
 
-
-<a id="ringblock"></a>
-
-### Chainblade Ring Block  *n/a*
+### Chainblade Ring Block  *n/a* {#ringblock}
 
 **When you see this in use you see:**
 
@@ -317,10 +263,7 @@ He swings the ring of his scuffed bronze chainblade horizontally, knocking your 
 
 </div>
 
-
-<a id="chainblock"></a>
-
-### Chainblade Chain Block  *n/a*
+### Chainblade Chain Block  *n/a* {#chainblock}
 
 **When you see this in use you see:**
 
@@ -330,10 +273,7 @@ Pulling the chain of your alanti chainblade tight, you catch a tall Kelestian sc
 
 </div>
 
-
-<a id="snapblock"></a>
-
-### Chainblade Snap Block  *n/a*
+### Chainblade Snap Block  *n/a* {#snapblock}
 
 **When you see this in use you see:**
 
@@ -343,19 +283,13 @@ You whip the chain of your boison chainblade out at a tall Kelestian raider's sh
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Chainblade Accuracy  *n/a*
+### Chainblade Accuracy  *n/a* {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
 
 *(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
-
-<a id="Grip"></a>
-
-### Chainblade Grip  *n/a*
+### Chainblade Grip  *n/a* {#Grip}
 
 With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
 

@@ -85,7 +85,5 @@ The City of Iridine is only the capital of a swiftly-growing nation. There are d
 * [The Library of Iridine](/the-library-of-iridine/) is located in the main forum area of the capital city. The public archives are home to many titles, authored by scholars, experts, dabblers and adventurers alike.
 * [House of Mercantile](/house-of-mercantile/) - **Rare/Unique items** (i.e. weapons, armor, jewelry, furniture, mystery boxes, etc.)
 
-
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 * The [Constables](/constables/) are the local [lawkeepers](/law/#Lawkeepers) of the city.

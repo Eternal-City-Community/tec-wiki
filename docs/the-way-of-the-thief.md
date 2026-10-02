@@ -5,8 +5,7 @@ category: "Reference"
 
 # The Way Of The Thief
 
-<a id="Top"></a>
-### An Introduction to the Life of Crime
+### An Introduction to the Life of Crime {#Top}
 
 A man in a thick hooded cloak eyes you over before settling down across from you at your table in the tavern. He flags down the barmaid and orders a tall ale, giving her a playful slap on the rump as she walks away to fetch it. His eyes, however, watch yours as they follow the change pouch of the barmaid. He smirks for a moment, then gives you a knowing grin with a twinkle in his eyes.
 
@@ -40,13 +39,12 @@ A Note from the Author: I have had a number of thieves in my time here in Iridin
 * [Closing Notes and Additional Resources](#Resources)
 
 ---
-<a id="Day0"></a>
-### Day 0 - Character Creation
+
+### Day 0 - Character Creation {#Day0}
 
 This primarily OOC section will go over the creation of a [Pickpocketing](/pickpocketing/) focused character, what stats, traits, and nationalities are beneficial for one, and whether or not your preferred playing style would benefit from a 'cover' skill. For those of you that have already made your character, or may already be familiar with what stats and traits are beneficial for a thief, feel free to skip on to the next section: [Day 1 - Arrival in the City](#Day1).
 
-<a id="Stats"></a>
-#### Stats And Why They Matter
+#### Stats And Why They Matter {#Stats}
 
 For a thief, there are a few [Stats](/stats/) that stand out as remarkably important for your ease of playing a thief. By no means is it required to have each of these stats at a very high level, but it certainly makes matters much easier. I will also go over some secondary stats and how they may impact your play-style as a thief.
 
@@ -65,8 +63,7 @@ Other Stats, and their Impact:
 
 I'll leave the manipulation of the character generator to you as to how to achieve those stats based on the choices for adjectives, description, and so on. But choosing words such as quick, or dextrous, or nimble might be a good start. Otherwise, check the [forums](https://forum.skotos.net/forumdisplay.php?f=22) on the main site for help on building a speedier more dextrous character.
 
-<a id="Nationalities"></a>
-#### Nationalities and their Impact
+#### Nationalities and their Impact {#Nationalities}
 
 Now that we are aware of what stats are important to have for a thief, we can take a closer look at which [Nationalities](/national-advantages/) would help us achieve our goals of decent dexterity, speed, and agility. While I certainly believe that building your character around a roleplaying concept is important, for the sake of this guide, we'll address the nationalities that are best suited for a [Pickpocketing](/pickpocketing/) based character:
 
@@ -74,8 +71,7 @@ Now that we are aware of what stats are important to have for a thief, we can ta
 * [Parcines](/parcines/) (+15 Dex, +15 Agi, +10 Spd): The Parcines is a decent alternative to Cinera in that it has bonuses for each of the important stats and no penalties to having [Pickpocketing](/pickpocketing/) as a skill. However, the free traits and skills are lackluster by comparison with Mountain Lungs being useful for enhanced fatigue regeneration, but that's it. A thief will not be making any battlecries, unless it's "For the love of  Ereal, quit beating me with your stave! I submit!"
 * [Iridine](/iridine/) - [The Steps](/the-steps/) (No Bonuses): While Iridine has no bonuses or penalties to stats, the Steps characters do have a number of useful freebies for a thief looking to have a cover: You can choose any skill you want as your primary skill, then use the free skill to learn pickpocketing. Or you can learn pickpocketing as your primary, and then use the free lessons in knives or swords. Plus, being a citizen might help sway things in your favor if you get caught enough to be in danger of a branding or flogging.
 
-<a id="Traits"></a>
-#### Traits to Consider
+#### Traits to Consider {#Traits}
 
 Choosing the right [Traits](/traits/) can sometimes be a rather daunting task as there are quite a few handy ones to choose from. No doubt having a thief with night vision and hunters eye could make for an interesting combination, but we're shooting for a thief with a good set of stats to start us out with and neither of those help us directly. Here are a few of the ones that do:
 
@@ -84,15 +80,13 @@ Choosing the right [Traits](/traits/) can sometimes be a rather daunting task as
 * Presence of Mind (+2): Half stun time. This is handy for making your escape from those pesky truncheon wielding vigiles or constables and their knockaside attacks. While it does not help your stats, it could help you to escape arrest and be able to pilfer other people's belongings for just that much longer.
 * Light Sleeper (Neutral): Half standup time. This is useful for the exact same reason Presence of Mind is - evading and resisting arrest. This is especially useful if you primarily steal in Iridine as the constables in the city tend to use a lot of sweeping maneuvers. Considering it costs you nothing in points, I would say that this one is a non-negotiable.
 
-<a id="Cover"></a>
-#### A Cover Story
+#### A Cover Story {#Cover}
 
 Being a thief is not an easy profession in Iridine. Nothing is more reviled than an openly known thief in the city, they almost rank up there with bandits - in fact, if you choose to be a pvp style thief, expect to be hated just as much as a bandit if not more, even if all you steal is ceramic lanterns. However, you can help to mitigate this somewhat by having a cover 'profession' to help avert some questions on how you make the coin that you're making (which hopefully will be a lot by the time we're all done here).
 
 Learning a weapon is an obvious and easy choice and one that a lot of thieves go with. You can practice in the ludus and use scavenging or diving for pearls as your excuse for having a bit of spare coin, though if you use the latter I'd recommend taking a dip in the ocean so you'll at least smell the part. However, another option to consider is a service or crafting profession. [Locksmithing](/locksmithing/) is a good skill to have as a cover for a thief, all of the warriors have need for locksmiths so it's a good way to make friends with people who would potentially stab, chop, or maim you otherwise. The options are truly limitless, but unless you are very good at staying quiet and flying below the radar so to speak, having a well defined cover for your nefarious tendencies is a good idea.
 
-<a id="Thaelan"></a>
-#### Meet Thaelan
+#### Meet Thaelan {#Thaelan}
 
 Using the above guide as a reference, this is the brand new thief character I created for the purpose of testing for this guide. Granted, I will still use my master thief as necessary to demonstrate more advanced techniques, but Thaelan is our example of the product of this guide. Below are his stats and traits for your reference:
 
@@ -173,8 +167,8 @@ All in all, I got lucky with a decent character roll that fulfilled all three of
 [Back to Top](#)
 
 ---
-<a id="Day1"></a>
-### Day 1 - Arrival in the City
+
+### Day 1 - Arrival in the City {#Day1}
 
 A man in a thick hooded cloak chortles heartily to himself for a moment, as if he recalls something particularly funny before turning back to you with an amused grin on his face.
 
@@ -184,8 +178,7 @@ The hooded man quietly shakes his head, before taking a long pull from his mug o
 
 "Thaelan was in a heap o' trouble before he even got out of tha harbor. He didn't move quietly, didn't mind his surroundings, and didn't pick his targets carefully - none of tha things that a good thief knows ta do by heart. So lemme tell ya how not to end up that way, and hope ya take it ta heart."
 
-<a id="Priorities"></a>
-#### First Priorities
+#### First Priorities {#Priorities}
 
 When you first make it into the city, you're not going to have much at your disposal to begin with. A novice thief will start out with the ability to grab items out of people's hands, sharpen coins, and palm objects - that's it. You'll have a few days rations in your sack, and a small blade, but unless you're a newbie account you won't have any coin starting out either. Since training costs money, and we're going to need a lot of training to be an effective thief, money is what needs to be handled first. Here's how:
 
@@ -207,9 +200,7 @@ Once you've managed to put together a fair amount of coin, say around 300 denars
 
 I thought it worthy of noting that due to a poor choice I made soon after unleashing Thaelan (quickgrabbing a servants bag for food, just because he could), my options for getting coin were limited to whatever I could manage from the harbor without running across a constable patrol since the silly thief got himself warranted right off the boat. This was good in a sense though, as it helped me test the Cut and Lift method of getting coin, combined with a bit of scavenging to get the initial bit of coin needed to learn it. I should reiterate myself, if you steal from people in the -right- locations, warrants and constables are not an issue unless you run into the PC variety of constable. I won't divulge the locations that are 'safe', you'll have to do a bit of searching on your own for that, but there are several scattered throughout the harbor. By the time I had Thaelan's lift trained up to rank 6, he was lifting more often than he was missing so it worked out rather well.
 
-
-<a id="Training"></a>
-#### Training, Lots and Lots of Palming
+#### Training, Lots and Lots of Palming {#Training}
 
 Palming will be the bane of your existence as a thief, but it is by far the safest and easiest method of training. It won't earn you any coin by itself, but it won't put you at risk of any jailtime either. So grab a coke and a snack, and get ready for a few hours of tediousness (or more, your mileage may vary). A good goal to aim for at this point is being able to train your basics up to practiced, and then learn cut and lift to at least practiced as well. This may not get you perfect 1s on either move yet, but it will get you a lot closer. Depending on your dexterity, it may be enough to safely use cut and lift without risk of getting caught - which you can still do anyway in the right locations. Pick your marks and your environment carefully starting out.
 
@@ -220,9 +211,7 @@ In order to reach our goal of 10/10 pickpocketing and cut and lift, we'll need a
 
 An Argument for Endurance: One notable difference between Thaelan and my master thief is his severely reduced endurance. My primary thief character can steal for hours on end without breaking a sweat due to his high endurance, but Thaelan is another story entirely. Even the simple act of palming is draining to him in ways that I had not yet encountered on a thief before. So, despite my earlier assessment of endurance being at best a secondary stat, I would recommend shooting for a little higher endurance in your character roll if possible. Otherwise, try to palm while lying down (there is no penalty for doing so) and expect shorter sessions of stealing.
 
-
-<a id="Teacher"></a>
-#### Finding a Teacher
+#### Finding a Teacher {#Teacher}
 
 So you've managed to palm your way to 123 skill points. It was tedious, I know, I just finished it myself - you've got a lot more of that ahead of you before you can master the trade though, fair warning. Now, is where our plan runs into a little snag. Unlike most combat oriented characters, you can't exactly think out for a pickpocketing trainer now can you? No thief you want to associate yourself with would respond and you'd only succeed in alerting everyone to the fact that they need to mind their coin pouches around you. You don't want to be in that situation, so don't do it. Luckily, there is an NPC teacher for [pickpocketing](/pickpocketing/) and [setups](/setups/) just like there is for all of those wanna be warriors out there. The problem is, his location is deemed secret, and the powers that be forbid me from giving you his name *gazes up towards the heavens, mumbling some sort of prayer about not being smited 'from afar'*
 
@@ -230,8 +219,7 @@ For the truly new thieves amongst us, however, I can point you in the right dire
 
 There is an alternative, if you don't mind a bit of waiting around and the potential for a less than savory encounter with a fellow scoundrel. The Harbor truly is a popular destination for thieves, and as luck would have it, Thaelan ran into one on his first day there. I opted not to ask for lessons, as I had managed to procure the coin that I needed. But since I interrupted the poor lad mid-theft, I unpalmed my sen to show him that he was in good company. These random encounters are a good way to make allies if you're subtle about it, and if you're lucky someone skilled enough to teach you the trade at a much reduced price. Rumor has it that there are even more profitable maneuvers to be had if you can find the right person to learn them from...
 
-<a id="Ahead"></a>
-#### What Lies Ahead
+#### What Lies Ahead {#Ahead}
 
 If you've made it this far, then you're off to a good start in your career as a thief. In my experience, cut and lift never has to be taken beyond practiced for a thief with decent enough dexterity - if you work on your pickpocketing basics, the success for it and all of your other moves will gradually reach perfection with little effort. Thus your new goal is to perfect your cut and lift by training your basic pickpocketing ever higher. With Thaelan's stats and the ranks below, he generally has a 14 success for a cut and lift - not too shabby, but still not perfect yet. I suspect that by getting my basic pickpocketing to familiar (rank 20), I will be able to use cut and lift wherever I please without any risk of being caught.
 
@@ -263,8 +251,8 @@ At this point, you should be able to safely use cut and lift to make some coin b
 [Back to Top](#)
 
 ---
-<a id="Day7"></a>
-### Day 7 - Broadening Horizons
+
+### Day 7 - Broadening Horizons {#Day7}
 
 The hooded man gazes off for a moment, his look thoughtful for a moment, before his gaze returns back to you.
 
@@ -274,8 +262,7 @@ A throaty chortle emanates from the hooded figure as he continues his story, "Wh
 
 "You're no fool right? Ya best not be, else yer wasting my time. So let me tell ya a thing or two about setups and the way of tha streets. Ya might just thank me later for tellin ya, but in the mean time ya can thank me by getting me another ale eh?"
 
-<a id="Skills"></a>
-#### Supporting Skillsets
+#### Supporting Skillsets {#Skills}
 
 There are three truly essential skillsets for a thief: [Pickpocketing](/pickpocketing/), [Setups](/setups/), and [Street Smarts](/street-smarts/). While other skillsets may come in handy, those three are absolutely must haves for any proper thief character. The problem is, a lot of the more useful stuff won't be available to you right away. Eventually, if you want to master the trade, you'll either have to join a gang or find a skilled trainer that knows a thing or two that the trainer from [Day 1 - Finding a Teacher](#Teacher) doesn't. For now though, we'll have to make due with what we have available to us, and your first couple of skills from [Setups](/setups/) are genuinely useful for our purposes.
 
@@ -294,8 +281,7 @@ As far as [Street Smarts](/street-smarts/) goes, you'll primarily need it for ev
 * City Hiding: This is the most useful of the lot of them. Using city hiding, you can take cover behind objects or in crowds and avoid being seen at all, even by someone actually looking around the square. A lawkeeper or other do-gooder can search the area for you and eventually expose you, the number of searches required is dependent upon both your skill level and your willpower. After all, it does take significant willpower to sit perfectly still when someone is looking around for you.
 * City Sneaking: This is a more difficult technique than City Hiding, but when combined with it, this maneuver will allow you to actually move about the city completely unseen. Use your head when you do this. Sneaking into a dark empty area will be easier than sneaking into a well-lit crowded room.
 
-<a id="Marks"></a>
-#### New Marks, New Locations
+#### New Marks, New Locations {#Marks}
 
 Hopefully, you've completed the goal of getting your cut and lift success down to a 1 on every attempt, because today, my friend, we are going to venture out into the streets and areas where you will get arrested if you have not accomplished that goal. If you still miss a few lift attempts with a success higher than 1, go back and palm for a little while longer until your cut and lift success is where it needs to be. Trust me in that it will be well worth the wait.
 
@@ -310,8 +296,7 @@ For now, we've been picking on traders and drovers and the like that frequent ou
 
 While prostitutes are easily found amongst the crowds of the [Harbor of the Moons](/harbor/), patricians will require leaving our favorite hunting ground and moving to a new one. Here's where it gets complicated: patricians tend to mingle in the wealthier areas of the city, most notably the forums. The problem with the forums is that they are one of the most trafficked areas of Iridine, not to mention where Station I of the Constabulary is located (along with the jail you'll end up in if they spot you stealing). If you go this route, and I don't recommend it, be mindful of your surroundings and be prepared to run. However, I am happy to tell ya that there is another location where patricians may be found - at all times, day or night: the [Colosseum](/colosseum/). Everyone loves to watch the games, and patricians are just as bloody minded as the common folk in that regard. Keep in mind, if I know this, the constables do to and be sure that they'll patrol it from time to time looking for an unwary thief. As always, mind your surroundings, and choose when to practice the trade well - if the constables are distracted by some heretic fool at the Toga, well that my friend is opportunity calling.
 
-<a id="Friends"></a>
-#### Making Friends
+#### Making Friends {#Friends}
 
 During your time of lifting pouches from traders, no doubt you noticed a few bags, tubes, or heavier pouches that you just couldn't manage to lift. Let me reassure you, those little pouches of gems and other shiny goods can be had as well for those with a little more skill in the trade. Once you grow tired of lifting pouches from the rich (Bahahaha, who gets tired of robbing patricians, I mean really), it might be time to make friends with some like minded individuals to learn some of the things you don't currently have access to. There are three known criminal organizations in Iridine that might just do the trick: 
 
@@ -324,8 +309,8 @@ Finally, you can hope to run across a freelance thief. There are a handful of no
 [Back to Top](#)
 
 ---
-<a id="Resources"></a>
-### Closing Notes and Additional Resources
+
+### Closing Notes and Additional Resources {#Resources}
 
 I hope that this guide has been useful to you and wish you the best of luck in your endeavor to play a thief character. While the risks of being a thief are high, there's nothing more satisfying than depositing armloads of coin or an extremely valuable bank vellum after a good run. If you play it safe and be smart about how you do things, a thief can be a very enjoyable and easily enriched character to play. I will say that friends help greatly in this matter, since there are a vast number of resources for stealing available only through others that already know them. I'm not allowed to go into the details, but once you've mastered them, no one will ever see you coming or leaving for that matter. My last parting gift to you in the way of knowledge, is a list of additional helpful resources for thieves. Use them well:
 

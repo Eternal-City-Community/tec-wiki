@@ -61,10 +61,7 @@ Though spears have often been used in conjunction with shields, most who special
 
 ### Skill Details
 
-
-<a id="Sweep"></a>
-
-### Spear Sweep  *sweep <target>*
+### Spear Sweep  *sweep <target>* {#Sweep}
 
 The wielder attempts to swing the spear at the opponents legs and knock him on his rear end. Only works against humanoids standing on their feet.
 
@@ -76,10 +73,7 @@ Shifting his grip on his spear, Uiseann sweeps at a thug's feet, knocking him do
 
 </div>
 
-
-<a id="Slash"></a>
-
-### Spear Slash  *slash <target>*
+### Spear Slash  *slash <target>* {#Slash}
 
 The wielder slashes the tip of the spear across the opponent's body in an attempt to cut him. It is a slashing attack.
 
@@ -91,10 +85,7 @@ Regul cloak slashes horizontally at a thug with the tip of his spear! He suffers
 
 </div>
 
-
-<a id="Stab"></a>
-
-### Spear Stab  *stab <target>*
+### Spear Stab  *stab <target>* {#Stab}
 
 A quick stab in which the wielder stabs forward, aiming the tip of the spear at his opponent. It is a simple attack. Suffers a 20 point penalty at close range.
 
@@ -106,10 +97,7 @@ Gilven makes a quick stabbing motion at a thug with his spear! He suffers a deep
 
 </div>
 
-
-<a id="Charge"></a>
-
-### Spear Charge  *charge <target>*
+### Spear Charge  *charge <target>* {#Charge}
 
 The wielder charges forward from long range and rushes straight at the opponent, attempting to jab the spear into them.
 
@@ -121,10 +109,7 @@ Uiseann rushes towards a thug with his spear leveled. The spear connects!
 
 </div>
 
-
-<a id="Smash"></a>
-
-### Spear Butt Smash  *smash <target>*
+### Spear Butt Smash  *smash <target>* {#Smash}
 
 The wielder swing around the butt end of the spear to slam into the opponent, causing a bruise.
 
@@ -136,10 +121,7 @@ Using a spear as a stave, Regul swings the butt around at a thug, but misses.
 
 </div>
 
-
-<a id="Jab"></a>
-
-### Spear Jab  *jab <target>*
+### Spear Jab  *jab <target>* {#Jab}
 
 The wielder jabs forward, aiming the tip of the spear at his opponent. This is a simple attack. Suffers a 20 point penalty at close range.
 
@@ -151,10 +133,7 @@ Gilven jabs at a thug with the point with the point of his spear! He suffers a p
 
 </div>
 
-
-<a id="Impale"></a>
-
-### Spear Impale  *impale <target>*
+### Spear Impale  *impale <target>* {#Impale}
 
 The wielder slams the tip of the spear completely through the flesh of a prone opponent, impaling him to the ground. This maneuver can only be used against an opponent that is sitting, kneeling, or laying prone on the ground. A skilled opponent might be able to roll away from this attack while on the ground.
 
@@ -166,10 +145,7 @@ He suffers a severe puncture to his right thigh. Regul grips his spear tightly a
 
 </div>
 
-
-<a id="Feint"></a>
-
-### Spear Feint  *feint <target>*
+### Spear Feint  *feint <target>* {#Feint}
 
 The wielder attempts to feint an attack with the tip of the spear in order to get his opponent to lower his guard. The difficulty for a feint to be used is dependent on the opponents overall fighting ability, a less skilled opponent will fall for a feint easier then a more skilled warrior.
 
@@ -181,10 +157,7 @@ Regul leans forward, feigning a strike at a thug with his spear.
 
 </div>
 
-
-<a id="Sblock"></a>
-
-### Spear Simple Block
+### Spear Simple Block {#Sblock}
 
 The wielder uses this maneuver to block simple attacks aimed at the midsection with the haft of the spear.
 
@@ -196,10 +169,7 @@ Uiseann blocks a thug's tin dagger with his spear!
 
 </div>
 
-
-<a id="Throw"></a>
-
-### Spear Throw  *throw <spear>*
+### Spear Throw  *throw <spear>* {#Throw}
 
 The wielder thrusts the spear through the air, attempting to hit the opponent from long range.
 
@@ -211,10 +181,7 @@ Regul throws a spear at a thug, but misses.
 
 </div>
 
-
-<a id="Bblock"></a>
-
-### Spear Butt Block
+### Spear Butt Block {#Bblock}
 
 The wielder shifts his grip and pulls up the blunt end of the spear, blocking with it as he would with a quarterstave. While no more effective or complex then Simple Block, this defends higher areas that Simple Block cannot.
 
@@ -226,10 +193,7 @@ Shifting his grip, Gilven pulls up the blunt end of his spear and blocks a thug'
 
 </div>
 
-
-<a id="Rblock"></a>
-
-### Spear Rounding Block
+### Spear Rounding Block {#Rblock}
 
 When the opponent tries to knock the spear aside or strike from an indirect angle, the wielder catches the attack with his spears haft and forces it to circle in his grip, rather then actually moving away from the impact. If successful, this maneuver counteracts the attack smoothly and rapidly.
 
@@ -241,10 +205,7 @@ Regul catches a thugs tin dagger with the haft of his spear, skillfully forces i
 
 </div>
 
-
-<a id="Thrust"></a>
-
-### Spear Overhead thrust  *thrust <target>*
+### Spear Overhead thrust  *thrust <target>* {#Thrust}
 
 A one or two-handed strike involving lifting the spear above the wielder's head and thrusting at a downwards angle, using the momentum and weight of the spear to the attackers advantage. This attack hits hard, and is not defended by most overhead blocks except that of the shield.
 
@@ -256,10 +217,7 @@ Lifting it in one hand, Uiseann raises his spear over his head and drives it at 
 
 </div>
 
-
-<a id="Wstrike"></a>
-
-### Spear Weapon Strike  *strike*
+### Spear Weapon Strike  *strike* {#Wstrike}
 
 The wielder swings the butt end of the spear at the opponent's weapon or shield, trying to knock it aside for a follow-up stab with the sharp end. If successful this may busy the opponent for several seconds in an attempt to regain balance. If the defender is particularly unskilled, this attack will remove the opponents ability to parry for a few moments.
 
@@ -271,10 +229,7 @@ With a quick snapping motion, Gilven aims the butt end of his spear at a thugs t
 
 </div>
 
-
-<a id="Rstrike"></a>
-
-### Spear Round strike  *round <target>*
+### Spear Round strike  *round <target>* {#Rstrike}
 
 The wielder stabs forward while expertly stabbing the blade in a circle. The intention of this maneuver is to penetrate a block by a weapon or small shield. If it succeeds, the attacker gets an opportunity for a quick, weak stab.
 
@@ -288,10 +243,7 @@ Expertly darting the blade of his spear forward in a circle, Regul quickly stabs
 
 </div>
 
-
-<a id="Pjab"></a>
-
-### Spear Parting Jab  *pjab <target>*
+### Spear Parting Jab  *pjab <target>* {#Pjab}
 
 Like any other stab or jabbing type attack, the wielder aims the tip of the spear directly at their opponent, only at the same time taking a step backwards into a retreated position.
 
@@ -304,10 +256,7 @@ Uiseann steps back while jabbing at a thug with his bronze-tipped spear!
 
 </div>
 
-
-<a id="Chop"></a>
-
-### Spear Chop  *chop <target>*
+### Spear Chop  *chop <target>* {#Chop}
 
 Not much unlike any other chopping type attack, albeit much more complex, the wielder chops with the spear tip in a powerful attack similar to Overhead Thrust and Weaponstrike in terms of damage. Those particularly unskilled with this move are far more likely to lose control and drop their weapon upon missing their intended target, than a skilled user of Chop will be.
 
@@ -320,10 +269,7 @@ Gilven slides his grip toward the butt of his spear and directs a heavy chop at 
 
 </div>
 
-
-<a id="Upslash"></a>
-
-### Spear Upward Slash  *upslash <target>*
+### Spear Upward Slash  *upslash <target>* {#Upslash}
 
 An easier and less powerful version of the hard-hitting Spear Slash, this version is very useful as it is executed is such a way that it can be used at both close ranged and at a distance. You must be familiar in Slash to use Upward Slash.
 
@@ -337,10 +283,7 @@ Regul twists his wrists and sweeps the blade of his spear upward, slashing acros
 
 </div>
 
-
-<a id="Rotation"></a>
-
-### Spear Rotation Block
+### Spear Rotation Block {#Rotation}
 
 **When you see this in use you see:**
 
@@ -350,10 +293,7 @@ Gilven spins his spear in a forward rotation, knocking aside the attack, before 
 
 </div>
 
-
-<a id="Sstab"></a>
-
-### Spear Stepping Stab  *sstab <target>*
+### Spear Stepping Stab  *sstab <target>* {#Sstab}
 
 The only multi-hit maneuver available for spears, this attack will cause you to adopt a more aggressive stance without incurring an additional roundtime. It is a moderately damaging move and aims mid by default. Stepping Stab can be used either one or two handed and from short or long range making it a very versatile maneuver. However, it does not benefit from Hoplite Combat.
 
@@ -365,10 +305,7 @@ Stepping forward aggressively, Gilven clears the way with rapid stabs of his spe
 
 </div>
 
-
-<a id="Pslash"></a>
-
-### Spear Parting Slash  *pslash <target>*
+### Spear Parting Slash  *pslash <target>* {#Pslash}
 
 A parting maneuver that has the added advantage of auto-assuming a more defensive stance upon execution. It is a powerful slash, aimed high by default, and does damage on par with that of the standard Spear Slash maneuver. It can only be used while wielding the spear in both hands and only from close range.
 
@@ -380,10 +317,7 @@ Sliding his front leg back, Gilven pivots away from a thug while extending his s
 
 </div>
 
-
-<a id="Scorp"></a>
-
-### Spear Ebros' Scorpion Stance  *scorpion*
+### Spear Ebros' Scorpion Stance  *scorpion* {#Scorp}
 
 A combat stance that grants a to-hit bonus to all spear attacks.
 
@@ -397,10 +331,7 @@ Gilven wields his spear in two hands, with the point angled downwards and the re
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### Spear Accuracy
+### Spear Accuracy {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -412,10 +343,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Grip"></a>
-
-### Spear Grip
+### Spear Grip {#Grip}
 
 With enough training in Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

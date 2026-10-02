@@ -24,9 +24,7 @@ See the full list of [commands](/commands/).
 
 ### Currency
 
-
-<a id="Iridine"></a>
-#### Iridinian Currency
+#### Iridinian Currency {#Iridine}
 Below is the currency used throughout the [Republic of Iridine](/republic-of-iridine/) and recognized by its banks.
 
 The wealth command works with this currency. 
@@ -59,16 +57,12 @@ In addition to the value of individual coins, there is the *"Talent"* unit of cu
 250 denars is equal to 10 cents.
 ~~~
 
-
-<a id="tokens"></a><a id="Nehal"></a>
-#### Nehal Currency
+#### Nehal Currency {#Nehal}
 The [Nehal](/rock-valley-region/#Nehal) people and the inhabitants of the [Village of Stromheim](/village-of-stromheim/) use **tokens** as currency. Iridinian banks don't recognize them as currency. 
 
 The wealth command works with this currency. 
 
-
-<a id="Cinera"></a>
-#### Cineran Currency
+#### Cineran Currency {#Cinera}
 Cinera has its own currency. Iridinian banks don't accept/recognize them as currency. The Republic doesn't recognize them. 
 
 The wealth command **does not** work with this currency. 
@@ -80,9 +74,7 @@ The wealth command **does not** work with this currency.
 | Pentak | Bronze |
 | Shekel | Silver |
 
-
-<a id="banking"></a>
-### Banking
+### Banking {#banking}
 Several banking institutions exist in Iridine, such as Seneda's Iridine Bank. Banking institutions that are linked allow transfers of money, between characters or between banking locations, for a fee. Funds may take approximately an hour to appear when transferred between locations.
 
 **Banking Locations Include:**

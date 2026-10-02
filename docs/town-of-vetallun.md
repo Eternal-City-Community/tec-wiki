@@ -83,6 +83,5 @@ A.   Vetallun Crossroads
 * Home to **Ferrarius** the blacksmith, **skilled in [reforging](/weapons/#Reforge)** weapons and shields.
 * Several **[player-managed shops](/property/#store)**, including **The Flying Fish** & **The Crimson Emporium**.
 
-<a id="Laws"></a>
-### Laws
+### Laws {#Laws}
 TBC

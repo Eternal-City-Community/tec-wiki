@@ -58,10 +58,7 @@ You can start your training journey at the following archery targets:
 
 ### Skill Details
 
-
-<a id="Basic"></a>
-
-### Basic Shot  *shoot <target>*
+### Basic Shot  *shoot <target>* {#Basic}
 
 The basic archer shot. Fire an arrow at the intended target. As an archer continues to train this technique to higher and higher levels of expertise, he will be able to draw the bowstring further and loose the arrow truer, resulting in a much more powerful arrow and much more grevious wounds for the unfortunate victim. (requires 151 ranks for maximum damage output)
 
@@ -73,23 +70,11 @@ Fern fires an iron-tipped arrow from a short bow at a thug. An iron-tipped arrow
 
 </div>
 
-
-<a id="Part"></a>
-
-
-<a id="Part"></a>
-
-### Parting Shot  *partshot <target>*
+### Parting Shot  *partshot <target>* {#Part}
 
 This fast shot can only be used at point blank range, but allows an archer to retreat away from his target while firing at it. (requires 151 ranks for maximum damage output)
 
-
-<a id="Foot"></a>
-
-
-<a id="Foot"></a>
-
-### Foot Shot  *footshot <target>*
+### Foot Shot  *footshot <target>* {#Foot}
 
 Once the archer has learned enough about precision shooting to aim for a particular body part, he can begin targetting sensitive areas, such as the foot. If successful, a stinging foot shot to the ankle forces the target to pass a willpower check or stumble onto his knees. If very successful, the arrow will bind the target's foot to the ground, forcing the target to struggle to free themselves before moving freely again. The complexity of hitting a shifting foot in mid-battle makes this a difficult and risky shot, at best. (requires 151 ranks for maximum damage output)
 
@@ -101,10 +86,7 @@ Brauthos fires an iron-tipped arrow from a short bow at a thug. A thug suffers a
 
 </div>
 
-
-<a id="Head"></a>
-
-### Head Shot  *headshot <target>*
+### Head Shot  *headshot <target>* {#Head}
 
 If the archer continues studying precision shooting long enough, he can begin attempting to fire a disorienting shot at the target's head. If successful, and if the target survives the jolt to the skull, the target must pass a willpower check or be stunned. If very successful, the shot will stun the target regardless of their willpower. This technique is as complex and difficult as Foot Shot. Obviously, the viability and effectiveness of this shot is greatly reduced if the target is wearing a heavy helmet or other form of head protection. (requires 151 ranks for maximum damage output)
 
@@ -118,10 +100,7 @@ The shot strikes a thug hard and he appears bewildered!
 
 </div>
 
-
-<a id="Hand"></a>
-
-### Hand Shot  *handshot <target>*
+### Hand Shot  *handshot <target>* {#Hand}
 
 Continuing to study the art of precision shooting, the archer can learn to fire at the target's weapon hand. This technique can potentially disarm a held weapon if successful. (requires 151 ranks for maximum damage output)
 
@@ -136,10 +115,7 @@ The arrowshot to the hand upsets a thug's stance, and she leaves a low opening!
 
 </div>
 
-
-<a id="Rapid"></a>
-
-### Rapid Fire Shot  *rapid <target>*
+### Rapid Fire Shot  *rapid <target>* {#Rapid}
 
 Allows the archer to fire off two shots at a time in rapid succession. However, the shots suffer an accuracy penalty because of the rushed nature of the technique. For most archers, this technique is significantly faster than trying to fire two single shots separately. However, for archers that are naturally extremely fast, this technique might prove less useful because it does not provide any noticeable speed improvement over firing single shots. (requires 151 ranks for maximum damage output)
 
@@ -152,17 +128,11 @@ Brauthos fires an iron-tipped arrow from a short bow at a thug. An iron-tipped a
 
 </div>
 
-
-<a id="QShot"></a>
-
-### Quick Shot  *quickshot <target>*
+### Quick Shot  *quickshot <target>* {#QShot}
 
 This skill focuses the archer's efforts on getting an arrow fired as quickly as possible, and can come in handy in situations where reaction time or the element of surprise is paramount. Naturally, since the archer focuses all of the effort on firing an arrow as quickly as possible, the accuracy and power of this shot is reduced compared to other firing techniques. (requires 151 ranks for maximum damage output) Knowing 100 ranks in both Quick Shot and Quick Load will allow you to load your bow automatically.
 
-
-<a id="HParry"></a>
-
-### Handle Parry  *n/a*
+### Handle Parry  *n/a* {#HParry}
 
 **When you see this in use you see:**
 
@@ -172,10 +142,7 @@ As a tattooed bandit's dirk with a tarnished blade is about to make contact, you
 
 </div>
 
-
-<a id="Load"></a>
-
-### Quick Load  *quickload <bow>*
+### Quick Load  *quickload <bow>* {#Load}
 
 A serious archer must learn how to quickly draw an arrow and load the bow in the heat of battle. Mastering this technique is a must, as it significantly reduce the amount of time you'll spend fumbling with arrows between each shot. Knowing 100 ranks in both Quick Shot and Quick Load will allow you to load your bow automatically.
 
@@ -187,10 +154,7 @@ With a quick fluid motion Fern loads a short bow.
 
 </div>
 
-
-<a id="SS"></a>
-
-### Simple Stringing  *string <bow> with <string>*
+### Simple Stringing  *string <bow> with <string>* {#SS}
 
 The basic action of stringing the bow. You'll find it relatively hard to shoot the bow if you don't do this first.
 
@@ -202,10 +166,7 @@ A short bow wobbles as Brauthos attempts to stretch a string over its nock.
 
 </div>
 
-
-<a id="Unstring"></a>
-
-### Simple Unstringing  *unstring <bow>*
+### Simple Unstringing  *unstring <bow>* {#Unstring}
 
 The basic action of unstringing the bow.
 
@@ -217,24 +178,15 @@ Brauthos struggles with his wobbling short bow before finally managing to slip a
 
 </div>
 
-
-<a id="Point"></a>
-
-### Point Blank Targeting
+### Point Blank Targeting {#Point}
 
 Each two ranks of this passive skill offsets the penalty associated with firing at point blank range by one point. At rank 100, the penalty is fully negated. Note that this skill only works when you are in a room too small to otherwise shoot, less than forty feet square. It won't help you in a room forty feet square or larger.
 
-
-<a id="Long"></a>
-
-### Long-Range Targeting
+### Long-Range Targeting {#Long}
 
 Each two ranks of this passive skill offsets the penalty associated with firing at long ranges by one point.
 
-
-<a id="Steady"></a>
-
-### Steady Aim  *aim <target>*
+### Steady Aim  *aim <target>* {#Steady}
 
 The archer takes some time to carefully aim the shot. The bonus to the next shot is proportional to the degree of success of the aim. Aiming at a target with 50 ranks of Shot Timing will guarantee that you will not hit another target.
 
@@ -246,10 +198,7 @@ Holding her short bow steady, Fern aims at a thug.
 
 </div>
 
-
-<a id="Range"></a>
-
-### Range Assessment  *range <target>*
+### Range Assessment  *range <target>* {#Range}
 
 Helps the archer determine how far away a target is and how difficult that target will be to hit.
 
@@ -263,10 +212,7 @@ There is a slight breeze which can affect your arrow's flight.
 
 </div>
 
-
-<a id="Quick"></a>
-
-### Quick String  *quickstring <bow>*
+### Quick String  *quickstring <bow>* {#Quick}
 
 Quickly draws and strings the bow in a single, smooth motion.
 
@@ -278,17 +224,11 @@ In a quick and effortless motion, Brauthos draws his short bow and strings it.
 
 </div>
 
-
-<a id="Off"></a>
-
-### Off Position Firing
+### Off Position Firing {#Off}
 
 Each two ranks of this passive skill offsets the penalty associated with firing from a position other than standing by one point.
 
-
-<a id="Wind"></a>
-
-### Wind Gauging
+### Wind Gauging {#Wind}
 
 Firing in the wind is tough. This helps you.
 
@@ -297,17 +237,11 @@ Firing in the wind is tough. This helps you.
 * This skill reaches **maximum effectiveness @ rank 100**.
 * Use the **weather** command to gauge how much wind there is from your position. Stronger winds increase the penalty to shoot.
 
-
-<a id="Slope"></a>
-
-### Slope Gauging
+### Slope Gauging {#Slope}
 
 Each two ranks of this passive skill offsets the penalty associated with firing up a slope by one point.
 
-
-<a id="Draw"></a>
-
-### Quick Draw  *quickdraw <bow>*
+### Quick Draw  *quickdraw <bow>* {#Draw}
 
 Quickly draws, strings, and loads the bow in a single, fluid motion.
 
@@ -322,17 +256,11 @@ In one fluid motion, Fern draws her short bow, strings and loads it.
 
 </div>
 
-
-<a id="Time"></a>
-
-### Shot Timing  *n/a*
+### Shot Timing  *n/a* {#Time}
 
 A pitched battle is a chaotic meddly of men, bronze and wood. Getting a steady bead on a single target within a melee is next to impossible for an untrained archer. Shooting into a brawl endagers everyone involved, friend or foe. An experienced archer avoids this only through patience, timing and luck. (Every rank in Shot Timing reduces the chance of friendly fire by 2%. Enough ranks will guarantee that an AIMED shot will not hit a friendly combatant. There is still a 5% chance to hit a friendly target without aiming, even with Shot Timing at rank 50.)
 
-
-<a id="Breathe"></a>
-
-### Shot Breathing  *n/a*
+### Shot Breathing  *n/a* {#Breathe}
 
 With enough training in Shot Breathing, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -344,10 +272,7 @@ With enough training in Shot Breathing, you are able to raise your perception in
 
 </div>
 
-
-<a id="AGrip"></a>
-
-### Archer's Grip  *n/a*
+### Archer's Grip  *n/a* {#AGrip}
 
 With enough training in Archer's Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

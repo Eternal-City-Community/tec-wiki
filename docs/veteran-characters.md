@@ -3,9 +3,7 @@ title: "Veteran Characters"
 category: "Reference"
 ---
 
-# Veteran Characters
-
-<a id="Top"></a>
+# Veteran Characters {#Top}
 
  
 <iframe class="tec-video" width="444" height="240" src="https://www.youtube.com/embed/Mr4O37X1QpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,7 +27,7 @@ A VC package includes [General Skill Points (GSPs)](/skills/#GSP) to learn [Skil
         * [Jewelry Vendor](#Jewelry)
         * [Miscellaneous Vendor](#Misc)
     * [GSPs](#GSPs)
-        * [Skill Trainers](#Skill)
+        * [Skill Trainers](#GSPs)
 
 ---
 ### Related Commands
@@ -105,9 +103,8 @@ A successfully generated character will be placed in an OOC lounge to spend thei
 [Back to Top](#)
 
 ---
-<a id="Retire"></a>
 
-### Retiring an Existing Character
+### Retiring an Existing Character {#Retire}
 
 The process of retiring a character involves several technical and Role Point (RP) aspects that you should be aware of. Here is a summary of the most important aspects to consider when retiring a character:
 
@@ -127,13 +124,12 @@ The process of retiring a character involves several technical and Role Point (R
 [Back to Top](#)
 
 ---
-<a id="Lobby"></a> 
-### Veteran Character Lobby
+
+### Veteran Character Lobby {#Lobby}
 
 Your new character will be placed in an out-of-character (OOC) lounge to spend their GSP, credits, stat points, and receive any extras that they are entitled to. Walk around to explore all the "stores" where you can spend those credits.
 
-<a id="Credits"></a> 
-#### Credits
+#### Credits {#Credits}
 
 Use those credits to appoint your character:
 
@@ -152,12 +148,9 @@ Use those credits to appoint your character:
     * You can only inject these skill points into already-known skills, so be sure to spend GSPs before spending VCCs here.
 * Coin (1.5 talents per VCC)
 
-<a id="Vendors"></a>
+#### Vendor List {#Vendors}
 
-#### Vendor List
-
-<a id="Weapons"></a>
-##### Weapons Vendor
+##### Weapons Vendor {#Weapons}
 
 | Item | Credit Cost |
 | --- | --- |
@@ -219,10 +212,7 @@ Use those credits to appoint your character:
 
 **Note:** Weapon quality can be enhanced at the cost of additional credits. Upon purchasing the item you will see this follow-up prompt: "All base weapons sold here are of average quality (0). You can increase the quality to Good, Great, or Excellent at a cost of 1 credit per step. You may also increase the quality to Superior for 15 credits extra. Enter the number of credits you wish to add to the price to increase the quality of this weapon."
 
-
-<a id="Clothing"></a>
-
-##### Clothing Vendor
+##### Clothing Vendor {#Clothing}
 
 | Item | Credit Cost |
 | --- | --- |
@@ -251,9 +241,7 @@ Use those credits to appoint your character:
 
 **Warning:** These items have no options to enhance them. If you buy a hooded cloak, it will be just 'a hooded cloak'.
 
-<a id="Armor"></a>
-
-##### Armor Vendor
+##### Armor Vendor {#Armor}
 
 | Item | Credit Cost |
 | --- | --- |
@@ -289,10 +277,7 @@ Use those credits to appoint your character:
 
 **Note:** Shield quality can be enhanced at the cost of additional credits.
 
-
-<a id="Jewelry"></a>
-
-##### Jewelry Vendor
+##### Jewelry Vendor {#Jewelry}
 
 *All items listed below are merely examples of pricing and style. This shop is entirely stocked by custom items.*
 
@@ -312,9 +297,7 @@ Use those credits to appoint your character:
 | 12. Zinc anklet with mica charms (custom / see display case) | 3 credits |
 | 13. Bronze anklet with beryl charms (custom / see display case) | 5 credits |
 
-<a id="Misc"></a>
-
-##### Miscellaneous Vendor
+##### Miscellaneous Vendor {#Misc}
 
 | Item | Credit Cost |
 | --- | --- |
@@ -331,9 +314,7 @@ Use those credits to appoint your character:
 | 11. Ceramic lantern | 1 credit |
 | 12. Large sack | 1 credit |
 
-<a id="GSPs"></a> 
-<a id="Skill"></a> 
-### Skill Trainers
+### Skill Trainers {#GSPs}
 
 Spend your GSPs learning nearly any skill available in the game world (excluding those that need story commitment).
 

@@ -52,10 +52,7 @@ The main advantages of the axe, as opposed to simply using a sword or club-type 
 
 ### Skill Details
 
-
-<a id="Stance"></a>
-
-### 2H Axe Wide Grip Stance  *wgrip*
+### 2H Axe Wide Grip Stance  *wgrip* {#Stance}
 
 A combat stance to set warriors apart from lumberjacks, this posture will help the user land their blows more easily.
 
@@ -69,10 +66,7 @@ Hroth spaces his hands wide apart on the haft of his two-handed tin axe, squatti
 
 </div>
 
-
-<a id="Slash"></a>
-
-### 2H Axe Basic Slash  *slash <target>*
+### 2H Axe Basic Slash  *slash <target>* {#Slash}
 
 A basic slashing maneuver that is the foundation of many more advanced slashing techniques. Aims at the midsection by default.
 
@@ -84,10 +78,7 @@ Hroth makes a wide horizontal slash at a thug with his two-handed tin axe, but m
 
 </div>
 
-
-<a id="Chop"></a>
-
-### 2H Axe Chop  *chop <target>*
+### 2H Axe Chop  *chop <target>* {#Chop}
 
 A basic chopping maneuver which is the foundation of more advanced chopping techniques. Aims at the upper body by default and cannot be aimed at the lower body.
 
@@ -99,10 +90,7 @@ Hroth raises his two two-handed tin axe above his head and chops down at a thug,
 
 </div>
 
-
-<a id="Haftstrike"></a>
-
-### 2H Axe Haft Strike  *strike <target>*
+### 2H Axe Haft Strike  *strike <target>* {#Haftstrike}
 
 A basic technique of rotating the haft of the axe forward to inflict a bludgeoning attack at a target. Aims at the midsection by default.
 
@@ -114,10 +102,7 @@ Hroth slides his lower hand up the grip of his two-handed tin axe and swings the
 
 </div>
 
-
-<a id="Swat"></a>
-
-### 2H Axe Swat  *swat <target>*
+### 2H Axe Swat  *swat <target>* {#Swat}
 
 A basic technique of swatting at a target with the head of the axe to inflict bludgeoning damage. Aims at the upper body by default.
 
@@ -129,10 +114,7 @@ Shifting his grip on his two-handed tin axe apart, Hroth swats downward at a thu
 
 </div>
 
-
-<a id="Crosschop"></a>
-
-### 2H Axe Cross Chop  *cchop <target>*
+### 2H Axe Cross Chop  *cchop <target>* {#Crosschop}
 
 An angular chop that packs more of a punch that a basic chop. Aims at the upper body by default.
 
@@ -146,10 +128,7 @@ Clobris lifts the tip of his two-handed tin axe and turns, making a swift downwa
 
 </div>
 
-
-<a id="Hipslash"></a>
-
-### 2H Axe Hip Slash  *hslash <target>*
+### 2H Axe Hip Slash  *hslash <target>* {#Hipslash}
 
 An advanced slashing technique in which the user rotates their upper body to add more force to the swing, dealing higher damage than a basic slash. Aims at the midsection by default.
 
@@ -163,10 +142,7 @@ Hroth slides his grip on his two-handed tin axe together and twists with his hip
 
 </div>
 
-
-<a id="Overheadchop"></a>
-
-### 2H Axe Overhead Chop  *overhead <target>*
+### 2H Axe Overhead Chop  *overhead <target>* {#Overheadchop}
 
 A chopping technique with its roots in splitting logs for firewood, this technique has the user hoist the entirety of the axe above their head and bring it down with full force to inflict massive damage. Aims at the upper body by default and cannot be aimed at the lower body.
 
@@ -180,10 +156,7 @@ Hroth lifts his two-handed tin axe high above his head holding it at the base of
 
 </div>
 
-
-<a id="Steppingslash"></a>
-
-### 2H Axe Stepping Slash  *sslash <target>*
+### 2H Axe Stepping Slash  *sslash <target>* {#Steppingslash}
 
 This maneuver has the highest damage potential of any single move for the weapon. Aims at the midsection by default. **Cannot be used in Berserk posture and will change the user's posture one step towards Berserk.**
 
@@ -197,10 +170,7 @@ Stepping forward aggressively, Clobris swings his two-handed tin axe in a heavy-
 
 </div>
 
-
-<a id="Woodcutterslash"></a>
-
-### 2H Axe Woodcutter Slash  *break*
+### 2H Axe Woodcutter Slash  *break* {#Woodcutterslash}
 
 This maneuver allows the user to target a shield and damage it. The higher the ranks in the maneuver, the more damage will be done to the shield. You may still use the skill on a non-shielded opponent. Aims at the midsection by default. Note: Woodcutter Slash cannot trigger follow-through hits from the Cunning Opportunist trait.
 
@@ -212,10 +182,7 @@ Clobris plants his feet into the ground, draws back his two-handed tin axe, then
 
 </div>
 
-
-<a id="Backhandstrike"></a>
-
-### 2H Axe Backhand Strike  *bstrike <target>*
+### 2H Axe Backhand Strike  *bstrike <target>* {#Backhandstrike}
 
 This maneuver reverses the slashing movement of a previous strike, and **can only be used after a slashing attack**. Aims at the midsection by default.
 
@@ -231,10 +198,7 @@ With his weapon turned, Hroth stabs suddenly at a thug with the butt end of his 
 
 </div>
 
-
-<a id="Fallingstrike"></a>
-
-### 2H Axe Falling Strike  *pchop <target>*
+### 2H Axe Falling Strike  *pchop <target>* {#Fallingstrike}
 
 A parting attack in which the user chops down at their target before stepping to a safe distance away from them. Aims at the midsection by default.
 
@@ -248,10 +212,7 @@ Clobris steps back, slides both hands to the butt end of his two-handed tin axe,
 
 </div>
 
-
-<a id="Haftsap"></a>
-
-### 2H Axe Haft Sap  *sap <target>*
+### 2H Axe Haft Sap  *sap <target>* {#Haftsap}
 
 Powerful bludgeon attack that has the potential to **stun** an opponent when it lands. Aims at the target's head and cannot be aimed elsewhere.
 
@@ -263,10 +224,7 @@ Hroth slides both hands together near the head of his two-handed tin axe, then s
 
 </div>
 
-
-<a id="Uslash"></a>
-
-### 2H Axe Up Slash  *uslash <target>*
+### 2H Axe Up Slash  *uslash <target>* {#Uslash}
 
 This maneuver reverses the momentum of a downward strike, slashing back upward at the opponent. Aims at the midsection by default. 
 
@@ -282,10 +240,7 @@ Twisting the angle of his two-handed tin axe's blade, Hroth slashes upward at a 
 
 </div>
 
-
-<a id="Feint"></a>
-
-### 2H Axe Feint  *feint <target>*
+### 2H Axe Feint  *feint <target>* {#Feint}
 
 A basic technique to fake the target out with a swift thrust with the goal of disrupting the target's guard. Aims at the midsection by default.
 
@@ -297,10 +252,7 @@ Clobris leans forward, feigning a thrust at thug with his two-handed tin axe.
 
 </div>
 
-
-<a id="Swingingdisarm"></a>
-
-### 2H Axe Swinging Disarm  *fling <axe>*
+### 2H Axe Swinging Disarm  *fling <axe>* {#Swingingdisarm}
 
 A technique to employ when a user's axe is snared to an opponent's weapon, arm, or ankle to follow-up with a variety effects depending on what the weapon is snared to. The move can also be used defensively when the user's axe is snared by an opponent's weapon-snaring move.
 
@@ -313,10 +265,7 @@ Clobris twists suddenly, swinging his two-handed tin axe free and flinging a nic
 
 </div>
 
-
-<a id="Hook"></a>
-
-### 2H Axe Hook  *hook*
+### 2H Axe Hook  *hook* {#Hook}
 
 A maneuver in which the user attempts to snare an opponent's weapon with their axe. Successful follow-ups of Swinging Disarm will attempt to disarm the opponent, potentially flinging their weapon to the ground.
 
@@ -329,10 +278,7 @@ Clobris makes a wide swing at a thug. He manages to cast the blade of his two-ha
 
 </div>
 
-
-<a id="Anklehook"></a>
-
-### 2H Axe Ankle Hook  *pin <target>*
+### 2H Axe Ankle Hook  *pin <target>* {#Anklehook}
 
 A technique in which the user attempt to snare an opponent's ankle with their weapon. Successful follow-ups of Swinging Disarm will attempt to topple an opponent over, leaving them in a prone. The maneuver will damage the target's foot if the move is successful but does not fully snare the target.
 
@@ -346,10 +292,7 @@ Clobris aims a horizontal swing at a thug's feet. He manages to hook the blade o
 
 </div>
 
-
-<a id="Armhook"></a>
-
-### 2H Axe Arm Hook  *ahook <target>*
+### 2H Axe Arm Hook  *ahook <target>* {#Armhook}
 
 A technique in which the user attempt to snare an opponent's arm with their weapon. Successful follow-ups of Swinging Disarm will attempt to bring an opponent to their knees, leaving them in a kneeling stance. The maneuver will damage the target's arm if the move is successful but does not fully snare the target.
 
@@ -361,10 +304,7 @@ Clobris aims a wide overhead swing at a thug's arm. He manages to hook the blade
 
 </div>
 
-
-<a id="Crossingblock"></a>
-
-### 2H Axe Crossing Block
+### 2H Axe Crossing Block {#Crossingblock}
 
 A blocking technique to deflect most stabbing attacks aimed at the user with the haft of the axe.
 
@@ -376,10 +316,7 @@ Hroth holds his two-handed tin axe vertically and swings it in front of him, blo
 
 </div>
 
-
-<a id="Haftblock"></a>
-
-### 2H Axe Haft Block
+### 2H Axe Haft Block {#Haftblock}
 
 A basic blocking technique to deflect most slashing attacks against the user with the haft of the axe.
 
@@ -391,10 +328,7 @@ Hroth blocks the attack with the haft of his two-handed tin axe.
 
 </div>
 
-
-<a id="Headblock"></a>
-
-### 2H Axe Head Block
+### 2H Axe Head Block {#Headblock}
 
 An advanced technique using the head of the axe to deflect various attacks normally difficult to avoid aimed at the user.
 
@@ -406,10 +340,7 @@ Hroth raises the head of his two-handed tin axe in front of him, deflecting the 
 
 </div>
 
-
-<a id="Swatblock"></a>
-
-### 2H Axe Swat Block
+### 2H Axe Swat Block {#Swatblock}
 
 An advanced defensive technique in which the user swings their axe to swat oncoming attacks away with the head of the axe. Particularly useful for many techniques attackers will use to try and target the user's axe.
 
@@ -421,10 +352,7 @@ Hroth uses the broad head of his two-handed tin axe to knock aside the attack wi
 
 </div>
 
-
-<a id="Accuracy"></a>
-
-### 2H Axe Accuracy
+### 2H Axe Accuracy {#Accuracy}
 
 With enough training in Accuracy, you are able to raise your perception in combat situations. A grandmaster in this skill will be equivalent to low-end great perception.
 
@@ -436,10 +364,7 @@ With enough training in Accuracy, you are able to raise your perception in comba
 
 </div>
 
-
-<a id="Grip"></a>
-
-### 2h Axe Grip
+### 2h Axe Grip {#Grip}
 
 With enough training in Grip, you are able to raise your dexterity in combat situations. A grandmaster in this skill will be equivalent to low-end great dexterity.
 

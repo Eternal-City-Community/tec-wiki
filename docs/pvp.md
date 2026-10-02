@@ -89,9 +89,7 @@ One of the most severe PvP actions is the removal of someone's tongue, which mea
 * **When**: While approaching the unconscious victim.
 * **Role Point cost**: 1500rps per tongue cut
 
-
-<a id="PKs"></a>
-#### Player (character) Killing (PKs)
+#### Player (character) Killing (PKs) {#PKs}
 Killing another character is incredibly rare. You **must request approval** from the GMs to kill another character. You do this by submitting a player-kill ticket (PK ticket) under @request. When submitting a PK ticket, you must detail your **conflict history** with the other character. **IF** a GM approves your request, you have a limited amount of time (3 months?) to perform the kill. Like all PvP actions, in-character consequences may apply.
 
 * **Command**: Use the kill <target> command on an unconscious victim.

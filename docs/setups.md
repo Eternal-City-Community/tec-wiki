@@ -37,10 +37,7 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 
 ### Skill Details
 
-
-<a id="Draw-Attention"></a>
-
-### Draw Attention  *spook <target>*
+### Draw Attention  *spook <target>* {#Draw-Attention}
 
 > "Pretty simple ta understand.  Merchant's don't watch their pouches as good when they're not lookin' at it...  Distract tha schmuck's an' it'll be that much easyah fer ya ta... examine 'is wares." the Trainer chuckles.
 
@@ -66,10 +63,7 @@ You have a trader, nearly hypnotized trying to figure out what you’re doing.
 
 </div>
 
-
-<a id="Ground-Approach"></a>
-
-### Ground Approach  *grou?nd [approach] <target>*
+### Ground Approach  *grou?nd [approach] <target>* {#Ground-Approach}
 
 > The Trainer wrinkles his nose as he thinks.  "Pretty simple, reallah... ya slip in fast and quick next ta ya target, an tha next thin he notices is that yer right 'side 'him.  Itsa good way of gettin' past annoyin' guards, but they still see ya comin', an so does tha target.  Thar bettah ways ta get close ta someone unsuspectin'... not that I'd know, of course."  the Trainer cackles.
 
@@ -89,10 +83,7 @@ You manage to get right on top of a trader before being noticed.
 
 </div>
 
-
-<a id="Assess-Target"></a>
-
-### Assess Target  *com?batassess <target>*
+### Assess Target  *com?batassess <target>* {#Assess-Target}
 
 > "Wanna know if ya target's an ignorant schmuck with dat gladius, or a mastah blade with tha balls ta slice ya ta bits?  The Trainer chuckles.  "Tha bettah ya are at assessin' targets, the bettah ya are at tellin' how good he is with a weap'n."
 
@@ -118,10 +109,7 @@ From what you can tell of him, XXXXX has been in more battles than you could eve
 
 </div>
 
-
-<a id="EarforCoin"></a>
-
-### Ear for Coin  *coin?listen <target>*
+### Ear for Coin  *coin?listen <target>* {#EarforCoin}
 
 > "Earin' fer coin is a merchant trick, mostly.  Ya tell how much money a schmuck's got on 'im by the sound of da jinglin' of 'is pouches an' sacks.  Course... its jes a rough guess, but ya judgement gets bettah as ya practice. Itsa useful trick fer choosin' targets."
 
@@ -153,10 +141,7 @@ A trader is virtually overburdened with coins. You estimate that he is carrying 
 
 </div>
 
-
-<a id="LipReading"></a>
-
-### Lip Reading  *watch lips (toggle)*
+### Lip Reading  *watch lips (toggle)* {#LipReading}
 
 Carefully watching the lips of those whispering around you, you attempt to make out what is being said.
 
@@ -172,10 +157,7 @@ Carefully reading his lips, you make out the words "You've forged the key to my 
 
 </div>
 
-
-<a id="ThiefsLook"></a>
-
-### Thief's Look  *glan?ce <target>*
+### Thief's Look  *glan?ce <target>* {#ThiefsLook}
 
 TBC
 
@@ -193,10 +175,7 @@ TBC
 
 </div>
 
-
-<a id="CityStalking"></a>
-
-### City Stalking  *city?stalk <target>*
+### City Stalking  *city?stalk <target>* {#CityStalking}
 
 TBC
 
@@ -221,10 +200,7 @@ TBC
 
 </div>
 
-
-<a id="FadeAway"></a>
-
-### Fade Away  *fad?e <target>*
+### Fade Away  *fad?e <target>* {#FadeAway}
 
 TBC
 
@@ -242,10 +218,7 @@ TBC
 
 </div>
 
-
-<a id="DrunkenApproach"></a>
-
-### Drunken Approach  *dru?nkenwalk <target>*
+### Drunken Approach  *dru?nkenwalk <target>* {#DrunkenApproach}
 
 TBC
 
@@ -263,10 +236,7 @@ TBC
 
 </div>
 
-
-<a id="StreetApproach"></a>
-
-### Street Approach  *stree?tapproach <target>*
+### Street Approach  *stree?tapproach <target>* {#StreetApproach}
 
 Using the surrounding crowd as cover, you attempt to silently approach your unsuspecting target.
 
@@ -284,10 +254,7 @@ TBC
 
 </div>
 
-
-<a id="GentTouch"></a>
-
-### Gentlman's Touch  *rif?le <target>*
+### Gentlman's Touch  *rif?le <target>* {#GentTouch}
 
 TBC
 
@@ -305,10 +272,7 @@ TBC
 
 </div>
 
-
-<a id="eavesdrop"></a>
-
-### Eavesdrop  *eav?esdrop <portal>*
+### Eavesdrop  *eav?esdrop <portal>* {#eavesdrop}
 
 TBC
 

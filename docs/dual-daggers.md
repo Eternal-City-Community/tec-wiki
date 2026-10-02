@@ -44,9 +44,7 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 
 ### Skill Details
 
-<a id="Sanguine"></a>
-
-### Dual Daggers Sanguine Stance  *SSTANCE*
+### Dual Daggers Sanguine Stance  *SSTANCE* {#Sanguine}
 
 none
 
@@ -58,9 +56,7 @@ You sink low into a crouch and bring your twin daggers close in a reverse grip, 
 
 </div>
 
-<a id="Chop"></a>
-
-### Dual Daggers Chop  *dchop <target>*
+### Dual Daggers Chop  *dchop <target>* {#Chop}
 
 This move can be aimed **high, mid,** and **low.**
 
@@ -72,9 +68,7 @@ You snap your fang-shaped alanti dagger down at a tough Kelestian raider in a sh
 
 </div>
 
-<a id="Jab"></a>
-
-### Dual Daggers Jab  *djab <target>*
+### Dual Daggers Jab  *djab <target>* {#Jab}
 
 This move can be aimed **high, mid,** and **low.**
 
@@ -89,9 +83,7 @@ You dart forward, driving a rapid jab into a young brute with your alanti dagger
 
 </div>
 
-<a id="Strike"></a>
-
-### Dual Daggers Overhead Strike  *dstrike <target>*
+### Dual Daggers Overhead Strike  *dstrike <target>* {#Strike}
 
 This move can be aimed **high**.
 
@@ -103,9 +95,7 @@ You drop your weight into a vicious downward stab at a tough Kelestian raider wi
 
 </div>
 
-<a id="Swat"></a>
-
-### Dual Daggers Low Swat  *dswat <target>*
+### Dual Daggers Low Swat  *dswat <target>* {#Swat}
 
 This move can be aimed **low**.
 
@@ -117,9 +107,7 @@ You whip your knife down in a stinging swat against a dark-haired woman with a f
 
 </div>
 
-<a id="Slash"></a>
-
-### Dual Daggers Twin Slash  *twinslash <target>*
+### Dual Daggers Twin Slash  *twinslash <target>* {#Slash}
 
 This move can be aimed **high, mid,** and **low.**
 
@@ -131,9 +119,7 @@ You sweep your fang-shaped alanti dagger and long narrow sooty black dagger acro
 
 </div>
 
-<a id="Blooddance"></a>
-
-### Dual Daggers Blood Dance  *dblood <target>*
+### Dual Daggers Blood Dance  *dblood <target>* {#Blooddance}
 
 This move cannot be aimed. 
 
@@ -145,9 +131,7 @@ You step in and drive your daggers into a tough Kelestian raider with controlled
 
 </div>
 
-<a id="Gorgeripper"></a>
-
-### Dual Daggers Gorge Ripper  *Gorgeripper<target>*
+### Dual Daggers Gorge Ripper  *Gorgeripper<target>* {#Gorgeripper}
 
 Aggressive Stepping Move. This move can be aimed **high.**
 
@@ -160,9 +144,7 @@ From your reverse grip, you drive both points of your long narrow sooty black da
 
 </div>
 
-<a id="Heartseeker"></a>
-
-### Dual Daggers Flicker Strike  *heartseeker <target>*
+### Dual Daggers Flicker Strike  *heartseeker <target>* {#Heartseeker}
 
 Auto-wielding move. Lunge at a distance. This move can be aimed **high, & mid.**
 
@@ -174,9 +156,7 @@ You dart in and out with blinding speed, flicking the point of your fang-shaped 
 
 </div>
 
-<a id="Tendon"></a>
-
-### Dual Daggers Tendon Slash  *tendonslash <target>*
+### Dual Daggers Tendon Slash  *tendonslash <target>* {#Tendon}
 
 This move will put you on the ground without simple rise.
 
@@ -188,9 +168,7 @@ You drop low and slash at a dirty Kelestian tunneler's right ankle with your bro
 
 </div>
 
-<a id="Staccato"></a>
-
-### Dual Daggers Blood Staccato  *bloodstaccato <target>*
+### Dual Daggers Blood Staccato  *bloodstaccato <target>* {#Staccato}
 
 This move can be aimed **high** and **mid.**
 
@@ -202,9 +180,7 @@ In a blinding staccato rhythm, you drive a flurry of rapid jabs into a grungy Ke
 
 </div>
 
-<a id="Hook"></a>
-
-### Dual Daggers Hook Disarm  *hookdisarm <target>*
+### Dual Daggers Hook Disarm  *hookdisarm <target>* {#Hook}
 
 This move has a chance to disarm your opponent. This move can be aimed **high.**
 
@@ -218,9 +194,7 @@ You hook the guard of a young brute's large wooden club with your bone knife, le
 
 </div>
 
-<a id="Feint"></a>
-
-### Dual Daggers Feint  *dfeint <target>*
+### Dual Daggers Feint  *dfeint <target>* {#Feint}
 
 none
 
@@ -232,9 +206,7 @@ You stutter-step into a false thrust with your bronze dagger with a lacquered ti
 
 </div>
 
-<a id="Flatblock"></a>
-
-### Dual Daggers Twin-Flat Block  *n/a*
+### Dual Daggers Twin-Flat Block  *n/a* {#Flatblock}
 
 none
 
@@ -246,9 +218,7 @@ none
 
 </div>
 
-<a id="Parry"></a>
-
-### Dual Daggers Off-Hand Parry  *??? <target>*
+### Dual Daggers Off-Hand Parry  *??? <target>* {#Parry}
 
 none
 
@@ -260,9 +230,7 @@ none
 
 </div>
 
-<a id="Crosstrap"></a>
-
-### Dual Daggers Twin-Cross Trap  *n/a*
+### Dual Daggers Twin-Cross Trap  *n/a* {#Crosstrap}
 
 none
 
@@ -274,9 +242,7 @@ none
 
 </div>
 
-<a id="Deflect"></a>
-
-### Dual Daggers Circular Deflection  *n/a*
+### Dual Daggers Circular Deflection  *n/a* {#Deflect}
 
 none
 
@@ -288,9 +254,7 @@ none
 
 </div>
 
-<a id="Bindingparry"></a>
-
-### Dual Daggers Binding Parry  *n/a*
+### Dual Daggers Binding Parry  *n/a* {#Bindingparry}
 
 none
 

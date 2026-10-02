@@ -32,9 +32,7 @@ Everything you need to know about the Falcata Sword Fighting skill set.
 * Going **without a shield** (i.e. using Falcata blocks) **is a more offensive approach**, allowing you to quickly finish off lesser-skilled opponents using [Triple Strike](/falcata/#tstrike) or [Mugger Hold](/falcata/#mug).
 * While options exist to both use a shield and not use a shield, **many prefer the shield/sword combos**. 
 
-
-<a id="Weapons"></a>
-### Weapons
+### Weapons {#Weapons}
 This is the list of weapons that can be used by the Falcata Sword Fighting skill set.
 
 | Weapons | How to get it | Cost |

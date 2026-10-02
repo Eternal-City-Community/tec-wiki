@@ -98,8 +98,7 @@ The current head of the High Council is the self-proclaimed King of Cinera. Once
  
 A third of all the High Council are members of the Imperial party. The leading figures of this party are second only to the King. Its goal, as suggested by the name, is to seek out and find a man worthy enough to be named Emperor of Cinera and lead the nation to great accomplishments. Once so powerful they controlled half the Council, they received a serious blow two decades ago when a single member broke rank. One among them managed to elevate himself in such a way that he could be independent of his party, that man became the King. The result of this was to see the Imperial party fragment and its voice, although still heard, lose dominance.
 
-<a id="War-Party"></a>
-##### The War Party
+##### The War Party {#War-Party}
  
 Fully another third of the High Council are members of the War party. They profited much from the Imperial party loss when they saw their already considerable numbers grow once more. These are the men who contribute most to give Cinera its reputation. Among Cinerans, these individuals are often considered even more brash than the typical Cineran. They have a passion for battle, one they fuel at any opportunity. Luckily for Cinera and the rest of the world, by their very nature, the members often find themselves fighting each other. During the last Iridine-Cineran war an alliance of most of the War party's warlords, along with the Anorad party, attacked Iridine. Their defeat has helped restore the balance with the Imperials.
  

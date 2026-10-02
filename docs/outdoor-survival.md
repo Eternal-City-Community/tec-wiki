@@ -5,8 +5,7 @@ category: "Reference"
 
 # Outdoor Survival
 
-### Skill Overview
-<a id="Top"></a>
+### Skill Overview {#Top}
 
 The City of Iridine is but a small place in a vast, mostly untamed, world. There are those who make their living in this uncharted wilderness, however. Woodsmen, or foresters, spend much of their time in the wild, learning how to track wild animals, hunt them, and bring their pelts in for money. They are skilled in surviving in the wild lands, knowing the best places to find firewood, sweet water, and food with but the barest of clues.
 
@@ -58,10 +57,7 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 
 ### Skill Details
 
-
-<a id="Firepit"></a>
-
-### Dig Firepit  *dig firepit*
+### Dig Firepit  *dig firepit* {#Firepit}
 
 In the outdoors, it can be hard to predict the behavior of a campfire, and even harder to control it. The best means for an outdoorsman to do so can be found through building his fire in a small pit. Using this skill, you do exactly that. A fire pit is necessary in order to build a fire, and after some time, the fire pit will no longer be suitable for fire building. You will need a shovel, trowel, or similar implement to dig a firepit.
 
@@ -74,10 +70,7 @@ In the outdoors, it can be hard to predict the behavior of a campfire, and even 
 
 </div>
 
-
-<a id="Torch"></a>
-
-### Craft Basic Torch  *make torch [with] &lt;tinder&gt;*
+### Craft Basic Torch  *make torch [with] &lt;tinder&gt;* {#Torch}
 
 Using a small dry piece of deadwood or other tinder, typically found using the Find Firewood skill, the outdoorsman carves and whittles in it such a way as to make it suitable as a light-bearing torch, to either use personally, sell to other adventurers, or sell to the many supply shops throughout Iridine. The more skilled you are at making torches, the finer your torches will look and the longer they will burn; higher quality torches will also provide more light than poorly crafted ones.
 
@@ -109,10 +102,7 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 
 </details>
 
-
-<a id="Stoke"></a>
-
-### Stoke Fire  *stoke fire [with] &lt;tinder&gt;*
+### Stoke Fire  *stoke fire [with] &lt;tinder&gt;* {#Stoke}
 
 A fire can use up a great deal of fuel, be it twigs, branches, or anything else that will burn, and as such will need to be rekindled from time to time with new materials. You can stoke a fire with just about anything that will burn, including clothing, wooden items, and, of course, branches and twigs. The size and dryness of the tinder will determine how effective of a fuel source it is.
 
@@ -125,10 +115,7 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 </div>
 
-
-<a id="Fire"></a>
-
-### Firebuilding  *build fire [with] &lt;tinder&gt;*
+### Firebuilding  *build fire [with] &lt;tinder&gt;* {#Fire}
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
@@ -143,10 +130,7 @@ With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**,
 
 </div>
 
-
-<a id="Firewood"></a>
-
-### Find Firewood  *find firewood*
+### Find Firewood  *find firewood* {#Firewood}
 
 Whether being used to make torches, keep your camp fire going, or for use as a construction material, it's a lot harder to find suitable firewood than one would imagine. Using this skill, you will find **deadwood** and **branches** from your surroundings, assuming there are branches to be found. A resourceful hunter will **carry an axe** with her while gathering firewood, which **increases the amount of tinder found**.
 
@@ -160,10 +144,7 @@ Whether being used to make torches, keep your camp fire going, or for use as a c
 
 </div>
 
-
-<a id="Sapling"></a>
-
-### Find Sapling  *find sapling*
+### Find Sapling  *find sapling* {#Sapling}
 
 Flexible, lightweight, and reasonably strong, pine saplings can be extremely valuable to the outdoorsman for a multitude of construction purposes. Valued for its use in furniture, weaponry, and even home construction, even those other than the outdoorsman will have a demand for such things. 
 
@@ -178,10 +159,7 @@ To find a sapling, you'll need to be in an area with a lot of trees. You can fin
 
 </div>
 
-
-<a id="Cook"></a>
-
-### Basic Camp Cooking  *cook &lt;food&gt;*
+### Basic Camp Cooking  *cook &lt;food&gt;* {#Cook}
 
 While many things you forage for or skin may be fine to eat raw, there are countless others which will need to be cooked. Using this skill, you will roast the item over a heat source such as a camp fire or stove. Some items are harder to cook than others, though, so make sure you keep an eye on your dinner!
 
@@ -194,10 +172,7 @@ While many things you forage for or skin may be fine to eat raw, there are count
 
 </div>
 
-
-<a id="Climb"></a>
-
-### Outdoor Climbing  *climb &lt;object|location&gt;*
+### Outdoor Climbing  *climb &lt;object|location&gt;* {#Climb}
 
 As an outdoorsman you might encounter terrain which seems impassible to the normal person. But through extensive study of the land, the knowledgeable woodsman will be able to find a way up or down such obstacles. Beware, though, for some obstacles are harder to climb than others, and while a tumble down a grassy hill may not seem too harmful, falling down a stone mountain will not be pleasant.
 
@@ -210,10 +185,7 @@ As an outdoorsman you might encounter terrain which seems impassible to the norm
 
 </div>
 
-
-<a id="Shelter"></a>
-
-### Shelter Building  *build shelter*
+### Shelter Building  *build shelter* {#Shelter}
 
 There are times, either because of weather, dangerous predators, or simply to better mark your outdoor territory, that you'll wish to build a small temporary home for yourself. With this skill, you can use saplings, rope or cordage, grass, and twigs to build yourself a lean-to, which you can access by using the go <shelter> and leave commands. 
 
@@ -243,10 +215,7 @@ Notes:
 
 </div>
 
-
-<a id="Rope"></a>
-
-### Survival Rope-Making  *make rope with &lt;grass&gt;*
+### Survival Rope-Making  *make rope with &lt;grass&gt;* {#Rope}
 
 Rope is useful as a capturing agent, a snare component, a construction material, and for countless other things, and your ability to make your own will not only save you time, but also quite a bit of coin. Using grass foraged from the outdoors, you can use this skill to make a lightweight grass rope.
 
@@ -284,10 +253,7 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 
 </details>
 
-
-<a id="Berry"></a>
-
-### Berry Foraging  *find berries*
+### Berry Foraging  *find berries* {#Berry}
 
 Iridine's vast fields and forests are covered with a great deal of foliage, with much of it bearing fruit and berries ripe for the taking. With this skill, you will wander the area, gathering what you can find. Be careful, though, because some berries will have adverse effects on you, with different berries doing different things.
 
@@ -300,10 +266,7 @@ Iridine's vast fields and forests are covered with a great deal of foliage, with
 
 </div>
 
-
-<a id="Soil"></a>
-
-### Soil Foraging  *find grub*
+### Soil Foraging  *find grub* {#Soil}
 
 Even in areas where the foliage seems completely barren, there is usually food to be found below your boots. Using this skill, you dig through the soil, looking for insects, roots, and other subterranean delights. Just as with berries, though, some things are less edible than others, so be careful and learn from experience.
 
@@ -316,10 +279,7 @@ Even in areas where the foliage seems completely barren, there is usually food t
 
 </div>
 
-
-<a id="Resource"></a>
-
-### Survival Foraging  *find resource*
+### Survival Foraging  *find resource* {#Resource}
 
 Far away from home and all alone in the wilderness, the hunter is often challenged to find resources that can help her survive. Survival foraging can help you to find food, tools, building supplies, crafting materials, or things that can be used to trap prey. Although anyone can forage for resources, learning the skill will make it a lot easier, and will increase the variety of things that you can find.
 
@@ -338,10 +298,7 @@ Foraging can be affected by tools your character is holding, depending on the ty
 
 </div>
 
-
-<a id="Grass"></a>
-
-### Grass Harvesting  *find grass*
+### Grass Harvesting  *find grass* {#Grass}
 
 One of the best resources you have at your disposal in the wilderness is the endless fields of grass. Useful as a construction material and as a burning agent, you'll have no trouble finding things to do with it. The amount of grass you gather will be greatly increased if you have a harvesting tool of some kind available, such as a knife, a sickle, or a reaping hook. Some hunters have even been known to carry a full-sized scythe into the fields with them when they need to gather a large quantity of grass.
 
@@ -377,10 +334,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 </details>
 
-
-<a id="Pole"></a>
-
-### Craft Fishing Pole  *craft pole with &lt;sapling&gt;*
+### Craft Fishing Pole  *craft pole with &lt;sapling&gt;* {#Pole}
 
 Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/#cordage) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
 
@@ -393,10 +347,7 @@ Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing 
 
 </div>
 
-
-<a id="Conceal"></a>
-
-### Forester Conceal  *conceal &lt;item&gt;*
+### Forester Conceal  *conceal &lt;item&gt;* {#Conceal}
 
 There are times when you'll need to hide the things you find away, and using this skill you can conceal small objects from the prying eyes of your neighbors. Further skill in this move will allow you to conceal larger objects, and the number of objects you can hide in an area will be dependent on the amount of cover present. You can find concealed objects by using the **search** command.
 
