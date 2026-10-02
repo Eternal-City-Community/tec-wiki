@@ -8,13 +8,22 @@ category: "Reference"
 ### Latest Major Updates To The Game *(sorted chronologically↑)*
 
 
+* For the month of **October 2026**, cover (faceplates/masks/hoods) alterations will be half-off.
+
+
+* **September 2026:** New weapon released - Dual Daggers are now available to learn
+
+
+* **August 2026:** New Noncom skillset released - Jewel crafting
+
+
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off [Superior Weapon Upgrades](/account/#RolePointPurchases)**.
 
 
 * **February 23<sup>rd</sup> 2024**: **Combat trainers** have been updated. Some trainers now **teach up to 300/300 or 500/500** ranks. Visit the related [skills page](/skills/#Combat) for details.
 
 
-* **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#naturalatt) for details.
+* **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [Natural Attribute Increases](/stats/#naturalatt) for details.
 
 
 * **February 1<sup>st</sup> 2024**: **50% off** **GSP purchases & Swapping Skill Slots** for the February Promotion! 

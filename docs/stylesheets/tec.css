@@ -2779,7 +2779,7 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 
 /* Homepage "Play Now" button, linking to the game login. */
 .md-typeset img.tec-play-now {
-  width: 416px;
+  width: 300px;
   cursor: pointer;
   transition: filter .15s;
 }
