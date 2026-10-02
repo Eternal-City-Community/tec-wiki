@@ -297,6 +297,18 @@ function initTecSidebar() {
   }
 }
 
+// Overlay scrollbars (e.g. Firefox on Windows 11) take no width and draw over
+// the menu, so the CSS reserves room for them when this class is set.
+(function () {
+  var probe = document.createElement("div");
+  probe.style.cssText = "position:absolute;top:-999px;width:100px;height:50px;overflow-y:scroll;scrollbar-width:thin";
+  document.documentElement.appendChild(probe);
+  if (probe.offsetWidth === probe.clientWidth) {
+    document.documentElement.classList.add("tec-overlay-scrollbars");
+  }
+  probe.remove();
+})();
+
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initTecSidebar, { once: true });
 } else {

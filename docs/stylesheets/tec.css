@@ -433,6 +433,20 @@ body::before {
     scrollbar-width: thin;
   }
 
+  .tec-overlay-scrollbars .md-sidebar--primary .md-sidebar__scrollwrap {
+    padding-right: .45rem;
+  }
+
+  /* Olive-grey scrollbar that darkens on hover, instead of the theme's blue. */
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    scrollbar-color: #a39d7e transparent;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap:hover,
+  .md-sidebar--primary .md-sidebar__scrollwrap:focus-within {
+    scrollbar-color: #5c5a45 transparent;
+  }
+
   .md-sidebar--primary .md-sidebar__inner {
     overflow: visible !important;
     max-height: none !important;
@@ -898,13 +912,17 @@ html, body {
   display: block;
 }
 
-/* Cleaner code/pre blocks for calculators, scripts and command examples. */
+/* Code blocks: pale parchment with a dashed olive border. */
 .md-typeset pre {
   max-width: 100%;
   overflow-x: auto;
-  background: #302f2b;
-  color: #f5f0dc;
-  border: 1px solid #545044;
+  background: #f0eddc;
+  border: 1px dashed #c5b876;
+}
+
+.md-typeset pre > code {
+  background: transparent;
+  color: #2b2a24;
 }
 
 .md-typeset code {
