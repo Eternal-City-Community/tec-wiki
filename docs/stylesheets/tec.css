@@ -2598,3 +2598,60 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
   font-style: italic;
   font-size: .76rem;
 }
+
+
+/* General Rules: restore the old two-column desktop layout. */
+.tec-general-rules-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.18fr) minmax(19rem, .82fr);
+  gap: 1.1rem;
+  align-items: start;
+  margin-top: .6rem;
+}
+
+.tec-general-rules-column {
+  min-width: 0;
+}
+
+.tec-general-rules-column > :first-child {
+  margin-top: 0;
+}
+
+.tec-general-rules-column > h2:first-child {
+  margin-top: 0;
+}
+
+.tec-general-rules-contact {
+  padding-left: 1rem;
+  border-left: 1px solid rgba(86,97,38,.38);
+}
+
+.tec-general-rules-contact h2 {
+  margin-top: 1.35rem;
+  padding: .35rem .5rem;
+  border-bottom: 2px solid #566126;
+  background: rgba(104,109,55,.1);
+  color: #39461f;
+}
+
+.tec-general-rules-contact h2:first-child {
+  margin-top: 0;
+}
+
+.tec-general-rules-contact h5 {
+  margin-top: .85rem;
+}
+
+@media screen and (max-width: 62rem) {
+  .tec-general-rules-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .tec-general-rules-contact {
+    padding-left: 0;
+    border-left: 0;
+    padding-top: .9rem;
+    border-top: 2px solid rgba(86,97,38,.45);
+  }
+}
