@@ -480,6 +480,16 @@ User-reported issues and fixes on 2026-10-01:
 - General Rules fix commit: `04f5bd20d675fb8c88ac491b69d98609b7ed0073`
 - Stats fix commit: `6a72ddf5499b8f505635cd375afb59a2e5fa8faa`
 
+
+
+### Recurring MkDocs `md_in_html` rule
+
+- When introducing responsive layouts with raw HTML wrappers such as `<div>`, `<section>`, `<article>`, cards, grids, or columns that contain Markdown, **every containing HTML wrapper in the nesting chain must use `markdown="1"`**.
+- Adding `markdown="1"` only to an inner child is not sufficient if an outer wrapper is still plain HTML.
+- Failure mode: headings render as literal `##` / `#####`, lists show literal `*`, emphasis shows literal `**`, and tables/links may stop parsing.
+- Before committing any new HTML-based layout, verify Markdown rendering inside the deepest content block and all parent wrappers.
+- Prefer plain Markdown when an HTML wrapper is unnecessary.
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
