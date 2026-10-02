@@ -1,3 +1,10 @@
+// Heading text without the "¶" permalink that the toc extension adds.
+function tecHeadingText(heading) {
+  var copy = heading.cloneNode(true);
+  copy.querySelectorAll(".headerlink").forEach(function (link) { link.remove(); });
+  return copy.textContent.trim();
+}
+
 function initTecSkillPages() {
   var root = document.querySelector(".md-typeset");
   if (!root || !root.querySelector(".skill-template")) return;
@@ -122,7 +129,7 @@ function initTecSkillPages() {
   var inSkillDetails = false;
 
   headings.forEach(function (h) {
-    var label = h.textContent.trim();
+    var label = tecHeadingText(h);
 
     if (/^Skill Details$/i.test(label)) {
       inSkillDetails = true;

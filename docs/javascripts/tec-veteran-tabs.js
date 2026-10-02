@@ -1,3 +1,10 @@
+// Heading text without the "¶" permalink that the toc extension adds.
+function tecHeadingText(heading) {
+  var copy = heading.cloneNode(true);
+  copy.querySelectorAll(".headerlink").forEach(function (link) { link.remove(); });
+  return copy.textContent.trim();
+}
+
 function initTecVeteranTabs() {
   if (window.location.pathname.replace(/\/+$/, "") !== "/veteran-characters") return;
 
@@ -24,7 +31,7 @@ function initTecVeteranTabs() {
 
   function nextHeading(label) {
     for (var i = cursor; i < h4s.length; i++) {
-      if (h4s[i].textContent.trim() === label) {
+      if (tecHeadingText(h4s[i]) === label) {
         cursor = i + 1;
         return h4s[i];
       }

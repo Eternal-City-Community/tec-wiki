@@ -1,15 +1,22 @@
+// Heading text without the "¶" permalink that the toc extension adds.
+function tecHeadingText(heading) {
+  var copy = heading.cloneNode(true);
+  copy.querySelectorAll(".headerlink").forEach(function (link) { link.remove(); });
+  return copy.textContent.trim();
+}
+
 function initStatsPage() {
   var article = document.querySelector(".md-typeset");
   if (!article) return;
 
   var h1 = article.querySelector("h1");
-  if (!h1 || h1.textContent.trim() !== "Stats") return;
+  if (!h1 || tecHeadingText(h1) !== "Stats") return;
   if (article.classList.contains("stats-page")) return;
 
   article.classList.add("stats-page");
 
   var attrHeading = Array.from(article.querySelectorAll("h3")).find(function(h) {
-    return h.textContent.trim() === "Attribute Types";
+    return tecHeadingText(h) === "Attribute Types";
   });
   if (!attrHeading) return;
 
