@@ -2856,3 +2856,25 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 .md-typeset .toc li {
   margin: 0;
 }
+
+/* Breadcrumbs (hooks/breadcrumbs.py): parent pages are links, the current page is plain. */
+.tec-breadcrumbs {
+  padding-top: .7rem;
+  color: #5d5a45;
+  font-size: .62rem;
+}
+.tec-breadcrumbs .md-path__list {
+  flex-wrap: wrap;
+}
+.tec-breadcrumbs .md-path__item {
+  white-space: normal;
+}
+.tec-breadcrumbs .md-path__link {
+  display: inline;
+  color: var(--tec-olive);
+}
+.tec-breadcrumbs .md-path__link:hover,
+.tec-breadcrumbs .md-path__link:focus {
+  color: var(--tec-olive-dark);
+  text-decoration: underline;
+}

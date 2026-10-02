@@ -1,0 +1,13 @@
+{#- Breadcrumbs from the page's `parent:` front matter (hooks/breadcrumbs.py).
+    Parent pages are links; the current page is plain text. -#}
+{% set crumbs = page.meta.breadcrumbs if page.meta else none %}
+{% if crumbs %}
+  <nav class="md-path tec-breadcrumbs" aria-label="Breadcrumb">
+    <ol class="md-path__list">
+      {% for crumb in crumbs %}
+        <li class="md-path__item"><a href="{{ crumb.url }}" class="md-path__link">{{ crumb.title }}</a></li>
+      {% endfor %}
+      <li class="md-path__item" aria-current="page">{{ page.meta.title or page.title }}</li>
+    </ol>
+  </nav>
+{% endif %}

@@ -267,6 +267,11 @@ User-reported issues and fixes on 2026-10-01:
 - Enabled `navigation.path` in `mkdocs.yml`.
 - Commit: `5d173b61e954ce050d87270bc1ab3399122feaf6`
 - Material breadcrumbs follow the configured `nav:` hierarchy, so pages not represented in that hierarchy may still have limited/no breadcrumb context until the nav structure is expanded.
+- Replaced later by front-matter breadcrumbs:
+  - Each page names its parent page, e.g. `parent: skills`. `hooks/breadcrumbs.py` works out the chain up to Home on every build, and `overrides/partials/path.html` (theme `custom_dir: overrides`) renders it in place of Material's nav-based path. Parent pages are links; the current page is plain text. Every chain starts at Home.
+  - Parents were recovered from the old wiki's breadcrumbs (743 pages; Combat and Hunting Grounds listed themselves and were corrected), plus 68 set by clear evidence (bios, `codex-`/`scroll-` books, hunting grounds, crafting skills and their guides, History articles, Aestivan pages). About 40 pages, mostly test, meta and stray pages, are left without one on purpose.
+  - The editor has a **Parent page** field (searchable dropdown of titles). The build warns about a parent that doesn't exist or a loop.
+  - `forum-news` ("IG - @Forum") was never migrated; it was restored as a generated child-page list.
 
 
 
@@ -436,7 +441,8 @@ User-reported issues and fixes on 2026-10-01:
 - MkDocs config commit: `59267ee1bd2c7b31abc37f4837a7486800312b00`
 - Announcements marker commit: `fd0d8f37dce388d5cf5be0428267fec4c37ca414`
 - Styling commit: `4be999d174b779f65627b45395bd61b1bef81f92`
-- Remaining restoration work: identify which migrated pages were actual children of the old Wikidot `announcements` page and add `parent: announcements` to those files. Do not guess this relationship.
+- Children of `announcements` (and every other parent) now come from the parents recovered for breadcrumbs, see Breadcrumb restoration.
+- The generated list needs `markdown="1"` on its wrapper div; without it the list showed as raw Markdown text.
 
 
 

@@ -68,12 +68,12 @@ def on_page_markdown(markdown, page, config, files):
         children = _children_for(parent, config)
 
         if children:
-            rendered = '<div class="tec-listpages">\n\n' + "\n".join(
+            rendered = '<div class="tec-listpages" markdown="1">\n\n' + "\n".join(
                 f'- [{title}](/{slug}/)' for slug, title in children
             ) + '\n\n</div>'
         else:
             rendered = (
-                '<div class="tec-listpages tec-listpages--empty">\n\n'
+                '<div class="tec-listpages tec-listpages--empty" markdown="1">\n\n'
                 '*No child pages are currently tagged for this index.*\n\n'
                 '</div>'
             )

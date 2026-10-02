@@ -4,6 +4,7 @@ site_url: "https://tec-wiki.com"
 
 theme:
   name: material
+  custom_dir: overrides
   variant: classic
   features:
     - navigation.sections
@@ -45,6 +46,7 @@ plugins:
 
 hooks:
   - hooks/listpages.py
+  - hooks/breadcrumbs.py
   - hooks/preview_assets.py
 
 markdown_extensions:
