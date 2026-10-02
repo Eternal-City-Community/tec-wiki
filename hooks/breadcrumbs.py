@@ -5,6 +5,7 @@ to Home is worked out here on every build, so renaming or moving a page
 updates every breadcrumb below it. overrides/partials/path.html renders it.
 """
 from pathlib import Path
+import json
 import logging
 import re
 import yaml
@@ -52,6 +53,16 @@ def on_pre_build(config):
     for slug, page in sorted(_pages.items()):
         if page["parent"] and page["parent"] not in _pages:
             log.warning("%s.md: parent page '%s' does not exist", slug, page["parent"])
+
+
+def on_post_build(config):
+    # Page titles for the editor's Parent page field (docs/admin/tec-cms-parent-field.js).
+    pages = [{"slug": slug, "title": "Home" if slug == "index" else page["title"]}
+             for slug, page in _pages.items()]
+    pages.sort(key=lambda p: p["title"].lower())
+    out = Path(config["site_dir"]) / "admin" / "tec-pages.json"
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(pages, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
 
 def on_page_markdown(markdown, page, config, files):

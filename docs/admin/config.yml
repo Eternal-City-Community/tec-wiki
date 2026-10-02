@@ -92,10 +92,6 @@ collections:
         hint: Used only to organize pages in the editor. It does not change the page URL.
       - label: Parent page
         name: parent
-        widget: relation
-        collection: pages
-        search_fields: ["title"]
-        value_field: "{{slug}}"
-        display_fields: ["title"]
+        widget: tec-parent
         required: false
         hint: The page this one sits under, e.g. Skills for a skill page. It sets the breadcrumb links at the top of the page; leave empty for none.
