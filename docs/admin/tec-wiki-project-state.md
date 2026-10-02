@@ -516,6 +516,15 @@ Markdown tables lack Wikidot's cell formatting, so a marker at the start of a ce
 - Decap CMS backend configuration was updated to use `Eternal-City-Community/tec-wiki`.
 - Future TEC Wiki work should use the organization repository as the canonical source.
 
+
+
+### Cloudflare Git integration after organization transfer
+
+- Cloudflare Workers Builds was reconnected to the canonical organization repository: `Eternal-City-Community/tec-wiki`.
+- Production branch remains `main`.
+- The existing Worker/deployment remains `tec-wiki`.
+- Future pushes to `main` should trigger Cloudflare builds from the organization-owned repository.
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
