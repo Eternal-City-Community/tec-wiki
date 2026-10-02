@@ -467,6 +467,19 @@ User-reported issues and fixes on 2026-10-01:
 - Page commit: `befe35771cf74e0d1cceb76d0b560efa6490cac2`
 - CSS commit: `8f35d3969193d18b0c9fd8d7b92b73f728f23737`
 
+
+
+### Markdown parsing fix for responsive grid pages
+
+- User screenshots showed both `/general-rules/` and `/stats/` rendering Markdown syntax literally after their responsive grid redesigns.
+- Root cause: inner columns/cards had `markdown="1"`, but the **outer grid wrappers** did not. With MkDocs/Python-Markdown `md_in_html`, the outer HTML container must also opt into Markdown parsing for nested Markdown content to render correctly.
+- Added `markdown="1"` to:
+  - `.tec-general-rules-grid`
+  - `.tec-stat-grid`
+  - `.tec-stats-reference-grid`
+- General Rules fix commit: `04f5bd20d675fb8c88ac491b69d98609b7ed0073`
+- Stats fix commit: `6a72ddf5499b8f505635cd375afb59a2e5fa8faa`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
