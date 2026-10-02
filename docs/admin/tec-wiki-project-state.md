@@ -438,6 +438,20 @@ User-reported issues and fixes on 2026-10-01:
 - Styling commit: `4be999d174b779f65627b45395bd61b1bef81f92`
 - Remaining restoration work: identify which migrated pages were actual children of the old Wikidot `announcements` page and add `parent: announcements` to those files. Do not guess this relationship.
 
+
+
+### General Rules two-column layout restoration
+
+- User reported that `/general-rules/` lost the two-column layout from the old Wikidot page.
+- Restored the page as a responsive two-column grid:
+  - left column: **The Eternal City Rules and Policies**
+  - right column: **Contacting the GM Staff**, **Contacting an SG**, **Contacting an Auxilii**, and **Contacting ThreeSeas LLC**
+- Columns collapse to a single column below 62rem for tablet/mobile usability.
+- Added a subtle divider and stronger section styling to the contact column.
+- Removed stray `Test Text` left at the bottom of the page.
+- Page commit: `2b81fd5a7b7d7398dafd4d9f2577267b5c686786`
+- CSS commit: `4bb47246530794576b16974201020d1e30dfc773`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
