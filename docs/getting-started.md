@@ -7,7 +7,7 @@ category: "Guides & Commands"
 
 
  
-<iframe width="444" height="240" src="https://www.youtube.com/embed/z2WpvB8jFUk?start=87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="tec-video" src="https://www.youtube.com/embed/z2WpvB8jFUk?start=87" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 

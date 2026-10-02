@@ -1158,15 +1158,30 @@ html, body {
 }
 
 
-/* Responsive embedded videos migrated from Wikidot. */
+/* Responsive embedded videos migrated from Wikidot: floated right with the
+   text beside them, as on the old wiki; full width on narrow screens. */
 .md-typeset .tec-video {
   display: block;
+  float: right;
   width: min(100%, 444px);
   max-width: 100%;
   aspect-ratio: 444 / 240;
   height: auto;
-  margin: .4rem 0 1rem auto;
+  margin: .2rem 0 1rem 1.2rem;
   border: 0;
+}
+
+.md-typeset .tec-video ~ .md-typeset__scrollwrap,
+.md-typeset .tec-video ~ .tec-table-scroll,
+.md-typeset .tec-video ~ .tec-tabs {
+  clear: right;
+}
+
+@media screen and (max-width: 59.984375em) {
+  .md-typeset .tec-video {
+    float: none;
+    margin: .4rem auto 1rem;
+  }
 }
 
 

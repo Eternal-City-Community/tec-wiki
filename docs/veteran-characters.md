@@ -6,7 +6,7 @@ category: "Reference"
 # Veteran Characters {#Top}
 
  
-<iframe class="tec-video" width="444" height="240" src="https://www.youtube.com/embed/Mr4O37X1QpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="tec-video" src="https://www.youtube.com/embed/Mr4O37X1QpU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 

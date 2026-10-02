@@ -9,7 +9,7 @@ category: "Skills & Combat"
 
 
  
-<iframe width="444" height="240" src="https://www.youtube.com/embed/jL9mpqLvv7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="tec-video" src="https://www.youtube.com/embed/jL9mpqLvv7o" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
 
