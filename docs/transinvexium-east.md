@@ -1,6 +1,7 @@
 ---
 title: "Transinvexium East"
 category: "Reference"
+parent: iridine
 ---
 
 # Transinvexium East

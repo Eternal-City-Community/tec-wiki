@@ -1,6 +1,7 @@
 ---
 title: "Bio Sheesh"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sheesh

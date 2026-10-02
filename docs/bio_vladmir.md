@@ -1,6 +1,7 @@
 ---
 title: "Bio Vladmir"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Vladmir

@@ -1,6 +1,7 @@
 ---
 title: "Bio Dyre"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dyre

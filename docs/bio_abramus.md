@@ -1,6 +1,7 @@
 ---
 title: "Bio Abramus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Abramus

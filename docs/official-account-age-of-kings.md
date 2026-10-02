@@ -1,6 +1,7 @@
 ---
 title: "Official Account Age Of Kings"
 category: "Guides & Commands"
+parent: library-archive
 ---
 
 # Official Account Age Of Kings

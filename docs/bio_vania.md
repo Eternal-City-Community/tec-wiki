@@ -1,6 +1,7 @@
 ---
 title: "Bio Vania"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Vania

@@ -1,6 +1,7 @@
 ---
 title: "Divortium Auxilii"
 category: "Reference"
+parent: orgs
 ---
 
 # Divortium Auxilii

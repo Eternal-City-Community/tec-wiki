@@ -1,6 +1,7 @@
 ---
 title: "Bio Ielios Pardelian"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ielios Pardelian

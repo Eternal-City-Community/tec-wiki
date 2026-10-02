@@ -1,6 +1,7 @@
 ---
 title: "Bio Mirage"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Mirage

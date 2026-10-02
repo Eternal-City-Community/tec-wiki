@@ -1,6 +1,7 @@
 ---
 title: "Bio Malik"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Malik

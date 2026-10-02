@@ -1,6 +1,7 @@
 ---
 title: "Monlon Volunteer Guard"
 category: "World & Maps"
+parent: orgs
 ---
 
 # Monlon Volunteer Guard

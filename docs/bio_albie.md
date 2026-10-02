@@ -1,6 +1,7 @@
 ---
 title: "Bio Albie"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Albie

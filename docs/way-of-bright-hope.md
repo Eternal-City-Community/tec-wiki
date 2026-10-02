@@ -1,6 +1,7 @@
 ---
 title: "Way Of Bright Hope"
 category: "Reference"
+parent: library-archive
 ---
 
 # Way Of Bright Hope

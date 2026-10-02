@@ -1,6 +1,7 @@
 ---
 title: "Bio Jorale"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jorale

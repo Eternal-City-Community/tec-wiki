@@ -1,6 +1,7 @@
 ---
 title: "Bio Soren"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Soren

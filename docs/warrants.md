@@ -1,6 +1,7 @@
 ---
 title: "Warrants"
 category: "Reference"
+parent: law
 ---
 
 # Warrants

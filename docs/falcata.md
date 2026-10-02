@@ -1,6 +1,7 @@
 ---
 title: "Falcata"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Falcata

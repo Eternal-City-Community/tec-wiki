@@ -1,6 +1,7 @@
 ---
 title: "Bio Riplius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Riplius

@@ -1,6 +1,7 @@
 ---
 title: "Bio Tarravus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Tarravus

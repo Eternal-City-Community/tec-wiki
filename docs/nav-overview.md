@@ -1,6 +1,7 @@
 ---
 title: "Nav Overview"
 category: "Reference"
+parent: index
 ---
 
 # Nav Overview

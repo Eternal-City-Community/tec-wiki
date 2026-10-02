@@ -1,6 +1,7 @@
 ---
 title: "Bio Hurnit"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Hurnit

@@ -1,6 +1,7 @@
 ---
 title: "One Handed Axes"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # One Handed Axes

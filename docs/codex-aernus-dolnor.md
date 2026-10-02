@@ -1,6 +1,7 @@
 ---
 title: "Codex Aernus Dolnor"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Aernus Dolnor

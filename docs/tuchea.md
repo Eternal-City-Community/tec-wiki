@@ -1,6 +1,7 @@
 ---
 title: "Tuchea"
 category: "Reference"
+parent: game-world
 ---
 
 # Tuchea

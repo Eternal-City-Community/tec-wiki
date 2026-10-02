@@ -1,6 +1,7 @@
 ---
 title: "In Game News"
 category: "Reference"
+parent: index
 ---
 
 # In Game News

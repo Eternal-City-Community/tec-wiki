@@ -1,6 +1,7 @@
 ---
 title: "TEC Related Sites"
 category: "Reference"
+parent: index
 ---
 
 # TEC Related Sites

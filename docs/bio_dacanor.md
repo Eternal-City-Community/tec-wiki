@@ -1,6 +1,7 @@
 ---
 title: "Bio Dacanor"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dacanor

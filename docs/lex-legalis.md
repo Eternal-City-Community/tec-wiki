@@ -1,6 +1,7 @@
 ---
 title: "Lex Legalis"
 category: "Reference"
+parent: orgs
 ---
 
 # Lex Legalis

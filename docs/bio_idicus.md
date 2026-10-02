@@ -1,6 +1,7 @@
 ---
 title: "Bio Idicus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Idicus

@@ -1,6 +1,7 @@
 ---
 title: "The Rescue Of Tyrlindax"
 category: "Reference"
+parent: player-stories
 ---
 
 # The Rescue Of Tyrlindax

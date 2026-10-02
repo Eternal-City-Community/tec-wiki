@@ -1,6 +1,7 @@
 ---
 title: "Codex Elsana Guide"
 category: "Guides & Commands"
+parent: library-archive
 ---
 
 # Codex Elsana Guide

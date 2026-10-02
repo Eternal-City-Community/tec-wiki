@@ -1,6 +1,7 @@
 ---
 title: "Tailoring"
 category: "Crafting & Trade"
+parent: skills
 ---
 
 # Tailoring

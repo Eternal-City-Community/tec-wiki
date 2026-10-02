@@ -1,6 +1,7 @@
 ---
 title: "Bio Cladius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Cladius

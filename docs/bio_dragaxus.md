@@ -1,6 +1,7 @@
 ---
 title: "Bio Dragaxus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dragaxus

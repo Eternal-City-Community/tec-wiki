@@ -1,6 +1,7 @@
 ---
 title: "Bio Amose"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Amose

@@ -1,6 +1,7 @@
 ---
 title: "Hg Bandit Forest"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Bandit Forest

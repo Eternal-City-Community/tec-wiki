@@ -1,6 +1,7 @@
 ---
 title: "Bio Illyana"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Illyana

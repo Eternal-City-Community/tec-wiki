@@ -1,6 +1,7 @@
 ---
 title: "Bio Alexandra"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Alexandra

@@ -1,6 +1,7 @@
 ---
 title: "Bio Lindsi"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lindsi

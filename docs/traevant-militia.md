@@ -1,6 +1,7 @@
 ---
 title: "Traevant Militia"
 category: "Reference"
+parent: orgs
 ---
 
 # Traevant Militia

@@ -1,6 +1,7 @@
 ---
 title: "Scroll How Do I Name Stupid"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll How Do I Name Stupid

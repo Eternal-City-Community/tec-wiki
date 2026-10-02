@@ -1,6 +1,7 @@
 ---
 title: "RP Expenditure"
 category: "Reference"
+parent: account
 ---
 
 # RP Expenditure

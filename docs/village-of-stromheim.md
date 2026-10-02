@@ -1,6 +1,7 @@
 ---
 title: "Village Of Stromheim"
 category: "World & Maps"
+parent: rock-valley-region
 ---
 
 # Village Of Stromheim

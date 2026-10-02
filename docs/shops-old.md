@@ -1,6 +1,7 @@
 ---
 title: "Shops Old"
 category: "Items & Economy"
+parent: game-world
 ---
 
 # Shops Old

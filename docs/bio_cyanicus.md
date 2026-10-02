@@ -1,6 +1,7 @@
 ---
 title: "Bio Cyanicus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Cyanicus

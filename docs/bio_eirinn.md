@@ -1,6 +1,7 @@
 ---
 title: "Bio Eirinn"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Eirinn

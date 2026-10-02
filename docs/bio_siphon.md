@@ -1,6 +1,7 @@
 ---
 title: "Bio Siphon"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Siphon

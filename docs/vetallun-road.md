@@ -1,6 +1,7 @@
 ---
 title: "Vetallun Road"
 category: "World & Maps"
+parent: iridine
 ---
 
 # Vetallun Road

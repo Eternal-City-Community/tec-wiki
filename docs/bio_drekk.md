@@ -1,6 +1,7 @@
 ---
 title: "Bio Drekk"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Drekk

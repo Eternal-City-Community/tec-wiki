@@ -1,6 +1,7 @@
 ---
 title: "Falx Guide"
 category: "Skills & Combat"
+parent: falx
 ---
 
 # Falx Guide

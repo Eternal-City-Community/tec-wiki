@@ -1,6 +1,7 @@
 ---
 title: "Bio Jageris"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jageris

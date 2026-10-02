@@ -1,6 +1,7 @@
 ---
 title: "Aestivan Culture"
 category: "Lore & Community"
+parent: aestivan-league
 ---
 
 # Aestivan Culture

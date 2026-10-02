@@ -1,6 +1,7 @@
 ---
 title: "Bio Amarad"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Amarad

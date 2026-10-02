@@ -1,6 +1,7 @@
 ---
 title: "Lighthouse"
 category: "Reference"
+parent: city-of-iridine
 ---
 
 # Lighthouse

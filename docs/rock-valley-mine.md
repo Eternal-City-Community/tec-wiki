@@ -1,6 +1,7 @@
 ---
 title: "Rock Valley Mine"
 category: "World & Maps"
+parent: rock-valley
 ---
 
 # Rock Valley Mine

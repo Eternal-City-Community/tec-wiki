@@ -1,6 +1,7 @@
 ---
 title: "Codex Peitho Prayers And Devotions"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Peitho Prayers And Devotions

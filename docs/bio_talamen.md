@@ -1,6 +1,7 @@
 ---
 title: "Bio Talamen"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Talamen

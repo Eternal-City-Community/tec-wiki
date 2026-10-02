@@ -1,6 +1,7 @@
 ---
 title: "Falcata Guide"
 category: "Skills & Combat"
+parent: falcata
 ---
 
 # Falcata Guide

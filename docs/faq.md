@@ -1,6 +1,7 @@
 ---
 title: FAQ
 category: Wiki & Help
+parent: index
 ---
 # FAQ
 

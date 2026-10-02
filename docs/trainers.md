@@ -1,6 +1,7 @@
 ---
 title: "Trainers"
 category: "Reference"
+parent: services
 ---
 
 # Trainers

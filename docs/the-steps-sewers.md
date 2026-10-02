@@ -1,6 +1,7 @@
 ---
 title: "The Steps Sewers"
 category: "World & Maps"
+parent: the-steps
 ---
 
 # The Steps Sewers

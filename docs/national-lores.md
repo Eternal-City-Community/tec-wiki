@@ -1,6 +1,7 @@
 ---
 title: "National Lores"
 category: "Reference"
+parent: character-generator
 ---
 
 # National Lores

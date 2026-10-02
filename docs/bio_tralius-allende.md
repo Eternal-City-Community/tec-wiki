@@ -1,6 +1,7 @@
 ---
 title: "Bio Tralius Allende"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Tralius Allende

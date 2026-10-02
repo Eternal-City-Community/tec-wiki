@@ -1,6 +1,7 @@
 ---
 title: "Law"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Law

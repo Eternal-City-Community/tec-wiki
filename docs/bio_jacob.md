@@ -1,6 +1,7 @@
 ---
 title: "Bio Jacob"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jacob

@@ -1,6 +1,7 @@
 ---
 title: "Magic"
 category: "Reference"
+parent: skills
 ---
 
 # Magic

@@ -1,6 +1,7 @@
 ---
 title: "Monlon Kelestian Outpost"
 category: "World & Maps"
+parent: monlon-ravines
 ---
 
 # Monlon Kelestian Outpost

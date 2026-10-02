@@ -1,6 +1,7 @@
 ---
 title: "Bio Caucus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Caucus

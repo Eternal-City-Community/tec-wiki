@@ -1,6 +1,7 @@
 ---
 title: "Bio Jibbs"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jibbs

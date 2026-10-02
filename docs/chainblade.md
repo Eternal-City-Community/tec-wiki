@@ -1,6 +1,7 @@
 ---
 title: "Chainblade"
 category: "Reference"
+parent: skills
 ---
 
 # Chainblade

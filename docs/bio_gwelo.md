@@ -1,6 +1,7 @@
 ---
 title: "Bio Gwelo"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Gwelo

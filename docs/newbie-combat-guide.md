@@ -1,6 +1,7 @@
 ---
 title: "Newbie Combat Guide"
 category: "Skills & Combat"
+parent: guides
 ---
 
 # Newbie Combat Guide

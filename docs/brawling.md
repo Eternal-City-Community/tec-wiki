@@ -1,6 +1,7 @@
 ---
 title: "Brawling"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Brawling

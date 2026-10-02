@@ -1,6 +1,7 @@
 ---
 title: "Bio Serasia"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Serasia

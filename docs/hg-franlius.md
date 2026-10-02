@@ -1,6 +1,7 @@
 ---
 title: "Hg Franlius"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Franlius

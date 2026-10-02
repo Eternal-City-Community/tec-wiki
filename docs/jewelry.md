@@ -1,6 +1,7 @@
 ---
 title: "Jewelry"
 category: "Crafting & Trade"
+parent: skills
 ---
 
 # Jewelry

@@ -1,6 +1,7 @@
 ---
 title: "Bio Mishka"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Mishka

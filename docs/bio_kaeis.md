@@ -1,6 +1,7 @@
 ---
 title: "Bio Kaeis"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kaeis

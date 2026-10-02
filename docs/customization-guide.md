@@ -1,6 +1,7 @@
 ---
 title: "Customization Guide"
 category: "Guides & Commands"
+parent: rp-expenditure
 ---
 
 # Customization Guide

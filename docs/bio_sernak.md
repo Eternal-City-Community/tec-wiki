@@ -1,6 +1,7 @@
 ---
 title: "Bio Sernak"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sernak

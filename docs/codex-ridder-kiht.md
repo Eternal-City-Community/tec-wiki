@@ -1,6 +1,7 @@
 ---
 title: "Codex Ridder Kiht"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Ridder Kiht

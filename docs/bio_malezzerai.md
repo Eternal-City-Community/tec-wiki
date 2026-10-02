@@ -1,6 +1,7 @@
 ---
 title: "Bio Malezzerai"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Malezzerai

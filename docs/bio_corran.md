@@ -1,6 +1,7 @@
 ---
 title: "Bio Corran"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Corran

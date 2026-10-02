@@ -1,6 +1,7 @@
 ---
 title: "Bio Chitsa"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Chitsa

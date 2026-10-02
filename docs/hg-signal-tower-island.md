@@ -1,6 +1,7 @@
 ---
 title: "Hg Signal Tower Island"
 category: "World & Maps"
+parent: iridine
 ---
 
 # Hg Signal Tower Island

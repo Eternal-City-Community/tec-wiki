@@ -1,6 +1,7 @@
 ---
 title: "Bio Sefrit"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sefrit

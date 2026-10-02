@@ -1,6 +1,7 @@
 ---
 title: "Knives"
 category: "Reference"
+parent: skills
 ---
 
 # Knives

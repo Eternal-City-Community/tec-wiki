@@ -1,6 +1,7 @@
 ---
 title: "Bio Exacuter"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Exacuter

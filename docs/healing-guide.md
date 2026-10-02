@@ -1,6 +1,7 @@
 ---
 title: "Healing Guide"
 category: "Guides & Commands"
+parent: healing
 ---
 
 # Healing Guide

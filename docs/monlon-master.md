@@ -1,6 +1,7 @@
 ---
 title: "Monlon Master"
 category: "World & Maps"
+parent: maps
 ---
 
 # Monlon Master

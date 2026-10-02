@@ -1,6 +1,7 @@
 ---
 title: "Stats"
 category: "Reference"
+parent: character-generator
 ---
 
 # Stats {#Top}

@@ -1,6 +1,7 @@
 ---
 title: "The Soldiers Of Ereal Return"
 category: "Reference"
+parent: player-stories
 ---
 
 # The Soldiers Of Ereal Return

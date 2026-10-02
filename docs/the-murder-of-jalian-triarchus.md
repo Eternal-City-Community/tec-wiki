@@ -1,6 +1,7 @@
 ---
 title: "The Murder Of Jalian Triarchus"
 category: "Reference"
+parent: player-stories
 ---
 
 # The Murder Of Jalian Triarchus

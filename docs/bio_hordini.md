@@ -1,6 +1,7 @@
 ---
 title: "Bio Hordini"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Hordini

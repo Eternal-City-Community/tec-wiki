@@ -1,6 +1,7 @@
 ---
 title: "Bio Ruttiger"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ruttiger

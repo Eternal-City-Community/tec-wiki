@@ -1,6 +1,7 @@
 ---
 title: "Praetor Scripts"
 category: "Reference"
+parent: praetor
 ---
 
 # Praetor Scripts

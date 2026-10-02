@@ -1,6 +1,7 @@
 ---
 title: Shops
 category: Items & Economy
+parent: game-world
 ---
 # Shops
 

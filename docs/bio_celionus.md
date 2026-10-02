@@ -1,6 +1,7 @@
 ---
 title: "Bio Celionus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Celionus

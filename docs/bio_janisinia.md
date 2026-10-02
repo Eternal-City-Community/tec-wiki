@@ -1,6 +1,7 @@
 ---
 title: "Bio Janisinia"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Janisinia

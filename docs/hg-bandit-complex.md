@@ -1,6 +1,7 @@
 ---
 title: "Hg Bandit Complex"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Bandit Complex

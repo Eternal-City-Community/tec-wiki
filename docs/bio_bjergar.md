@@ -1,6 +1,7 @@
 ---
 title: "Bio Bjergar"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Bjergar

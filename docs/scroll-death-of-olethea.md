@@ -1,6 +1,7 @@
 ---
 title: "Scroll Death Of Olethea"
 category: "Reference"
+parent: player-stories
 ---
 
 # Scroll Death Of Olethea

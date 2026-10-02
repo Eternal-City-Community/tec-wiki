@@ -1,6 +1,7 @@
 ---
 title: "Fehcratos"
 category: "Reference"
+parent: game-world
 ---
 
 # Fehcratos

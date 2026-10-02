@@ -1,6 +1,7 @@
 ---
 title: "Outdoor Survival"
 category: "Reference"
+parent: skills
 ---
 
 # Outdoor Survival

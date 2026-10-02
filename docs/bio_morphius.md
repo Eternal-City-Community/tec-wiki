@@ -1,6 +1,7 @@
 ---
 title: "Bio Morphius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Morphius

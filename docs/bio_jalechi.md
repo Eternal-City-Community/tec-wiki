@@ -1,6 +1,7 @@
 ---
 title: "Bio Jalechi"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jalechi

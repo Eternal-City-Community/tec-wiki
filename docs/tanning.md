@@ -1,6 +1,7 @@
 ---
 title: "Tanning"
 category: "Reference"
+parent: skills
 ---
 
 # Tanning

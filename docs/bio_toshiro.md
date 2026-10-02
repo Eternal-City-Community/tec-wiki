@@ -1,6 +1,7 @@
 ---
 title: "Bio Toshiro"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Toshiro

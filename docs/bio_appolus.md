@@ -1,6 +1,7 @@
 ---
 title: "Bio Appolus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Appolus

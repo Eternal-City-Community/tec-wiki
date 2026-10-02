@@ -1,6 +1,7 @@
 ---
 title: "Bio Willace"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Willace

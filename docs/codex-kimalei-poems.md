@@ -1,6 +1,7 @@
 ---
 title: "Codex Kimalei Poems"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Kimalei Poems

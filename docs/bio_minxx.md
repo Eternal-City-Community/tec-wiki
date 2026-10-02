@@ -1,6 +1,7 @@
 ---
 title: "Bio Minxx"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Minxx

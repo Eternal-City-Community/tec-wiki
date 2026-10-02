@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 category: "Guides & Commands"
+parent: index
 ---
 
 # Getting Started

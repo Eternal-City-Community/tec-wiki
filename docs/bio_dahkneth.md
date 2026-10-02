@@ -1,6 +1,7 @@
 ---
 title: "Bio Dahkneth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dahkneth

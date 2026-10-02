@@ -1,6 +1,7 @@
 ---
 title: "Combat Maneuvers"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Combat Maneuvers

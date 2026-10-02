@@ -1,6 +1,7 @@
 ---
 title: "Bio Marucs"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Marucs

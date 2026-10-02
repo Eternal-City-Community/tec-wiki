@@ -1,6 +1,7 @@
 ---
 title: "Bio Solberg"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Solberg

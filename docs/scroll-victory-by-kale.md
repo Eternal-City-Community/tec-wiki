@@ -1,6 +1,7 @@
 ---
 title: "Scroll Victory By Kale"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Victory By Kale

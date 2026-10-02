@@ -1,6 +1,7 @@
 ---
 title: "Signal Tower Island"
 category: "World & Maps"
+parent: iridine
 ---
 
 # Signal Tower Island

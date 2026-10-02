@@ -1,6 +1,7 @@
 ---
 title: "Bio Valstaron Martius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Valstaron Martius

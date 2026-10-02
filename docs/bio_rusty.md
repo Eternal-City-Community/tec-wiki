@@ -1,6 +1,7 @@
 ---
 title: "Bio Rusty"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Rusty

@@ -1,6 +1,7 @@
 ---
 title: "Bio Bobith"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Bobith

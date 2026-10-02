@@ -1,6 +1,7 @@
 ---
 title: "Events"
 category: "Reference"
+parent: index
 ---
 
 # Events

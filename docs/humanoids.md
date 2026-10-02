@@ -1,6 +1,7 @@
 ---
 title: "Humanoids"
 category: "Reference"
+parent: enemy-guide
 ---
 
 # Humanoids

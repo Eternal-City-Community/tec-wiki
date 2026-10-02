@@ -1,6 +1,7 @@
 ---
 title: "Steps Ludus Quintus"
 category: "World & Maps"
+parent: the-steps-north
 ---
 
 # Steps Ludus Quintus

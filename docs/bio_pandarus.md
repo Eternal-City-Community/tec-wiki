@@ -1,6 +1,7 @@
 ---
 title: "Bio Pandarus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Pandarus

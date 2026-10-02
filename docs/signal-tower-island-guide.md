@@ -1,6 +1,7 @@
 ---
 title: "Signal Tower Island Guide"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Signal Tower Island Guide

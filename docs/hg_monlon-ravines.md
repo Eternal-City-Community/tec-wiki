@@ -1,6 +1,7 @@
 ---
 title: "Hg Monlon Ravines"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Monlon Ravines

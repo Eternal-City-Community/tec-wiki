@@ -1,6 +1,7 @@
 ---
 title: "Nelsor Guide"
 category: "Guides & Commands"
+parent: nelsor-one-handed-swords
 ---
 
 # Nelsor Guide

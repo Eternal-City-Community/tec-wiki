@@ -1,6 +1,7 @@
 ---
 title: "Codex Lupatrus"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Lupatrus

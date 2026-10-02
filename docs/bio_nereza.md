@@ -1,6 +1,7 @@
 ---
 title: "Bio Nereza"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Nereza

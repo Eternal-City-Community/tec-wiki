@@ -1,6 +1,7 @@
 ---
 title: "Aestivan League"
 category: "Reference"
+parent: game-world
 ---
 
 # Aestivan League

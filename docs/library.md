@@ -1,6 +1,7 @@
 ---
 title: "Library"
 category: "Reference"
+parent: game-world
 ---
 
 # Library

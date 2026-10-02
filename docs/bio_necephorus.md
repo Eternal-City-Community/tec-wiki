@@ -1,6 +1,7 @@
 ---
 title: "Bio Necephorus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Necephorus

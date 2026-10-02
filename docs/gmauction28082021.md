@@ -1,6 +1,7 @@
 ---
 title: "Gmauction28082021"
 category: "Reference"
+parent: events
 ---
 
 # Gmauction28082021

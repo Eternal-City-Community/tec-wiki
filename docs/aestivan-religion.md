@@ -1,6 +1,7 @@
 ---
 title: "Aestivan Religion"
 category: "Lore & Community"
+parent: aestivan-league
 ---
 
 # Aestivan Religion

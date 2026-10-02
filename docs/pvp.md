@@ -1,6 +1,7 @@
 ---
 title: "Pvp"
 category: "Reference"
+parent: combat
 ---
 
 # Pvp

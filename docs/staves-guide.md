@@ -1,6 +1,7 @@
 ---
 title: "Staves Guide"
 category: "Guides & Commands"
+parent: staves
 ---
 
 # Staves Guide

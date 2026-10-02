@@ -1,6 +1,7 @@
 ---
 title: "Bio Spurius Ravilla"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Spurius Ravilla

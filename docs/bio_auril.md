@@ -1,6 +1,7 @@
 ---
 title: "Bio Auril"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Auril

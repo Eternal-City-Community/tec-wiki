@@ -1,6 +1,7 @@
 ---
 title: "Newsforum 20010624news3"
 category: "World & Maps"
+parent: forum-news
 ---
 
 # Newsforum 20010624news3

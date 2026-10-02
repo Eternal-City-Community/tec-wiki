@@ -1,6 +1,7 @@
 ---
 title: "Bio Rockerus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Rockerus

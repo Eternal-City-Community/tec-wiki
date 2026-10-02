@@ -1,6 +1,7 @@
 ---
 title: "Burnt Villa"
 category: "World & Maps"
+parent: the-west-grasslands
 ---
 
 # Burnt Villa

@@ -1,6 +1,7 @@
 ---
 title: "Hg Vetallun Apple Orchard"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Vetallun Apple Orchard

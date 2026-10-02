@@ -1,6 +1,7 @@
 ---
 title: "Bio Sestus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sestus

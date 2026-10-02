@@ -1,6 +1,7 @@
 ---
 title: "Patricians"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Patricians

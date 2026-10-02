@@ -1,6 +1,7 @@
 ---
 title: "Bio Ilaxandus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ilaxandus

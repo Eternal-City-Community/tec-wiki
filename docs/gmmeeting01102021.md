@@ -1,6 +1,7 @@
 ---
 title: "Gmmeeting01102021"
 category: "Reference"
+parent: announcements
 ---
 
 # Gmmeeting01102021

@@ -1,6 +1,7 @@
 ---
 title: "Bio Lana"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lana

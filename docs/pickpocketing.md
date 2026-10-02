@@ -1,6 +1,7 @@
 ---
 title: "Pickpocketing"
 category: "Reference"
+parent: skills
 ---
 
 # Pickpocketing

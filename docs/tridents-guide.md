@@ -1,6 +1,7 @@
 ---
 title: "Tridents Guide"
 category: "Skills & Combat"
+parent: tridents
 ---
 
 # Tridents Guide

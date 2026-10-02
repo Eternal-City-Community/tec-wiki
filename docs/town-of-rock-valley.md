@@ -1,6 +1,7 @@
 ---
 title: "Town Of Rock Valley"
 category: "World & Maps"
+parent: rock-valley-region
 ---
 
 # Town Of Rock Valley

@@ -1,6 +1,7 @@
 ---
 title: "Shipwreck"
 category: "Reference"
+parent: iridine
 ---
 
 # Shipwreck

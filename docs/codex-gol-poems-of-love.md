@@ -1,6 +1,7 @@
 ---
 title: "Codex Gol Poems Of Love"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Gol Poems Of Love

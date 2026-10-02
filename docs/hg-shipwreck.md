@@ -1,6 +1,7 @@
 ---
 title: "Hg Shipwreck"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Shipwreck

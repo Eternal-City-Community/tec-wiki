@@ -1,6 +1,7 @@
 ---
 title: "Soldiers Of Ereal"
 category: "Reference"
+parent: orgs
 ---
 
 # Soldiers Of Ereal

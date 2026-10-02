@@ -1,6 +1,7 @@
 ---
 title: "Locksmithing Guide"
 category: "Crafting & Trade"
+parent: locksmithing
 ---
 
 # Locksmithing Guide

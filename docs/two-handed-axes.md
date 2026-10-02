@@ -1,6 +1,7 @@
 ---
 title: "Two Handed Axes"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Two Handed Axes

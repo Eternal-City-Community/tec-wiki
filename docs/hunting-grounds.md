@@ -1,6 +1,7 @@
 ---
 title: "Hunting Grounds"
 category: "Skills & Combat"
+parent: combat
 ---
 
 # Hunting Grounds

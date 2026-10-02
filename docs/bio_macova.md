@@ -1,6 +1,7 @@
 ---
 title: "Bio Macova"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Macova

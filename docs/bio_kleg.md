@@ -1,6 +1,7 @@
 ---
 title: "Bio Kleg"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kleg

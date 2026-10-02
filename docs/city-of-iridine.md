@@ -1,6 +1,7 @@
 ---
 title: "City Of Iridine"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # City Of Iridine

@@ -1,6 +1,7 @@
 ---
 title: "Bio Mussel"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Mussel

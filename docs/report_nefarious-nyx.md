@@ -1,6 +1,7 @@
 ---
 title: "Report Nefarious Nyx"
 category: "Reference"
+parent: legio
 ---
 
 # Report Nefarious Nyx

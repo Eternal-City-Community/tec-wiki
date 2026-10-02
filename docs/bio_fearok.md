@@ -1,6 +1,7 @@
 ---
 title: "Bio Fearok"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fearok

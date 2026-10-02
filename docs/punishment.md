@@ -1,6 +1,7 @@
 ---
 title: "Punishment"
 category: "Reference"
+parent: law
 ---
 
 # Punishment

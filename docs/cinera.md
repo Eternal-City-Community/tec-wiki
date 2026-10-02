@@ -1,6 +1,7 @@
 ---
 title: "Cinera"
 category: "Reference"
+parent: game-world
 ---
 
 # Cinera

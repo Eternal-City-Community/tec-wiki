@@ -1,6 +1,7 @@
 ---
 title: "Weapons"
 category: "Skills & Combat"
+parent: game-world
 ---
 
 # Weapons

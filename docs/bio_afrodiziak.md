@@ -1,6 +1,7 @@
 ---
 title: "Bio Afrodiziak"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Afrodiziak

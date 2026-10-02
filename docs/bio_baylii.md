@@ -1,6 +1,7 @@
 ---
 title: "Bio Baylii"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Baylii

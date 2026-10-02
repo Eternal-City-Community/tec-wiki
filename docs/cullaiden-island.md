@@ -1,6 +1,7 @@
 ---
 title: "Cullaiden Island"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # Cullaiden Island

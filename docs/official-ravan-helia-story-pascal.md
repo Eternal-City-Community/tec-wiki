@@ -1,6 +1,7 @@
 ---
 title: "Official Ravan Helia Story Pascal"
 category: "Reference"
+parent: library-archive
 ---
 
 # Official Ravan Helia Story Pascal

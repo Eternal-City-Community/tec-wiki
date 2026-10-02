@@ -1,6 +1,7 @@
 ---
 title: "Bio Murat"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Murat

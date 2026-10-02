@@ -1,6 +1,7 @@
 ---
 title: "Bio Elrik"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Elrik

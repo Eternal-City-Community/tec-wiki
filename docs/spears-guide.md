@@ -1,6 +1,7 @@
 ---
 title: "Spears Guide"
 category: "Skills & Combat"
+parent: spears
 ---
 
 # Spears Guide

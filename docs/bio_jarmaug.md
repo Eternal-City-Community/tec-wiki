@@ -1,6 +1,7 @@
 ---
 title: "Bio Jarmaug"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jarmaug

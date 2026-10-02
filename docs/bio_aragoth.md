@@ -1,6 +1,7 @@
 ---
 title: "Bio Aragoth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Aragoth

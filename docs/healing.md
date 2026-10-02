@@ -1,6 +1,7 @@
 ---
 title: "Healing"
 category: "Reference"
+parent: skills
 ---
 
 # Healing

@@ -1,6 +1,7 @@
 ---
 title: "Census And Citizenship"
 category: "Reference"
+parent: law
 ---
 
 # Census And Citizenship

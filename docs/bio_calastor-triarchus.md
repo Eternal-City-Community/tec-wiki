@@ -1,6 +1,7 @@
 ---
 title: "Bio Calastor Triarchus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Calastor Triarchus

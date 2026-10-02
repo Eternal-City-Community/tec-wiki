@@ -1,6 +1,7 @@
 ---
 title: "Containers"
 category: "Reference"
+parent: game-world
 ---
 
 # Containers

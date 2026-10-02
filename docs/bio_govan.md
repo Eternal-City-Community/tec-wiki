@@ -1,6 +1,7 @@
 ---
 title: "Bio Govan"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Govan

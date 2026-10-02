@@ -1,6 +1,7 @@
 ---
 title: "Game World"
 category: "Reference"
+parent: index
 ---
 
 # Game World

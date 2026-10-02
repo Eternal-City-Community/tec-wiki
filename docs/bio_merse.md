@@ -1,6 +1,7 @@
 ---
 title: "Bio Merse"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Merse

@@ -1,6 +1,7 @@
 ---
 title: "Bio Ronnie"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ronnie

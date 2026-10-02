@@ -1,6 +1,7 @@
 ---
 title: "Bio Amarian"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Amarian

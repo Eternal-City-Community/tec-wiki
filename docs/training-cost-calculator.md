@@ -1,6 +1,7 @@
 ---
 title: "Training Cost Calculator"
 category: "Reference"
+parent: skills
 ---
 
 # Training Cost Calculator

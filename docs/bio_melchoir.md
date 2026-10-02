@@ -1,6 +1,7 @@
 ---
 title: "Bio Melchoir"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Melchoir

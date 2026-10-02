@@ -1,6 +1,7 @@
 ---
 title: "City Of Monlon"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # City Of Monlon

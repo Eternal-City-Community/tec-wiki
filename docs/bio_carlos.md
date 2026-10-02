@@ -1,6 +1,7 @@
 ---
 title: "Bio Carlos"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Carlos

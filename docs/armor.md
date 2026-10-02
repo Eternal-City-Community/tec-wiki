@@ -1,6 +1,7 @@
 ---
 title: "Armor"
 category: "Skills & Combat"
+parent: combat
 ---
 
 # Armor

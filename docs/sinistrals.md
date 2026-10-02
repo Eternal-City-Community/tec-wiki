@@ -1,6 +1,7 @@
 ---
 title: "Sinistrals"
 category: "Reference"
+parent: orgs
 ---
 
 # Sinistrals

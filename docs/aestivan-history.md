@@ -1,6 +1,7 @@
 ---
 title: "Aestivan History"
 category: "Lore & Community"
+parent: aestivan-league
 ---
 
 # Aestivan History

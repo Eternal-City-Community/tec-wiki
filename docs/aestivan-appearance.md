@@ -1,6 +1,7 @@
 ---
 title: "Aestivan Appearance"
 category: "Reference"
+parent: aestivan-league
 ---
 
 # Aestivan Appearance

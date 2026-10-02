@@ -1,6 +1,7 @@
 ---
 title: "Bio Amose And Sestus Fisthand"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Amose And Sestus Fisthand

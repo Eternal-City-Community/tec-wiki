@@ -1,6 +1,7 @@
 ---
 title: "Bio Tharius Allende"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Tharius Allende

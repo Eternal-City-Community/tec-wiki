@@ -1,6 +1,7 @@
 ---
 title: "Bio Kirre"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kirre

@@ -1,6 +1,7 @@
 ---
 title: "Ut Jor"
 category: "Reference"
+parent: game-world
 ---
 
 # Ut Jor

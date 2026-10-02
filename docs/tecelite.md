@@ -1,6 +1,7 @@
 ---
 title: "Tecelite"
 category: "Reference"
+parent: unofficial-game-clients
 ---
 
 # Tecelite

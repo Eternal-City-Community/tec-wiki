@@ -1,6 +1,7 @@
 ---
 title: "Methodios Callias"
 category: "Reference"
+parent: character-bios
 ---
 
 # Methodios Callias

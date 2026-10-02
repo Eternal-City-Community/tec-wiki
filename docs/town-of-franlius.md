@@ -1,6 +1,7 @@
 ---
 title: "Town Of Franlius"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # Town Of Franlius

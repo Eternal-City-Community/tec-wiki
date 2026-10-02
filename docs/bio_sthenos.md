@@ -1,6 +1,7 @@
 ---
 title: "Bio Sthenos"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sthenos

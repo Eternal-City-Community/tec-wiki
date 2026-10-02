@@ -1,6 +1,7 @@
 ---
 title: "Bio Aescapes"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Aescapes

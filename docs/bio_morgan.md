@@ -1,6 +1,7 @@
 ---
 title: "Bio Morgan"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Morgan

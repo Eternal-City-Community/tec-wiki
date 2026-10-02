@@ -1,6 +1,7 @@
 ---
 title: "Parcines"
 category: "Reference"
+parent: game-world
 ---
 
 # Parcines

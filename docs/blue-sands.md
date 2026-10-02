@@ -1,6 +1,7 @@
 ---
 title: "Blue Sands"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Blue Sands

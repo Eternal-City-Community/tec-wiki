@@ -1,6 +1,7 @@
 ---
 title: "Bio Defiance"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Defiance

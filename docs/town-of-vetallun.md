@@ -1,6 +1,7 @@
 ---
 title: "Town Of Vetallun"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # Town Of Vetallun

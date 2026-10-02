@@ -1,6 +1,7 @@
 ---
 title: "Bio Roni"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Roni

@@ -1,6 +1,7 @@
 ---
 title: "Bio Arinu"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Arinu

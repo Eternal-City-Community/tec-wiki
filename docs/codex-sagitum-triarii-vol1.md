@@ -1,6 +1,7 @@
 ---
 title: "Codex Sagitum Triarii Vol1"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Sagitum Triarii Vol1

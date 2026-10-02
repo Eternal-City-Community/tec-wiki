@@ -1,6 +1,7 @@
 ---
 title: "Shrines"
 category: "Reference"
+parent: religion
 ---
 
 # Shrines

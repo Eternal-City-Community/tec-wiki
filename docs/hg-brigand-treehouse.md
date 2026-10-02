@@ -1,6 +1,7 @@
 ---
 title: "Hg Brigand Treehouse"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Brigand Treehouse

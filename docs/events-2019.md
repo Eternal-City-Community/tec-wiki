@@ -1,6 +1,7 @@
 ---
 title: "Events 2019"
 category: "Reference"
+parent: gameworld-events
 ---
 
 # Events 2019

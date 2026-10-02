@@ -1,6 +1,7 @@
 ---
 title: "Codex Warrior Spirit"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Warrior Spirit

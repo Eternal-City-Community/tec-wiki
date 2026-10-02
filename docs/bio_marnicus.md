@@ -1,6 +1,7 @@
 ---
 title: "Bio Marnicus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Marnicus

@@ -1,6 +1,7 @@
 ---
 title: "Metals"
 category: "Crafting & Trade"
+parent: game-world
 ---
 
 # Metals

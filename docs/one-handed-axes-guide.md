@@ -1,6 +1,7 @@
 ---
 title: "One Handed Axes Guide"
 category: "Skills & Combat"
+parent: one-handed-axes
 ---
 
 # One Handed Axes Guide

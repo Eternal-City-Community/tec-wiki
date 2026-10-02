@@ -1,6 +1,7 @@
 ---
 title: "Bio Dionysus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dionysus

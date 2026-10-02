@@ -1,6 +1,7 @@
 ---
 title: "Scrolls Cair Coradon"
 category: "Reference"
+parent: cinera
 ---
 
 # Scrolls Cair Coradon

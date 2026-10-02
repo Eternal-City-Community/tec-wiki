@@ -1,6 +1,7 @@
 ---
 title: "Useful Macros For Thieves"
 category: "Reference"
+parent: pickpocketing
 ---
 
 # Useful Macros For Thieves

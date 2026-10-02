@@ -1,6 +1,7 @@
 ---
 title: "Bio Violeta"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Violeta

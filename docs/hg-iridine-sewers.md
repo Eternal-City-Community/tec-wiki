@@ -1,6 +1,7 @@
 ---
 title: "Hg Iridine Sewers"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Iridine Sewers

@@ -1,6 +1,7 @@
 ---
 title: "Codex Birthstone Meanings"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Birthstone Meanings

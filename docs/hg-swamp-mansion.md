@@ -1,6 +1,7 @@
 ---
 title: "Hg Swamp Mansion"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Swamp Mansion

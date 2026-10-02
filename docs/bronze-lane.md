@@ -1,6 +1,7 @@
 ---
 title: "Bronze Lane"
 category: "Reference"
+parent: iridine
 ---
 
 # Bronze Lane

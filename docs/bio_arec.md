@@ -1,6 +1,7 @@
 ---
 title: "Bio Arec"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Arec

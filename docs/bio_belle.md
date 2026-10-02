@@ -1,6 +1,7 @@
 ---
 title: "Bio Belle"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Belle

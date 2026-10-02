@@ -1,6 +1,7 @@
 ---
 title: "Bio Diabolus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Diabolus

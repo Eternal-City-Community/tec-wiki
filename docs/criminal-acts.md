@@ -1,6 +1,7 @@
 ---
 title: "Criminal Acts"
 category: "Reference"
+parent: law
 ---
 
 # Criminal Acts

@@ -1,6 +1,7 @@
 ---
 title: "Bio Excalibur"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Excalibur

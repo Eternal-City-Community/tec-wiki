@@ -1,6 +1,7 @@
 ---
 title: "Scroll Funeral Jalian Triarchus"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Funeral Jalian Triarchus

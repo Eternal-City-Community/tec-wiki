@@ -1,6 +1,7 @@
 ---
 title: "Bio Bacillum"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Bacillum

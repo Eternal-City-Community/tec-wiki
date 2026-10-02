@@ -1,6 +1,7 @@
 ---
 title: "Hunting"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Hunting

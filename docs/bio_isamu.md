@@ -1,6 +1,7 @@
 ---
 title: "Bio Isamu"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Isamu

@@ -1,6 +1,7 @@
 ---
 title: "Bio Kry"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kry

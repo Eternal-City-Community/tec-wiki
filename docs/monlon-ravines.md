@@ -1,6 +1,7 @@
 ---
 title: "Monlon Ravines"
 category: "World & Maps"
+parent: monlon-master
 ---
 
 # Monlon Ravines

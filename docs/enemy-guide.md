@@ -1,6 +1,7 @@
 ---
 title: "Enemy Guide"
 category: "Guides & Commands"
+parent: combat
 ---
 
 # Enemy Guide

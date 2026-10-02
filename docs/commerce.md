@@ -1,6 +1,7 @@
 ---
 title: "Commerce"
 category: "Reference"
+parent: law
 ---
 
 # Commerce

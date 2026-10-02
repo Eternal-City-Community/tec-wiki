@@ -1,6 +1,7 @@
 ---
 title: "Traits"
 category: "Reference"
+parent: character-generator
 ---
 
 # Traits

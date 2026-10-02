@@ -1,6 +1,7 @@
 ---
 title: "Kelestia"
 category: "Reference"
+parent: game-world
 ---
 
 # Kelestia

@@ -1,6 +1,7 @@
 ---
 title: "Scroll Fauna Lingkius"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Fauna Lingkius

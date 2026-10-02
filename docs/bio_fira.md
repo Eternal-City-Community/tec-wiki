@@ -1,6 +1,7 @@
 ---
 title: "Bio Fira"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fira

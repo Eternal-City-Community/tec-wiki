@@ -1,6 +1,7 @@
 ---
 title: "Bio Pompeii"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Pompeii

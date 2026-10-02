@@ -1,6 +1,7 @@
 ---
 title: "2025 Combat Revamp"
 category: "Skills & Combat"
+parent: announcements
 ---
 
 # 2025 Combat Revamp

@@ -1,6 +1,7 @@
 ---
 title: "Bio Jelkir"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jelkir

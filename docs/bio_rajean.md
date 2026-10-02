@@ -1,6 +1,7 @@
 ---
 title: "Bio Rajean"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Rajean

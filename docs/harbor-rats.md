@@ -1,6 +1,7 @@
 ---
 title: "Harbor Rats"
 category: "World & Maps"
+parent: orgs
 ---
 
 # Harbor Rats

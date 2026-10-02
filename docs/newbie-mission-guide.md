@@ -1,6 +1,7 @@
 ---
 title: "Newbie Mission Guide"
 category: "Guides & Commands"
+parent: guides
 ---
 
 # Newbie Mission Guide

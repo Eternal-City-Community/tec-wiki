@@ -1,6 +1,7 @@
 ---
 title: "Bio Co"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Co

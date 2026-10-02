@@ -1,6 +1,7 @@
 ---
 title: "Bio Siltar"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Siltar

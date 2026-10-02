@@ -1,6 +1,7 @@
 ---
 title: "Rescue Of Seredian Allende"
 category: "Reference"
+parent: history
 ---
 
 # Rescue Of Seredian Allende

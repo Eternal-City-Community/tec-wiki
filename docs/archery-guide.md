@@ -1,6 +1,7 @@
 ---
 title: "Archery Guide"
 category: "Skills & Combat"
+parent: missile-weapons-bows
 ---
 
 # Archery Guide

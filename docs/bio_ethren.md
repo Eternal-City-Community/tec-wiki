@@ -1,6 +1,7 @@
 ---
 title: "Bio Ethren"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ethren

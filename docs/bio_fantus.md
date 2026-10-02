@@ -1,6 +1,7 @@
 ---
 title: "Bio Fantus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fantus

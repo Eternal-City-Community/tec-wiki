@@ -1,6 +1,7 @@
 ---
 title: "Bio Dice"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dice

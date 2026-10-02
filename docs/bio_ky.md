@@ -1,6 +1,7 @@
 ---
 title: "Bio Ky"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ky

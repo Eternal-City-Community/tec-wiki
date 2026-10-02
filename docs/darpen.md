@@ -1,6 +1,7 @@
 ---
 title: "Darpen"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Darpen

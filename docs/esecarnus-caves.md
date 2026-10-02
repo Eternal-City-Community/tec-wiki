@@ -1,6 +1,7 @@
 ---
 title: "Esecarnus Caves"
 category: "Reference"
+parent: eastern-grasslands-and-woods
 ---
 
 # Esecarnus Caves

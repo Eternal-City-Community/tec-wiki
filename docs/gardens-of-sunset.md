@@ -1,6 +1,7 @@
 ---
 title: "Gardens Of Sunset"
 category: "Reference"
+parent: city-of-iridine
 ---
 
 # Gardens Of Sunset

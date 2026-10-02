@@ -1,6 +1,7 @@
 ---
 title: "Combat Guide"
 category: "Skills & Combat"
+parent: combat
 ---
 
 # Combat Guide

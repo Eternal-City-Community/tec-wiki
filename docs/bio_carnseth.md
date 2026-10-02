@@ -1,6 +1,7 @@
 ---
 title: "Bio Carnseth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Carnseth

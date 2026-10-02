@@ -1,6 +1,7 @@
 ---
 title: "Bio Sibyl"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sibyl

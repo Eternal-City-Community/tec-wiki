@@ -1,6 +1,7 @@
 ---
 title: "House Of Mercantile"
 category: "Reference"
+parent: city-of-iridine
 ---
 
 # House Of Mercantile

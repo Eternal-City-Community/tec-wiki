@@ -1,6 +1,7 @@
 ---
 title: "Latest Updates"
 category: "Reference"
+parent: index
 ---
 
 # Latest Updates

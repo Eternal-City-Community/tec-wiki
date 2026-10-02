@@ -1,6 +1,7 @@
 ---
 title: "Bio Umbran Arxaeth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Umbran Arxaeth

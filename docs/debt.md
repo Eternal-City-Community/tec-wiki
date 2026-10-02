@@ -1,6 +1,7 @@
 ---
 title: "Debt"
 category: "Reference"
+parent: law
 ---
 
 # Debt

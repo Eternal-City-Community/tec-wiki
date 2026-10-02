@@ -1,6 +1,7 @@
 ---
 title: "Bio Metiades"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Metiades

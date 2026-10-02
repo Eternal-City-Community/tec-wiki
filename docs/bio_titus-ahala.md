@@ -1,6 +1,7 @@
 ---
 title: "Bio Titus Ahala"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Titus Ahala

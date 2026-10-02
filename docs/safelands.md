@@ -1,6 +1,7 @@
 ---
 title: "Safelands"
 category: "Reference"
+parent: game-world
 ---
 
 # Safelands

@@ -1,6 +1,7 @@
 ---
 title: "Unofficial World Map"
 category: "World & Maps"
+parent: maps
 ---
 
 # Unofficial World Map

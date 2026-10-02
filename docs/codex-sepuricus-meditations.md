@@ -1,6 +1,7 @@
 ---
 title: "Codex Sepuricus Meditations"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Sepuricus Meditations

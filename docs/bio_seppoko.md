@@ -1,6 +1,7 @@
 ---
 title: "Bio Seppoko"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Seppoko

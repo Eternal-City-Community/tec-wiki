@@ -1,6 +1,7 @@
 ---
 title: "Bio Keylo"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Keylo

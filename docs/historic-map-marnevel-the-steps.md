@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Marnevel The Steps"
 category: "World & Maps"
+parent: historic-map-marnevel
 ---
 
 # Historic Map Marnevel The Steps

@@ -1,6 +1,7 @@
 ---
 title: "Scroll Synodia Case"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Synodia Case

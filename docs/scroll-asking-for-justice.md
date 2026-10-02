@@ -1,6 +1,7 @@
 ---
 title: "Scroll Asking For Justice"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Asking For Justice

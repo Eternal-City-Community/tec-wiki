@@ -1,6 +1,7 @@
 ---
 title: "Bio Seranthus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Seranthus

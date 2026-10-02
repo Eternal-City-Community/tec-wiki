@@ -1,6 +1,7 @@
 ---
 title: "Hg Undertown"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Undertown

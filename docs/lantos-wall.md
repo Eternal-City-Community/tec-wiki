@@ -1,6 +1,7 @@
 ---
 title: "Lantos Wall"
 category: "Reference"
+parent: city-of-iridine
 ---
 
 # Lantos Wall

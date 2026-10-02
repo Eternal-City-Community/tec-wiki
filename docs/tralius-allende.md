@@ -1,6 +1,7 @@
 ---
 title: "Tralius Allende"
 category: "Reference"
+parent: history
 ---
 
 # Tralius Allende

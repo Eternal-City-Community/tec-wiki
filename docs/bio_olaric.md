@@ -1,6 +1,7 @@
 ---
 title: "Bio Olaric"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Olaric

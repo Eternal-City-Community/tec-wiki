@@ -1,6 +1,7 @@
 ---
 title: "Bio Kered"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kered

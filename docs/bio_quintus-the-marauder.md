@@ -1,6 +1,7 @@
 ---
 title: "Bio Quintus The Marauder"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Quintus The Marauder

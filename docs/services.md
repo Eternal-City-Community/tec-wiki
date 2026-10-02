@@ -1,6 +1,7 @@
 ---
 title: "Services"
 category: "Reference"
+parent: game-world
 ---
 
 # Services

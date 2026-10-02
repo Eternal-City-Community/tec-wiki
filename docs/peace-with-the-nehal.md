@@ -1,6 +1,7 @@
 ---
 title: "Peace With The Nehal"
 category: "Reference"
+parent: player-stories
 ---
 
 # Peace With The Nehal

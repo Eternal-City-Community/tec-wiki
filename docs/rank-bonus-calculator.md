@@ -1,6 +1,7 @@
 ---
 title: "Rank Bonus Calculator"
 category: "Reference"
+parent: skills
 ---
 
 # Rank Bonus Calculator

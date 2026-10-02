@@ -1,6 +1,7 @@
 ---
 title: "Nelsor One Handed Swords"
 category: "Skills & Combat"
+parent: one-handed-swords
 ---
 
 # Nelsor One Handed Swords

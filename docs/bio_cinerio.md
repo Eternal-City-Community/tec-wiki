@@ -1,6 +1,7 @@
 ---
 title: "Bio Cinerio"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Cinerio

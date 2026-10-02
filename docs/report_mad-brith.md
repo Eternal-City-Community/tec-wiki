@@ -1,6 +1,7 @@
 ---
 title: "Report Mad Brith"
 category: "Reference"
+parent: legio
 ---
 
 # Report Mad Brith

@@ -1,6 +1,7 @@
 ---
 title: "East Ravanite Tunnels"
 category: "Reference"
+parent: iridine
 ---
 
 # East Ravanite Tunnels

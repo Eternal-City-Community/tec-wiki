@@ -1,6 +1,7 @@
 ---
 title: "Bio Alurea"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Alurea

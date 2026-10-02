@@ -1,6 +1,7 @@
 ---
 title: "Bio Grazen"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Grazen

@@ -1,6 +1,7 @@
 ---
 title: "Bio Natasha"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Natasha

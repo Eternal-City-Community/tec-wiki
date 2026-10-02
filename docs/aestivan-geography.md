@@ -1,6 +1,7 @@
 ---
 title: "Aestivan Geography"
 category: "Lore & Community"
+parent: aestivan-league
 ---
 
 # Aestivan Geography

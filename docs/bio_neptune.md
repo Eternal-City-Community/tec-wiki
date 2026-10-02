@@ -1,6 +1,7 @@
 ---
 title: "Bio Neptune"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Neptune

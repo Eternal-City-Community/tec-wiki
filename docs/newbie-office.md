@@ -1,6 +1,7 @@
 ---
 title: "Newbie Office"
 category: "Guides & Commands"
+parent: index
 ---
 
 # Newbie Office

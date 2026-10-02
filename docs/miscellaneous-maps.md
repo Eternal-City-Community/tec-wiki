@@ -1,6 +1,7 @@
 ---
 title: "Miscellaneous Maps"
 category: "World & Maps"
+parent: index
 ---
 
 # Miscellaneous Maps

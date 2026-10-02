@@ -1,6 +1,7 @@
 ---
 title: "Taxes And Civic Finance"
 category: "Skills & Combat"
+parent: law
 ---
 
 # Taxes And Civic Finance

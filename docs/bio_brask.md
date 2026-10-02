@@ -1,6 +1,7 @@
 ---
 title: "Bio Brask"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Brask

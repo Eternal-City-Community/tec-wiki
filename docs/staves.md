@@ -1,6 +1,7 @@
 ---
 title: "Staves"
 category: "Reference"
+parent: skills
 ---
 
 # Staves

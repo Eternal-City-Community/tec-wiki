@@ -1,6 +1,7 @@
 ---
 title: "Bio Xamaes"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Xamaes

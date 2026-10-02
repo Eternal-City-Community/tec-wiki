@@ -1,6 +1,7 @@
 ---
 title: "Report Armagorus"
 category: "Reference"
+parent: legio
 ---
 
 # Report Armagorus

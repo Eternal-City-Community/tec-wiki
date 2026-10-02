@@ -1,6 +1,7 @@
 ---
 title: "Locksmithing"
 category: "Crafting & Trade"
+parent: skills
 ---
 
 # Locksmithing

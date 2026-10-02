@@ -1,6 +1,7 @@
 ---
 title: "Wealth"
 category: "Reference"
+parent: game-world
 ---
 
 # Wealth

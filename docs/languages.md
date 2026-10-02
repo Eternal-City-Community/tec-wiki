@@ -1,6 +1,7 @@
 ---
 title: "Languages"
 category: "Guides & Commands"
+parent: skills
 ---
 
 # Languages

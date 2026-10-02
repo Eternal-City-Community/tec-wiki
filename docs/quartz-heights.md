@@ -1,6 +1,7 @@
 ---
 title: "Quartz Heights"
 category: "Reference"
+parent: iridine
 ---
 
 # Quartz Heights

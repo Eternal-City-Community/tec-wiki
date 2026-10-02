@@ -1,6 +1,7 @@
 ---
 title: "Bio Corvus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Corvus

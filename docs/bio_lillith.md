@@ -1,6 +1,7 @@
 ---
 title: "Bio Lillith"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lillith

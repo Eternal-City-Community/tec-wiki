@@ -1,6 +1,7 @@
 ---
 title: "Critical Hits"
 category: "Reference"
+parent: combat
 ---
 
 # Critical Hits

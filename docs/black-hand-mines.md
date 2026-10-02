@@ -1,6 +1,7 @@
 ---
 title: "Black Hand Mines"
 category: "World & Maps"
+parent: eastern-grasslands-and-woods
 ---
 
 # Black Hand Mines

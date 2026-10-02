@@ -1,6 +1,7 @@
 ---
 title: "Mining"
 category: "Reference"
+parent: stones-ores
 ---
 
 # Mining

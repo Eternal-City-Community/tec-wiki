@@ -1,6 +1,7 @@
 ---
 title: "Bio Teresa"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Teresa

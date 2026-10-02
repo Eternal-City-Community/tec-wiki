@@ -1,6 +1,7 @@
 ---
 title: "Blocks And Dodges"
 category: "Skills & Combat"
+parent: combat
 ---
 
 # Blocks And Dodges

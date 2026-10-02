@@ -1,6 +1,7 @@
 ---
 title: "Kelestian Outpost"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Kelestian Outpost

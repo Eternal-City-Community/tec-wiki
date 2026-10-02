@@ -1,6 +1,7 @@
 ---
 title: "Hg Colosseum"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Colosseum

@@ -1,6 +1,7 @@
 ---
 title: "Bio Tef"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Tef

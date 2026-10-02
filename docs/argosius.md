@@ -1,6 +1,7 @@
 ---
 title: "Argosius"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Argosius

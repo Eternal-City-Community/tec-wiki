@@ -1,6 +1,7 @@
 ---
 title: "Village Of Seld"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # Village Of Seld

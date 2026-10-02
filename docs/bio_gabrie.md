@@ -1,6 +1,7 @@
 ---
 title: "Bio Gabrie"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Gabrie

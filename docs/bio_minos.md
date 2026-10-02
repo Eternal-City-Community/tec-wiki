@@ -1,6 +1,7 @@
 ---
 title: "Bio Minos"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Minos

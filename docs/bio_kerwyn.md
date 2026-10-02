@@ -1,6 +1,7 @@
 ---
 title: "Bio Kerwyn"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kerwyn

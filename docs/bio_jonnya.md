@@ -1,6 +1,7 @@
 ---
 title: "Bio Jonnya"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jonnya

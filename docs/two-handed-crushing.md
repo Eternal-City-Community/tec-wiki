@@ -1,6 +1,7 @@
 ---
 title: Two Handed Crushing
 category: "Skills & Combat"
+parent: skills
 ---
 # Two Handed Crushing
 

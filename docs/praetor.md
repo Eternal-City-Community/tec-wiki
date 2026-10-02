@@ -1,6 +1,7 @@
 ---
 title: "Praetor"
 category: "Reference"
+parent: unofficial-game-clients
 ---
 
 # Praetor

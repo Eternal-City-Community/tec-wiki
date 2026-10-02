@@ -1,6 +1,7 @@
 ---
 title: "Sostaera"
 category: "Reference"
+parent: game-world
 ---
 
 # Sostaera

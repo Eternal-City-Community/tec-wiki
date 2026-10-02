@@ -1,6 +1,7 @@
 ---
 title: "Bio Iskara Radimantle"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Iskara Radimantle

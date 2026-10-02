@@ -1,6 +1,7 @@
 ---
 title: "Avros Guide"
 category: "Skills & Combat"
+parent: avros-one-handed-swords
 ---
 
 # Avros Guide

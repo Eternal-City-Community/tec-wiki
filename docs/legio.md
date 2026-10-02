@@ -1,6 +1,7 @@
 ---
 title: "Legio"
 category: "Reference"
+parent: orgs
 ---
 
 # Legio

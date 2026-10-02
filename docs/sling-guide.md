@@ -1,6 +1,7 @@
 ---
 title: "Sling Guide"
 category: "Skills & Combat"
+parent: sling
 ---
 
 # Sling Guide

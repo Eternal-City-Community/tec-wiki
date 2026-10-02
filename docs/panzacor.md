@@ -1,6 +1,7 @@
 ---
 title: "Panzacor"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Panzacor

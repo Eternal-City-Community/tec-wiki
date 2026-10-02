@@ -1,6 +1,7 @@
 ---
 title: "Leather Working"
 category: "Crafting & Trade"
+parent: skills
 ---
 
 # Leather Working

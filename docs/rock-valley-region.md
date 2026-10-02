@@ -1,6 +1,7 @@
 ---
 title: "Rock Valley Region"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # Rock Valley Region

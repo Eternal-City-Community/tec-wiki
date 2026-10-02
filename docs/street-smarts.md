@@ -1,6 +1,7 @@
 ---
 title: "Street Smarts"
 category: "Reference"
+parent: skills
 ---
 
 # Street Smarts

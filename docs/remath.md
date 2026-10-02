@@ -1,6 +1,7 @@
 ---
 title: "Remath"
 category: "Reference"
+parent: game-world
 ---
 
 # Remath

@@ -1,6 +1,7 @@
 ---
 title: "Bio Cerebrus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Cerebrus

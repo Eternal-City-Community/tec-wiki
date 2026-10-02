@@ -1,6 +1,7 @@
 ---
 title: "Religion"
 category: "Lore & Community"
+parent: game-world
 ---
 
 # Religion

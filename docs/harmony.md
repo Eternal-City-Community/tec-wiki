@@ -1,6 +1,7 @@
 ---
 title: "Harmony"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Harmony

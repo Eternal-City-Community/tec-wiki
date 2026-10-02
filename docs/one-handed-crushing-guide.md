@@ -1,6 +1,7 @@
 ---
 title: "One Handed Crushing Guide"
 category: "Skills & Combat"
+parent: one-handed-crushing
 ---
 
 # One Handed Crushing Guide

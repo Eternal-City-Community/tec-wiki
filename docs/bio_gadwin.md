@@ -1,6 +1,7 @@
 ---
 title: "Bio Gadwin"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Gadwin

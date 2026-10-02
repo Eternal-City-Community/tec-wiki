@@ -1,6 +1,7 @@
 ---
 title: "Bio Dawnara"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dawnara

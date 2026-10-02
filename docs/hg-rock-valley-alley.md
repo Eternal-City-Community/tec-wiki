@@ -1,6 +1,7 @@
 ---
 title: "Hg Rock Valley Alley"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Rock Valley Alley

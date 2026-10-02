@@ -1,6 +1,7 @@
 ---
 title: "Bio Honoura"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Honoura

@@ -1,6 +1,7 @@
 ---
 title: "Bio Kain"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kain

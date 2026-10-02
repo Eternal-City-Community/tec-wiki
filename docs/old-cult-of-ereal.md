@@ -1,6 +1,7 @@
 ---
 title: "Old Cult Of Ereal"
 category: "Reference"
+parent: cult-of-ereal
 ---
 
 # Old Cult Of Ereal

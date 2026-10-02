@@ -1,6 +1,7 @@
 ---
 title: "Bio Joreick"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Joreick

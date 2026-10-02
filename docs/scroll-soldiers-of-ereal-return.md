@@ -1,6 +1,7 @@
 ---
 title: "Scroll Soldiers Of Ereal Return"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Soldiers Of Ereal Return

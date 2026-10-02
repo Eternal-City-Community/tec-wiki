@@ -1,6 +1,7 @@
 ---
 title: "Bio Kylara"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kylara

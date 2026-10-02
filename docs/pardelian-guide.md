@@ -1,6 +1,7 @@
 ---
 title: "Pardelian Guide"
 category: "Guides & Commands"
+parent: pardelian-one-handed-swords
 ---
 
 # Pardelian Guide

@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Marnevel Iridine"
 category: "World & Maps"
+parent: historic-map-marnevel
 ---
 
 # Historic Map Marnevel Iridine

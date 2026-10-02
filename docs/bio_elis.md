@@ -1,6 +1,7 @@
 ---
 title: "Bio Elis"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Elis

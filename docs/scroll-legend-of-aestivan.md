@@ -1,6 +1,7 @@
 ---
 title: "Scroll Legend Of Aestivan"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Legend Of Aestivan

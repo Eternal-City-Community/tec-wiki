@@ -1,6 +1,7 @@
 ---
 title: "Hg Coastal Alleys"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Coastal Alleys

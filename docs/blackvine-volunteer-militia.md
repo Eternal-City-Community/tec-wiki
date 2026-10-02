@@ -1,6 +1,7 @@
 ---
 title: "Blackvine Volunteer Militia"
 category: "World & Maps"
+parent: orgs
 ---
 
 # Blackvine Volunteer Militia

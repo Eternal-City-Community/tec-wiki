@@ -1,6 +1,7 @@
 ---
 title: "Bio Sarai"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sarai

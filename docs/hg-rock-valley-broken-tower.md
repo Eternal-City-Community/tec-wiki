@@ -1,6 +1,7 @@
 ---
 title: "Hg Rock Valley Broken Tower"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Rock Valley Broken Tower

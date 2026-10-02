@@ -1,6 +1,7 @@
 ---
 title: "Bio Parsos Emrial"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Parsos Emrial

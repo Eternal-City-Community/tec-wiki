@@ -1,6 +1,7 @@
 ---
 title: "Stromheim"
 category: "World & Maps"
+parent: rock-valley
 ---
 
 # Stromheim

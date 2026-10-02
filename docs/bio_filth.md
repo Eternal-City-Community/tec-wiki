@@ -1,6 +1,7 @@
 ---
 title: "Bio Filth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Filth

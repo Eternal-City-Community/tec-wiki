@@ -1,6 +1,7 @@
 ---
 title: "The Steps"
 category: "World & Maps"
+parent: maps
 ---
 
 # The Steps

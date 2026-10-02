@@ -1,6 +1,7 @@
 ---
 title: "Bio Danasei"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Danasei

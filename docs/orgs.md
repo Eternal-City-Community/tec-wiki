@@ -1,6 +1,7 @@
 ---
 title: "Orgs"
 category: "Lore & Community"
+parent: republic-of-iridine
 ---
 
 # Orgs

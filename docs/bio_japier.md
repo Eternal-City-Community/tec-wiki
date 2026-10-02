@@ -1,6 +1,7 @@
 ---
 title: "Bio Japier"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Japier

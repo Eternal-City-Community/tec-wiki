@@ -1,6 +1,7 @@
 ---
 title: "Hg Old City"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Old City

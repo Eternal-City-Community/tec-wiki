@@ -1,6 +1,7 @@
 ---
 title: "Bio Rinath"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Rinath

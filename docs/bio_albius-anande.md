@@ -1,6 +1,7 @@
 ---
 title: "Bio Albius Anande"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Albius Anande

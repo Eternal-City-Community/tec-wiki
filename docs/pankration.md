@@ -1,6 +1,7 @@
 ---
 title: "Pankration"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Pankration

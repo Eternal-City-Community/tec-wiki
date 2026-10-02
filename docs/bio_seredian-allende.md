@@ -1,6 +1,7 @@
 ---
 title: "Bio Seredian Allende"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Seredian Allende

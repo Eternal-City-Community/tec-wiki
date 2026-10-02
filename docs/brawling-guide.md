@@ -1,6 +1,7 @@
 ---
 title: "Brawling Guide"
 category: "Skills & Combat"
+parent: brawling
 ---
 
 # Brawling Guide

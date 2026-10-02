@@ -1,6 +1,7 @@
 ---
 title: "Arandes Pardelian"
 category: "Reference"
+parent: history
 ---
 
 # Arandes Pardelian

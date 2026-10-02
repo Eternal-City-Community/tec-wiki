@@ -1,6 +1,7 @@
 ---
 title: "Announcements"
 category: "Lore & Community"
+parent: events
 ---
 
 # Announcements

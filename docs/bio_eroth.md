@@ -1,6 +1,7 @@
 ---
 title: "Bio Eroth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Eroth

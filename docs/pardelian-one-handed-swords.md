@@ -1,6 +1,7 @@
 ---
 title: "Pardelian One Handed Swords"
 category: "Skills & Combat"
+parent: one-handed-swords
 ---
 
 # Pardelian One Handed Swords

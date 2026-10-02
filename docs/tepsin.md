@@ -1,6 +1,7 @@
 ---
 title: "Tepsin"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Tepsin

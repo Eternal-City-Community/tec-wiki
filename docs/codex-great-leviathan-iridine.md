@@ -1,6 +1,7 @@
 ---
 title: "Codex Great Leviathan Iridine"
 category: "World & Maps"
+parent: library-archive
 ---
 
 # Codex Great Leviathan Iridine

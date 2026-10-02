@@ -1,6 +1,7 @@
 ---
 title: "Setups"
 category: "Reference"
+parent: skills
 ---
 
 # Setups

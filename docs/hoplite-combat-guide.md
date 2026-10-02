@@ -1,6 +1,7 @@
 ---
 title: "Hoplite Combat Guide"
 category: "Skills & Combat"
+parent: hoplite-combat
 ---
 
 # Hoplite Combat Guide

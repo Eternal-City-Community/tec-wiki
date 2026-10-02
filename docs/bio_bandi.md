@@ -1,6 +1,7 @@
 ---
 title: "Bio Bandi"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Bandi

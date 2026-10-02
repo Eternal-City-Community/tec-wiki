@@ -1,6 +1,7 @@
 ---
 title: "Bio Sharcu"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sharcu

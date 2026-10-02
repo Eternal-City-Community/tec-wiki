@@ -1,6 +1,7 @@
 ---
 title: Dual Daggers
 category: Reference
+parent: skills
 ---
 # Dual Daggers
 

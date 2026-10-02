@@ -1,6 +1,7 @@
 ---
 title: "Bio Junia Gracious"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Junia Gracious

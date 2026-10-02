@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Pepaquest Vetallun Blackvine"
 category: "World & Maps"
+parent: historic-map-pepaquest
 ---
 
 # Historic Map Pepaquest Vetallun Blackvine

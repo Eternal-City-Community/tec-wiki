@@ -1,6 +1,7 @@
 ---
 title: "Scroll Varrus Reports"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Varrus Reports

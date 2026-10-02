@@ -1,6 +1,7 @@
 ---
 title: "Scroll Rescue Of Tyrlindax"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Rescue Of Tyrlindax

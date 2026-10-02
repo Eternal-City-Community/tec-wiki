@@ -1,6 +1,7 @@
 ---
 title: "Altene Language"
 category: "Guides & Commands"
+parent: altene
 ---
 
 # Altene Language

@@ -1,6 +1,7 @@
 ---
 title: "Salt Flats"
 category: "Reference"
+parent: the-salinae-swamp
 ---
 
 # Salt Flats

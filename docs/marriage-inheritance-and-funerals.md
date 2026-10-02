@@ -1,6 +1,7 @@
 ---
 title: "Marriage Inheritance And Funerals"
 category: "Reference"
+parent: law
 ---
 
 # Marriage Inheritance And Funerals

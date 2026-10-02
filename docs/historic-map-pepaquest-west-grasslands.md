@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Pepaquest West Grasslands"
 category: "World & Maps"
+parent: historic-map-pepaquest
 ---
 
 # Historic Map Pepaquest West Grasslands

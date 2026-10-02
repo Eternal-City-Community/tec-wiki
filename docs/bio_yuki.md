@@ -1,6 +1,7 @@
 ---
 title: "Bio Yuki"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Yuki

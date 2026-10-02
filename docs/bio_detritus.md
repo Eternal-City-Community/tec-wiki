@@ -1,6 +1,7 @@
 ---
 title: "Bio Detritus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Detritus

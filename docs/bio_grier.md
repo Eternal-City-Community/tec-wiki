@@ -1,6 +1,7 @@
 ---
 title: "Bio Grier"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Grier

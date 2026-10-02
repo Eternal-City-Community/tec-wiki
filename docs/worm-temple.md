@@ -1,6 +1,7 @@
 ---
 title: "Worm Temple"
 category: "Reference"
+parent: the-salinae-swamp
 ---
 
 # Worm Temple

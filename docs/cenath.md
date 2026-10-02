@@ -1,6 +1,7 @@
 ---
 title: "Cenath"
 category: "Reference"
+parent: game-world
 ---
 
 # Cenath

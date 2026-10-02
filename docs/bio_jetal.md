@@ -1,6 +1,7 @@
 ---
 title: "Bio Jetal"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jetal

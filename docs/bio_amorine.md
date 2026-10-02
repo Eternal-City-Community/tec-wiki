@@ -1,6 +1,7 @@
 ---
 title: "Bio Amorine"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Amorine

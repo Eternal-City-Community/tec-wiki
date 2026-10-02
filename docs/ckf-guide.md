@@ -1,6 +1,7 @@
 ---
 title: "Ckf Guide"
 category: "Guides & Commands"
+parent: cineran-knife-fighting-knives
 ---
 
 # Ckf Guide

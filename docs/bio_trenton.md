@@ -1,6 +1,7 @@
 ---
 title: "Bio Trenton"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Trenton

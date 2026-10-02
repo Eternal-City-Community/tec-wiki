@@ -1,6 +1,7 @@
 ---
 title: "Forum"
 category: "World & Maps"
+parent: iridine
 ---
 
 # Forum

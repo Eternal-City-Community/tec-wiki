@@ -1,6 +1,7 @@
 ---
 title: "Codex Vinian Quartz"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Vinian Quartz

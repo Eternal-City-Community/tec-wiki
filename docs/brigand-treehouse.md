@@ -1,6 +1,7 @@
 ---
 title: "Brigand Treehouse"
 category: "Reference"
+parent: eastern-grasslands-and-woods
 ---
 
 # Brigand Treehouse

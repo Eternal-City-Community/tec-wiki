@@ -1,6 +1,7 @@
 ---
 title: "Bio Razlin"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Razlin

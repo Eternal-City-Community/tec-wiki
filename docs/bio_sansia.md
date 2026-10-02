@@ -1,6 +1,7 @@
 ---
 title: "Bio Sansia"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sansia

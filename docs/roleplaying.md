@@ -1,6 +1,7 @@
 ---
 title: "Roleplaying"
 category: "Reference"
+parent: index
 ---
 
 # Roleplaying

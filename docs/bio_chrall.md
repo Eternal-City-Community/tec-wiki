@@ -1,6 +1,7 @@
 ---
 title: "Bio Chrall"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Chrall

@@ -1,6 +1,7 @@
 ---
 title: "Bio Niktoo"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Niktoo

@@ -1,6 +1,7 @@
 ---
 title: "Bio Iphirael"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Iphirael

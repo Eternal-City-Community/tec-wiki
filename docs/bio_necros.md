@@ -1,6 +1,7 @@
 ---
 title: "Bio Necros"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Necros

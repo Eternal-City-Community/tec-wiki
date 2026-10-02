@@ -1,6 +1,7 @@
 ---
 title: "Feysals Story"
 category: "Reference"
+parent: player-stories
 ---
 
 # Feysals Story

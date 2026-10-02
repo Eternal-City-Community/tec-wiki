@@ -1,6 +1,7 @@
 ---
 title: "Bio Bawtun"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Bawtun

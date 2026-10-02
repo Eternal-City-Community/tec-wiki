@@ -1,6 +1,7 @@
 ---
 title: "Bio Driya"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Driya

@@ -1,6 +1,7 @@
 ---
 title: "The Funeral Of Jalian Triarchus"
 category: "Reference"
+parent: player-stories
 ---
 
 # The Funeral Of Jalian Triarchus

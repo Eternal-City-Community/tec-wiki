@@ -1,6 +1,7 @@
 ---
 title: "Bio Hirtius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Hirtius

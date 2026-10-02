@@ -1,6 +1,7 @@
 ---
 title: "Hg Monlon Battlefields"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Monlon Battlefields

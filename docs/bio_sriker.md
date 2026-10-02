@@ -1,6 +1,7 @@
 ---
 title: "Bio Sriker"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sriker

@@ -1,6 +1,7 @@
 ---
 title: "Bio Pravia Eliber"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Pravia Eliber

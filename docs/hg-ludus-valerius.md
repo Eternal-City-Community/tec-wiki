@@ -1,6 +1,7 @@
 ---
 title: "Hg Ludus Valerius"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Ludus Valerius

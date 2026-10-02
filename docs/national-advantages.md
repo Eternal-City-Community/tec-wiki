@@ -1,6 +1,7 @@
 ---
 title: "National Advantages"
 category: "Reference"
+parent: character-generator
 ---
 
 # National Advantages

@@ -1,6 +1,7 @@
 ---
 title: "Bio Dragge"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dragge

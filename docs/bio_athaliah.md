@@ -1,6 +1,7 @@
 ---
 title: "Bio Athaliah"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Athaliah

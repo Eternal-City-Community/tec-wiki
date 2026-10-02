@@ -1,6 +1,7 @@
 ---
 title: "Fenri Gifr Ruins"
 category: "Reference"
+parent: rock-valley
 ---
 
 # Fenri Gifr Ruins

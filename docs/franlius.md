@@ -1,6 +1,7 @@
 ---
 title: "Franlius"
 category: "World & Maps"
+parent: maps
 ---
 
 # Franlius

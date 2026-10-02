@@ -1,6 +1,7 @@
 ---
 title: "History Of Creation"
 category: "Lore & Community"
+parent: religion
 ---
 
 # History Of Creation

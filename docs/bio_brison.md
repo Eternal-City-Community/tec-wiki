@@ -1,6 +1,7 @@
 ---
 title: "Bio Brison"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Brison

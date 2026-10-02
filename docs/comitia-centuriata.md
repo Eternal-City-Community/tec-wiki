@@ -1,6 +1,7 @@
 ---
 title: "Comitia Centuriata"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Comitia Centuriata

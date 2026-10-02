@@ -1,6 +1,7 @@
 ---
 title: "291st Yotr"
 category: "Reference"
+parent: gameworld-events
 ---
 
 # 291st Yotr

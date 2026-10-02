@@ -1,6 +1,7 @@
 ---
 title: "Bio Bernard Tubero"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Bernard Tubero

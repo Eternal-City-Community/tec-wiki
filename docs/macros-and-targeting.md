@@ -1,6 +1,7 @@
 ---
 title: "Macros And Targeting"
 category: "Reference"
+parent: combat
 ---
 
 # Macros And Targeting

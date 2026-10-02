@@ -1,6 +1,7 @@
 ---
 title: "Codex Kyi Life Limericks"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Kyi Life Limericks

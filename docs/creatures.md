@@ -1,6 +1,7 @@
 ---
 title: "Creatures"
 category: "Reference"
+parent: enemy-guide
 ---
 
 # Creatures

@@ -1,6 +1,7 @@
 ---
 title: "Org Perks"
 category: "Reference"
+parent: orgs
 ---
 
 # Org Perks

@@ -1,6 +1,7 @@
 ---
 title: "Tridents"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Tridents

@@ -1,6 +1,7 @@
 ---
 title: "Bio Ashen"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ashen

@@ -1,6 +1,7 @@
 ---
 title: "Bio Lyrena"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lyrena

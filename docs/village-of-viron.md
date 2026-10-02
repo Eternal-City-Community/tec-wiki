@@ -1,6 +1,7 @@
 ---
 title: "Village Of Viron"
 category: "World & Maps"
+parent: republic-of-iridine
 ---
 
 # Village Of Viron

@@ -1,6 +1,7 @@
 ---
 title: "Reputation"
 category: "Reference"
+parent: game-world
 ---
 
 # Reputation

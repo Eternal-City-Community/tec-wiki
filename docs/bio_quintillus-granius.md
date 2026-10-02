@@ -1,6 +1,7 @@
 ---
 title: "Bio Quintillus Granius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Quintillus Granius

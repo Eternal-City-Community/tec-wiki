@@ -1,6 +1,7 @@
 ---
 title: "Altene"
 category: "Reference"
+parent: game-world
 ---
 
 # Altene

@@ -1,6 +1,7 @@
 ---
 title: "Bio Willhelm"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Willhelm

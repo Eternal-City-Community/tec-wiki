@@ -1,6 +1,7 @@
 ---
 title: "Bio Chaos"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Chaos

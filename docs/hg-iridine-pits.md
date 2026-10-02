@@ -1,6 +1,7 @@
 ---
 title: "Hg Iridine Pits"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Iridine Pits

@@ -1,6 +1,7 @@
 ---
 title: "Bio Sylven"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sylven

@@ -1,6 +1,7 @@
 ---
 title: "Bio Skye"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Skye

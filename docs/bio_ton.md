@@ -1,6 +1,7 @@
 ---
 title: "Bio Ton"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ton

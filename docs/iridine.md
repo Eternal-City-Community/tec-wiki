@@ -1,6 +1,7 @@
 ---
 title: "Iridine"
 category: "World & Maps"
+parent: maps
 ---
 
 # Iridine

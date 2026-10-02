@@ -1,6 +1,7 @@
 ---
 title: "Hg Spider Caverns"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Spider Caverns

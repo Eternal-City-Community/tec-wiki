@@ -1,6 +1,7 @@
 ---
 title: "Hg Burnt Villa"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Burnt Villa

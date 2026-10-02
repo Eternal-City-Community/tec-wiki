@@ -1,6 +1,7 @@
 ---
 title: "Bio Methodios"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Methodios

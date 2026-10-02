@@ -1,6 +1,7 @@
 ---
 title: "Bio Alexxandria"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Alexxandria

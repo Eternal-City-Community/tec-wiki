@@ -1,6 +1,7 @@
 ---
 title: "Bio Orlain"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Orlain

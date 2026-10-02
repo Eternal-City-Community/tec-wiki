@@ -1,6 +1,7 @@
 ---
 title: "Codex Nature Of Souls"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Nature Of Souls

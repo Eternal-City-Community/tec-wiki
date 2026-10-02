@@ -1,6 +1,7 @@
 ---
 title: "Library Archive"
 category: "Reference"
+parent: library
 ---
 
 # Library Archive

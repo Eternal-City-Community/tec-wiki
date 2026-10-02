@@ -1,6 +1,7 @@
 ---
 title: "Bio Callisto"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Callisto

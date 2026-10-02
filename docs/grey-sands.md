@@ -1,6 +1,7 @@
 ---
 title: "Grey Sands"
 category: "Reference"
+parent: eastern-grasslands-and-woods
 ---
 
 # Grey Sands

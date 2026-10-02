@@ -1,6 +1,7 @@
 ---
 title: "Bio Jarin Seneda"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jarin Seneda

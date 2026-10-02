@@ -1,6 +1,7 @@
 ---
 title: "Three Hills"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Three Hills

@@ -1,6 +1,7 @@
 ---
 title: "Knives Guide"
 category: "Guides & Commands"
+parent: knives
 ---
 
 # Knives Guide

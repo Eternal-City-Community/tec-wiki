@@ -1,6 +1,7 @@
 ---
 title: "Bio Echo"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Echo

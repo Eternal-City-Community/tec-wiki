@@ -1,6 +1,7 @@
 ---
 title: "Event Calendar"
 category: "Lore & Community"
+parent: index
 ---
 
 # Event Calendar

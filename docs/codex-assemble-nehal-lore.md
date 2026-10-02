@@ -1,6 +1,7 @@
 ---
 title: "Codex Assemble Nehal Lore"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Assemble Nehal Lore

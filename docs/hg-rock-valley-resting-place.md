@@ -1,6 +1,7 @@
 ---
 title: "Hg Rock Valley Resting Place"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Rock Valley Resting Place

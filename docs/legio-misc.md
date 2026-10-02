@@ -1,6 +1,7 @@
 ---
 title: "Legio Misc"
 category: "Reference"
+parent: legio
 ---
 
 # Legio Misc

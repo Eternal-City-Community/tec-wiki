@@ -1,6 +1,7 @@
 ---
 title: "Bio Jjike"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jjike

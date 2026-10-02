@@ -1,6 +1,7 @@
 ---
 title: "Bio Duranth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Duranth

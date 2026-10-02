@@ -1,6 +1,7 @@
 ---
 title: "Scroll Senate Examines Barbarian"
 category: "World & Maps"
+parent: library-archive
 ---
 
 # Scroll Senate Examines Barbarian

@@ -1,6 +1,7 @@
 ---
 title: "Swamp Mansion"
 category: "World & Maps"
+parent: the-salinae-swamp
 ---
 
 # Swamp Mansion

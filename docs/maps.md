@@ -1,6 +1,7 @@
 ---
 title: "Maps"
 category: "World & Maps"
+parent: index
 ---
 
 # Maps

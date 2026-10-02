@@ -1,6 +1,7 @@
 ---
 title: "Scroll Sack Of Rock Valley"
 category: "World & Maps"
+parent: player-stories
 ---
 
 # Scroll Sack Of Rock Valley

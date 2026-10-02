@@ -1,6 +1,7 @@
 ---
 title: "Specialty Items"
 category: "Items & Economy"
+parent: game-world
 ---
 
 # Specialty Items

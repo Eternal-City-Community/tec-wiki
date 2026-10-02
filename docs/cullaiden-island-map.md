@@ -1,6 +1,7 @@
 ---
 title: "Cullaiden Island Map"
 category: "World & Maps"
+parent: maps
 ---
 
 # Cullaiden Island Map

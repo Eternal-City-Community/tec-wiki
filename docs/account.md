@@ -1,6 +1,7 @@
 ---
 title: "Account"
 category: "Guides & Commands"
+parent: index
 ---
 
 # Account

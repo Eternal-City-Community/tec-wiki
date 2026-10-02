@@ -1,6 +1,7 @@
 ---
 title: "Hg Fist Fort"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Fist Fort

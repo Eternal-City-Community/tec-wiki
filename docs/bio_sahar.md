@@ -1,6 +1,7 @@
 ---
 title: "Bio Sahar"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sahar

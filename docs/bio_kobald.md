@@ -1,6 +1,7 @@
 ---
 title: "Bio Kobald"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kobald

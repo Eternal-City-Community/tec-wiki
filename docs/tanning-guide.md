@@ -1,6 +1,7 @@
 ---
 title: "Tanning Guide"
 category: "Guides & Commands"
+parent: tanning
 ---
 
 # Tanning Guide

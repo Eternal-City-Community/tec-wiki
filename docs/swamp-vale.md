@@ -1,6 +1,7 @@
 ---
 title: "Swamp Vale"
 category: "World & Maps"
+parent: the-salinae-swamp
 ---
 
 # Swamp Vale

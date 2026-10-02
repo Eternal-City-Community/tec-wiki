@@ -1,6 +1,7 @@
 ---
 title: "Codex Medicinal Plants"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Medicinal Plants

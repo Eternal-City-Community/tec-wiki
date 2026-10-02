@@ -1,6 +1,7 @@
 ---
 title: "Tailoring Guide"
 category: "Crafting & Trade"
+parent: tailoring
 ---
 
 # Tailoring Guide

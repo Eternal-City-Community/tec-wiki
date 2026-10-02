@@ -1,6 +1,7 @@
 ---
 title: "Hg Alleys"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Alleys

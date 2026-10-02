@@ -1,6 +1,7 @@
 ---
 title: "Magic Release Notes"
 category: "Reference"
+parent: magic
 ---
 
 # Magic Release Notes

@@ -1,6 +1,7 @@
 ---
 title: "Bio Sartor Mithus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sartor Mithus

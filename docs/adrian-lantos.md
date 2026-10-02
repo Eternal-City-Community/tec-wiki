@@ -1,6 +1,7 @@
 ---
 title: "Adrian Lantos"
 category: "Reference"
+parent: history
 ---
 
 # Adrian Lantos

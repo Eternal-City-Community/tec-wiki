@@ -1,6 +1,7 @@
 ---
 title: "The Sack Of Rock Valley"
 category: "World & Maps"
+parent: player-stories
 ---
 
 # The Sack Of Rock Valley

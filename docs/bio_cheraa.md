@@ -1,6 +1,7 @@
 ---
 title: "Bio Cheraa"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Cheraa

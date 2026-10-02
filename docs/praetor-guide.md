@@ -1,6 +1,7 @@
 ---
 title: "Praetor Guide"
 category: "Guides & Commands"
+parent: praetor
 ---
 
 # Praetor Guide

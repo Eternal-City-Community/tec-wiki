@@ -1,6 +1,7 @@
 ---
 title: "Skills"
 category: "Reference"
+parent: index
 ---
 
 # Skills

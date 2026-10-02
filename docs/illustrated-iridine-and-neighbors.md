@@ -1,6 +1,7 @@
 ---
 title: "Illustrated Iridine And Neighbors"
 category: "World & Maps"
+parent: miscellaneous-maps
 ---
 
 # Illustrated Iridine And Neighbors

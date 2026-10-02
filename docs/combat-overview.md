@@ -1,6 +1,7 @@
 ---
 title: "Combat Overview"
 category: "Skills & Combat"
+parent: combat
 ---
 
 # Combat Overview

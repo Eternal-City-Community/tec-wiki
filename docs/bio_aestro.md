@@ -1,6 +1,7 @@
 ---
 title: "Bio Aestro"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Aestro

@@ -1,6 +1,7 @@
 ---
 title: "Bio Robus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Robus

@@ -1,6 +1,7 @@
 ---
 title: "Bio Nathanial"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Nathanial

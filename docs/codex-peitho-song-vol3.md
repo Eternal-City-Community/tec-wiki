@@ -1,6 +1,7 @@
 ---
 title: "Codex Peitho Song Vol3"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Peitho Song Vol3

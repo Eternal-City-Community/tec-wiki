@@ -1,6 +1,7 @@
 ---
 title: "Gadaene"
 category: "Reference"
+parent: game-world
 ---
 
 # Gadaene

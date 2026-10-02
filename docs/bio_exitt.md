@@ -1,6 +1,7 @@
 ---
 title: "Bio Exitt"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Exitt

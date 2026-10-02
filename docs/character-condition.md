@@ -1,6 +1,7 @@
 ---
 title: "Character Condition"
 category: "Reference"
+parent: getting-started
 ---
 
 # Character Condition

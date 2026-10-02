@@ -1,6 +1,7 @@
 ---
 title: "Bio Baiae"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Baiae

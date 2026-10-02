@@ -1,6 +1,7 @@
 ---
 title: "Spears"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Spears

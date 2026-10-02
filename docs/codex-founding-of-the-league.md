@@ -1,6 +1,7 @@
 ---
 title: "Codex Founding Of The League"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Founding Of The League

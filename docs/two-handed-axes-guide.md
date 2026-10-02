@@ -1,6 +1,7 @@
 ---
 title: "Two Handed Axes Guide"
 category: "Skills & Combat"
+parent: two-handed-axes
 ---
 
 # Two Handed Axes Guide

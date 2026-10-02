@@ -1,6 +1,7 @@
 ---
 title: "Bio Mestanes"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Mestanes

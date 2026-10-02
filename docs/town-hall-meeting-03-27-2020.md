@@ -1,6 +1,7 @@
 ---
 title: "Town Hall Meeting 03 27 2020"
 category: "Reference"
+parent: announcements
 ---
 
 # Town Hall Meeting 03 27 2020

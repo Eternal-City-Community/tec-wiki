@@ -1,6 +1,7 @@
 ---
 title: "Bio Machus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Machus

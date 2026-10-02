@@ -1,6 +1,7 @@
 ---
 title: "Sandbar"
 category: "Reference"
+parent: iridine
 ---
 
 # Sandbar

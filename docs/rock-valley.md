@@ -1,6 +1,7 @@
 ---
 title: "Rock Valley"
 category: "World & Maps"
+parent: maps
 ---
 
 # Rock Valley

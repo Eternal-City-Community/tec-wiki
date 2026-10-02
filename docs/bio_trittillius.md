@@ -1,6 +1,7 @@
 ---
 title: "Bio Trittillius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Trittillius

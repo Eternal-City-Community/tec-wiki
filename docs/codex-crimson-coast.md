@@ -1,6 +1,7 @@
 ---
 title: "Codex Crimson Coast"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Crimson Coast

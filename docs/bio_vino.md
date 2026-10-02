@@ -1,6 +1,7 @@
 ---
 title: "Bio Vino"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Vino

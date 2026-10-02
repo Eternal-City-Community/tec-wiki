@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Marnevel Far East"
 category: "World & Maps"
+parent: historic-map-marnevel
 ---
 
 # Historic Map Marnevel Far East

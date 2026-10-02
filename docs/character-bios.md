@@ -1,6 +1,7 @@
 ---
 title: "Character Bios"
 category: "Character Bios"
+parent: index
 ---
 
 # Character Bios

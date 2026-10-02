@@ -1,6 +1,7 @@
 ---
 title: "Bio Actavious"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Actavious

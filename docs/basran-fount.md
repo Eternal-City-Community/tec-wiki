@@ -1,6 +1,7 @@
 ---
 title: "Basran Fount"
 category: "Reference"
+parent: city-of-iridine
 ---
 
 # Basran Fount

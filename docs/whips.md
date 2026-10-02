@@ -1,6 +1,7 @@
 ---
 title: "Whips"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Whips

@@ -1,6 +1,7 @@
 ---
 title: "Bio Gillsworth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Gillsworth

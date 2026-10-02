@@ -1,6 +1,7 @@
 ---
 title: "Character Generator"
 category: "Reference"
+parent: getting-started
 ---
 
 # Character Generator

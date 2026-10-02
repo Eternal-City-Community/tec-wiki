@@ -1,6 +1,7 @@
 ---
 title: "Bio Jin"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Jin

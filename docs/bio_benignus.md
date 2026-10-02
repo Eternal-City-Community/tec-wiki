@@ -1,6 +1,7 @@
 ---
 title: "Bio Benignus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Benignus

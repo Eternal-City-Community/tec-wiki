@@ -1,6 +1,7 @@
 ---
 title: "Pirate Ship"
 category: "Reference"
+parent: eastern-grasslands-and-woods
 ---
 
 # Pirate Ship

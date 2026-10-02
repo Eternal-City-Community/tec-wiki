@@ -1,6 +1,7 @@
 ---
 title: "Fist Fort"
 category: "Reference"
+parent: eastern-grasslands-and-woods
 ---
 
 # Fist Fort

@@ -1,6 +1,7 @@
 ---
 title: "Rock Valley Watch"
 category: "World & Maps"
+parent: orgs
 ---
 
 # Rock Valley Watch

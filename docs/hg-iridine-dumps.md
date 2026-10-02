@@ -1,6 +1,7 @@
 ---
 title: "Hg Iridine Dumps"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Iridine Dumps

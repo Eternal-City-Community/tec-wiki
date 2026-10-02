@@ -1,6 +1,7 @@
 ---
 title: "Cestus"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Cestus

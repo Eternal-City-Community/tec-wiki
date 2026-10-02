@@ -1,6 +1,7 @@
 ---
 title: "Seld"
 category: "World & Maps"
+parent: maps
 ---
 
 # Seld

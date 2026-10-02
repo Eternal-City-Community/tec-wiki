@@ -1,6 +1,7 @@
 ---
 title: "Bio Drunser"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Drunser

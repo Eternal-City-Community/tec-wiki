@@ -1,6 +1,7 @@
 ---
 title: "Phoenix Guard"
 category: "Reference"
+parent: orgs
 ---
 
 # Phoenix Guard

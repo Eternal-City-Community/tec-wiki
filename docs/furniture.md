@@ -1,6 +1,7 @@
 ---
 title: "Furniture"
 category: "Reference"
+parent: game-world
 ---
 
 # Furniture

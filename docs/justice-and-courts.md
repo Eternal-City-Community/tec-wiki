@@ -1,6 +1,7 @@
 ---
 title: "Justice And Courts"
 category: "Reference"
+parent: law
 ---
 
 # Justice And Courts

@@ -1,6 +1,7 @@
 ---
 title: "Hg Black Hand Caverns"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Black Hand Caverns

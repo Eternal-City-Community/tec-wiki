@@ -1,6 +1,7 @@
 ---
 title: "Bio Katerina"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Katerina

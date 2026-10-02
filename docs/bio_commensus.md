@@ -1,6 +1,7 @@
 ---
 title: "Bio Commensus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Commensus

@@ -1,6 +1,7 @@
 ---
 title: "Bio Retalq"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Retalq

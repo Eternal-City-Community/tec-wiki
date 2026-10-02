@@ -1,6 +1,7 @@
 ---
 title: "Bio Tulca I"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Tulca I

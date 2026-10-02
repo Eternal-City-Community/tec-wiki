@@ -1,6 +1,7 @@
 ---
 title: "Falx"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Falx

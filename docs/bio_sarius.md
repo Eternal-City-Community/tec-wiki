@@ -1,6 +1,7 @@
 ---
 title: "Bio Sarius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Sarius

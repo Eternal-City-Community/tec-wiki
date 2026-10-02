@@ -1,6 +1,7 @@
 ---
 title: "Report Monlon Saga"
 category: "World & Maps"
+parent: legio
 ---
 
 # Report Monlon Saga

@@ -1,6 +1,7 @@
 ---
 title: "Bio Moonlite"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Moonlite

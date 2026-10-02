@@ -1,6 +1,7 @@
 ---
 title: "Midlight Map"
 category: "World & Maps"
+parent: miscellaneous-maps
 ---
 
 # Midlight Map

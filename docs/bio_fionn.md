@@ -1,6 +1,7 @@
 ---
 title: "Bio Fionn"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fionn

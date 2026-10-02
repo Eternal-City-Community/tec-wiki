@@ -1,6 +1,7 @@
 ---
 title: "Shields"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Shields

@@ -1,6 +1,7 @@
 ---
 title: "Bio Kili"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kili

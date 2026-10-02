@@ -1,6 +1,7 @@
 ---
 title: "Journey Rock Valley"
 category: "World & Maps"
+parent: player-stories
 ---
 
 # Journey Rock Valley

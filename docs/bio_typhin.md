@@ -1,6 +1,7 @@
 ---
 title: "Bio Typhin"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Typhin

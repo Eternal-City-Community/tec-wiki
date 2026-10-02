@@ -1,6 +1,7 @@
 ---
 title: "Files"
 category: "Reference"
+parent: site-index
 ---
 
 # Files

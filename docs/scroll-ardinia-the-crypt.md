@@ -1,6 +1,7 @@
 ---
 title: "Scroll Ardinia The Crypt"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Ardinia The Crypt

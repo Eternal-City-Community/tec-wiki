@@ -1,6 +1,7 @@
 ---
 title: "Bio Meefan"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Meefan

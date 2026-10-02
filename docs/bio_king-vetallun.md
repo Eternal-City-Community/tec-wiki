@@ -1,6 +1,7 @@
 ---
 title: "Bio King Vetallun"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio King Vetallun

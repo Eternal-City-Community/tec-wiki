@@ -1,6 +1,7 @@
 ---
 title: "Missile Weapons Bows"
 category: "Skills & Combat"
+parent: skills
 ---
 
 # Missile Weapons Bows

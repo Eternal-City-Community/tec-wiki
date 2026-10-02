@@ -1,6 +1,7 @@
 ---
 title: "Bio Mattrim"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Mattrim

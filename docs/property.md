@@ -1,6 +1,7 @@
 ---
 title: "Property"
 category: "Reference"
+parent: rp-expenditure
 ---
 
 # Property

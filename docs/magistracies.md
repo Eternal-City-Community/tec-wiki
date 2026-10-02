@@ -1,6 +1,7 @@
 ---
 title: "Magistracies"
 category: "Reference"
+parent: law
 ---
 
 # Magistracies

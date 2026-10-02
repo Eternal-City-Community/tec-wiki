@@ -1,6 +1,7 @@
 ---
 title: "Monlon Vigiles"
 category: "World & Maps"
+parent: orgs
 ---
 
 # Monlon Vigiles

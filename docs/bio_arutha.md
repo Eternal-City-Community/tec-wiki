@@ -1,6 +1,7 @@
 ---
 title: "Bio Arutha"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Arutha

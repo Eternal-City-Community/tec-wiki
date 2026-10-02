@@ -1,6 +1,7 @@
 ---
 title: "Bio Valenor"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Valenor

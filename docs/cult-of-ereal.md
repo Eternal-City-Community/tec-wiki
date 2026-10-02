@@ -1,6 +1,7 @@
 ---
 title: "Cult Of Ereal"
 category: "Reference"
+parent: orgs
 ---
 
 # Cult Of Ereal

@@ -1,6 +1,7 @@
 ---
 title: "Filinius Villa"
 category: "World & Maps"
+parent: maps
 ---
 
 # Filinius Villa

@@ -1,6 +1,7 @@
 ---
 title: "Harbor Of The Moons"
 category: "World & Maps"
+parent: city-of-iridine
 ---
 
 # Harbor Of The Moons

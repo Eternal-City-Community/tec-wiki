@@ -1,6 +1,7 @@
 ---
 title: "Bio Ebon"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ebon

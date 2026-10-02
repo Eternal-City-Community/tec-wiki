@@ -1,6 +1,7 @@
 ---
 title: "Influence"
 category: "Reference"
+parent: patricians
 ---
 
 # Influence

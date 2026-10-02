@@ -1,6 +1,7 @@
 ---
 title: "Codex Adventurer Guide Rock Valley"
 category: "World & Maps"
+parent: library-archive
 ---
 
 # Codex Adventurer Guide Rock Valley

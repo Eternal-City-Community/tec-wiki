@@ -1,6 +1,7 @@
 ---
 title: "The Steps East"
 category: "World & Maps"
+parent: the-steps
 ---
 
 # The Steps East

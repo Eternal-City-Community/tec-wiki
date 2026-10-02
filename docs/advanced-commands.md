@@ -1,6 +1,7 @@
 ---
 title: "Advanced Commands"
 category: "Guides & Commands"
+parent: commands
 ---
 
 # Advanced Commands

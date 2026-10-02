@@ -1,6 +1,7 @@
 ---
 title: "The Way Of The Thief"
 category: "Reference"
+parent: guides
 ---
 
 # The Way Of The Thief

@@ -1,6 +1,7 @@
 ---
 title: "Senate"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Senate

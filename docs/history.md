@@ -1,6 +1,7 @@
 ---
 title: "History"
 category: "Lore & Community"
+parent: republic-of-iridine
 ---
 
 # History

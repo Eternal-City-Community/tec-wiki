@@ -1,6 +1,7 @@
 ---
 title: "Bio Lantrastes Pardelian"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lantrastes Pardelian

@@ -1,6 +1,7 @@
 ---
 title: "Bio Kassandra"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Kassandra

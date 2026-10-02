@@ -1,6 +1,7 @@
 ---
 title: "Bio Aeryll"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Aeryll

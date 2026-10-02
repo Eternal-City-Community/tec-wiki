@@ -1,6 +1,7 @@
 ---
 title: "Orchil"
 category: "Reference"
+parent: unofficial-game-clients
 ---
 
 # Orchil

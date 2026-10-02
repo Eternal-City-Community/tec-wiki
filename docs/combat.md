@@ -1,6 +1,7 @@
 ---
 title: "Combat"
 category: "Skills & Combat"
+parent: index
 ---
 
 # Combat

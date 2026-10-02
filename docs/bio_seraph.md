@@ -1,6 +1,7 @@
 ---
 title: "Bio Seraph"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Seraph

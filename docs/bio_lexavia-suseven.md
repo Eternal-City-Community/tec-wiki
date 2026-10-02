@@ -1,6 +1,7 @@
 ---
 title: "Bio Lexavia Suseven"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lexavia Suseven

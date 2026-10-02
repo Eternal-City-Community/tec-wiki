@@ -1,6 +1,7 @@
 ---
 title: "Bio Fik"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fik

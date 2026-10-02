@@ -1,6 +1,7 @@
 ---
 title: "The Steps Central"
 category: "World & Maps"
+parent: the-steps
 ---
 
 # The Steps Central

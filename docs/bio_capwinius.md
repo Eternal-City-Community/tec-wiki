@@ -1,6 +1,7 @@
 ---
 title: "Bio Capwinius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Capwinius

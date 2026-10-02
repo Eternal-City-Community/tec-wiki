@@ -1,6 +1,7 @@
 ---
 title: "Spider Caverns"
 category: "World & Maps"
+parent: the-west-grasslands
 ---
 
 # Spider Caverns

@@ -1,6 +1,7 @@
 ---
 title: "Bio Macro"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Macro

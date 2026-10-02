@@ -1,6 +1,7 @@
 ---
 title: "Guides"
 category: "Guides & Commands"
+parent: index
 ---
 
 # Guides

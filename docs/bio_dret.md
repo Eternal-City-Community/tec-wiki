@@ -1,6 +1,7 @@
 ---
 title: "Bio Dret"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dret

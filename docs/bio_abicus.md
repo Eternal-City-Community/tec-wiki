@@ -1,6 +1,7 @@
 ---
 title: "Bio Abicus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Abicus

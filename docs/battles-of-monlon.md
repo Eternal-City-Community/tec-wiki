@@ -1,6 +1,7 @@
 ---
 title: "Battles Of Monlon"
 category: "World & Maps"
+parent: history
 ---
 
 # Battles Of Monlon

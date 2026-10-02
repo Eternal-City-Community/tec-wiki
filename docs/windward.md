@@ -1,6 +1,7 @@
 ---
 title: "Windward"
 category: "Reference"
+parent: game-world
 ---
 
 # Windward

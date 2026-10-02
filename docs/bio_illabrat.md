@@ -1,6 +1,7 @@
 ---
 title: "Bio Illabrat"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Illabrat

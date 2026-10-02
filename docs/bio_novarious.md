@@ -1,6 +1,7 @@
 ---
 title: "Bio Novarious"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Novarious

@@ -1,6 +1,7 @@
 ---
 title: "Hg Aralex Pit"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Aralex Pit

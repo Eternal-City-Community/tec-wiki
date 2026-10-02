@@ -1,6 +1,7 @@
 ---
 title: "Bio Ronmower"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ronmower

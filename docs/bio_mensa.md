@@ -1,6 +1,7 @@
 ---
 title: "Bio Mensa"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Mensa

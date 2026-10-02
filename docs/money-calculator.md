@@ -1,6 +1,7 @@
 ---
 title: "Money Calculator"
 category: "Items & Economy"
+parent: wealth
 ---
 
 # Money Calculator

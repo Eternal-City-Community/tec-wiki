@@ -1,6 +1,7 @@
 ---
 title: "Bio Rodrigo"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Rodrigo

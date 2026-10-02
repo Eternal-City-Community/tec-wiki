@@ -1,6 +1,7 @@
 ---
 title: "Bio Shin"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Shin

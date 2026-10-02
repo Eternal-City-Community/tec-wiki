@@ -1,6 +1,7 @@
 ---
 title: "Codex Gardens Of Iridine"
 category: "World & Maps"
+parent: fiction
 ---
 
 # Codex Gardens Of Iridine

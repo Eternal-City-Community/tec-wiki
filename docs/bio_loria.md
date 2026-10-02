@@ -1,6 +1,7 @@
 ---
 title: "Bio Loria"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Loria

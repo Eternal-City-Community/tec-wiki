@@ -1,6 +1,7 @@
 ---
 title: "Bio Varsh"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Varsh

@@ -1,6 +1,7 @@
 ---
 title: "Bio Shadicus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Shadicus

@@ -1,6 +1,7 @@
 ---
 title: "Bio Ken"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Ken

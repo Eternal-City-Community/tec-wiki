@@ -1,6 +1,7 @@
 ---
 title: "Veteran Characters"
 category: "Reference"
+parent: character-generator
 ---
 
 # Veteran Characters {#Top}

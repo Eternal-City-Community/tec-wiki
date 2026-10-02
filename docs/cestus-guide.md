@@ -1,6 +1,7 @@
 ---
 title: "Cestus Guide"
 category: "Skills & Combat"
+parent: cestus
 ---
 
 # Cestus Guide

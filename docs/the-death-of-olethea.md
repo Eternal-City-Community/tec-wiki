@@ -1,6 +1,7 @@
 ---
 title: "The Death Of Olethea"
 category: "Reference"
+parent: player-stories
 ---
 
 # The Death Of Olethea

@@ -1,6 +1,7 @@
 ---
 title: "Astraea"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Astraea

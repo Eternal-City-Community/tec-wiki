@@ -1,6 +1,7 @@
 ---
 title: "Franlius Release"
 category: "World & Maps"
+parent: town-of-franlius
 ---
 
 # Franlius Release

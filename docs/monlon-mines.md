@@ -1,6 +1,7 @@
 ---
 title: "Monlon Mines"
 category: "World & Maps"
+parent: monlon-master
 ---
 
 # Monlon Mines

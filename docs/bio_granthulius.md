@@ -1,6 +1,7 @@
 ---
 title: "Bio Granthulius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Granthulius

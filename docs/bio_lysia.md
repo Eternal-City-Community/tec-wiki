@@ -1,6 +1,7 @@
 ---
 title: "Bio Lysia"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lysia

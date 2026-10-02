@@ -1,6 +1,7 @@
 ---
 title: "Bio Melilia Saprius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Melilia Saprius

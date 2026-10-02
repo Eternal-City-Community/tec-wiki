@@ -1,6 +1,7 @@
 ---
 title: "Bio Grath"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Grath

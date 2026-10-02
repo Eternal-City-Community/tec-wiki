@@ -1,6 +1,7 @@
 ---
 title: "Hg Sea Caves"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Sea Caves

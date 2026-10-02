@@ -1,6 +1,7 @@
 ---
 title: "Bio Atua"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Atua

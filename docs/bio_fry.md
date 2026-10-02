@@ -1,6 +1,7 @@
 ---
 title: "Bio Fry"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fry

@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Pepaquest Monlon"
 category: "World & Maps"
+parent: historic-map-pepaquest
 ---
 
 # Historic Map Pepaquest Monlon

@@ -1,6 +1,7 @@
 ---
 title: "Player Stories"
 category: "Reference"
+parent: index
 ---
 
 # Player Stories

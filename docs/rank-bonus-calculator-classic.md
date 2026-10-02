@@ -1,6 +1,7 @@
 ---
 title: "Rank Bonus Calculator Classic"
 category: "Reference"
+parent: rank-bonus-calculator
 ---
 
 # Rank Bonus Calculator Classic

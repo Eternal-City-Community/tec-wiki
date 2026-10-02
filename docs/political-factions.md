@@ -1,6 +1,7 @@
 ---
 title: "Political Factions"
 category: "Reference"
+parent: republic-of-iridine
 ---
 
 # Political Factions

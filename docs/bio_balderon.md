@@ -1,6 +1,7 @@
 ---
 title: "Bio Balderon"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Balderon

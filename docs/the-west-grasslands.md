@@ -1,6 +1,7 @@
 ---
 title: "The West Grasslands"
 category: "World & Maps"
+parent: maps
 ---
 
 # The West Grasslands

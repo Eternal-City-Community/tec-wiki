@@ -1,6 +1,7 @@
 ---
 title: "Bio Lotivus"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Lotivus

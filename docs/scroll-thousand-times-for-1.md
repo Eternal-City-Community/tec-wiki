@@ -1,6 +1,7 @@
 ---
 title: "Scroll Thousand Times For 1"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Thousand Times For 1

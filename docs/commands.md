@@ -1,6 +1,7 @@
 ---
 title: "Commands"
 category: "Guides & Commands"
+parent: roleplaying
 ---
 
 # Commands

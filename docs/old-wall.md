@@ -1,6 +1,7 @@
 ---
 title: "Old Wall"
 category: "Reference"
+parent: city-of-iridine
 ---
 
 # Old Wall

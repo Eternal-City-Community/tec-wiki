@@ -1,6 +1,7 @@
 ---
 title: "Bio Drought"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Drought

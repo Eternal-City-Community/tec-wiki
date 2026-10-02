@@ -1,6 +1,7 @@
 ---
 title: "Historic Map Marnevel"
 category: "World & Maps"
+parent: miscellaneous-maps
 ---
 
 # Historic Map Marnevel

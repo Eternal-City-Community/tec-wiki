@@ -1,6 +1,7 @@
 ---
 title: "Cullaiden Island Temple"
 category: "World & Maps"
+parent: cullaiden-island-map
 ---
 
 # Cullaiden Island Temple

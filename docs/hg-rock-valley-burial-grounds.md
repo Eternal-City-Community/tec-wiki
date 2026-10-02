@@ -1,6 +1,7 @@
 ---
 title: "Hg Rock Valley Burial Grounds"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Rock Valley Burial Grounds

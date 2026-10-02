@@ -1,6 +1,7 @@
 ---
 title: "Stones Ores"
 category: "Reference"
+parent: game-world
 ---
 
 # Stones Ores

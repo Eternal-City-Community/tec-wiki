@@ -1,6 +1,7 @@
 ---
 title: General Rules
 category: Reference
+parent: index
 ---
 # General Rules
 

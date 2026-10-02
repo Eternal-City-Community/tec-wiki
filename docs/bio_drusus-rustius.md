@@ -1,6 +1,7 @@
 ---
 title: "Bio Drusus Rustius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Drusus Rustius

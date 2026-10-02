@@ -1,6 +1,7 @@
 ---
 title: "Bio Tarras"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Tarras

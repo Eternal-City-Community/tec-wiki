@@ -1,6 +1,7 @@
 ---
 title: "Bio Dantius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Dantius

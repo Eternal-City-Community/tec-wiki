@@ -1,6 +1,7 @@
 ---
 title: "Bio Alriic"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Alriic

@@ -1,6 +1,7 @@
 ---
 title: "Bio Gregorius"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Gregorius

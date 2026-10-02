@@ -1,6 +1,7 @@
 ---
 title: "Bio Connea"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Connea

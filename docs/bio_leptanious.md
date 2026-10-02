@@ -1,6 +1,7 @@
 ---
 title: "Bio Leptanious"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Leptanious

@@ -1,6 +1,7 @@
 ---
 title: "Codex Badger Guide Monlon"
 category: "World & Maps"
+parent: library-archive
 ---
 
 # Codex Badger Guide Monlon

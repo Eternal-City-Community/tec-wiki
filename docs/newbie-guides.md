@@ -1,6 +1,7 @@
 ---
 title: "Newbie Guides"
 category: "Guides & Commands"
+parent: guides
 ---
 
 # Newbie Guides

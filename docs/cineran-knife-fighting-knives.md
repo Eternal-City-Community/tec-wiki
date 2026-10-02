@@ -1,6 +1,7 @@
 ---
 title: "Cineran Knife Fighting Knives"
 category: "Skills & Combat"
+parent: knives
 ---
 
 # Cineran Knife Fighting Knives

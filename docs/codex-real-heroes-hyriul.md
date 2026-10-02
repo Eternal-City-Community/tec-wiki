@@ -1,6 +1,7 @@
 ---
 title: "Codex Real Heroes Hyriul"
 category: "Reference"
+parent: library-archive
 ---
 
 # Codex Real Heroes Hyriul

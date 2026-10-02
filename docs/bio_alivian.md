@@ -1,6 +1,7 @@
 ---
 title: "Bio Alivian"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Alivian

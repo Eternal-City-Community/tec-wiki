@@ -1,6 +1,7 @@
 ---
 title: "Herbalism"
 category: "Reference"
+parent: skills
 ---
 
 # Herbalism

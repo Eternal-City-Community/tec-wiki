@@ -1,6 +1,7 @@
 ---
 title: "The Library Of Iridine"
 category: "World & Maps"
+parent: city-of-iridine
 ---
 
 # The Library Of Iridine

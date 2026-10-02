@@ -1,6 +1,7 @@
 ---
 title: "Hg Monlon Mines"
 category: "World & Maps"
+parent: hunting-grounds
 ---
 
 # Hg Monlon Mines

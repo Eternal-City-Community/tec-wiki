@@ -1,6 +1,7 @@
 ---
 title: "Bio Fujin"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Fujin

@@ -1,6 +1,7 @@
 ---
 title: "Bio Hogar"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Hogar

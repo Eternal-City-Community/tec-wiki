@@ -1,6 +1,7 @@
 ---
 title: "Rat Pits And Aralex Pits"
 category: "Reference"
+parent: iridine
 ---
 
 # Rat Pits And Aralex Pits

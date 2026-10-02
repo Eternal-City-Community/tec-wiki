@@ -1,6 +1,7 @@
 ---
 title: "Blockade Of Astraea"
 category: "Skills & Combat"
+parent: astraea
 ---
 
 # Blockade Of Astraea

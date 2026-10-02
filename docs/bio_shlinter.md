@@ -1,6 +1,7 @@
 ---
 title: "Bio Shlinter"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Shlinter

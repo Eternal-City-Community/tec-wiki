@@ -1,6 +1,7 @@
 ---
 title: "Bio Falinia"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Falinia

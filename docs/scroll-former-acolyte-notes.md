@@ -1,6 +1,7 @@
 ---
 title: "Scroll Former Acolyte Notes"
 category: "Reference"
+parent: library-archive
 ---
 
 # Scroll Former Acolyte Notes

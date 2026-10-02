@@ -1,6 +1,7 @@
 ---
 title: "Hg Quartz Heights Boardwalk"
 category: "Reference"
+parent: hunting-grounds
 ---
 
 # Hg Quartz Heights Boardwalk

@@ -1,6 +1,7 @@
 ---
 title: "Republic Of Iridine"
 category: "World & Maps"
+parent: game-world
 ---
 
 # Republic Of Iridine

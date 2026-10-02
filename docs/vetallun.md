@@ -1,6 +1,7 @@
 ---
 title: "Vetallun"
 category: "World & Maps"
+parent: the-west-grasslands
 ---
 
 # Vetallun

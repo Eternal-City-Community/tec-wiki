@@ -1,6 +1,7 @@
 ---
 title: "Vestis Formatae"
 category: "Reference"
+parent: orgs
 ---
 
 # Vestis Formatae

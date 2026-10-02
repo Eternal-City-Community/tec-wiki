@@ -1,6 +1,7 @@
 ---
 title: "Herbalism Guide"
 category: "Guides & Commands"
+parent: herbalism
 ---
 
 # Herbalism Guide

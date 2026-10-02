@@ -1,6 +1,7 @@
 ---
 title: "Bio Wayreth"
 category: "Character Bios"
+parent: character-bios
 ---
 
 # Bio Wayreth
