@@ -41,7 +41,7 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 
 
 | Quality | RB Bonus |
-| --- | --- |
+| :---: | :---: |
 | Flawless | +125 |
 | Near Perfectly Crafted | +120 |
 | Very Exquisite | +113 |
@@ -52,7 +52,7 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 
 
 | Quality | RB Bonus |
-| --- | --- |
+| :---: | :---: |
 | Very Phenomenal | +80 |
 | Phenomenal | +73 |
 | Fairly Phenomenal | +67 |
@@ -63,7 +63,7 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 
 
 | Quality | RB Bonus |
-| --- | --- |
+| :---: | :---: |
 | Very Good | +33 |
 | Good | +27 |
 | Fairly Good | +20 |
@@ -74,7 +74,7 @@ The **RB Bonus** listed, refers to how the **quality of your lockpick** will **i
 
 
 | Quality | RB Bonus |
-| --- | --- |
+| :---: | :---: |
 | Below Average | -13 |
 | Poor | -20 |
 | Somewhat Poor | -27 |
@@ -90,11 +90,11 @@ The following lists the weight (in pounds) of various items, organized by materi
 Note that keys which are added to a keyring become effectively weightless - the keyring will always weigh the same amount regardless of how many keys are on it.
 
 |  | Tin | Bronze | Iron | Brass | Copper | Silver | Alanti | Boison | Retalq |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| key (forged) | 0.1 | 0.2 | 0.2 | 0.3 | 0.3 | 0.3 | ? | ? | ? |
-| lockpick (forged) | 0.1 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | ? | ? | ? |
-| thin wire / fashioned lockpick | <0.1 | 0.2 | 0.2 | 0.3 | 0.3 | 0.3 | ? | ? | ? |
-| thick wire / fashioned keyring | 0.2 | 0.6 | 0.8 | 0.9 | 0.9 | 1.1 | ? | ? | 0.2 |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ~ key (forged) | 0.1 | 0.2 | 0.2 | 0.3 | 0.3 | 0.3 | ? | ? | ? |
+| ~ lockpick (forged) | 0.1 | 0.4 | 0.5 | 0.6 | 0.6 | 0.7 | ? | ? | ? |
+| ~ thin wire / fashioned lockpick | <0.1 | 0.2 | 0.2 | 0.3 | 0.3 | 0.3 | ? | ? | ? |
+| ~ thick wire / fashioned keyring | 0.2 | 0.6 | 0.8 | 0.9 | 0.9 | 1.1 | ? | ? | 0.2 |
 
 ### Tasks
 
@@ -115,12 +115,12 @@ The below steps use the furnaces across from Apula's as the example.
 
 | **Step 1**: Creating a wax imprint | - Make sure to have a piece of wax and the instrument inhand.<br>- Imprint the wax with the instrument. ([*/locksmithing#Wax-Imprint Create Wax Imprint])<br>- Example: '**imprint wax with key**'.<br>- Repeat until finished. *(# rolls vary on skill level)* |
 | --- | --- |
-| **Step 1-B** *(optional)* : Etch Text into Imprint. | - Make sure to have a stylus inhand.<br>- Etch characters onto the wax imprint. ([*/locksmithing#Wax-Letter-Etching Wax Letter Etching])<br>- Example: '**etch imprint Home**'.<br>- See [Etching](#Etching) for more details. |
-| **Step 2**: Creating a clay mold. | - Hold the imprinted wax and a piece of clay in your hands.<br>- Create a mold from the wax imprint. ([*/locksmithing#Clay-Mold Create Clay Mold])<br>- Example: '**create mold of imprint with clay**'.<br>- Repeat until finished. *(# rolls vary on skill level)* |
-| **Step 3**: Baking the clay mold. | - Bake the mold over the furnace.<br>- **Light the brick furnace** for a low fire.<br>- Make sure to hold a pair of tongs!<br>- Heat the clay over the furnace.<br>- Example: '**heat clay over brick**'<br>- Repeat until done. *(~6 echoes)* |
-| **Step 4**: Getting liquid metal. | - **Light the iron furnace** for a strong fire.<br>- Get a crucible and put a piece of metal slag inside. *(your choice of metal!)*<br>- Hold the crucible and the tongs in hand, then heat the crucible over the furnace.<br>- Example: '**heat crucible over iron furnace**'.<br>- Repeat until you have liquid metal. *(~8 echoes)* |
-| **Step 5**: Forge the key/lockpick. | - Pour liquid metal into mold. ([*/locksmithing#Forge-Lock-Instrument Forge Lock Instrument])<br>- Example: '**forge tool with crucible and mold**'. |
-| **Step 6** *(optional)*: Destroy the mold. | - Destroy the mold so it cannot be used to create duplicates of the same key.<br>- Example: '**crack mold**'. |
+| ~ **Step 1-B** *(optional)* : Etch Text into Imprint. | - Make sure to have a stylus inhand.<br>- Etch characters onto the wax imprint. ([*/locksmithing#Wax-Letter-Etching Wax Letter Etching])<br>- Example: '**etch imprint Home**'.<br>- See [Etching](#Etching) for more details. |
+| ~ **Step 2**: Creating a clay mold. | - Hold the imprinted wax and a piece of clay in your hands.<br>- Create a mold from the wax imprint. ([*/locksmithing#Clay-Mold Create Clay Mold])<br>- Example: '**create mold of imprint with clay**'.<br>- Repeat until finished. *(# rolls vary on skill level)* |
+| ~ **Step 3**: Baking the clay mold. | - Bake the mold over the furnace.<br>- **Light the brick furnace** for a low fire.<br>- Make sure to hold a pair of tongs!<br>- Heat the clay over the furnace.<br>- Example: '**heat clay over brick**'<br>- Repeat until done. *(~6 echoes)* |
+| ~ **Step 4**: Getting liquid metal. | - **Light the iron furnace** for a strong fire.<br>- Get a crucible and put a piece of metal slag inside. *(your choice of metal!)*<br>- Hold the crucible and the tongs in hand, then heat the crucible over the furnace.<br>- Example: '**heat crucible over iron furnace**'.<br>- Repeat until you have liquid metal. *(~8 echoes)* |
+| ~ **Step 5**: Forge the key/lockpick. | - Pour liquid metal into mold. ([*/locksmithing#Forge-Lock-Instrument Forge Lock Instrument])<br>- Example: '**forge tool with crucible and mold**'. |
+| ~ **Step 6** *(optional)*: Destroy the mold. | - Destroy the mold so it cannot be used to create duplicates of the same key.<br>- Example: '**crack mold**'. |
 
 ##### Etching {#Etching}
 You can inscribe a small amount of characters onto a lockpick using [Wax Letter Etching](/locksmithing/#Wax-Letter-Etching) which will show when you look at it. Your rank in **basics does not** seem to **help**.
@@ -132,7 +132,7 @@ This lockpick has raised elegant lettering that reads, 'Awesome'.
 
 
 | Rank | # characters | lettering |
-| --- | --- | --- |
+| :---: | --- | --- |
 | 1 - 3 | 1 character | very crude lettering |
 | 4 - 9 | 2 characters | very crude lettering |
 | 10 - 19 | 4 characters | crude block lettering |
@@ -143,7 +143,7 @@ This lockpick has raised elegant lettering that reads, 'Awesome'.
 
 
 | Rank | # characters | lettering |
-| --- | --- | --- |
+| :---: | --- | --- |
 | 60 - 69 | 10 characters | curling lettering |
 | 70 - 79 | 10 characters | curling lettering |
 | 80 | 12 characters | elegant lettering |
@@ -177,7 +177,7 @@ Keyrings can be **made of** the following material:
 Below is the list of **keyring sizes** that can be created. 
 
 | Keyring Size | Keyring Quality | Capacity |
-| --- | --- | --- |
+| --- | --- | ---: |
 | a somewhat tiny *<metal>* keyring | Poor | 6 |
 | a somewhat tiny *<metal>* keyring | Slightly Below-Average | 6 |
 | a somewhat tiny *<metal>* keyring | Average | 7 |
@@ -196,7 +196,7 @@ NPC jobs are available at specific locations in the game world. Below is a list 
 In order to be offered a job, you must first meet the rank requirements.
 
 | Job Type | Rank Requirements |
-| --- | --- |
+| --- | :---: |
 | Unlock a container | Rank 1 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at Apula's<br>Rank 10 [Pick Lock-Unlocking](/locksmithing/#Lock-Unlocking) at other locations |
 | Lock a container | Rank 10 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at Apula's<br>Rank 1 [Pick Lock-Locking](/locksmithing/#Lock-Locking) at other locations |
 | Unjam a container | Rank 10 [Unjam Lock](/locksmithing/#Unjam-Lock) |
@@ -210,7 +210,7 @@ Apula is the original OG of locksmithing jobs, her shop is serves as the hub for
 Being in the city center, there's also a high chance of making money from player characters coming by with their own locked containers from hunting grounds, in search of a locksmith.
 
 | Type | Required Materials | Payment | Est. Profit | Notes |
-| --- | --- | --- | --- | --- |
+| --- | :---: | ---: | ---: | --- |
 | Unlocking | a lockpick | ~25d | ~25d |  |
 | Locking | a lockpick | ~32d | ~32d |  |
 | Unjamming | a lockpick | ~57d | ~57d |  |
@@ -223,7 +223,7 @@ Being in the city center, there's also a high chance of making money from player
 #### Admina (Rock Valley)
 
 | Type | Required Materials | Payment | Est. Profit | Notes |
-| --- | --- | --- | --- | --- |
+| --- | :---: | ---: | ---: | --- |
 | Unlocking | a lockpick | ~25d | ~25d |  |
 | Locking | a lockpick | ~35d | ~35d |  |
 | Unjamming | a lockpick | ~51 | ~51d |  |
@@ -236,7 +236,7 @@ Being in the city center, there's also a high chance of making money from player
 #### Fefellus (Vetallun)
 
 | Type | Requires | Payment | Est. Profit | Notes |
-| --- | --- | --- | --- | --- |
+| --- | :---: | ---: | ---: | --- |
 | Unlocking | a lockpick | ~25d | ~25d |  |
 | Locking | a lockpick | ~35d | ~35d |  |
 | Unjamming | a lockpick | ~51 | ~51d |  |
@@ -249,7 +249,7 @@ Being in the city center, there's also a high chance of making money from player
 #### Ititia (Blackvine)
 
 | Type | Requires | Payment | Est. Profit | Notes |
-| --- | --- | --- | --- | --- |
+| --- | :---: | ---: | ---: | --- |
 | Unlocking | a lockpick | ~23d | ~23d |  |
 | Locking | a lockpick | ~35d | ~35d |  |
 | Unjamming | a lockpick | ~52 | ~52d |  |

@@ -17,7 +17,7 @@ category: "Skills & Combat"
 Weapon roundtime with outstanding speed (190+):
 
 | Weapon Type | Most Attacks | Simple Bash &<br>Stepping Crush | Knock Aside,<br>Leg Strike &<br>Shield-Breaker |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | :---: |
 | retalq mace<br>iron mace<br>bronze mace<br>bronze chisel hammer<br>iron claw hammer<br>iron hammer<br>bronze hammer<br>stone hammer<br>wooden cane<br>wooden club<br>bone club | 1 + MoS | 1 + MoS | 2 + MoS |
 | boison mace<br>boison chisel hammer<br>iron chisel hammer<br>Blackroot war-club | 2 + MoS | 1 + MoS | 2 + MoS |
 
@@ -29,7 +29,7 @@ In this damage ranking table, 1 is the best/highest raw damage. Some crushing we
 This ranking does not factor in critical hit frequency/quality or the difference between piercing & bludgeoning damage. It simply ranks weapons based on the roll-over-success required to achieve the highest damage tier on an unarmored humanoid opponent.
 
 | Damage Rank | Weapon(s) | Maximum Damage Tier<br>(with 230 strength) |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | retalq spiked mace<br>boison spiked mace | 5 |
 | 2 | iron spiked mace (reforged) | 5 |
 | 3 | convertable boison mace | 5 |

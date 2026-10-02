@@ -18,13 +18,13 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 
 |  | Torch description | Torch quality |
 | --- | --- | --- |
-| Rank 1 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
-| Rank 10 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
-| Rank 20 | somewhat simple<br>simple<br>somewhat well-crafted | average<br>average<br>excellently made |
-| Rank 30 | simple<br>somewhat well-crafted<br>well-crafted | average<br>excellently made<br>excellently made - made by an expert |
-| Rank 40 | somewhat well-crafted<br>well-crafted<br>very well-crafted | excellently made<br>excellently made - made by an expert<br>made by an expert |
-| Rank 50 | somewhat well-crafted<br>well-crafted<br>very well-crafted<br>finely crafted | excellently made<br>excellently made - made by an expert<br>made by an expert<br>made by a master craftsman |
-| Rank 60 | well-crafted<br>very well-crafted<br>finely crafted | made by an expert<br>made by an expert<br>made by a master craftsman |
+| ~ Rank 1 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
+| ~ Rank 10 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
+| ~ Rank 20 | somewhat simple<br>simple<br>somewhat well-crafted | average<br>average<br>excellently made |
+| ~ Rank 30 | simple<br>somewhat well-crafted<br>well-crafted | average<br>excellently made<br>excellently made - made by an expert |
+| ~ Rank 40 | somewhat well-crafted<br>well-crafted<br>very well-crafted | excellently made<br>excellently made - made by an expert<br>made by an expert |
+| ~ Rank 50 | somewhat well-crafted<br>well-crafted<br>very well-crafted<br>finely crafted | excellently made<br>excellently made - made by an expert<br>made by an expert<br>made by a master craftsman |
+| ~ Rank 60 | well-crafted<br>very well-crafted<br>finely crafted | made by an expert<br>made by an expert<br>made by a master craftsman |
 
 ** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*
 
@@ -52,13 +52,13 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 
 | Rank | Torch description | Torch quality |
 | --- | --- | --- |
-| Rank 1 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
-| Rank 10 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
-| Rank 20 | somewhat simple<br>simple<br>somewhat well-crafted | average<br>average<br>excellently made |
-| Rank 30 | simple<br>somewhat well-crafted<br>well-crafted | average<br>excellently made<br>excellently made - made by an expert |
-| Rank 40 | somewhat well-crafted<br>well-crafted<br>very well-crafted | excellently made<br>excellently made - made by an expert<br>made by an expert |
-| Rank 50 | somewhat well-crafted<br>well-crafted<br>very well-crafted<br>finely crafted | excellently made<br>excellently made - made by an expert<br>made by an expert<br>made by a master craftsman |
-| Rank 60 | well-crafted<br>very well-crafted<br>finely crafted | made by an expert<br>made by an expert<br>made by a master craftsman |
+| ~ Rank 1 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
+| ~ Rank 10 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
+| ~ Rank 20 | somewhat simple<br>simple<br>somewhat well-crafted | average<br>average<br>excellently made |
+| ~ Rank 30 | simple<br>somewhat well-crafted<br>well-crafted | average<br>excellently made<br>excellently made - made by an expert |
+| ~ Rank 40 | somewhat well-crafted<br>well-crafted<br>very well-crafted | excellently made<br>excellently made - made by an expert<br>made by an expert |
+| ~ Rank 50 | somewhat well-crafted<br>well-crafted<br>very well-crafted<br>finely crafted | excellently made<br>excellently made - made by an expert<br>made by an expert<br>made by a master craftsman |
+| ~ Rank 60 | well-crafted<br>very well-crafted<br>finely crafted | made by an expert<br>made by an expert<br>made by a master craftsman |
 
 3
 4

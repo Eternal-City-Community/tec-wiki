@@ -115,9 +115,9 @@ The following table includes sample prices for most gems from all of the [gem bu
 <summary>+ Show Stone Prices</summary>
 
 
-|  |  | Stone Info |  |  |  | Buyer |
+| >> | >> | Stone Info | >> | >> | >> | Buyer |
 | --- | --- | --- | --- | --- | --- | --- |
-| Description | Stone Type | Size | Larunda | Mondan | Orphilius | Corthina |
+| ~ Description | ~ Stone Type | ~ Size | ~ Larunda | ~ Mondan | ~ Orphilius | ~ Corthina |
 | a tiny perfectly round black stone | a black pearl | tiny | 237d 2st 1s | 247d 2st | 264d | 356d 1st 1s |
 | a small perfectly round black stone | a black pearl | small | 295d 2s | 307d 2st | 328d | 442d 3st |
 | a large perfectly round black stone | a black pearl | large | 352d 3st | 367d 2st | 392d | 529d 2s |

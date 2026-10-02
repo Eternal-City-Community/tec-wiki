@@ -17,35 +17,35 @@ The falcata is a versatile weapon that could be used for both hacking and thrust
 **For guidance on using the skill set, see the [Falcata Guide](/falcata-guide/)**.
 
 
-|  |  |  |  |  | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Sataria | Sphara |
-| *<u>Falcata Sword Fighting</u>* | Easy | - | - | - | - | 200 | 500 |
-| [Falcata Striker's Stance](#strikerstance) | Easy | Either | - | - | - | 100 | 500 |
-| [Falcata Slash](#slash) | Easy | Either | Short | Cut | - | 200 | 500 |
-| [Falcata Chop](#chop) | Easy | Either | Short | Cut | - | 200 | 500 |
-| [Falcata Stab](#stab) | Easy | Either | Short | Pierce | - | 200 | 500 |
-| [Falcata Tang Strike](#strike) | Easy | Either | Short | Bruise | - | 200 | 500 |
-| [Falcata Mugger Hold](#mug) | Easy | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
-| [Falcata Cross Strike](#cstrike) | Average | Either | Short | Bruise | - | 200 | 500 |
-| [Falcata Lunge](#lunge) | Average | Either | Long | Pierce | - | 200 | 500 |
-| [Falcata Feint](#feint) | Average | Either | Short | - | - | 200 | 500 |
-| [Falcata Leg Strike](#legstrike) | Average | 1 | Short | Cut | *Free Off Hand* | 200 | 500 |
+| >> | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: | --- | :---: | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Sataria | ~ Sphara |
+| *<u>Falcata Sword Fighting</u>* | Easy | - | - | = - | - | 200 | 500 |
+| [Falcata Striker's Stance](#strikerstance) | Easy | Either | - | = - | - | 100 | 500 |
+| [Falcata Slash](#slash) | Easy | Either | Short | = Cut | - | 200 | 500 |
+| [Falcata Chop](#chop) | Easy | Either | Short | = Cut | - | 200 | 500 |
+| [Falcata Stab](#stab) | Easy | Either | Short | = Pierce | - | 200 | 500 |
+| [Falcata Tang Strike](#strike) | Easy | Either | Short | = Bruise | - | 200 | 500 |
+| [Falcata Mugger Hold](#mug) | Easy | 1 | Short | = Cut | *Free Off Hand* | 200 | 500 |
+| [Falcata Cross Strike](#cstrike) | Average | Either | Short | = Bruise | - | 200 | 500 |
+| [Falcata Lunge](#lunge) | Average | Either | Long | = Pierce | - | 200 | 500 |
+| [Falcata Feint](#feint) | Average | Either | Short | = - | - | 200 | 500 |
+| [Falcata Leg Strike](#legstrike) | Average | 1 | Short | = Cut | *Free Off Hand* | 200 | 500 |
 | [Falcata Wide Strike](#wstrike) | Average | Either | Short | Pierce | Falcata Striker's Stance | 200 | 500 |
-| [Falcata Smash and Slash](#smash) | Average | 1 | Short | Bruise<br>Cut | Wielded **Shield** | 200 | 500 |
-| [Falcata Guarded Charge](#charge) | Average | 1 | Long | Pierce | Wielded **Shield**<br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
-| [Falcata Triple Strike](#tstrike) | Average | Either | Short | Cut<br>Cut<br>Pierce | *No Shield*<br>Falcata Striker's Stance<br>10 Ranks in [Falcata Chop](#chop)<br>10 ranks in [Falcata Slash](#slash)<br>10 ranks in [Falcata Stab](#stab) | 200 | 500 |
-| [Falcata Heavy Slash](#hslash) | Average | Either | Short | Cut | Falcata Striker's Stance<br>30 Ranks in [Falcata Slash](#slash) | 200 | 500 |
-| [Falcata Sudden Stab](#sustab) | Average | Either | Either | Pierce | 40 Ranks in *[# Falcata]* | 200 | 500 |
-| [Falcata Tumble Slash](#tslash) | Difficult | Either | Long | Cut | *No Shield*<br>Falcata Striker's Stance<br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
-| [Falcata Feigning Thrust](#fthrust) | Difficult | Either | Short | - | Falcata Striker's Stance<br>20 Ranks in [Falcata Feint](#feint) | 200 | 500 |
-| [Falcata Simple Block](#simple-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Wrist Block](#wrist-block) | Easy | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Overhead Block](#overhead-block) | Average | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Round Block](#round-block) | Average | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Low Block](#low-block) | Difficult | Either | - | - | *No Shield* | 200 | 500 |
-| [Falcata Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
-| [Falcata Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
+| [Falcata Smash and Slash](#smash) | Average | 1 | Short | = Bruise<br>Cut | Wielded **Shield** | 200 | 500 |
+| [Falcata Guarded Charge](#charge) | Average | 1 | Long | = Pierce | Wielded **Shield**<br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
+| [Falcata Triple Strike](#tstrike) | Average | Either | Short | = Cut<br>Cut<br>Pierce | *No Shield*<br>Falcata Striker's Stance<br>10 Ranks in [Falcata Chop](#chop)<br>10 ranks in [Falcata Slash](#slash)<br>10 ranks in [Falcata Stab](#stab) | 200 | 500 |
+| [Falcata Heavy Slash](#hslash) | Average | Either | Short | = Cut | Falcata Striker's Stance<br>30 Ranks in [Falcata Slash](#slash) | 200 | 500 |
+| [Falcata Sudden Stab](#sustab) | Average | Either | Either | = Pierce | 40 Ranks in *[# Falcata]* | 200 | 500 |
+| [Falcata Tumble Slash](#tslash) | Difficult | Either | Long | = Cut | *No Shield*<br>Falcata Striker's Stance<br>20 Ranks in [Falcata Lunge](#lunge) | 200 | 500 |
+| [Falcata Feigning Thrust](#fthrust) | Difficult | Either | Short | = - | Falcata Striker's Stance<br>20 Ranks in [Falcata Feint](#feint) | 200 | 500 |
+| [Falcata Simple Block](#simple-block) | Easy | Either | - | = - | *No Shield* | 200 | 500 |
+| [Falcata Wrist Block](#wrist-block) | Easy | Either | - | = - | *No Shield* | 200 | 500 |
+| [Falcata Overhead Block](#overhead-block) | Average | Either | - | = - | *No Shield* | 200 | 500 |
+| [Falcata Round Block](#round-block) | Average | Either | - | = - | *No Shield* | 200 | 500 |
+| [Falcata Low Block](#low-block) | Difficult | Either | - | = - | *No Shield* | 200 | 500 |
+| [Falcata Accuracy](#Accuracy) | Difficult | - | - | = - | - | 100 | 175 |
+| [Falcata Grip](#Grip) | Impossible | - | - | = - | - | 100 | 175 |
 
 **Directions to Sataria** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Sphara** ([Kelestian Outpost](/monlon-ravines/)): Find Sphara in the Kelestian outputs in the Monlon ravines.

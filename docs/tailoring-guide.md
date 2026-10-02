@@ -36,7 +36,7 @@ Below you'll find everything important to know about [Tailoring](/tailoring/).
 Below is a list of the various tools of the trade necessary for tailoring. 
 
 | Tools | Used For | Comments |
-| --- | --- | --- |
+| :---: | :---: | --- |
 | Fabric (aka Cloth) | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
 | Sewing Scissors | [Creating Clothing](#Clothing) | Available for purchase in [shops](/shops/) |
 | Sewing Needle | [Creating Clothing](#Clothing), [Stitch Pattern](#Stitching) | Available for purchase in [shops](/shops/) |
@@ -76,45 +76,45 @@ The below chart columns reference the base materials, but includes all variants 
 
 
 | Item | Length(s) | Wool | Linen | Doeskin | Muslin | Madras | Cotton | Silk | Suede | Velvet | Fur | Leather |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Apron | **1 <sup>1/4</sup>** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Blanket | **2** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
-| Breeches | **1** | Y | Y | Y | N | N | Y | Y | Y | N | Y | Y |
-| Cap | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Cape | **2** | Y | Y | N | N | Y | Y | Y | N | Y | N | N |
-| Chiton | **2 <sup>3/4</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Cloak | **2** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Fingerless Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Hair Ribbon | **<sup>1/8</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Hat | **<sup>1/2</sup> + <sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | N |
-| Headband | **<sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Headscarf | **<sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Loincloth | **<sup>3/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Neckpouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Paenula | **2** | Y | N | Y | N | N | Y | N | Y | N | N | N |
-| Pants | **1** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
-| Pouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Robe | **2** | Y | Y | Y | Y | N | Y | Y | N | N | N | N |
-| Sack | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | Y | N | N |
-| Scarf | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Shirt | **1 <sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Simple Belt | **<sup>1/4</sup>** | Y | Y | Y | N | Y | Y | Y* | Y | N | N | N |
-| Skullcap | **<sup>1/2</sup>** | Y | Y | Y | Y | N | Y | N | Y | N | Y | Y |
-| Sleeveless Tunic | **1** | Y | Y | N | Y | N | Y | Y | N | N | N | N |
-| Slippers *(upper)* | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Slippers *(sole)* | **<sup>1/8</sup>** | N | N | Y | N | N | N | N | N | N | N | Y |
-| Socks | **<sup>1/4</sup>** | Y | Y | N | N | N | Y | Y | N | N | Y | N |
-| Stola | **1 <sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Apron | **1 <sup>1/4</sup>** | Y | Y | ~ N | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N |
+| Blanket | **2** | Y | Y | Y | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Breeches | **1** | Y | Y | Y | ~ N | ~ N | Y | Y | Y | ~ N | Y | Y |
+| Cap | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Cape | **2** | Y | Y | ~ N | ~ N | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Chiton | **2 <sup>3/4</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Cloak | **2** | Y | Y | ~ N | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N |
+| Fingerless Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Hair Ribbon | **<sup>1/8</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Hat | **<sup>1/2</sup> + <sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | Y | ~ N |
+| Headband | **<sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Headscarf | **<sup>1/2</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Loincloth | **<sup>3/4</sup>** | Y | Y | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | ~ N |
+| Neckpouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Paenula | **2** | Y | ~ N | Y | ~ N | ~ N | Y | ~ N | Y | ~ N | ~ N | ~ N |
+| Pants | **1** | Y | Y | Y | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Pouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Robe | **2** | Y | Y | Y | Y | ~ N | Y | Y | ~ N | ~ N | ~ N | ~ N |
+| Sack | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Sash | **<sup>1/4</sup>** | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | Y | ~ N | ~ N |
+| Scarf | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | ~ N |
+| Shirt | **1 <sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Simple Belt | **<sup>1/4</sup>** | Y | Y | Y | ~ N | Y | Y | Y* | Y | ~ N | ~ N | ~ N |
+| Skullcap | **<sup>1/2</sup>** | Y | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | Y | Y |
+| Sleeveless Tunic | **1** | Y | Y | ~ N | Y | ~ N | Y | Y | ~ N | ~ N | ~ N | ~ N |
+| Slippers *(upper)* | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Slippers *(sole)* | **<sup>1/8</sup>** | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N | ~ N | ~ N | Y |
+| Socks | **<sup>1/4</sup>** | Y | Y | ~ N | ~ N | ~ N | Y | Y | ~ N | ~ N | Y | ~ N |
+| Stola | **1 <sup>1/2</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
 | Strophium | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | Subligar | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| Toga | **4** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Towel | **1** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Tunic | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
-| Tunica | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
-| Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Waist Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
+| Toga | **4** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Towel | **1** | Y | Y | ~ N | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N |
+| Tunic | **1 <sup>1/2</sup>** | Y | Y | ~ N | Y | ~ N | Y | Y | ~ N | Y | ~ N | ~ N |
+| Tunica | **1 <sup>1/2</sup>** | Y | Y | ~ N | Y | ~ N | Y | Y | ~ N | Y | ~ N | ~ N |
+| Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Waist Sash | **<sup>1/4</sup>** | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | ~ N | ~ N | ~ N |
 
 
 **Note:** Fur, Leather, Rawhide & Suede are listed various recipes but are not readily available for purchase. There materials are available via @request.
@@ -144,14 +144,14 @@ The below **step-by-step** guide explain how to create a clothing item, using **
 
 | 1: Recall Master Recipe | - When making an item, the recommended first thing to do is recall the recipe want to make.<br>- Each master recipe will list its related sub-recipes.<br>- You have to type the full name, no shortcuts.<br><br>- Example: '**recall neckpouch recipe**'.<br><br>*To make a Neckpouch:*<br>** Sew two Pouch Squares together to create the pouch body.*<br>** Hem the Pouch to complete it.* _ |
 | --- | --- |
-| Prepare Pieces (2.1 - 2.4)<br>*(repeat as needed)* | - A master recipe will require multiple pieces/parts.<br>- **Repeat steps 2.1, 2.2, 2.3 & 2.4 as needed** to create the appropriate pieces.<br>- In this example, because we need **two (2) pouch squares**, we would perform steps 2.1 to 2.3 twice. _ |
-| 2.1: Recall Sub-Recipe | - Recall the sub-recipe item you wish to make.<br>- The recipe will tell you how much fabric is required.<br><br>- Example: '**recall pouch square recipe**'.<br><br>*To make a Pouch Square:*<br>** Lay out an eighth length of fabric.*<br>** Cut the part from the fabric.* _ |
-| 2.2: Layout Fabric | - With the sub-recipe fresh in your mind, position the pattern over your [correctly sized fabric](#HandlingCloth). ([Patternwork](/tailoring/#Patternwork))<br>- With **pattern in-hand** (e.g. pouch square pattern).<br><br>- Example: '**layout eighth**'.<br>- The description changes to *"a homespun wool cloth **laid out** for a pouch square"*. _ |
-| 2.3: Cut Pattern | - With the pattern laid out over the fabric, cut the cloth into the pattern. ([Tailor's Shears](/tailoring/#Tailors-Shears))<br>- With **sewing scissors in-hand**.<br><br>- Example: '**cut laid**'.<br>- The description changes to *"a homespun wool **cut-out** in the shape of a pouch square"*. _ |
-| 2.4: Complete Part<br>*(if needed)* | - Certain sub-recipes require sewing to finish.<br>- This example does not need it, but if making a shirt, you need to sew a sleeve to itself to complete an individual sleeve.<br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew sleeve to sleeve**'. _ |
-| 3: Recall Master Recipe | - Recall the recipe of the overall item you want to make.<br><br>- Example: '**recall neckpouch recipe**'.<br><br>*To make a Neckpouch:*<br>** Sew two Pouch Squares together to create the pouch body.*<br>** Hem the Pouch to complete it.* _ |
-| 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#Basic-Sewing))<br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew square to 2 square**'.<br>- The description changes to *"**an incomplete neckpouch**"*. _ |
-| 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#Basic-Hemming))<br><br>- Example: '**hem incomplete**'.<br>- The description changes to *"a homespun wool neckpouch"*. _ |
+| ~ Prepare Pieces (2.1 - 2.4)<br>*(repeat as needed)* | - A master recipe will require multiple pieces/parts.<br>- **Repeat steps 2.1, 2.2, 2.3 & 2.4 as needed** to create the appropriate pieces.<br>- In this example, because we need **two (2) pouch squares**, we would perform steps 2.1 to 2.3 twice. _ |
+| ~ 2.1: Recall Sub-Recipe | - Recall the sub-recipe item you wish to make.<br>- The recipe will tell you how much fabric is required.<br><br>- Example: '**recall pouch square recipe**'.<br><br>*To make a Pouch Square:*<br>** Lay out an eighth length of fabric.*<br>** Cut the part from the fabric.* _ |
+| ~ 2.2: Layout Fabric | - With the sub-recipe fresh in your mind, position the pattern over your [correctly sized fabric](#HandlingCloth). ([Patternwork](/tailoring/#Patternwork))<br>- With **pattern in-hand** (e.g. pouch square pattern).<br><br>- Example: '**layout eighth**'.<br>- The description changes to *"a homespun wool cloth **laid out** for a pouch square"*. _ |
+| ~ 2.3: Cut Pattern | - With the pattern laid out over the fabric, cut the cloth into the pattern. ([Tailor's Shears](/tailoring/#Tailors-Shears))<br>- With **sewing scissors in-hand**.<br><br>- Example: '**cut laid**'.<br>- The description changes to *"a homespun wool **cut-out** in the shape of a pouch square"*. _ |
+| ~ 2.4: Complete Part<br>*(if needed)* | - Certain sub-recipes require sewing to finish.<br>- This example does not need it, but if making a shirt, you need to sew a sleeve to itself to complete an individual sleeve.<br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew sleeve to sleeve**'. _ |
+| ~ 3: Recall Master Recipe | - Recall the recipe of the overall item you want to make.<br><br>- Example: '**recall neckpouch recipe**'.<br><br>*To make a Neckpouch:*<br>** Sew two Pouch Squares together to create the pouch body.*<br>** Hem the Pouch to complete it.* _ |
+| ~ 4: Sew Item | - Sew all the cut out pieces together. ([Basic Sewing](/tailoring/#Basic-Sewing))<br>- With **a *(threaded)* sewing needle** & **a thimble in-hand**.<br><br>- Example: '**sew square to 2 square**'.<br>- The description changes to *"**an incomplete neckpouch**"*. _ |
+| ~ 5: Hem Item | - Hem the garment to complete it. ([Basic Hemming](/tailoring/#Basic-Hemming))<br><br>- Example: '**hem incomplete**'.<br>- The description changes to *"a homespun wool neckpouch"*. _ |
 
 #### Handling Cloth {#HandlingCloth}
 
@@ -177,7 +177,7 @@ An example would be adding **crossed axes stitching** to '*a homespun wool neckp
 
 | Step 1: Recall Lore | - When adding a stitch, the first thing to do is recall the stitch you want to make.<br>- You have to type the full name, no shortcuts.<br>- Example: '**recall maker's mark**'.<br><br>*The maker's mark allows someone to identify the maker of an item by inspecting it.*<br>*To add a maker's mark:*<br>* * Stitch your Maker's Mark onto the garment.* _ |
 | --- | --- |
-| Step 2 : Stitch Pattern<br>(repeat as needed) | - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#Stitch-Pattern))<br>- Some stitches will require multiple successes to complete. Repeat as needed.<br>- Example: '**stitch neckpouch**'.<br><br>*To make a Pouch Square:*<br>** Lay out an eighth length of fabric.*<br>** Cut the part from the fabric.* _ |
+| ~ Step 2 : Stitch Pattern<br>(repeat as needed) | - Stitch it onto a created item. ([Stitch Pattern](/tailoring/#Stitch-Pattern))<br>- Some stitches will require multiple successes to complete. Repeat as needed.<br>- Example: '**stitch neckpouch**'.<br><br>*To make a Pouch Square:*<br>** Lay out an eighth length of fabric.*<br>** Cut the part from the fabric.* _ |
 
 #### Mend Clothing {#Mending}
 
@@ -203,9 +203,9 @@ There are consignment boards in the following locations.
 | [Monlon](/monlon/) | Timmis | Since this shop sells very expensive fabric, this is typically the most profitable consignment board. |
 
 
-|  |  |  |  | Consignment Example |
-| --- | --- | --- | --- | --- |
-| Item | Fabric | Payment | Cost of materials | Est. Profit |
+| >> | >> | >> | >> | Consignment Example |
+| :---: | :---: | ---: | ---: | ---: |
+| ~ Item | ~ Fabric | ~ Payment | ~ Cost of materials | ~ Est. Profit |
 | a loincloth | green linen | 967d 2st | 844d | 123d |
 | a blanket | faded purple cotton | 36t 1251d 3st 2s | 33t 1429d 2s | 3t 178d |
       

@@ -60,9 +60,9 @@ Maximum Total Combat Ranks allowed: 750.
 Opponents: Spear wielding slaves, Avros specialist slaves
 Rewards: Higher SP gain. No monetary rewards.
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | An elderly instructor |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | An elderly instructor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank |  |
+| ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank |  |
 | **Brawling** | --- | 60 | **One-Handed Crushing** | --- | 60 | **One-Handed Axes** | --- | 60 | **Spears** | --- | 60 | **Knives** | --- | 60 |  |
 | Punch | easy | 40 | Club Simple Bash | easy | 40 | Axe Basic Chop | easy | 40 | Spear Stab | easy | 40 | Knife Jab | easy | 40 |  |
 | Kick | easy | 40 | Club Strike | easy | 40 | Axe Slash | easy | 40 | Spear Jab | easy | 40 | Knife Overheard Strike | easy | 40 |  |
@@ -74,9 +74,9 @@ Rewards: Higher SP gain. No monetary rewards.
 | Swat Block | average | 40 | Club Cross Block | average | 40 | Axe Crossblock | average | 40 | Spear Rounding Block | difficult | 40 | Knife Long Block | difficult | 40 |  |
 |  |  |  |  |  |  |  |  |  |  |  |  | Knife Cross Block | average | 40 |  |
 
-|  |  |  |  |  |  |  |  |  |  |  | Facitio |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | Facitio |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank | Skill | Difficulty | To Rank |
+| ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank | ~ Skill | ~ Difficulty | ~ To Rank |
 | **One-Handed Swords** | -- | 60 | **Staves** | -- | 60 | **Combat Maneuvers** | -- | 60 | **Shields** | -- | 60 |
 | Sword Jab | easy | 40 | Staves End Jab | easy | 40 | Basic Dodge | easy | 40 | Shield Simple Block | easy | 40 |
 | Sword Slash | easy | 40 | Staves Simple Strike | easy | 40 | Duck | easy | 40 | Shield Overhead Block | average | 40 |

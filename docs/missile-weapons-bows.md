@@ -14,33 +14,33 @@ The technology of the bow itself is just emerging in Midlight, with the Iridine 
 
 ---
 
-|  |  |  |  |  | Skill Info |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skill/Action | Difficulty | Hands | Range | Wound | Prerequisite | Fern | Brauthos | Shantaz | Jarla |
-| *<u>Archery</u>* | Easy | - | - | - | - | 300 | 125 | 500 | 300 |
-| [Basic Shot](#Basic) | Average | 2 | Missile | Pierce | - | 300 | 75 | 500 | 175 |
-| [Parting Shot](#Part) | Average | 2 | Short | Pierce | 20 Ranks in [Point Blank Targeting](#Point)<br>20 Ranks in [Steady Aim](#Steady) | 300 | 75 | 500 | 175 |
-| [Foot Shot](#Foot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic)<br>20 Ranks in [Steady Aim](#Steady) | 300 | 75 | 500 | 175 |
-| [Head Shot](#Head) | Difficult | 2 | Missile | Pierce | 40 Ranks in [Basic Shot](#Basic)<br>40 Ranks in [Steady Aim](#Steady) | 300 | 75 | 500 | 175 |
-| [Hand Shot](#Hand) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic)<br>20 Ranks in [Steady Aim](#Steady)<br>20 Ranks in [Foot Shot](#Foot) | 300 | 75 | 500 | 175 |
-| [Rapid Fire Shot](#Rapid) | Difficult | 2 | Missile | Pierce*<br>Pierce* | - | 100 | 75 | 150 | 175 |
-| [Quick Shot](#QShot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Quick Load](#Load)<br>20 Ranks in [Quick String](#Quick)<br>20 Ranks in [Quick Draw](#Draw) | 300 | 75 | 500 | 175 |
-| [Handle Parry](#HParry) | Difficult | - | - | - | - | 300 | - | 500 | ??? |
-| [Quick Load](#Load) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Simple Stringing](#SS) | Easy | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Simple Unstringing](#Unstring) | Easy | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Point Blank Targeting](#Point) | Impossible | - | - | - | - | 100 | 75 | 150 | 175 |
+| >> | >> | >> | >> | >> | Skill Info | >> | >> | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: | :---: | :---: | --- | :---: | :---: | :---: |
+| ~ Skill/Action | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Fern | ~ Brauthos | ~ Shantaz | ~ Jarla |
+| *<u>Archery</u>* | Easy | - | - | - | - | = 300 | 125 | 500 | 300 |
+| [Basic Shot](#Basic) | Average | 2 | Missile | Pierce | - | = 300 | 75 | 500 | 175 |
+| [Parting Shot](#Part) | Average | 2 | Short | Pierce | 20 Ranks in [Point Blank Targeting](#Point)<br>20 Ranks in [Steady Aim](#Steady) | = 300 | 75 | 500 | 175 |
+| [Foot Shot](#Foot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic)<br>20 Ranks in [Steady Aim](#Steady) | = 300 | 75 | 500 | 175 |
+| [Head Shot](#Head) | Difficult | 2 | Missile | Pierce | 40 Ranks in [Basic Shot](#Basic)<br>40 Ranks in [Steady Aim](#Steady) | = 300 | 75 | 500 | 175 |
+| [Hand Shot](#Hand) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Basic Shot](#Basic)<br>20 Ranks in [Steady Aim](#Steady)<br>20 Ranks in [Foot Shot](#Foot) | = 300 | 75 | 500 | 175 |
+| [Rapid Fire Shot](#Rapid) | Difficult | 2 | Missile | Pierce*<br>Pierce* | - | = 100 | 75 | 150 | 175 |
+| [Quick Shot](#QShot) | Difficult | 2 | Missile | Pierce | 20 Ranks in [Quick Load](#Load)<br>20 Ranks in [Quick String](#Quick)<br>20 Ranks in [Quick Draw](#Draw) | = 300 | 75 | 500 | 175 |
+| [Handle Parry](#HParry) | Difficult | - | - | - | - | = 300 | - | 500 | ??? |
+| [Quick Load](#Load) | Average | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Simple Stringing](#SS) | Easy | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Simple Unstringing](#Unstring) | Easy | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Point Blank Targeting](#Point) | Impossible | - | - | - | - | = 100 | 75 | 150 | 175 |
 | [Long-Range Targeting](#Long) | Difficult | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Steady Aim](#Steady) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Range Assessment](#Range) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Quick String](#Quick) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Off-Position Firing](#Off) | Difficult | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Wind Gauging](#Wind) | Impossible | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Slope Gauging](#Slope) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Quick Draw](#Draw) | Impossible | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Shot Timing](#Time) | Average | - | - | - | - | 100 | 75 | 150 | 175 |
-| [Shot Breathing](#Breathe) | Difficult | - | - | - | - | 100 | 90 | 150 | 175 |
-| [Archer's Grip](#AGrip) | Impossible | - | - | - | - | 100 | 90 | 150 | 175 |
+| [Steady Aim](#Steady) | Average | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Range Assessment](#Range) | Average | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Quick String](#Quick) | Average | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Off-Position Firing](#Off) | Difficult | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Wind Gauging](#Wind) | Impossible | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Slope Gauging](#Slope) | Average | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Quick Draw](#Draw) | Impossible | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Shot Timing](#Time) | Average | - | - | - | - | = 100 | 75 | 150 | 175 |
+| [Shot Breathing](#Breathe) | Difficult | - | - | - | - | = 100 | 90 | 150 | 175 |
+| [Archer's Grip](#AGrip) | Impossible | - | - | - | - | = 100 | 90 | 150 | 175 |
 
 **Directions to Fern** ([Vetallun](/town-of-vetallun/)): walk to Vetallun Road, walk to Vetallun Crossroads, S, W
 **Directions to Brauthos** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx7, E 

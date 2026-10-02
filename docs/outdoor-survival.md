@@ -16,9 +16,9 @@ For most foresters, knowledge does not come from books or learning but from the 
 This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 
 
-|  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | **Krimalus **| Fern | Tauruu | Shantaz | Jarla |
+| >> | Skill Info | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | :---: | :---: | :---: | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ **Krimalus ** | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
 | *<u>Outdoor Survival</u>* | Easy | 80 | 100 | 150 | 150 | 200 |
 | [Dig Firepit](#Firepit) | Easy | 60 | 100 | 120 | 125 | 150 |
 | [Craft Basic Torch](#Torch) | Easy | 60 | 100 | 120 | 125 | 150 |
@@ -39,9 +39,9 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 | [Survival Weaving](#Weaving) | Average | 80 | - | - | - | - |
 | [Whittling](#Whittling) | Difficult | 80 | - | - | - | - |
 
-|  | Outdoor Survival Lores |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- |
-| Lore Name | Krimalus | Fern | Tauruu | Shantaz | Jarla |
+| >> | Outdoor Survival Lores | >> | >> | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| ~ Lore Name | ~ Krimalus | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
 | [Advanced Camp Cooking Lore](#cooklore) | 25 | - | - | - | - |
 | [Survival Cordage Lore](#cordage) | 25 | - | - | - | - |
 
@@ -90,13 +90,13 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 
 |  | Torch description | Torch quality |
 | --- | --- | --- |
-| Rank 1 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
-| Rank 10 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
-| Rank 20 | somewhat simple<br>simple<br>somewhat well-crafted | average<br>average<br>excellently made |
-| Rank 30 | simple<br>somewhat well-crafted<br>well-crafted | average<br>excellently made<br>excellently made - made by an expert |
-| Rank 40 | somewhat well-crafted<br>well-crafted<br>very well-crafted | excellently made<br>excellently made - made by an expert<br>made by an expert |
-| Rank 50 | somewhat well-crafted<br>well-crafted<br>very well-crafted<br>finely crafted | excellently made<br>excellently made - made by an expert<br>made by an expert<br>made by a master craftsman |
-| Rank 60 | well-crafted<br>very well-crafted<br>finely crafted | made by an expert<br>made by an expert<br>made by a master craftsman |
+| ~ Rank 1 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
+| ~ Rank 10 | somewhat crude<br>somewhat simple<br>simple | below average<br>below average - average<br>average |
+| ~ Rank 20 | somewhat simple<br>simple<br>somewhat well-crafted | average<br>average<br>excellently made |
+| ~ Rank 30 | simple<br>somewhat well-crafted<br>well-crafted | average<br>excellently made<br>excellently made - made by an expert |
+| ~ Rank 40 | somewhat well-crafted<br>well-crafted<br>very well-crafted | excellently made<br>excellently made - made by an expert<br>made by an expert |
+| ~ Rank 50 | somewhat well-crafted<br>well-crafted<br>very well-crafted<br>finely crafted | excellently made<br>excellently made - made by an expert<br>made by an expert<br>made by a master craftsman |
+| ~ Rank 60 | well-crafted<br>very well-crafted<br>finely crafted | made by an expert<br>made by an expert<br>made by a master craftsman |
 
 ** The results in this table were recorded with **90 ranks** in Outdoor Survival (basics). Quality may vary with different basic ranks. **Higher rolls** over success result in better **quality torches**.*
 
@@ -235,18 +235,18 @@ Rope is useful as a capturing agent, a snare component, a construction material,
 
 |  | Rope description | Grass required | Rope weight |
 | --- | --- | --- | --- |
-| Rank 1 | ? | 50 blades | ? |
-| Rank 10 | crudely braided | 49 blades | 1.8 lbs |
-| Rank 20 | very poorly braided | 48 blades | 1.8 lbs |
-| Rank 30 | poorly braided | 47 blades | 1.8 lbs |
-| Rank 40 | very simply braided | 46 blades | 1.8 lbs |
-| Rank 50 | simply braided | 45 blades | 1.8 lbs |
-| Rank 60 | braided | 44 blades | 1.8 lbs |
-| Rank 70 | well-braided | 43 blades | 1.8 lbs |
-| Rank 80 | skillfully braided | 42 blades | 1.8 lbs |
-| Rank 90 | finely braided | 41 blades | 1.8 lbs |
-| Rank 100 | masterfully braided | 40 blades | 1.8 lbs |
-| Rank 110 | masterfully braided | 40 blades | 1.8 lbs |
+| ~ Rank 1 | ? | 50 blades | ? |
+| ~ Rank 10 | crudely braided | 49 blades | 1.8 lbs |
+| ~ Rank 20 | very poorly braided | 48 blades | 1.8 lbs |
+| ~ Rank 30 | poorly braided | 47 blades | 1.8 lbs |
+| ~ Rank 40 | very simply braided | 46 blades | 1.8 lbs |
+| ~ Rank 50 | simply braided | 45 blades | 1.8 lbs |
+| ~ Rank 60 | braided | 44 blades | 1.8 lbs |
+| ~ Rank 70 | well-braided | 43 blades | 1.8 lbs |
+| ~ Rank 80 | skillfully braided | 42 blades | 1.8 lbs |
+| ~ Rank 90 | finely braided | 41 blades | 1.8 lbs |
+| ~ Rank 100 | masterfully braided | 40 blades | 1.8 lbs |
+| ~ Rank 110 | masterfully braided | 40 blades | 1.8 lbs |
 
 * *Roll over success **does not** appear to have any effect on rope making.*
 
@@ -320,14 +320,14 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 |  | Empty-handed (0 lbs) | Knife (~2 lbs) | Sickle (3 lbs) | Scythe (11 lbs) |
 | --- | --- | --- | --- | --- |
-| Rank 1 | 7.5 | 11.5 | 15 | 18.5 |
-| Rank 10 | 7.5 | 11.5 | 15 | 18.5 |
-| Rank 20 | 8.5 | 12.5 | 16 | 19.5 |
-| Rank 30 | 8.5 | 12.5 | 16 | 19.5 |
-| Rank 40 | 9.5 | 13.5 | 17 | 20.5 |
-| Rank 50 | 9.5 | 13.5 | 17 | 20.5 |
-| Rank 60 | 9.5 | 13.5 | 17 | 20.5 |
-| Rank 70 | 9.5 | 13.5 | 17 | 20.5 |
+| ~ Rank 1 | 7.5 | 11.5 | 15 | 18.5 |
+| ~ Rank 10 | 7.5 | 11.5 | 15 | 18.5 |
+| ~ Rank 20 | 8.5 | 12.5 | 16 | 19.5 |
+| ~ Rank 30 | 8.5 | 12.5 | 16 | 19.5 |
+| ~ Rank 40 | 9.5 | 13.5 | 17 | 20.5 |
+| ~ Rank 50 | 9.5 | 13.5 | 17 | 20.5 |
+| ~ Rank 60 | 9.5 | 13.5 | 17 | 20.5 |
+| ~ Rank 70 | 9.5 | 13.5 | 17 | 20.5 |
 
 ** Each value represents a calculated average over 100 or more attempts.*
 
@@ -379,17 +379,17 @@ sweave twigs into bowl
 
 |  | Twigs | Grass | Reeds |
 | --- | --- | --- | --- |
-| Rank 1 | bowl (20) |  | - |
-| Rank 10 | bowl (20), basket (40) | bowl (20) | - |
-| Rank 20 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30) | belt hoop |
-| Rank 30 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30), sandals (40) | belt hoop (15), bowl (30) |
-| Rank 40 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30), sandals (40), mat (50) | belt hoop (15), bowl (30), mat (45) |
-| Rank 50 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30), sandals (40), mat (50), bag (80), armbands (110) |  |
-| Rank 60 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80) |
-| Rank 70 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75) |
-| Rank 80 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80), a vest (125), a skirt (90) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90) |
-| Rank 90 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80), a vest (125), a skirt (90), a sling (180) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150) |
-| Rank 100 | bowl (20), basket (40), broiler (30), crate (60) | a bowl (20), a belt (30), some sandals (40), a mat (50), a hat (60), a bag (80), some armbands (110), a basket (70), a loincloth (80), a vest (125), a skirt (90), a sling (180), and a hammock (200) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150), shield (175), chair (200) |
+| ~ Rank 1 | bowl (20) |  | - |
+| ~ Rank 10 | bowl (20), basket (40) | bowl (20) | - |
+| ~ Rank 20 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30) | belt hoop |
+| ~ Rank 30 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30), sandals (40) | belt hoop (15), bowl (30) |
+| ~ Rank 40 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30), sandals (40), mat (50) | belt hoop (15), bowl (30), mat (45) |
+| ~ Rank 50 | bowl (20), basket (40), broiler (30) | bowl (20), belt (30), sandals (40), mat (50), bag (80), armbands (110) |  |
+| ~ Rank 60 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80) |
+| ~ Rank 70 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75) |
+| ~ Rank 80 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80), a vest (125), a skirt (90) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90) |
+| ~ Rank 90 | bowl (20), basket (40), broiler (30), crate (60) | bowl (20), belt (30), sandals (40), mat (50), hat (60), bag (80), armbands (110), basket (70), loincloth (80), a vest (125), a skirt (90), a sling (180) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150) |
+| ~ Rank 100 | bowl (20), basket (40), broiler (30), crate (60) | a bowl (20), a belt (30), some sandals (40), a mat (50), a hat (60), a bag (80), some armbands (110), a basket (70), a loincloth (80), a vest (125), a skirt (90), a sling (180), and a hammock (200) | belt hoop (15), bowl (30), mat (45), hat (60), quiver (80), crate (75), basket (90), buckler (150), shield (175), chair (200) |
 
 
 
@@ -426,27 +426,27 @@ Some materials indicate that they are whittle-able, but never actually produce i
 
 |  | Branch | Sapling | Rib | Antler | Horn | Leg Bone | Seashell | Skull | Fish bones | Hoof | Beak |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Rank 1 | hook, peg | - | - | - | - | - | - | - | - | - | ? |
-| Rank 5 | ? | ? | ? | - | - | - | - | - | ? | - | ? |
-| Rank 10 | bead, hairpin, spoon, fork | skewer | hook | - | - | - | - | - | hook | - | ? |
-| Rank 15 | - | - | bead | - | - | - | - | - | - | cup | ? |
-| Rank 20 | ring | - | - | - | - | - | - | - | - | - | ? |
-| Rank 25 | stylus | - | hairpin | peg | - | - | - | - | - | - | ? |
-| Rank 30 | whistle, splint | - | - | - | - | - | - | - | - | - | ? |
-| Rank 35 | figurine, candlestick | - | - | - | - | - | - | - | - | - | ? |
-| Rank 40 | some nocks | - | stylus | - | - | - | - | - | - | - | ? |
-| Rank 45 | charm | - | - | - | - | - | - | - | - | - | ? |
-| Rank 50 | comb | - | ring | - | trowel | - | - | - | - | - | ? |
-| Rank 55 | pipe | - | - | - | - | - | - | - | - | - | ? |
-| Rank 60 | - | - | - | - | - | figurine, some nocks | - | - | - | - | trowel |
-| Rank 65 | toothscraper | - | - | - | - | - | - | - | - | - | - |
-| Rank 70 | - | - | charm | - | - | - | - | - | - | - | - |
-| Rank 75 | clasp | - | toothscraper, comb | - | - | - | - | - | toothscraper | - | - |
-| Rank 80 | - | - | - | - | some nocks | pipe | - | - | - | - | - |
-| Rank 85 | - | - | needle | - | - | - | - | - | needle | - | - |
-| Rank 90 | - | - | - | - | - | - | hairpin | bowl | - | - | - |
-| Rank 95 | flute | - | - | - | - | - | - | - | - | - | - |
-| Rank 100 | - | cane | - | some nocks | - | clasp | comb | - | - | - | - |
+| ~ Rank 1 | hook, peg | - | - | - | - | - | - | - | - | - | ? |
+| ~ Rank 5 | ? | ? | ? | - | - | - | - | - | ? | - | ? |
+| ~ Rank 10 | bead, hairpin, spoon, fork | skewer | hook | - | - | - | - | - | hook | - | ? |
+| ~ Rank 15 | - | - | bead | - | - | - | - | - | - | cup | ? |
+| ~ Rank 20 | ring | - | - | - | - | - | - | - | - | - | ? |
+| ~ Rank 25 | stylus | - | hairpin | peg | - | - | - | - | - | - | ? |
+| ~ Rank 30 | whistle, splint | - | - | - | - | - | - | - | - | - | ? |
+| ~ Rank 35 | figurine, candlestick | - | - | - | - | - | - | - | - | - | ? |
+| ~ Rank 40 | some nocks | - | stylus | - | - | - | - | - | - | - | ? |
+| ~ Rank 45 | charm | - | - | - | - | - | - | - | - | - | ? |
+| ~ Rank 50 | comb | - | ring | - | trowel | - | - | - | - | - | ? |
+| ~ Rank 55 | pipe | - | - | - | - | - | - | - | - | - | ? |
+| ~ Rank 60 | - | - | - | - | - | figurine, some nocks | - | - | - | - | trowel |
+| ~ Rank 65 | toothscraper | - | - | - | - | - | - | - | - | - | - |
+| ~ Rank 70 | - | - | charm | - | - | - | - | - | - | - | - |
+| ~ Rank 75 | clasp | - | toothscraper, comb | - | - | - | - | - | toothscraper | - | - |
+| ~ Rank 80 | - | - | - | - | some nocks | pipe | - | - | - | - | - |
+| ~ Rank 85 | - | - | needle | - | - | - | - | - | needle | - | - |
+| ~ Rank 90 | - | - | - | - | - | - | hairpin | bowl | - | - | - |
+| ~ Rank 95 | flute | - | - | - | - | - | - | - | - | - | - |
+| ~ Rank 100 | - | cane | - | some nocks | - | clasp | comb | - | - | - | - |
 
 
 

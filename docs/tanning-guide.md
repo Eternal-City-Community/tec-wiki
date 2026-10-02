@@ -32,7 +32,7 @@ Below are the types of tools needed for tanning.
 Tanning tools are not consumed upon use, however ingredients have a limited number of usages.
 
 | Tools & Ingredients | Used For | Price | Comments |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | --- |
 | Knife | Multiple | various | Available for purchase in [shops](/shops/) |
 | Brush with short stiff bristles | Brush Hide | 485d | Available for purchase in Arvane's shop |
 | A cleaning tray | Clean Hide | 388d | Available for purchase in Arvane's shop |

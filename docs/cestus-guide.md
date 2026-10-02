@@ -55,9 +55,9 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
 | --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Median Speed | Speed Rank | Median Speed |
+| ~ Weapon | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Median Speed |
 
 
 #### Weapon Weight

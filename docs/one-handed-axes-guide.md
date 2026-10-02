@@ -50,7 +50,7 @@ In most cases, if still using Reflexes, you'll want a **Retalq axe**. If your ch
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Retalq Axe | 5 | 1 | 2 | 1 |
 | [Reforged] Boison Axe | 1 | 3 | 5 | 2 |
 | [Reforged] Iron Axe | 3 | 2 | 4 | 3 |
@@ -67,7 +67,7 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | [Reforged] Boison Axe | 1 |
 | Boison Axe | 2 |
 | [Reforged] Iron Axe | 3 |
@@ -83,9 +83,9 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category.
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Average Speed | Speed Rank | Average Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | :---: | :---: | :---: | :---: |
+| ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
 | Retalq Axe | 1 | 2 +MoS | 1 | 2 +MoS |
 | Bone Axe | 1 | 2 +MoS | 1 | 2 +MoS |
 | Tin Axe | 1 | 2 +MoS | 1 | 2 +MoS |
@@ -97,7 +97,7 @@ A rank of **1 signifies the best** in this category.
 #### Weapon Weight
 
 | Weapon | Weight Rank | Weight |
-| --- | --- | --- |
+| --- | :---: | --- |
 | Bone Axe | 1 | 2 lbs |
 | Tin Axe | 1 | 2 lbs |
 | Retalq Axe | 2 | 3 lbs |

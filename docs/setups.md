@@ -10,9 +10,9 @@ Another illegal body of knowledge, setups are what thieves use to prepare their 
 
 Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/). While some of the skills may be useful to less dishonorable folk, a thief will find far more use for them any day of the week. 
 
-|  | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- |
-| Skills/Actions | Difficulty | *Hidden Iridine Trainer <sup>1</sup>* | *Hidden RV Trainer <sup>2</sup>* |
+| >> | Skill Info | >> | Ranks Taught by Trainer |
+| --- | --- | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ *Hidden Iridine Trainer <sup>1</sup>* | ~ *Hidden RV Trainer <sup>2</sup>* |
 | *<u>Setups</u>* | Easy | 25 | 200 |
 | [Draw Attention](#Draw-Attention) | Easy | 25 | 150 |
 | [Ground Approach](#Ground-Approach) | Average | 25 | 150 |

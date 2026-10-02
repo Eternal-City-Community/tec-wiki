@@ -12,9 +12,9 @@ Brawling is a general term for any kind of "untrained" street fighting. It is le
 This skill set is best complemented by knowledge of [Pankration](/pankration/), and for guidance on using the skill set, see the **[Brawling Guide](/brawling-guide/)**.
 
 
-|  |  |  |  | Skill Info |  | Ranks Taught by Trainer |
+| >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Pugilius | Mervia |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Pugilius | ~ Mervia |
 | *Brawling* | - | - | - | - | 300 | 500 |
 | [Brawling Punch](#Punch) | Easy | 1 | Short | Bruise | 300 | 500 |
 | [Brawling Kick](#Kick) | Easy | - | Short | Bruise | 300 | 500 |
@@ -29,8 +29,8 @@ This skill set is best complemented by knowledge of [Pankration](/pankration/), 
 | [Brawling Head Butt](#Head-Butt) | Average | - | Short | Bruise | 300 | 500 |
 | [Brawling Foot Stomp](#Foot-Stomp) | Average | - | Short | Bruise | 300 | 500 |
 | [Brawling Bear Hug](#Bear-Hug) | Average | 1 | Short | - | 300 | 500 |
-| [Brawling Face Block](#Face-Block) | Average | 1 | - | - | 300 | 500 |
-| [Brawling Swat Block](#Swat-Block) | Average | 1 | - | - | 300 | 500 |
+| [Brawling Face Block](#Face-Block) | Average | 1 | = - | - | 300 | 500 |
+| [Brawling Swat Block](#Swat-Block) | Average | 1 | = - | - | 300 | 500 |
 | [Brawling Feint](#Brawl-Feint) | Average | 1 | Short | - | 300 | 500 |
 | [Brawling Uppercut](#Uppercut) | Difficult | 1 | Short | Bruise | 300 | 500 |
 | [Brawling Sucker Punch](#Sucker-Punch) | Difficult | 1 | Short | Bruise | 300 | 500 |

@@ -17,7 +17,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 | Skill Info |  | Ranks Taught by Trainer |
 | --- | --- | --- |
-| Skills/Actions | Difficulty | Captuo |
+| ~ Skills/Actions | ~ Difficulty | ~ Captuo |
 | <u>*Basic Jewelry*</u> | Average | 100 |
 | [Assemble Jewelry](#Assemble-Jewelry) | Average | 100 |
 | [Cast Jewelry](#Cast-Jewelry) | Average | 100 |
@@ -41,53 +41,53 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 | Jewelry Recipes |  | Ranks Taught by Trainer |
 | --- | --- | --- |
-| Recipes | Difficulty | Captuo |
-| Metal Stock |  |  |
+| ~ Recipes | ~ Difficulty | ~ Captuo |
+| >> | >> | ~ Metal Stock |
 | Produce Metal Stock Recipe | Easy | 100 |
 | Produce Wire Stock Recipe | Easy | 100 |
 | Tiny Chain Link Recipe | Average | 100 |
 | Large Chain Link Recipe | Easy | 100 |
-| Rings |  |  |
+| >> | >> | ~ Rings |
 | Cast Simple Band Recipe | Easy | 100 |
 | Broad Cast Ring Recipe | Average | 100 |
 | Simple Band Ring Recipe | Easy | 100 |
 | Wire Ring Recipe | Easy | 100 |
 | Ornate Forged Ring Recipe | Difficult | 100 |
 | Toe Ring Recipe | Average | 100 |
-| Bracelets & Bangles |  |  |
+| >> | >> | ~ Bracelets & Bangles |
 | Cast Bangle Recipe | Easy | 100 |
 | Forged Bangle Recipe | Easy | 100 |
 | Broad Cast Bracelet Recipe | Average | 100 |
 | Wire Bracelet Recipe | Easy | 100 |
 | Charm Bracelet Recipe | Easy | 100 |
-| Anklets |  |  |
+| >> | >> | ~ Anklets |
 | Cast Anklet Recipe | Easy | 100 |
 | Wire Anklet Recipe | Easy | 100 |
 | Forged Anklet Recipe | Easy | 100 |
 | Charm Anklet Recipe | Easy | 100 |
-| Earrings |  |  |
+| >> | >> | ~ Earrings |
 | Cast Stud Earrings Recipe | Easy | 100 |
 | Wire Earrings Recipe | Easy | 100 |
 | Hoop Earrings Recipe | Easy | 100 |
 | Drop Earrings Recipe | Average | 100 |
-| Necklaces & Pendants |  |  |
+| >> | >> | ~ Necklaces & Pendants |
 | Fine Chain Necklace Recipe | Easy | 100 |
 | Heavy Chain Necklace Recipe | Easy | 100 |
 | Wire Necklace Recipe | Easy | 100 |
 | Cast Pendant Recipe | Easy | 100 |
 | Pendant Necklace Recipe | Easy | 100 |
 | Charm Necklace Recipe | Easy | 100 |
-| Head, Waist & Other Wear |  |  |
+| >> | >> | ~ Head, Waist & Other Wear |
 | Forged Tiara Recipe | Impossible | 100 |
 | Waist Chain Recipe | Average | 100 |
-| Piercings |  |  |
+| >> | >> | ~ Piercings |
 | Nose Stud Recipe | Easy | 100 |
 | Nose Ring Recipe | Easy | 100 |
 | Lip Stud Recipe | Easy | 100 |
 | Lip Ring Recipe | Easy | 100 |
 | Septum Ring Recipe | Easy | 100 |
 | Eyebrow Ring Recipe | Easy | 100 |
-| Charms |  |  |
+| >> | >> | ~ Charms |
 | Cast Charm Recipe *(grouping entry)* | Difficult | 100 |
 | Cast Bear Charm Recipe | Difficult | 100 |
 | Cast Fish Charm Recipe | Difficult | 100 |
@@ -112,7 +112,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 | Cast Lion Charm Recipe | Difficult | 100 |
 | Cast Esecarnus Charm Recipe | Difficult | 100 |
 | Cast Bull Charm Recipe | Difficult | 100 |
-| Stone Cuts |  |  |
+| >> | >> | ~ Stone Cuts |
 | Cabochon Cut Recipe | Easy | 100 |
 | Baguette Cut Recipe | Easy | 100 |
 | Table Cut Recipe | Easy | 100 |
@@ -141,8 +141,8 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 | Jewelry Lores |  | Ranks Taught by Trainer |
 | --- | --- | --- |
-| Lore | Difficulty | Captuo |
-| Engraving |  |  |
+| ~ Lore | ~ Difficulty | ~ Captuo |
+| >> | >> | ~ Engraving |
 | Geometric Engraving | Easy | 100 |
 | Vines Engraving | Easy | 100 |
 | Hearts Engraving | Easy | 100 |

@@ -15,9 +15,9 @@ Brawling is a general term for any kind of "untrained" street fighting. It is le
 Damage done by the Brawling skill set is dependent upon your ranks in the skill itself. Ranks in Brawling do not make you do more damage. Ranks in Punch will make you do more damage with Punch, but no other skills. Some skills may have their damage cap set up differently.
 
 
-|  |  |  |  | Skill Info |  | Ranks Taught by Trainer |
+| >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Pugilius | Mervia |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Pugilius | ~ Mervia |
 | Brawling | Easy | Either | Short | - | 80 | 300 |
 | [Brawling Punch](#Punch) | Easy | 1 | Short | Bruise | 80 | 175 |
 | [Brawling Kick](#Kick) | Easy | - | Short | Bruise | 80 | 175 |

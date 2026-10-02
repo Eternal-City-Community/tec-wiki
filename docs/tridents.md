@@ -13,35 +13,35 @@ As a weapon, variations of the trident have made appearances in almost every cul
 **For guidance on using the skill set, see the [Tridents Guide](/tridents-guide/)**.
 
 
-|  |  |  |  |  | Skill Info |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Ariston | Vashren | **Prestis |
-| *<u>Tridents</u>* | Easy | - | - | - | - | 300 | 500 | 154 |
-| [Trident Harpoon Stance](#Harpoon-Stance) | Easy | 2 | - | - | [Trident Harpoon Stance](#Harpoon-Stance) | 100 | 100 | 154 |
-| [Trident Jab](#Jab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
-| [Trident Quick Rake](#Quick-Rake) | Easy | 2 | Either | Cut | - | 300 | 500 | 154 |
-| [Trident Stab](#Stab) | Easy | 2 | Either | Pierce | - | 300 | 500 | 154 |
-| [Trident Blunt Bash](#Blunt-Bash) | Average | 2 | Short | Bruise | - | 300 | 500 | 154 |
-| [Trident Lunge](#Lunge) | Average | 2 | Long | Pierce | - | 300 | 500 | 154 |
-| [Trident Slash](#Slash) | Average | 2 | Short | Cut | - | 300 | 500 | 154 |
-| [Trident Swinging Disarm](#Swinging-Disarm) | Average | 2 | Either | - | - | 100 | 175 | 154 |
-| [Trident Weapon Catch](#Weapon-Catch) | Average | 2 | Short | - | - | 300 | 500 | 154 |
-| [Trident Feint](#Feint) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
-| [Trident Foot Pin](#Foot-Pin) | Difficult | 2 | Short | - | - | 300 | 500 | 154 |
-| [Trident Rotating Bash](#Rotating-Bash) | Difficult | 2 | Either | Bruise | - | 300 | 500 | 154 |
-| [Trident Sweep](#Sweep) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
-| [Trident Throw](#Throw) | Difficult | Either | Missile | Pierce | - | 300 | 500 | 154 |
-| [Trident Defensive Bash](#Defensive-Bash) | Average | 2 | Short | Bruise | 20 Ranks in [Trident Blunt Bash](#Blunt-Bash) | 300 | 500 | 154 |
-| [Trident Parting Gouge](#Parting-Gouge) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>40 Ranks in [Trident Vital Jab](#Vital-Jab)<br>40 Ranks in [Trident Parting Jab](#Parting-Jab) | 300 | 500 | 154 |
-| [Trident Parting Jab](#Parting-Jab) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>10 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
-| [Trident Pierce](#Pierce) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>30 Ranks in [Trident Stab](#Stab) | 300 | 500 | 154 |
-| [Trident Vital Jab](#Vital-Jab) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>20 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
-| [Trident Simple Block](#Simple-Block) | Easy | 2 | - | - | - | 300 | 500 | 154 |
+| >> | >> | >> | >> | >> | Skill Info | >> | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: | --- | :---: | :---: | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisites | ~ Ariston | ~ Vashren | ~ **Prestis |
+| *<u>Tridents</u>* | Easy | - | - | = - | - | 300 | 500 | 154 |
+| [Trident Harpoon Stance](#Harpoon-Stance) | Easy | 2 | - | = - | [Trident Harpoon Stance](#Harpoon-Stance) | 100 | 100 | 154 |
+| [Trident Jab](#Jab) | Easy | 2 | Either | = Pierce | - | 300 | 500 | 154 |
+| [Trident Quick Rake](#Quick-Rake) | Easy | 2 | Either | = Cut | - | 300 | 500 | 154 |
+| [Trident Stab](#Stab) | Easy | 2 | Either | = Pierce | - | 300 | 500 | 154 |
+| [Trident Blunt Bash](#Blunt-Bash) | Average | 2 | Short | = Bruise | - | 300 | 500 | 154 |
+| [Trident Lunge](#Lunge) | Average | 2 | Long | = Pierce | - | 300 | 500 | 154 |
+| [Trident Slash](#Slash) | Average | 2 | Short | = Cut | - | 300 | 500 | 154 |
+| [Trident Swinging Disarm](#Swinging-Disarm) | Average | 2 | Either | = - | - | 100 | 175 | 154 |
+| [Trident Weapon Catch](#Weapon-Catch) | Average | 2 | Short | = - | - | 300 | 500 | 154 |
+| [Trident Feint](#Feint) | Difficult | 2 | Either | = - | - | 300 | 500 | 154 |
+| [Trident Foot Pin](#Foot-Pin) | Difficult | 2 | Short | = - | - | 300 | 500 | 154 |
+| [Trident Rotating Bash](#Rotating-Bash) | Difficult | 2 | Either | = Bruise | - | 300 | 500 | 154 |
+| [Trident Sweep](#Sweep) | Difficult | 2 | Either | = - | - | 300 | 500 | 154 |
+| [Trident Throw](#Throw) | Difficult | Either | Missile | = Pierce | - | 300 | 500 | 154 |
+| [Trident Defensive Bash](#Defensive-Bash) | Average | 2 | Short | = Bruise | 20 Ranks in [Trident Blunt Bash](#Blunt-Bash) | 300 | 500 | 154 |
+| [Trident Parting Gouge](#Parting-Gouge) | Average | 2 | Short | = Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>40 Ranks in [Trident Vital Jab](#Vital-Jab)<br>40 Ranks in [Trident Parting Jab](#Parting-Jab) | 300 | 500 | 154 |
+| [Trident Parting Jab](#Parting-Jab) | Average | 2 | Short | = Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>10 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
+| [Trident Pierce](#Pierce) | Average | 2 | Either | = Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>30 Ranks in [Trident Stab](#Stab) | 300 | 500 | 154 |
+| [Trident Vital Jab](#Vital-Jab) | Average | 2 | Either | = Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>20 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
+| [Trident Simple Block](#Simple-Block) | Easy | 2 | - | = - | - | 300 | 500 | 154 |
 | [Trident Cross Block](#Cross-Block) | Average | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Tine Block](#Tine-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Rotation Block](#Rotation-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |
-| [Trident Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 | 154 |
-| [Trident Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 154 |
+| [Trident Tine Block](#Tine-Block) | Difficult | 2 | - | = - | - | 300 | 500 | 154 |
+| [Trident Rotation Block](#Rotation-Block) | Difficult | 2 | - | = - | - | 300 | 500 | 154 |
+| [Trident Accuracy](#Accuracy) | Difficult | - | - | = - | - | 100 | 175 | 154 |
+| [Trident Grip](#Grip) | Impossible | - | - | = - | - | 100 | 100 | 154 |
 
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze, Ex2, NEx2, N, Ex4, N, W
 **Directions to Vashren** ([Seld](/village-of-seld/)): Walk to Seld (Town Square), Nx2, W

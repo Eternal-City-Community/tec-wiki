@@ -23,11 +23,11 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 **For guidance on using the skill set, see the [Pardelian Guide](/pardelian-guide/)**.
 
 
-|  |  |  |  |  | Skill Info | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Varga |
-| *<u>Pardelian Gladius Combat</u>* | Easy | - | - | - | - | 154 |
-| [Pardelian Turtle Stance](#Stance) | Easy | - | - | - | Wielded **Shield** | 154 |
+| >> | >> | >> | >> | >> | Skill Info | Ranks Taught by Trainer |
+| --- | --- | :---: | --- | --- | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Varga |
+| *<u>Pardelian Gladius Combat</u>* | Easy | - | = - | = - | - | 154 |
+| [Pardelian Turtle Stance](#Stance) | Easy | - | = - | = - | Wielded **Shield** | 154 |
 | [Pardelian Side Jab](#Side) | Easy | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
 | [Shield Charge](#ShieldCharge) | Average | 2 | Long | Bruise | [Pardelian Turtle Stance](#Stance)<br>20 Ranks in [Shields](/shields/) | 154 |
 | [Pardelian Hidden Thrust](#HT) | Average | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance)<br>20 Rank in [Shields](/shields/)<br>20 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 154 |
@@ -38,8 +38,8 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 | [Pardelian Shield Sap](#ShieldSap) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br>20 Rank in [Swords Sap](/one-handed-swords/#Sap)<br>20 Ranks in [Shield Bash](/shields/) | 154 |
 | [Pardelian Slash and Sap](#SS) | Difficult | 2 | Short | Bruise | [Pardelian Turtle Stance](#Stance)<br>20 Ranks in [Swords Sap](/one-handed-swords/#Sap)<br>20 Ranks in [Shield Bash](/shields/) | 154 |
 | [Pardelian Tag and Strike](#TS) | Difficult | 2 | Short | Pierce | [Pardelian Turtle Stance](#Stance) | 154 |
-| [Pardelian Downward Block](#DB) | Average | 2 | - | - | [Pardelian Turtle Stance](#Stance) | 154 |
-| [Pardelian Stab and Twist](#ST) | Easy | - | - | - | [Pardelian Turtle Stance](#Stance) | 154 |
+| [Pardelian Downward Block](#DB) | Average | 2 | = - | = - | [Pardelian Turtle Stance](#Stance) | 154 |
+| [Pardelian Stab and Twist](#ST) | Easy | - | = - | = - | [Pardelian Turtle Stance](#Stance) | 154 |
 
 #### Notes on Learning
 

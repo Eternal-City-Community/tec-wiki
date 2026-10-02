@@ -28,9 +28,9 @@ category: "Reference"
 > 
 > - Anonymous graffiti
 
-|  |  | Skill Info |  |  |  |  |  | Ranks Taught by Trainer |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skill/Action | Difficulty | Prerequisite | Trainer # 1 | Trainer # 2 | Trainer # 3 | Trainer # 4 | Trainer # 5 | RV Trainer |  |  |  |
+| >> | >> | Skill Info | >> | >> | >> | >> | >> | Ranks Taught by Trainer |  |  |  |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- | --- | --- |
+| ~ Skill/Action | ~ Difficulty | ~ Prerequisite | ~ Trainer # 1 | ~ Trainer # 2 | ~ Trainer # 3 | ~ Trainer # 4 | ~ Trainer # 5 | ~ RV Trainer |  |  |  |
 | *<u>Street Smarts</u>* | Easy | - | 50 | 50 | 50 | 50 | 50 | 100 |  |  |  |
 | [Graffiti](#Graffiti) | Easy | - | 30 | - | - | - | - | 10 |  |  |  |
 | [Gang Markings](#Gang-Markings) | Average | 10 Ranks in Paint Graffiti | - | - | - | - | - | - |  |  |  |
@@ -42,10 +42,10 @@ category: "Reference"
 | [City Hiding](#City-Hiding) | Difficult | - | - | - | - | - | 50 | 100 |  |  |  |
 | [City Sneaking](#City-Sneaking) | Difficult | - | - | - | - | - | 50 | 100 |  |  |  |
 | [Quick Reveal](#Quick-Reveal) | Average | - | - | - | - | - | - | 100 |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  | Unavailable Skills |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Unavailable Skills |
 | [Guard Evasion](#Guard-Evasion) | - | - | - | - | - | - | - | - |  |  |  |
 
-|  | Trainer Location Clues |
+| >> | Trainer Location Clues |
 | --- | --- |
 | Trainer # 1 | Look for artwork in a shopping area covered in colorful paint in the [Central Steps](/the-steps-central/). |
 | Trainer # 2 | Be generous with tips in rewarding local entertainment in the [Northern Steps](/the-steps-north/). |

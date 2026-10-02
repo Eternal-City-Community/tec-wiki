@@ -25,10 +25,10 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 
 ### Hierarchy
 
-|  |  |  |  |  | Cult of Ereal |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  | High Priest Tharius |
-| ***High Priest’s Proxy***<br>Darie Allende | ***Sword of Ereal***<br>Junia Gracious<br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br>i. Titus Ahala<br>ii. Albius Anande<br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br>v. Sartor Mithus<br>vi. Spurius Ravilla<br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
+| >> | >> | >> | >> | >> | Cult of Ereal |
+| :---: | --- | :---: | --- | --- | :---: |
+| >> | >> | >> | >> | >> | High Priest Tharius |
+| ***High Priest’s Proxy***<br>Darie Allende | = ***Sword of Ereal***<br>Junia Gracious<br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br>i. Titus Ahala<br>ii. Albius Anande<br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br>v. Sartor Mithus<br>vi. Spurius Ravilla<br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
 |  | i. Fist of Ereal<br>ii. Firm of Ereal<br>iii. Shield of Ereal |  |  |  |  |
 
 #### High Priest {#High-Priest}
@@ -64,14 +64,14 @@ Each sect is composed of several levels of hierarchy, the highest ranking priest
 
 While rank titles may differ across sects, their structures remain very similar.
 
-|  |  |  | Temple Hierarchy |
-| --- | --- | --- | --- |
-| Sect Name: | **Revealing Light** | **Nurturing Light** | **Bright Hope** |
-| Highest Ranking Priest:<br>*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
-| Oversees ~5 Temples:<br>*(Reports to rank directly above)* | Glass | Mist | Gentle |
-| Head of 1 Temple:<br>*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
-| Temple Department:<br>*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
-| Universal Rank<br>*(Reports to rank directly above)* |  |  | Focus |
+| >> | >> | >> | Temple Hierarchy |
+| --- | :---: | :---: | :---: |
+| ~ Sect Name: | **Revealing Light** | **Nurturing Light** | **Bright Hope** |
+| ~ Highest Ranking Priest:<br>*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
+| ~ Oversees ~5 Temples:<br>*(Reports to rank directly above)* | Glass | Mist | Gentle |
+| ~ Head of 1 Temple:<br>*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
+| ~ Temple Department:<br>*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
+| ~ Universal Rank<br>*(Reports to rank directly above)* | >> | >> | Focus |
 
 #### The Nurturing Light {#NurturingLight}
 The sect of the Nurturing Light represents **Ereal of the Evening**. To them, Ereal is a strong, steady light which is the ultimate source of all light within the world. They value **gentleness, peace and harmony** above all else. Their most active members are often seen as **negotiators** trying to maintain peace in troubled areas. Others of the sect work tirelessly among the poor, offering them what little hope they can. Their voices are often the more discreet but also the most soothing.

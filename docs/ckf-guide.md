@@ -36,9 +36,9 @@ A bonus is applied to slashing attacks that take advantage of a fluid back and f
 | Rib tickle |  |  |  |
 | Triple Cut | 3+MoS |  | -85 to -10 (Variable) |
 
-|  | Markad Slash* |
+| >> | Markad Slash* |
 | --- | --- |
-| Ranks in Punch | Bonus |
+| ~ Ranks in Punch | ~ Bonus |
 | 1 | 0 |
 | 10 | + 2 |
 | 50 | + 10 |
@@ -46,9 +46,9 @@ A bonus is applied to slashing attacks that take advantage of a fluid back and f
 
 * Every 10 ranks in Punch gain +2 Bonus up to rank 100. Hard cap bonus of 20.
 
-|  |  |  | Triple Cut* |
+| >> | >> | >> | Triple Cut* |
 | --- | --- | --- | --- |
-| Cumulative Ranks in Slash/Chop/Jab | Penalty |  |  |
+| ~ Cumulative Ranks in Slash/Chop/Jab | ~ Penalty |  |  |
 | 60 | -80 Penalty |  |  |
 | 200 | -10 Penalty |  |  |
 
@@ -88,9 +88,9 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
 | --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Median Speed | Speed Rank | Median Speed |
+| ~ Weapon | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Median Speed |
 
 
 #### Weapon Weight

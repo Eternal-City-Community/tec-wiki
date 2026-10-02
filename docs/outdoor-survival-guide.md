@@ -29,9 +29,9 @@ Fires are needed for cooking raw meat, typically done after [hunting](/hunting/)
 
 | **Step 1**: Find Firewood |  |
 | --- | --- |
-| **Step 2**: Dig Firepit | Requires a **shovel** or trowel. |
-| **Step 3**: Build Fire | 30 ranks in Firebuilding can make bonfires. |
-| **Step 4** *(optional)*: Stoke Fire | Stoke fire as needed. (e.g. The fire has gotten low and will burn out very soon.) |
+| ~ **Step 2**: Dig Firepit | Requires a **shovel** or trowel. |
+| ~ **Step 3**: Build Fire | 30 ranks in Firebuilding can make bonfires. |
+| ~ **Step 4** *(optional)*: Stoke Fire | Stoke fire as needed. (e.g. The fire has gotten low and will burn out very soon.) |
 
 #### Rope Making
 * Rope making with the grass harvesting and 

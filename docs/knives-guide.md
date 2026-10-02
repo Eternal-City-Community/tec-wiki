@@ -29,9 +29,9 @@ Below you'll find everything important to know about the [Knives](/knives/) skil
 > [GM Senses](https://discord.com/channels/443988880396386314/643259017069592577/1114451929435746304):
 > "Unlike soundly built skill sets with standardized weapons, knives come in a mess of different varieties with all different properties. For most purposes, **daggers** are the only ones that matter e.g. they **have the most favorable stats**."
 
-|  |  | Knives Whirling Slash |
+| >> | >> | Knives Whirling Slash |
 | --- | --- | --- |
-| Slash Ranks | Penalty | Multi Hit |
+| ~ Slash Ranks | ~ Penalty | ~ Multi Hit |
 | 20 | -60 offense | +81 over success |
 | 30 | -40 offense | +71 over success |
 | 40 | -20 offense | +61 over success |
@@ -39,9 +39,9 @@ Below you'll find everything important to know about the [Knives](/knives/) skil
 | 100 | No penalty | +1 over success |
 
 
-|  |  |  | Knives Stab and Slash |
+| >> | >> | >> | Knives Stab and Slash |
 | --- | --- | --- | --- |
-| Slash Ranks | Stab Ranks | Penalty | Multi-Hit |
+| ~ Slash Ranks | ~ Stab Ranks | ~ Penalty | ~ Multi-Hit |
 | 10 | 10 | -80 offense | +76 over success |
 | 20 | 20 | -60 offense | +66 over success |
 | 30 | 30 | -40 offense | +56 over success |
@@ -67,7 +67,7 @@ Name: **<u>5-Move Rotation</u>**
 Required SP: *~60 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Knives](/knives/) | 10 |
 | 2 | [Knife Jab](/knives/#Jab) | 1 |
 | 3 | [Knife Chop](/knives/#Chop) | 1 |
@@ -88,7 +88,7 @@ Name: **<u>Leaving a Mark</u>**
 Required SP: *~300 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Knives](/knives/) | 30 |
 | 2 | [Knife Jab](/knives/#Jab) | 10 |
 | 3 | [Knife Chop](/knives/#Chop) | 10 |
@@ -114,7 +114,7 @@ Name: **<u>Well-Rounded Fighter</u>**
 Required SP: *~558 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Knives](/knives/) | 50 |
 | 1 | [Combat Maneuvers](/combat-maneuvers/) | 30 |
 | 1 | [Basic Dodge](/combat-maneuvers/) | 10 |
@@ -146,15 +146,15 @@ This is the list of weapons that can be used by the Knives skill set.
 
 | Weapons | How to get it | Est. cost in shops |
 | --- | --- | --- |
-|  |  | Knives |
+| >> | >> | ~ Knives |
 | A (tin) knife | Bacei (Junk Dealer) | 53d |
 | A knife crafted from *<animal>* bone | [Hunting](/hunting/#knife) | Cannot be purchased. |
 | A bronze knife **[RF]** | [Apecuia](/newbie-office/) ([Officium de Humanitas](/newbie-office/)). | 44d 1st 1s + 19 Pebbles |
 | A long knife **[RF]** | [Various Shops](/shops/) \| NPC Loot | +2t 192d |
-|  |  | Dirks |
+| >> | >> | ~ Dirks |
 | A cineran fighting dirk [Bronze] | [Various Shops](/shops/) | 2t 105d |
 | An iron dirk | Tylantarias (Quartz Heights, random item) |  |
-|  |  | Daggers |
+| >> | >> | ~ Daggers |
 | A wooden dagger | [Usius](/shops/) ([Bronze Lane](/iridine/)) | 76d |
 | A makeshift dagger | Rioters (NPCs) ([The Steps](/the-steps/)) | Cannot be purchased. |
 | A tin dagger **[RF]** | [Callia](/shops/) ([Bronze Lane](/bronze-lane/)) \| NPC Loot | 276d |
@@ -188,9 +188,9 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Average Speed | Speed Rank | Average Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | :---: | :---: | :---: | :---: |
+| ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
 | A knife | ?? | ?? | ?? | 1+MoS |
 | A knife crafted from bone | ?? | ?? | ?? | 1+MoS |
 | A bronze knife | ?? | ?? | ?? | 1+MoS |

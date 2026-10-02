@@ -19,9 +19,9 @@ Hiltha stocks a variety of rare items, which are harder to come by. For more det
 #### Rewards
 Due to armbands being the easiest to measure reputation, the below table is measured on combat armband levels. The related tiers (T1, T2...) are described in the [Franlius Battlegrounds](/hg-franlius/#Tiers) hunting ground. Armbands from tiers of higher difficulty are worth more reputation.
 
-|  |  | Reputation per Armband |
-| --- | --- | --- |
-| Tier | Tier Name | Reputation Points |
+| >> | >> | Reputation per Armband |
+| --- | --- | :---: |
+| ~ Tier | ~ Tier Name | ~ Reputation Points |
 | Tier 5 | Docks | ? |
 | Tier 4 | NW Section | 3 |
 | Tier 3 | NE Section | 1 |
@@ -30,7 +30,7 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 
 
 | Item | Reputation<br>Points | Price | Weight | Protection<br>or Quality |
-| --- | --- | --- | --- | --- |
+| --- | ---: | ---: | ---: | --- |
 | some leather gloves | 500 | 2t | <1 lb | Good - Arms, Hands |
 | some leather leggings | 500 | 2t | <1 lb | Good - Feet, Shins |
 | a long leather skullcap | 500 | 5t | <1 lb | Fairly Good - Head, Face, Neck |
@@ -108,7 +108,7 @@ That comes in the following colors: azure, balanced, barbed, black, black leathe
 You can ask Pretium about your "reputation" to receive a comment that gives you and idea of approximately how much reputation you've gained.
 
 | Reputation<br>Points | Comments from Pretium |
-| --- | --- |
+| ---: | --- |
 | 0 | Your name is barely a whisper in Franlius, unknown to most. |
 | 250 | Faint rumors of your minor deeds against the undead circulate in Franlius. |
 | 500 | Some in Franlius have heard of your early efforts to combat the undead. |
@@ -142,8 +142,8 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 [Romulus](/services/#Vendors) (located south of the [Lost Amulet Inn](/monlon/)) sells **unique bronze and iron armor**, most of which cannot be acquired elsewhere. He accepts **specific stone, bronze & iron armor** as well as **iron, alanti, boison & retalq Kelestian weapons** from fighters daring enough to battle the [Kelestians](/kelestia/), earning them reputation as payment. 
 
 | Item | Warrior | Mountaineer | Ravager | Naturalist | Falconer | Overseer | Ascetic | Contemplative | Tuneller |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |  | Armor |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Armor |
 | Stone Katitra | 2 | 4-5 | 8 | 8 | - | 8 | 8 | - | - |
 | Bronze Katitra | 4? | 5? | 8? | 8? | - | 8? | 8? | - | - |
 | Iron Katitra | - | - | ? | - | - | - | ? | - | - |
@@ -159,7 +159,7 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 | Iron Helmet | 2 | - | - | - | - | - | - | - | - |
 | Triangle Shield | 4 | - | - | - | - | - | - | - | - |
 | Towering Shield | 2 | - | - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |  |  | Weapons |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Weapons |
 | Iron Falcata | 2 | - | - | - | - | 9 | - | - | - |
 | Alanti Falcata | 10 | - | - | - | - | 10 | - | - | - |
 | Boison Falcata | 33 | - | - | - | - | 33 | - | - | - |
@@ -182,24 +182,24 @@ You can ask Pretium about your "reputation" to receive a comment that gives you 
 *This list is a work in progress and will be updated as people unlock more options.*
 
 | Item | Reputation Points | Price | Weight | Protection |
-| --- | --- | --- | --- | --- |
-| Some bronze greaves* | 500 | 9t 1412d 2st | 7 lbs | Very Good - Shins |
-| Some bronze thigh greaves | 1,000 | 25t 1172d 2st | > |  |
-| A bronze waistguard | 1,250 | 73t 452d 2st | 9 lbs | Good - Waist |
+| --- | ---: | ---: | --- | --- |
+| Some bronze greaves* | 500 | 9t 1412d 2st | > 7 lbs | Very Good - Shins |
+| Some bronze thigh greaves | 1,000 | 25t 1172d 2st | >  |  |
+| A bronze waistguard | 1,250 | 73t 452d 2st | > 9 lbs | Good - Waist |
 | Some chain sleeves with extended hand guards | 1,500 | 99t 62d 2st | 7 lbs | Very Good - Shoulder, Arms, Hands |
-| A pair of bronze gauntlets | 1,700 | 108t 1475d | > |  |
+| A pair of bronze gauntlets | 1,700 | 108t 1475d | >  |  |
 | A dull bronze helmet with a featureless faceplate | 1,800 | 118t 1325d |  |  |
-| Some bronze intra caligae | 1,900 | 122t 1265d | > |  |
-| Some bronze galeri | 2,000 | 128t 1175d | > |  |
-| A pair of iron gauntlets | 2,250 | 142t 965d | 5 lbs | Very Good - Arms, Hands |
-| An iron helmet with a faceplate | 2,400 | 148t 875d | 13 lbs | Excellent - Head, Face (closed) |
-| Some iron intra caligae | 2,500 | 152t 815d | 3 lbs | Very Good - Right Foot, Left Foot |
-| Some iron greaves | 2,500 | 162t 665d | 5 lbs | Very Good - Shins |
-| Some iron thigh greaves | 3,000 | 164t 635d | 6 lbs | Excellent - Thighs |
-| An iron waistguard | 3,500 | 168t 575d | 4 lbs | Very Good - Waist |
-| Some iron galeri | 4,000 | 198t 125d | 8 lbs | Very Good - Neck, Shoulders |
-| An iron cuirass | 4,500 | 207t 1537d 2st | 12 lbs | Excellent - Chest, Waist, Back |
-| A lorica segmentata | 5,000 | 234t 776d 2st 2s | 12 lbs | Very Good - Chest, Shoulders, Waist, Back |
+| Some bronze intra caligae | 1,900 | 122t 1265d | >  |  |
+| Some bronze galeri | 2,000 | 128t 1175d | >  |  |
+| A pair of iron gauntlets | 2,250 | 142t 965d | > 5 lbs | Very Good - Arms, Hands |
+| An iron helmet with a faceplate | 2,400 | 148t 875d | > 13 lbs | Excellent - Head, Face (closed) |
+| Some iron intra caligae | 2,500 | 152t 815d | > 3 lbs | Very Good - Right Foot, Left Foot |
+| Some iron greaves | 2,500 | 162t 665d | > 5 lbs | Very Good - Shins |
+| Some iron thigh greaves | 3,000 | 164t 635d | > 6 lbs | Excellent - Thighs |
+| An iron waistguard | 3,500 | 168t 575d | > 4 lbs | Very Good - Waist |
+| Some iron galeri | 4,000 | 198t 125d | > 8 lbs | Very Good - Neck, Shoulders |
+| An iron cuirass | 4,500 | 207t 1537d 2st | > 12 lbs | Excellent - Chest, Waist, Back |
+| A lorica segmentata | 5,000 | 234t 776d 2st 2s | > 12 lbs | Very Good - Chest, Shoulders, Waist, Back |
 
 **Some bronze greaves*** offer the **same protection** as other readily available greaves throughout the Republic for 1/5 of the price. However, they are a single armor piece (instead of two separate greave items).
 * Galeri can fit over a nagoda.
@@ -261,7 +261,7 @@ The following items can be unlocked at **Nominis'** shop given enough reputation
 Due to armbands being the easiest to measure reputation, the below table is measured on combat armband levels. The related tiers can be found on [BHC](/hg-black-hand-caverns/).
 
 | Item | Cost | T1 Armbands | T2 Armbands | T3 Armbands |
-| --- | --- | --- | --- | --- |
+| --- | --- | :---: | :---: | :---: |
 | A leather belt hoop | 395d 3st 1s | - | - | - |
 | A scabbard | 475d | - | - | - |
 | A leather quiver | 712d 2st | - | - | - |

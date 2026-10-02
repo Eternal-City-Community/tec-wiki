@@ -26,9 +26,9 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 
 ---
 
-|  |  |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Gilven | Cula | Majell | Varga | **Prestis |
+| >> | >> | >> | >> | Skill Info | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | --- | --- | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Gilven | ~ Cula | ~ Majell | ~ Varga | ~ **Prestis |
 | *<u>One-Handed Swords</u>* | Easy | - | - | - | 300 | 100 | 120 | 500 | 154 |
 | [Sword Chop](#Chop) | Easy | Either | Short | Cut | 300 | 100 | 110 | 500 | 154 |
 | [Sword Jab](#Jab) | Easy | Either | Short | Pierce | 300 | 100 | 110 | 500 | 154 |
@@ -48,9 +48,9 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 | [Sword Push Back](#Push) | Average | Either | Short | - | 300 | 100 | 110 | 500 | 154 |
 | [Sword Accuracy ](#Accuracy) | Difficult | - | - | - | 100 | 75 | - | 100 | 154 |
 | [Sword Grip](#Grip) | Impossible | - | - | - | 100 | 75 | - | 100 | 154 |
-|  |  |  |  |  |  |  |  |  | Custom Skills (Not taught by NPC trainers) |
-| [Retalq's Shadow Blade Thrust](#Sthrust) | Average | Either | Short | Pierce | - | - | - | - | - |
-| [Questrius' Toss and Crush](#Crush) | Easy | Either | Short | Bruise | - | - | - | - | - |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Custom Skills (Not taught by NPC trainers) |
+| [Retalq's Shadow Blade Thrust](#Sthrust) | Average | Either | Short | Pierce | = - | = - | = - | - | - |
+| [Questrius' Toss and Crush](#Crush) | Easy | Either | Short | Bruise | = - | = - | = - | - | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Cula** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, Ex4, Sx4, Ex3, N

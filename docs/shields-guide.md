@@ -19,7 +19,7 @@ Any shield made of bronze or iron can be **[Re-Forged](/weapons/#Reforge)** by *
 ### Available Shields
 
 | Weapons | Weight | Made Of | How to get it |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | --- |
 | Reed Shield (& Buckler) |  | Reed | [Player-crafted](/outdoor-survival/#Weaving) |
 | Hide Shield | 4 lbs | Hide | Buy in [Rock Valley](/shops/). Find in BHC |
 | Wooden Buckler | 4 lbs | Wood | Buy in [shops](/shops/). Find in hunting grounds. |
@@ -46,7 +46,7 @@ The **Oval Shield**
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | :---: | --- |
 | Reed Shield |  |  |  |  |
 | Round Shield w/ Metal Boss |  |  | 1 |  |
 | Iron Buckler |  |  | 2 |  |
@@ -69,7 +69,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 | Weapon | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | Triangular Metal Shield | 1 |
 | Wall Shield | 2 |
 | Iron Round Shield | 2 |
@@ -102,7 +102,7 @@ To understand how much damage your shield has taken, you can INSPECT it. It will
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 | Weapon | Absorption Rate | Absorption  Rank |
-| --- | --- | --- |
+| --- | ---: | --- |
 | Round Shield w/ Metal Boss | 0% |  |
 | Iron Round Shield | 0% |  |
 | Triangular Metal Shield | 0% |  |
@@ -112,13 +112,13 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Average RT | Speed Rank | Average RT |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | --- | --- | --- | ---: |
+| ~ Weapon | ~ Speed Rank | ~ Average RT | ~ Speed Rank | ~ Average RT |
 | Reed Shield |  |  |  |  |
 | Hide Shield |  |  |  |  |
 | Anoraden Long Shield |  |  |  |  |
-| Round Shield w/ Metal Boss |  | > |  | 1+MoS |
+| Round Shield w/ Metal Boss |  | >  |  | 1+MoS |
 | Wooden Buckler |  |  |  |  |
 | Wooden Round Shield |  |  |  |  |
 | Bronze Buckler |  |  |  |  |

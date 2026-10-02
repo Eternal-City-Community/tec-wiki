@@ -44,24 +44,24 @@ Note: Material and Protection information is provided for relevant items only.
 ## Monlon Reputation Armor
 
 | Item | Reputation Points | Price | Weight | Protection |
-| --- | --- | --- | --- | --- |
-| Some bronze greaves* | 500 | 9t 638d 3st | 7 lbs | Very Good - Shins |
-| Some bronze thigh greaves | 1,000 | 24t 723d 1st | > |  |
-| A bronze waistguard | 1,250 | 69t 976d 3st | 9 lbs | Good - Waist |
+| --- | ---: | ---: | --- | --- |
+| Some bronze greaves* | 500 | 9t 638d 3st | > 7 lbs | Very Good - Shins |
+| Some bronze thigh greaves | 1,000 | 24t 723d 1st | >  |  |
+| A bronze waistguard | 1,250 | 69t 976d 3st | > 9 lbs | Good - Waist |
 | Some chain sleeves with extended hand guards | 1,500 | 94t 137d 2st | 7 lbs | Very Good - Shoulder, Arms, Hands |
-| A pair of bronze gauntlets | 1,700 | 103t 776d 1st | > |  |
+| A pair of bronze gauntlets | 1,700 | 103t 776d 1st | >  |  |
 | A dull bronze helmet with a featureless faceplate | 1,800 | 112t 1415d |  |  |
-| Some bronze intra caligae | 1,900 | 116t 1045d 2st | > |  |
-| Some bronze galeri | 2,000 | 122t 491d 1st | > |  |
-| A pair of iron gauntlets | 2,250 | 135t 760d 2st | 5 lbs | Very Good - Arms, Hands |
-| An iron helmet with a faceplate | 2,400 | 141t 206d 1st | 13 lbs | Excellent - Head, Face (closed) |
-| Some iron intra caligae | 2,500 | 144t 1399d 1st | 3 lbs | Very Good - Right Foot, Left Foot |
-| Some iron greaves | 2,500 | 164t 475d 2st | 5 lbs | Very Good - Shins |
-| Some iron thigh greaves | 3,000 | 156t 290d 3st | 6 lbs | Excellent - Thighs |
-| An iron waistguard | 3,500 | 159t 1483d 3st | 4 lbs | Very Good - Waist |
-| Some iron galeri | 4,000 | 188t 275d | 8 lbs | Very Good - Neck, Shoulders |
-| An iron cuirass | 4,500 | 197t 913d 3st | 12 lbs | Excellent - Chest, Waist, Back |
-| A lorica segmentata | 5,000 | 222t 1206d 2st 1s | 12 lbs | Very Good - Chest, Shoulders, Waist, Back |
+| Some bronze intra caligae | 1,900 | 116t 1045d 2st | >  |  |
+| Some bronze galeri | 2,000 | 122t 491d 1st | >  |  |
+| A pair of iron gauntlets | 2,250 | 135t 760d 2st | > 5 lbs | Very Good - Arms, Hands |
+| An iron helmet with a faceplate | 2,400 | 141t 206d 1st | > 13 lbs | Excellent - Head, Face (closed) |
+| Some iron intra caligae | 2,500 | 144t 1399d 1st | > 3 lbs | Very Good - Right Foot, Left Foot |
+| Some iron greaves | 2,500 | 164t 475d 2st | > 5 lbs | Very Good - Shins |
+| Some iron thigh greaves | 3,000 | 156t 290d 3st | > 6 lbs | Excellent - Thighs |
+| An iron waistguard | 3,500 | 159t 1483d 3st | > 4 lbs | Very Good - Waist |
+| Some iron galeri | 4,000 | 188t 275d | > 8 lbs | Very Good - Neck, Shoulders |
+| An iron cuirass | 4,500 | 197t 913d 3st | > 12 lbs | Excellent - Chest, Waist, Back |
+| A lorica segmentata | 5,000 | 222t 1206d 2st 1s | > 12 lbs | Very Good - Chest, Shoulders, Waist, Back |
 
 ## Iridinian Armor
 
@@ -73,13 +73,13 @@ Note: Material and Protection information is provided for relevant items only.
 | A leather helmet | ?? | Head | Good |
 | A leather helmet with a buckled face cover | 3.0 lbs | Head | Fairly Good |
 | A bronze-plated leather helmet | 2.6 lbs. | Head | Good |
-| A tin helmet | 2 lbs. | Head | Good |
+| A tin helmet | ~2 lbs. | Head | Good |
 | A tin helmet | ?? | Head / Neck | Good |
-| A bronze helmet | 4 lbs. | Head / Neck | Very Good |
-| A bronze helmet with a faceplate | 9 lbs. | Head / Neck / Face | Very Good |
-| A heavy iron helmet | 9 lbs. | Head / Neck | Excellent |
+| A bronze helmet | ~4 lbs. | Head / Neck | Very Good |
+| A bronze helmet with a faceplate | ~9 lbs. | Head / Neck / Face | Very Good |
+| A heavy iron helmet | ~9 lbs. | Head / Neck | Excellent |
 | A caged iron helmet with a faceplate | 9.0 lbs. | Head, neck, and face | Excellent |
-| A iron helmet with a faceplate | 13 lbs. | Head and face | Excellent |
+| A iron helmet with a faceplate | ~13 lbs. | Head and face | Excellent |
 | A iron helmet with a faceplate | 13.0 lbs. | Head, neck, and face | Excellent |
 | A caged boison helmet with a faceplate | 13.0 lbs. | Head, neck, and face | Excellent |
 | A boison helmet with a faceplate | 17.0 lbs. | Head, neck, and face | Excellent |
@@ -163,30 +163,30 @@ All items listed above can be worn together. They can be put on in the following
 
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
-| A leather war vest | 5 lbs. | Chest, back, and waist | No* |
-| Some leather armor | 9 lbs. | Chest, right shoulder, and left shoulder | Fairly Good |
+| A leather war vest | ~5 lbs. | Chest, back, and waist | No* |
+| Some leather armor | ~9 lbs. | Chest, right shoulder, and left shoulder | Fairly Good |
 | A leather arming jerkin | 5.0 lbs. | Chest, right shoulder, and left shoulder | Little protection |
 | A bronze phylax | 5.0 lbs. | Chest | Fairly Good |
 | An iron phylax | 4.0 lbs. | Chest | Very Good |
 | A leather harness with ring | 5.0 lbs. | Chest, back, right shoulder, and left shoulder | Good |
 | A leather cuirass | 8.0 lbs. | Chest, back, and waist | Good |
-| A thick Kelestian uraschada with a polished stone clasp | 8 lbs. | chest, back, left thigh, right thigh, waist, left shoulder, and right shoulder | Good |
-| A mail cuirass | 10 lbs. | Chest, back, and waist | Good |
-| A muscle cuirass | 16 lbs. | Chest, back, and waist | Very Good |
-| A scuffed lorica hamata with bent links | 14 lbs. | Chest, back, waist, right thigh, and left thigh | Fairly Good |
+| A thick Kelestian uraschada with a polished stone clasp | ~8 lbs. | chest, back, left thigh, right thigh, waist, left shoulder, and right shoulder | Good |
+| A mail cuirass | ~10 lbs. | Chest, back, and waist | Good |
+| A muscle cuirass | ~16 lbs. | Chest, back, and waist | Very Good |
+| A scuffed lorica hamata with bent links | ~14 lbs. | Chest, back, waist, right thigh, and left thigh | Fairly Good |
 | A lorica hamata | 14.0 lbs. | Chest, back, waist, right thigh, and left thigh | Good |
 | A lorica squamata | 16.0 lbs. | Chest, back, waist, right thigh, and left thigh | Very Good |
-| A heavy Kelestian nagoda with polished stone plates | 19 lbs. | neck, chest, back, right shoulder, and left shoulder. | Excellent |
-| An iron cuirass | 12 lbs. | Chest, back, waist | Excellent |
+| A heavy Kelestian nagoda with polished stone plates | ~19 lbs. | neck, chest, back, right shoulder, and left shoulder. | Excellent |
+| An iron cuirass | ~12 lbs. | Chest, back, waist | Excellent |
 
 
 ### Waist
 
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
-| A leather waistguard | 4 lbs. | Waist | Fairly Good |
+| A leather waistguard | ~4 lbs. | Waist | Fairly Good |
 | A bronze waistguard | ??? | Waist | Good |
-| An iron waistguard | 4 lbs. | Waist | Very Good |
+| An iron waistguard | ~4 lbs. | Waist | Very Good |
 | A leather cuirass | 8.0 lbs. | Chest, back, and waist | Good |
 | A lorica hamata | 14.0 lbs. | Chest, back, waist, right thigh, and left thigh | Good |
 | A lorica squamata | 16.0 lbs. | Chest, back, waist, right thigh, and left thigh | Very Good |
@@ -196,11 +196,11 @@ All items listed above can be worn together. They can be put on in the following
 
 | Armor Piece | Weight | Coverage | Protection |
 | --- | --- | --- | --- |
-| Some leather thigh greaves | 5 lbs. | Right thigh and left thigh | Fairly Good |
+| Some leather thigh greaves | ~5 lbs. | Right thigh and left thigh | Fairly Good |
 | Some stiff leather pteryges | less than a pound | Right thigh and left thigh | Fairly Good |
-| A right bronze thigh greave | 3 lbs. | Right thigh | Very Good |
-| A left bronze thigh greave | 3 lbs. | Left thigh | Very Good |
-| A heavy Kelestian katitra with polished stone plates | 19lbs | Waist, right thigh and left thigh | Excellent |
+| A right bronze thigh greave | ~3 lbs. | Right thigh | Very Good |
+| A left bronze thigh greave | ~3 lbs. | Left thigh | Very Good |
+| A heavy Kelestian katitra with polished stone plates | ~19lbs | Waist, right thigh and left thigh | Excellent |
 | A lorica hamata | 14.0 lbs. | Chest, back, waist, right thigh, and left thigh | Good |
 | A lorica squamata | 16.0 lbs. | Chest, back, waist, right thigh, and left thigh | Very Good |
 
@@ -210,8 +210,8 @@ All items listed above can be worn together. They can be put on in the following
 | --- | --- | --- | --- |
 | A right leather greave | Less than a pound | Right shin | Fairly Good |
 | A left leather greave | Less than a pound | Left shin | Fairly good |
-| A right bronze greave | 3 lbs. | Right shin | Very Good |
-| A left bronze greave | 3 lbs. | Left shin | Very Good |
+| A right bronze greave | ~3 lbs. | Right shin | Very Good |
+| A left bronze greave | ~3 lbs. | Left shin | Very Good |
 
 
 ### Feet
@@ -229,7 +229,7 @@ All items listed above can be worn together. They can be put on in the following
 | Some dark brown cloth boots with gold ornaments |  | Right foot, left foot | Fairly Good |
 | Some low-cut leather boots with dark brown fur |  | Right foot, left foot | Fairly Good |
 | Some heavy black hobnailed soldiers boots |  | Right foot, left foot | Fairly Good |
-| Some heavy leather boots | 2 lbs. | Right foot, left foot | Good |
+| Some heavy leather boots | ~2 lbs. | Right foot, left foot | Good |
 | Some soft-soled leather boots with bronze buckles |  | Right foot, left foot | Good |
 | Some soft-soled leather boots with silver buckles |  | Right foot, left foot | Good |
 | Some soft-soled leather boots with brass buckles |  | Right foot, left foot | Good |
@@ -246,7 +246,7 @@ All items listed above can be worn together. They can be put on in the following
 | Some calf-high leather boots with the tops turned down |  | Right foot, left foot, right shin, left shin | Good |
 | Some knee-high leather boots with the tops turned down |  | Right foot, left foot, right shin, left shin | Good |
 | Some thigh-high leather boots with the tops turned down |  | Right foot, left foot, right shin, left shin | Good |
-| Some tall leather boots with silver buckles | 2 lbs. | Right foot, left foot, right shin, left shin | Good |
+| Some tall leather boots with silver buckles | ~2 lbs. | Right foot, left foot, right shin, left shin | Good |
 | Some tall leather boots with bronze buckles |  | Right foot, left foot, right shin, left shin | Good |
 | Some knee-high leather boots with bronze studs |  | Right foot, left foot, right shin, left shin | Good |
 | Some knee-high leather boots with iron studs |  | Right foot, left foot, right shin, left shin | Good |

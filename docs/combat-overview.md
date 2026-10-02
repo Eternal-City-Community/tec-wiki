@@ -112,14 +112,14 @@ There are five stances that allow you to balance your fighting style.
 #### Rotations
 Only applies to humanoids.
 
-| Attacks |  |  |  |  | Repeat Penalty (penalty) [cumulative penalty] |
+| Attacks | >> | >> | >> | >> | Repeat Penalty (penalty) [cumulative penalty] |
 | --- | --- | --- | --- | --- | --- |
-| Attacks | jab | chop | swat | slash | stab |
-| Attacks | jab | jab (-40) | jab (-30) [-70] | jab (-20) [-90] | jab (-10) [-100] |
-| Attacks | jab | jab (-40) | chop | jab (-10) [-50] | jab (-20)[-70] |
-| Attacks | jab | chop | jab (-30) | swat | jab (-10)[-40] |
-| Attacks | jab | chop | swat | jab (-20) | slash |
-| Attacks | jab | chop | swat | slash | jab (-10) |
+| ~ Attacks | jab | chop | swat | slash | stab |
+| ~ Attacks | jab | jab (-40) | jab (-30) [-70] | jab (-20) [-90] | jab (-10) [-100] |
+| ~ Attacks | jab | jab (-40) | chop | jab (-10) [-50] | jab (-20)[-70] |
+| ~ Attacks | jab | chop | jab (-30) | swat | jab (-10)[-40] |
+| ~ Attacks | jab | chop | swat | jab (-20) | slash |
+| ~ Attacks | jab | chop | swat | slash | jab (-10) |
 
 
 [Back to Top](#)
@@ -138,7 +138,7 @@ When aiming High, Mid or Low, there is a smaller penalty, but a random chance to
 When aiming at specific body parts, the penalty is greater, but if you connect you will hit the targeted location.
 
 | Aiming | Aiming Penalty |
-| --- | --- |
+| --- | :---: |
 | Head | -70 |
 | Face | -75 |
 | Neck | -75 |

@@ -79,18 +79,18 @@ Travel wagons exist in the game world. For paid wagons, only 1 ticket must be pu
 **Free:** Located in front of the **Hospice**, a drover arrives and shouts out for all interested passengers to follow him. All interested in taking this wagon must follow the **drover**.
 
 | Trip | Duration |
-| --- | --- |
+| --- | ---: |
 | Wait Time | ~2m 0s |
 | Travel Time | ~7m 4s |
-| **One-Way Trip** | ~9m 4s |
+| > **One-Way Trip** | ~ ~9m 4s |
 
 **Paid:** For the price of [a plain grey ticket](/shops/) you can board a wagon on-demand for a trip from Iridine to Rock Valley and vice versa. 
 
 | Trip | Duration |
-| --- | --- |
+| --- | ---: |
 | Wait Time | ~1m 3s |
 | Travel Time | ~8m 0s |
-| **One-Way Trip** | ~9m 3s |
+| > **One-Way Trip** | ~ ~9m 3s |
 
 ***<insert map snippet>***
 
@@ -104,10 +104,10 @@ The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by un
 For the cost of [A pale blue ticket](/shops/), you can take a wagon from Seld to Franlius and vice versa. Estimated travel times are listed below.
 
 | Trip | Duration |
-| --- | --- |
+| --- | ---: |
 | Wait Time | ~1m 3s |
 | Travel Time | ~8m 0s |
-| **One-Way Trip** | ~9m 3s |
+| > **One-Way Trip** | ~ ~9m 3s |
 
 ***<insert map snippet>***
 
@@ -127,12 +127,12 @@ The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by un
 
 
 | Trip | Duration |
-| --- | --- |
+| --- | ---: |
 | Wait in Iridine | 6m 05s |
 | Iridine -> Franlius | 6m 30s |
 | Wait in Franlius | 6m 05s |
 | Franlius -> Iridine | 6m 30s |
-| **Round Trip** | ~25m 10s |
+| > **Round Trip** | ~ ~25m 10s |
 
 If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* could have these replies which indicate the approximative wait time for it to return. ***Need to be updated with new times.***
 
@@ -163,7 +163,7 @@ If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* coul
 #### Vatallun <-> Seld <-> Monlon (Ferry)
 
 | Trip | Duration |
-| --- | --- |
+| --- | ---: |
 | Wait in Vetallun | 1m 30s |
 | Vetallun -> Seld | 2m 12s |
 | Wait in Seld | 1m 30s |
@@ -172,6 +172,6 @@ If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* coul
 | Monlon -> Seld | 4m 00s |
 | Wait in Seld | 1m 30s |
 | Seld -> Vetallun | 2m 12s |
-| **Round Trip** | ~17m 24s |
+| > **Round Trip** | ~ ~17m 24s |
 
 ***<insert map snippet>***

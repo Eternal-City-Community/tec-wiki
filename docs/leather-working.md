@@ -17,7 +17,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 
 | Skill Info |  | Ranks Taught by Trainer |
 | --- | --- | --- |
-| Skills/Actions | Difficulty | Malktros |
+| ~ Skills/Actions | ~ Difficulty | ~ Malktros |
 | <u>*Basic Leatherworking*</u> |  | 103 |
 | [Cut Leather Component](#Cut-Leather) | easy | 50 |
 | [Lace Leather Components](#Lace-Leather) | easy | 50 |
@@ -40,7 +40,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 
 | Leatherworking Recipes |  | Ranks Taught by Trainer |
 | --- | --- | --- |
-| Recipes | Difficulty |  |
+| ~ Recipes | ~ Difficulty |  |
 | Basic Leatherworking | - | 94 |
 | Knee-high Leather Boots Recipe | Easy | 10 |
 | Leather Knee Boot Body Recipe | Easy | 10 |

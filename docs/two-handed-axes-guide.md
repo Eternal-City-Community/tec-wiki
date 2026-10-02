@@ -46,9 +46,9 @@ This is the list of weapons that can be used by the 2HA skill set.
 | Two-Handed Tin Axe **[RF]** | [Apecuia](/newbie-office/) ([Officium de Humanitas](/newbie-office/)). | 44d 1st 1s + 19 Pebbles |
 | Two-Handed Tin Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 25 tokens or NPC loot. |
 | Two-Handed Bronze Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 200 tokens or NPC loot. |
-| Two-Handed Alanti Axe **[RF]** | Occasionally sold by [Nayden](/shops/) ([Iridine Forum](/forum/)) | 4-6t |
+| Two-Handed Alanti Axe **[RF]** | Occasionally sold by [Nayden](/shops/) ([Iridine Forum](/forum/)) | ~4-6t |
 | Two-Handed Iron Axe **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 600 tokens |
-| Two-Handed Boison Axe **[RF]** | Occasionally sold by [Nayden](/shops/) ([Iridine Forum](/forum/)) | 40-60t |
+| Two-Handed Boison Axe **[RF]** | Occasionally sold by [Nayden](/shops/) ([Iridine Forum](/forum/)) | ~40-60t |
 | Blackroot war-axe (iron) **[RF]** | [Grouthar](/shops/) ([Stromheim](/village-of-stromheim/)) | 1200 tokens |
 | Tin Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 950d or NPC loot. |
 | Bronze Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 2t 675d |
@@ -65,7 +65,7 @@ In scenarios where you need to be more tactical in your strategy, such as in com
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Two-Handed Tin Axe | 6 | 1 | 2 | 3 |
 | Two-Handed Bronze Axe | 5 | 1 | 3 | 3 |
 | Two-Handed Alanti Axe | 4 | 1 | 2 | 1 |
@@ -86,7 +86,7 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | [ReForged] Boison Pick Axe | 1 |
 | [ReForged] Two-Handed Boison Axe | 1 |
 | Two-Handed Boison Axe | 2 |
@@ -106,9 +106,9 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Median Speed | Speed Rank | Median Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | :---: | :---: | :---: | :---: |
+| ~ Weapon | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Median Speed |
 | Two-Handed Tin Axe | 1 | 2+mos | 1 | 1+mos |
 | Two-Handed Bronze Axe | 1 | 2+mos | 1 | 1+mos |
 | Two-Handed Alanti Axe | 1 | 2+mos | 1 | 1+mos |
@@ -125,7 +125,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 #### Weapon Weight
 
 | Weapon | Weight Rank | Weight |
-| --- | --- | --- |
+| --- | :---: | ---: |
 | Two-Handed Wooden Axe | N/A | Less than a pound |
 | Tin Pick Axe | 1 | 5 lbs |
 | Two-Handed Tin Axe | 2 | 6.5 lbs |

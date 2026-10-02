@@ -178,7 +178,7 @@ For example, the numeric value for **Endurance** directly corresponds to your ch
 
  
 | Stat Description | Numeric Value |
-| --- | ---: |
+| --- | :---: |
 | Abysmal | 0–50 |
 | Very Poor | 51–60 |
 | Poor | 61–70 |

@@ -53,9 +53,9 @@ The Officium de Humanitas offers two poorly skilled trainers that will teach you
 
 Priest Neathius will be accepting items that are listed above. The list below was built using pebbles only gathered from creatures' stomachs. Some items that are given to the Priest are worth more or less. As Tale told us in the Welcome Area one day, one pebble is worth 0.75 Reputation, so the list below is not 100% accurate. If an item unlocks at 4 Reputation Points, it will also consume those 4 Reputation Points if you purchase said item.
 
-|  |  | Silvox |
+| >> | >> | Silvox |
 | --- | --- | --- |
-| Item | Price | Pebbles Required |
+| ~ Item | ~ Price | ~ Pebbles Required |
 | A torch | 3d 2 s | 0 Pebbles |
 | A stale food ration | 3d 2s | 0 Pebbles |
 | A battered and misshapen waterskin | 5d 2 s | 0 Pebbles |
@@ -69,9 +69,9 @@ Priest Neathius will be accepting items that are listed above. The list below wa
 | A makeshift sagum | 31d | 4 Pebbles |
 | An old ceramic lantern | 38d | 4 Pebbles |
 
-|  |  | Apecuia |
+| >> | >> | Apecuia |
 | --- | --- | --- |
-| Item | Price | Pebbles Required |
+| ~ Item | ~ Price | ~ Pebbles Required |
 | A bow string | 3d 2s | 0 Pebbles |
 | Some bandages | 13d 1st 2s | 1 Pebbles |
 | Some tiny rolls of suture thread | 13d 1st 2s | Pebbles |
@@ -109,16 +109,16 @@ Priest Neathius will be accepting items that are listed above. The list below wa
 
 | Item | Weight | Protection | Covers |
 | --- | --- | --- | --- |
-| A well-worn waterskin | 1 pound | N/A | Back |
-| Some patched leggings | 1 pound | No protection | Waist, Left thigh/shin, right thigh/shin |
-| Some ill-fitting leather boots | 2 pounds | Fairly Good | Left foot, right foot |
-| A scuffed leather skullcap | 1 pound | Fairly Good | Head |
-| Some scuffed leather gloves | 1 pound | Little | Left hand, right hand |
-| An ill-fitting leather vest | 1 pound | Little | Chest, back |
-| A baggy sagum | 3 pounds | None | Chest, waist, back, right thigh/arm/shoulder, left thigh/arm/shoulder |
-| A tin helmet | 1 pounds | Good | Head |
-| A leather cuirass | 8 pounds | Good | Chest, back, waist |
-| A scuffed lorica hamata with bent link | 14 pounds | Fairly Good | Chest, back, waist, right thigh, left thigh |
+| A well-worn waterskin | ~1 pound | N/A | Back |
+| Some patched leggings | ~1 pound | No protection | Waist, Left thigh/shin, right thigh/shin |
+| Some ill-fitting leather boots | ~2 pounds | Fairly Good | Left foot, right foot |
+| A scuffed leather skullcap | ~1 pound | Fairly Good | Head |
+| Some scuffed leather gloves | ~1 pound | Little | Left hand, right hand |
+| An ill-fitting leather vest | ~1 pound | Little | Chest, back |
+| A baggy sagum | ~3 pounds | None | Chest, waist, back, right thigh/arm/shoulder, left thigh/arm/shoulder |
+| A tin helmet | ~1 pounds | Good | Head |
+| A leather cuirass | ~8 pounds | Good | Chest, back, waist |
+| A scuffed lorica hamata with bent link | ~14 pounds | Fairly Good | Chest, back, waist, right thigh, left thigh |
 
 Armor Stacking: 
 -You can wear the skullcap + tin helmet.

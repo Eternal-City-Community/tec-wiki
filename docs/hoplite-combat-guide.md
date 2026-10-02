@@ -39,7 +39,7 @@ In addition to the below list, spears included in **the [Spears Guide](/spears-g
 
 
 | Weapons | How to get it | Est. cost in shops |
-| --- | --- | --- |
+| --- | --- | ---: |
 | A tin-tipped short spear **[RF]** | Sold by [Marinian](/shops/) | 1,000d |
 | A bronze-tipped short spear **[RF]** | Sold by [Marinian](/shops/) | 3t |
 | An iron-tipped short spear **[RF]** | Sold by [Hiltha](/shops/) | 50t + [Reputation](/reputation/#Franlius) |
@@ -57,13 +57,13 @@ A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
 | --- | --- | --- | --- | --- |
-| A tin-tipped short spear |  |  |  |  |
-| A bronze-tipped short spear |  |  |  |  |
-| An iron-tipped short spear |  |  |  |  |
-| [Reforged] An iron-tipped short spear |  |  |  |  |
-| A boison-tipped short spear |  |  |  |  |
-| [Reforged] A boison-tipped short spear |  |  |  |  |
-| A retalq-tipped short spear |  |  |  |  |
+| A tin-tipped short spear | =  | =  | =  | =  |
+| A bronze-tipped short spear | =  | =  | =  | =  |
+| An iron-tipped short spear | =  | =  | =  | =  |
+| [Reforged] An iron-tipped short spear | =  | =  | =  | =  |
+| A boison-tipped short spear | =  | =  | =  | =  |
+| [Reforged] A boison-tipped short spear | =  | =  | =  | =  |
+| A retalq-tipped short spear | =  | =  | =  | =  |
 
 
 #### Weapon Damage
@@ -72,33 +72,33 @@ A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
 | --- | --- |
-| A retalq-tipped short spear |  |
-| [Reforged] A boison-tipped short spear |  |
-| A boison-tipped short spear |  |
-| [Reforged] An iron-tipped short spear |  |
-| An iron-tipped short spear |  |
-| A bronze-tipped short spear |  |
-| A tin-tipped short spear |  |
+| A retalq-tipped short spear | =  |
+| [Reforged] A boison-tipped short spear | =  |
+| A boison-tipped short spear | =  |
+| [Reforged] An iron-tipped short spear | =  |
+| An iron-tipped short spear | =  |
+| A bronze-tipped short spear | =  |
+| A tin-tipped short spear | =  |
 
 
 #### Weapon Speed
 
 A rank of **1 signifies the best** in this category.
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
 | --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Average Speed | Speed Rank | Average Speed |
-| A tin-tipped short spear |  |  |  |  |
-| A bronze-tipped short spear |  |  |  |  |
-| An iron-tipped short spear |  |  |  |  |
-| A boison-tipped short spear |  |  |  |  |
-| A retalq-tipped short spear |  |  |  |  |
+| ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
+| A tin-tipped short spear | =  | =  | =  | =  |
+| A bronze-tipped short spear | =  | =  | =  | =  |
+| An iron-tipped short spear | =  | =  | =  | =  |
+| A boison-tipped short spear | =  | =  | =  | =  |
+| A retalq-tipped short spear | =  | =  | =  | =  |
 
 
 Weapon round time with outstanding speed (190+):
 
 | Weapon and Shield | Most Attacks | Rotating Bash | Lunge and Strike &<br>Stab and Swing | Bash and Jab &<br>Slam and Thrust | Basic Attack | Feint |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | wood spear w/ any shield<br>tin short spear w/ any shield<br>alanti spear w/ any shield<br>alanti short spear w/ any shield<br>retalq spear w/ any shield<br>retalq short spear w/ any shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
 | boison spear w/ light shield<br>boison short spear w/ light shield<br>iron short spear w/ light shield | 2 + MoS | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 | boison spear w/ heavy shield<br>boison short spear w/ heavy shield<br>iron spear w/ heavy shield | 2 + MoS | 2 + MoS | 3 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
@@ -114,7 +114,7 @@ Weapon round time with outstanding speed (190+):
 #### Weapon Weight
 
 | Weapon | Weight |
-| --- | --- |
+| --- | :---: |
 | A tin short spear | ~3 lbs |
 | A bronze short spear | ~4 lbs |
 | An alanti short spear |  |

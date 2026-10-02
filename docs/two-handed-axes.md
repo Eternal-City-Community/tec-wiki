@@ -14,9 +14,9 @@ The main advantages of the axe, as opposed to simply using a sword or club-type 
 
 **For guidance on using the skill set, see the [Two Handed Axes Guide](/two-handed-axes-guide/)**.
 
-|  |  |  |  |  | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Clobris | Hroth |
+| >> | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | :---: | --- | --- |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Clobris | ~ Hroth |
 | *<u>Two-Handed Axes</u>* | - | - | - | - | - | 300 | 500 |
 | [2H Axe Wide Grip Stance](#Stance) | Easy | 2 | - | - | - | 90 | 175 |
 | [2H Axe Basic Slash](#Slash) | Easy | 2 | Either | Cut | - | 300 | 500 |

@@ -38,7 +38,7 @@ For **recipes that require water**, the easiest way to make it available is to h
 Herbalism **tools**, including water, **are not consumed upon use** the way ingredients are.
 
 | Tools | Used For | Comments |
-| --- | --- | --- |
+| :---: | :---: | --- |
 | Boiling Pot | Brewing | Available for purchase in [shops](/shops/) |
 | Drying Rack | Brewing | Available for purchase in [shops](/shops/) |
 | Filter Paper | Brewing | Available for purchase in [shops](/shops/) |
@@ -62,7 +62,7 @@ Containers are used in combination with **[Brewing](#BrewingChart)** and **deter
 The following can be used as containers for brewing.
 
 | Container | Size | Multiplier |
-| --- | --- | --- |
+| --- | --- | :---: |
 | Clay Flask |  | x1 |
 | Glass |  | x2 |
 | Cup |  | x4 |
@@ -76,7 +76,7 @@ The following can be used as containers for brewing.
 ##### Unit of Measurement
 
 | Unit | Ligulae | Cyathus | Sextans | Triens | Hemina | Choenix | Sextarii |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ligula | 1 | 1/5 | 1/10 | 1/20 | 1/30 | 1/40 | 1/50 |
 | Cyathus | 5 | 1 | 1/2 | 1/4 | 1/6 | 1/8 | 1/10 |
 | Sextans | 10 | 2 | 1 | 1/2 | 1/3 | 1/4 | 1/5 |
@@ -126,7 +126,7 @@ Characters use the brew <container> command. The **size of the [container](#Cont
 
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
-| --- | --- | --- | --- |
+| --- | --- | :---: | :---: |
 | Apple Juice | Small red apple (10) 🪙 | Mortar & Pestal | 1 Rank in [Brew Fundamentals](/herbalism/#brew) |
 | Lemon Juice | Yellow fruit with a thick peel (10) 🪙 | Mortar & Pestal | 1 Rank in [Brew Fundamentals](/herbalism/#brew) |
 | Posca | Bunch of Grapes (5) 🪙<br>Tiny winkled black seedpod (20) | Mortar & Pestal | 20 Ranks in [Brew Fundamentals](/herbalism/#brew) |
@@ -139,7 +139,7 @@ Characters use the brew <container> command. The **size of the [container](#Cont
 Paints to paint... stuff.
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
-| --- | --- | --- | --- |
+| --- | --- | :---: | :---: |
 | Brown Paint | Small furry green leaf (100)<br>Round reddish leaf (50) | Mixing Stick<br>Mortar & Pestal | 1 Rank in [Brew Paint](/herbalism/#paint) |
 | Black Paint | Small furry green leaf (100)<br>Tiny wrinkled black seedpod (50) | TBC | 10 Ranks in [Brew Paint](/herbalism/#paint) |
 | Red Paint | Small furry green leaf (100)<br>Piece of lacy red moss speckled with black (50) | TBC | 10 Ranks in [Brew Paint](/herbalism/#paint) |
@@ -159,7 +159,7 @@ Paints to paint... stuff.
 #### Brewing - Flask {#BrewingFlasks}
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
-| --- | --- | --- | --- |
+| --- | --- | :---: | :---: |
 | Rose Incense | Blossoming red flower (100) | Drying Rack<br>Fire | 1 Rank in [Brew Flask](/herbalism/#flask) |
 | Smoking Tobacco | Enormous brownish-green leaf (120) | Drying Rack<br>Fire<br>Mortar & Pestal | 10 Ranks in [Brew Flask](/herbalism/#flask) |
 | Fuel Oil | Oblong green fruit (100)<br>Small green-purple leaf (20) | TBC | 20 Ranks in [Brew Flask](/herbalism/#flask) |
@@ -174,7 +174,7 @@ Paints to paint... stuff.
 Items to help with character general health. Often combined with [healing](/healing/).
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
-| --- | --- | --- | --- |
+| --- | --- | :---: | :---: |
 | Swelling Salve | Thick spike-edged green leaf (50)<br>Piece of lacy red moss speckled with black (10) | TBC | 10 Ranks in [Brew Salve](/herbalism/#salve) |
 | Inflammation Salve | Thick spike-edged green leaf (50)<br>Thick squat brown root (10) | Grater<br>Knife<br>Mixing Stick<br>Water | 20 Ranks in [Brew Salve](/herbalism/#salve) |
 | Painkilling Salve | Thick spike-edged green leaf (50)<br>Wide thin scarlet flower (20) | Boiling Pot<br>Fire<br>Knife<br>Mixing Stick | 30 Ranks in [Brew Salve](/herbalism/#salve) |
@@ -184,7 +184,7 @@ Items to help with character general health. Often combined with [healing](/heal
 #### Brewing - Potions {#BrewingPotions}
 
 | Product | Ingredient(s) Description* | Required Tools | Required Ranks |
-| --- | --- | --- | --- |
+| --- | --- | :---: | :---: |
 | Blue-Green Acceleration Drug | Ridged brilliant red mushroom cap (150)<br>Piece of pale blue moss frosted with white (40)<br>Yellow fruit with a thick peel (10) 🪙 | TBC | **XX** Ranks in [Brew Potion](/herbalism/#potion) |
 | Yellow Agility Drug | Ridged brilliant red mushroom cap (150)<br>Straight brown thorn that is very hard (50)<br>Yellow fruit with a thick peel (10) 🪙 | Boiling Pot<br>Fire<br>Knife<br>Mixing Stick<br>Mortar & Pestal | **XX** Ranks in [Brew Potion](/herbalism/#potion) |
 | Red Strength Drug | Ridged brilliant red mushroom cap (150)<br>Round reddish leaf (20)<br>Yellow fruit with a thick peel (10) 🪙 | Boiling Pot<br>Fire<br>Mortar & Pestal<br>Sponge | **XX** Ranks in [Brew Potion](/herbalism/#potion) |

@@ -68,7 +68,7 @@ Name: **<u>2-Shot Rotation</u>**
 Required SP: *~650 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | ***Archery*** | 20 |
 | 2 | [Wind Gauging](/missile-weapons-bows/#Wind) | 1 |
 | 3 | [Off-Position Firing](/missile-weapons-bows/#Off) | 1 |
@@ -90,7 +90,7 @@ Name: **<u>3-Shot Rotation</u>**
 Required SP: *~398 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | ***Archery*** | 40 |
 | 2 | [Basic Shot](/missile-weapons-bows/#Basic) | 40 |
 | 3 | [Steady Aim](/missile-weapons-bows/#Steady) | 40 |
@@ -106,7 +106,7 @@ Name: **<u>Final rotation</u>**
 Required SP: *~558 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Quick Load](/missile-weapons-bows/#Load) | 20 |
 | 2 | [Quick String](/missile-weapons-bows/#Quick) | 20 |
 | 3 | [Quick Draw](/missile-weapons-bows/#Draw) | 20 |
@@ -124,7 +124,7 @@ Name: **<u>Level Grinding</u>**
 Required SP: *~2,260+ SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Wind Gauging](/missile-weapons-bows/#Wind) | 10 |
 | 2 | [Slope Gauging](/missile-weapons-bows/#Slope) | 10 |
 | 3 | [Off-Position Firing](/missile-weapons-bows/#Off) | 10 |
@@ -152,7 +152,7 @@ Name: **<u>To The Moon</u>**
 Required SP: *~1,970 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Wind Gauging](/missile-weapons-bows/#Wind) | 20 |
 | 2 | [Slope Gauging](/missile-weapons-bows/#Slope) | 20 |
 | 3 | [Off-Position Firing](/missile-weapons-bows/#Off) | 20 |
@@ -189,15 +189,15 @@ This is the list of bows & arrows that can be used by the Archery skill set.
 
 | Weapons | How to get it | Est. cost in shops |
 | --- | --- | --- |
-| Short Bow | Sold by various [shopkeepers](/shops/) | +1t 400d |
-| Arrows | How to get it | Est. cost in shops (20 arrows) |
-| Crude Arrows | Found on [TM Archers](/hg-bandit-forest/) | n/a |
-| Reed Arrows | Sold by various [shopkeepers](/shops/) | 39d - 75d |
-| Bone-Tipped Arrows | Crafted by [Hunters](/hunting/) | n/a |
-| Stone-Tipped Arrows | Crafted by [Hunters](/hunting/) | n/a |
-| Barbed Arrows | Sold by various [shopkeepers](/shops/) | 63d - 253d |
+| Short Bow | Sold by various [shopkeepers](/shops/) | > +1t 400d |
+| ~ Arrows | ~ How to get it | ~ Est. cost in shops (20 arrows) |
+| Crude Arrows | Found on [TM Archers](/hg-bandit-forest/) | = n/a |
+| Reed Arrows | Sold by various [shopkeepers](/shops/) | = 39d - 75d |
+| Bone-Tipped Arrows | Crafted by [Hunters](/hunting/) | = n/a |
+| Stone-Tipped Arrows | Crafted by [Hunters](/hunting/) | = n/a |
+| Barbed Arrows | Sold by various [shopkeepers](/shops/) | = 63d - 253d |
 | Bronze-Tipped Arrows | Sold by various [shopkeepers](/shops/)= | 190d - 332d |
-| Iron-Tipped Arrows | Sold by various [shopkeepers](/shops/) | 316d - 399d |
+| Iron-Tipped Arrows | Sold by various [shopkeepers](/shops/) | = 316d - 399d |
 
 
 #### Summary
@@ -207,7 +207,7 @@ In most serious cases you'll want a to use **iron-tipped arrows**. Reed arrows a
 A rank of **1 signifies the best** in this category. In the case of archery, the short bow itself doesn't impact the skill, so we will focus on ammo types.
 
 | Ammo | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Iron-Tipped Arrows | 1 | 1 | 3 | 1 |
 | Bronze-Tipped Arrows | 2 | 1 | 2 | 2 |
 | Barbed Arrows | 3 | 1 | 1 | 2 |
@@ -221,7 +221,7 @@ A rank of **1 signifies the best** in this category. In the case of archery, the
 A rank of **1 signifies the best** in this category. **The below is a guesstimate, confirmed testing is needed.**
 
 | Ammo | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | Iron-Tipped Arrows | 1 |
 | Bronze-Tipped Arrows | 2 |
 | Stone-Tipped Arrows | 2 |
@@ -235,9 +235,9 @@ A rank of **1 signifies the best** in this category. **The below is a guesstimat
 
 A rank of **1 signifies the best** in this category. All arrows have the same speed, no difference based on type of arrow used.
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Ammo | Speed Rank | Median Speed | Speed Rank | Median Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | :---: | :---: | :---: | :---: |
+| ~ Ammo | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Median Speed |
 | Iron-Tipped Arrows | 1 | ?? | 1 | ?? |
 | Bronze-Tipped Arrows | 1 | ?? | 1 | ?? |
 | Stone-Tipped Arrows | 1 | ?? | 1 | ?? |
@@ -249,7 +249,7 @@ A rank of **1 signifies the best** in this category. All arrows have the same sp
 #### Ammo Weight
 
 | Ammo | Weight Rank | Weight (per 100 arrows) |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | Reed Arrows | 1 | 0.1 lbs |
 | Barbed Arrows | 1 | 0.1 lbs |
 | Bronze-Tipped Arrows | 2 |  |

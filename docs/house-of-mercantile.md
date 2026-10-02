@@ -14,7 +14,7 @@ Something something House Of Mercantile has revolving stock.
 Mystery boxes are sold at various levels.
 
 | Mystery Box | Price | Comments |
-| --- | --- | --- |
+| --- | ---: | --- |
 | Tin Box | 2t |  |
 | Copper Box | 4t |  |
 | Brass Box | 8t |  |

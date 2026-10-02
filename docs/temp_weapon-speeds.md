@@ -5,7 +5,7 @@ category: "Skills & Combat"
 
 # Temp Weapon Speeds
 
-|  |  |  |  | Short Whip (210 speed) |
+| >> | >> | >> | >> | Short Whip (210 speed) |
 | --- | --- | --- | --- | --- |
 | Weapon: | Hair Whip | Soft Whip | Short Whip | Scale Whip |
 | Simple Strike | 1+MoS - 2.137 (2.7695) | 2+MoS - 3.075 (3.682) | 2+MoS - 3.063 (3.526) | 2+MoS - 3.083 (3.702) |
@@ -17,7 +17,7 @@ category: "Skills & Combat"
 | Sky Circle Slash | 1+MoS - 2.046 (2.6) | 2+MoS - 3.052 (3.624) | 2+MoS - 3.074 (3.612) | 2+MoS - 3.083 (3.869) |
 | Sky Circle Rake | 2+MoS - 3.095 (3.6575) | 2+MoS - 3.099 (3.679) | 2+MoS - 3.082 (3.692) | 3+MoS - 4.059 (4.679) |
 
-|  |  |  | Brawling (198 speed) |
+| >> | >> | >> | Brawling (198 speed) |
 | --- | --- | --- | --- |
 | Skill | Up + Enter | Fastest Time | Median |
 | Punch | 1+MoS | 2.049 | 2.603 |
@@ -36,7 +36,7 @@ category: "Skills & Combat"
 | Leg Whip | 4+MoS | 5.087 | 5.499 |
 | Head Slam | 1+MoS | 1.982 | 2.7055 |
 
-|  |  |  | Pankration (198 speed) |
+| >> | >> | >> | Pankration (198 speed) |
 | --- | --- | --- | --- |
 | Skill | Up + Enter | Fastest Time | Median |
 | Lead Palm | 1+MoS | 2.11 | 2.727 |
@@ -51,7 +51,7 @@ category: "Skills & Combat"
 | Lead and Cross | 1+MoS | 2.065 | 2.683 |
 | Knife Hand | 1+MoS | 2.07 | 2.6375 |
 
-|  |  |  | Combat Maneuvers (198 speed) |
+| >> | >> | >> | Combat Maneuvers (198 speed) |
 | --- | --- | --- | --- |
 | Skill | Up + Enter | Fastest Time | Median |
 | Fall Back | MoS | 0.242 | n/a |

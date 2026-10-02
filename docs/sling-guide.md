@@ -67,12 +67,12 @@ This is the list of Slings & Bullets that are recommended to use when using the 
 
 | Weapons | How to get it | Est. cost in shops |
 | --- | --- | --- |
-| A sling | Sold by [Shantaz](/shops/) ([Seld](/village-of-seld/)) | 182d |
-| Bullets | How to get it | Est. cost in shops (50 bullets) |
-| Sling stones | Buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
-| Ceramic Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
-| Iron Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
-| Lead Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
+| A sling | Sold by [Shantaz](/shops/) ([Seld](/village-of-seld/)) | > 182d |
+| ~ Bullets | ~ How to get it | ~ Est. cost in shops (50 bullets) |
+| Sling stones | Buy from [Kavacu](/monlon-ravines/) | = FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
+| Ceramic Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | = FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
+| Iron Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | = FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
+| Lead Sling Bullets | Found on [Menaces](/hg_monlon-battlefields/) or buy from [Kavacu](/monlon-ravines/) | = FREE + [Reputation](/reputation/#Kelestian) (when purchased) |
 
 
 #### Summary
@@ -82,7 +82,7 @@ In most serious cases you'll want a to use **lead bullets**.
 A rank of **1 signifies the best** in this category. In the case of archery, the short bow itself doesn't impact the skill, so we will focus on ammo types.
 
 | Ammo | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Lead Sling Bullets | 1 | 1 | 1 | 1 |
 | Iron Sling Bullets | 2 | 1 | 1 | 2 |
 | Ceramic Sling Bullets | 3 | 1 | 1 | 3 |
@@ -93,7 +93,7 @@ A rank of **1 signifies the best** in this category. In the case of archery, the
 A rank of **1 signifies the best** in this category.
 
 | Ammo | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | Lead Sling Bullets | 1 |
 | Iron Sling Bullets | 2 |
 | Ceramic Sling Bullets | 3 |
@@ -103,23 +103,23 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category. All ammo has the same speed, no difference based on type of bullet used.
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Ammo | Speed Rank | Median Speed | Speed Rank | Median Speed |
-| Lead Sling Bullets | 1 |  | 1 |  |
-| Iron Sling Bullets | 1 |  | 1 |  |
-| Ceramic Sling Bullets | 1 |  | 1 |  |
-| Sling stones | 1 |  | 1 |  |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | :---: | --- | :---: | --- |
+| ~ Ammo | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Median Speed |
+| Lead Sling Bullets | 1 | =  | 1 | =  |
+| Iron Sling Bullets | 1 | =  | 1 | =  |
+| Ceramic Sling Bullets | 1 | =  | 1 | =  |
+| Sling stones | 1 | =  | 1 | =  |
 
 
 #### Ammo Weight
 
 | Ammo | Weight Rank | Weight (per 50 bullets) |
-| --- | --- | --- |
-| Lead Sling Bullets | 1 |  |
-| Iron Sling Bullets | 1 |  |
-| Ceramic Sling Bullets | 1 |  |
-| Sling stones | 2 |  |
+| --- | :---: | --- |
+| Lead Sling Bullets | 1 | =  |
+| Iron Sling Bullets | 1 | =  |
+| Ceramic Sling Bullets | 1 | =  |
+| Sling stones | 2 | =  |
 
 **Note**: Standard military sling weighs ?? lbs.
 

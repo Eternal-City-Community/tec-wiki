@@ -17,9 +17,9 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 **For guidance on using the skill set, see the [Tailoring Guide](/tailoring-guide/)***(in progress)*.
 
-|  | Skill Info |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |
+| >> | Skill Info | >> | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | --- | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Josephus | ~ Pomoura | ~ Xantheros | ~ Gestus | ~ Demetrius | ~ Circiana | ~ Periona |
 | <u>*Basic Tailoring*</u> | Easy | 150 | 150 | 150 | 150 | 35 | 301 | 102 |
 | [Patternwork](#Patternwork) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
 | [Tailor's Shears](#Tailors-Shears) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
@@ -37,7 +37,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 | Tailoring Recipes |  |  |  |  |  |  |  | Ranks Taught by Trainer |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Recipes | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |
+| ~ Recipes | ~ Difficulty | ~ Josephus | ~ Pomoura | ~ Xantheros | ~ Gestus | ~ Demetrius | ~ Circiana | ~ Periona |
 | Apron Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
 | Apron Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
 | Apron Square Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
@@ -139,11 +139,11 @@ The art of tailoring has been around since ancient times, when the primitive peo
 <summary>+ Show Tailoring Lores</summary>
 
 
-|  | Tailoring Lores |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lore | Difficulty | Josephus | Pomoura | Xantheros | Gestus | Demetrius | Circiana | Periona |
+| >> | Tailoring Lores | >> | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ~ Lore | ~ Difficulty | ~ Josephus | ~ Pomoura | ~ Xantheros | ~ Gestus | ~ Demetrius | ~ Circiana | ~ Periona |
 | Maker's Mark | Easy | 25 | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |  | Edgings |
+| >> | >> | >> | >> | >> | >> | >> | >> | ~ Edgings |
 | Sunburst Edging Stitch | Average | 25 | - | - | - | - | - | - |
 | Crescent Moon Edging Stitch | Average | 25 | - | - | - | - | - | - |
 | Flame Edging Stitch | Average | 25 | - | - | - | - | - | - |
@@ -207,7 +207,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | Rose Vine Stitch | - | - | - | - | - | - | - | - |
 | House Auila Edging Stitch | - | - | - | - | - | - | - | - |
 | House Saliea Pattern Stitch | - | - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |  | Patterns |
+| >> | >> | >> | >> | >> | >> | >> | >> | ~ Patterns |
 | Rectangle Pattern | Easy | 25 | - | - | - | - | - | - |
 | Square Pattern | Easy | 25 | - | - | - | - | - | - |
 | Triangle Pattern | Easy | 25 | - | - | - | - | - | - |
@@ -236,8 +236,8 @@ The art of tailoring has been around since ancient times, when the primitive peo
 | Ornate Wolf Pattern | - | - | - | - | - | - | - | - |
 | Compass Rose Pattern | - | - | - | - | - | - | - | - |
 | Vespatian House Insignia | - | - | - | - | - | - | - | - |
-|  |  |  |  |  |  |  |  | Borders |
-|  |  |  |  |  |  |  |  | Patches |
+| >> | >> | >> | >> | >> | >> | >> | >> | ~ Borders |
+| >> | >> | >> | >> | >> | >> | >> | >> | ~ Patches |
 | Square Patch | Easy | 25 | - | - | - | - | - | - |
 | Rectangular Patch | Easy | 25 | - | - | - | - | - | - |
 | Triangular Patch | Easy | 25 | - | - | - | - | - | - |
@@ -289,45 +289,45 @@ To find where the appropriate fabric is sold, you can search for *'**length of c
 
 
 | Item | Length(s) | Wool | Linen | Doeskin | Muslin | Madras | Cotton | Silk | Suede | Velvet | Fur | Leather |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Apron | **1 <sup>1/4</sup>** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Blanket | **2** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
-| Breeches | **1** | Y | Y | Y | N | N | Y | Y | Y | N | Y | Y |
-| Cap | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Cape | **2** | Y | Y | N | N | Y | Y | Y | N | Y | N | N |
-| Chiton | **2 <sup>3/4</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Cloak | **2** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Fingerless Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Hair Ribbon | **<sup>1/8</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Hat | **<sup>1/2</sup> + <sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | Y | N |
-| Headband | **<sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Headscarf | **<sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Loincloth | **<sup>3/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Neckpouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | N | N | N |
-| Paenula | **2** | Y | N | Y | N | N | Y | N | Y | N | N | N |
-| Pants | **1** | Y | Y | Y | Y | Y | Y | Y | N | Y | N | N |
-| Pouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Robe | **2** | Y | Y | Y | Y | N | Y | Y | N | N | N | N |
-| Sack | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | Y | N | N |
-| Scarf | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | N | Y | N | Y | N | N |
-| Shirt | **1 <sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Simple Belt | **<sup>1/4</sup>** | Y | Y | Y | N | Y | Y | Y* | Y | N | N | N |
-| Skullcap | **<sup>1/2</sup>** | Y | Y | Y | Y | N | Y | N | Y | N | Y | Y |
-| Sleeveless Tunic | **1** | Y | Y | N | Y | N | Y | Y | N | N | N | N |
-| Slippers *(upper)* | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Slippers *(sole)* | **<sup>1/8</sup>** | N | N | Y | N | N | N | N | N | N | N | Y |
-| Socks | **<sup>1/4</sup>** | Y | Y | N | N | N | Y | Y | N | N | Y | N |
-| Stola | **1 <sup>1/2</sup>** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Apron | **1 <sup>1/4</sup>** | Y | Y | ~ N | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N |
+| Blanket | **2** | Y | Y | Y | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Breeches | **1** | Y | Y | Y | ~ N | ~ N | Y | Y | Y | ~ N | Y | Y |
+| Cap | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Cape | **2** | Y | Y | ~ N | ~ N | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Chiton | **2 <sup>3/4</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Cloak | **2** | Y | Y | ~ N | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N |
+| Fingerless Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Gloves | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Hair Ribbon | **<sup>1/8</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Hat | **<sup>1/2</sup> + <sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | Y | ~ N |
+| Headband | **<sup>1/8</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Headscarf | **<sup>1/2</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Loincloth | **<sup>3/4</sup>** | Y | Y | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | ~ N |
+| Neckpouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N | ~ N |
+| Paenula | **2** | Y | ~ N | Y | ~ N | ~ N | Y | ~ N | Y | ~ N | ~ N | ~ N |
+| Pants | **1** | Y | Y | Y | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Pouch | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Robe | **2** | Y | Y | Y | Y | ~ N | Y | Y | ~ N | ~ N | ~ N | ~ N |
+| Sack | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Sash | **<sup>1/4</sup>** | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | Y | ~ N | ~ N |
+| Scarf | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | ~ N |
+| Shirt | **1 <sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Simple Belt | **<sup>1/4</sup>** | Y | Y | Y | ~ N | Y | Y | Y* | Y | ~ N | ~ N | ~ N |
+| Skullcap | **<sup>1/2</sup>** | Y | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | Y | Y |
+| Sleeveless Tunic | **1** | Y | Y | ~ N | Y | ~ N | Y | Y | ~ N | ~ N | ~ N | ~ N |
+| Slippers *(upper)* | **<sup>1/4</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Slippers *(sole)* | **<sup>1/8</sup>** | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N | ~ N | ~ N | Y |
+| Socks | **<sup>1/4</sup>** | Y | Y | ~ N | ~ N | ~ N | Y | Y | ~ N | ~ N | Y | ~ N |
+| Stola | **1 <sup>1/2</sup>** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
 | Strophium | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
 | Subligar | **<sup>1/2</sup>** | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y | Y |
-| Toga | **4** | Y | Y | N | Y | Y | Y | Y | N | Y | N | N |
-| Towel | **1** | Y | Y | N | N | N | Y | N | N | N | N | N |
-| Tunic | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
-| Tunica | **1 <sup>1/2</sup>** | Y | Y | N | Y | N | Y | Y | N | Y | N | N |
-| Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | N | N |
-| Waist Sash | **<sup>1/4</sup>** | Y | Y | Y | N | Y | N | Y | N | N | N | N |
+| Toga | **4** | Y | Y | ~ N | Y | Y | Y | Y | ~ N | Y | ~ N | ~ N |
+| Towel | **1** | Y | Y | ~ N | ~ N | ~ N | Y | ~ N | ~ N | ~ N | ~ N | ~ N |
+| Tunic | **1 <sup>1/2</sup>** | Y | Y | ~ N | Y | ~ N | Y | Y | ~ N | Y | ~ N | ~ N |
+| Tunica | **1 <sup>1/2</sup>** | Y | Y | ~ N | Y | ~ N | Y | Y | ~ N | Y | ~ N | ~ N |
+| Vest | **1** | Y | Y | Y | Y | Y | Y | Y | Y | Y | ~ N | ~ N |
+| Waist Sash | **<sup>1/4</sup>** | Y | Y | Y | ~ N | Y | ~ N | Y | ~ N | ~ N | ~ N | ~ N |
 
 
 </details>
@@ -402,36 +402,36 @@ Once a tailor has completed the garment, it can be altered slightly through the 
 <summary>+ Show Refit Adjectives</summary>
 
 
-|  | Refit Adjectives |
+| >> | Refit Adjectives |
 | --- | --- |
-| Apron | Poorly-cut, poorly-made, makeshift, simple, fraying, baggy, worn, knee-length, floor-length, loose-hanging, thigh-length, loose-fitting, wide, over-sized, snug, long, short, flowing, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, well-made, well-tailored. |
-| Blanket | Poorly-cut, poorly-made, makeshift, simple, fraying, wide, long, well-made, well-tailored. |
-| Breeches | Poorly-cut, poorly-made, saggy, sagging, simple, fraying, loose, baggy, knee-length, loose-hanging, loose-fitting, wide, over-sized, snug, long, short, tight, tight-fitting. |
-| Cape | Poorly-cut, poorly-made, makeshift, simple, fraying, knee-length, loose-hanging, loose-fitting, wide, over-sized, long, short, billowing, voluminous, flowing, pleated, flaring, well-made, well-tailored. |
-| Chiton | Poorly-cut, poorly-made, makeshift, simple, fraying, loose, baggy, knee-length, floor-length, loose-hanging, loose-fitting, over-sized, snug, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, finely-draped, flowing, sweeping, flaring, well-made, well-tailored. |
-| Cloak | Poorly-cut, poorly-made, makeshift, simple, fraying, knee-length, floor-length, loose-hanging, loose-fitting, wide, over-sized, long, short, billowing, voluminous, pleated, flowing, flaring, well-made, well-tailored. |
-| Gloves | Loose, loose-hanging, loose-fitting, over-sized, tight, tight-fitting, snug, feminine, long, arm-length, elbow-length, well-made, well-tailored, poorly-cut, poorly-made, simple. |
-| Hair Ribbon | Wide, dainty, delicate, long, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
-| Loincloth | Loose, loose-hanging, loose-fitting, baggy, over-sized, pleated, long, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
-| Neckpouch | Poorly-made, sagging, fraying. |
-| Paenula | Poorly-cut, poorly-made, simple, fraying, knee-length, loose-hanging, loose-fitting, long, short, billowing, voluminous, flowing, pleated,  well-made, well-tailored. |
-| Pants | Loose, loose-hanging, loose-fitting, wide, baggy, saggy, sagging, over-sized, tight, tight-fitting, form-fitting, figure-hugging, clinging, snug, pleated, flowing, short, poorly-cut, poorly-made, flaring, well-made, well-tailored, simple. |
-| Pouch | Poorly-cut, poorly-made, makeshift, sagging, simple, fraying, dainty, delicate, pleated, pear-shaped, well-made, well-tailored. |
-| Robe | Poorly-cut, poorly-made, simple, fraying, loose, baggy, floor-length, loose-hanging, loose-fitting, over-sized, snug, feminine, short, flowing, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, flaring, well-made, well-tailored. |
-| Sack | Poorly-cut, poorly-made, makeshift, simple, fraying, sagging, pleated, pear-shaped, well-made, well-tailored. |
-| Sash | Loose-hanging, wide, dainty, feminine, long, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
-| Scarf | Loose-hanging, wide, dainty, pleated, feminine, long, short, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
-| Skullcap | Well-made, fraying, worn, tight, clinging, snug, simple. |
-| Sleeveless Tunic | Poorly-made, fraying, loose, knee-length, thigh-length, loose-fitting, feminine, long, short, low-cut, billowing, tight, fringed. |
-| Socks | Poorly-cut, poorly-made, simple, fraying, loose, knee-length, thigh-length, loose-fitting, snug, long, short, tight, tight-fitting, dainty, well-made, well-tailored. |
-| Stola | Poorly-cut, poorly-made, simple, fraying, loose, baggy, knee-length, floor-length, loose-hanging, thigh-length, loose-fitting, snug, short, low-cut, flowing, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, sweeping, flaring, well-made, well-tailored. |
-| Strophium | Poorly-made, simple, fraying, tight. |
-| Subligar | Poorly-made, simple, fraying, baggy, tight. |
-| Toga | Poorly-cut, poorly-made, makeshift, simple, fraying, baggy, loose-hanging, loose-fitting, snug, flowing, finely-draped, sweeping, well-made, well-tailored. |
-| Towel | Wide, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
-| Tunic | Poorly-cut, poorly-made, simple, fraying, loose, baggy, knee-length, loose-hanging, thigh-length, loose-fitting, over-sized, snug, feminine, long, short, low-cut, billowing, flowing, tight, tight-fitting, fringed, form-fitting, figure-hugging, clinging, pleated, flaring, well-made, well-tailored. |
-| Tunica | Poorly-made, simple, loose, baggy, knee-length, thigh-length, loose-fitting, feminine, long, short, low-cut, billowing, flowing, tight, fringed. |
-| Vest | Loose, loose-hanging, loose-fitting, baggy, over-sized, tight, tight-fitting, form-fitting, figure-hugging, clinging, snug, dainty, low-cut, feminine, flowing, long, short, thigh-length, knee-length, poorly-cut, poorly-made, simple. |
+| ~ Apron | Poorly-cut, poorly-made, makeshift, simple, fraying, baggy, worn, knee-length, floor-length, loose-hanging, thigh-length, loose-fitting, wide, over-sized, snug, long, short, flowing, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, well-made, well-tailored. |
+| ~ Blanket | Poorly-cut, poorly-made, makeshift, simple, fraying, wide, long, well-made, well-tailored. |
+| ~ Breeches | Poorly-cut, poorly-made, saggy, sagging, simple, fraying, loose, baggy, knee-length, loose-hanging, loose-fitting, wide, over-sized, snug, long, short, tight, tight-fitting. |
+| ~ Cape | Poorly-cut, poorly-made, makeshift, simple, fraying, knee-length, loose-hanging, loose-fitting, wide, over-sized, long, short, billowing, voluminous, flowing, pleated, flaring, well-made, well-tailored. |
+| ~ Chiton | Poorly-cut, poorly-made, makeshift, simple, fraying, loose, baggy, knee-length, floor-length, loose-hanging, loose-fitting, over-sized, snug, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, finely-draped, flowing, sweeping, flaring, well-made, well-tailored. |
+| ~ Cloak | Poorly-cut, poorly-made, makeshift, simple, fraying, knee-length, floor-length, loose-hanging, loose-fitting, wide, over-sized, long, short, billowing, voluminous, pleated, flowing, flaring, well-made, well-tailored. |
+| ~ Gloves | Loose, loose-hanging, loose-fitting, over-sized, tight, tight-fitting, snug, feminine, long, arm-length, elbow-length, well-made, well-tailored, poorly-cut, poorly-made, simple. |
+| ~ Hair Ribbon | Wide, dainty, delicate, long, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
+| ~ Loincloth | Loose, loose-hanging, loose-fitting, baggy, over-sized, pleated, long, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
+| ~ Neckpouch | Poorly-made, sagging, fraying. |
+| ~ Paenula | Poorly-cut, poorly-made, simple, fraying, knee-length, loose-hanging, loose-fitting, long, short, billowing, voluminous, flowing, pleated,  well-made, well-tailored. |
+| ~ Pants | Loose, loose-hanging, loose-fitting, wide, baggy, saggy, sagging, over-sized, tight, tight-fitting, form-fitting, figure-hugging, clinging, snug, pleated, flowing, short, poorly-cut, poorly-made, flaring, well-made, well-tailored, simple. |
+| ~ Pouch | Poorly-cut, poorly-made, makeshift, sagging, simple, fraying, dainty, delicate, pleated, pear-shaped, well-made, well-tailored. |
+| ~ Robe | Poorly-cut, poorly-made, simple, fraying, loose, baggy, floor-length, loose-hanging, loose-fitting, over-sized, snug, feminine, short, flowing, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, flaring, well-made, well-tailored. |
+| ~ Sack | Poorly-cut, poorly-made, makeshift, simple, fraying, sagging, pleated, pear-shaped, well-made, well-tailored. |
+| ~ Sash | Loose-hanging, wide, dainty, feminine, long, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
+| ~ Scarf | Loose-hanging, wide, dainty, pleated, feminine, long, short, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
+| ~ Skullcap | Well-made, fraying, worn, tight, clinging, snug, simple. |
+| ~ Sleeveless Tunic | Poorly-made, fraying, loose, knee-length, thigh-length, loose-fitting, feminine, long, short, low-cut, billowing, tight, fringed. |
+| ~ Socks | Poorly-cut, poorly-made, simple, fraying, loose, knee-length, thigh-length, loose-fitting, snug, long, short, tight, tight-fitting, dainty, well-made, well-tailored. |
+| ~ Stola | Poorly-cut, poorly-made, simple, fraying, loose, baggy, knee-length, floor-length, loose-hanging, thigh-length, loose-fitting, snug, short, low-cut, flowing, tight, tight-fitting, form-fitting, figure-hugging, clinging, pleated, sweeping, flaring, well-made, well-tailored. |
+| ~ Strophium | Poorly-made, simple, fraying, tight. |
+| ~ Subligar | Poorly-made, simple, fraying, baggy, tight. |
+| ~ Toga | Poorly-cut, poorly-made, makeshift, simple, fraying, baggy, loose-hanging, loose-fitting, snug, flowing, finely-draped, sweeping, well-made, well-tailored. |
+| ~ Towel | Wide, well-made, well-tailored, poorly-cut, poorly-made, makeshift, simple. |
+| ~ Tunic | Poorly-cut, poorly-made, simple, fraying, loose, baggy, knee-length, loose-hanging, thigh-length, loose-fitting, over-sized, snug, feminine, long, short, low-cut, billowing, flowing, tight, tight-fitting, fringed, form-fitting, figure-hugging, clinging, pleated, flaring, well-made, well-tailored. |
+| ~ Tunica | Poorly-made, simple, loose, baggy, knee-length, thigh-length, loose-fitting, feminine, long, short, low-cut, billowing, flowing, tight, fringed. |
+| ~ Vest | Loose, loose-hanging, loose-fitting, baggy, over-sized, tight, tight-fitting, form-fitting, figure-hugging, clinging, snug, dainty, low-cut, feminine, flowing, long, short, thigh-length, knee-length, poorly-cut, poorly-made, simple. |
 
 
 </details>

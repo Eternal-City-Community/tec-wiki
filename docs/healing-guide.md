@@ -46,7 +46,7 @@ Name: **<u>Starting Off</u>**
 Required SP: *~182 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Bandage Wound](/healing/#Bandage-Wound) | 1 |
 | 2 | [Remove Bandages](/healing/#Remove-Bandages) | 1 |
 | 3 | [Diagnose](/healing/#Diagnose) | 1 |
@@ -71,7 +71,7 @@ Name: **<u>Reliable Stitcher</u>**
 Required SP: *~506 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | ***Healing*** | 30 |
 | 2 | [Stitch Wound](/healing/#Stitch-Wound) | 20 |
 
@@ -85,7 +85,7 @@ Name: **<u>Advanced Healing</u>**
 Required SP: *~1,128+ SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | ***Healing*** | 50 |
 | 2 | [Stitch Wound](/healing/#Stitch-Wound) | 40 |
 | 3 | ***Healing*** | 100 |
@@ -103,7 +103,7 @@ Name: **<u>Accomplished Healer</u>**
 Required SP: *~537 SP*
 
 | # | Skill | To Rank |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | [Remove Stitches](/healing/#Remove-Stitches) | 10 |
 | 2 | [Splint Bone](/healing/#Splint-Bone) | 10 |
 | 3 | [Diagnose](/healing/#Diagnose) | 10 |
@@ -201,7 +201,7 @@ You can receive healing jobs in Iridine or Franlius. To receive jobs, simply wai
 In Iridine, travel to the [Hospice of the Morning Light](/gardens-and-hospice/). Wait 1 pace **south of [Melilia](/bio_melilia-saprius/)** and eventually the jobs will be called out in various rooms of the Hospice. Go to the appropriate room/arch and ask the patient "What's wrong?". Complete the job and then tell them "It's all done." The jobs will randomly **spawn every 1-2 minutes** as long as a healer is waiting south of Melilla, with a maximum of 2 patients waiting to be treated.
 
 | Type | Requires | Payment | Est. Profit | Rank Requirements | Notes |
-| --- | --- | --- | --- | --- | --- |
+| --- | :---: | ---: | ---: | --- | --- |
 | Bandage (child) | A Bandage | 20d | ?d | [Bandage Wound](/healing/#Bandage-Wound) |  |
 | Burn (citizen) | Burn Salve & A Bandage | 40d | ?d | [Application](/healing/#Application) & [Bandage Wound](/healing/#Bandage-Wound) |  |
 | Limb Pain (worker) | Painkiller Salve | 50d | ?d | [Application](/healing/#Application) |  |

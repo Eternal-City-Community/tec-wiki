@@ -20,34 +20,34 @@ Though spears have often been used in conjunction with shields, most who special
 **For guidance on using the skill set, see the [Spears Guide](/spears-guide/)**.
 
 
-|  |  |  |  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisites | Gilven | Uiseann | Regul | Concinnant | **Prestis |
-| *<u>Spears</u>* | Easy | - | - | - | - | 300 | 130 | 300 | 500 | 154 |
-| [Spear Ebros' Scorpion Stance](#Scorp) | Easy | 2 | Either | - | - | 100 | 100 | 100 | 100 | 154 |
-| [Spear Jab](#Jab) | Easy | Either | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Stab](#Stab) | Easy | Either | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Charge](#Charge) | Easy | 2 | Long | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Overhead Thrust](#Thrust) | Average | Either | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Butt Smash](#Smash) | Average | 2 | Short | Bruise | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Chop](#Chop) | Average | 2 | Long | Cut | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Throw](#Throw) | Average | Either | Missile | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Feint](#Feint) | Average | Either | Either | - | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Weapon Strike](#Wstrike) | Difficult | 2 | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Slash](#Slash) | Difficult | 2 | Short | Cut | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Impale](#Impale) | Difficult | 2 | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Sweep](#Sweep) | Difficult | 2 | Either | - | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Round Strike](#Rstrike) | Impossible | 2 | Either | Pierce | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Parting Jab](#Pjab) | Easy | Either | Short | Pierce | 10 Ranks in [Spear Jab](#Jab)<br>*or*<br>10 Ranks in [Spear Stab](#Stab) | 300 | 125 | 300 | 500 | 154 |
-| [Spear Upward Slash](#Upslash) | Average | 2 | Either | Cut | 20 Ranks in [Spear Slash](#Slash) | 300 | 125 | 300 | 500 | 154 |
+| >> | >> | >> | >> | >> | Skill Info | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisites | ~ Gilven | ~ Uiseann | ~ Regul | ~ Concinnant | ~ **Prestis |
+| *<u>Spears</u>* | Easy | - | - | - | = - | 300 | 130 | = 300 | 500 | 154 |
+| [Spear Ebros' Scorpion Stance](#Scorp) | Easy | 2 | Either | - | = - | 100 | 100 | = 100 | 100 | 154 |
+| [Spear Jab](#Jab) | Easy | Either | Either | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Stab](#Stab) | Easy | Either | Either | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Charge](#Charge) | Easy | 2 | Long | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Overhead Thrust](#Thrust) | Average | Either | Either | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Butt Smash](#Smash) | Average | 2 | Short | Bruise | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Chop](#Chop) | Average | 2 | Long | Cut | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Throw](#Throw) | Average | Either | Missile | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Feint](#Feint) | Average | Either | Either | - | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Weapon Strike](#Wstrike) | Difficult | 2 | Either | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Slash](#Slash) | Difficult | 2 | Short | Cut | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Impale](#Impale) | Difficult | 2 | Either | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Sweep](#Sweep) | Difficult | 2 | Either | - | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Round Strike](#Rstrike) | Impossible | 2 | Either | Pierce | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Parting Jab](#Pjab) | Easy | Either | Short | Pierce | = 10 Ranks in [Spear Jab](#Jab)<br>*or*<br>10 Ranks in [Spear Stab](#Stab) | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Upward Slash](#Upslash) | Average | 2 | Either | Cut | 20 Ranks in [Spear Slash](#Slash) | 300 | 125 | = 300 | 500 | 154 |
 | [Spear Parting Slash](#Pslash) | Average | 2 | Short | Cut | 40 Ranks in [Spear Slash](#Slash) | 300 | 125 | - | 500 | 154 |
 | [Spear Stepping Stab](#Sstab) | Average | Either | Either | Pierce<br>Pierce | 40 Ranks in [Spear Jab](#Jab)<br>40 Ranks in [Spear Stab](#Stab) | 300 | 125 | - | 500 | 154 |
-| [Spear Simple Block](#Sblock) | Easy | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Butt Block](#Bblock) | Easy | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Rotation Block](#Rotation) | Difficult | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Rounding Block](#Rblock) | Difficult | 2 | - | - | - | 300 | 125 | 300 | 500 | 154 |
-| [Spear Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 125 | 100 | 100 | 154 |
-| [Spear Grip](#Grip) | Impossible | - | - | - | - | 100 | 125 | 100 | 100 | 154 |
+| [Spear Simple Block](#Sblock) | Easy | 2 | - | - | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Butt Block](#Bblock) | Easy | 2 | - | - | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Rotation Block](#Rotation) | Difficult | 2 | - | - | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Rounding Block](#Rblock) | Difficult | 2 | - | - | = - | 300 | 125 | = 300 | 500 | 154 |
+| [Spear Accuracy](#Accuracy) | Difficult | - | - | - | = - | 100 | 125 | = 100 | 100 | 154 |
+| [Spear Grip](#Grip) | Impossible | - | - | - | = - | 100 | 125 | = 100 | 100 | 154 |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Uiseann** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex12, Sx5, Ex3, Sx2, W, Sx3, Ex12, S, E, N

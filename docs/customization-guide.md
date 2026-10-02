@@ -317,7 +317,7 @@ Staff will typically respond with either clarification, their questions to you, 
 The color and descriptor lists below currently exist in-game and are meant to be used for inspiration when creating your own custom item. Theses are all colors recently found describing items sold in the Forum.
 
 
-|  |  |  |  | Colors: |
+| >> | >> | >> | >> | Colors: |
 | --- | --- | --- | --- | --- |
 | Alabaster | Amethyst | Aquamarine | Argent | Beige |
 | Black | Blue | Blue-grey | Carnelian | Cerise |
@@ -330,7 +330,7 @@ The color and descriptor lists below currently exist in-game and are meant to be
 | Slate grey | Tan | Tangerine | Turquoise | Yellow |
 | Violet | Viridian | White, pearl white, snow white |  |  |
 
-|  |  |  |  | Colors Descriptors: |
+| >> | >> | >> | >> | Colors Descriptors: |
 | --- | --- | --- | --- | --- |
 | Burnt | Dark | Deep | Glittering | Light |
 | Opalescent | Pale | Pearlescent | Pure | Scintillating |

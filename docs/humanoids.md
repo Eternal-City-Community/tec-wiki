@@ -56,10 +56,10 @@ TBD
 **Variations:** an unwashed hairy mercenary, a tall beefy mercenary, an one-eyed mercenary
 **Difficulty:** High
 
-| Lootables |  |  |  |
-| --- | --- | --- | --- |
-| Item Group | Options | Price | Notes |
+| >> | >> | >> | Lootables |
+| --- | --- | ---: | --- |
+| ~ Item Group | ~ Options | ~ Price | ~ Notes |
 | Head Armor | a battle-scarred bronze-plated rough leather helmet | ~150d | ... |
-| a faded black leather helmet | ??d | ... |  |
+| ^^ | a faded black leather helmet | ??d | ... |
 | Weapon | a bronze knife | ~150d | ... |
-| an iron dagger | ~600d | Rare |  |
+| ^^ | an iron dagger | ~600d | Rare |

@@ -490,6 +490,22 @@ User-reported issues and fixes on 2026-10-01:
 - Before committing any new HTML-based layout, verify Markdown rendering inside the deepest content block and all parent wrappers.
 - Prefer plain Markdown when an HTML wrapper is unnecessary.
 
+### Table cell markers
+
+Markdown tables lack Wikidot's cell formatting, so a marker at the start of a cell supplies it (`docs/javascripts/tec-table-cells.js`, run before the other page enhancers on the live site and in the editor preview):
+
+| Wikidot | Markdown cell | Meaning |
+| --- | --- | --- |
+| `\|\|\|\|~ Armor \|\|` | `\| >> \| ~ Armor \|` | `>>` joins the cell to its right (colspan) |
+| `[[cell rowspan="2"]]` | `\| ^^ \|` (in the row below) | `^^` joins the cell above (rowspan) |
+| `\|\|~ Armor` | `~ Armor` | header cell |
+| `\|\|= 2` / `\|\|> 400d` | `= 2` / `> 400d` | center / right-align one cell |
+
+- Whole columns use normal Markdown alignment (`:---:`, `---:`). Header cells stay centered unless they have their own marker.
+- There is no left marker (the CMS escapes a leading `<`); left is the default.
+- Content that itself starts with a marker needs rewording, e.g. `~5 GSP` rather than `~ 5 GSP`.
+- The migration had dropped all of this (spans became empty cells, `~ = >` were stripped, and some "~" meaning "approximately" were lost with them). Restored from the Wikidot source where the table still matches it. Not restored: tables restructured after migration (Account, Locksmithing); on Jewelry, Leather-working, Tailoring and Tanning skill tables only header/section rows were restored (their source alignment was inconsistent).
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:

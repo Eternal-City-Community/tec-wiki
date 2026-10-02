@@ -36,7 +36,7 @@ Everything you need to know about the Falcata Sword Fighting skill set.
 This is the list of weapons that can be used by the Falcata Sword Fighting skill set.
 
 | Weapons | How to get it | Cost |
-| --- | --- | --- |
+| --- | --- | :---: |
 | A tin falcata | Loot drop in [Monlon](/monlon-master/) OR sold by [Kavacu](/monlon-ravines/) ([Kelestian Outpost](/monlon-kelestian-outpost/)) OR sold by [Flavian](/shops/) ([Harbor](/harbor/)) | [Reputation](/reputation/#Kelestian) OR 460d |
 | A bronze falcata | Loot drop in [Monlon](/monlon-master/) OR sold by [Kavacu](/monlon-ravines/) ([Kelestian Outpost](/monlon-kelestian-outpost/)) | [Reputation](/reputation/#Kelestian) |
 | An iron falcata **[RF]** | Loot drop in [Monlon Ravines](/hg_monlon-ravines/) | n/a |
@@ -53,15 +53,15 @@ In most cases, if still using Reflexes, you'll want a **retalq falcata**. If you
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
-| A tin falcata |  |  | 2 |  |
-| A bronze falcata |  |  | 3 |  |
-| An iron falcata |  |  | 4 |  |
-| A boison falcata |  |  | 5 |  |
-| [Reforged] An iron falcata |  |  | 4 |  |
-| [Reforged] A boison falcata |  |  | 5 |  |
-| A sooty black falcata |  |  | 1 |  |
-| A retalq falcata |  |  | 2 |  |
+| --- | --- | --- | :---: | --- |
+| A tin falcata | =  | =  | 2 | =  |
+| A bronze falcata | =  | =  | 3 | =  |
+| An iron falcata | =  | =  | 4 | =  |
+| A boison falcata | =  | =  | 5 | =  |
+| [Reforged] An iron falcata | =  | =  | 4 | =  |
+| [Reforged] A boison falcata | =  | =  | 5 | =  |
+| A sooty black falcata | =  | =  | 1 | =  |
+| A retalq falcata | =  | =  | 2 | =  |
 
 #### Weapon Damage
 
@@ -81,21 +81,21 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category.
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
 | --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Average Speed | Speed Rank | Average Speed |
-| A tin falcata |  |  |  |  |
-| A bronze falcata |  |  |  |  |
-| An iron falcata |  |  |  |  |
-| A boison falcata |  |  |  |  |
-| A sooty black falcata |  |  |  |  |
-| A retalq falcata |  |  |  |  |
+| ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
+| A tin falcata | =  | =  | =  | =  |
+| A bronze falcata | =  | =  | =  | =  |
+| An iron falcata | =  | =  | =  | =  |
+| A boison falcata | =  | =  | =  | =  |
+| A sooty black falcata | =  | =  | =  | =  |
+| A retalq falcata | =  | =  | =  | =  |
 
 
 #### Weapon Weight
 
 | Weapon | Weight Rank | Weight |
-| --- | --- | --- |
+| --- | :---: | ---: |
 | A sooty black falcata | 1 | 2 lbs |
 | A retalq falcata | 2 | 3 lbs |
 | A tin falcata | 2 | 3 lbs |

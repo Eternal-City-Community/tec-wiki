@@ -15,6 +15,10 @@ TEC.addPageEnhancer("skill-pages", function (root, ctx) {
     // "Rings", "Patterns", etc.
     Array.from(table.querySelectorAll('tr')).forEach(function (row) {
       var cells = Array.from(row.children);
+      if (cells.length === 1 && cells[0].colSpan > 1) {
+        cells[0].classList.add("tec-skill-table-section");
+        return;
+      }
       if (cells.length < 2) return;
 
       var nonempty = cells.filter(function (cell) {

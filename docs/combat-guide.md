@@ -295,13 +295,13 @@ While the healing skillset will allow you to recover from injury faster, it also
 
 | Only applies to humanoids |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Attacks |  |  |  |  | Repeat Penalty (penalty) [cumulative penalty] |
-| Attacks | jab | chop | swat | slash | stab |
-| Attacks | jab | jab (-40) | jab (-30) [-70] | jab (-20) [-90] | jab (-10) [-100] |
-| Attacks | jab | jab (-40) | chop | jab (-10) [-50] | jab (-20)[-70] |
-| Attacks | jab | chop | jab (-30) | swat | jab (-10)[-40] |
-| Attacks | jab | chop | swat | jab (-20) | slash |
-| Attacks | jab | chop | swat | slash | jab (-10) |
+| ~ Attacks | >> | >> | >> | >> | ~ Repeat Penalty (penalty) [cumulative penalty] |
+| ~ Attacks | jab | chop | swat | slash | stab |
+| ~ Attacks | jab | jab (-40) | jab (-30) [-70] | jab (-20) [-90] | jab (-10) [-100] |
+| ~ Attacks | jab | jab (-40) | chop | jab (-10) [-50] | jab (-20)[-70] |
+| ~ Attacks | jab | chop | jab (-30) | swat | jab (-10)[-40] |
+| ~ Attacks | jab | chop | swat | jab (-20) | slash |
+| ~ Attacks | jab | chop | swat | slash | jab (-10) |
 
 
 | Encumbrance level | Pounds | Penalty per Pound | Strength | Stand up RT | Fatigue Loss % |
@@ -338,7 +338,7 @@ Source 1: http://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-c
 
  
 | Stat Description | Numeric Value |
-| --- | --- |
+| --- | :---: |
 | Abysmal | = 0 - 60 |
 | Very Poor | = 61 - 70 |
 | Poor | = 71 - 80 |

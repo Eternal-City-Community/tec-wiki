@@ -31,7 +31,7 @@ Below you'll find everything important to know about **[Short Whips](/whips/)**.
 Weapon roundtime with outstanding speed (190+):
 
 | Weapon Type | Most Attacks | Flick Strike &<br>Short Entangle | Sky Circle Rake |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | :---: |
 | hair whip | 1 + MoS | 1 + MoS | 2 + MoS |
 | short whip<br>short whip with a retalq bit<br>simple whip of soft leather | 2 + MoS | 1 + MoS | 2 + MoS |
 | scale whip | 2 + MoS | 2 + MoS | 3 + MoS |
@@ -43,7 +43,7 @@ Weapon roundtime with outstanding speed (190+):
 In this damage ranking table, 1 is the best/highest raw damage. This ranking does not factor in critical hit frequency/quality. It simply ranks weapons based on the roll-over-success required to achieve the highest damage tier on an unarmored humanoid opponent.
 
 | Damage Rank | Weapon(s) | Maximum Damage Tier<br>(with 230 strength) |
-| --- | --- | --- |
+| :---: | --- | :---: |
 | 1 | short whip with a boison bit | 5 |
 | 2 | scale whip | 5 |
 | 3 | short whip with a retalq bit | 5 |

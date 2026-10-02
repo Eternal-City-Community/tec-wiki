@@ -13,9 +13,9 @@ There are at the very least three types of **bullets** that can be loaded into a
 **For guidance on using the skill set, see the [Sling Guide](/sling-guide/)**.
 
 
-|  |  |  |  | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Flavien | Sphara |
+| >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Flavien | ~ Sphara |
 | *<u>Sling Missile Weapons</u>* | Easy | - | - | - | 200 | 300 |
 | [Basic Sling Throw](#basic-throw) | Easy | 1 | Long | Bruise | 200 | 175 |
 | [Arcing Sling Throw](#arcing-throw) | Average | 1 | Long | Bruise | 200 | 175 |
@@ -41,7 +41,7 @@ There are at the very least three types of **bullets** that can be loaded into a
 
 Sling Missile Weapons can use a wide array of ammunition types to hit targets with and their usefulness in battle can be estimated by using the [Sling Ammo Evaluation](#ammo-evaluation) skill.
 
-|  |  | Ammunition: |
+| >> | >> | Ammunition: |
 | --- | --- | --- |
 | Type: | Usefulness: | Location: |
 | Sen (coin) | It doesn't have the weight to do much damage. | NPC Pouches, Bank |

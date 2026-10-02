@@ -14,32 +14,32 @@ The main advantages of the axe, as opposed to simply choosing a sword or club-ty
 
 **For guidance on using the skill set, see the [One Handed Axes Guide](/one-handed-axes-guide/)**.
 
-|  |  |  |  |  | Skill Info |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Hroth | Kerta | Protarian |
-| *<u>One-Handed Axes</u>* | Easy | - | - | - | - | 500 | 110 | 300 |
-| [Parcine Raider Stance](#Raider) | Easy | Either | - | - | - | - | 90 | 100 |
-| [Axe Hand Toss](#Hand-Toss) | Easy | 1 | - | - | - | 175 | 90 | 100 |
-| [Axe Basic Chop](#Basic-Chop) | Easy | Either | Short | Cut | - | 500 | 90 | 300 |
-| [Axe Shield-Breaker](#Shield-Breaker) | Easy | Either | Short | - | - | 500 | 90 | 300 |
-| [Axe Slash](#Slash) | Easy | Either | Short | Cut | - | 500 | 90 | 300 |
-| [Axe Head Swat](#Head-Swat) | Easy | Either | Short | Bruise | - | 500 | 90 | 300 |
-| [Axe Feint](#Feint) | Average | Either | Short | - | - | 500 | 90 | 300 |
-| [Axe Longarm Strike](#Longarm-Strike) | Average | Either | Short | Pierce | - | 500 | 90 | 300 |
-| [Axe Overhead Strike](#Overhead-Strike) | Average | Either | Short | Pierce | - | 500 | 90 | 300 |
-| [Axe Pivot Smash](#Pivot-Smash) | Average | Either | Short | Bruise | - | 500 | 90 | 300 |
-| [Axe Side Strike](#Side-Strike) | Average | 2 | Short | Cut | - | 500 | 90 | 300 |
-| [Axe Hook](#Hook) | Difficult | Either | - | - | - | 500 | 90 | 300 |
-| [Axe Leg Strike](#Leg-Strike) | Difficult | Either | Short | Bruise | - | 500 | 90 | 300 |
+| >> | >> | >> | >> | >> | Skill Info | >> | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | --- | --- | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Hroth | ~ Kerta | ~ Protarian |
+| *<u>One-Handed Axes</u>* | Easy | = - | = - | = - | = - | 500 | 110 | 300 |
+| [Parcine Raider Stance](#Raider) | Easy | Either | = - | = - | = - | = - | 90 | 100 |
+| [Axe Hand Toss](#Hand-Toss) | Easy | = 1 | = - | = - | = - | 175 | 90 | 100 |
+| [Axe Basic Chop](#Basic-Chop) | Easy | Either | Short | Cut | = - | 500 | 90 | 300 |
+| [Axe Shield-Breaker](#Shield-Breaker) | Easy | Either | Short | - | = - | 500 | 90 | 300 |
+| [Axe Slash](#Slash) | Easy | Either | Short | Cut | = - | 500 | 90 | 300 |
+| [Axe Head Swat](#Head-Swat) | Easy | Either | Short | Bruise | = - | 500 | 90 | 300 |
+| [Axe Feint](#Feint) | Average | Either | Short | = - | = - | 500 | 90 | 300 |
+| [Axe Longarm Strike](#Longarm-Strike) | Average | Either | Short | Pierce | = - | 500 | 90 | 300 |
+| [Axe Overhead Strike](#Overhead-Strike) | Average | Either | Short | Pierce | = - | 500 | 90 | 300 |
+| [Axe Pivot Smash](#Pivot-Smash) | Average | Either | Short | Bruise | = - | 500 | 90 | 300 |
+| [Axe Side Strike](#Side-Strike) | Average | = 2 | Short | Cut | = - | 500 | 90 | 300 |
+| [Axe Hook](#Hook) | Difficult | Either | = - | = - | = - | 500 | 90 | 300 |
+| [Axe Leg Strike](#Leg-Strike) | Difficult | Either | Short | Bruise | = - | 500 | 90 | 300 |
 | [Axe Throw](#Throw) | Average | Either | Missile | Cut | 10 Ranks in [Axe Hand Toss](#Hand-Toss) | 500 | 90 | 300 |
-| [Axe Loosening Toss](#Loosening-Toss) | Average | Either | Short | - | 10 Ranks in [Axe Hand Toss](#Hand-Toss) | 175 | 90 | 100 |
+| [Axe Loosening Toss](#Loosening-Toss) | Average | Either | Short | = - | 10 Ranks in [Axe Hand Toss](#Hand-Toss) | 175 | 90 | 100 |
 | [Axe Stepping Chop](#SteppingChop) | Average | Either | Short | Cut | 40 Ranks in [Axe Basic Chop](#Basic-Chop) | 500 | 90 | 300 |
 | [Axe Pivoting Longarm](#Pivoting-Longarm) | Difficult | Either | Short | Pierce | 20 ranks in [Axe Longarm Strike](#Longarm-Strike)<br>20 Ranks in [Axe Pivot Smash](#Pivot-Smash) | 500 | 90 | 300 |
 | [Axe Stepping Leg Strike](#SteppingLegstrike) | Difficult | Either | Short | Bruise | 40 Ranks in [Axe Leg Strike](#Leg-Strike)<br>40 Ranks in [Axe Stepping Chop](#SteppingChop) | 500 | 90 | 300 |
-| [Axe Crossblock](#Crossblock) | Average | Either | - | - | - | 500 | 90 | 300 |
-| [Axe Chopping Block](#Chopping-Block) | Difficult | Either | - | - | - | 500 | 90 | 300 |
-| [Axe Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 90 | 100 |
-| [Axe Grip](#Grip) | Impossible | - | - | - | - | 100 | 90 | 100 |
+| [Axe Crossblock](#Crossblock) | Average | Either | = - | = - | = - | 500 | 90 | 300 |
+| [Axe Chopping Block](#Chopping-Block) | Difficult | Either | = - | = - | = - | 500 | 90 | 300 |
+| [Axe Accuracy](#Accuracy) | Difficult | = - | = - | = - | = - | 100 | 90 | 100 |
+| [Axe Grip](#Grip) | Impossible | = - | = - | = - | = - | 100 | 90 | 100 |
 
 **Directions to Protarian** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, Nx1, Ex6, Sx1
 **Directions to Kerta** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, Nx3

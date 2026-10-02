@@ -62,6 +62,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/tec-page-enhancers.js
+  - javascripts/tec-table-cells.js
   - javascripts/tec-nav-v2.js
   - javascripts/tec-sidebar.js
   - javascripts/tec-skill-pages.js

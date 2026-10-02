@@ -42,12 +42,12 @@ The wealth command works with this currency.
 In addition to the value of individual coins, there is the *"Talent"* unit of currency that does not have a coin to represent it.
 
 | Coin | Value in Sen | Value in Sterce | Value in Denar | Value in Cents |
-| --- | --- | --- | --- | --- |
-| Sen | 1 | 1/3 | 1/12 | 1/300 |
-| Sterce | 3 | 1 | 1/4 | 1/100 |
-| Denar | 12 | 4 | 1 | 1/25 |
+| --- | ---: | ---: | --- | ---: |
+| Sen | 1 | 1/3 | > 1/12 | 1/300 |
+| Sterce | 3 | 1 | > 1/4 | 1/100 |
+| Denar | 12 | 4 | > 1 | 1/25 |
 | Cent | 300 | 100 | 25 | 1 |
-| Talent | 18,750 | 6,250 | 1,562.5 | 62.5 |
+| Talent | 18,750 | 6,250 | > 1,562.5 | 62.5 |
 
 **Note:** You can **convert currency** on this wiki using the **[money calculator](/money-calculator/)** or by using the **in-game** command: **convert <#> <coin type> to <new coin type>**.
 

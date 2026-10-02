@@ -73,7 +73,7 @@ Type @cycle to see your weekly "Rollover SP" for the current training cycle. Thi
 The amount of SP you can earn without draining your rollover depends on your character's total lifetime sp earned. This will be listed as "Total SP gained" if you type @sp-count.
 
 | Total SP gained | SP you can earn each week *before* rollover starts to be consumed |
-| --- | --- |
+| :---: | :---: |
 | 0 - 4999 | 1000 SP |
 | 5000 - 9999 | 900 SP |
 | 10000 - 15999 | 775 SP |
@@ -118,7 +118,7 @@ If no teacher is available for the ran you want to progress to, you will need to
 * The **[Self-Taught](/traits/#SelfTaught) trait** can help reduce the cost per rank of self-training.
 
 | Rank Range | Self-Training | Self-Training w/ Self-Taught |
-| --- | --- | --- |
+| ---: | :---: | :---: |
 | 1 - 2,001 | 200% SP | 150% SP |
 | 2,002 - 3,001 | 400% SP | 350% SP |
 | 3,002 - 4,001 | 600% SP | 550% SP |

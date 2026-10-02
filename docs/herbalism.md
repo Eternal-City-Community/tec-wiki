@@ -17,9 +17,9 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 
 **For guidance on using the skill set, see the [Herbalism Guide](/herbalism-guide/)**.
 
-|  | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Flosturian | **Terali **|
+| >> | Skill Info | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Flosturian | ~ **Terali ** |
 | *<u>Herbalism</u>* | Easy | 30 | 150 |
 | [Plant Identification](#plantid) | Average | 30 | 100 |
 | [Basic Herb Foraging](#basic-forage) | Easy | 30 | 100 |

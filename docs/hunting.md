@@ -10,38 +10,38 @@ The Knowledge of hunting, passed down from generation to generation, is an impor
 
 This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoor-survival/).**
 
-|  |  | Skill Info |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Prerequisite | **Krimalus** | Fern | Tauruu | Shantaz | Jarla |
-| *<u>Hunting</u>* | Easy | - | 80 | 50 | 125 | 150 | 200 |
-| [Deadfall Snares](#deadfall) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| >> | >> | Skill Info | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | --- | --- | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Prerequisite | ~ **Krimalus** | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
+| *<u>Hunting</u>* | Easy | = - | 80 | 50 | 125 | 150 | 200 |
+| [Deadfall Snares](#deadfall) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
 | [Cord Snares](#cord) | Average | 10 Ranks in [Deadfall Snares](#deadfall) | 60 | 50 | 100 | 125 | 150 |
 | [Sapling Snares](#sapling) | Difficult | 20 Ranks in [Cord Snares](#cord) | 60 | 50 | 100 | 125 | 150 |
-| [Forester Dismantling](#disarm) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Pole Fishing](#cast) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Deer Hunting](#deerlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Rabbit Hunting](#rabbitlore) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Gamebird Hunting](#birdlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Boar Hunting](#boarlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Ursine Hunting](#ursinelore) | Impossible | - | 80 | - | - | - | - |
-| [Goat Hunting](#goatlore) | Difficult | - | 80 | - | - | - | 150 |
-| [Deer's Instinct](#freeze) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Simple Hiding](#hide) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Basic Skinning](#skin) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Intermediate Skinning](#intSkin) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Advanced Skinning](#advSkin) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Arrow](#arrow) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Stave](#stave) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Spear](#spear) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Survival Knapping](#knapping) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Club](#club) | Easy | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Short Bow](#bow) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Knife](#knife) | Average | - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Axe](#axe) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+| [Forester Dismantling](#disarm) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Pole Fishing](#cast) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Deer Hunting](#deerlore) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Rabbit Hunting](#rabbitlore) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Gamebird Hunting](#birdlore) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Boar Hunting](#boarlore) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Ursine Hunting](#ursinelore) | Impossible | = - | 80 | - | - | - | - |
+| [Goat Hunting](#goatlore) | Difficult | = - | 80 | - | - | - | 150 |
+| [Deer's Instinct](#freeze) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Simple Hiding](#hide) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Basic Skinning](#skin) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Intermediate Skinning](#intSkin) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Advanced Skinning](#advSkin) | Difficult | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Arrow](#arrow) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Stave](#stave) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Spear](#spear) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Survival Knapping](#knapping) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Club](#club) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Short Bow](#bow) | Difficult | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Knife](#knife) | Average | = - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Axe](#axe) | Difficult | = - | 60 | 50 | 100 | 125 | 150 |
 
-|  | Hunting Lores |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
-| Lore | Difficulty | Krimalus | Fern | Tauruu | Shantaz | Jarla |
+| >> | Hunting Lores | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | :---: | :---: | :---: | :---: | :---: |
+| ~ Lore | ~ Difficulty | ~ Krimalus | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
 | [Hunter Tipping Lore](#tipping) | *TBC* | 25 | - | 25 | - | - |
 | [Field Dressing Lore](#fdress) | *TBC* | 25 | - | 25 | - | - |
 
@@ -87,18 +87,18 @@ Higher ranks in this skill allow you to create higher quality snares, which last
 
 |  | possible snare quality |
 | --- | --- |
-| Rank 1 | ?? |
-| Rank 10 | ?? |
-| Rank 20 | ?? |
-| Rank 30 | ?? |
-| Rank 40 | slightly below-average<br>**average** |
-| Rank 50 | **average** |
-| Rank 60 | ?? |
-| Rank 70 | ?? |
-| Rank 80 | ?? |
-| Rank 90 | ?? |
-| Rank 100 | ?? |
-| Rank 110 | ?? |
+| ~ Rank 1 | ?? |
+| ~ Rank 10 | ?? |
+| ~ Rank 20 | ?? |
+| ~ Rank 30 | ?? |
+| ~ Rank 40 | slightly below-average<br>**average** |
+| ~ Rank 50 | **average** |
+| ~ Rank 60 | ?? |
+| ~ Rank 70 | ?? |
+| ~ Rank 80 | ?? |
+| ~ Rank 90 | ?? |
+| ~ Rank 100 | ?? |
+| ~ Rank 110 | ?? |
 
 ** The results in this table were recorded with 110 ranks in Hunting (basics). Quality may vary with different basic ranks. Higher rolls over success result in better quality snares. The most common quality for each rank level is **bolded**.*
 
@@ -262,18 +262,18 @@ Using a knife or other short blade, this skill allows you to craft clubs from br
 
 |  | club description prefixes | "inspect" quality | club weight (branch) | club weight (legbone) |
 | --- | --- | --- | --- | --- |
-| Rank 1 | rough | slightly below-average | 3.5 lbs | 2.5 lbs |
-| Rank 10 |  |  |  |  |
-| Rank 20 |  |  |  |  |
-| Rank 30 |  |  |  |  |
-| Rank 40 |  |  |  |  |
-| Rank 50 |  |  |  |  |
-| Rank 60 |  |  |  |  |
-| Rank 70 |  |  |  |  |
-| Rank 80 |  |  |  |  |
-| Rank 90 |  |  |  |  |
-| Rank 100 |  |  |  |  |
-| Rank 110 |  |  |  |  |
+| ~ Rank 1 | rough | slightly below-average | 3.5 lbs | 2.5 lbs |
+| ~ Rank 10 |  |  |  |  |
+| ~ Rank 20 |  |  |  |  |
+| ~ Rank 30 |  |  |  |  |
+| ~ Rank 40 |  |  |  |  |
+| ~ Rank 50 |  |  |  |  |
+| ~ Rank 60 |  |  |  |  |
+| ~ Rank 70 |  |  |  |  |
+| ~ Rank 80 |  |  |  |  |
+| ~ Rank 90 |  |  |  |  |
+| ~ Rank 100 |  |  |  |  |
+| ~ Rank 110 |  |  |  |  |
 
 ** The results in this table were recorded with 110 ranks in Hunting (basics). Quality may vary with different basic ranks.*
 
@@ -296,18 +296,18 @@ With a rib, antler, horn, or large fang in one hand, and a whet stone in another
 
 |  | knife description prefixes | "inspect" quality | knife weight |
 | --- | --- | --- | --- |
-| Rank 1 | rough<br>primitive (no cordage) | poor | 0.9 lbs |
-| Rank 10 | rough<br>simple<br>primitive (no cordage) | average | 0.9 lbs |
-| Rank 20 | simple<br>primitive (no cordage) | average<br>fairly good | 0.9 lbs |
-| Rank 30 |  |  |  |
-| Rank 40 |  |  |  |
-| Rank 50 |  |  |  |
-| Rank 60 |  |  |  |
-| Rank 70 |  |  |  |
-| Rank 80 |  |  |  |
-| Rank 90 |  |  |  |
-| Rank 100 |  |  |  |
-| Rank 110 |  |  |  |
+| ~ Rank 1 | rough<br>primitive (no cordage) | poor | 0.9 lbs |
+| ~ Rank 10 | rough<br>simple<br>primitive (no cordage) | average | 0.9 lbs |
+| ~ Rank 20 | simple<br>primitive (no cordage) | average<br>fairly good | 0.9 lbs |
+| ~ Rank 30 |  |  |  |
+| ~ Rank 40 |  |  |  |
+| ~ Rank 50 |  |  |  |
+| ~ Rank 60 |  |  |  |
+| ~ Rank 70 |  |  |  |
+| ~ Rank 80 |  |  |  |
+| ~ Rank 90 |  |  |  |
+| ~ Rank 100 |  |  |  |
+| ~ Rank 110 |  |  |  |
 
 ** The results in this table were recorded with 110 ranks in Hunting (basics). Quality may vary with different basic ranks.*
 
@@ -325,18 +325,18 @@ Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or
 
 |  | axe description prefixes | "inspect" quality | axe weight |
 | --- | --- | --- | --- |
-| Rank 1 | crude | very poor | 1.9 lbs |
-| Rank 10 |  |  |  |
-| Rank 20 |  |  |  |
-| Rank 30 |  |  |  |
-| Rank 40 |  |  |  |
-| Rank 50 |  |  |  |
-| Rank 60 |  |  |  |
-| Rank 70 |  |  |  |
-| Rank 80 |  |  |  |
-| Rank 90 |  |  |  |
-| Rank 100 |  |  |  |
-| Rank 110 |  |  |  |
+| ~ Rank 1 | crude | very poor | 1.9 lbs |
+| ~ Rank 10 |  |  |  |
+| ~ Rank 20 |  |  |  |
+| ~ Rank 30 |  |  |  |
+| ~ Rank 40 |  |  |  |
+| ~ Rank 50 |  |  |  |
+| ~ Rank 60 |  |  |  |
+| ~ Rank 70 |  |  |  |
+| ~ Rank 80 |  |  |  |
+| ~ Rank 90 |  |  |  |
+| ~ Rank 100 |  |  |  |
+| ~ Rank 110 |  |  |  |
 
 
 </details>

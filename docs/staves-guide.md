@@ -43,7 +43,7 @@ This is the list of weapons that can be used by the [Staves](/staves/) skill set
 * The **[wood]** (pine, ash, oak, softsun, moskan, etc.) mentioned in the stave description is optionally mentioned and only for aesthetics purposes. It is not known to have any impact on the stave's speed, weight or damage. For the reminder of the guide, the wood type will be ommited.
 
 | Weapons | How to get it | Est. cost in shops |
-| --- | --- | --- |
+| --- | --- | ---: |
 | A padded quarterstave **[T]** | [Usius](/shops/) ([Bronze Lane](/iridine/)) | 95d |
 | A *[wood]* quarterstave **[R]** | [A'rbora](/shops/) ([Bronze Lane](/iridine/)) & others | 400d - 1,000d |
 | A dursc *[wood]* quarterstave **[R]** | [A'rbora](/shops/) ([Bronze Lane](/iridine/)) & others | 1,000d - 1,400d |
@@ -64,17 +64,17 @@ In most cases you'll want a **reforged Iron capped quarterstave** or **an Altene
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
-| A padded quarterstave | N/A |  |  |  |
-| A quarterstave |  |  |  |  |
-| A dursc quarterstave |  |  |  |  |
-| A fangstave |  |  |  |  |
-| An dursc fangstave |  |  |  |  |
-| A bronze-capped quarterstave |  |  |  |  |
-| An iron-capped quarterstave |  |  |  |  |
-| [Runed] An iron-capped quarterstave |  |  |  |  |
-| An Altene double mace | 2 |  |  |  |
-| [ReForged] An Altene double mace | 1 |  |  |  |
+| --- | :---: | --- | --- | --- |
+| A padded quarterstave | N/A | =  | =  | =  |
+| A quarterstave |  | =  | =  | =  |
+| A dursc quarterstave |  | =  | =  | =  |
+| A fangstave |  | =  | =  | =  |
+| An dursc fangstave |  | =  | =  | =  |
+| A bronze-capped quarterstave |  | =  | =  | =  |
+| An iron-capped quarterstave |  | =  | =  | =  |
+| [Runed] An iron-capped quarterstave |  | =  | =  | =  |
+| An Altene double mace | 2 | =  | =  | =  |
+| [ReForged] An Altene double mace | 1 | =  | =  | =  |
 
 
 #### Weapon Damage
@@ -82,7 +82,7 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | [ReForged] An Altene double mace | 1 |
 | An Altene double mace | 2 |
 | [Runed] An iron-capped quarterstave |  |
@@ -98,23 +98,23 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Median Speed | Speed Rank | Average Speed |
-| A padded quarterstave |  |  |  |  |
-| A quarterstave |  |  |  |  |
-| A dursc quarterstave |  |  |  | 2 +MoS |
-| A fangstave |  |  |  | 1.17 +MoS |
-| An dursc fangstave |  |  |  |  |
-| A bronze-capped quarterstave |  |  |  | 1.17 +MoS |
-| An iron-capped quarterstave |  |  |  |  |
-| An Altene double mace |  |  |  |  |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | --- | --- | --- | :---: |
+| ~ Weapon | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Average Speed |
+| A padded quarterstave | =  | =  | =  |  |
+| A quarterstave | =  | =  | =  |  |
+| A dursc quarterstave | =  | =  | =  | 2 +MoS |
+| A fangstave | =  | =  | =  | 1.17 +MoS |
+| An dursc fangstave | =  | =  | =  |  |
+| A bronze-capped quarterstave | =  | =  | =  | 1.17 +MoS |
+| An iron-capped quarterstave | =  | =  | =  |  |
+| An Altene double mace | =  | =  | =  |  |
 
 
 #### Weapon Weight
 
 | Weapon | Weight Rank | Weight (lbs) |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | A fangstave | 1 | 2 |
 | A quarterstave | 1 | 2 |
 | An iron-capped quarterstave | 2 | 6 |

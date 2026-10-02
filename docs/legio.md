@@ -41,11 +41,11 @@ The games playable Legio, **Legio I**, is the **1st Century of the 1st Cohort**,
 To view the current organization leaders, use the **officials** command.
 
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  | Legio I |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | 1<sup>st</sup> Cohort<br>**Rearing Stallion** | 2<sup>nd</sup> Cohort<br>**Wild Dog** | 3<sup>rd</sup> Cohort<br>**Snarling Wildcat** | 4<sup>th</sup> Cohort<br>**Charging Bull** | 5<sup>th</sup> Cohort<br>**Leaping Dolphin** | 6<sup>th</sup> Cohort<br>**Rampant Lion** | 7<sup>th</sup> Cohort<br>**Snarling Badger** | 8<sup>th</sup> Cohort<br>**Howling Wolf** | 9<sup>th</sup> Cohort<br>**Diving Falcon** | 10<sup>th</sup> Cohort<br>**Striking Snake** |  |  |  |  |
-|  | 1<sup>st</sup> Century (**Eagle**) | ... | 6<sup>th</sup> Century |  |  |  |  |  |  |  |  | 1<sup>st</sup> - 6<sup>th</sup> Centuries *(per Cohort)* |  |  |  |  |
-| Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |  |  |  |  |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | Legio I |  |  |
+| --- | --- | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- | --- | --- | --- |
+| >> | >> | >> | = 1<sup>st</sup> Cohort<br>**Rearing Stallion** | 2<sup>nd</sup> Cohort<br>**Wild Dog** | 3<sup>rd</sup> Cohort<br>**Snarling Wildcat** | 4<sup>th</sup> Cohort<br>**Charging Bull** | 5<sup>th</sup> Cohort<br>**Leaping Dolphin** | 6<sup>th</sup> Cohort<br>**Rampant Lion** | 7<sup>th</sup> Cohort<br>**Snarling Badger** | 8<sup>th</sup> Cohort<br>**Howling Wolf** | 9<sup>th</sup> Cohort<br>**Diving Falcon** | 10<sup>th</sup> Cohort<br>**Striking Snake** |  |  |  |  |
+| >> | 1<sup>st</sup> Century (**Eagle**) | ... | 6<sup>th</sup> Century | >> | >> | >> | >> | >> | >> | >> | >> | 1<sup>st</sup> - 6<sup>th</sup> Centuries *(per Cohort)* |  |  |  |  |
+| Wolf Squad | Lion Squad | ... | Squads | >> | >> | >> | >> | >> | >> | >> | >> | Squads *(per Century)* |  |  |  |  |
 
 
 ![image](/assets/wikidot/files/L%C3%A9gionnaire_romain_Ier_si%C3%A8cle_av_JC.jpg)

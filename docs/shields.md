@@ -33,9 +33,9 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 > - Japes
 
 
-|  |  |  | Skill Info |  |  |  |  |  |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Range | Wound | Gilven | Hroth | Majell | Cottus | Cula | Cralus | Vashren | Concinnant | **Prestis | Sphara | Varga |  |
+| >> | >> | >> | Skill Info | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- |
+| ~ Skills/Actions | ~ Difficulty | ~ Range | ~ Wound | ~ Gilven | ~ Hroth | ~ Majell | ~ Cottus | ~ Cula | ~ Cralus | ~ Vashren | ~ Concinnant | ~ **Prestis | ~ Sphara | ~ Varga |  |
 | *<u>Shields</u>* | - | - | - | 300 | 300 | 120 | 125 | 100 | 90 | 300 | 300 | 154 | 500 | 500 |  |
 | [Shield Simple Block](#sBlock) | Easy | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |
 | [Shield Cross Block](#cBlock) | Average | - | - | 300 | 175 | 110 | - | 75 | 90 | 175 | 175 | 154 | 500 | 500 |  |

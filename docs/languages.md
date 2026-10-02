@@ -61,7 +61,7 @@ Every attempt to echo your tutor will earn you language SP. How much is based on
 
 
 | Roll Over Success | SP Gained |
-| --- | --- |
+| ---: | ---: |
 | *(failure)* <= 0 | 0.005 |
 | 1 - 30 | 0.150 |
 | 31 - 40 | 0.100 |

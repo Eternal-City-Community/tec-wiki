@@ -14,35 +14,35 @@ I'll not deny the existance of the other staves maneuvers popping up about the c
 
 **For guidance on using the skill set, see the [Staves Guide](/staves-guide/)**.
 
-|  |  |  |  |  | Skill Info |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Skills/Actions | Difficulty | Hands | Range | Wound | Prerequisite | Rook | Leda | Pelias | Facitio |
-| *<u>Staves</u>* | Easy | - | - | - | - | 300 | 300 | 100 | 40 |
-| [Staves Altene Skirmish Stance](#Stance) | Easy | - | - | - | - | 100 | 100 | 95 | - |
-| [Staves End Jab](#Jab) | Easy | 2 | Either | Bruise | - | 175 | 300 | 95 | 40 |
-| [Staves Simple Strike](#Strike) | Easy | 2 | Either | Bruise | - | 175 | 300 | 95 | 40 |
-| [Staves Swat](#Swat) | Easy | 2 | Either | Bruise | - | 175 | 300 | 95 | 40 |
-| [Staves Leg Sweep](#Sweep) | Average | 2 | Either | - | - | 175 | 300 | 95 | 40 |
-| [Staves Feint](#Feint) | Average | 2 | Either | - | - | 175 | 300 | 95 | - |
-| [Staves Pivot Smash](#Smash) | Average | 2 | Either | Bruise | - | 175 | 300 | 95 | 40 |
-| [Staves Side Strike](#Sidestrike) | Average | 2 | Either | Bruise | - | 175 | 300 | 95 | 40 |
-| [Staves Longarm Strike](#Longarm) | Difficult | Either | Long | Bruise | - | 175 | 300 | 95 | 40 |
+| >> | >> | >> | >> | >> | Skill Info | >> | >> | >> | Ranks Taught by Trainer |
+| --- | --- | :---: | :---: | --- | --- | --- | --- | --- | --- |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Rook | ~ Leda | ~ Pelias | ~ Facitio |
+| *<u>Staves</u>* | Easy | - | - | - | = - | 300 | 300 | 100 | 40 |
+| [Staves Altene Skirmish Stance](#Stance) | Easy | - | - | - | = - | 100 | 100 | 95 | - |
+| [Staves End Jab](#Jab) | Easy | 2 | Either | Bruise | = - | 175 | 300 | 95 | 40 |
+| [Staves Simple Strike](#Strike) | Easy | 2 | Either | Bruise | = - | 175 | 300 | 95 | 40 |
+| [Staves Swat](#Swat) | Easy | 2 | Either | Bruise | = - | 175 | 300 | 95 | 40 |
+| [Staves Leg Sweep](#Sweep) | Average | 2 | Either | - | = - | 175 | 300 | 95 | 40 |
+| [Staves Feint](#Feint) | Average | 2 | Either | - | = - | 175 | 300 | 95 | - |
+| [Staves Pivot Smash](#Smash) | Average | 2 | Either | Bruise | = - | 175 | 300 | 95 | 40 |
+| [Staves Side Strike](#Sidestrike) | Average | 2 | Either | Bruise | = - | 175 | 300 | 95 | 40 |
+| [Staves Longarm Strike](#Longarm) | Difficult | Either | Long | Bruise | = - | 175 | 300 | 95 | 40 |
 | [Staves Defensive Sweep](#DSweep) | Average | 2 | Either | - | 40 Ranks in [Staves Leg Sweep](#Sweep) | 175 | 300 | 95 | - |
 | [Staves Parting Jab](#Pjab) | Easy | Either | Short | Bruise | 10 Ranks in [Staves End Jab](#Jab) | 175 | 300 | 95 | - |
 | [Staves Parting Swat](#Pswat) | Easy | Either | Short | Bruise | 10 Ranks in [Staves Swat](#Swat) | 175 | 300 | 95 | - |
 | [Staves Parting Smash](#Psmash) | Average | Either | Short | Bruise | 20 Ranks in [Staves Pivot Smash](#Smash)<br>20 Ranks in [Staves Parting Swat](#Pswat) | 175 | 300 | 95 | - |
-| [Staves Stepping Spin](#SSpin) | Average | 2 | Either | Bruise<br>Bruise<br>Bruise | 40 Ranks in [Staves Parting Jab](#Pjab)<br>40 Ranks in [Staves Parting Swat](#Pswat)<br>40 Ranks in [Staves Parting Smash](#Psmash) | 175 | 300 | 95 | - |
-| [Staves Simple Block](#Sblock) | Easy | 2 | - | - | - | 175 | 300 | 95 | 40 |
-| [Staves Crossblock](#Cblock) | Average | 2 | - | - | - | 175 | 300 | 95 | 40 |
-| [Staves Overhead Block](#Oblock) | Average | 2 | - | - | - | 175 | 300 | 95 | 40 |
-| [Staves Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | - | - |
-| [Staves Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | - | - |
-|  |  |  |  |  |  |  |  |  | Custom Skills |
-| [Staves Snap Strike](#Snapstrike) | Average | 2 | Either | Bruise | - | - | - | - | - |
+| [Staves Stepping Spin](#SSpin) | Average | 2 | Either | = Bruise<br>Bruise<br>Bruise | 40 Ranks in [Staves Parting Jab](#Pjab)<br>40 Ranks in [Staves Parting Swat](#Pswat)<br>40 Ranks in [Staves Parting Smash](#Psmash) | 175 | 300 | 95 | - |
+| [Staves Simple Block](#Sblock) | Easy | 2 | - | - | = - | 175 | 300 | 95 | 40 |
+| [Staves Crossblock](#Cblock) | Average | 2 | - | - | = - | 175 | 300 | 95 | 40 |
+| [Staves Overhead Block](#Oblock) | Average | 2 | - | - | = - | 175 | 300 | 95 | 40 |
+| [Staves Accuracy](#Accuracy) | Difficult | - | - | - | = - | 100 | 100 | - | - |
+| [Staves Grip](#Grip) | Impossible | - | - | - | = - | 100 | 100 | - | - |
+| >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Custom Skills |
+| [Staves Snap Strike](#Snapstrike) | Average | 2 | Either | Bruise | = - | - | - | - | - |
 | [Staves Sweep and Strike](#Sweepandstrike) | Difficult | 2 | Either | Bruise | 10 Ranks in [Staves Leg Sweep](#Sweep)<br>10 Ranks in [Staves Swat](#Swat) | - | - | - | - |
 | [Staves Spinstrike](#Spinstrike) | Difficult | 2 | Either | Bruise<br>Bruise<br>Bruise | 40 Ranks in [Staves Snap Strike](#Snapstrike) | - | - | - | - |
 | [Staves Triple Bash](#Triplebash) | Difficult | 2 | Either | Bruise<br>Bruise<br>Bruise | 20 Ranks in [Staves Pivot Smash](#Smash)<br>10 Ranks in [Staves Snap Strike](#Snapstrike) | - | - | - | - |
-| [Staves Whirling Block](#Wblock) | Difficult | 2 | - | - | - | - | - | - | - |
+| [Staves Whirling Block](#Wblock) | Difficult | 2 | - | - | = - | - | - | - | - |
 | [Staves Pivoting Longarm](#Pivotinglongarm) | Difficult | Either | Long | Bruise | 20 Ranks in [Staves Pivot Smash](#Smash)<br>20 Ranks in [Staves Longarm Strike](#Longarm) | - | - | - | - |
 
 **Directions to Rook** ([Monlon](/monlon/)): Take the ferry to Monlon, Nx3, W, N, NW, W, Nx3, NEx2, S

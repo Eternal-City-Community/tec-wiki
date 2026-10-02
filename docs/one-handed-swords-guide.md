@@ -46,14 +46,14 @@ Everything you need to know about the never-ending journey of the One-Handed Swo
 This is the list of weapons that can be used by the One-Handed Swords skill set.
 
 | Weapons | How to get it | Cost |
-| --- | --- | --- |
-| Bone Gladius | n/a | *not available for purchase* |
+| --- | --- | ---: |
+| Bone Gladius | = n/a | *not available for purchase* |
 | Wooden Gladius **[T]** | Sold by [Usius](/shops/) ([Iridine](/bronze-lane/)) | 95d |
-| Durscwood Gladius | n/a | *not available for purchase* |
+| Durscwood Gladius | = n/a | *not available for purchase* |
 | Tin Gladius | Found as loot in various [hunting grounds](/hunting-grounds/) | 380d |
 | Bronze Gladius | Sold by [Bibulus](/shops/) ([Iridine](/bronze-lane/)) | 7t 145d 3st 1s |
 | Alanti Gladius | Found as loot in various [hunting grounds](/hunting-grounds/) | 6t 600d |
-| Gold Gladius | n/a | *not available for purchase* |
+| Gold Gladius | = n/a | *not available for purchase* |
 | Iron Gladius **[RF]** | Found as loot in various [hunting grounds](/hunting-grounds/) | 13t 1537d 2st |
 | Boison Gladius **[RF]** | Found as **rare** loot in various [hunting grounds](/hunting-grounds/) | 30t 625d |
 | Retalq Gladius | Sold by [Fama](/shops/) ([Vetallun](/town-of-vetallun/)) | 200t |
@@ -68,7 +68,7 @@ In most cases, if still using Reflexes, you'll want a **retalq gladius**. If you
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Retalq Gladius | 3 | 2 | 4 | 1 |
 | [Reforged] Boison Gladius | 1 | 3 | 6 | 2 |
 | [Reforged] Iron Gladius | 3 | 2 | 5 | 2 |
@@ -86,7 +86,7 @@ A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)*
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
-| --- | --- |
+| --- | :---: |
 | [Reforged] Boison Gladius | 1 |
 | Boison Gladius | 2 |
 | Retalq Gladius | 3 |
@@ -104,9 +104,9 @@ A rank of **1 signifies the best** in this category.
 
 A rank of **1 signifies the best** in this category.
 
-|  |  | Rank 90 Reflexes |  | Maxed Speed |
-| --- | --- | --- | --- | --- |
-| Weapon | Speed Rank | Average Speed | Speed Rank | Average Speed |
+|  | >> | Rank 90 Reflexes | >> | Maxed Speed |
+| --- | --- | --- | :---: | :---: |
+| ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
 | Wooden Gladius  **[T]** |  |  | 1 | 1 +MoS |
 | Durscwood Gladius |  |  |  |  |
 | Tin Gladius |  |  | 2 | 1.8 +MoS |
@@ -121,7 +121,7 @@ A rank of **1 signifies the best** in this category.
 #### Weapon Weight
 
 | Weapon | Weight Rank | Weight |
-| --- | --- | --- |
+| --- | :---: | ---: |
 | Durscwood Gladius | 1 | 1 lbs |
 | Bone Gladius | 2 | 1.5 lbs |
 | Alanti Gladius | 2 | 2 lbs |
