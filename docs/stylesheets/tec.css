@@ -778,10 +778,11 @@ html, body {
   max-width: 92ch;
 }
 
-.md-typeset h1,
-.md-typeset h2,
-.md-typeset h3 {
-  scroll-margin-top: 7rem;
+/* Anchor links (#Section) stop below the fixed header and nav bar, not under them.
+   Most anchors are an empty <a id> just above the heading, so cover every id. */
+.md-typeset [id],
+.md-typeset :target {
+  scroll-margin-top: calc(var(--tec-header-stack-height, 103px) + .6rem);
 }
 
 /* Tables are central to TEC. Keep them dense, readable, and scrollable. */
