@@ -66,7 +66,7 @@ See [Franlius Battlegrounds](/hg-franlius/) for more details.
 
 **XXXX** sells rare items for the right amount of reputation. 
 
-See the [Reputation#Franlius](/reputation/#Franlius) guide for more info.
+See the [Franlius reputation](/reputation/#Franlius) guide for more info.
 
 #### Travel
 Two 2-way ferries are available to travel to/from [Blackvine](/village-of-blackvine/). Each ship has a 'home' dock, one in Blackvine and one in Franlius. Once boarding, either ship will make a journey from home to destination and back. Upon return

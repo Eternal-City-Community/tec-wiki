@@ -18,7 +18,7 @@ Monlon has a variety of hunting grounds, spanning from **novice** to **expert**.
 * Some of the most **advanced enemy AI** in the game.
 * **Unique loot** not found elsewhere.
 * **Prisoner of War (PoW)** mechanics as well as a system in place to allow their rescue.
-* A functional and dynamic **[reputation#Monlon](/reputation/#Monlon)** system.
+* A functional and dynamic **[Monlon reputation](/reputation/#Monlon)** system.
 
 
 > **Archive include:** [monlon_ravines](/monlon-ravines/)

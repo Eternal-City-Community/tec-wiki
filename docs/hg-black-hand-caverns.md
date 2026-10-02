@@ -10,7 +10,7 @@ category: "World & Maps"
 As the construction of the road to Seld commenced in YOTR 291, the **Black Hand Caverns (BHC)** were routed and vacated by its former inhabitants. It is currently a mining and gravel pit, devoid of hostiles. The area is now known as [Black Hand Mines](/black-hand-mines/). The Black Hand bandits however have moved to a new location. The **BHC** can now be found a ways off to the **north and slightly west of Seld**. Rumor has it that some **secret areas** *(not shown on the map below)* and various hidden treasures may be obtained.
 
 
-Black Hand Bandit [armbands & collars](/reputation/#Seld-Combat) can be turned in to Salvare in [Seld](/village-of-seld/) to earn [reputation#Seld-Combat](/reputation/#Seld-Combat). The reputation can then be used to purchase items at [Nominis' shop](/shops/) in [Seld](/village-of-seld/).
+Black Hand Bandit [armbands & collars](/reputation/#Seld-Combat) can be turned in to Salvare in [Seld](/village-of-seld/) to earn [Seld Combat reputation](/reputation/#Seld-Combat). The reputation can then be used to purchase items at [Nominis' shop](/shops/) in [Seld](/village-of-seld/).
 
 
 **Suggested [@mtarg](/macros-and-targeting/)**: **bandit|hound**
@@ -20,7 +20,7 @@ Black Hand Bandit [armbands & collars](/reputation/#Seld-Combat) can be turned i
 * This area is for **experienced fighters only** and **groups are recommended**.
 * **3 hunting levels** with increasing difficulty.
 * Multiple "boss rooms", containing **unique loot** not found elsewhere.
-* A functional and dynamic **[reputation#Seld-Combat](/reputation/#Seld-Combat)** system.
+* A functional and dynamic **[Seld Combat reputation](/reputation/#Seld-Combat)** system.
 * Multiple **hidden rooms** to discover.
 
 

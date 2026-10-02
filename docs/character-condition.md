@@ -35,7 +35,7 @@ Each inflicted wound can cause damage to your HP, and if your HP falls below 0, 
 #### Coma {#Coma}
 If your character's HP falls below zero, they will fall unconscious. If the damage is severe enough, they may fall into a coma. The threshold for falling into a coma is typically the negative value of your maximum health points, meaning that if you have a maximum of 100 HP, you would fall unconscious at -1/100 HP and fall into a coma at -100/100 HP.  The threshold for falling into a coma can be changed with certain traits, such as [Vitality](/traits/#Vitality). 
 
-There is also a **[PvP#coma](/pvp/#coma) means to bypass the threshold** and immediately enter an unconscious person into a coma using the **kill** command on them.
+There is also a **[PvP coma](/pvp/#coma) means to bypass the threshold** and immediately enter an unconscious person into a coma using the **kill** command on them.
 
 Once in a coma, you must be admitted to one of the various coma wards throughout the game world, either by another character bringing you or by using a luck! point. Treatment in the coma ward takes several days, and you can use @coma-time to check your remaining recovery time.
 

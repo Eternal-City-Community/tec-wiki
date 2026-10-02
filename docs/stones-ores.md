@@ -5,7 +5,7 @@ category: "Reference"
 
 # Stones Ores
 
-Various stones & ores are available throughout the game world. Stones & ores can be sold to shopkeepers or used in [custom item requests](/customization-guide/). Mined ore can be handed in for [reputation#Seld](/reputation/#Seld).
+Various stones & ores are available throughout the game world. Stones & ores can be sold to shopkeepers or used in [custom item requests](/customization-guide/). Mined ore can be handed in for [Seld reputation](/reputation/#Seld).
 
 One great non-combat way to get stones & ores is by [mining](/mining/) them. Some stones & ores are only available by this method.
 ![image](/assets/wikidot/stones-ores/gems.png)

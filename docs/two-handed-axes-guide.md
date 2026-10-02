@@ -53,7 +53,7 @@ This is the list of weapons that can be used by the 2HA skill set.
 | Tin Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 950d or NPC loot. |
 | Bronze Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 2t 675d |
 | Iron Pick Axe **[RF]** | Sold by [Concinnant](/shops/) ([Seld](/village-of-seld/)) | 24t 500d |
-| Boison Pick Axe **[RF]** | Sold by [Nominis](/shops/) ([Seld](/village-of-seld/)) | 43t (+[Reputation#Seld](/reputation/#Seld)) |
+| Boison Pick Axe **[RF]** | Sold by [Nominis](/shops/) ([Seld](/village-of-seld/)) | 43t (+[Seld reputation](/reputation/#Seld)) |
 | Retalq Pick Axe | Sold by [???](/shops/) ([Vetallun](/town-of-vetallun/)) | ??? |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.

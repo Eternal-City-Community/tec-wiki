@@ -29,7 +29,7 @@ This is the list of weapons that can be used by the Cestus skill set.
 | Studded Leather | Sold by [Marius](/shops/) ([Bronze Lane](/bronze-lane/)) | 1140d *(each)* |
 | Bronze Cestus **[RF]** | Sold by [Marius](/shops/) ([Bronze Lane](/bronze-lane/)) | 3t 1497d *(each)* |
 | Iron Cestus **[RF]** | Sold by [Marius](/shops/) ([Bronze Lane](/bronze-lane/)) | 11t 178d 2st *(each)* |
-| Boison Cestus **[RF]** | Sold by [Fama](/shops/) ([Franlius](/town-of-franlius/)) | 29t (+[Reputation#Seld](/reputation/#Seld)) *(each)* |
+| Boison Cestus **[RF]** | Sold by [Fama](/shops/) ([Franlius](/town-of-franlius/)) | 29t (+[Seld reputation](/reputation/#Seld)) *(each)* |
 
 **[RF]**: This item can be **[Re-Forged](/weapons/#Reforge)** by **Ferrarius**.
 

@@ -81,7 +81,7 @@ A.   Blackvine Town Square
 * Terrible locksmith shop.
 * Tailoring material shop *(restricted purchases of rare materials)*.
 * Metal Buyer (Grindla)
-* [Reputation#Franlius](/reputation/#Franlius) Shop (Hiltha)
+* [Franlius reputation](/reputation/#Franlius) Shop (Hiltha)
 
 ### Laws {#Laws}
 * Although there are no official local [lawkeepers](/law/#Lawkeepers) for this town, the [Blackvine Volunteer Militia](/blackvine-volunteer-militia/) are tasked with its protection.

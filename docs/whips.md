@@ -43,7 +43,7 @@ Basic familiarity with the short whip means that the wielder won't take out her 
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
 ### Skill Details

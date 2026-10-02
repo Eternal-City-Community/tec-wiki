@@ -61,7 +61,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 #### Notes on Learning
 
 * You can also use Skill Points (SP) from [Avros](/avros-one-handed-swords/), [Nelsor](/nelsor-one-handed-swords/) and [Pardelian](/pardelian-one-handed-swords/) to learn One-Handed Swords.
-* **Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+* **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
 ### Skill Details

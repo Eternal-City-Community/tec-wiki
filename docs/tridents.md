@@ -48,7 +48,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 **Directions to Prestis** ([Colosseum](/colosseum/)): Walk to **Colosseum**, Nx2, Wx2, N.
 
 #### Notes on Learning
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
 ### Skill Details

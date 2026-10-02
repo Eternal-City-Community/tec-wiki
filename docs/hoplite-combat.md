@@ -49,7 +49,7 @@ While this skill set can be optionally complemented by knowledge of [spears](/sp
 
 #### Notes on Learning
 
-**short sturdy man (Blackvine)** will only teach you once you have enough [reputation#Franlius](/reputation/#Franlius).
+**short sturdy man (Blackvine)** will only teach you once you have enough [Franlius reputation](/reputation/#Franlius).
 
 ### Skill Details {#Subskill}
 

@@ -33,7 +33,7 @@ category: "Reference"
 ### Collecting Eggs
 Aralex eggs can be found in multiple amphoras within the tunnels. If an egg is available within, trying to **get one from the amphora** will spawn several Aralex for you to kill, they guard the amphora against you getting to it. Once eggs are taken, **they take several hours to respawn**, so only so many eggs can be harvested a day.  
 
-Aralex eggs can be donated to the retired gladiator Prestis to earn favorable [reputation#Aralex](/reputation/#Aralex) with him.
+Aralex eggs can be donated to the retired gladiator Prestis to earn favorable [Aralex Eggs reputation](/reputation/#Aralex) with him.
 
 
 ### Tiers

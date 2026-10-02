@@ -37,7 +37,7 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 
 #### Notes on Learning
 * You can also use Skill Points (SP) from [Swords](/one-handed-swords/) to learn Nelsor.
-* **Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+* **Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
 ### Skill Details

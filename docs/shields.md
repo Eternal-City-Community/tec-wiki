@@ -60,7 +60,7 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 
 #### Notes on Learning
 
-**Prestis** will only teach you once you have enough [reputation#Aralex](/reputation/#Aralex).
+**Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 ### Skill Details
 

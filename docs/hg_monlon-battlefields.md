@@ -21,7 +21,7 @@ Keep in mind that going too deep can get you captured in the Kelestian prison.
 * Some of the most **advanced enemy AI** in the game.
 * **Unique loot** not found elsewhere.
 * **Prisoner of War (PoW)** mechanics as well as a system in place to allow their rescue.
-* A functional and dynamic **[reputation#Monlon](/reputation/#Monlon)** system.
+* A functional and dynamic **[Monlon reputation](/reputation/#Monlon)** system.
 
 
 [![](/assets/wikidot/files/Monlon-battlefield_updated101217.gif)](/assets/wikidot/files/Monlon-battlefield_updated101217.gif)
