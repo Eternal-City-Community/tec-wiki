@@ -716,6 +716,18 @@ body::before {
   color: #244a6b;
 }
 
+/* Bold text on the dark table rows and skill boxes: white, as on the old wiki. */
+.md-typeset table:not([class]) td strong,
+.md-typeset table.tec-skill-overview-table td strong,
+.md-typeset .skill-template strong {
+  color: #ffffff;
+}
+.md-typeset table:not([class]) td a strong,
+.md-typeset table.tec-skill-overview-table td a strong,
+.md-typeset .skill-template a strong {
+  color: inherit;
+}
+
 
 /* Readability pass: keep TEC styling in the chrome, not in every text accent. */
 .md-typeset p,
@@ -1123,10 +1135,10 @@ html, body {
   max-width: none !important;
 }
 
+/* Shrink-to-fit so only the words are clickable, still on its own line at the right. */
 .tec-skill-page .tec-backtop {
-  display: block;
-  margin: .45rem 2rem .7rem 0;
-  text-align: right;
+  display: table;
+  margin: .45rem 2rem .7rem auto;
   color: #47702a !important;
   font-size: .58rem;
   text-decoration: underline;
