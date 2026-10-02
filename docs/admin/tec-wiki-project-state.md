@@ -6,7 +6,7 @@ Future TEC Wiki chats should read this file, inspect the relevant current source
 
 ## Repository
 
-- Repository: `herdias/tec-wiki`
+- Repository: `Eternal-City-Community/tec-wiki`
 - Default branch: `main`
 - Primary wiki source: `docs/`
 - Production site generator: Zensical 0.0.66 in MkDocs-compatibility mode (configuration remains in `mkdocs.yml`)
@@ -506,6 +506,15 @@ Markdown tables lack Wikidot's cell formatting, so a marker at the start of a ce
 - There is no left marker (the CMS escapes a leading `<`); left is the default.
 - Content that itself starts with a marker needs rewording, e.g. `~5 GSP` rather than `~ 5 GSP`.
 - The migration had dropped all of this (spans became empty cells, `~ = >` were stripped, and some "~" meaning "approximately" were lost with them). Restored from the Wikidot source where the table still matches it. Not restored: tables restructured after migration (Account, Locksmithing); on Jewelry, Leather-working, Tailoring and Tanning skill tables only header/section rows were restored (their source alignment was inconsistent).
+
+
+
+### GitHub organization transfer
+
+- Repository ownership moved from `herdias/tec-wiki` to `Eternal-City-Community/tec-wiki`.
+- The ChatGPT Codex Connector is installed for the `Eternal-City-Community` organization and retains admin/write access to the repository.
+- Decap CMS backend configuration was updated to use `Eternal-City-Community/tec-wiki`.
+- Future TEC Wiki work should use the organization repository as the canonical source.
 
 ## Recent Migration/Audit Work
 
