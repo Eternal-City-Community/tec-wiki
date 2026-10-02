@@ -14,13 +14,19 @@ category: Wiki & Help
 
 Welcome to the player-run unofficial Wiki, your best resource for information about the role-playing game, The Eternal City.
 
-Check out the sidebar for helpful categories.
+**New players**
+ 
+Learn about [Getting Started](/getting-started/) to understand how to roll and roleplay your character. 
+The [Newbie Guides](/newbie-guides/) provide suggestions to taking your first steps into the adventure. 
+The [Account](/account/) section will break down subscription types and Out-Of-Character (OOC) currency.
 
-**New players** can learn about [Getting Started](/getting-started/) to understand how to roll and roleplay your character. The [Newbie Guides](/newbie-guides/) provide suggestions to taking your first steps into the adventure. The [Account](/account/) section will break down subscription types and Out-Of-Character (OOC) currency.
-
-**Returning players** *(welcome back!)* familiar with the Game-world may find it more fun to jump into [character creation](/characters/) and catch up on the [latest updates](#LatestUpdates).
+**Returning players** *(welcome back!)*
+ 
+Those familiar with the Game-world may find it more fun to jump into [character creation](/characters/) and catch up on the [latest updates](#LatestUpdates).
 
 **Have questions?** Join the conversation on our extremely active [Discord](https://discord.gg/fevBA8j)!
+
+Check out the sidebar for other helpful categories.
 
 - - -
 
@@ -46,7 +52,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 ### Latest Updates {#LatestUpdates}
 
-<!--\\\* To add new updates, please use the "Latest Updates" page included below. \\\*--> 
+<!--\\\\* To add new updates, please use the "Latest Updates" page included below. \\\\*--> 
 
 ### Latest Major Updates To The Game *(sorted chronologically↑)*
 
