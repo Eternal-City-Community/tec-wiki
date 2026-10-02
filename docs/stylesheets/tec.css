@@ -2655,3 +2655,102 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
     border-top: 2px solid rgba(86,97,38,.45);
   }
 }
+
+
+/* Stats page: two-column attribute/reference layout with readable mobile fallback. */
+.tec-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .8rem;
+  margin: .75rem 0 1rem;
+}
+
+.tec-stat-card {
+  min-width: 0;
+  padding: .7rem .8rem .78rem;
+  border: 1px solid #aaa38a;
+  border-radius: 7px;
+  background: rgba(248,243,223,.72);
+}
+
+.tec-stat-card > :first-child {
+  margin-top: 0;
+}
+
+.tec-stat-card h4 {
+  margin: 0 0 .4rem;
+  padding-bottom: .22rem;
+  border-bottom: 1px solid rgba(86,97,38,.34);
+  color: #39461f;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: .9rem;
+}
+
+.tec-stat-card p:last-child,
+.tec-stat-card ul:last-child {
+  margin-bottom: 0;
+}
+
+.tec-stats-reference-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(18rem, .78fr);
+  gap: 1rem;
+  align-items: start;
+  margin: 1rem 0 1.2rem;
+}
+
+.tec-stats-reference-panel {
+  min-width: 0;
+  padding: .75rem .85rem;
+  border: 1px solid #aaa38a;
+  border-radius: 7px;
+  background: rgba(226,219,186,.5);
+}
+
+.tec-stats-reference-panel > :first-child {
+  margin-top: 0;
+}
+
+.tec-stats-reference-panel h2 {
+  margin: 0 0 .65rem;
+  padding: .38rem .48rem;
+  border-bottom: 2px solid #566126;
+  background: rgba(104,109,55,.11);
+  color: #39461f;
+  font-size: 1rem;
+}
+
+.tec-stats-reference-panel h4 {
+  margin-top: .9rem;
+}
+
+.tec-stats-reference-panel table {
+  width: 100%;
+}
+
+.md-typeset .tec-stat-grid ~ h2,
+.md-typeset .tec-stats-reference-grid ~ h2 {
+  margin-top: 1.6rem;
+  padding: .38rem .5rem;
+  border-bottom: 2px solid #566126;
+  background: linear-gradient(90deg, rgba(104,109,55,.13), transparent);
+  color: #39461f;
+}
+
+@media screen and (max-width: 62rem) {
+  .tec-stat-grid,
+  .tec-stats-reference-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .tec-stat-card,
+  .tec-stats-reference-panel {
+    padding: .6rem .65rem;
+  }
+
+  .tec-stat-card h4 {
+    font-size: .86rem;
+  }
+}
