@@ -24,7 +24,7 @@ First, for those of us that aren't all that familiar with macros in TEC or how t
 
 #### What is a Macro {#Whatis}
 
-A macro is essentially a shortcut for a longer command. For instance, one of the macros that we will be creating today is for the command "lift pouch from &lt;target&gt;". While this is not an overly verbose command, it takes a lot longer to type out than the macro version of it - "lt". Stealing is all about efficiency and ease, the less time I spend typing, the more time I can spend watching for movement near me.. or checking how much wealth I've managed to steal so far. Macros also reduce the chance of mistyping a command at a crucial moment. For instance, if you spot a constable character moving toward you and you've still got a pouch in hand, typing dp instead of discard pouch is far easier under pressure. Follow it up with a quick y to confirm discarding it and voila, evidence properly disposed of - hopefully before the constable walks in on you.
+A macro is essentially a shortcut for a longer command. For instance, one of the macros that we will be creating today is for the command "lift pouch from <target>". While this is not an overly verbose command, it takes a lot longer to type out than the macro version of it - "lt". Stealing is all about efficiency and ease, the less time I spend typing, the more time I can spend watching for movement near me.. or checking how much wealth I've managed to steal so far. Macros also reduce the chance of mistyping a command at a crucial moment. For instance, if you spot a constable character moving toward you and you've still got a pouch in hand, typing dp instead of discard pouch is far easier under pressure. Follow it up with a quick y to confirm discarding it and voila, evidence properly disposed of - hopefully before the constable walks in on you.
 
 #### The Macro Menu {#Menu}
 
@@ -240,11 +240,11 @@ Now that we've gone over the basics of how to add a macro and make a macro set, 
 
 #### Targeting Macros {#Targeting}
 
-The first macro we are going to set up is lft, which expands to look for &lt;target&gt;. This utilizes the @mtarg command to look for whatever you specify as your target. We could leave it at that, but then you're still typing out @mtarg prostitute if you want to steal from prostitutes now aren't you? That just isn't efficient enough for a proper thief, no sir! Here's how we're going to set up our targeting macros:
+The first macro we are going to set up is lft, which expands to look for <target>. This utilizes the @mtarg command to look for whatever you specify as your target. We could leave it at that, but then you're still typing out @mtarg prostitute if you want to steal from prostitutes now aren't you? That just isn't efficient enough for a proper thief, no sir! Here's how we're going to set up our targeting macros:
 
 | Macro Short Form | Macro Long Form |
 | --- | --- |
-| lft | look for &lt;target&gt; |
+| lft | look for <target> |
 | trad | @mtarg trader |
 | pros | @mtarg prostitute |
 | pat | @mtarg patrician |
@@ -260,12 +260,12 @@ Now that we have our targeting macros in place, we need to set up the macros to 
 
 | Macro Short Form | Macro Long Form | Skill Used | Purpose |
 | --- | --- | --- | --- |
-| app | approach &lt;target&gt; | None, standard command | Approach |
-| grt | ground &lt;target&gt; | [Setups](/setups/) - Ground Approach | Approach |
-| st | street &lt;target&gt; | [Setups](/setups/) - ??? | Approach |
-| dt | drunken &lt;target&gt; | [Setups](/setups/) - ??? | Approach |
+| app | approach <target> | None, standard command | Approach |
+| grt | ground <target> | [Setups](/setups/) - Ground Approach | Approach |
+| st | street <target> | [Setups](/setups/) - ??? | Approach |
+| dt | drunken <target> | [Setups](/setups/) - ??? | Approach |
 | fb | fall back | [Combat Maneuvers](/combat-maneuvers/) - Fall Back | Retreat |
-| ft | fade &lt;target&gt; | [Setups](/setups/) - ??? | Retreat |
+| ft | fade <target> | [Setups](/setups/) - ??? | Retreat |
 
 It should also be noted that you can use the retreat command, or its shortened form of ret without the need for any macro at all. I've added a few non-standard macros in there, if you don't know what they do or what they're used for, well you'd better make friends with some more skilled folk to find out. I can't give you all the secrets outside the game after all.
 
@@ -275,10 +275,10 @@ There are a number of useful setup maneuvers that we can put to use before actua
 
 | Macro Short Form | Macro Long Form | Skill Used | Purpose |
 | --- | --- | --- | --- |
-| ct | coin &lt;target&gt; | [Setups](/setups/) - Ear for Coin | Check mark's wealth |
-| lt | look &lt;target&gt; | None, standard command | Check for tubes, sacks, or other containers |
-| gt | glance &lt;target&gt; | [Setups](/setups/) - ??? | Shh! It's a secret! |
-| spt | spook &lt;target&gt; | [Setups](/setups/) - Draw Attention | Reduce Success for your next move |
+| ct | coin <target> | [Setups](/setups/) - Ear for Coin | Check mark's wealth |
+| lt | look <target> | None, standard command | Check for tubes, sacks, or other containers |
+| gt | glance <target> | [Setups](/setups/) - ??? | Shh! It's a secret! |
+| spt | spook <target> | [Setups](/setups/) - Draw Attention | Reduce Success for your next move |
 | ps | palm sen | [Pickpocketing](/pickpocketing/) - Palm | Maximize that sp gain |
 | ups | unpalm sen | [Pickpocketing](/pickpocketing/) - Palm | Maximize that sp gain |
 
@@ -290,14 +290,14 @@ Now for the really fun ones - stealing stuff! After all, the thrill of that next
 
 | Macro Short Form | Macro Long Form | Skill Used | Purpose |
 | --- | --- | --- | --- |
-| clt | lift pouch from &lt;target&gt; | [Pickpocketing](/pickpocketing/) - Cut and Lift | Steal a coin pouch |
+| clt | lift pouch from <target> | [Pickpocketing](/pickpocketing/) - Cut and Lift | Steal a coin pouch |
 | slice | *See below | [Pickpocketing](/pickpocketing/) - ??? | Steal something? |
-| slt | slift gladius from &lt;target&gt; | [Pickpocketing](/pickpocketing/) - ??? | Steal something? |
-| klt | klift dagger\|knife\|blade\|dirk from &lt;target&gt; | [Pickpocketing](/pickpocketing/) - ??? | Steal something? |
+| slt | slift gladius from <target> | [Pickpocketing](/pickpocketing/) - ??? | Steal something? |
+| klt | klift dagger\|knife\|blade\|dirk from <target> | [Pickpocketing](/pickpocketing/) - ??? | Steal something? |
 | ep | empty pouch into my sack | None, standard command | Empty the pouch into your sack |
 | dp | discard pouch | None, standard command | Discard the now empty pouch |
 
-*The expanded slice command would have broken the table, so here it is: slice mesh|tan|crude|reddish|bag|neck|box|fur|tiny|tube|sack|backpack from &lt;target&gt;
+*The expanded slice command would have broken the table, so here it is: slice mesh|tan|crude|reddish|bag|neck|box|fur|tiny|tube|sack|backpack from <target>
 *Special credit goes to Miss A.T.T. for alerting me to this one, you know who you are.
 
 Unfortunately, there is no easy macro for grabbing items since the items to be grabbed are far too varied to make one macro for. If you thought the slice one was bad, that one would be a mile long by comparison.

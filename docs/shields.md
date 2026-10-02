@@ -114,7 +114,7 @@ Majell drops his shield down low, blocking a thug's attack!
 
 </div>
 
-### Shield Bash  *sbash &lt;target&gt;* {#Bash}
+### Shield Bash  *sbash <target>* {#Bash}
 
 Using the knob, dome, or front side of your shield, you bash forward suddenly at your opponent. While not particularly complicated, this bruising attack can still catch someone off-guard if you time it right.
 
@@ -126,7 +126,7 @@ Gilven bashes a thug with his shield!
 
 </div>
 
-### Shield Upward Bash  *supbash &lt;target&gt;* {#uBash}
+### Shield Upward Bash  *supbash <target>* {#uBash}
 
 Tilting the lower edge of your shield forward, you bash suddenly at your opponent's shin or ankle, using the lower rim of your shield to deliver a rapid bruising strike.
 
@@ -138,7 +138,7 @@ Cottus bashes upward at a thug with the foot of his shield!
 
 </div>
 
-### Shield Edge Bash  *edgebash &lt;target&gt;* {#eBash}
+### Shield Edge Bash  *edgebash <target>* {#eBash}
 
 You slam the upper rim of the shield or buckler at the opponent. Typically this is aimed at the opponent's face or head, but you can also try to surprise them with an edge bash aimed low. The force of this attack is capable of stunning them momentarily and unlike the other shield attacks, delivers cutting damage as oppose to bruising.
 
@@ -153,7 +153,7 @@ Tilting his shield forward, Gilven slams the rim up into a thug! She suffers a c
 
 </div>
 
-### Shield Push Back  *spushback &lt;target&gt;* {#pBack}
+### Shield Push Back  *spushback <target>* {#pBack}
 
 Using your shield as a barrier between you and your opponent, you throw your weight into them, pushing them backward and possibly off balance. When executed successfully, this will keep your opponent occupied for a few seconds, and if you're lucky, they might even leave an opening that you can exploit with a quick follow-up strike.
 

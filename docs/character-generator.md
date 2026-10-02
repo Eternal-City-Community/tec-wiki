@@ -49,7 +49,7 @@ Last names **ARE** used in certain situations in-game.  Please make sure you cho
 
 Where you were born and raised contributes a lot to your character. Your homeland affects, among other things, how other people view you, what your family life was like, and what your parents did for a living.
 
-Hit &lt;return&gt; to continue...
+Hit <return> to continue...
 
 [Back To Top](#)
 
@@ -299,7 +299,7 @@ response.
 
 This series of questions determines the way your character looks.
 
-Hit &lt;return&gt; to continue...
+Hit <return> to continue...
 
 
 ### Step #6: Character Build
@@ -723,7 +723,7 @@ Hit &lt;return&gt; to continue...
 [Back To Top](#)
 
 Next you must enter three adjectives which describe your character: 
-Hit &lt;return&gt; to continue...
+Hit <return> to continue...
 
 ### Step #17: Adjectives {#Step-17}
 
@@ -772,7 +772,7 @@ Hit &lt;return&gt; to continue...
 
 Your character can have up to five different skills. He or she will advance much more easily in these skills than in any others. You will select one of the five now, and acquire the rest during the course of gameplay. The skill you select now will determine the primary focus of your character. NOTE: Certain starting skills may not be available to some nations, and won't be listed.
 
-Hit &lt;return&gt; to continue...
+Hit <return> to continue...
 
 ### Step #18: Skill Choice {#Step-18}
 
@@ -805,7 +805,7 @@ Hit &lt;return&gt; to continue...
 Because of your nation choice, you automatically have the following advantages:
   - Trait: Citizenship
 
-Hit &lt;return&gt; to continue...
+Hit <return> to continue...
 
 ### Step #19: Nationality Advantages {#Step-19}
 
@@ -842,7 +842,7 @@ You may only pick a **maximum** of **five (5) advantageous** traits and **five (
 There are also neutral traits, qualities of a character which have both positive and negative qualities.  Of these, you may only choose one.
 
 Remember that this is an optional process.  You may choose the maximum number of traits and flaws possible, or you may opt to pick only a few, or none at all.
-Hit &lt;return&gt; to continue...
+Hit <return> to continue...
 
 ---
 **NOTE: For a detailed list of traits with their values and definitions please see [Traits](/traits/).**

@@ -19,7 +19,7 @@ This hunting area is best suited for **mid level fighters** and is located near 
 
 ### Map
 *TO UPDATE*
-**&lt;INSERT MAP&gt;**
+**<INSERT MAP>**
 <!-- 
 
 

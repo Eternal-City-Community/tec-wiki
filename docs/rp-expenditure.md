@@ -24,7 +24,7 @@ These are useful commands for spending Role Points.
 * PLAY (WA-only)
 * @rps (WA-only)
 * @number-one (WA-only)
-* @rps-spent &lt;who&gt;
+* @rps-spent <who>
 
 
 See the full list of [commands](/commands/).
@@ -148,7 +148,7 @@ Playable NPCs and associated costs are:
 See [Veteran Characters](/veteran-characters/).
 
 ### [12] Custom Logout Message {#logout}
-Create a custom Welcome Area logout message. The default is "&lt;user&gt; leaves The Eternal City." (e.g. Dragonus leaves The Eternal City.)
+Create a custom Welcome Area logout message. The default is "<user> leaves The Eternal City." (e.g. Dragonus leaves The Eternal City.)
 
 Message will automatically start with your username. For example, if you want it to read "Dragonus jumps out the window.", you would enter "jumps out the window."
 

@@ -24,9 +24,9 @@ Below you'll find everything important to know about using Missile Bows.
 * Archery **damage scales with increased ranks** in [Basic Shot](/missile-weapons-bows/#Basic). All shot damage reaches its **maximum potential at rank 151** in [Basic Shot](/missile-weapons-bows/#Basic).
 * Archery **skill effectiveness scales with increased ranks** in each skill. Each skill reaches its maximum effective potential *(e.g. stuns, pins, etc.)* at **rank 151**, as has been confirmed by GM Tale. <sup>[1](https://forum.skotos.net/forum/our-games/the-eternal-city/eternal-city-staff-news/84501-bug-fixes?p=1733694#post1733694)  [2](https://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-city-mechanics/1730989-footshot?p=1733709#post1733709)</sup>
 * Use the get arrow from target command to retrieve arrows from an **archery target**.
-* Use the pull arrow from &lt;corpse&gt; command to retrieve your arrows from an individual corpse.
+* Use the pull arrow from <corpse> command to retrieve your arrows from an individual corpse.
 * Use the retrieve arrows or recover arrows command to retrieve re-usable arrows from all of the corpses in the current area.
-* Use the **load &lt;bow&gt; with &lt;arrow&gt;** command to **manually load your bow**.
+* Use the **load <bow> with <arrow>** command to **manually load your bow**.
 * Use the **scan clear** command to **clear** your **scanned targets**.
 * Use the **weather** command to gauge how much **wind** there is **from your position**. **Stronger winds increase** the penalty to shoot. [Wind Gauging](/missile-weapons-bows/#Wind) can be used to offset up to 50 RB of penalty (max rank 100)."
 * **100 ranks** in both [Quick Load](/missile-weapons-bows/#Load) and [Quick Shot](/missile-weapons-bows/#QShot) will allow you to **automatically load your empty bow** before every shot.
@@ -186,7 +186,7 @@ Archery targets are available in the following locations:
 This is the list of bows & arrows that can be used by the Archery skill set.
 
 **Special Notes:** 
-* Use the ammo command to quickly set your preferred ammo. *(ammo bows|slings &lt;ammo type&gt;|none )*
+* Use the ammo command to quickly set your preferred ammo. *(ammo bows|slings <ammo type>|none )*
 
 | Weapons | How to get it | Est. cost in shops |
 | --- | --- | --- |

@@ -67,7 +67,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 
 ### Skill Details
 
-### Sword Chop  *chop &lt;target&gt;* {#Chop}
+### Sword Chop  *chop <target>* {#Chop}
 
 An easy attack always aimed high. Great for the beginner, but not so useful if you need to aim low to get past your opponent's defenses. Can be defended by overhead blocks and Swaying Dodge.
 
@@ -79,7 +79,7 @@ Cula brings down his gladius in a chopping motion aimed at a thug, but misses.
 
 </div>
 
-### Sword Jab  *jab &lt;target&gt;* {#Jab}
+### Sword Jab  *jab <target>* {#Jab}
 
 An easy move, you jab at the opponent with the pointy end of the gladius. It is a simple attack. While easier to block than some other easy sword techniques, such as swat, chop, or slash, it should not be neglected by a serious swordsman.
 
@@ -91,7 +91,7 @@ Gilven jabs at a thug with the point of his tin gladius, but misses.
 
 </div>
 
-### Sword Slash  *slash &lt;target&gt;* {#Slash}
+### Sword Slash  *slash <target>* {#Slash}
 
 An easy slashing attack. Fairly weak, but it is harder to block than Jab. One must never forget the value of an easy attack.
 
@@ -103,7 +103,7 @@ Majell slashes horizontally at a thug with the tip of his gladius, but misses.
 
 </div>
 
-### Sword Swat  *swat &lt;target&gt;* {#Swat}
+### Sword Swat  *swat <target>* {#Swat}
 
 The only easy bruising attack for swords, you hit the opponent with the flat side of the blade. It's blocked by most cross blocks and, unlike slash, can be dodged easily.
 
@@ -115,7 +115,7 @@ Using the flat of a tin gladius's blade, Cula swats at a thug, but misses.
 
 </div>
 
-### Sword Lunge  *lunge &lt;target&gt;* {#Lunge}
+### Sword Lunge  *lunge <target>* {#Lunge}
 
 An attack and approach combination in which the wielder attempts to move in close to his opponent while at the same time lunging forward with the point of the gladius. It is defended by simple blocks.
 
@@ -127,7 +127,7 @@ Majell lunges forward, but his stab with the gladius misses a thug.
 
 </div>
 
-### Sword Side Strike  *sidestrike &lt;target&gt;* {#Side}
+### Sword Side Strike  *sidestrike <target>* {#Side}
 
 A powerful sidestrike using both hands. It is defended by most cross blocks and is fairly easy to dodge when aimed at the midsection.
 
@@ -139,7 +139,7 @@ Using both arms, a man in a hooded cloak brings his gladius around towards a thu
 
 </div>
 
-### Sword Stab  *stab &lt;target&gt;* {#Stab}
+### Sword Stab  *stab <target>* {#Stab}
 
 A decently strong gladius move, comparable in strength to sidestrike, but only requiring one hand. This move is the main hard hitter a shield-wielding swordsman has, without the knowledge of advanced styles such as Nelsor.
 
@@ -151,7 +151,7 @@ Cula makes a quick stabbing motion at a thug with his gladius, but misses.
 
 </div>
 
-### Sword Sap  *sap &lt;target&gt;* {#Sap}
+### Sword Sap  *sap <target>* {#Sap}
 
 This attack is fairly weak, but as you slam the pommel of the gladius at the opponent's head, the force of the attack is capable of stunning them momentarily. For swordsmen who like to fight alone, this really isn't necessary, but if you fight in groups (especially with sweepers), it is very nice to have. Sadly, a helmet really puts a damper on its ability to stun the opponent.
 
@@ -235,7 +235,7 @@ With a quick snap of the wrist, Gilven brings the tip of his gladius downward, i
 
 </div>
 
-### Sword Feint  *feint &lt;target&gt;* {#Feint}
+### Sword Feint  *feint <target>* {#Feint}
 
 Feint throws off the opponent's defense, allowing them to be hit more easily. The difficulty for a feint to be used is dependant on the opponents overall fighting ability, a less skilled opponent will fall for a feint easier then a more skilled warrior.
 
@@ -247,7 +247,7 @@ Majell leans forward, feigning a strike at a thug with his tin gladius.
 
 </div>
 
-### Sword Push Back  *pushback &lt;target&gt;* {#Push}
+### Sword Push Back  *pushback <target>* {#Push}
 
 Using the gladius, you push against the opponents weapon, sometimes causing them to unwield. When successful, they are forced to retreat, and if you get a high enough roll over your success (50 over) they also unwield their weapon.
 
@@ -283,7 +283,7 @@ With enough training in Grip, you are able to raise your dexterity in combat sit
 
 </div>
 
-### Retalq's Shadow Blade Thrust  *sthrust &lt;target&gt;* {#Sthrust}
+### Retalq's Shadow Blade Thrust  *sthrust <target>* {#Sthrust}
 
 Similar to the one-handed sword stab, this move uses a distraction to cause more damage than the regular stab. This custom move was created by the swordsman Retalq Blade.
 
@@ -295,7 +295,7 @@ Retalq makes a wide, false slash at a thug with his gladius, then quickly step i
 
 </div>
 
-### Questrius' Toss and Crush  *crush &lt;target&gt;* {#Crush}
+### Questrius' Toss and Crush  *crush <target>* {#Crush}
 
 Similar to the existing one-handed sword swat. This custom move was created by the swordsman Questrius.
 

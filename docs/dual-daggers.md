@@ -57,7 +57,7 @@ You sink low into a crouch and bring your twin daggers close in a reverse grip, 
 
 </div>
 
-### Dual Daggers Chop  *dchop &lt;target&gt;* {#Chop}
+### Dual Daggers Chop  *dchop <target>* {#Chop}
 
 This move can be aimed **high, mid,** and **low.**
 
@@ -69,7 +69,7 @@ You snap your fang-shaped alanti dagger down at a tough Kelestian raider in a sh
 
 </div>
 
-### Dual Daggers Jab  *djab &lt;target&gt;* {#Jab}
+### Dual Daggers Jab  *djab <target>* {#Jab}
 
 This move can be aimed **high, mid,** and **low.**
 
@@ -84,7 +84,7 @@ You dart forward, driving a rapid jab into a young brute with your alanti dagger
 
 </div>
 
-### Dual Daggers Overhead Strike  *dstrike &lt;target&gt;* {#Strike}
+### Dual Daggers Overhead Strike  *dstrike <target>* {#Strike}
 
 This move can be aimed **high**.
 
@@ -96,7 +96,7 @@ You drop your weight into a vicious downward stab at a tough Kelestian raider wi
 
 </div>
 
-### Dual Daggers Low Swat  *dswat &lt;target&gt;* {#Swat}
+### Dual Daggers Low Swat  *dswat <target>* {#Swat}
 
 This move can be aimed **low**.
 
@@ -108,7 +108,7 @@ You whip your knife down in a stinging swat against a dark-haired woman with a f
 
 </div>
 
-### Dual Daggers Twin Slash  *twinslash &lt;target&gt;* {#Slash}
+### Dual Daggers Twin Slash  *twinslash <target>* {#Slash}
 
 This move can be aimed **high, mid,** and **low.**
 
@@ -120,7 +120,7 @@ You sweep your fang-shaped alanti dagger and long narrow sooty black dagger acro
 
 </div>
 
-### Dual Daggers Blood Dance  *dblood &lt;target&gt;* {#Blooddance}
+### Dual Daggers Blood Dance  *dblood <target>* {#Blooddance}
 
 This move cannot be aimed. 
 
@@ -132,7 +132,7 @@ You step in and drive your daggers into a tough Kelestian raider with controlled
 
 </div>
 
-### Dual Daggers Gorge Ripper  *Gorgeripper&lt;target&gt;* {#Gorgeripper}
+### Dual Daggers Gorge Ripper  *Gorgeripper<target>* {#Gorgeripper}
 
 Aggressive Stepping Move. This move can be aimed **high.**
 
@@ -145,7 +145,7 @@ From your reverse grip, you drive both points of your long narrow sooty black da
 
 </div>
 
-### Dual Daggers Flicker Strike  *heartseeker &lt;target&gt;* {#Heartseeker}
+### Dual Daggers Flicker Strike  *heartseeker <target>* {#Heartseeker}
 
 Auto-wielding move. Lunge at a distance. This move can be aimed **high, & mid.**
 
@@ -157,7 +157,7 @@ You dart in and out with blinding speed, flicking the point of your fang-shaped 
 
 </div>
 
-### Dual Daggers Tendon Slash  *tendonslash &lt;target&gt;* {#Tendon}
+### Dual Daggers Tendon Slash  *tendonslash <target>* {#Tendon}
 
 This move will put you on the ground without simple rise.
 
@@ -169,7 +169,7 @@ You drop low and slash at a dirty Kelestian tunneler's right ankle with your bro
 
 </div>
 
-### Dual Daggers Blood Staccato  *bloodstaccato &lt;target&gt;* {#Staccato}
+### Dual Daggers Blood Staccato  *bloodstaccato <target>* {#Staccato}
 
 This move can be aimed **high** and **mid.**
 
@@ -181,7 +181,7 @@ In a blinding staccato rhythm, you drive a flurry of rapid jabs into a grungy Ke
 
 </div>
 
-### Dual Daggers Hook Disarm  *hookdisarm &lt;target&gt;* {#Hook}
+### Dual Daggers Hook Disarm  *hookdisarm <target>* {#Hook}
 
 This move has a chance to disarm your opponent. This move can be aimed **high.**
 
@@ -195,7 +195,7 @@ You hook the guard of a young brute's large wooden club with your bone knife, le
 
 </div>
 
-### Dual Daggers Feint  *dfeint &lt;target&gt;* {#Feint}
+### Dual Daggers Feint  *dfeint <target>* {#Feint}
 
 none
 
@@ -219,7 +219,7 @@ none
 
 </div>
 
-### Dual Daggers Off-Hand Parry  *??? &lt;target&gt;* {#Parry}
+### Dual Daggers Off-Hand Parry  *??? <target>* {#Parry}
 
 none
 

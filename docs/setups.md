@@ -38,7 +38,7 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 
 ### Skill Details
 
-### Draw Attention  *spook &lt;target&gt;* {#Draw-Attention}
+### Draw Attention  *spook <target>* {#Draw-Attention}
 
 > "Pretty simple ta understand.  Merchant's don't watch their pouches as good when they're not lookin' at it...  Distract tha schmuck's an' it'll be that much easyah fer ya ta... examine 'is wares." the Trainer chuckles.
 
@@ -64,7 +64,7 @@ You have a trader, nearly hypnotized trying to figure out what you’re doing.
 
 </div>
 
-### Ground Approach  *grou?nd [approach] &lt;target&gt;* {#Ground-Approach}
+### Ground Approach  *grou?nd [approach] <target>* {#Ground-Approach}
 
 > The Trainer wrinkles his nose as he thinks.  "Pretty simple, reallah... ya slip in fast and quick next ta ya target, an tha next thin he notices is that yer right 'side 'him.  Itsa good way of gettin' past annoyin' guards, but they still see ya comin', an so does tha target.  Thar bettah ways ta get close ta someone unsuspectin'... not that I'd know, of course."  the Trainer cackles.
 
@@ -84,7 +84,7 @@ You manage to get right on top of a trader before being noticed.
 
 </div>
 
-### Assess Target  *com?batassess &lt;target&gt;* {#Assess-Target}
+### Assess Target  *com?batassess <target>* {#Assess-Target}
 
 > "Wanna know if ya target's an ignorant schmuck with dat gladius, or a mastah blade with tha balls ta slice ya ta bits?  The Trainer chuckles.  "Tha bettah ya are at assessin' targets, the bettah ya are at tellin' how good he is with a weap'n."
 
@@ -110,7 +110,7 @@ From what you can tell of him, XXXXX has been in more battles than you could eve
 
 </div>
 
-### Ear for Coin  *coin?listen &lt;target&gt;* {#EarforCoin}
+### Ear for Coin  *coin?listen <target>* {#EarforCoin}
 
 > "Earin' fer coin is a merchant trick, mostly.  Ya tell how much money a schmuck's got on 'im by the sound of da jinglin' of 'is pouches an' sacks.  Course... its jes a rough guess, but ya judgement gets bettah as ya practice. Itsa useful trick fer choosin' targets."
 
@@ -158,7 +158,7 @@ Carefully reading his lips, you make out the words "You've forged the key to my 
 
 </div>
 
-### Thief's Look  *glan?ce &lt;target&gt;* {#ThiefsLook}
+### Thief's Look  *glan?ce <target>* {#ThiefsLook}
 
 TBC
 
@@ -176,7 +176,7 @@ TBC
 
 </div>
 
-### City Stalking  *city?stalk &lt;target&gt;* {#CityStalking}
+### City Stalking  *city?stalk <target>* {#CityStalking}
 
 TBC
 
@@ -201,7 +201,7 @@ TBC
 
 </div>
 
-### Fade Away  *fad?e &lt;target&gt;* {#FadeAway}
+### Fade Away  *fad?e <target>* {#FadeAway}
 
 TBC
 
@@ -219,7 +219,7 @@ TBC
 
 </div>
 
-### Drunken Approach  *dru?nkenwalk &lt;target&gt;* {#DrunkenApproach}
+### Drunken Approach  *dru?nkenwalk <target>* {#DrunkenApproach}
 
 TBC
 
@@ -237,7 +237,7 @@ TBC
 
 </div>
 
-### Street Approach  *stree?tapproach &lt;target&gt;* {#StreetApproach}
+### Street Approach  *stree?tapproach <target>* {#StreetApproach}
 
 Using the surrounding crowd as cover, you attempt to silently approach your unsuspecting target.
 
@@ -255,7 +255,7 @@ TBC
 
 </div>
 
-### Gentlman's Touch  *rif?le &lt;target&gt;* {#GentTouch}
+### Gentlman's Touch  *rif?le <target>* {#GentTouch}
 
 TBC
 
@@ -273,7 +273,7 @@ TBC
 
 </div>
 
-### Eavesdrop  *eav?esdrop &lt;portal&gt;* {#eavesdrop}
+### Eavesdrop  *eav?esdrop <portal>* {#eavesdrop}
 
 TBC
 

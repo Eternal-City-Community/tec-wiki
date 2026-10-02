@@ -170,7 +170,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 #### Notes on Learning
 * You **cannot train 'Basic Jewelry' alone**. Your basic **jewelry rank increases as you train the jewelry actions and recipes**.
-* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [&lt;lore name&gt;] from &lt;trainer&gt;** commands.
+* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [<lore name>] from <trainer>** commands.
 * Jewelry work requires **[recipes](#Recipes)** recalled before many steps. Engraving patterns are **[lores](#Lores)** learned from the trainer.
 * Jewelers can use **[restyle](#Restyle)** on finished player-crafted pieces. No separate skill rank is required beyond owning the work.
 * You can unlearn recipes; engraving lores follow the same rules as other craft lores.
@@ -182,16 +182,16 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 ### Related Commands
 Related commands are commands that require little or no extra training beyond the skill set, but are necessary as part of jewelry work.
 
-### Recall  *recall &lt;recipe&gt; {#Recall}
-recipe-recall &lt;text&gt;*
+### Recall  *recall <recipe> {#Recall}
+recipe-recall <text>*
 
 Before casting, cold-working a finished form, assembling chain, or cutting a stone, you need a recipe **recalled** so the work follows the correct steps.
 
-Use **recipe-recall &lt;text&gt;** to search the recipes you know. The command lists every known recipe whose name matches the word or fragment you typed. Choose a number from the list to recall that recipe. Use **recall &lt;recipe&gt;** when you already know the full name.
+Use **recipe-recall <text>** to search the recipes you know. The command lists every known recipe whose name matches the word or fragment you typed. Choose a number from the list to recall that recipe. Use **recall <recipe>** when you already know the full name.
 
 A recalled recipe shows materials, yield, and the order of work. Type **recipes** to review known recipes once the skill is learned.
 
-**Engraving patterns** are lores: use **learn lore** / **learn lore &lt;name&gt; from &lt;trainer&gt;**, then engrave the piece.
+**Engraving patterns** are lores: use **learn lore** / **learn lore <name> from <trainer>**, then engrave the piece.
 
 **When you see this in use you see:**
 
@@ -217,7 +217,7 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
   * One fine chain necklace
  Steps:
   * assemble <link> to <link> to start
-  * assemble <link> to &lt;incomplete&gt; until the necklace is complete
+  * assemble <link> to <incomplete> until the necklace is complete
  Recipe recalled. You are now ready to begin crafting.
 
  > *recall cast simple band*
@@ -231,16 +231,16 @@ A recalled recipe shows materials, yield, and the order of work. Type **recipes*
  Yield:
   * One finished piece
  Steps:
-  * form &lt;wax&gt; until the wax form is complete
-  * mold &lt;clay&gt; with a finished wax form at hand until the mold is packed
-  * heat &lt;mold&gt; over a low flame until baked
-  * cast &lt;baked mold&gt; (molten metal in the crucible)
+  * form <wax> until the wax form is complete
+  * mold <clay> with a finished wax form at hand until the mold is packed
+  * heat <mold> over a low flame until baked
+  * cast <baked mold> (molten metal in the crucible)
 
 </div>
 
-### Restyle  *restyle &lt;jewelry&gt;* {#Restyle}
+### Restyle  *restyle <jewelry>* {#Restyle}
 
-Once player-crafted jewelry is complete, it can be altered slightly through the restyle menu. No skill training is required beyond owning the piece. Simply **restyle &lt;jewelry&gt;** and you will be shown a menu of short names based on what has actually been done to the piece (metal, engraving, set stones, and similar features).
+Once player-crafted jewelry is complete, it can be altered slightly through the restyle menu. No skill training is required beyond owning the piece. Simply **restyle <jewelry>** and you will be shown a menu of short names based on what has actually been done to the piece (metal, engraving, set stones, and similar features).
 
 **When you see this in use you see:**
 
@@ -261,7 +261,7 @@ Once player-crafted jewelry is complete, it can be altered slightly through the 
 
 ### Skill Details
 
-### Form Wax  *form &lt;wax&gt;* {#Form-Wax}
+### Form Wax  *form <wax>* {#Form-Wax}
 
 Soften and shape wax into the form required by the recalled casting recipe. Low skill may need several passes; higher skill finishes the form more cleanly in fewer attempts. Continue forming an unfinished wax form until it is complete, then pack clay around it.
 
@@ -274,7 +274,7 @@ Soften and shape wax into the form required by the recalled casting recipe. Low 
 
 </div>
 
-### Make Mold  *mold &lt;clay&gt;* {#Make-Mold}
+### Make Mold  *mold <clay>* {#Make-Mold}
 
 Pack clay around a finished wax form, leaving a runoff, until the mold is ready to bake. Incomplete molds are continued with the same command. Heat the packed mold over a low flame to bake it before casting.
 
@@ -287,7 +287,7 @@ Pack clay around a finished wax form, leaving a runoff, until the mold is ready 
 
 </div>
 
-### Cast Jewelry  *cast &lt;baked mold&gt;* {#Cast-Jewelry}
+### Cast Jewelry  *cast <baked mold>* {#Cast-Jewelry}
 
 Pour molten metal from a crucible into a baked clay mold to produce the piece named by the recalled casting recipe. Requires metal melted in a crucible and tongs as needed. The mold is used up when you cast.
 
@@ -302,7 +302,7 @@ Pour molten metal from a crucible into a baked clay mold to produce the piece na
 
 </div>
 
-### Hot Work Stock  *hotwork &lt;crucible&gt;* {#Hot-Work-Stock}
+### Hot Work Stock  *hotwork <crucible>* {#Hot-Work-Stock}
 
 Work molten metal from a crucible under the hammer into solid stock ready for cold work. The hammer should be available nearby.
 
@@ -317,7 +317,7 @@ Work molten metal from a crucible under the hammer into solid stock ready for co
 
 </div>
 
-### Cold Work Stock  *coldwork &lt;stock|wire&gt;* {#Cold-Work-Stock}
+### Cold Work Stock  *coldwork <stock|wire>* {#Cold-Work-Stock}
 
 Draw or shape stock into wire, links, bands, or other forms the recalled recipe calls for. **Wire recipes require wire**, not heavy cylindrical stock — produce wire first when needed. Link recipes produce tiny or large links from wire. Solid band and forged recipes work from stock.
 
@@ -335,7 +335,7 @@ Draw or shape stock into wire, links, bands, or other forms the recalled recipe 
 
 </div>
 
-### Assemble Jewelry  *assemble &lt;link|incomplete&gt; to &lt;link|incomplete&gt;* {#Assemble-Jewelry}
+### Assemble Jewelry  *assemble <link|incomplete> to <link|incomplete>* {#Assemble-Jewelry}
 
 Join links into an incomplete chain, then continue adding links until the recalled chain or bracelet recipe is complete. Pieces must be the same metal. Start with two matching links, then assemble further links to the incomplete work.
 
@@ -353,7 +353,7 @@ Join links into an incomplete chain, then continue adding links until the recall
 
 </div>
 
-### Layout Gem  *layout &lt;gem&gt;* {#Layout-Gem}
+### Layout Gem  *layout <gem>* {#Layout-Gem}
 
 Mark the stone for the recalled cut. This is the first step of every cutting recipe. Some stones cannot be cut.
 
@@ -368,7 +368,7 @@ Mark the stone for the recalled cut. This is the first step of every cutting rec
 
 </div>
 
-### Rough Cut Gem  *roughcut &lt;gem&gt;* {#Rough-Cut-Gem}
+### Rough Cut Gem  *roughcut <gem>* {#Rough-Cut-Gem}
 
 Reduce the stone toward the shape of the recalled cut. Harder cuts use more rough and shape passes and punish mistakes more severely — a failed step can ruin the stone.
 
@@ -383,7 +383,7 @@ Reduce the stone toward the shape of the recalled cut. Harder cuts use more roug
 
 </div>
 
-### Shape Gem  *shape &lt;gem&gt;* {#Shape-Gem}
+### Shape Gem  *shape <gem>* {#Shape-Gem}
 
 Work the faces and outline of the cut into place after the rough form is established. Number of shape steps depends on the recalled cut.
 
@@ -398,7 +398,7 @@ Work the faces and outline of the cut into place after the rough form is establi
 
 </div>
 
-### Polish Gem  *polish &lt;gem&gt;* {#Polish-Gem}
+### Polish Gem  *polish <gem>* {#Polish-Gem}
 
 Polish the finished cut so the faces take light cleanly. Last step of a cutting recipe.
 
@@ -413,7 +413,7 @@ Polish the finished cut so the faces take light cleanly. Last step of a cutting 
 
 </div>
 
-### Engrave Jewelry  *engrave &lt;jewelry&gt;* {#Engrave-Jewelry}
+### Engrave Jewelry  *engrave <jewelry>* {#Engrave-Jewelry}
 
 Cut a learned engraving pattern into player-crafted jewelry that will take engraving. Patterns are **[lores](#Lores)** learned from the trainer. Work proceeds in several passes until the pattern is complete.
 
@@ -438,7 +438,7 @@ Cut a learned engraving pattern into player-crafted jewelry that will take engra
 
 </div>
 
-### Set Gem  *set &lt;jewelry&gt; with &lt;cut gem&gt;* {#Set-Gem}
+### Set Gem  *set <jewelry> with <cut gem>* {#Set-Gem}
 
 Seat a **finished cut** stone into player-crafted jewelry that can accept a setting. Uncut stones will not set. Some pieces accept more than one stone; the short name and description update to reflect what is set.
 

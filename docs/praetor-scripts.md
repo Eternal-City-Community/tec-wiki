@@ -122,7 +122,7 @@ Some modes hand off to another mode when they finish, instead of stopping, using
 ~~~
 
 
-Chains can go several modes deep. Each mode in the chain carries its own **after:**. Not every mode supports it. The hint line shows **[after:&lt;mode&gt;]** at the end of a mode's arguments when it does.
+Chains can go several modes deep. Each mode in the chain carries its own **after:**. Not every mode supports it. The hint line shows **[after:<mode>]** at the end of a mode's arguments when it does.
 
 ### Five modes to learn from
 

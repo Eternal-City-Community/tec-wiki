@@ -57,7 +57,7 @@ From Vetallun Bridge: 125xNE + 113xE
 
 ### Level I {#Level1}
 
-&lt;insert description&gt;
+<insert description>
 
 **<u>Opponents</u>** 
 * A something something bandit *([clubs](/one-handed-crushing/))*
@@ -66,12 +66,12 @@ From Vetallun Bridge: 125xNE + 113xE
 **Loot**: *TBC*
 
 **<u>Reputation Drops</u>** 
-* A &lt;dirty/ragged&gt; rough **wool armband** &lt;embossed/stitched&gt; with a black hand 
+* A <dirty/ragged> rough **wool armband** <embossed/stitched> with a black hand 
 * A red poorly-woven **linen armband** stitched with a black hand
 * ...
 
 ### Level II {#Level2}
-&lt;insert description&gt;
+<insert description>
 
 **<u>Opponents</u>** 
 * A something something bandit *([whips](/whips/))* & a war hound
@@ -83,9 +83,9 @@ From Vetallun Bridge: 125xNE + 113xE
 **Loot**: *TBC*
 
 **<u>Reputation Drops</u>** 
-* A &lt;gray/red&gt; rough **wool armband** stitched with a black hand
-* A &lt;dirty/ragged/gray/red&gt; poorly-woven **linen armband** &lt;embossed/stitched&gt; with a black hand
-* A &lt;gray&gt; rough **cotton armband** embossed with a black hand
+* A <gray/red> rough **wool armband** stitched with a black hand
+* A <dirty/ragged/gray/red> poorly-woven **linen armband** <embossed/stitched> with a black hand
+* A <gray> rough **cotton armband** embossed with a black hand
 * ...
 
 #### Level II - Boss Room {#Level2Boss}
@@ -101,7 +101,7 @@ From Vetallun Bridge: 125xNE + 113xE
 * ...
 
 ### Level III {#Level3}
-&lt;insert description&gt;
+<insert description>
 
 **<u>Opponents</u>**
 * Bandit *([whips](/whips/))* & large hound with matted fur
@@ -112,15 +112,15 @@ From Vetallun Bridge: 125xNE + 113xE
 **Loot**: iron mace, bronze dirk, bronze helmet, rusty long shield, bronze buckler, short whip, leather helmet, leather pteryges, leather shoulder pteryges, leather armor, leather boots, leather leggings, leather gauntlets.
 
 **<u>Reputation Drops</u>** 
-* A &lt;dirty/ragged/gray/red&gt; poorly-woven **linen armband** &lt;embossed/stitched&gt; with a black hand
-* A &lt;dirty/gray&gt; **cotton armband** stitched with a black hand
-* A &lt;blood red&gt; rough **leather armband** stitched with a black hand
+* A <dirty/ragged/gray/red> poorly-woven **linen armband** <embossed/stitched> with a black hand
+* A <dirty/gray> **cotton armband** stitched with a black hand
+* A <blood red> rough **leather armband** stitched with a black hand
 * A worn-out rough **leather dog collar**
 
 ### Level IIII - Boss Room {#Level4}
  A group is recommended. 
 
-&lt;insert description&gt;
+<insert description>
 
 **<u>Opponents</u>** 
 * TBC *(...)*

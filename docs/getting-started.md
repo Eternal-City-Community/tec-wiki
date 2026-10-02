@@ -22,13 +22,13 @@ For a quick*(-ish)* overview and to get a sense for TEC, feel free to watch this
 
 So you've managed to log in, you're in the welcome room and you've got no idea how to say hi! Here are a couple of quick speech syntaxes for various means of communication:
 
-**Indirect speech** - You can speech generally to the room by type SAY &lt;message&gt;. A shorthand of this is also using the ' symbol.
+**Indirect speech** - You can speech generally to the room by type SAY <message>. A shorthand of this is also using the ' symbol.
 > Command:
 > SAY or ' Hi, I'm new! My name is Inigo Montoya. Prepare to die!
 > What others see:
 > Inigo says, "Hi, I'm new! My name is Inigo Montoya. Prepare to die!"
 
-**Direct Speech** - You can speak directly to a character or NPC or even an object if you really wanted to by using SAY TO &lt;person&gt;. The shorthand 
+**Direct Speech** - You can speak directly to a character or NPC or even an object if you really wanted to by using SAY TO <person>. The shorthand 
 > Command:
 > say to Constantine I'd like a drink OR "cons I'd like a drink.
 > What Constantine sees:
@@ -48,7 +48,7 @@ More **advanced speech** options can be found here:
 * [Advanced Speech](/advanced-speech/)
 
 #### Thinknet
-**Thinknet** - Think net is an in-character channel. It is a way to contact others from a distance without running all over the game trying to find them. To use think you can use THINK &lt;message&gt;. There is no direct speech on this channel.
+**Thinknet** - Think net is an in-character channel. It is a way to contact others from a distance without running all over the game trying to find them. To use think you can use THINK <message>. There is no direct speech on this channel.
 > Command:
 > THINK Good morning Iridine!
 > What everyone sees:
@@ -57,11 +57,11 @@ More **advanced speech** options can be found here:
 This channel can be toggled on and off using the toggle-think command.
 
 #### OOC Channel
-**OOC Channel** - The out-of-character channel is a way to ask questions about syntax, game mechanics, or just general help that may not be able to ask in-game. You can use OOC &lt;message&gt; to communicate here. There is no direct speech on this channel. FYI - This channel will display your character name in-game and your account name in the Welcome Area.
+**OOC Channel** - The out-of-character channel is a way to ask questions about syntax, game mechanics, or just general help that may not be able to ask in-game. You can use OOC <message> to communicate here. There is no direct speech on this channel. FYI - This channel will display your character name in-game and your account name in the Welcome Area.
 > Command:
 > OOC How do I do this?
 > What others see: 
-> &lt;OOC:&gt; Soandso asks, "How do I do this?
+> <OOC:> Soandso asks, "How do I do this?
 
 This channel can be toggled on and off using the toggle-ooc command.
 
@@ -78,7 +78,7 @@ The [Character Generator](/character-generator/) in TEC is unique in the realm o
 ### Interacting with objects
 Throughout your time in Midlight, you'll most likely need to pick things up, put them down, wear, wield, or interact with various things. Below is a list of commands to do so:
 
-**GET** - In order to pick something up, you'll need to GET &lt;item&gt;. You can also choose which item if you have multiple items that are similar or identical using GET # &lt;item&gt; where # is the number you'd like to get. Sometimes an item is in a container of some sort. If you'd like to get an item from your sack for example, you could do GET &lt;item&gt; from &lt;sack&gt;. Both the item and the container can have a # prefix to them for specificity. You can also specify MY to limit the options to only things on your character.
+**GET** - In order to pick something up, you'll need to GET <item>. You can also choose which item if you have multiple items that are similar or identical using GET # <item> where # is the number you'd like to get. Sometimes an item is in a container of some sort. If you'd like to get an item from your sack for example, you could do GET <item> from <sack>. Both the item and the container can have a # prefix to them for specificity. You can also specify MY to limit the options to only things on your character.
 > Commands: 
 > get torch
 > You take a torch.
@@ -91,19 +91,19 @@ Throughout your time in Midlight, you'll most likely need to pick things up, put
 > get torch from my backpack
 > You get a torch from your backpack.
 
-**PUT/DROP** If you'd like to put an item somewhere, you can use the PUT &lt;item&gt; in/on/under &lt;place&gt;. If you'd like to leave it on the ground you can DROP &lt;item&gt;. Again, these can be specified with the # and MY prefixes.
+**PUT/DROP** If you'd like to put an item somewhere, you can use the PUT <item> in/on/under <place>. If you'd like to leave it on the ground you can DROP <item>. Again, these can be specified with the # and MY prefixes.
 > Commands:
 > put torch in sack
 > You put a torch in a sack.
 > drop torch
 > You drop a torch.
-**Wearing clothes** - People will probably give you funny looks in Iridine if you're running around in your birthday suit! Not to mention, Impropriety is a crime in the City of Iridine. You can REMOVE &lt;item&gt; to unwear it. You can WEAR &lt;item&gt; to of course wear it. Some items may be required to be worn under or over other clothing. 
+**Wearing clothes** - People will probably give you funny looks in Iridine if you're running around in your birthday suit! Not to mention, Impropriety is a crime in the City of Iridine. You can REMOVE <item> to unwear it. You can WEAR <item> to of course wear it. Some items may be required to be worn under or over other clothing. 
 > Commands:
 > wear tunic
 > You wear a silky white tunic covered in daisies.
 > remove tunic
 > You remove a tunic.
-**Wielding a weapon** In order to use a weapon you'll need to WIELD it. This can be achieved by using the WIELD &lt;weapon&gt; command. You can also UNWIELD as well if you're done fighting. Sometimes you'll only want to wield a weapon in one or two hands. There are also the 1W and 2W commands for those purposes. 
+**Wielding a weapon** In order to use a weapon you'll need to WIELD it. This can be achieved by using the WIELD <weapon> command. You can also UNWIELD as well if you're done fighting. Sometimes you'll only want to wield a weapon in one or two hands. There are also the 1W and 2W commands for those purposes. 
 > Commands:
 > wield trident
 > You wield a bronze trident with tin tines.
@@ -117,14 +117,14 @@ Notes:
 
 **Stow** STOW let's you choose which container you automatically put items into when your hands are full and pick something up.
 > Command:
-> STOW #|my &lt;container&gt;
+> STOW #|my <container>
 > A simple woolen sack will be used for stowage.
 
 **Accepting and offering items** As a newcomer, lots of friendly folks will often give you some stuff to get started. You'll need to know how to ACCEPT them. Then one day, you can return the favor and OFFER items to others.
 > Commands:
-> Accept &lt;person&gt;
+> Accept <person>
 > You accept a shiny new weapon from soandso.
-> Offer &lt;item&gt; to &lt;person&gt;
+> Offer <item> to <person>
 > You offer a cool thing to soandso.
 ### Checking your inventory
 **Inventory** You can see what all you have on you by using INVENTORY or I or INV for short. This will list all the items you are wearing, wielding, and any open containers you have on you. 
@@ -133,14 +133,14 @@ Note: Containers will only be shown on one level. A sack within a sack will not 
 
 **IW** IW (short for Inventory Weight) will list what every item you're wearing or carrying weighs to an approximate level within one pound.
 
-**Checking containers** You can look in the contents of a container by using LOOK in #|my &lt;container&gt;
+**Checking containers** You can look in the contents of a container by using LOOK in #|my <container>
 ### Skills 
 The world of Midlight has many opportunities for all walks of life. You can be a gladiator, a soldier, a mercenary or constable. You can be a tailor, locksmith, hunter, healer, or woodsman. Or if you're more into the seedier walk of life there are more subtle arts to be learned. Below explains how your character's skills work within The Eternal City. 
 
 Performing an action will give you Skill Points (SP) to learn fun and new lessons to improve your character. 
 Below is a list of helpful commands related to skills:
 
-**Skills** SKILLS will give you a long list of all the skills & languages you know. You can also use SKILLS &lt;skill&gt; to specify a certain skillset.
+**Skills** SKILLS will give you a long list of all the skills & languages you know. You can also use SKILLS <skill> to specify a certain skillset.
 
 ** Skills ?** SKILLS ? will show you the commands for all skills you know. EXTREMELY USEFUL when first learning the game.
 
@@ -148,7 +148,7 @@ Below is a list of helpful commands related to skills:
 
 **SSK COSTS** This command will tell you what each skillsets SP cost is based on the difficulty and the skill slot it's located in.
 
-**Learning** Once you've earned enough SP to gain new lessons, you'll need to find a trainer. This can be an NPC trainer or a player. There's plenty of player characters who are happy to teach for free so don't feel afraid to ask in think-net first to save some coin. In order to learn, you'll need to LEARN &lt;skill&gt; from &lt;person&gt;. You can also learn up to 25 ranks at a time (As long as you have SP) by using LEARN &lt;skill&gt; from &lt;person&gt; #<1-25>. Some skills can be learned with SP from other skillsets. You will always default to the skillset you're learning unless you specify with LEARN &lt;skill&gt; from &lt;person&gt; with &lt;otherskillset&gt;. 
+**Learning** Once you've earned enough SP to gain new lessons, you'll need to find a trainer. This can be an NPC trainer or a player. There's plenty of player characters who are happy to teach for free so don't feel afraid to ask in think-net first to save some coin. In order to learn, you'll need to LEARN <skill> from <person>. You can also learn up to 25 ranks at a time (As long as you have SP) by using LEARN <skill> from <person> #<1-25>. Some skills can be learned with SP from other skillsets. You will always default to the skillset you're learning unless you specify with LEARN <skill> from <person> with <otherskillset>. 
 > Commands:
 > Learn stab from stabberman
 > You successfully train stab to 1.
@@ -163,7 +163,7 @@ For more information on skills you can check out: [Skills](/skills/)
 Also, all skills available in-game are listed on the left-hand navigation. 
 ### Newbie Areas
 There are a few places in-game that specifically catered to new characters.
-**Phaedra** - New characters will start off at Phaedra. &lt;insert RP flavor&gt;. She is located one pace on the eastern side of The Stone Toga Inn. The Stone Toga Inn is one of the main meeting hubs. 
+**Phaedra** - New characters will start off at Phaedra. <insert RP flavor>. She is located one pace on the eastern side of The Stone Toga Inn. The Stone Toga Inn is one of the main meeting hubs. 
 **Signal Tower Island** - This area is meant specifically for newbie characters. You will need to take a ferry to get there. In order to get on the ferry you will need to use a few special commands. WAIT FOR FERRY will make you automatically walk onto the ferry from either dock. WAIT FOR DOCK will automatically walk you off of the ferry onto the dock. If the ferry is already at the dock, you can just walk on yourself as well. 
 Things to do:
 * You can fight gulls, crabs, fluviturs (a dog-like creature), and snapping turtles here. If you skin their stomaches, inside will be gastrolith pebbles which you can turn into the Od'H.
@@ -180,7 +180,7 @@ You earn a reputation with this establishment by providing crafted goods, managi
 More information on this establishment can found here: [Officium de Humanitas](/newbie-office/)
 ### Newbie Quests
 
-When your character completes the tutorial, they are plopped into the live game world with a codex of tips at the bench of Phaedra, your new character guide. She can answer some basic questions not covered in your tutorial or in your newbie codex. You will also have access to the Auxilia Channel, a channel for new characters seeking help in the game world. When in doubt and in need of assistance, use the player chat channel think net. This is an in-character channel, and to access it simply THINK &lt;what you want to ask&gt;. Your first task should be exploring your surroundings and getting to know the city. From Phaedra, go NORTH 1 Pace, then WEST 1 Pace to arrive at the Stone Toga Inn, a common meeting spot for players on the edge of the Harbor and Forum areas in the city. Here, if you wait a moment, your first newbie quest should appear.
+When your character completes the tutorial, they are plopped into the live game world with a codex of tips at the bench of Phaedra, your new character guide. She can answer some basic questions not covered in your tutorial or in your newbie codex. You will also have access to the Auxilia Channel, a channel for new characters seeking help in the game world. When in doubt and in need of assistance, use the player chat channel think net. This is an in-character channel, and to access it simply THINK <what you want to ask>. Your first task should be exploring your surroundings and getting to know the city. From Phaedra, go NORTH 1 Pace, then WEST 1 Pace to arrive at the Stone Toga Inn, a common meeting spot for players on the edge of the Harbor and Forum areas in the city. Here, if you wait a moment, your first newbie quest should appear.
 
 Drovers and workers will stop by from time to time asking for help delivering items to trainers, shops, etc that act as good orientations to important spots in the game world. They will also offer pay when the job is done. These basic, introductory quests can help you find your way around. There are a number of activities you can find by visiting our Newbie Quests page that help build up coin for your character to buy armor, training, and clothing as well as get you around the world.
 
@@ -189,7 +189,7 @@ Various merchants throughout the game world will sell items that you may want to
 **STOCK** - The STOCK command will allow you to see a list of all items a particular shop sells.
 **Seeing a specific item** - You can also ask the shopkeeper to show you something you're interested in. This will give you various properties of the item that will let you decide if it's worth your hard-earned coin.
 > Command:
-> "&lt;NPC Name&gt; Show me &lt;item&gt;
+> "<NPC Name> Show me <item>
 > Example:
 > You say to Sesquiculus, "Show me ration."
 > Sesquiculus shows you a food ration.
@@ -203,7 +203,7 @@ For a list of all shops, what they sell and for how much check out our searchabl
 
 ### Selling Items
 Some shop owners will provide you with coins for items you find in your adventures. Below are a few commands:
-**Getting the value for your item** - You can SHOW &lt;item&gt; to &lt;shopkeeper&gt; to see if they're interested in an item. They'll either give you a price for it or tell you they aren't interested.
+**Getting the value for your item** - You can SHOW <item> to <shopkeeper> to see if they're interested in an item. They'll either give you a price for it or tell you they aren't interested.
 > Command:
 > show torch to Sesquiculus
 > You show a torch to Sesquiculus.
@@ -239,7 +239,7 @@ Senada's Bank is the main bank of Iridine and can be found by using WALK TO BANK
 > The clerk tells you, "Our records show that we are holding a yellow sack, a pile of food rations, a sagum, a necklace, a leather tunic, and a scale whip for you."
 > The clerk tells you, "You have eight talents, thirty-nine cents, twenty denars, and one sterce - 161943 in sens - in your account."
 You can hold a total of ten items in your bank. It's highly suggested to use containers as these items so you can store more in your bank.
-**Withdrawl** To remove coins or items from the bank you simply WITHDRAW &lt;item&gt; for items or WITHDRAW # &lt;currency&gt;. 
+**Withdrawl** To remove coins or items from the bank you simply WITHDRAW <item> for items or WITHDRAW # <currency>. 
 Note: Withdrawing an item costs 25 denars per transaction. 
 > Commands:
 > withdraw 1 talent

@@ -19,10 +19,10 @@ Players request the location of these special property types, but it must be in/
 
 These are useful commands for managing property.
 * holdi?ngs
-* grant &lt;who&gt;
-* revoke &lt;who|all&gt;
-* sell &lt;property name&gt; to &lt;person&gt; for &lt;amount&gt; &lt;coin type&gt;
-* accept &lt;person&gt;
+* grant <who>
+* revoke <who|all>
+* sell <property name> to <person> for <amount> <coin type>
+* accept <person>
 
 See the full list of [commands](/commands/).
 
@@ -73,5 +73,5 @@ Property can be bought/sold in-game directly between players. To do so, you can 
 <u>**Notes**</u>
 * There is a **flat fee of 300d** for all property transfers.
 * The **buyer** of the property is **subject to a city tax** of **10%** (citizens) or **15%** (foreigners), based on the **property's listed value**.
-* To sell property, while use sell &lt;property name&gt; to &lt;person&gt; for &lt;amount&gt; &lt;coin type&gt;.
-* To accept a person's sell offer, use accept &lt;person&gt;.
+* To sell property, while use sell <property name> to <person> for <amount> <coin type>.
+* To accept a person's sell offer, use accept <person>.

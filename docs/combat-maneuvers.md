@@ -135,7 +135,7 @@ Clobris sways to one side to avoid a thug's attack!
 
 </div>
 
-### Combat Guarding  *guard &lt;target&gt;* {#Guard}
+### Combat Guarding  *guard <target>* {#Guard}
 
 This maneuver simple prevents someone from touching or engaging whatever you are guarding. It does not prevent long ranged attacks.
 
@@ -149,7 +149,7 @@ You prevent a fluvitur from getting to a short bronze ladder.
 
 </div>
 
-### Battle Cry  *battlecry &lt;words&gt;* {#Cry}
+### Battle Cry  *battlecry <words>* {#Cry}
 
 This shout adds a slight bonus to your next attack, but is really annoying when overused. Can give a bonus every 20 seconds. Parcine Battlecry trait + Rank 1 = 30 Bonus regardless of stance. Has a 2+MoS roundtime. Parcine Battlecry trait also doubles the regular range of battlecry. More ranks in battlecry will only lower success and does not impact bonus/range.
 
@@ -161,7 +161,7 @@ Rontubius shouts out a battlecry of "Time to die!"
 
 </div>
 
-### Killing Blow  *kill &lt;target&gt;* {#Kill}
+### Killing Blow  *kill <target>* {#Kill}
 
 This maneuver quickly kills an already unconscious opponent. It is affected by lighting and carrying a significant amount of weight, just as attacks are. Different weapons also affect it. A gladius is far easier to kill with than a stave. When you attempt to use killing blow and fail, that doesn't mean you miss. It then acts like your normal attack. Some times it acts up a bit, but generally, it is a good way to finish off an unconscious opponent.
 
@@ -266,7 +266,7 @@ Hroth sways to one side to avoid an archer's attack!
 
 Ranking this skill will raise your ability to naturally defend against Feint type attacks. This skills functionality caps at 75.
 
-### Melee Advance  *advance &lt;Target&gt;* {#Advance}
+### Melee Advance  *advance <Target>* {#Advance}
 
 This skill allows the user to approach a target without needing to manually retreat from other combatants first. 
 
@@ -301,7 +301,7 @@ With enough training in Reflexes, you are able to raise your **[speed](/stats/#S
 
 *(This is a passive skill that improves your speed, reducing your round times and improving your ability to defend.)*
 
-### Offensive Guarding  *detain &lt;target&gt;* {#Offensive-Guarding}
+### Offensive Guarding  *detain <target>* {#Offensive-Guarding}
 
 This skill has been disabled.
 

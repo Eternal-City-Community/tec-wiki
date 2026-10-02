@@ -118,7 +118,7 @@ The cornerstone Herbalism is the ability to make useful products from ingredient
 Ranks in the brewing skills ([Fundamentals](/herbalism/#brew), [Paint](/herbalism/#paint), [Flask](/herbalism/#flask),  [Salve](/herbalism/#salve), [Potion](/herbalism/#potion)) dictate what types of products you can create.
 
 
-Characters use the brew &lt;container&gt; command. The **size of the [container](#Containers)** determines how much product will be made and the quantity of ingredients needed. For the purposes of the **below chart**, **a mixing bowl** will be assumed.
+Characters use the brew <container> command. The **size of the [container](#Containers)** determines how much product will be made and the quantity of ingredients needed. For the purposes of the **below chart**, **a mixing bowl** will be assumed.
 
 <u>**Notes on below tables**</u>
 * ***Ingredients Description** quantity listed is based on **a mixing bowl**. If using a different sized container, multiply or divide the ingredient quantity using the '*Multiplier*' column in the [containers](#Containers) table. If division results in fractions of numbers, round down.

@@ -77,7 +77,7 @@ In several masterful wrist motions, a gladiator brings her arm forward, back and
 
 </div>
 
-### Whip Precise Snap  *psnap &lt;target&gt;* {#PS}
+### Whip Precise Snap  *psnap <target>* {#PS}
 
 The wielder cracks the whip somewhere specific- like an eye, or mouth, or ear, or lips. With a single-bit whip, this will result in minimal damage three times in four, but the fourth will usually be so surprising as to stun the opponent for a few moments.
 
@@ -92,7 +92,7 @@ You curl your wrist into a tight loop, causing your short whip to snap out at a 
 
 </div>
 
-### Whip Simple Strike  *strike &lt;target&gt;* {#SS}
+### Whip Simple Strike  *strike <target>* {#SS}
 
 The most basic lashing strike using the bit of the short whip, simple strike is often used for purposes of flogging and punishment, as well as in combat.
 
@@ -104,7 +104,7 @@ With a fluid back and forth motion, a gladiator strikes at a thug with the tip o
 
 </div>
 
-### Whip Forward Snap  *fsnap &lt;target&gt;* {#FSnap}
+### Whip Forward Snap  *fsnap <target>* {#FSnap}
 
 A sudden forward-snapping motion of the whip that is capable of bypassing a portion of the opponent's defense, similar to the "upswing" type attacks of other weapons. As a result of its defense penetration, this attack is highly accurate.
 
@@ -116,7 +116,7 @@ You swing your scale whip forward and suddenly pull back as it reaches length, s
 
 </div>
 
-### Whip Ankle Trap  *ankle &lt;target&gt;, yank* {#AT}
+### Whip Ankle Trap  *ankle <target>, yank* {#AT}
 
 A specialized short entangle, this is harder to do because of the angle involved, but it is also much harder to defend against than most other entangling maneuvers. If successful, the wielder has a few seconds to *yank* the whip and try to topple her opponent, a contest of balance and strength more than skill. The victim can free himself, if strong enough (*free me*). The snare can be avoided completely by a well-timed jump or leg dodge, but it is nearly impossible to block. The attacker can also release the snare if they so choose (*free whip*).
 
@@ -128,7 +128,7 @@ With a deft wrist motion, a gladiator snaps her short whip downwards at a thug's
 
 </div>
 
-### Whip Neck Trap  *neck &lt;target&gt;, yank* {#NT}
+### Whip Neck Trap  *neck <target>, yank* {#NT}
 
 The wielder lashes her whip forward, attempting to wrap it around the opponent's neck. The attacker can then *yank* the whip to hurt the victim while the whip remains snared. If the entangle is successful, any kind of neck protection is extremely valuable for the victim unfortunate enough to be on the receiving end of the entangle. The victim can free himself, if strong enough (*free me*), or he can choose to continue attacking while snared. However, the latter option may not be wise. A strong whip wielder may throttle her opponent into unconsciousness, or even crush his windpipe. The attacker can also release the snare if they so choose (*free whip*).
 
@@ -140,9 +140,9 @@ In a single rapid motion, a gladiator lashes out at a thug with her short whip. 
 
 </div>
 
-### Whip Slow Entangle  *entangle &lt;target&gt;, yank* {#SE}
+### Whip Slow Entangle  *entangle <target>, yank* {#SE}
 
-The wielder tries to entangle a weapon with about half the whip's length. Only usable in close quarters -- close enough for the opponent to stick a sword in you -- and not very fast, this is unlikely to work unless the opponent is not skilled enough to dodge the snare. If successful, a sharp *yank* of the whip may pull the victim off balance, disarm him, or even fling the weapon completely out of his hands. The wielder of the entangled weapon has a chance to free it as well, but must be quite a bit stronger than the whip wielder (*free &lt;weapon&gt;*).
+The wielder tries to entangle a weapon with about half the whip's length. Only usable in close quarters -- close enough for the opponent to stick a sword in you -- and not very fast, this is unlikely to work unless the opponent is not skilled enough to dodge the snare. If successful, a sharp *yank* of the whip may pull the victim off balance, disarm him, or even fling the weapon completely out of his hands. The wielder of the entangled weapon has a chance to free it as well, but must be quite a bit stronger than the whip wielder (*free <weapon>*).
 
 **When you see this in use you see:**
 
@@ -152,9 +152,9 @@ A gladiator snaps her short whip forward at a thug. The length of her short whip
 
 </div>
 
-### Whip Short Entangle  *short &lt;target&gt;, yank* {#ShortE}
+### Whip Short Entangle  *short <target>, yank* {#ShortE}
 
-This more difficult version of the weapon entangle takes a steady, precise hand to accomplish. The wielder strikes from farther away, attempting to use that distance to surprise her opponent, who probably does not expect to be snared from so far way. This technique uses only the last foot or so of the whip to entangle a spear-shaft, sword blade, or similar exposed part of the opponent's weapon. If it succeeds, it's very hard for the opponent to avoid, very fast, and results in an very tight snare. At this point, a sharp *yank* of the whip can often fling the opponent's weapon completely out of his hands. The wielder of the entangled weapon has a chance to free it, but must be quite a bit stronger than the whip wielder (*free &lt;weapon&gt;*)
+This more difficult version of the weapon entangle takes a steady, precise hand to accomplish. The wielder strikes from farther away, attempting to use that distance to surprise her opponent, who probably does not expect to be snared from so far way. This technique uses only the last foot or so of the whip to entangle a spear-shaft, sword blade, or similar exposed part of the opponent's weapon. If it succeeds, it's very hard for the opponent to avoid, very fast, and results in an very tight snare. At this point, a sharp *yank* of the whip can often fling the opponent's weapon completely out of his hands. The wielder of the entangled weapon has a chance to free it, but must be quite a bit stronger than the whip wielder (*free <weapon>*)
 
 **When you see this in use you see:**
 
@@ -164,7 +164,7 @@ Pulling her wrist above and behind her head before snapping forward suddenly, a 
 
 </div>
 
-### Whip Waist Trap  *waist &lt;target&gt;, yank* {#WT}
+### Whip Waist Trap  *waist <target>, yank* {#WT}
 
 Usable at sword-reach, this maneuver tries to wrap the whip all the way around the opponent's waist. The victim can free himself, if strong enough (*free me*). It is very unlikely to pin or trap an arm, and as a result the opponent can often continue attacking. However, if the wielder gives her whip a sharp *yank* it may pull her opponent off balance or even onto his knees, while still maintaining the snare around the waist. The attacker can also release the snare if they so choose (*free whip*).
 
@@ -176,7 +176,7 @@ The length of her short whip wraps around a thug's waist, binding him tightly.
 
 </div>
 
-### Whip Face Strike  *facestrike &lt;target&gt;* {#FS}
+### Whip Face Strike  *facestrike <target>* {#FS}
 
 The wielder uses the last foot of the whip to snap a vicious lashing arc across the target's face. Usable only at a distance, it is very useful for distracting and causing extreme pain to an opponent. Obviously, it can only be used against targets with some kind of face and head.
 
@@ -188,7 +188,7 @@ With a deft wrist motion, a gladiator snaps her short whip overhead at a thug, t
 
 </div>
 
-### Whip Lykatos' Scourge  *scourge &lt;target&gt;* {#LS}
+### Whip Lykatos' Scourge  *scourge <target>* {#LS}
 
 This ancient technique is a variation of Triple Crack and similar lashing attacks, causing multiple cuts on an opponent's upper body almost instantaneously. Stunning in the arena and frightening elsewhere, it is an extremely difficult series of attacks to block or dodge, and has often signaled the end of an intense battle in the arena for the unfortunate foe that is on the receiving end of the scourge.
 
@@ -200,7 +200,7 @@ A gladiator brings her arm forward, back and forward again, lashing her short wh
 
 </div>
 
-### Whip Flick Strike  *flick &lt;target&gt;* {#FlickS}
+### Whip Flick Strike  *flick <target>* {#FlickS}
 
 After learning the basic method of using one's whole arm to cause the whip to crack, the wielder learns how to shorten the necessary movement until all that is needed is her forearm and wrist. The result is a quick, snap-like attack which is extremely fast, but at the same time extremely hard to control. Failure can result in self-inflicted wounds as the poorly-controlled whip cuts its wielder. Flick Strike cannot be aimed. The location it strikes is entirely random. It is weaker than Simple Strike, but much faster. Because of this speed, Flick Strike is harder to block than Simple Strike.
 
@@ -212,7 +212,7 @@ Flicking her wrist and forearm, a gladiator quickly snaps her short whip at a th
 
 </div>
 
-### Whip Sky Circle Stance  *scircle &lt;target&gt;* {#SC}
+### Whip Sky Circle Stance  *scircle <target>* {#SC}
 
 This iconic motion is easy to learn, and most experienced whip users can pull it off with little effort. Twirling the arm from the elbow, the wielder creates a spinning circle above her head. Though it can be used to impress small children, this technique's usefulness lies in the attacks that can be spun off of it. A whip wielder who has mastered this stance can assume it instantaneously as part of the motion of any other Sky Circle attack. This can be a deal breaker in a fight, when those few seconds saved could mean the difference between victory or defeat. Grand masters of this stance often maintain it even while using other maneuvers, always ready to rain down a terrifying Sky Circle slash, scourge, or rake on their foes.
 
@@ -226,7 +226,7 @@ With a graceful motion of the wrist, a gladiator twirls her short whip until the
 
 </div>
 
-### Whip Sky Circle Slash  *cslash &lt;target&gt;* {#SCS}
+### Whip Sky Circle Slash  *cslash <target>* {#SCS}
 
 With the whip's lashing end twirling in a circle above the head, the wielder gradually expands the size of the arc while increasing the speed, and therefore the cutting power, of the whip's length. The wielder directs the arc towards her target, resulting in a painful slashing strike that is extremely hard to defend against. This maneuver can only be performed after the wielder has assumed the Sky Circle Stance. It is aimed high by default but can also be aimed at the mid. It cannot be aimed low, nor is it accurate enough to be aimed at specific body parts.
 
@@ -238,7 +238,7 @@ A gladiator expands her short whip's twirling circle into a powerful slash aimed
 
 </div>
 
-### Whip Sky Circle Rake  *crake &lt;target&gt;* {#SCR}
+### Whip Sky Circle Rake  *crake <target>* {#SCR}
 
 This is an advanced variation of other more common Sky Circle maneuvers. With the whip twirling above him, the wielder, instead of expanding the arc, kneels down and draws the spinning circle tighter. At a precise moment, she lets it spin out of control, raking the target's lower body with up to two damaging strokes. This maneuver can only be performed after the wielder has assumed the Sky Circle Stance. This attack can only be aimed low and it is not accurate enough to be aimed at specific body parts.
 
@@ -250,7 +250,7 @@ A gladiator kneels down, pulling the twirling circle of her short whip around he
 
 </div>
 
-### Whip Sky Circle Scourge  *scscourge &lt;target&gt;* {#SCScourge}
+### Whip Sky Circle Scourge  *scscourge <target>* {#SCScourge}
 
 One of the most advanced variations of the sky circle techniques, Sky Circle Scourge requires extensive knowledge of both Sky Circle Slash and Sky Circle Rake. Once the whip user has established a good twirling motion with her whip, she moves aggressively towards her opponent, stepping forward towards them and twirling in place with each diagonal slash, while continuing the rapid twirling motion of the whip. The result is a very fast and powerful series of up to three slashes that rake the opponent. This attack is traditionally and most easily aimed high, but may be aimed toward the middle or lower areas of the opponent if enough extra effort is put forth. It is not accurate enough to aim at specific body parts.
 

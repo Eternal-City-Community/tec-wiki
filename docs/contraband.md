@@ -80,7 +80,7 @@ The size of the tear you collect from the amphora will vary depending on how lon
 ### Hoods
 Following the assassination of a Senator, garments that exist for the sole purpose of hiding one's identity have been deemed illegal to possess. The hooded cloak, unlike a regular cloak, possesses a hood that can be pulled to cover one's face.
 
-When wearing a hooded cloak, simply use the pull &lt;hooded cloak&gt; command to conceal your identity. You can also use the push &lt;hooded cloak&gt; command to reveal your identity.
+When wearing a hooded cloak, simply use the pull <hooded cloak> command to conceal your identity. You can also use the push <hooded cloak> command to reveal your identity.
 
 The sole possession of a hooded cloak is considered a crime (possession of contraband) and the Phoenix Guards will automatically attempt to seize such an item from your person.
 

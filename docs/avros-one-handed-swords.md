@@ -55,7 +55,7 @@ Dreggo sweeps one foot back and spreads his legs slightly, keeping his weapon ar
 
 </div>
 
-### Avros Rapid Strike  *rstrike &lt;target&gt;* {#Rapid}
+### Avros Rapid Strike  *rstrike <target>* {#Rapid}
 
 The wielder makes a chopping strike with exceptional speed and surety. If successful, this maneuver amounts to a very fast, very strong chop. If the strike is blocked or if it misses, however, the chance of losing one's weapon is higher—high enough to be a real possibility. Trading grip for speed can be dangerous.
 
@@ -69,7 +69,7 @@ With blinding speed, Dreggo chops down his gladius in a blow aimed at a thug! He
 
 </div>
 
-### Avros Forced Thrust  *fthrust &lt;target&gt;* {#Forced}
+### Avros Forced Thrust  *fthrust <target>* {#Forced}
 
 The wielder strikes with the middle of his blade, trying to hit the enemy's weapon, but not to knock it aside. The follow-through of this maneuver is a wrist-flip that, if successful, results in a low-strength Slashing Strike that cannot be blocked with the opponent's main weapon. Failure leaves the wielder off-guard and off-balance, so against quick opponents this is not very safe.
 
@@ -84,7 +84,7 @@ Dreggo pushes forward with the center of his gladius, catching a thug's tin dagg
 
 </div>
 
-### Avros Needle Strike  *needlestrike &lt;target&gt;* {#Needle}
+### Avros Needle Strike  *needlestrike <target>* {#Needle}
 
 Stepping towards the target sideways to present a narrower target, the Avros practitioner delivers a series of light but very rapid jabs. Lesser opponents are often very intimidated by this maneuver, overwhelmed by the sheer number of attacks. More experienced opponents will have learned to treat the range of jabs as "one" thrust, and block accordingly.
 
@@ -98,7 +98,7 @@ Extending his gladius in one arm, Dreggo steadily steps sideways towards a thug,
 
 </div>
 
-### Avros Stab and Slash  *sslash &lt;target&gt;* {#Stab}
+### Avros Stab and Slash  *sslash <target>* {#Stab}
 
 The wielder is now fast and skilled enough to turn a stab into a slash halfway through without really thinking about it. The wielder drags the blade out at a perfect angle instead of straight, resulting in an additional cutting attack.
 
@@ -112,7 +112,7 @@ Stabbing a thug suddenly with his gladius, Dreggo draws his arm back halfway and
 
 </div>
 
-### Avros Whirling Strike  *whirl &lt;target&gt;* {#Whirling}
+### Avros Whirling Strike  *whirl <target>* {#Whirling}
 
 The wielder whirls around, extending his sword arm, and chops with all the accumulated momentum at the opponent. If it fails, the wielder may end up pivoting to one side, leaving his flank unguarded and creating an opening.
 
@@ -128,7 +128,7 @@ Extending his gladius in one hand, Dreggo whirls around as he steps towards a th
 
 </div>
 
-### Avros Strike and Smash  *smash &lt;target&gt;* {#Strike}
+### Avros Strike and Smash  *smash <target>* {#Strike}
 
 The wielder slashes diagonally, top to bottom, trying to knock aside the opponent's weapon or draw it down, as he steps forward. With his sword-arm's shoulder, he delivers a body-check. If successful, this attack knocks the opponent back and off-balance, sometimes down. If unsuccessful, the maneuver leaves the wielder off-balance and facing in the wrong direction for a moment.
 
@@ -146,7 +146,7 @@ Chopping quickly with his gladius, Dreggo manages to knock down a thug's tin dag
 
 </div>
 
-### Avros Pivot Lunge  *pivot &lt;target&gt;* {#Pivot}
+### Avros Pivot Lunge  *pivot <target>* {#Pivot}
 
 The wielder pivots ninety degrees to the left or right. At the same time, he stabs in that direction and steps in behind the blade. This maneuver is useful in situations wherein the wielder is surrounded by opponents. This flanking attack allows him to place his target between him and the other attackers, in effect "retreating" from everyone except the target.
 
@@ -161,7 +161,7 @@ Twirling as he pivots quickly to one side, Dreggo makes a sudden lunge with his 
 
 </div>
 
-### Avros Flailing Defense  *distract &lt;target&gt;* {#Flailing}
+### Avros Flailing Defense  *distract <target>* {#Flailing}
 
 The wielder begins flailing his gladius in front of him like a bladed baton (still holding it by the handle, of course). The rapidly-moving blade is a distraction to an unskilled opponent, and if the opponent is really inexperienced, the next attack the wielder attempts gets a large bonus. If the opponent is of near-equal or superior skill, however, his next attack or block gets the bonus instead. Instructors often use this to demonstrate the value of focus to their pupils.
 
@@ -174,7 +174,7 @@ With a tight grip on his tin gladius's handle, Dreggo rapidly waves it just in f
 
 </div>
 
-### Avros Flinging Disarm  *fling &lt;gladius&gt;* {#Flinging}
+### Avros Flinging Disarm  *fling <gladius>* {#Flinging}
 
 Used in situations wherein the wielder's gladius has been grappled by another, this technique allows him to reverse the situation, free his blade, and cause his opponent to lose his grip on his weapon. Through a circular movement, the wielder extricates the gladius and forces the opponent's weapon out of the center line, leaving the opponent vulnerable. This technique relies more on skill and dexterity rather than strength.
 
@@ -186,7 +186,7 @@ With a sudden twist, you fling your retalq gladius to the side, freeing it and k
 
 </div>
 
-### Avros Sunrise Block  *fling &lt;gladius&gt;* {#Sunrise}
+### Avros Sunrise Block  *fling <gladius>* {#Sunrise}
 
 A sweeping block from the left-to-right (reversed if left handed), this maneuver is more effective than simple and crosswise blocks. Knowing this technique enhances the practitioner's defense against all forms of slashing or "horizontal" attacks.
 

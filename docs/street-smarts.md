@@ -62,7 +62,7 @@ parent: skills
 
 ### Skill Details
 
-### Graffiti  *graffiti &lt;wall&gt; &lt;text&gt;* {#Graffiti}
+### Graffiti  *graffiti <wall> <text>* {#Graffiti}
 
 For the respectable folk, graffiti is an aesthetically displeasing, distasteful stain on the otherwise dignified marble of the metropolis. For the city official, graffiti is a logistical nightmare, difficult to get rid of and impossible to squelch completely. But for those who with neither respect nor power, it is one of the few means of expression available. Whether the message be personal, political, or simply a cry for attention, what can be better than a naked wall for a canvas and the whole city for an audience?
 
@@ -86,7 +86,7 @@ TBC
 
 </div>
 
-### Gang Markings  *gmark &lt;wall&gt; &lt;text&gt;* {#Gang-Markings}
+### Gang Markings  *gmark <wall> <text>* {#Gang-Markings}
 
 Just as the gangs have their own distinct lingo and clothing, they also have their own distinct symbols for communication. Gang markings are particularly social in nature, messages directed to other members of your own gang. It is also a means of marking territory, and letting trespassers know full well that they have just stepped on someone else's turf.
 
@@ -109,7 +109,7 @@ TBC
 
 </div>
 
-### Stash  *stash &lt;item&gt;* {#Stash}
+### Stash  *stash <item>* {#Stash}
 
 Survival is not merely about acquisition. Survival is also hanging onto what is already yours. Not everyone in the Steps has the luxury of the bank or a nice, secure home (if such a thing really exists). Instead, many of the district's residents have learned how to make use of the smallest niches, cracks, and hidden potholes to stash their goods. Every thief, be it a professional burglar or a young pickpocket, knows the value of a good stash to keep their wares until they can be hocked. Even the street urchins learn how to hide food and trinkets from those who are even more desperate than they are.
 
@@ -128,7 +128,7 @@ Stash allows you to hide your treasured items out of sight. You will always be a
 
 </div>
 
-### Find Stash  *search [&lt;place&gt;]* {#Find-Stash}
+### Find Stash  *search [<place>]* {#Find-Stash}
 
 While any idiot with a good memory can find a stash that he made himself, digging up what other people have hidden takes a keen eye and a sharp intuition. Anyone can search an area for a stash, but it takes experience to know what to look for.
 
@@ -168,7 +168,7 @@ Mimic Signpost allows you to attempt to **blend in with a crowd**. People enteri
 
 </div>
 
-### Steps Cant  *cant &lt;target&gt; &lt;message&gt;* {#Steps-Cant}
+### Steps Cant  *cant <target> <message>* {#Steps-Cant}
 
 Discretion is a prerequisite to survival in the Steps. Living is knowing who to clip and who to avoid, when to draw a blade and when to run. Sometimes its as simple as when to open your mouth and when to keep it shut. Naturally, the means to communicate silently is a useful skill in such an environment, necessary to many of the 'professions' that prosper in the district.
 
@@ -205,7 +205,7 @@ While certain actions will automatically reveal you, you can also use the **unhi
 
 </div>
 
-### City Sneaking  *sneak &lt;direction&gt;* {#City-Sneaking}
+### City Sneaking  *sneak <direction>* {#City-Sneaking}
 
 Stalking silently is as ancient and instinctive as the relationship between predator and prey. In the grimy urban alleyway, the fundamentals are the same. Whether you are closing unnoticed upon your victim, or slipping away in your escape, what is critical is moving without being noticed.*
 

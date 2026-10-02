@@ -59,7 +59,7 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 
 ### Skill Details
 
-### Knife Stab  *stab &lt;target&gt;* {#Stab}
+### Knife Stab  *stab <target>* {#Stab}
 
 Using the pointy end of the knife, you stab at the opponent.
 
@@ -71,7 +71,7 @@ Hatrin makes a quick stabbing motion at a thug with his dagger, but misses.
 
 </div>
 
-### Knife Slash  *slash &lt;target&gt;* {#Slash}
+### Knife Slash  *slash <target>* {#Slash}
 
 You swing the blade horizontally at the opponent, in an attempt to cut them.
 
@@ -83,7 +83,7 @@ Maerodus slashes horizontally at a thug with the tip of his tin dagger, but miss
 
 </div>
 
-### Knife Overhead Strike  *strike &lt;target&gt;* {#Strike}
+### Knife Overhead Strike  *strike <target>* {#Strike}
 
 A lot like stab, but it is easier to hit with, and causes less damage.
 
@@ -95,7 +95,7 @@ Aiming for a thug's torso, Dreggo brings down his tin dagger to bear in a downwa
 
 </div>
 
-### Knife Chop  *chop &lt;target&gt;* {#Chop}
+### Knife Chop  *chop <target>* {#Chop}
 
 Like gladius chop, except slightly weaker, you chop down at your opponent's head and shoulders. This attack is always aimed high
 
@@ -107,7 +107,7 @@ Maerodus brings down his dagger in a chopping motion aimed at a thug, but misses
 
 </div>
 
-### Knife Step and Lunge  *lunge &lt;target&gt;* {#Lunge}
+### Knife Step and Lunge  *lunge <target>* {#Lunge}
 
 The wielder tries to approach the opponent and execute a stab in one step. If this attack is blocked, you will still find yourself too far away to make a close-range attack.
 
@@ -119,7 +119,7 @@ Gilven lunges forward a step, stabbing a thug with his knife! A thug suffers a f
 
 </div>
 
-### Knife Jab  *jab &lt;target&gt;* {#Jab}
+### Knife Jab  *jab <target>* {#Jab}
 
 The same principle as gladius jab, you jab at the opponent with the pointy end of the knife. It is a simple attack.
 
@@ -143,7 +143,7 @@ Vitrus blocks a thug's dagger this the blade of his dagger.
 
 </div>
 
-### Knife Feint  *feint &lt;target&gt;* {#Feint}
+### Knife Feint  *feint <target>* {#Feint}
 
 The wielder attempts to feint an attack with the blade in order to get his opponent to lower his guard. The difficulty for a feint to be used is dependent on the opponents overall fighting ability and combat posture, a less skilled or more defensive opponent will fall for a feint easier then a more skilled, berserking warrior.
 
@@ -179,7 +179,7 @@ With a sideways, crossing motion, Hatrin blocks a thug's tin dagger with the bla
 
 </div>
 
-### Knife Stealthy Draw  *draw &lt;weapon&gt;* {#Draw}
+### Knife Stealthy Draw  *draw <weapon>* {#Draw}
 
 This technique allows one to pull out a small bladed weapon (dirk, dagger, or knife) and wield it without anyone noticing. Total success means it is not seen and is performed swiftly and silently. Failure means that it is seen, with a slight chance of bumbling the whole process and dropping the weapon. A total failure, that is a person clutching the wrong end of the dirk, dropping it, and cutting himself in the process, has never happened. At least, no one has ever admitted doing it. (If the draw fails or marginally succeeds then the chances of others seeing it depends on their individual perception attribute).
 
@@ -214,7 +214,7 @@ Vitrus attempts to spin a dagger but it comes out as clumsy and slow.
 
 </div>
 
-### Knife Push Aside  *pushaside &lt;target&gt;* {#Pa}
+### Knife Push Aside  *pushaside <target>* {#Pa}
 
 This maneuver is an attempt to force the opponent's weapon out of line using the dirk's quillions. Successful performing of the maneuver means the opponent temporarily loses grip on their weapon and is disarmed. In extreme cases, and only if the wielder is particularly skilled, this technique may actually fling the opponent's weapon away from him. Of course, you can only use this skill if the target must be wielding a weapon.
 
@@ -226,7 +226,7 @@ Dreggo throws his weight towards a thug, ineffectually pushing upwards with the 
 
 </div>
 
-### Knife Round Strike  *round &lt;target&gt;* {#Round}
+### Knife Round Strike  *round <target>* {#Round}
 
 This attack, similar to other round strikes in principle, attempts to bypass a defender's block using a deft twirling motion of the dirk. Because the power of the thrust is less concentrated, it does less damage then a regular thrusting attack. If the opponent doesn't try a block, this is just a fancy-looking jab. The nimbleness of short blades makes the rounding strike technique easier then with other weapons.
 
@@ -240,7 +240,7 @@ With an agile movement of the wrist, Maerodus whirls his dagger while lunging fo
 
 </div>
 
-### Knife Underhand Stab  *ustab &lt;target&gt;* {#Ustab}
+### Knife Underhand Stab  *ustab <target>* {#Ustab}
 
 This strike is just like Overhead Strike,except that if it gets through the opponent's defenses, it is more likely to hit him in the guts or heart, and therefore more likely to kill him or put him out of commission. Stabbing someone in the head and shoulders just isn't as effective. This technique can be among the most damaging available, however it can only be directed towards the most vital areas of the chest and waist, and so is less useful against a heavily armored opponent.
 
@@ -254,7 +254,7 @@ Tightly gripping his dagger, Dreggo makes a quick underhand stab aimed at you, b
 
 </div>
 
-### Knife Whirling Slash  *whirlslash &lt;target&gt;* {#Whirl}
+### Knife Whirling Slash  *whirlslash <target>* {#Whirl}
 
 The wielder whirls all the way around, then a little further, dragging the dirk's blade across the opponent's body on the way by. If the initial attack succeeds, a second check is made whether the wielder gets in another strike. If the second slash is successful, it inflicts about twice the damage as usual. The better the wielder is in basic slash, the easier it is to begin a whirling slash and the greater the chance of a second slash succeeding. Because of the nature of the attack, it can only be aimed at areas of the body, not specific parts.
 
@@ -266,7 +266,7 @@ Gilven takes a step back while gripping his blade tightly and begins a spinning 
 
 </div>
 
-### Knife Stab and Slash  *doublecut &lt;target&gt;* {#Dc}
+### Knife Stab and Slash  *doublecut <target>* {#Dc}
 
 The wielder tries a standard Stab, but follows through, if it hits, with an automatic Slashing attack. The initial stab must succeed in order for the follow-up slash to take place and each stage is greatly affected by the wielder's proficiency in the corresponding skill.
 
@@ -278,7 +278,7 @@ Dreggo tightly grips his dagger. Stepping towards a thug, he then lunges a stab 
 
 </div>
 
-### Knife Flicking Feint  *flick &lt;target&gt;* {#Flick}
+### Knife Flicking Feint  *flick <target>* {#Flick}
 
 A feinting maneuver where the attacker flicks their weapon at their target, bouncing it off them before catching it again. Not only does it put the target off guard, but it also effectively stuns them. If the feint isn't effective, the attacker will drop their weapon.
 

@@ -80,7 +80,7 @@ This attack is relatively easy to land, but more often than not does little more
 
 </div>
 
-### Pardelian Shield Charge  *scharge &lt;target&gt;* {#ShieldCharge}
+### Pardelian Shield Charge  *scharge <target>* {#ShieldCharge}
 
 With shield pressed to shoulder, a Pardelian attempts to quickly close ground with a foe using this charge, and inflict damage with the impact.  A slight misstep can result in one losing their own balance and landing face first into the dirt.
 
@@ -94,7 +94,7 @@ With shield pressed to shoulder, a Pardelian attempts to quickly close ground wi
 
 </div>
 
-### Pardelian Hidden Thrust  *hthrust &lt;target&gt;* {#HT}
+### Pardelian Hidden Thrust  *hthrust <target>* {#HT}
 
 Hidden Thrust is a mid-aiming stabbing attack, used by Pardelians to particularly deadly effect by being hidden behind a wall shield until late in the maneuver.  Foes often do not have enough time to mount a defense before this blow comes to bear.
 
@@ -108,7 +108,7 @@ Hidden Thrust is a mid-aiming stabbing attack, used by Pardelians to particularl
 
 </div>
 
-### Pardelian Killing Thrust  *kthrust &lt;target&gt;* {#KT}
+### Pardelian Killing Thrust  *kthrust <target>* {#KT}
 
 For decisive damage, a Pardelian can attempt this devastatingly heavy thrust. The user must be wary of many factors - including that only fallen foes may be struck in this way, and that an improperly prepared Pardelian will find her or himself vulnerable, too.
 
@@ -123,7 +123,7 @@ For decisive damage, a Pardelian can attempt this devastatingly heavy thrust. Th
 
 </div>
 
-### Pardelian Lion's Gambit  *gambit &lt;target&gt;* {#LG}
+### Pardelian Lion's Gambit  *gambit <target>* {#LG}
 
 The cost of attempting this quick, lunging shift to a berserk stance is great - the Pardelian must drop the wielded wall shield entirely, and will soon find him or herself out of stance.
 
@@ -138,7 +138,7 @@ The cost of attempting this quick, lunging shift to a berserk stance is great - 
 
 </div>
 
-### Pardelian Reaper Slash  *reaper &lt;target&gt;* {#RS}
+### Pardelian Reaper Slash  *reaper <target>* {#RS}
 
 This is a mid-aiming slash often used by a Pardelian to cut a foe down to size despite wide attacks being an oddity for a shield wall.  The heavy slash comes in from the right or left depending on the wielder's dominant hand.
 
@@ -152,7 +152,7 @@ This is a mid-aiming slash often used by a Pardelian to cut a foe down to size d
 
 </div>
 
-### Pardelian Ankle Thrust  *ankle &lt;target&gt;* {#AT}
+### Pardelian Ankle Thrust  *ankle <target>* {#AT}
 
 A well-timed ankle thrust, often resulting in a crippling wound is something that can turn the tide of a battle.  Even though this thrust attempts to take advantage of fighter's frequent deficiencies in low defenses, this strike is notoriously difficult to land.
 
@@ -166,7 +166,7 @@ A well-timed ankle thrust, often resulting in a crippling wound is something tha
 
 </div>
 
-### Pardelian Shield Sap  *ssap &lt;target&gt;* {#ShieldSap}
+### Pardelian Shield Sap  *ssap <target>* {#ShieldSap}
 
 Similar to Slash and Sap, this attack is favored due to it's ability to leave an opponent dazed and vulnerable.  Instead of striking with the pommel the wielder strikes with the boss of their shield.  Against a heavy helmet, this attack's effectiveness is reduced greatly.
 
@@ -198,7 +198,7 @@ Slash and sap is a favorite among soldiers due to it's good chance to daze an op
 
 </div>
 
-### Pardelian Tag and Strike  *tag &lt;target&gt;* {#TS}
+### Pardelian Tag and Strike  *tag <target>* {#TS}
 
 In the right hands, this attempts to be a fast, if weak jab at an opponent. When it fails, it becomes a flimsy diversion for a follow-up slash that will graze skin.
 

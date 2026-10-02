@@ -22,14 +22,14 @@ The Aestivan League is purported to have a history as long as Iridine's, and som
 [This character receives a bonus to Spear Throw, and can use the skill untrained.]
 
 
-Usage: throw &lt;spear&gt; at &lt;target&gt; 
+Usage: throw <spear> at <target> 
 
 #### Aestiva Signalfire Lore
 Men and women of the Aestivan League enjoy a life of well planned order. Many travelers to their lands even feel bewilderment as each street and building is laid with repetitive lines and precise orientation. This level of order does not come naturally, and the wilds of nature must be cut back according to the engineer's plans. Aestivan scouts and surveyors take clean measurements, marking lines for s with towering bonfires on the horizon. Whatever scrub and brush cannot be used for building materials serve a purpose lighting the way.
 
 [This character can light bonfires out of suitable quantities of wooden items.]
 
-Usage: light &lt;group of wooden items&gt; 
+Usage: light <group of wooden items> 
 
 ## Altene
 
@@ -37,7 +37,7 @@ Usage: light &lt;group of wooden items&gt;
 Crafting an Altene Fangstave is as much making a weapon as making a statement of defiance. When Alterod ordered his army to craft them he knew true desperation and he knew how helpless an unarmed warrior felt. Every Altene child is taught to craft a fangstave, for it is part of their heritage and so they might face their death always prepared. Making one requires a blade to be drawn along the last six inches of the sapling, sharpening it into a point.
 [This character receives a bonus to crafting fangstaves, and can use Craft Basic Stave untrained.]
 
-Usage: craft fangstave [from] &lt;sapling&gt;
+Usage: craft fangstave [from] <sapling>
 
 AND
 
@@ -45,7 +45,7 @@ When the Altene people encountered the fire of Erai'theran, they hardened into t
 
 [This character has the ability to temper fangstaves, increasing their lethality in combat.]
 
-Usage: temper &lt;fangstave&gt; [in] &lt;fire&gt; 
+Usage: temper <fangstave> [in] <fire> 
 
 #### Altene Oath Lore
 From the common craftsman to the finest mercenaries, Altenes are raised with a stern code of honor which is religiously adhered to. Its tenets are few and simple: an Altene, above all else, must honor their word, employer, and people. Even considering breaking a contract is a bad thing, and the word 'oathbreaker' can and has caused tavern brawls when flung carelessly. Due to this tradition, Altenes are often well paid for their devotion to duty.
@@ -62,7 +62,7 @@ Any Cineran worth their salt carry at all times on their person, a small blade o
 [This character receives a bonus to Knife Stealthy Draw, and can use the skill untrained.]
 
 
-Usage: draw &lt;small bladed weapon&gt; 
+Usage: draw <small bladed weapon> 
 
 #### Cinera Dominance Lore
 The nation of Cinera is a place where the the strong pitilessly prey on the weak and relationships of power and slavery are the basis of society. Cinerans own and are owned by others in a hierarchy from the lowest commoner to the most powerful warlord. In this warlike society, feats of arms are a person's greatest assets and gauging your opponent's strength can be a matter of survival.
@@ -71,7 +71,7 @@ The nation of Cinera is a place where the the strong pitilessly prey on the weak
 [This character receives a bonus to Assess Target, and can use the skill untrained.]
 
 
-Usage: combatassess &lt;target&gt; 
+Usage: combatassess <target> 
 
 ## Gadaene
 
@@ -82,7 +82,7 @@ While known to the outside world as a colorful, fun-loving people, the kingdom o
 [This character receives a bonus to picking out healer's stitches.]
 
 
-Usage: pick stitches from &lt;body part&gt; 
+Usage: pick stitches from <body part> 
 
 #### Gadaene Toss Lore
 A superbly imaginative and individualistic people, the kingdom of Gadaene thrives on exuberance and flashiness. Gadaenes live for the moment, in constant motion towards the next experience. Entertainers such as musicians, poets, and actors flourish, and many a festiv include juggling and tossing attractions into their act.
@@ -91,7 +91,7 @@ A superbly imaginative and individualistic people, the kingdom of Gadaene thrive
 [This character receives a bonus when throwing ordinary objects.]
 
 
-Usage: throw &lt;item&gt; at &lt;target&gt; 
+Usage: throw <item> at <target> 
 
 ## Iridine
 
@@ -101,7 +101,7 @@ Iridine is a nation fueled by industry, intrigue, and war. While the common head
 
 [This character receives a bonus to Bandage Wound, and can use the skill untrained.]
 
-Usage: bandage &lt;body part&gt; with bandage 
+Usage: bandage <body part> with bandage 
 
 
 #### Iridine Protection Lore
@@ -111,7 +111,7 @@ Iridine is a great and growing center of trade and the capital of the small but 
 [This character receives a bonus to Combat Guarding, and can use the skill untrained.]
 
 
-Usage: guard &lt;target&gt; 
+Usage: guard <target> 
 
 #### Iridine Road Lore
 Through Quartz Heights, the Sandbar, and even to Blackvine and Seld, Iridine is a nation that favors civil works and the construction of roads to carry men, women, and goods where they need to be. Iridine natives have an intimate working knowledge of these roads, and as such can recall many destinations throughout the city and nearby Republic.
@@ -120,7 +120,7 @@ Through Quartz Heights, the Sandbar, and even to Blackvine and Seld, Iridine is 
 [This character may record additional markable destinations for use with the 'walk to' command.]
 
 
-Usage: mark &lt;destination name&gt;, walk to &lt;destination name&gt; 
+Usage: mark <destination name>, walk to <destination name> 
 
 #### Republic Country Cooking Lore
 People of the Republic of Iridine who don't live in the capitol tend to make due without fancy creature comforts, for the most part. Being able to cook for one's self is a point of pride for those who live in the country, and you're no exception.
@@ -129,7 +129,7 @@ People of the Republic of Iridine who don't live in the capitol tend to make due
 [This character receives a bonus to Basic Camp Cooking, and can use the skill untrained.]
 
 
-Usage: cook &lt;raw food item&gt; 
+Usage: cook <raw food item> 
 
 #### Republic Rough It Lore
 People of the Republic of Iridine, who don't live in the capitol tend to make due without fancy creature comforts, for the most part. Being able to make a simple snare is a point of pride for those who live in the country, and you're no exception.
@@ -159,7 +159,7 @@ In proper Iridine society, those known as the Undone are considered the scourge 
 
 [This character can identify a shrine's patron deity.]
 
-Usage: inspect &lt;shrine&gt;
+Usage: inspect <shrine>
 
 ## Parcines
 
@@ -170,7 +170,7 @@ Centuries ago, the people of Parcines were driven from the plains where they dwe
 [This character receives a bonus to Battle Cry.]
 
 
-Usage: battlecry &lt;text&gt; 
+Usage: battlecry <text> 
 
 #### Parcines Warclub Lore
 After being driven into the Blackroot mountains by Iridine's efficient legions, the people of Parcines had to cope with a new land and climate. The next time the legions returned, however, Parcines was ready. The mountains inspired new weapons and tactics which proved Parcines too fierce for Iridine to subjugate. Today, the crafting of clubs designed for war is still passed down from parent to child in a coming-of-age tradition.
@@ -179,7 +179,7 @@ After being driven into the Blackroot mountains by Iridine's efficient legions, 
 [This character receives a bonus to Craft Basic Club, and can use the skill untrained.]
 
 
-Usage: craft club from &lt;branch or leg bone&gt;
+Usage: craft club from <branch or leg bone>
 
 ## Remath
 
@@ -190,7 +190,7 @@ A small nation resting in the shadow of growing Cineran influence, Remath mainta
 [This character receives a bonus to learning languages.]
 
 
-Usage: echo &lt;language tutor&gt; 
+Usage: echo <language tutor> 
 
 #### Remath Tea Lore
 While the accomplishments of Remathen foresters and herbalists are well known throughout the nations that share with them the bonds of diplomacy and trade, a simple one has earned great regard from even the head count of Iridine -- her teas. Queen Alinissa Condaia herself has been noted sipping from a cup of Remathen tea whilst pondering her next venture as tea varieties of all prices make their way across the border as exports. Some Remathens claim sipping a fine tea can be even more satisfying than a hearty meal.
@@ -199,7 +199,7 @@ While the accomplishments of Remathen foresters and herbalists are well known th
 [This character's hunger, as well as thirst, can be satiated by drinking tea.]
 
 
-Usage: sip &lt;tea&gt; 
+Usage: sip <tea> 
 
 ## Safelands
 
@@ -250,7 +250,7 @@ Tucheans value wealth, beauty, and power above all else. Many recall the great c
 [This character receives a bonus to Killing Blow, and can use the skill untrained.]
 
 
-Usage: kill &lt;target&gt; 
+Usage: kill <target> 
 
 ## Windward
 
@@ -270,4 +270,4 @@ The island of Windward has an expansive coastline, rich with the bounty of the s
 [This character receives a bonus to Pole Fishing.]
 
 
-Usage: cast &lt;pole&gt;
+Usage: cast <pole>

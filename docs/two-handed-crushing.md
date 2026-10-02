@@ -59,7 +59,7 @@ The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
 </div>
 
-### 2H Crushing Chop  *chop &lt;target&gt;* {#chop}
+### 2H Crushing Chop  *chop <target>* {#chop}
 
 Can be used melee or ranged.
 
@@ -73,7 +73,7 @@ This can be aimed High.
 
 </div>
 
-### 2H Crushing Swat  *swat &lt;target&gt;* {#swat}
+### 2H Crushing Swat  *swat <target>* {#swat}
 
 This can be aimed High, Mid & Low.
 
@@ -85,7 +85,7 @@ This can be aimed High, Mid & Low.
 
 </div>
 
-### 2H Crushing Haft Snap  *hafts?nap &lt;target&gt;* {#haftsnap}
+### 2H Crushing Haft Snap  *hafts?nap <target>* {#haftsnap}
 
 Can be used melee or ranged.
 
@@ -99,7 +99,7 @@ This can be aimed High, Mid & Low.
 
 </div>
 
-### 2H Crushing Head Thrust  *hthrust &lt;target&gt;* {#hthrust}
+### 2H Crushing Head Thrust  *hthrust <target>* {#hthrust}
 
 Requires being in Smasher Stance to use.
 
@@ -115,7 +115,7 @@ This can be aimed High, Mid & Low.
 
 </div>
 
-### 2H Crushing Forward Slam  *fslam &lt;target&gt;* {#fslam}
+### 2H Crushing Forward Slam  *fslam <target>* {#fslam}
 
 A windup move that can possibly knock your opponent away from you. This can be followed by Charging Smash to reapproach.
 
@@ -131,7 +131,7 @@ A thin sailor retreats.
 
 </div>
 
-### 2H Crushing Charging Upswing  *charge &lt;target&gt;* {#charge}
+### 2H Crushing Charging Upswing  *charge <target>* {#charge}
 
 Must be used after forward slam.
 
@@ -145,7 +145,7 @@ This cannot be aimed.
 
 </div>
 
-### 2H Crushing Vital Crush  *vcrush &lt;target&gt;* {#vcrush}
+### 2H Crushing Vital Crush  *vcrush <target>* {#vcrush}
 
 Must be used melee.
 
@@ -159,7 +159,7 @@ This can be aimed High & Mid.
 
 </div>
 
-### 2H Crushing Leg Crush  *lcrush &lt;target&gt;* {#lcrush}
+### 2H Crushing Leg Crush  *lcrush <target>* {#lcrush}
 
 Possible knock down. Must be used melee.
 
@@ -173,7 +173,7 @@ This can be aimed Low.
 
 </div>
 
-### 2H Crushing Overhead Slam  *oslam &lt;target&gt;* {#oslam}
+### 2H Crushing Overhead Slam  *oslam <target>* {#oslam}
 
 Must be used melee.
 
@@ -187,7 +187,7 @@ This can be aimed High.
 
 </div>
 
-### 2H Crushing Shield Break  *break &lt;target&gt;* {#break}
+### 2H Crushing Shield Break  *break <target>* {#break}
 
 Can be used at range or melee.
 
@@ -203,7 +203,7 @@ A heavy shield fashioned from debris is destroyed. _
 
 </div>
 
-### 2H Crushing Stepping Smash  *ssmash &lt;target&gt;* {#ssmash}
+### 2H Crushing Stepping Smash  *ssmash <target>* {#ssmash}
 
 Aggresive stepping move. Can be used at melee or ranged.
 
@@ -218,7 +218,7 @@ Your stance is now aggressive.
 
 </div>
 
-### 2H Crushing Defensive Bash  *dbash &lt;target&gt;* {#dbash}
+### 2H Crushing Defensive Bash  *dbash <target>* {#dbash}
 
 Steps defensively. Must be used melee range.
 
@@ -233,7 +233,7 @@ Your stance is now normal.
 
 </div>
 
-### 2H Crushing Head Crusher  *hcrush &lt;target&gt;* {#hcrush}
+### 2H Crushing Head Crusher  *hcrush <target>* {#hcrush}
 
 Can stun. Must be used melee. 
 
@@ -247,7 +247,7 @@ This can be aimed High, (Mid & Low?).
 
 </div>
 
-### 2H Crushing Whirling Smash  *wsmash &lt;target&gt;* {#wsmash}
+### 2H Crushing Whirling Smash  *wsmash <target>* {#wsmash}
 
 Double hitter.
 
@@ -261,7 +261,7 @@ This can be aimed Mid & Low.
 
 </div>
 
-### 2H Crushing Feint  *feint &lt;target&gt;* {#feint}
+### 2H Crushing Feint  *feint <target>* {#feint}
 
 Feinting move
 

@@ -35,7 +35,7 @@ Venturing into the realm of languages is as simple as using your feet! Begin you
 
 #### Preparing for Your Visit
 
-In respect of the library's tradition of scholarship and peace, all weapons must be left at the entrance. Fear not, for the guardians of knowledge - the library guards - will safeguard your armaments. Simply use **OFFER &lt;weapon&gt; to GUARD**, and embark on your intellectual quest unburdened. Upon your return, a polite **SAY TO GUARD Return my things** will reunite you with your belongings, along with a complimentary sack for convenience, should you have multiple items.
+In respect of the library's tradition of scholarship and peace, all weapons must be left at the entrance. Fear not, for the guardians of knowledge - the library guards - will safeguard your armaments. Simply use **OFFER <weapon> to GUARD**, and embark on your intellectual quest unburdened. Upon your return, a polite **SAY TO GUARD Return my things** will reunite you with your belongings, along with a complimentary sack for convenience, should you have multiple items.
 
 #### Inside the Library
 
@@ -53,9 +53,9 @@ Once in the presence of your tutor, the language lessons will commence. You'll b
 
 #### Immersing Yourself
 
-Each lesson is a step closer to fluency, and with each word learned, you'll find the world of Midlight opening up in new and exciting ways. Engage with the local inhabitants, and forge deeper connections with the diverse cultures that enrich The Eternal City. Once you've reached 50 lessons in a language, you will be considered 'fluent'. You can use the **SPEAK &lt;language&gt;** command to speak in that language. Note that anyone with at least some knowledge of that language will be able to understand you but only those who are fluent will be able to see your speech in it's entirety. 
+Each lesson is a step closer to fluency, and with each word learned, you'll find the world of Midlight opening up in new and exciting ways. Engage with the local inhabitants, and forge deeper connections with the diverse cultures that enrich The Eternal City. Once you've reached 50 lessons in a language, you will be considered 'fluent'. You can use the **SPEAK <language>** command to speak in that language. Note that anyone with at least some knowledge of that language will be able to understand you but only those who are fluent will be able to see your speech in it's entirety. 
 #### Leaving early
-Should you need to leave the tutor before you finish your lessons **SAY TO &lt;TUTOR&gt; I would like to leave.**
+Should you need to leave the tutor before you finish your lessons **SAY TO <TUTOR> I would like to leave.**
 
 #### Embarking on Your Journey
 
