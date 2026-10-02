@@ -1,16 +1,8 @@
-// Heading text without the "¶" permalink that the toc extension adds.
-function tecHeadingText(heading) {
-  var copy = heading.cloneNode(true);
-  copy.querySelectorAll(".headerlink").forEach(function (link) { link.remove(); });
-  return copy.textContent.trim();
-}
-
-function initNationalLores() {
-  var article = document.querySelector(".md-typeset");
-  if (!article) return;
+TEC.addPageEnhancer("national-lores", function (article) {
+  var doc = article.ownerDocument;
 
   var h1 = article.querySelector("h1");
-  if (!h1 || tecHeadingText(h1) !== "National Lores") return;
+  if (!h1 || TEC.headingText(h1) !== "National Lores") return;
   if (article.classList.contains("tec-national-lores")) return;
 
   article.classList.add("tec-national-lores");
@@ -19,7 +11,7 @@ function initNationalLores() {
   headings.forEach(function (heading) {
     if (heading.parentElement && heading.parentElement.classList.contains("tec-lore-card")) return;
 
-    var card = document.createElement("section");
+    var card = doc.createElement("section");
     card.className = "tec-lore-card";
     heading.parentNode.insertBefore(card, heading);
     card.appendChild(heading);
@@ -31,11 +23,4 @@ function initNationalLores() {
       node = next;
     }
   });
-}
-
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initNationalLores, { once: true });
-} else {
-  initNationalLores();
-}
-document.addEventListener("DOMContentSwitch", initNationalLores);
+});

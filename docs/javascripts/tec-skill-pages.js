@@ -1,15 +1,8 @@
-// Heading text without the "¶" permalink that the toc extension adds.
-function tecHeadingText(heading) {
-  var copy = heading.cloneNode(true);
-  copy.querySelectorAll(".headerlink").forEach(function (link) { link.remove(); });
-  return copy.textContent.trim();
-}
+TEC.addPageEnhancer("skill-pages", function (root, ctx) {
+  if (!root.querySelector(".skill-template")) return;
+  var doc = root.ownerDocument;
 
-function initTecSkillPages() {
-  var root = document.querySelector(".md-typeset");
-  if (!root || !root.querySelector(".skill-template")) return;
-
-  document.body.classList.add("tec-skill-page");
+  ctx.body.classList.add("tec-skill-page");
 
   // Clean migrated recipe/lore tables inside collapsible sections.
   // Wikidot used colspan rows for grouped headings and category labels;
@@ -105,7 +98,7 @@ function initTecSkillPages() {
 
     groupRow.innerHTML = "";
 
-    var info = document.createElement("th");
+    var info = doc.createElement("th");
     info.colSpan = infoCols;
     info.className = "tec-skill-group-heading";
     var leftLabel = labels.find(function (label) {
@@ -113,7 +106,7 @@ function initTecSkillPages() {
     }) || "Skill Info";
     info.textContent = leftLabel;
 
-    var trainers = document.createElement("th");
+    var trainers = doc.createElement("th");
     trainers.colSpan = headerCells.length - infoCols;
     trainers.className = "tec-skill-group-heading";
     trainers.textContent = "Ranks Taught by Trainer";
@@ -129,7 +122,7 @@ function initTecSkillPages() {
   var inSkillDetails = false;
 
   headings.forEach(function (h) {
-    var label = tecHeadingText(h);
+    var label = TEC.headingText(h);
 
     if (/^Skill Details$/i.test(label)) {
       inSkillDetails = true;
@@ -160,20 +153,14 @@ function initTecSkillPages() {
       node = node.nextElementSibling;
     }
 
-    if (last !== h && !last.nextElementSibling?.classList?.contains("tec-backtop")) {
-      var back = document.createElement("a");
+    // On a repeat run the section already ends with its Back to Top link.
+    if (last !== h && !last.classList.contains("tec-backtop") &&
+        !last.nextElementSibling?.classList?.contains("tec-backtop")) {
+      var back = doc.createElement("a");
       back.href = "#";
       back.className = "tec-backtop";
       back.textContent = "Back to Top";
       last.insertAdjacentElement("afterend", back);
     }
   });
-}
-
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initTecSkillPages, { once: true });
-} else {
-  initTecSkillPages();
-}
-
-document.addEventListener("DOMContentSwitch", initTecSkillPages);
+});

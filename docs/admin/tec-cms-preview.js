@@ -1,5 +1,5 @@
 // Editor preview that renders pages inside the same wrapper as the live site,
-// so the site's own stylesheets (registered by tec-preview-styles.js) apply.
+// so the site's own stylesheets and page enhancers (loaded by tec-preview-assets.js) apply.
 (function () {
   // Layout width the preview frame is rendered at, then scaled to fit the pane,
   // so the site's width-based rules see a desktop screen.
@@ -85,10 +85,20 @@
 
   var previewFixes = [lineBreaksToBr, wrapTables];
 
-  // Decap renders the markdown as <style> + <div>; the div holds the page body.
+  // The page body is inside Decap's widget preview container, the article's last
+  // child (after our optional title heading). Decap 3 puts the content directly in
+  // that container; another variant renders <style> + <div>, with the div holding it.
   function bodyRoot(article) {
-    var style = article && article.querySelector("style");
-    return style && style.nextElementSibling;
+    var wrap = article && article.lastElementChild;
+    if (!wrap || wrap.tagName === "H1") return null;
+    var style = wrap.querySelector(":scope > style");
+    return style && style.nextElementSibling ? style.nextElementSibling : wrap;
+  }
+
+  // Live address of the entry, e.g. "/brawling/"; the home page is "/".
+  function pagePath(entry) {
+    var slug = entry.get("slug");
+    return !slug || slug === "index" ? "/" : "/" + slug + "/";
   }
 
   function hasHeading(body) {
@@ -107,6 +117,14 @@
         previewFixes.forEach(function (fix) {
           fix(root);
         });
+
+        // Then the site's own page enhancers (docs/javascripts/tec-page-enhancers.js),
+        // as on the live page. Page-type body classes are recomputed every time.
+        if (window.TEC && typeof TEC.runPageEnhancers === "function") {
+          var body = root.ownerDocument.body;
+          body.className = "";
+          TEC.runPageEnhancers(root, { path: pagePath(this.props.entry), body: body });
+        }
       },
 
       componentDidMount: function () {

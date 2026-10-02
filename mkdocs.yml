@@ -45,7 +45,7 @@ plugins:
 
 hooks:
   - hooks/listpages.py
-  - hooks/preview_styles.py
+  - hooks/preview_assets.py
 
 markdown_extensions:
   - admonition
@@ -61,6 +61,7 @@ extra_css:
   - stylesheets/tec.css
 
 extra_javascript:
+  - javascripts/tec-page-enhancers.js
   - javascripts/tec-nav-v2.js
   - javascripts/tec-sidebar.js
   - javascripts/tec-skill-pages.js

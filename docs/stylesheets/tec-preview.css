@@ -1,5 +1,5 @@
 /* Editor preview overrides.
-   The preview loads the live site's own stylesheets (see hooks/preview_styles.py),
+   The preview loads the live site's own stylesheets (see hooks/preview_assets.py),
    and this file loads last. Only fixes for the preview frame belong here.
    Never restyle page content here — change tec.css instead. */
 
@@ -16,4 +16,28 @@ body::before {
 /* Sized for a full browser window; the preview frame only needs its content height. */
 .md-content {
   min-height: 0;
+}
+
+/* Calculators and apps only run on the live page. Label where they will appear. */
+#tec-rb-calculator::before,
+#tec-money-calculator::before,
+#tec-shops-app::before,
+#tec-page-history::before,
+#fight-it-app::before {
+  display: block;
+  margin: .4rem 0;
+  padding: .6rem .8rem;
+  border: 1px dashed #8d8659;
+  border-radius: 6px;
+  color: #4a513b;
+  font-style: italic;
+}
+#tec-rb-calculator::before { content: "Rank Bonus Calculator — appears here on the live page"; }
+#tec-money-calculator::before { content: "Money Calculator — appears here on the live page"; }
+#tec-shops-app::before { content: "Shop search — appears here on the live page"; }
+#tec-page-history::before { content: "Page history — appears here on the live page"; }
+#fight-it-app::before { content: "Fight It calculator — works on the live page only"; }
+.tec-shops-loading,
+.tec-history-loading {
+  display: none;
 }
