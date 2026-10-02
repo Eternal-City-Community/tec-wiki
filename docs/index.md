@@ -22,7 +22,7 @@ Learn about [Getting Started](https://tec-wiki.com/getting-started/) to understa
 
 **Returning players** *(welcome back!)*
 
-Those familiar with the Game-world may find it more fun to jump into [character creation](https://tec-wiki.com/character-generator/) and catch up on the latest updates.
+Those familiar with the Game-world may find it more fun to jump into [character creation](https://tec-wiki.com/character-generator/) and catch up on the [latest updates](#LatestUpdates).
 
 **Have questions?** Join the conversation on our extremely active [Discord](https://discord.gg/fevBA8j)!
 
