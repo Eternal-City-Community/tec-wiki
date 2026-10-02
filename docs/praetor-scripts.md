@@ -201,14 +201,14 @@ The combat modes don't fight for you directly. They send short commands like **a
 | Macro | Used by | Should send |
 | --- | --- | --- |
 | at1 to at6 | all combat modes | your attack rotation, one move per slot (chain_macro also uses at7) |
-| app1 | all combat modes | approach first target: {{app 1 <target>}} or your weapon's approach move |
-| adv1 | all combat modes | advance on first target: {{advance 1 <target>}} |
-| k1 | all combat modes | kill first target: {{kill 1 <target>}} ({{fslash 1 <target>}} for falx) |
-| r | all combat modes | rewield: {{wield <weapon>}} |
+| app1 | all combat modes | approach first target: `app 1 <target>` or your weapon's approach move |
+| adv1 | all combat modes | advance on first target: `advance 1 <target>` |
+| k1 | all combat modes | kill first target: `kill 1 <target>` (`fslash 1 <target>` for falx) |
+| r | all combat modes | rewield: `wield <weapon>` |
 | doStance | all combat modes | your weapon's stance move |
-| st1 | falx_macro | stun: {{bash 1 <target> head}} |
-| dr | falx_macro | drag: {{ankle <target>}} |
-| ev | falx_macro | eviscerate: {{evisc <target>}} |
+| st1 | falx_macro | stun: `bash 1 <target> head` |
+| dr | falx_macro | drag: `ankle <target>` |
+| ev | falx_macro | eviscerate: `evisc <target>` |
 | nm | chain_macro | no-mind attack |
 
 A worked example for a one-handed sword. Type each of these once per character. The game prompts you for the command string after each one:
@@ -244,11 +244,11 @@ For the game side of macros and targeting, see [Macros](/macros/) and [Macros an
 | Symptom | Likely cause | Fix |
 | --- | --- | --- |
 | mode not in the mode list | folder not added, or Reload Scripts not run | add the folder under **Script Directories** (Esc menu, **Automation**), then **Reload Scripts** |
-| "unknown mode" | typo, or the file is a {{lib_*.lua}} helper (it never appears in the list and there's no reason to start one) | check the list with {{/list}} (names are matched regardless of case) |
-| combat mode starts but nothing attacks | {{@macro}} entries missing on this character | see the [macro table](#macros) above, and watch for the game answering "I don't understand" to {{at1}} |
+| "unknown mode" | typo, or the file is a `lib_*.lua` helper (it never appears in the list and there's no reason to start one) | check the list with `/list` (names are matched regardless of case) |
+| combat mode starts but nothing attacks | `@macro` entries missing on this character | see the [macro table](#macros) above, and watch for the game answering "I don't understand" to `at1` |
 | mode stops on its own | fatigue ran out, a script error hit the 2-second limit, or the mode finished | check the app log |
-| error when reloading | a {{lib_*.lua}} file it needs is missing, or the ZIP was unzipped one folder too deep | the folder must contain {{macro.lua}} directly |
-| commands keep going after you stop it | the queue is still draining | {{/mode disable}}, then Alt+X |
+| error when reloading | a `lib_*.lua` file it needs is missing, or the ZIP was unzipped one folder too deep | the folder must contain `macro.lua` directly |
+| commands keep going after you stop it | the queue is still draining | `/mode disable`, then Alt+X |
 | changes to a script do nothing | it wasn't reloaded | **Reload Scripts** (Esc menu, **Automation**). This also clears cached libraries |
 
 The app log is at:

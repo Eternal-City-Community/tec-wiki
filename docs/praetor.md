@@ -20,7 +20,7 @@ Praetor is a free, open-source desktop client for The Eternal City. It runs on W
 * Lua automation modes, with a shared script library you can pull from
 * A session metrics dashboard your automation modes can write to
 * Saved command variables that can be reused from the input, Actions, and Variables sidebar
-* Typed command chains: {{;;}} runs the next command after 900 ms, while {{&&}} waits until the game reports that you are no longer busy
+* Typed command chains: `;;` runs the next command after 900 ms, while `&&` waits until the game reports that you are no longer busy
 * Immediate cancellation of queued command chains from the input's Stop button or with Alt+X
 * Multiple stored accounts, so you can switch accounts without retyping passwords
 * Scrollback search (Ctrl+F) and command-history search (Ctrl+R)
@@ -248,7 +248,7 @@ The sidebar on the right shows the minimap, the compass, and your vitals bars (H
 
 The command input sits at the bottom. Press **Esc** to open the menu.
 
-Saved variables can be inserted into typed commands with {{${name}}}. Separate commands with {{;;}} to run the next command after 900 milliseconds, or use {{&&}} to wait for an unbusy response from the game. While a command chain still has items queued, the input's play indicator becomes a **Stop** button. Click it or press **Alt+X** to discard the remaining commands.
+Saved variables can be inserted into typed commands with `${name}`. Separate commands with `;;` to run the next command after 900 milliseconds, or use `&&` to wait for an unbusy response from the game. While a command chain still has items queued, the input's play indicator becomes a **Stop** button. Click it or press **Alt+X** to discard the remaining commands.
 
 Anything you type starting with a slash is a slash command, handled by Praetor itself and not sent to the game. A hint appears as you type showing what the command expects. To see them all in the app:
 
@@ -275,7 +275,7 @@ Some shortcuts do different things depending on what's in front of you. Those ge
 | Alt+X | A file is being sent | Abort the rest of the send ([Sending a file](/praetor-guide/#send)) |
 | Alt+X | A play script is running | Stop the performance ([Play scripts](/praetor-guide/#play)) |
 | Alt+X | A mode is running | Switch to the disable mode ([Run a mode](/praetor-scripts/#run)) |
-| Alt+X | A {{;;}} or {{&&}} command chain has commands waiting | Discard the rest of the queued chain |
+| Alt+X | A `;;` or `&&` command chain has commands waiting | Discard the rest of the queued chain |
 | Alt+I | Anywhere | Reveal lines hidden by the ignore filters ([Filters](/praetor-guide/#filters)) |
 | Esc | Game view | Open the menu ([The Esc menu](/praetor-guide/#menu)) |
 | Esc | A menu screen, search bar, or history search is open | Close it without saving |
@@ -304,7 +304,7 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | /help |  | Open the Help window | Esc closes it |
 | /guide |  | Open the getting-started window with links to the Praetor overview, guide, and scripting pages | Esc closes it |
 | /list |  | Open the Switch Mode window to browse modes ([Run a mode](/praetor-scripts/#run)) | Esc closes it without starting anything |
-| /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | {{/mode disable}} or Alt+X stops it |
+| /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | `/mode disable` or Alt+X stops it |
 | /toggle | <label> | Flip a true/false value in the running mode | Run it again to flip it back |
 | /set | <label> <value> | Set a value in the running mode | Set it again to the old value |
 | /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#lookups)) | Esc closes it |
@@ -313,10 +313,10 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | /kudos | [name] [message] | Open the kudos window, add a favorite, or queue a message ([Kudos](/praetor-guide/#lookups)) | Esc closes the window. Queued kudos aren't sent until you click Send |
 | /notes | [add\|open\|delete\|list] [title] | The notepad ([Notes](/praetor-guide/#notes)) | Esc closes it |
 | /send |  | Pick a text file and send it to the game ([Sending a file](/praetor-guide/#send)) | Cancel the file dialog, or close the preview without clicking Save. Alt+X aborts a send already in progress |
-| /play |  | Pick a play script, preview it, and start it ([Play scripts](/praetor-guide/#play)) | Close the preview without clicking Save. {{/stop}} or Alt+X ends a running performance |
-| /pause |  | Hold the running performance | {{/resume}} continues it |
-| /resume |  | Continue a held performance | {{/pause}} holds it again |
-| /stop |  | End the performance and drop its state | Nothing to undo. Start it again with {{/play}} |
+| /play |  | Pick a play script, preview it, and start it ([Play scripts](/praetor-guide/#play)) | Close the preview without clicking Save. `/stop` or Alt+X ends a running performance |
+| /pause |  | Hold the running performance | `/resume` continues it |
+| /resume |  | Continue a held performance | `/pause` holds it again |
+| /stop |  | End the performance and drop its state | Nothing to undo. Start it again with `/play` |
 | /next |  | Release a %wait-key hold in a performance | Nothing to undo |
 
 ### Scripts
@@ -345,8 +345,8 @@ When asking for help, include your Praetor version and the relevant lines from t
 
 | What | Where |
 | --- | --- |
-| App log (errors, script problems) | {{~/.local/state/praetor/tec.log}} |
-| Session transcripts | {{~/.config/praetor/logs/}} |
+| App log (errors, script problems) | `~/.local/state/praetor/tec.log` |
+| Session transcripts | `~/.config/praetor/logs/` |
 
 On Windows, the tilde is your user folder, so the config folder is:
 

@@ -205,16 +205,16 @@ This will read:
 Wearing certain items cover aspects of your character's description. For instance, a bronze-visored **helmet** will cover your character's head, making **your head/hair description not visible** to someone looking at your character.
 
 **Example:**
-> {{> look JohnSmith}}
-> {{**You see a tall muscular man. He has green eyes set above a rugged chin in a pleasant brown face.**}}
-> {{He is wearing a bronze-visored helmet... *[...]*.}}
-> {{His hands appear to be empty.}}
+> `> look JohnSmith`
+> <code>**You see a tall muscular man. He has green eyes set above a rugged chin in a pleasant brown face.**</code>
+> <code>He is wearing a bronze-visored helmet... *[...]*.</code>
+> `His hands appear to be empty.`
 > 
-> {{JohnSmith removes a bronze-visored helmet.}}
-> {{> look JohnSmith}}
-> {{**You see a tall muscular man. He has green eyes set above a rugged chin in a pleasant brown face. He has short curly brown hair. **}}
-> {{He is wearing... *[...]*.}}
-> {{He is carrying a bronze-visored helmet in his right hand and nothing in his left hand.}}
+> `JohnSmith removes a bronze-visored helmet.`
+> `> look JohnSmith`
+> <code>**You see a tall muscular man. He has green eyes set above a rugged chin in a pleasant brown face. He has short curly brown hair. **</code>
+> <code>He is wearing... *[...]*.</code>
+> `He is carrying a bronze-visored helmet in his right hand and nothing in his left hand.`
 
 
 Wearing certain types of "covers" may also obscure your character's name, in addition to obscuring portions of your character's description. (Examples: When closed, a faceplated helmet will cover your character's name, head and face; a mask will cover your character's name and face; a hooded cloak will cover your character's name, head, face and body.) **The first line of your character's description is considered their "body type" and will never be covered.**

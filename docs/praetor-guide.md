@@ -32,8 +32,8 @@ The **All** tab always receives everything. **Custom tabs** filter game text by 
 
 | Wildcard | Stands for | Example rule | Matches | Doesn't match |
 | --- | --- | --- | --- | --- |
-| {{*}} | any run of characters, including none | {{You hit the*rat}} | You hit the rat, You hit the giant rat | You hit a rat |
-| {{?}} | exactly one character | {{?at}} | rat, cat, hat | at |
+| `*` | any run of characters, including none | `You hit the*rat` | You hit the rat, You hit the giant rat | You hit a rat |
+| `?` | exactly one character | `?at` | rat, cat, hat | at |
 
 ![](/assets/wikidot/praetor-guide/praetor-custom-tabs.png)
 
@@ -96,9 +96,9 @@ Beginning with **Praetor 0.5.0**, single-line command input and Action Set butto
 
 PraetorScript is intended for short command sequences. It does not replace Lua modes or **/play** scripts.
 
-#### Variables: {{${}}}
+#### Variables: `${}`
 
-Insert a saved variable with {{${name}}}:
+Insert a saved variable with `${name}`:
 
 
 ~~~
@@ -118,15 +118,15 @@ get ${weapon:gladius}
 ~~~
 
 
-In the case above, if {{count}} has a non-empty saved value, Praetor inserts that value. Otherwise it inserts {{25}}. A value such as {{0}} is populated and does not use the fallback.
+In the case above, if `count` has a non-empty saved value, Praetor inserts that value. Otherwise it inserts `25`. A value such as `0` is populated and does not use the fallback.
 
 Variable names are case-sensitive. Values and fallbacks are inserted once and are not processed recursively. They cannot inject extra separators or control steps.
 
 An unknown variable without a fallback rejects the entire submission before anything is sent.
 
-#### Fixed delays: {{;;}}
+#### Fixed delays: `;;`
 
-Separate commands with {{;;}} to send them in order using the configured chain delay:
+Separate commands with `;;` to send them in order using the configured chain delay:
 
 
 ~~~
@@ -134,15 +134,15 @@ stand;;look;;inventory
 ~~~
 
 
-Praetor sends {{stand}}, waits for the configured delay, sends {{look}}, waits again, and then sends {{inventory}}.
+Praetor sends `stand`, waits for the configured delay, sends `look`, waits again, and then sends `inventory`.
 
 The default delay is 900 milliseconds. Change it under **Esc → Display & Behavior → Settings → ;; chain delay**.
 
 A single semicolon is ordinary text.
 
-#### Waiting for roundtime: {{&&}}
+#### Waiting for roundtime: `&&`
 
-Use {{&&}} when the next command should wait for the game to report that you are ready:
+Use `&&` when the next command should wait for the game to report that you are ready:
 
 
 ~~~
@@ -150,7 +150,7 @@ stand&&climb wall&&look
 ~~~
 
 
-Praetor sends {{stand}} and waits for a recognized unbusy response. After the configured response delay, it sends {{climb wall}}. The next unbusy response advances the chain to {{look}}.
+Praetor sends `stand` and waits for a recognized unbusy response. After the configured response delay, it sends `climb wall`. The next unbusy response advances the chain to `look`.
 
 The default response delay is 100 milliseconds. Change it under **Esc → Display & Behavior → Settings → && response delay**.
 
@@ -170,9 +170,9 @@ One unbusy response advances one waiting chain. When several chains are active, 
 
 A single ampersand is ordinary text.
 
-#### Control steps: {{$()}}
+#### Control steps: `$()`
 
-A {{$()}} control step can pause a chain, wait for game text, display a notification, or repeat a command.
+A `$()` control step can pause a chain, wait for game text, display a notification, or repeat a command.
 
 Each control must occupy a complete chain step.
 
@@ -184,9 +184,9 @@ look;;$(wait 2.5);;inventory
 ~~~
 
 
-{{$(wait 2.5)}} pauses the chain for 2.5 seconds.
+`$(wait 2.5)` pauses the chain for 2.5 seconds.
 
-The surrounding {{;;}} separators retain their normal delays. In this example, Praetor waits the configured {{;;}} delay before reaching the control step, waits another 2.5 seconds, and then waits the next {{;;}} delay before sending {{inventory}}.
+The surrounding `;;` separators retain their normal delays. In this example, Praetor waits the configured `;;` delay before reaching the control step, waits another 2.5 seconds, and then waits the next `;;` delay before sending `inventory`.
 
 The number of seconds may come from a variable or fallback:
 
@@ -204,9 +204,9 @@ search here;;$(wait-for "You find a button");;push button
 ~~~
 
 
-{{wait-for}} pauses until a future game line contains the quoted text. Matching is case-sensitive.
+`wait-for` pauses until a future game line contains the quoted text. Matching is case-sensitive.
 
-When {{wait-for}} immediately follows a command, Praetor activates the matcher before sending that command. This prevents a fast response from arriving before the matcher is ready.
+When `wait-for` immediately follows a command, Praetor activates the matcher before sending that command. This prevents a fast response from arriving before the matcher is ready.
 
 There is no automatic timeout. Use the chain's **Stop** button or **Alt+X** if the expected text never arrives.
 
@@ -218,7 +218,7 @@ look;;$(notify "Finished looking")
 ~~~
 
 
-{{notify}} displays a Praetor notification and requests an operating-system desktop notification, then continues the chain.
+`notify` displays a Praetor notification and requests an operating-system desktop notification, then continues the chain.
 
 Variables and fallbacks work inside the message:
 
@@ -236,11 +236,11 @@ $(repeat "unlock chest with lockpick" until "You hear a click")
 ~~~
 
 
-{{repeat}} sends the quoted game command immediately. Each recognized unbusy response causes Praetor to send it again after the configured {{&&}} response delay.
+`repeat` sends the quoted game command immediately. Each recognized unbusy response causes Praetor to send it again after the configured `&&` response delay.
 
-When a future game line contains the {{until}} text, the repeat ends and the surrounding chain advances.
+When a future game line contains the `until` text, the repeat ends and the surrounding chain advances.
 
-Add {{cancel-on}} when a response should stop the entire chain instead:
+Add `cancel-on` when a response should stop the entire chain instead:
 
 
 ~~~
@@ -250,9 +250,9 @@ $(repeat "unlock chest with lockpick" until "You hear a click" cancel-on "Your l
 
 In this example:
 
-* {{unlock chest with lockpick}} repeats after each unbusy response.
-* {{You hear a click}} ends the repeat and advances to {{look}}.
-* {{Your lockpick broke}} cancels the entire chain, so {{look}} is not sent.
+* `unlock chest with lockpick` repeats after each unbusy response.
+* `You hear a click` ends the repeat and advances to `look`.
+* `Your lockpick broke` cancels the entire chain, so `look` is not sent.
 
 Success and cancellation matching is case-sensitive. The repeated command must be a game command, not a local slash command.
 
@@ -272,11 +272,11 @@ $(repeat "search ${container:chest}" until "You find ${item:key}" cancel-on "You
 
 Praetor:
 
-1. Uses the saved {{container}} and {{item}} values, falling back to {{chest}} and {{key}}.
+1. Uses the saved `container` and `item` values, falling back to `chest` and `key`.
 2. Repeats the search after each unbusy response.
 3. Advances when the success text appears.
-4. Cancels everything if {{You find nothing}} appears.
-5. Gets the item after the configured {{;;}} delay.
+4. Cancels everything if `You find nothing` appears.
+5. Gets the item after the configured `;;` delay.
 6. Displays a notification after the next configured delay.
 
 This example combines unbusy-aware commands with an explicit pause:
@@ -293,12 +293,12 @@ Escape PraetorScript syntax when you want to send it literally:
 
 | Write | Sends |
 | --- | --- |
-| {{\${}} | {{${}} |
-| {{\;;}} | {{;;}} |
-| {{\&&}} | {{&&}} |
-| {{\$()}} | {{$()}} |
+| `\${` | `${` |
+| `\;;` | `;;` |
+| `\&&` | `&&` |
+| `\$()` | `$()` |
 
-Inside quoted {{$()}} arguments, escape a quote as {{\"}} and a backslash as {{\\}}:
+Inside quoted `$()` arguments, escape a quote as `\"` and a backslash as `\\`:
 
 
 ~~~
@@ -306,7 +306,7 @@ $(notify "The guard said \"halt\"")
 ~~~
 
 
-Pipes, semicolons, {{&&}}, and other punctuation inside quoted arguments are ordinary text:
+Pipes, semicolons, `&&`, and other punctuation inside quoted arguments are ordinary text:
 
 
 ~~~
@@ -321,12 +321,12 @@ The full PraetorScript language applies to:
 * Single-line command input
 * Action Set buttons
 
-Variable expansion, including {{${name:fallback}}}, also applies to:
+Variable expansion, including `${name:fallback}`, also applies to:
 
 * Multi-line submissions
 * Files sent with **/send**
 
-Multi-line submissions and **/send** files do not interpret {{;;}}, {{&&}}, or {{$()}} controls. Lua modes, Lua scripts, **/play** scripts, numpad movement, and other direct interface controls bypass PraetorScript.
+Multi-line submissions and **/send** files do not interpret `;;`, `&&`, or `$()` controls. Lua modes, Lua scripts, **/play** scripts, numpad movement, and other direct interface controls bypass PraetorScript.
 
 Praetor validates the entire submission before sending its first command. A single submission may contain up to 100 commands and control steps.
 
@@ -451,7 +451,7 @@ The settings are:
 
 ![](/assets/wikidot/praetor-guide/praetor-script-directories.png)
 
-**Variables** stores reusable name/value pairs. Add a name and value, then save. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with {{${name}}} in typed input, Action Set buttons, and **/send** files. Editing variables here or in the sidebar updates the same saved list.
+**Variables** stores reusable name/value pairs. Add a name and value, then save. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with `${name}` in typed input, Action Set buttons, and **/send** files. Editing variables here or in the sidebar updates the same saved list.
 
 **Quick-Cycle Modes** lets **Alt+M** step through a chosen set of modes:
 
@@ -550,7 +550,7 @@ retalq
 3. Turn on **Allow Script Notifications** if Lua modes should be allowed to send notifications. It is off by default and controls both their desktop alerts and in-app notices; built-in threshold and pattern notifications still work independently
 4. Choose whether notifications play the operating system's default sound
 5. Set a **health-below** threshold (on by default, at 25) or a **fatigue-below** threshold (off by default, at 10)
-6. Add your own **text patterns**: text to match, plus an optional notification title and message. Matching is case-insensitive; {{*}} matches any run of characters and {{?}} matches one character
+6. Add your own **text patterns**: text to match, plus an optional notification title and message. Matching is case-insensitive; `*` matches any run of characters and `?` matches one character
 7. **Save**
 
 If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Praetor uses the matching game text.
@@ -569,11 +569,11 @@ The notepad keeps freeform notes: plans, backstory, who owes you what. Open it w
 
 | Command | What it does |
 | --- | --- |
-| {{/notes}} | Open the notepad |
-| {{/notes add &lt;title&gt;}} | Start a new note with that title |
-| {{/notes open &lt;title&gt;}} | Open an existing note by title (case doesn't matter) |
-| {{/notes delete &lt;title&gt;}} | Delete a note |
-| {{/notes list}} | Print your notes into the output, title and preview, most recently edited first |
+| `/notes` | Open the notepad |
+| `/notes add <title>` | Start a new note with that title |
+| `/notes open <title>` | Open an existing note by title (case doesn't matter) |
+| `/notes delete <title>` | Delete a note |
+| `/notes list` | Print your notes into the output, title and preview, most recently edited first |
 
 Notes are plain text files, one file per note, so you can edit or back them up outside Praetor. Each is titled by its first line, with the rest of the file as the body. They're shared across every account you log in with, not per character. They live in:
 
@@ -634,22 +634,22 @@ In the script file, a line starting with a hash mark is a comment and is dropped
 
 | Instruction | Effect |
 | --- | --- |
-| {{%wait:&lt;duration&gt;}} | Pause, e.g. {{%wait:5s}} |
-| {{%wait-random:&lt;min&gt;-&lt;max&gt;}} | Pause a random time in the range, e.g. {{%wait-random:2s-6s}} |
-| {{%wait-for:&lt;pattern&gt;[:&lt;timeout&gt;]}} | Wait for matching game text, or the timeout (default 60s) |
-| {{%wait-key}} | Hold until you type {{/next}} |
-| {{%note:&lt;text&gt;}} | Show a reminder to yourself, without sending anything |
+| `%wait:<duration>` | Pause, e.g. `%wait:5s` |
+| `%wait-random:<min>-<max>` | Pause a random time in the range, e.g. `%wait-random:2s-6s` |
+| `%wait-for:<pattern>[:<timeout>]` | Wait for matching game text, or the timeout (default 60s) |
+| `%wait-key` | Hold until you type `/next` |
+| `%note:<text>` | Show a reminder to yourself, without sending anything |
 
 Controls while a performance is running:
 
 | Command | What it does |
 | --- | --- |
-| {{/play}} | Pick a script file and preview it before starting |
-| {{/pause}} | Hold the performance |
-| {{/resume}} | Continue, re-running the interrupted instruction from the start |
-| {{/stop}} | End the performance and discard its state |
-| {{/next}} | Release a {{%wait-key}} hold |
-| Alt+X | Stop immediately, the same as {{/stop}} |
+| `/play` | Pick a script file and preview it before starting |
+| `/pause` | Hold the performance |
+| `/resume` | Continue, re-running the interrupted instruction from the start |
+| `/stop` | End the performance and discard its state |
+| `/next` | Release a `%wait-key` hold |
+| Alt+X | Stop immediately, the same as `/stop` |
 
 Only those commands are accepted while a performance runs. Everything else is turned away, so nothing else can write to the game mid-scene.
 
@@ -728,7 +728,7 @@ The same list is under **Tools & References**, as **Map Bookmarks**.
 
 **/calc** (or **/rb**) opens the rank-bonus and training-cost calculator, which uses the same math as this wiki's [Rank Bonus Calculator](/rank-bonus-calculator/) and [Training Cost Calculator](/training-cost-calculator/). Choose **Defensive**, **Offensive**, or **Noncombat**, then enter current and target Basics and Subskill ranks. Praetor shows side-by-side current and target rank bonuses for each posture and difficulty, including the Basics and Subskill rank bonuses.
 
-The training-cost section shows the Basics and Subskill rank changes and the cost for slots 1 through 20; use the page button to switch between slots 1–10 and 11–20. **Self-trained**, **Self-taught**, and **Healing** adjust the calculation. Ranks above 1150 display a reminder that training to 1151 or higher requires {{/selftrain}}.
+The training-cost section shows the Basics and Subskill rank changes and the cost for slots 1 through 20; use the page button to switch between slots 1–10 and 11–20. **Self-trained**, **Self-taught**, and **Healing** adjust the calculation. Ranks above 1150 display a reminder that training to 1151 or higher requires `/selftrain`.
 
 #### Kudos
 
@@ -745,7 +745,7 @@ The training-cost section shows the Basics and Subskill rank changes and the cos
 
 #### Help
 
-**/help** opens the same window as **Help** under **Tools & References** in the Esc menu. At the top, enter a game-help topic and choose **Search** to send {{?topic}} to the game, or choose **Open TEC Wiki** to open the wiki in your browser. The window also documents input syntax, key bindings, and every slash command.
+**/help** opens the same window as **Help** under **Tools & References** in the Esc menu. At the top, enter a game-help topic and choose **Search** to send `?topic` to the game, or choose **Open TEC Wiki** to open the wiki in your browser. The window also documents input syntax, key bindings, and every slash command.
 
 **/guide** opens the getting-started window, with a short Praetor overview and links to this guide and the scripting documentation.
 

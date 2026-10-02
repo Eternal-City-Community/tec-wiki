@@ -22,7 +22,7 @@ Basic Leatherworking appears to function similarly to the basic skill in tailori
 
 Leatherworking recipes can be viewed with:
 
-{{recipes}}
+`recipes`
 
 The bottom of the recipe list also displays your available recipe slots:
 
@@ -81,16 +81,16 @@ Leather dye is available in the following colors:
 
 | Action | Command |
 | --- | --- |
-| Layout | {{layout <material>}} |
-| Cut | {{cut <incomplete>}} |
-| Skive | {{skive <incomplete>}} |
-| Bevel | {{bevel <incomplete>}} |
-| Mold | {{mold <incomplete>}} |
-| Punch | {{punch <incomplete>}} |
-| Lace | {{lace <item> to <incomplete>}} |
-| Rivet | {{rivet <item> to <incomplete>}} |
-| Sew | {{sew <item> to <incomplete>}} |
-| Emboss | {{emboss <item>}} |
+| Layout | `layout <material>` |
+| Cut | `cut <incomplete>` |
+| Skive | `skive <incomplete>` |
+| Bevel | `bevel <incomplete>` |
+| Mold | `mold <incomplete>` |
+| Punch | `punch <incomplete>` |
+| Lace | `lace <item> to <incomplete>` |
+| Rivet | `rivet <item> to <incomplete>` |
+| Sew | `sew <item> to <incomplete>` |
+| Emboss | `emboss <item>` |
 
 In most cases the required tools only need to be somewhere in your inventory. The game will automatically reach for the appropriate tool and return it after the action.
 
@@ -115,11 +115,11 @@ Known component sizes include:
 
 Leather can be divided by placing the material on the ground, holding a pair of shears, and using:
 
-{{divide}}
+`divide`
 
 Pieces of compatible raw material can also be consolidated. For example:
 
-{{consolidate raw with 2 raw}}
+`consolidate raw with 2 raw`
 
 Exact syntax will depend upon how the pieces are identified in the room.
 
@@ -268,7 +268,7 @@ Completed leather goods can be decorated using the **Emboss Leather Item** skill
 
 Use:
 
-{{emboss <item>}}
+`emboss <item>`
 
 Known embossing patterns include:
 
@@ -422,7 +422,7 @@ Leatherworking recipes occupy recipe slots.
 
 Typing:
 
-{{recipes}}
+`recipes`
 
 shows both the number of recipes learned and your current slot capacity.
 

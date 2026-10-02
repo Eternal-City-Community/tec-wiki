@@ -18,7 +18,7 @@ Rock Valley
 
 
 #### Directions
-From the wide dirt lane at the east entrance of the town: {{walk e 24 se 37}}
+From the wide dirt lane at the east entrance of the town: `walk e 24 se 37`
 
 #### Map
 

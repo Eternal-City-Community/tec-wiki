@@ -66,7 +66,7 @@ Usage: LEARN <skill name> FROM <trainer> [WITH <skill name>] [# <number>]
 The following is a list of all available commands, with some commentary on how each command works.
 
 
-Text formatted as **{{<text>}}** is required and **{{[text]}}** is optional.
+Text formatted as **`<text>`** is required and **`[text]`** is optional.
 
 
 <style>
