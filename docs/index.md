@@ -18,7 +18,7 @@ Welcome to the player-run unofficial Wiki, your best resource for information ab
 
 **New players**
 
-Learn about [Getting Started](https://tec-wiki.com/getting-started/) to understand how to roll and roleplay your character. The [Newbie Guides]( provide suggestions to taking your first steps into the adventure. The [Account](https://tec-wiki.com/account/) section will break down subscription types and Out-Of-Character (OOC) currency.
+Learn about [Getting Started](https://tec-wiki.com/getting-started/) to understand how to roll and roleplay your character. The Newbie Guides provide suggestions to taking your first steps into the adventure. The [Account](https://tec-wiki.com/account/) section will break down subscription types and Out-Of-Character (OOC) currency.
 
 **Returning players** *(welcome back!)*
 
