@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: herdias/tec-wiki
+  repo: Eternal-City-Community/tec-wiki
   branch: main
   open_authoring: true
   base_url: https://tec-wiki.com
