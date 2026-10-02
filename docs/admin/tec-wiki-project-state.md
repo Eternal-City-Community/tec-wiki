@@ -515,6 +515,13 @@ Markdown tables lack Wikidot's cell formatting, so a marker at the start of a ce
 - Content that itself starts with a marker needs rewording, e.g. `~5 GSP` rather than `~ 5 GSP`.
 - The migration had dropped all of this (spans became empty cells, `~ = >` were stripped, and some "~" meaning "approximately" were lost with them). Restored from the Wikidot source where the table still matches it. Not restored: tables restructured after migration (Account, Locksmithing); on Jewelry, Leather-working, Tailoring and Tanning skill tables only header/section rows were restored (their source alignment was inconsistent).
 
+### Lists after text, and emphasis in skill samples
+
+- `hooks/list_spacing.py`: a `* ` line directly under a line of text starts a list (Python-Markdown needs a blank line first; the editor preview does not). Fixed 290 lists on 80+ pages, e.g. Stats "Jump to:". Numbered lines are left as plain lines, since a Markdown list renumbers from 1 and map legends continue their numbers across sections.
+- `hooks/skill_samples.py`: `*italic*` and `**bold**` inside `<div class="skill-template">` render as emphasis (Markdown is not applied inside HTML blocks). Underscores are not converted: game output uses `____` divider lines. A `* ` line inside a sample stays literal game text.
+- `tec-skill-pages.js` no longer removes blank lines inside skill samples; one blank line is a gap between steps, two a larger gap.
+
+
 
 
 ### GitHub organization transfer

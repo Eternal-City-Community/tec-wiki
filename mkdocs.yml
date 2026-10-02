@@ -49,6 +49,8 @@ hooks:
   - hooks/breadcrumbs.py
   - hooks/preview_assets.py
   - hooks/placeholders.py
+  - hooks/list_spacing.py
+  - hooks/skill_samples.py
 
 markdown_extensions:
   - admonition

@@ -37,9 +37,10 @@ TEC.addPageEnhancer("skill-pages", function (root, ctx) {
     });
   });
 
-  // Migrated skill-template blocks often contain blank text nodes before
-  // and after the example. Because the template preserves line breaks,
-  // those blanks become visible vertical space. Trim only outer whitespace.
+  // Skill-template blocks often contain blank text nodes before and after
+  // the example. Because the template preserves line breaks, those blanks
+  // become visible vertical space. Trim only outer whitespace; blank lines
+  // inside the example are gaps between its steps and stay.
   root.querySelectorAll(".skill-template").forEach(function (box) {
     while (box.firstChild && box.firstChild.nodeType === Node.TEXT_NODE && !box.firstChild.textContent.trim()) {
       box.removeChild(box.firstChild);
@@ -47,14 +48,6 @@ TEC.addPageEnhancer("skill-pages", function (root, ctx) {
     while (box.lastChild && box.lastChild.nodeType === Node.TEXT_NODE && !box.lastChild.textContent.trim()) {
       box.removeChild(box.lastChild);
     }
-
-    // Migration preserved source formatting newlines inside the raw HTML
-    // wrapper. Collapse empty spacer lines without changing real output lines.
-    Array.from(box.childNodes).forEach(function (node) {
-      if (node.nodeType === Node.TEXT_NODE) {
-        node.textContent = node.textContent.replace(/\n[ \t]*\n+/g, "\n");
-      }
-    });
 
     if (box.firstChild && box.firstChild.nodeType === Node.TEXT_NODE) {
       box.firstChild.textContent = box.firstChild.textContent.replace(/^\s+/, "");
