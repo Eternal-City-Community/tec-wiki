@@ -13,6 +13,8 @@ There are many types of shops throughout Midlight, which offer everything from w
 The prices listed are meant to be used as a rough guide. Most of them were collected with a character who has average prices. A character with better Charisma, Appearance, and/or bartering traits (Trader's Tongue, for example), will likely fetch better prices.
 
 
+[TOC]
+
 ## City of Iridine
 
 ### Bronze Lane

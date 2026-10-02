@@ -5,6 +5,8 @@ category: "Reference"
 
 # National Advantages
 
+[TOC]
+
 ### Aestivan League
 
 Stats: Aestivans are thought to have strong spear arms and even stronger convictions, but are rigid in other ways.

@@ -7,6 +7,8 @@ category: "Reference"
 
 Below is an incomplete list of the plants, trees, and animals within the Republic of Iridine. Some may seem familiar to you...while others are found only in The Eternal City.
 
+[TOC]
+
 ### Animals {#Animals}
 
 #### Anteater

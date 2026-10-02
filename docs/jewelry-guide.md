@@ -13,6 +13,8 @@ The system is made up of several related skills. Different recipes use different
 ![](/assets/wikidot/jewelry-guide/gemcuts2.png)
 
 
+[TOC]
+
 ### How Jewelry Is Made
 
 Jewelry recipes do not all follow the same production process.

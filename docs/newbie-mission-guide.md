@@ -5,6 +5,8 @@ category: "Guides & Commands"
 
 # Newbie Mission Guide
 
+[TOC]
+
 ## Mission Guides *(UNDER CONSTRUCTION)*
 
 ### Dumpster Diving - Quartz Heights {#JunkDiver}

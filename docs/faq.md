@@ -4,6 +4,8 @@ category: Wiki & Help
 ---
 # FAQ
 
+[TOC]
+
 ### About {#about}
 
 #### What is The Eternal City (TEC)?

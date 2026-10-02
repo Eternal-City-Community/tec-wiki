@@ -6,6 +6,8 @@ category: "Reference"
 # Praetor Scripts
 
 
+[TOC]
+
 ### What a mode is
 
 A mode is a single Lua file that watches your game text as it scrolls by and sends commands on your behalf: auto-attacking, looting corpses, running a training loop, or walking a route. Only one mode runs at a time. Starting a new one stops whatever was running before it. To stop everything and return to manual play:

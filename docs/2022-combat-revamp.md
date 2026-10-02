@@ -5,6 +5,8 @@ category: "Skills & Combat"
 
 # 2022 Combat Revamp
 
+[TOC]
+
 ## General
 * Practice Dummies and Archery Targets now provide the same SP gaining capabilities, with the dummy being raised, and the target being lowered. Each will now provide SP when struck until the attacker has either 250 combat ranks, or 1000 skill points gained total, whichever comes first.
 * The creatures in the Iridine sewers and the Iridine dumps that were made to practically explode when hit by a non-newbie character have been returned to their original toughness. The intent here is to provide more hunting option for characters that need a stepping stone between Signaltower Island and the Ludus Valerius in difficulty, both alone or along side higher-ranked characters. Higher ranked characters can benefit from these areas as well, especially for a solid dose of nostalgia.

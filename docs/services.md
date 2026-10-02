@@ -10,6 +10,8 @@ category: "Reference"
 
 Those marked with ??? at the end need to be verified.
 
+[TOC]
+
 ## Buyers {#Buyers}
 ### Carcass Buyers
 * **Caprarius** ([Transinvexium](/transinvexium/))

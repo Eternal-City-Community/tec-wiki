@@ -14,6 +14,8 @@ Unlike crafts built around a single repeated action, most leatherworking project
 Leatherworking is closely related to [tanning](/tanning/), although tanning is not required to practice the craft. Leatherworkers capable of tanning their own hides have a ready source of material, while others will need to obtain leather or rawhide from another player.
 
 
+[TOC]
+
 ### Getting Started
 
 Leatherworking is taught through **Basic Leatherworking** and a collection of individual crafting actions.

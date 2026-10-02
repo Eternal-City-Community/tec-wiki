@@ -5,6 +5,8 @@ category: "Skills & Combat"
 
 # 2024 Combat Revamp
 
+[TOC]
+
 ## General
 * All retalq weapons have a significantly improved chance for critical hits.
 

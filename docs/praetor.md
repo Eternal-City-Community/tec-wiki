@@ -10,6 +10,8 @@ Praetor is a free, open-source desktop client for The Eternal City. It runs on W
 ![](/assets/wikidot/praetor/praetor-action-screen.png)
 
 
+[TOC]
+
 ### Features at a glance
 
 * Minimap and compass, drawn live as you move

@@ -5,6 +5,8 @@ category: "Skills & Combat"
 
 # 2025 Combat Revamp
 
+[TOC]
+
 ## General
 
 

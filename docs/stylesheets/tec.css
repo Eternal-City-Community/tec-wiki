@@ -287,7 +287,23 @@ body::before {
   line-height: 1.35;
 }
 
+/* Headings follow the old wiki: Wikidot's "+" and "++" were both olive bars,
+   "+++" and "++++" were underlined. Here they are h2/h3 and h4/h5, since the
+   page title takes h1. */
 .md-typeset h3 {
+  margin: .9rem 0 .55rem;
+  padding: .1rem .65rem;
+  background: var(--tec-olive);
+  color: #f0e7bf;
+  font-family: Georgia, "Times New Roman", serif;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+  font-size: .76rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+.md-typeset h4 {
   margin: 1rem 0 .5rem;
   padding: 0 0 .16rem 1.15rem;
   color: #4a513b;
@@ -683,6 +699,10 @@ body::before {
 .bio-card h3 {
   margin: 0 0 .3rem !important;
   padding: 0 0 .18rem !important;
+  background: none !important;
+  color: #4a513b !important;
+  border-bottom: 1px solid var(--tec-line) !important;
+  font-weight: 400 !important;
   font-size: .72rem !important;
   letter-spacing: .05em !important;
   text-transform: none !important;
@@ -895,7 +915,8 @@ html, body {
     line-height: 1.66;
   }
 
-  .md-typeset h2 {
+  .md-typeset h2,
+  .md-typeset h3 {
     letter-spacing: .10em;
   }
 
@@ -1004,7 +1025,8 @@ html, body {
 /* Command usage appended to skill headings should read as secondary metadata. */
 .md-typeset h3 em {
   margin-left: .65rem;
-  color: #67604e;
+  color: inherit;
+  opacity: .85;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
   font-size: .74em;
   font-weight: 400;
@@ -1039,7 +1061,8 @@ html, body {
   font-size: .76rem;
 }
 
-.md-typeset h3 {
+.md-typeset h3,
+.md-typeset h4 {
   font-size: .70rem;
 }
 
@@ -1617,6 +1640,10 @@ html, body {
 
 .tec-national-lores .tec-lore-card > h4 {
   margin: 0;
+  text-transform: none;
+  letter-spacing: normal;
+  font-family: inherit;
+  font-weight: 700;
   padding: .45rem .7rem;
   border: 0;
   border-bottom: 1px solid #aaa38a;
@@ -1645,6 +1672,7 @@ html, body {
 /* Stats page */
 .stats-page > h3 {
   margin-top: 1.45rem;
+  font-weight: 400;
   padding: .32rem .55rem;
   border-bottom: 2px solid #566126;
   background: rgba(104,109,55,.10);
@@ -1661,6 +1689,9 @@ html, body {
 
 .stats-page .tec-stat-card > h4 {
   margin: 0;
+  text-transform: none;
+  letter-spacing: normal;
+  font-weight: 700;
   padding: .42rem .65rem;
   border-bottom: 1px solid #aaa38a;
   background: rgba(226,219,186,.96);
@@ -2559,7 +2590,9 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 
 .md-typeset .tec-account-jump ~ h3 {
   margin-top: 1.1rem;
-  padding-bottom: .18rem;
+  padding: 0 0 .18rem 1.15rem;
+  background: none;
+  font-weight: 400;
   border-bottom: 1px dotted rgba(86,97,38,.55);
   color: #465032;
 }
@@ -2696,7 +2729,10 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 
 .tec-stat-card h4 {
   margin: 0 0 .4rem;
-  padding-bottom: .22rem;
+  padding: 0 0 .22rem;
+  text-transform: none;
+  letter-spacing: normal;
+  font-weight: 700;
   border-bottom: 1px solid rgba(86,97,38,.34);
   color: #39461f;
   font-family: Georgia, "Times New Roman", serif;
@@ -2790,4 +2826,33 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 /* Centered text, written in a page as a line "{: .tec-center }" under the paragraph. */
 .md-typeset .tec-center {
   text-align: center;
+}
+
+/* Table of contents, written as [TOC] in a page, styled like the old wiki's box. */
+.md-typeset .toc {
+  display: table;
+  max-width: 100%;
+  margin: .6rem 0 1rem;
+  padding: .45rem 1.2rem .55rem .8rem;
+  border: 1px dashed var(--tec-olive);
+  background: #f0eddc;
+  line-height: 1.45;
+}
+.md-typeset .toc .toctitle {
+  display: block;
+  margin-bottom: .25rem;
+  color: #39452d;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+}
+.md-typeset .toc ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.md-typeset .toc ul ul {
+  margin-left: 1.2em;
+}
+.md-typeset .toc li {
+  margin: 0;
 }

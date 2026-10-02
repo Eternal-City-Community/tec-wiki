@@ -8,6 +8,8 @@ category: "Guides & Commands"
 
 This page covers using the desktop app once it's installed. For installing it, and for a quick reference of every shortcut and slash command, see [Praetor](/praetor/).
 
+[TOC]
+
 ### The layout {#layout}
 
 ![](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)

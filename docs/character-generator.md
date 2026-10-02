@@ -5,6 +5,8 @@ category: "Reference"
 
 # Character Generator
 
+[TOC]
+
 ## Creating a Character - Step By Step Guide 
 
 

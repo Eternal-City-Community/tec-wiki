@@ -23,6 +23,8 @@ Armor protections range from no protection to excellent as follows:
 **For locations to buy armor visit the [shops](/shops/) page.**
 
 
+[TOC]
+
 ## Kelestian Armor
 This armor is found on dead Kelestian invaders and from other player characters.
 
