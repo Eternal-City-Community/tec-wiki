@@ -375,9 +375,9 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 | /help |  | Search game help; show input syntax, key bindings, and commands |
 | /guide |  | Open the getting-started window and Praetor wiki links |
 | /list |  | Browse the loaded modes |
-| /mode (/sm) | <name> [args…] | Start a mode |
-| /toggle | <label> | Toggle a mode state value |
-| /set | <label> <value> | Set a mode state value |
+| /mode (/sm) | &lt;name&gt; [args…] | Start a mode |
+| /toggle | &lt;label&gt; | Toggle a mode state value |
+| /set | &lt;label&gt; &lt;value&gt; | Set a mode state value |
 | /calc (/rb) |  | Rank-bonus calculator |
 | /wiki | [name] | Open a wiki bookmark, or list them |
 | /maps | [name] | Open a map bookmark, or list them |
@@ -570,9 +570,9 @@ The notepad keeps freeform notes: plans, backstory, who owes you what. Open it w
 | Command | What it does |
 | --- | --- |
 | {{/notes}} | Open the notepad |
-| {{/notes add <title>}} | Start a new note with that title |
-| {{/notes open <title>}} | Open an existing note by title (case doesn't matter) |
-| {{/notes delete <title>}} | Delete a note |
+| {{/notes add &lt;title&gt;}} | Start a new note with that title |
+| {{/notes open &lt;title&gt;}} | Open an existing note by title (case doesn't matter) |
+| {{/notes delete &lt;title&gt;}} | Delete a note |
 | {{/notes list}} | Print your notes into the output, title and preview, most recently edited first |
 
 Notes are plain text files, one file per note, so you can edit or back them up outside Praetor. Each is titled by its first line, with the rest of the file as the body. They're shared across every account you log in with, not per character. They live in:
@@ -634,11 +634,11 @@ In the script file, a line starting with a hash mark is a comment and is dropped
 
 | Instruction | Effect |
 | --- | --- |
-| {{%wait:<duration>}} | Pause, e.g. {{%wait:5s}} |
-| {{%wait-random:<min>-<max>}} | Pause a random time in the range, e.g. {{%wait-random:2s-6s}} |
-| {{%wait-for:<pattern>[:<timeout>]}} | Wait for matching game text, or the timeout (default 60s) |
+| {{%wait:&lt;duration&gt;}} | Pause, e.g. {{%wait:5s}} |
+| {{%wait-random:&lt;min&gt;-&lt;max&gt;}} | Pause a random time in the range, e.g. {{%wait-random:2s-6s}} |
+| {{%wait-for:&lt;pattern&gt;[:&lt;timeout&gt;]}} | Wait for matching game text, or the timeout (default 60s) |
 | {{%wait-key}} | Hold until you type {{/next}} |
-| {{%note:<text>}} | Show a reminder to yourself, without sending anything |
+| {{%note:&lt;text&gt;}} | Show a reminder to yourself, without sending anything |
 
 Controls while a performance is running:
 
