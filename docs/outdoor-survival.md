@@ -120,7 +120,7 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
-With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light <group of wooden items>' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
+With at least **30 ranks in Firebuilding** and **50 ranks in Outdoor Survival**, you can also set fire to large piles of wooden refuse or twigs using 'light &lt;group of wooden items&gt;' to create a **bonfire**. Twigs are one of the most common items used to create bonfires, and a minimum of 100 twigs is needed to light a bonfire. However, other items can also be set on fire, such as a pile of at least 50 torches. The larger the pile of tinder lit, the longer the bonfire will last; bonfires can also be stoked just as a normal camp fire. When naturally extinguished, a bonfire will leave behind a pile of charcoal. This command can also be used by characters that have the [Aestiva Signalfire Lore](/national-lores/#Aestiva-Signalfire).
 
 **When you see this in use you see:**
 
@@ -188,7 +188,7 @@ As an outdoorsman you might encounter terrain which seems impassible to the norm
 
 ### Shelter Building  *build shelter* {#Shelter}
 
-There are times, either because of weather, dangerous predators, or simply to better mark your outdoor territory, that you'll wish to build a small temporary home for yourself. With this skill, you can use saplings, rope or cordage, grass, and twigs to build yourself a lean-to, which you can access by using the go <shelter> and leave commands. 
+There are times, either because of weather, dangerous predators, or simply to better mark your outdoor territory, that you'll wish to build a small temporary home for yourself. With this skill, you can use saplings, rope or cordage, grass, and twigs to build yourself a lean-to, which you can access by using the go &lt;shelter&gt; and leave commands. 
 
 These makeshift shelters will **degrade over time**, with their lifespans dependent upon how skilled you are at building shelters. After being built, lean-tos are mentioned as part of the area description of the location they are built. Someone who is not looking carefully for the lean-to might easily pass it by if they are not reading each room's description.
 
@@ -200,12 +200,12 @@ These makeshift shelters will **degrade over time**, with their lifespans depend
 
 Notes:
 * To find the twigs you'll need to build a shelter, use the "gather twigs" command.
-* The inspect <shelter> command will let you know if it is starting to degrade and might fall down soon without repairs. It will also tell you what supplies you'll need to repair the shelter.
-* You can repair a shelter with the repair <shelter> command.
-* You can dismantle your shelter by using the dismantle <shelter> command. This only works on shelters that you have built.
+* The inspect &lt;shelter&gt; command will let you know if it is starting to degrade and might fall down soon without repairs. It will also tell you what supplies you'll need to repair the shelter.
+* You can repair a shelter with the repair &lt;shelter&gt; command.
+* You can dismantle your shelter by using the dismantle &lt;shelter&gt; command. This only works on shelters that you have built.
 * A masterfully crafted lean-to can last several in-game years after being built or freshly repaired *(~6 months real time)*.
-* From the outside, you can look <shelter> to view the inside of the shelter. From the inside, you can peek to view the outside of the shelter.
-* You can pull a wagon or drag an item into a shelter with the pull wagon <shelter> or drag <item> <shelter> command. You can pull a wagon or drag an item out of a shelter with the pull wagon out or drag <item> out command.
+* From the outside, you can look &lt;shelter&gt; to view the inside of the shelter. From the inside, you can peek to view the outside of the shelter.
+* You can pull a wagon or drag an item into a shelter with the pull wagon &lt;shelter&gt; or drag &lt;item&gt; &lt;shelter&gt; command. You can pull a wagon or drag an item out of a shelter with the pull wagon out or drag &lt;item&gt; out command.
 
 **When you see this in use you see:**
 

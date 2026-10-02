@@ -307,9 +307,9 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | /help |  | Open the Help window | Esc closes it |
 | /guide |  | Open the getting-started window with links to the Praetor overview, guide, and scripting pages | Esc closes it |
 | /list |  | Open the Switch Mode window to browse modes ([Run a mode](/praetor-scripts/#run)) | Esc closes it without starting anything |
-| /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | `/mode disable` or Alt+X stops it |
+| /mode, /sm | &lt;name&gt; [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | `/mode disable` or Alt+X stops it |
 | /toggle | <label> | Flip a true/false value in the running mode | Run it again to flip it back |
-| /set | <label> <value> | Set a value in the running mode | Set it again to the old value |
+| /set | <label> &lt;value&gt; | Set a value in the running mode | Set it again to the old value |
 | /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#lookups)) | Esc closes it |
 | /wiki | [name] | List the wiki bookmarks, or open one in your browser ([Wiki bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
 | /maps | [name] | List the map bookmarks, or open one in your browser ([Map bookmarks](/praetor-guide/#lookups)) | Esc closes the list |

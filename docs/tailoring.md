@@ -263,7 +263,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 #### Notes on Learning
 * You **cannot train 'Basic Tailoring'**. Your basic **tailoring rank increases as you train the tailoring sub-skills**.
-* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [<lore name>] from <trainer>** commands.
+* To view and learn related **lores from trainers**, use the **learn lore** and the **learn lore [&lt;lore name&gt;] from &lt;trainer&gt;** commands.
 * Tailoring requires the knowledge of specific **[lores](#Lores)** & **[recipes](#Recipes)**. Once these lores are known, you do not need to learn additional ranks.
 * Tailors can optionally use the **[knot](#Knot)** & **[refit](#Refit)** commands, which requires no skill to learn or use.
 * Custom Tailoring Lores *(Edgings/Patterns)* can be requested via [RP Purchases](/account/#RolePointPurchases).
@@ -337,9 +337,9 @@ To find where the appropriate fabric is sold, you can search for *'**length of c
 ### Related Commands
 Related commands are commands that require no skill or training to use, but are necessary as part of the Tailoring skill set.
 
-### Recall  *recall <lore>* {#Recall}
+### Recall  *recall &lt;lore&gt;* {#Recall}
 
-To [stitch a pattern](#Stitch-Pattern) or sew a patch, you first need to **recall <lore>** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
+To [stitch a pattern](#Stitch-Pattern) or sew a patch, you first need to **recall &lt;lore&gt;** before working on your garment. You can type **lore** by itself to see a list of your known lores and [view the full list of all available tailoring lores](#Lores).
 
 **Maker's mark** is a special **lore**, in that it allows someone to identify the maker of an item by inspecting it.
 
@@ -368,7 +368,7 @@ To [stitch a pattern](#Stitch-Pattern) or sew a patch, you first need to **recal
 
 </div>
 
-### Threading  *thread <needle> with <thread>* {#Threading}
+### Threading  *thread &lt;needle&gt; with &lt;thread&gt;* {#Threading}
 
 Before performing actions such as [stitching](#Stitch-Pattern), your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
 
@@ -381,7 +381,7 @@ You thread a silver sewing needle with a spiraled grip carefully with a spool of
 
 </div>
 
-### Knot  *knot <spool> with <spool>* {#Knot}
+### Knot  *knot &lt;spool&gt; with &lt;spool&gt;* {#Knot}
 
 What is a tailor to do with the remnants of their spools of thread? Combine them with other remnants using the knot command. No skill is necessary.
 
@@ -394,9 +394,9 @@ What is a tailor to do with the remnants of their spools of thread? Combine them
 
 </div>
 
-### Refit  *refit <garment>* {#Refit}
+### Refit  *refit &lt;garment&gt;* {#Refit}
 
-Once a tailor has completed the garment, it can be altered slightly through the refit menu. No skill training is required beyond a basic knowledge of Tailoring. Simply REFIT <garment> and you will be shown a menu listing the ways in which you can modify the garment. As you improve in tailoring skill, more adjectives will become available. These adjectives are listed in the table below. It may be incomplete.
+Once a tailor has completed the garment, it can be altered slightly through the refit menu. No skill training is required beyond a basic knowledge of Tailoring. Simply REFIT &lt;garment&gt; and you will be shown a menu listing the ways in which you can modify the garment. As you improve in tailoring skill, more adjectives will become available. These adjectives are listed in the table below. It may be incomplete.
 
 
 <details markdown="1">
@@ -440,7 +440,7 @@ Once a tailor has completed the garment, it can be altered slightly through the 
 
 ### Skill Details
 
-### Patternwork  *layout <fabric>* {#Patternwork}
+### Patternwork  *layout &lt;fabric&gt;* {#Patternwork}
 
 Laying out fabric in preparation for its use in a tailoring recipe. You must be holding the corresponding pattern, and have recalled the recipe you wish to perform.
 
@@ -453,7 +453,7 @@ Laying out fabric in preparation for its use in a tailoring recipe. You must be 
 
 </div>
 
-### Tailor's Shears  *cut <fabric>* {#Tailors-Shears}
+### Tailor's Shears  *cut &lt;fabric&gt;* {#Tailors-Shears}
 
 The basic action of cutting fabric. When used in the course of a recipe, you must have recalled the recipe you wish to perform. This can also be used to cut a full length of cloth into two half lengths of cloth, etc.
 
@@ -466,7 +466,7 @@ The basic action of cutting fabric. When used in the course of a recipe, you mus
 
 </div>
 
-### Basic Sewing  *sew <part> to <part>* {#Basic-Sewing}
+### Basic Sewing  *sew &lt;part&gt; to &lt;part&gt;* {#Basic-Sewing}
 
 The basic action of sewing to pieces of cloth together.  When used in the course of a recipe, you must have recalled the recipe you wish to perform. This can also be used to to sew two half lengths of cloth to create a full length of cloth, etc.
 
@@ -488,7 +488,7 @@ The basic action of sewing to pieces of cloth together.  When used in the course
 
 </div>
 
-### Basic Hemming  *hem <incomplete garment>* {#Basic-Hemming}
+### Basic Hemming  *hem &lt;incomplete garment&gt;* {#Basic-Hemming}
 
 Most garments must be hemmed to complete the garment and prevent fraying. When used in the course of a recipe, you must have recalled the recipe you wish to perform.
 
@@ -501,7 +501,7 @@ Most garments must be hemmed to complete the garment and prevent fraying. When u
 
 </div>
 
-### Stitch Pattern  *stitch <garment>* {#Stitch-Pattern}
+### Stitch Pattern  *stitch &lt;garment&gt;* {#Stitch-Pattern}
 
 The practice of stitching a design into a garment. There are a wide variety of designs, and some will require that you complete the action multiple times. The color of the thread used will be reflected in the completed stitching.
 
@@ -553,7 +553,7 @@ You complete the accessory.
 
 </div>
 
-### Basic Mending  *mend <garment> with <fabric>* {#Basic-Mending}
+### Basic Mending  *mend &lt;garment&gt; with &lt;fabric&gt;* {#Basic-Mending}
 
 Damaged garments can be mended by a tailor. Occasionally NPC's will offer a tailor mending jobs (by Marcavia, Iraetia, etc). You may need to mend a garment more than once before it is completely mended.
 

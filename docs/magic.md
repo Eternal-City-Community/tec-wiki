@@ -51,7 +51,7 @@ In order to recall the spell you know, type:
 
 Soon after, a menu will guide you through the list of spells you know. You can then review the ritual involved with that spell. Once you've decided to cast a spell, first type:
 
-**Prepare <Name of Ritual>**
+**Prepare &lt;Name of Ritual&gt;**
 
 The ritual name is the same name as on your character sheet. You can shorten or abbreviate it and the parser will still likely recognize what you type in, as long as it's not duplicative of another spell name. After you prepare to cast a ritual, use the emote and speech commands associated with the ritual.
 

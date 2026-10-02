@@ -53,7 +53,7 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 ### Related Commands
 Related commands are commands that require no skill or training to use, but are necessary as part of the Healing skill set.
 
-### Tending  *tend <patient> [thorough]* {#Tend}
+### Tending  *tend &lt;patient&gt; [thorough]* {#Tend}
 
 To begin healing someone, you must focus on a prone (sitting, laying, kneeling) patient. Once you are tending to them, you can then commence any type of healing that is required.
 
@@ -87,7 +87,7 @@ You will be busy for nine more seconds.
 
 ### Skill details
 
-### Diagnose  *diagnose <body part>* {#Diagnose}
+### Diagnose  *diagnose &lt;body part&gt;* {#Diagnose}
 
 Diagnosing can give a healer more information about a specific type of wound. Diagnosing is not required in order to begin healing, but it can be useful for treating NPCs, unconscious characters, for role-playing purposes, or if you're just not sure what you need to do.
 
@@ -104,7 +104,7 @@ Diagnosing can give a healer more information about a specific type of wound. Di
 
 </div>
 
-### Bandage Wound  *bandage <body part> with <bandage>* {#Bandage-Wound}
+### Bandage Wound  *bandage &lt;body part&gt; with &lt;bandage&gt;* {#Bandage-Wound}
 
 Healers now start with this basic skill. Bandages have a chance to slow down or stop bleeding wounds. A healer's success, skill level, and the intensity of the bleeder all factor into the final result/helpfulness. It is generally better to clean, stitch, and then bandage the wound (although check with the patient first, as some characters prefer not to be bandaged). 
 
@@ -121,7 +121,7 @@ Bandages can be removed and reapplied, which makes this an excellent skill to pr
 
 </div>
 
-### Remove Bandages  *cut bandages [from] <body part>* {#Remove-Bandages}
+### Remove Bandages  *cut bandages [from] &lt;body part&gt;* {#Remove-Bandages}
 
 Bandages can restrict a character's movement, so ofttimes bandage removal is requested. This is useful as a career skill, and also for practicing, as it gives Healing SPs where manually removing bandages does not.
 
@@ -140,13 +140,13 @@ Bandages can restrict a character's movement, so ofttimes bandage removal is req
 
 </div>
 
-### Rouse  *rouse <patient> [with] <smelling salts>* {#Rouse}
+### Rouse  *rouse &lt;patient&gt; [with] &lt;smelling salts&gt;* {#Rouse}
 
 Rousing a character can briefly awaken them while they are unconscious. Please note that this could have adverse consequences depending on how far under a character is.
 
 **Tools Required**: Smelling salts
 
-### Arrow Pulling  *yank arrow from <body part>* {#Arrow-Pulling}
+### Arrow Pulling  *yank arrow from &lt;body part&gt;* {#Arrow-Pulling}
 
 Even without any training, it is possible to pull an arrow from someone but if you are not incredibly lucky, you will do further harm to your patient and potentially cause some bleeding. A successful arrow pull will be much faster than a failed one and cause little or no additional stress to your patient.
 
@@ -159,7 +159,7 @@ Even without any training, it is possible to pull an arrow from someone but if y
 
 </div>
 
-### Administer  *feed <edible item> to <person>* {#Administer}
+### Administer  *feed &lt;edible item&gt; to &lt;person&gt;* {#Administer}
 
 Administer can be used to feed medicine, food, or beverages to characters unable to feed themselves. Feeding an unconscious character food can sometimes help them regain consciousness (a hungry character with the Increased Metabolism trait will not regain fatigue until they are full). There are other creative uses for administer as well, such as in role-playing scenarios.
 
@@ -172,7 +172,7 @@ Administer can be used to feed medicine, food, or beverages to characters unable
 
 </div>
 
-### Stitch Wound  *stitch <body part> with <thread>* {#Stitch-Wound}
+### Stitch Wound  *stitch &lt;body part&gt; with &lt;thread&gt;* {#Stitch-Wound}
 
 Stitching is the only way to fully close a wound when it is bleeding. Cleaning the wound first may help the injury to heal faster. This skill is harder to master than most, but it is one of the most needed skills as bleeding wounds eventually lead to unconsciousness. Therefore, being very skilled at stitching will make a Healer faster, and thus more desirable as an assistant.
 
@@ -189,7 +189,7 @@ This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a char
 
 </div>
 
-### Remove Stitches  *cut stitches [from] <body part>* {#Remove-Stitches}
+### Remove Stitches  *cut stitches [from] &lt;body part&gt;* {#Remove-Stitches}
 
 Stitches get itchy after a while, which can become an irritating distraction, which makes removing them a popular request. A character can use the command CONDITION (or just COND) to see where they have stitches, which can help a healer be more efficient at removing their stitches.
 
@@ -202,7 +202,7 @@ Stitches get itchy after a while, which can become an irritating distraction, wh
 
 </div>
 
-### Clean Wound  *clean <body part> with <antiseptic>* {#Clean-Wound}
+### Clean Wound  *clean &lt;body part&gt; with &lt;antiseptic&gt;* {#Clean-Wound}
 
 Cleaning wounds is great practice, given that you have a large supply of antiseptic.
 
@@ -217,7 +217,7 @@ Cleaning wounds is great practice, given that you have a large supply of antisep
 
 </div>
 
-### Application  *apply <item> [to] <body part>* {#Application}
+### Application  *apply &lt;item&gt; [to] &lt;body part&gt;* {#Application}
 
 Apply salves & gels to injured body parts. The more knowledgeable you are with this skill, the longer the salve will last.
 
@@ -238,7 +238,7 @@ You take a small stoppered clay vial labeled 'Painkiller Salve'.
 
 </div>
 
-### Set Bone  *align <body part>* {#Set-Bone}
+### Set Bone  *align &lt;body part&gt;* {#Set-Bone}
 
 Before a broken bone can heal, it should be set and splinted. Setting bones is difficult work, and is usually reserved for well-practiced healers.
 
@@ -251,7 +251,7 @@ Before a broken bone can heal, it should be set and splinted. Setting bones is d
 
 </div>
 
-### Splint Bone  *splint <body part> [with] <longish item>* {#Splint-Bone}
+### Splint Bone  *splint &lt;body part&gt; [with] &lt;longish item&gt;* {#Splint-Bone}
 
 Before a broken bone can heal, it should be set and splinted. Splinting bones is much easier than setting them, and a wide variety of objects can be used as splints.
 
@@ -264,7 +264,7 @@ Before a broken bone can heal, it should be set and splinted. Splinting bones is
 
 </div>
 
-### Remove Splint  *cut <splint> [from] <body part>* {#Remove-Splint}
+### Remove Splint  *cut &lt;splint&gt; [from] &lt;body part&gt;* {#Remove-Splint}
 
 Removing splints is very similar to removing bandages and stitches. When you successfully remove a splint in this way, the splinting object is not destroyed and can be used again.
 
@@ -277,7 +277,7 @@ Removing splints is very similar to removing bandages and stitches. When you suc
 
 </div>
 
-### Pressure Wound Technique  *pressure <body part>* {#Pressure-Wound-Technique}
+### Pressure Wound Technique  *pressure &lt;body part&gt;* {#Pressure-Wound-Technique}
 
 To attempt to stem the flow of blood from a wound you must ensure your patient is laying still in a position which gives you easy access to the wounded area. Kneel down and apply direct pressure to the wound, ensuring it is pressed closed.
 

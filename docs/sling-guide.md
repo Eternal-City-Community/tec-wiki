@@ -63,7 +63,7 @@ Archery targets are available in the following locations:
 This is the list of Slings & Bullets that are recommended to use when using the Slings skill set.
 
 **Special Notes:** 
-* Use the ammo command to quickly set your preferred ammo. *(ammo bows|slings <ammo type>|none )*
+* Use the ammo command to quickly set your preferred ammo. *(ammo bows|slings &lt;ammo type&gt;|none )*
 * Small items (such as pebbles, coins, jewelry, etc.) can also be loaded into a sling and thrown, but they do not typically inflict serious damage.
 
 | Weapons | How to get it | Est. cost in shops |

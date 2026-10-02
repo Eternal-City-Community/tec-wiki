@@ -11,14 +11,14 @@ The world of Midlight offers an abundance of opportunities for all types of char
 ### Related Commands
 
 These are useful commands for **learning & teaching skills**.
-* skills [?] [*<skillset name>*] 
+* skills [?] [*&lt;skillset name&gt;*] 
 * ssk?ills [costs]
 * @cycle?-info
-* learn [lore] [*<skill>*] from <trainer> [with <skill>|general] [# <1-50>]
-* teach [lore] [*<skill>*] [to <max rank>]
+* learn [lore] [*&lt;skill&gt;*] from &lt;trainer&gt; [with &lt;skill&gt;|general] [# <1-50>]
+* teach [lore] [*&lt;skill&gt;*] [to &lt;max rank&gt;]
 * lore
 * @sp-c?ount
-* @sp-to-gsp *<skill> <number-of-gsp>*
+* @sp-to-gsp *&lt;skill&gt; &lt;number-of-gsp&gt;*
 
 See **syntax** and all **[commands](/commands/)**.
 

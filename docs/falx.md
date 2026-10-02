@@ -19,7 +19,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | *<u>Falx Combat</u>* | Easy | - | = - | - | - | 200 | 500 |
 | [Falx Kelestian Siege Stance](#siege) | Easy | 2 | = - | - | - | 100 | 175 |
 | [Falx Extending Jab](#jab) | Easy | Either | = Either | Cut | - | 200 | 500 |
-| [Falx Wild Strike](#wstrike) | Easy | 2 | = Short | *<random>* <sup>AoE</sup> | - | 200 | 500 |
+| [Falx Wild Strike](#wstrike) | Easy | 2 | = Short | *&lt;random&gt;* <sup>AoE</sup> | - | 200 | 500 |
 | [Falx Narrow Slash](#slash) | Easy | Either | = Either | Cut | - | 200 | 500 |
 | [Falx Overhead Chop](#chop) | Easy | Either | = Either | Cut | - | 200 | 500 |
 | [Falx Pommel Strike](#strike) | Easy | 2 | = Short | Bruise | - | 200 | 500 |
@@ -41,7 +41,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Accuracy](#Accuracy) | Difficult | - | = - | - | - | 100 | 175 |
 | [Falx Grip](#Grip) | Impossible | - | = - | - | - | 100 | 175 |
 
-*<wound type>* <sup>**AoE**</sup> denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
+*&lt;wound type&gt;* <sup>**AoE**</sup> denotes an Area of Effect (AoE) attack, where the user attempts to strike several surrounding opponents with 1 blow.
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
@@ -61,7 +61,7 @@ The maximum bonus for a weapon stance is generally achieved at 100 ranks.
 
 </div>
 
-### Falx Extending Jab  *jab <target>* {#jab}
+### Falx Extending Jab  *jab &lt;target&gt;* {#jab}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -75,7 +75,7 @@ A robust Kelestian raider twists her torso and extends the blade of her worn tin
 
 </div>
 
-### Falx Wild Strike  *wstrike <target>* {#wstrike}
+### Falx Wild Strike  *wstrike &lt;target&gt;* {#wstrike}
 
 This maneuver attempts to hit ALL targets surrounding you.
 
@@ -94,7 +94,7 @@ You grip your polished tin falx tight and swing wildly, bringing the blade acros
 
 </div>
 
-### Falx Narrow Slash  *slash <target>* {#slash}
+### Falx Narrow Slash  *slash &lt;target&gt;* {#slash}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -107,7 +107,7 @@ A livid Kelestian ravager leans forward slashing at you with the blade of his lo
 
 </div>
 
-### Falx Overhead Chop  *chop <target>* {#chop}
+### Falx Overhead Chop  *chop &lt;target&gt;* {#chop}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -120,7 +120,7 @@ You swing the blade of your worn tin falx over your head, chopping at a fully-ar
 
 </div>
 
-### Pommel Strike  *strike <target>* {#strike}
+### Pommel Strike  *strike &lt;target&gt;* {#strike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -133,7 +133,7 @@ A strong Kelestian raider tilts the blade of his sharpened tin falx back over hi
 
 </div>
 
-### Falx Haft Bash  *bash <target>* {#bash}
+### Falx Haft Bash  *bash &lt;target&gt;* {#bash}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -147,7 +147,7 @@ A strong Kelestian raider holds his sharpened tin falx horizontally and swings t
 
 </div>
 
-### Falx Hook Stab  *stab <target>* {#stab}
+### Falx Hook Stab  *stab &lt;target&gt;* {#stab}
 
 * This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's **Strength**.
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
@@ -161,7 +161,7 @@ A livid Kelestian ravager takes a wide grip on his long bronze falx with a dull 
 
 </div>
 
-### Falx Eviscerate  *eviscerate <target>* {#eviscerate}
+### Falx Eviscerate  *eviscerate &lt;target&gt;* {#eviscerate}
 
 With your prone target in a vulnerable state, you attempt to slam your falx down into your opponent, putting your whole body weight behind it.
 
@@ -178,7 +178,7 @@ You drop your weight, slamming the hook of your alanti falx into a stoic Kelesti
 
 </div>
 
-### Falx Formation Breaker  *break <target>* {#break}
+### Falx Formation Breaker  *break &lt;target&gt;* {#break}
 
 If successful, you can pull the opponent toward you.
 
@@ -193,7 +193,7 @@ A livid Kelestian ravager lifts his long bronze falx with a dull finish high and
 
 </div>
 
-### Falx Ankle Drag  *ankle <target>* {#ankle}
+### Falx Ankle Drag  *ankle &lt;target&gt;* {#ankle}
 
 If successful, you can pull the opponent toward you.
 
@@ -210,7 +210,7 @@ A livid Kelestian ravager crouches low, swinging his bronze falx with a sharpene
 
 </div>
 
-### Falx Whirlwind Slash  *wslash <target>* {#wslash}
+### Falx Whirlwind Slash  *wslash &lt;target&gt;* {#wslash}
 
 * This is an **Area of Effect** attack, striking at all approached opponents.
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
@@ -224,7 +224,7 @@ You raise your retalq falx high then bring it swiftly down while spinning in pla
 
 </div>
 
-### Falx Spinning Backhand  *spin <target>* {#spin}
+### Falx Spinning Backhand  *spin &lt;target&gt;* {#spin}
 
 Attempts to hit multiple targets in the same room.
 
@@ -240,7 +240,7 @@ A livid Kelestian ravager slides his rear foot to the side and adjust his grip b
 
 </div>
 
-### Falx Wide Hook Rake  *rake <target>* {#rake}
+### Falx Wide Hook Rake  *rake &lt;target&gt;* {#rake}
 
 Attempts to hit multiple targets in the same room.
 
@@ -256,7 +256,7 @@ A livid Kelestian ravager thrusts his long bronze falx with a dull finish behind
 
 </div>
 
-### Falx Final Slash  *fslash <target>* {#fslash}
+### Falx Final Slash  *fslash &lt;target&gt;* {#fslash}
 
 This skill acts as a normal slashing attack until the opponent is KO or should be KO. Once they've hit that threshold it turns into a ranged killing blow cleaving them in two. 
 
@@ -324,7 +324,7 @@ Spinning his dull tin falx hand-over-hand, a strong Kelestian raider catches you
 
 </div>
 
-### Falx Feint  *feint <target>* {#feint}
+### Falx Feint  *feint &lt;target&gt;* {#feint}
 
 **When you see this in use you see:**
 

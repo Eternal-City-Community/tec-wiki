@@ -46,7 +46,7 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 
 ### Skill Details
 
-### Plant Identification  *plantid <plant>* {#plantid}
+### Plant Identification  *plantid &lt;plant&gt;* {#plantid}
 
 This skill allows you to identify plants you may have harvested or purchased. More ranks in this skill will allow you to identify a wider variety of plant types.
 
@@ -117,7 +117,7 @@ Herbalism has three subskills related to foraging - Basic, Intermediate, and Adv
 
 See [Basic Herb Foraging](#basic-forage).
 
-### Brewing Fundamentals  *brew <container>* {#brew}
+### Brewing Fundamentals  *brew &lt;container&gt;* {#brew}
 
 The size of the container determines how much product will be made and the quantity of ingredients needed. If you don't have enough ingredients to make a bucket of beer, try to make just a mug.
 
@@ -125,7 +125,7 @@ Allows crafting of **drinks** like apple juice or posca.
 
 For details on existing recipes, *see [the brewing chart](/herbalism-guide/#BrewingChart).*
 
-**Required Materials**: *<Various>*. See [Brewing Chart](/herbalism-guide/#BrewingChart).
+**Required Materials**: *&lt;Various&gt;*. See [Brewing Chart](/herbalism-guide/#BrewingChart).
 
 **When you see this in use you see:**
 
@@ -206,7 +206,7 @@ TBC
 
 </div>
 
-### Craft Vessel  *craft [jar|flask|bottle|vial] [from|with] <clay>* {#vessel}
+### Craft Vessel  *craft [jar|flask|bottle|vial] [from|with] &lt;clay&gt;* {#vessel}
 
 This skill requires clay, which can be purchased from locksmithing shops, or foraged for with Outdoor's Survival Foraging skill at river banks. Any liquid container can be used for brewing, from vials to barrels, as long as the herbalist has an appropriate amount of ingredients to fill it. The volume of a container can be determined with the Volume Estimation skill and a scroll outlining Iridine's system of measurement can be purchased IG.
 
@@ -219,7 +219,7 @@ This skill requires clay, which can be purchased from locksmithing shops, or for
 
 </div>
 
-### Label Container  *label <container> <text>* {#label}
+### Label Container  *label &lt;container&gt; &lt;text&gt;* {#label}
 
 You must **wield** a sharp tool to label a container.
 
@@ -231,7 +231,7 @@ TBC
 
 </div>
 
-### Volume Estimation  *estimate <liquid|powder|container>* {#estimation}
+### Volume Estimation  *estimate &lt;liquid|powder|container&gt;* {#estimation}
 
 This skill has a chance of **[naturally increasing](/stats/#naturalatt)** a character's reasoning & judgement.
 

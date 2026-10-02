@@ -54,7 +54,7 @@ Sling Missile Weapons can use a wide array of ammunition types to hit targets wi
 | Iron Bullet | It has a decent weight to it and would be serviceable on the battlefield. | [monlon-kelestian-outpost](/monlon-kelestian-outpost/) (Kavacu) |
 | Lead Bullet | It has the weight and density to be deadly in combat. | [monlon-kelestian-outpost](/monlon-kelestian-outpost/) (Kavacu) |
 
-### Basic Throw  *sling <target>* {#basic-throw}
+### Basic Throw  *sling &lt;target&gt;* {#basic-throw}
 
 The most basic sling maneuver. Can only be used in the same square as the target.
 
@@ -66,7 +66,7 @@ A tall Kelestian menace whips his sling and releases a bullet at you!
 
 </div>
 
-### Arcing Sling Throw  *slingarc <target>* {#arcing-throw}
+### Arcing Sling Throw  *slingarc &lt;target&gt;* {#arcing-throw}
 
 Description
 
@@ -78,7 +78,7 @@ A tall Kelestian menace tilts his arm back and whips his sling up at an angle, t
 
 </div>
 
-### Snap Sling Throw  *slingsnap <target>* {#snap-throw}
+### Snap Sling Throw  *slingsnap &lt;target&gt;* {#snap-throw}
 
 Description
 
@@ -90,7 +90,7 @@ A tall Kelestian menace snaps her sling forward and releases it quickly, throwin
 
 </div>
 
-### Focused Sling Throw  *slingfocus <target>* {#focused-throw}
+### Focused Sling Throw  *slingfocus &lt;target&gt;* {#focused-throw}
 
 Description
 
@@ -102,7 +102,7 @@ A tall Kelestian menace takes careful aim before pitching his sling forward and 
 
 </div>
 
-### Underhand Sling Throw  *slingunder <target>* {#underhand-throw}
+### Underhand Sling Throw  *slingunder &lt;target&gt;* {#underhand-throw}
 
 Description
 
@@ -114,7 +114,7 @@ A lithe Kelestian menace spins her sling low at her side before flinging it unde
 
 </div>
 
-### Sling Clobber  *slingclobber <target>* {#sling-clobber}
+### Sling Clobber  *slingclobber &lt;target&gt;* {#sling-clobber}
 
 This is **melee attack** can only be performed with a **loaded sling**. This attack requires a heavy bullet.
 

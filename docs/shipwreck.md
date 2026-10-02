@@ -23,7 +23,7 @@ parent: iridine
 
 **Guide**
 * Wrecked ship:
- * Use the **swim <direction>** command to traverse flooded (water) tiles. You'll need to swim down into the flooded shoal depths and then back upward into the wrecked ship to board it, and you'll need to do the reverse to get back to the shoreline.
+ * Use the **swim &lt;direction&gt;** command to traverse flooded (water) tiles. You'll need to swim down into the flooded shoal depths and then back upward into the wrecked ship to board it, and you'll need to do the reverse to get back to the shoreline.
  * To get loot off the ship, carry sacks to location **A** in the flooded shoal depths and drop them. They will float upward to location **A** near the coastline's rocky outcrop. You can then swim upward, grab the sacks, and toss them northeast.
 * Underground hangout:
  * This is a raid-style hunting area where you must defeat a large number of enemies to proceed to the next room. Best done with a group of fighters teaming up together.

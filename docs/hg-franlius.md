@@ -72,7 +72,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **Loot**: *TBC*
 
 **<u>Reputation Drops</u>** 
-* A wide **linen armband** *<bearing|stitched with>* a *<scarlet|faded scarlet|bright red|red>* emblem.
+* A wide **linen armband** *&lt;bearing|stitched with&gt;* a *&lt;scarlet|faded scarlet|bright red|red&gt;* emblem.
 
 ### Tier III - Northeast Corner {#Tier3}
 
@@ -88,7 +88,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **Loot**: *TBC*
 
 **<u>Reputation Drops</u>** 
-* A wide **fine linen armband** *<bearing|stitched with>* a *<scarlet|detailed scarlet|red>* emblem.
+* A wide **fine linen armband** *&lt;bearing|stitched with&gt;* a *&lt;scarlet|detailed scarlet|red&gt;* emblem.
 
 ### Tier IV - Northwest Corner {#Tier4}
 
@@ -101,7 +101,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **Loot**: [Gemstones](/stones-ores/), Iron gladius, iron dirk.
 
 **<u>Reputation Drops</u>** 
-* A wide **silk armband** *<bearing|stitched with>* a [*<detailed>*] *<crimson|a rotting|a decaying>* <emblem|rot>.
+* A wide **silk armband** *&lt;bearing|stitched with&gt;* a [*&lt;detailed&gt;*] *&lt;crimson|a rotting|a decaying&gt;* &lt;emblem|rot&gt;.
 
 ### Tier V - Docks {#Tier5}
 **<u>Rank Threshold</u>**
@@ -118,7 +118,7 @@ This Tier is generally survivable if your character has graduated from Tier 2 of
 **Loot**:  [Gemstones](/stones-ores/), Iron-capped staff, iron gladius, iron dirk.
 
 **<u>Reputation Drops</u>** 
-* A wide **suede armband** bearing a *<scarlet|vivid scarlet|red>* emblem.
-* A wide **leather armband** *<bearing|stitched with>* a *<scarlet|vivid scarlet|bright red|red>* emblem.
+* A wide **suede armband** bearing a *&lt;scarlet|vivid scarlet|red&gt;* emblem.
+* A wide **leather armband** *&lt;bearing|stitched with&gt;* a *&lt;scarlet|vivid scarlet|bright red|red&gt;* emblem.
 
 [Back to Top](#)

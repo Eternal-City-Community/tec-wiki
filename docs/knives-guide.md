@@ -149,7 +149,7 @@ This is the list of weapons that can be used by the Knives skill set.
 | --- | --- | --- |
 | >> | >> | ~ Knives |
 | A (tin) knife | Bacei (Junk Dealer) | 53d |
-| A knife crafted from *<animal>* bone | [Hunting](/hunting/#knife) | Cannot be purchased. |
+| A knife crafted from *&lt;animal&gt;* bone | [Hunting](/hunting/#knife) | Cannot be purchased. |
 | A bronze knife **[RF]** | [Apecuia](/newbie-office/) ([Officium de Humanitas](/newbie-office/)). | 44d 1st 1s + 19 Pebbles |
 | A long knife **[RF]** | [Various Shops](/shops/) \| NPC Loot | +2t 192d |
 | >> | >> | ~ Dirks |

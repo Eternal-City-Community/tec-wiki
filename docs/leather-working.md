@@ -168,7 +168,7 @@ Most leatherworking projects are completed through a series of recipes. Individu
 ### Related Commands
 Related commands are commands that require no skill or training to use, but are necessary as part of the Leatherworking skill set.
 
-### Threading  *thread <needle> with <thread>* {#Threading}
+### Threading  *thread &lt;needle&gt; with &lt;thread&gt;* {#Threading}
 
 Before performing actions such as stitching, your needle must be threaded. Your needle must be re-threaded, if ever you get to the end of your spool of thread.
 
@@ -181,7 +181,7 @@ You thread a silver sewing needle with a spiraled grip carefully with a spool of
 
 </div>
 
-### Knot  *knot <spool> with <spool>* {#Knot}
+### Knot  *knot &lt;spool&gt; with &lt;spool&gt;* {#Knot}
 
 What is a tailor to do with the remnants of their spools of thread? Combine them with other remnants using the knot command. No skill is necessary.
 

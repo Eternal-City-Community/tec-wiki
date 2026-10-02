@@ -15,8 +15,8 @@ While there are numerous forms of currency throughout Midlight, **the most commo
 These are useful commands in managing **character wealth and money**.
 * weal?th
 * conv?ert
-* pay <person> <#> <coin type>
-* hire <person>
+* pay &lt;person&gt; <#> &lt;coin type&gt;
+* hire &lt;person&gt;
 * holdi?ngs
 * bank
 
@@ -50,7 +50,7 @@ In addition to the value of individual coins, there is the *"Talent"* unit of cu
 | Cent | 300 | 100 | 25 | 1 |
 | Talent | 18,750 | 6,250 | > 1,562.5 | 62.5 |
 
-**Note:** You can **convert currency** on this wiki using the **[money calculator](/money-calculator/)** or by using the **in-game** command: **convert <#> <coin type> to <new coin type>**.
+**Note:** You can **convert currency** on this wiki using the **[money calculator](/money-calculator/)** or by using the **in-game** command: **convert <#> &lt;coin type&gt; to &lt;new coin type&gt;**.
 
 
 ~~~

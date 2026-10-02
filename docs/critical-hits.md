@@ -39,18 +39,18 @@ a Cineran heavy soldier's eye pops audibly as a devastating strike to the temple
 * Your attack reveals blood as it scratches the skin over a rib, but fails to do further damage.
 * A weak slash barely breaks the skin.
 * Your eyes widen and a young man's narrow as your swing barely catches him.
-* Only the tip of your <weapon> strikes a young, weak slave. The damage is mostly to your pride.
+* Only the tip of your &lt;weapon&gt; strikes a young, weak slave. The damage is mostly to your pride.
 * Poor follow-through yields little.
 * Feeble hit bounces off the cheekbone inflicting little damage.
 * The slash cuts a little deeper.
 * A brute manages to turn sideways, but the proximity of the blow still cuts a jagged wound across his chest.
 #### Serious:
 * Slash gets the better of a young slave, forcing him to parry. **Changes stance to ??wary??**
-* A young slave quickly retreats when your <weapon> thuds off of his kneecap. **Retreats**
+* A young slave quickly retreats when your &lt;weapon&gt; thuds off of his kneecap. **Retreats**
 * You slice the back of a young man's hand with your slash. **Causes oozing wound**
-* A young, weak slave's stance is ruined as your <weapon> slashes into his thigh.
+* A young, weak slave's stance is ruined as your &lt;weapon&gt; slashes into his thigh.
 * You hear a slick cutting sound as your tin dagger opens up a minor wound on a brute's shoulder. **Causes oozing wound**
-* Your <weapon> slices into a thug. He steps backward, clutching his waist, as blood begins to trickle. **Causes oozing wound**
+* Your &lt;weapon&gt; slices into a thug. He steps backward, clutching his waist, as blood begins to trickle. **Causes oozing wound**
 #### Severe:
 #### Incapacitating:
 #### Fatal:
@@ -65,19 +65,19 @@ The scale whip cleaves deep into a Cineran heavy soldier's chest and splits his 
 * Your thrust goes awry, but the slight wound delivered causes a young slave to stumble.
 * Nothing done. Opportunity lost.
 * A young slave loses his footing and becomes occupied with regaining it.
-* Your <weapon> misses its mark, leaving a small gash on a young slave's calf.
-* The tip of your <weapon> barely scratches a young man's skin.
+* Your &lt;weapon&gt; misses its mark, leaving a small gash on a young slave's calf.
+* The tip of your &lt;weapon&gt; barely scratches a young man's skin.
 * The attack misses its full potential.
 * Your swing barely touches him.
 #### Serious:
 * Stab to a young slave's upper thigh causes him to take a step back and reassess the situation. **Retreats**
 * The deep strike to a young slave's chest forces him into a defensive posture. **Changes stance to defensive**
-* Your <weapon> digs into a young slave's hip but stops abruptly as it hits bone. **Causes oozing waist**
+* Your &lt;weapon&gt; digs into a young slave's hip but stops abruptly as it hits bone. **Causes oozing waist**
 * In a hurry, a young man hops backwards, barely escaping a vicious thrust to the waist!
-* A young man retreats a bit as your <weapon> penetrates deeply into his thigh.
-* The <weapon> pulls out red, leaving behind a flesh wound on one side of a young, weak slave's chest!
+* A young man retreats a bit as your &lt;weapon&gt; penetrates deeply into his thigh.
+* The &lt;weapon&gt; pulls out red, leaving behind a flesh wound on one side of a young, weak slave's chest!
 * You strike true and blood spurts from a young, weak slave's trunk.
-* Your <weapon> darts into the meat of a young, weak slave's back, bringing with it a flow of blood upon its retraction. **Back oozes blood**
+* Your &lt;weapon&gt; darts into the meat of a young, weak slave's back, bringing with it a flow of blood upon its retraction. **Back oozes blood**
 #### Severe:
 * * Stunning shot to chest! **4-5 seconds stun, chest oozes blood?**
 #### Incapacitating:

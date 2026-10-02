@@ -41,7 +41,7 @@ The GM (GameMaster) staff is comprised of individuals who code, build, and help 
 
 ##### PROCLAIM:
 
-***Syntax: proclaim <message> or proclaim emergency***
+***Syntax: proclaim &lt;message&gt; or proclaim emergency***
 
 This should be used in emergency situations ONLY or if a GM has contacted you first via PROCLAIM. If there is something currently affecting your gameplay or it’s an extremely time sensitive mater feel free to proclaim the word EMERGENCY and if a staff member is available they will respond to you.
 
@@ -85,7 +85,7 @@ Auxilii are volunteer players who have the ability to communicate with you OOC t
 
 ##### AUXCHAT:
 
-***Syntax: aux-chat <message>***
+***Syntax: aux-chat &lt;message&gt;***
 
 If you have an OOC question about the game the Auxilii is there to help new and old players alike.
 

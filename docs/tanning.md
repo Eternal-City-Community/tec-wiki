@@ -85,7 +85,7 @@ N 1 W 3
 
 ### Skill Details
 
-### Knead Hide  *Knead <thing>* {#Knead-Hide}
+### Knead Hide  *Knead &lt;thing&gt;* {#Knead-Hide}
 
 Description
 
@@ -97,7 +97,7 @@ Description
 
 </div>
 
-### Brush Hide  *Brush <hide>* {#Brush-Hide}
+### Brush Hide  *Brush &lt;hide&gt;* {#Brush-Hide}
 
 requires a brush with short stiff bristles
 
@@ -110,7 +110,7 @@ requires a brush with short stiff bristles
 
 </div>
 
-### Clean Hide  *Clean <pelt or hide>* {#Clean-Hide}
+### Clean Hide  *Clean &lt;pelt or hide&gt;* {#Clean-Hide}
 
 Cleaning an animal pelt or hide requires a wide shallow tray. Any leftover meat from skinning is removed from the hide to prepare for the next step in the process.
 
@@ -122,7 +122,7 @@ Cleaning an animal pelt or hide requires a wide shallow tray. Any leftover meat 
 
 </div>
 
-### Dehair Hide  *Dehair <hide or cleaned>* {#Dehair-Hide}
+### Dehair Hide  *Dehair &lt;hide or cleaned&gt;* {#Dehair-Hide}
 
 To remove the hair from the hide you'll need a small blade in hand. Once all the hair has been properly removed you can proceed to the next step in the process.
 
@@ -134,7 +134,7 @@ To remove the hair from the hide you'll need a small blade in hand. Once all the
 
 </div>
 
-### Dry Hide  *Dry <hide or tanned>* {#Dry-Hide}
+### Dry Hide  *Dry &lt;hide or tanned&gt;* {#Dry-Hide}
 
 The final step in the tanning process. Drying the cured hide will allow it to take on its intended properties including durability, toughness, water resistance, softness and/or flexibility.
 
@@ -146,7 +146,7 @@ The final step in the tanning process. Drying the cured hide will allow it to ta
 
 </div>
 
-### Soften Hide  *Soften <hide>* {#Soften-Hide}
+### Soften Hide  *Soften &lt;hide&gt;* {#Soften-Hide}
 
 Description
 
@@ -158,7 +158,7 @@ Description
 
 </div>
 
-### Dye Hide  *Dye <hide>* {#Dye-Hide}
+### Dye Hide  *Dye &lt;hide&gt;* {#Dye-Hide}
 
 Applying leather dye to a finished length of leather is a common practice. The tanner can choose from a wide variety of colored dyes at Arvane's shop.
 
@@ -170,7 +170,7 @@ Applying leather dye to a finished length of leather is a common practice. The t
 
 </div>
 
-### Salt Hide  *Salt <hide>* {#Salt-Hide}
+### Salt Hide  *Salt &lt;hide&gt;* {#Salt-Hide}
 
 Salting removes moisture from the hide allowing it to cure and prevents rot.
 
@@ -182,7 +182,7 @@ Salting removes moisture from the hide allowing it to cure and prevents rot.
 
 </div>
 
-### Scrape Hide  *flesh <hide or dehaired>* {#Scrape-Hide}
+### Scrape Hide  *flesh &lt;hide or dehaired&gt;* {#Scrape-Hide}
 
 Using a small blade, you can scrape away any remaining flesh and membrane from the hide. When done, you can move on to the final steps.
 
@@ -194,7 +194,7 @@ Using a small blade, you can scrape away any remaining flesh and membrane from t
 
 </div>
 
-### Tan Hide  *Tan <hide or scraped>* {#Tan-Hide}
+### Tan Hide  *Tan &lt;hide or scraped&gt;* {#Tan-Hide}
 
 The hides can be soaked in an animal brain mixture, starting fermentation process which cures the hide and stops it from rotting.
 

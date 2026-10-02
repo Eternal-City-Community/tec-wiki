@@ -63,7 +63,7 @@ Kerta tosses a tin axe up into the air, which spins quickly as it pivots around 
 
 </div>
 
-### Axe Feint  *feint <target>* {#Feint}
+### Axe Feint  *feint &lt;target&gt;* {#Feint}
 
 Similar to a feint with other weapons, the wielder attempts to distract the opponent and create an opening in his defenses. The difficulty for a feint to be used is dependant on the opponents overall fighting ability, a less skilled opponent will fall for a feint easier then a more skilled warrior.
 
@@ -77,7 +77,7 @@ Hroth leans forward, feigning a strike at a thug with his axe.
 
 </div>
 
-### Axe Throw  *throw <axe>* {#Throw}
+### Axe Throw  *throw &lt;axe&gt;* {#Throw}
 
 A powerful throwing attack, used best at a shorter range. You should be practiced in Hand Toss before learning throw, if not, you suffer severe penalties on your throwing success. Swaying Dodge protects against this attack.
 
@@ -91,7 +91,7 @@ Kerta throws an axe at a thug, but misses.
 
 </div>
 
-### Axe Basic Chop  *chop <target>* {#Basic-Chop}
+### Axe Basic Chop  *chop &lt;target&gt;* {#Basic-Chop}
 
 The most basic attack with the axe, this is the common strike of the beginner. Because of the balance and leverage of the axe it does significantly more damage than a chop with a gladius. It automatically aims high, and cannot be aimed otherwise.
 
@@ -111,7 +111,7 @@ Hroth brings down his tin axe in a chopping motion aimed at a thug, but misses.
 
 </div>
 
-### Axe Longarm Strike  *longarm <target>* {#Longarm-Strike}
+### Axe Longarm Strike  *longarm &lt;target&gt;* {#Longarm-Strike}
 
 One-handed, the wielder gives away some of his defensive balance for a moment, putting his weight and the laws of physics behind this strike. If totally successful, it puts the entire six-pound weight of the axe's head, moved at the end of a lever as long as the wielder's arm plus three feet, behind a razor-sharp tip. This inflicts a really grevious wound, and may go right through a bronze shield or breastplate, much to everyone's surprise.
 
@@ -131,7 +131,7 @@ Hroth steps forward, grasping his tin axe in one hand tightly and lifting it abo
 
 </div>
 
-### Axe Overhead Strike  *overhead <target>* {#Overhead-Strike}
+### Axe Overhead Strike  *overhead &lt;target&gt;* {#Overhead-Strike}
 
 One-handed, the wielder does the same thing as with a Longarm Strike, but with even more force behind it. This maneuver, statistically, is more likely to have total success, inflict more damage, and penetrate armor. This skill also has a chance to disarm the defender when blocking with their weapon.
 
@@ -147,7 +147,7 @@ Kerta steps forward, grasping her tin axe in both hands tightly and lifting it a
 
 </div>
 
-### Axe Pivot Smash  *smash <target>* {#Pivot-Smash}
+### Axe Pivot Smash  *smash &lt;target&gt;* {#Pivot-Smash}
 
 The wielder pivots to face right or left while smashing indiscriminately at the opponent. The resultant attack is more likely to hit, but has no chance of being a cut or pierce, only a blunt strike. It is more powerful than a simple swat, but cannot be aimed with precision.
 
@@ -167,7 +167,7 @@ Pivoting on one foot, Kerta turns halfway while smashing indiscriminately at a t
 
 </div>
 
-### Axe Pivoting Longarm  *pivotst?rike <target>* {#Pivoting-Longarm}
+### Axe Pivoting Longarm  *pivotst?rike &lt;target&gt;* {#Pivoting-Longarm}
 
 This is no doubt the most powerful axe attack. The wielder takes the full strength of his body, focused in a swift pivoting motion, and puts it behind the leverage of a longarm strike. This combined force is then concentrated into the relatively small edge of the axe-head and often results in incapacitating wounds. A highly refined version of the common sidestrike, this powerful blow is the most damaging one-handed maneuver. This skill also has a chance to disarm the defender when blocking with their weapon.
 
@@ -184,7 +184,7 @@ Pivoting on one foot, Hroth keeps his own arm straight as he turns half way and 
 
 </div>
 
-### Axe Side Strike  *sid?estrike <target>* {#Side-Strike}
+### Axe Side Strike  *sid?estrike &lt;target&gt;* {#Side-Strike}
 
 Similar to sidestrikes with other weapons, the wielder clutches the axe in both hands and attempts a powerful horizontal strike.
 
@@ -198,7 +198,7 @@ Using both arms, Protarian brings his axe around toward a thug in a powerful sid
 
 </div>
 
-### Axe Slash  *slas?h <target>* {#Slash}
+### Axe Slash  *slas?h &lt;target&gt;* {#Slash}
 
 A single-handed attack using the axe's blade which takes little effort to master.
 
@@ -212,7 +212,7 @@ Protarian slashes horizontally at a thug with the blade of his tin axe. He suffe
 
 </div>
 
-### Axe Head Swat  *swat <target>* {#Head-Swat}
+### Axe Head Swat  *swat &lt;target&gt;* {#Head-Swat}
 
 The wielder attempts to swat at the opponent using the flat end of the axes blade. A relatively weak bruising attack Head Swat is used to avoid the spilling of blood.
 
@@ -240,11 +240,11 @@ Chopping downward with his axe, Hroth deflects a thug's dirk.
 
 </div>
 
-### Axe Hook  *hook <target>* {#Hook}
+### Axe Hook  *hook &lt;target&gt;* {#Hook}
 
-The wielder entangles the opponent's weapon with his own and tries to throw the opponent's weapon away using brute strength. The opponent has a chance to free his weapon as well (Type: free <weapon>).
+The wielder entangles the opponent's weapon with his own and tries to throw the opponent's weapon away using brute strength. The opponent has a chance to free his weapon as well (Type: free &lt;weapon&gt;).
 
-> According to Protarian, "That's a tricky move. Ya try hookin' yer axe-blade over yer opponent's weapon, catchin' it. If it succeeds... tha good news is that they canna block or attack. Bad news is, you can't too. If ya hooked yer opponent's weapon or got yer weapon hooked...Ya can try to free it. [free <weapon>] From that point on, itsa contest of strength. Advantage always goes to tha one who began the hook, tho. Course, if yer really skilled, ya can jes try a loosening toss."
+> According to Protarian, "That's a tricky move. Ya try hookin' yer axe-blade over yer opponent's weapon, catchin' it. If it succeeds... tha good news is that they canna block or attack. Bad news is, you can't too. If ya hooked yer opponent's weapon or got yer weapon hooked...Ya can try to free it. [free &lt;weapon&gt;] From that point on, itsa contest of strength. Advantage always goes to tha one who began the hook, tho. Course, if yer really skilled, ya can jes try a loosening toss."
 
 **When you see this in use you see:**
 
@@ -256,7 +256,7 @@ In an impressive show of strength, Kerta wrenches away her axe from a thug, and 
 
 </div>
 
-### Axe Loosening Toss  *loose <weapon>* {#Loosening-Toss}
+### Axe Loosening Toss  *loose &lt;weapon&gt;* {#Loosening-Toss}
 
 When entangled, you flip the axe away, and attempt to wield it once again. It will throw off the opponent when successful, but if you mess up, you could drop the axe.
 
@@ -271,7 +271,7 @@ Giving it just enough of a push, Kerta lets go of his axe, sending it whirling a
 
 </div>
 
-### Axe Shield-Breaker  *break <target>* {#Shield-Breaker}
+### Axe Shield-Breaker  *break &lt;target&gt;* {#Shield-Breaker}
 
 The wielder aims wide, deliberately aiming for the shield of their opponent, putting significant force behind the blow. If it succeeds, the shield will take significant damage, possibly even breaking under the impact of the blow.  Shield-Breaker can also be used to target an opponent's flank when they are not wielding a shield.
 
@@ -306,7 +306,7 @@ Swing his axe horizontally, Hroth knocks away a thug's dirk.
 
 </div>
 
-### Axe Leg Strike  *leg?strike <target>* {#Leg-Strike}
+### Axe Leg Strike  *leg?strike &lt;target&gt;* {#Leg-Strike}
 
 The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#Willpower) will help them remain standing. The attacker's [strength](/stats/#Strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down.
 
@@ -320,7 +320,7 @@ In a vicious lateral blow, Protarian twists his axe towards a brute in a powerfu
 
 </div>
 
-### Axe Stepping Chop  *schop <target>* {#SteppingChop}
+### Axe Stepping Chop  *schop &lt;target&gt;* {#SteppingChop}
 
 The wielder aggressively steps forward and attempts to land a slightly stronger version of the basic chop maneuver. 
 
@@ -337,7 +337,7 @@ Protarian aggressively chops his retalq axe down at thug while stepping forward,
 
 </div>
 
-### Axe Stepping Leg Strike  *sle?gstrike <target>* {#SteppingLegstrike}
+### Axe Stepping Leg Strike  *sle?gstrike &lt;target&gt;* {#SteppingLegstrike}
 
 The wielder aims a vicious blow at the opponent's lower legs, while aggressively stepping forward. If the maneuver succeeds, there is a chance of tripping the opponent. The defender's [willpower](/stats/#Willpower) will help them remain standing. The attacker's [strength](/stats/#Strength) increases the chance to knock them down. This attack is not guaranteed to knock the opponent down. 
 

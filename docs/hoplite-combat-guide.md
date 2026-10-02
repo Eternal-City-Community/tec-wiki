@@ -107,8 +107,8 @@ Weapon round time with outstanding speed (190+):
 
 **Notes:**
 * "Most Attacks" include Phalanx Thrust, Shielded Stab, Rising Thrust, Defensive Repel, Shielded Advance, Underhand Thrust, Leaping Thrust, Sweep and Thrust, Spinning Chop, and Whirling Strike.
-* "light shields" include bronze buckler, reed shield, wooden buckler, iron round shield, Kelestian round shield w/ metal boss, <more TBA>
-* "heavy shields" include hide shield, Iridine wall shield, Kelestian triangle shield, Kelestian towering shield, towering oval shield, <more TBA>
+* "light shields" include bronze buckler, reed shield, wooden buckler, iron round shield, Kelestian round shield w/ metal boss, &lt;more TBA&gt;
+* "heavy shields" include hide shield, Iridine wall shield, Kelestian triangle shield, Kelestian towering shield, towering oval shield, &lt;more TBA&gt;
 * "any shield" includes both light and heavy shields
 
 

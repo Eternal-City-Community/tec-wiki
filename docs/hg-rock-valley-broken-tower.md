@@ -21,7 +21,7 @@ As you often need to switch between opponents, there is **no suggested [macro](/
 
 ### Map
 *TO UPDATE*
-**<INSERT MAP>**
+**&lt;INSERT MAP&gt;**
 <!-- 
 
 

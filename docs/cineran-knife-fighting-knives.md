@@ -101,7 +101,7 @@ In several intricate motions, Vitrus spins a retalq dagger onto two of his finge
 
 </div>
 
-### CKF Rib Tickle  *ribtickle <target>* {#Rib}
+### CKF Rib Tickle  *ribtickle &lt;target&gt;* {#Rib}
 
 Used as a defensive counter Rib Tickle is an attack that the wielder will use when grappled with an opponent. While in such a tight grasp someone trained in this skill can be assured that every successful strike will yield a strong chance of a critical hit due to how dangerously close they are to their opponent. This maneuver offers the opportunity to release the grappled hold, depending on the grappler's fortitude.
 
@@ -119,7 +119,7 @@ Vitrus grapples with a thug from a close position, managing to deliver a slashin
 
 </div>
 
-### CKF Triple Cut  *triplecut <target>* {#Triple}
+### CKF Triple Cut  *triplecut &lt;target&gt;* {#Triple}
 
 Rumored to be used only by the most proficient of knives users, this attack attempts to strike your opponent with up to three precision strikes. Although without training the required moves to grand master status, you will mostly be landing one weak hit.
 
@@ -141,7 +141,7 @@ In a dazzling blur of movement Maerodus tightly grips his retalq dagger and make
 
 </div>
 
-### CKF Face Slash  *fslash <target>* {#Face}
+### CKF Face Slash  *fslash &lt;target&gt;* {#Face}
 
 Similar to the face-targeting technique that whip wielders will employ, a good CKF fighter will aim for facial openings that cause his opponents focus to be somewhere else. Like how close that dirk just came to slashing his eye in two. The maneuver is well-suited to creating bloody, if minor, wounds on the face. The target may be stunned, depending on her fortitude.
 
@@ -161,7 +161,7 @@ Vitrus steps towards a thug with his retalq dagger held high and brings it acros
 
 </div>
 
-### CKF Wrist Slash  *wslash <target>* {#Wrist}
+### CKF Wrist Slash  *wslash &lt;target&gt;* {#Wrist}
 
 Having spent countless hours blocking your opponents eventually gives you ideas for possible areas to strike at next. --CKF Wrist Slash is an attack which **must follow the wielder's successful [Slashing Block](#Slashing) within 5 seconds of blocking**.--  The attack itself is light, but normally causes a light bleed to the opponent in the wrist of their attacking hand. There is a chance the attack may disarm the opponent.
 
@@ -182,7 +182,7 @@ Following through with his block, Maerodus draws the blade of his retalq dagger 
 
 </div>
 
-### CKF Backhand Slash  *bslash <target>* {#Backhand}
+### CKF Backhand Slash  *bslash &lt;target&gt;* {#Backhand}
 
 The wielder pivots in an attempt to make his opponent think he is about to attack somewhere else before slashing backwards with his dirk.
 
@@ -216,7 +216,7 @@ A wise scholar once said of Cinera, "Not a nation, but a battlefield," the night
 
 > > Maerodus says, "This is where a backup weapon comes in handy, as you'll have to keep that sheath outside any rain cloaks to get at it quickly enough."
 
-### CKF Markad Slash  *mslash <target>* {#Markad}
+### CKF Markad Slash  *mslash &lt;target&gt;* {#Markad}
 
 Creating the opportunity to strike twice, first with an open hand than with your dirk makes you a master of effective CKF fighting. The wielder pivots on his feet to strike with a distracting punch than attempts a deadly slash at the opening the wielder just created. Knowledge of Brawling Punch offers a bonus to this skill. Every 10 ranks in Brawling Punch grants +2 bonus to hit. It does not increase damage. Caps at 100 ranks in Brawling Punch (+20).
 
@@ -236,7 +236,7 @@ Vitrus pivots slightly, sending a quick punch at a thug. He then quickly draws t
 
 </div>
 
-### Cineran Knives Heavy Chop  *hchop <target>* {#HChop}
+### Cineran Knives Heavy Chop  *hchop &lt;target&gt;* {#HChop}
 
 TBC
 
@@ -248,7 +248,7 @@ TBC
 
 </div>
 
-### Cineran Knives Diving Stab  *dstab <target>* {#DStab}
+### Cineran Knives Diving Stab  *dstab &lt;target&gt;* {#DStab}
 
 TBC
 
@@ -263,7 +263,7 @@ A thug dives head-first at you with scuffed dagger held out! Your lorica squamat
 
 </div>
 
-### Cineran Knives Knee Stab  *kstab <target>* {#KStab}
+### Cineran Knives Knee Stab  *kstab &lt;target&gt;* {#KStab}
 
 TBC
 

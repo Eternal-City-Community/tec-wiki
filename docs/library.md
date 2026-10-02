@@ -23,7 +23,7 @@ The Library of Iridine has many well-spoken tutors within its halls, for those w
 
 Unrelated to [language lessons](/languages/), there are many rooms and sections in the library, on a wide range of topics. You can **search** a shelf for **a specific topic**, grab a **random title** or look at **all titles on a shelf**.
 
-* **Search for a specific topic**: type "search shelf for <KEYWORD>"
+* **Search for a specific topic**: type "search shelf for &lt;KEYWORD&gt;"
 * **Get a random title**: type "search shelf"
 * **Review all titles**: type "search shelf for ." (be sure to include the period)
 

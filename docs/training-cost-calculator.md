@@ -14,7 +14,7 @@ The calculator displays how much in-game currency it costs to learn the indicate
 
 **Token calculation** is more related to current rank than desired rank. Meaning learning from rank 10 to 20, then from rank 20 to 30 is more expensive than learning from rank 10 to 30 directly. 
 The displayed cost also assumes # is always used in LEARN command. When # is not present, there is a 5 token minimum. 
-**Example**: If learning rank 1 in a skill, **LEARN <skill> from Hroth # 1** = 4 tokens. While **LEARN <skill> from Hroth** = 5 tokens.
+**Example**: If learning rank 1 in a skill, **LEARN &lt;skill&gt; from Hroth # 1** = 4 tokens. While **LEARN &lt;skill&gt; from Hroth** = 5 tokens.
 
 
 ---
@@ -59,7 +59,6 @@ The displayed cost also assumes # is always used in LEARN command. When # is not
 .tcc-panel h3 {
   margin: 0 0 10px;
   font-size: .85rem;
-  color: var(--tcc-olive-dark);
 }
 
 .tcc-options-stack {

@@ -12,31 +12,31 @@ There are many ways to getting around the game world...
 ### Related Commands
 
 These are useful commands for staying aware of your **character's current state** and well-being.
-* walk to <marked destination>
+* walk to &lt;marked destination&gt;
 * run
 * walk
-* mark [<destination>]
-* wait for <ferry|ship|dock>
-* drag wagon <direction> 
-* drag wagon to <marked location> 
-* pull wagon <direction> [<number of paces> <direction> <number of paces> ... ] 
-* pull wagon to <marked location> 
+* mark [&lt;destination&gt;]
+* wait for &lt;ferry|ship|dock&gt;
+* drag wagon &lt;direction&gt; 
+* drag wagon to &lt;marked location&gt; 
+* pull wagon &lt;direction&gt; [&lt;number of paces&gt; &lt;direction&gt; &lt;number of paces&gt; ... ] 
+* pull wagon to &lt;marked location&gt; 
 
 See the full list of [commands](/commands/).
 
 ### Walking
 
 #### Walk-To
-Some locations within Iridine are considered to be *"common knowledge"*. From **major streets** you can use **'walk to <marked destination>'** to get to other nearby landmarks. For example, inside the city of Iridine, if you are standing on a main street then you can type **walk to bank** and your character should begin instinctively walking to the Bank.
+Some locations within Iridine are considered to be *"common knowledge"*. From **major streets** you can use **'walk to &lt;marked destination&gt;'** to get to other nearby landmarks. For example, inside the city of Iridine, if you are standing on a main street then you can type **walk to bank** and your character should begin instinctively walking to the Bank.
 
 You **cannot** use **'walk to'** to get to somewhere that's too far away. As an example, you cannot use the command to **walk to blackvine** directly from within the capital city of Iridine. You would need to first get closer to Blackvine (**walk to vetallun crossroad**) then you could walk to the **Blackvine** marked location.
 
 ##### Marked Destinations {#Mark}
 For a full list of all known (aka marked) destinations, type in **mark**.
 
-To add a (limited amount) of personal marked locations to use personally, use the mark? <destination> command. *(Note: Only destinations on main roads can be marked and walked to.)*
+To add a (limited amount) of personal marked locations to use personally, use the mark? &lt;destination&gt; command. *(Note: Only destinations on main roads can be marked and walked to.)*
 
-To remove a personal destination, use the same mark <destination> format with the destination name.
+To remove a personal destination, use the same mark &lt;destination&gt; format with the destination name.
 
 By default, you can add an initial 7 personal marked destinations.
 
@@ -93,7 +93,7 @@ Travel wagons exist in the game world. For paid wagons, only 1 ticket must be pu
 | Travel Time | ~8m 0s |
 | > **One-Way Trip** | ~ ~9m 3s |
 
-***<insert map snippet>***
+***&lt;insert map snippet&gt;***
 
 
 #### Franlius <-> Seld
@@ -110,15 +110,15 @@ For the cost of [A pale blue ticket](/shops/), you can take a wagon from Seld to
 | Travel Time | ~8m 0s |
 | > **One-Way Trip** | ~ ~9m 3s |
 
-***<insert map snippet>***
+***&lt;insert map snippet&gt;***
 
 
 ### Ships & Ferries
-There is 1 ship and 2 ferries located within the game world to help transport you. As you wait for ferries or ships, don't forget you can often [Fish](/hunting/#cast) from most docks. If the desired ship or ferry is not at its dock, you can use the wait for <ship/ferry> command to wait for it to arrive and to have your character board automatically.
+There is 1 ship and 2 ferries located within the game world to help transport you. As you wait for ferries or ships, don't forget you can often [Fish](/hunting/#cast) from most docks. If the desired ship or ferry is not at its dock, you can use the wait for &lt;ship/ferry&gt; command to wait for it to arrive and to have your character board automatically.
 
-**Note:** If someone is **following** you, they will not do so if you move due to the wait for <ship/ferry> command.
+**Note:** If someone is **following** you, they will not do so if you move due to the wait for &lt;ship/ferry&gt; command.
 
-***<insert map snippet>***
+***&lt;insert map snippet&gt;***
 
 
 #### Iridine <-> Franlius (Ship)
@@ -153,12 +153,12 @@ If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* coul
 ~~~
 
 
-***<insert map snippet>***
+***&lt;insert map snippet&gt;***
 
 
 #### Iridine <-> Signal Tower Island (Ferry)
 
-***<insert map snippet>***
+***&lt;insert map snippet&gt;***
 
 
 #### Vatallun <-> Seld <-> Monlon (Ferry)
@@ -175,4 +175,4 @@ If you're waiting on the Franlius, asking the sailor, *"Where's the ship?"* coul
 | Seld -> Vetallun | 2m 12s |
 | > **Round Trip** | ~ ~17m 24s |
 
-***<insert map snippet>***
+***&lt;insert map snippet&gt;***

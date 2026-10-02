@@ -65,7 +65,7 @@ A brash Kelestian warrior has one foot back, with falcata held diagonal beside h
 
 </div>
 
-### Falcata Slash  *slash <target>* {#slash}
+### Falcata Slash  *slash &lt;target&gt;* {#slash}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -78,7 +78,7 @@ A gruff-looking mercenary slashes diagonally at you with the edge of his worn ti
 
 </div>
 
-### Falcata Chop  *chop <target>* {#chop}
+### Falcata Chop  *chop &lt;target&gt;* {#chop}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**.
 * This attack **can** be **aimed at** specific **body parts**, **except** hands, arms & waist.
@@ -91,7 +91,7 @@ A gruff-looking mercenary swings his worn tin falcata overhead, chopping downwar
 
 </div>
 
-### Falcata Stab  *stab <target>* {#stab}
+### Falcata Stab  *stab &lt;target&gt;* {#stab}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -104,7 +104,7 @@ A gruff-looking mercenary thrusts at you with his worn tin falcata, but misses. 
 
 </div>
 
-### Falcata Tang Strike  *strike <target>* {#strike}
+### Falcata Tang Strike  *strike &lt;target&gt;* {#strike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -117,7 +117,7 @@ A gruff-looking mercenary lifts the blade of his worn tin falcata vertically and
 
 </div>
 
-### Falcata Mugger Hold  *mug <target>* {#mug}
+### Falcata Mugger Hold  *mug &lt;target&gt;* {#mug}
 
 * This attack can be aimed at the following regions: **high***(default)*.
 * This attack **can** be **aimed at** the **neck**.
@@ -136,7 +136,7 @@ With your well-balanced silvery-blue falcata in hand, you reach towards a brash 
 
 </div>
 
-### Falcata Cross Strike  *cstrike <target>* {#cstrike}
+### Falcata Cross Strike  *cstrike &lt;target&gt;* {#cstrike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -149,7 +149,7 @@ A gruff-looking mercenary sweeps the blade of his worn tin falcata inward, follo
 
 </div>
 
-### Falcata Lunge  *lunge <target>* {#lunge}
+### Falcata Lunge  *lunge &lt;target&gt;* {#lunge}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -163,7 +163,7 @@ A gruff-looking mercenary sweeps the blade of his worn tin falcata inward, follo
 
 </div>
 
-### Falcata Feint  *feint <target>* {#feint}
+### Falcata Feint  *feint &lt;target&gt;* {#feint}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -176,7 +176,7 @@ A gruff-looking mercenary slashes quickly at you with his worn tin falcata, but 
 
 </div>
 
-### Falcata Leg Strike  *legstrike <target>* {#legstrike}
+### Falcata Leg Strike  *legstrike &lt;target&gt;* {#legstrike}
 
 * This attack can be aimed at the following regions: **low***(default)*.
 * This attack **cannot be aimed** at specific body parts.
@@ -209,7 +209,7 @@ With your well-balanced sooty black falcata in hand, you reach towards a tough K
 
 </div>
 
-### Falcata Wide Strike  *wstrike <target>* {#wstrike}
+### Falcata Wide Strike  *wstrike &lt;target&gt;* {#wstrike}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -224,7 +224,7 @@ Leaning back, a brash Kelestian warrior brings her bronze falcata toward you in 
 
 </div>
 
-### Falcata Smash and Slash  *smash <target>* {#smash}
+### Falcata Smash and Slash  *smash &lt;target&gt;* {#smash}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -240,7 +240,7 @@ A stoic Kelestian warrior slams his towering pale white shield with metal reinfo
 
 </div>
 
-### Falcata Guarded Charge  *charge <target>* {#charge}
+### Falcata Guarded Charge  *charge &lt;target&gt;* {#charge}
 
 When approached by three people, there is a chance/guarantee? that upon a successful attempt one of the three approached people will be knocked out of the way to allow the user to approach the target.
 
@@ -262,7 +262,7 @@ A dashing Kelestian warrior levels her polished iron falcata and charges at Ulat
 
 </div>
 
-### Falcata Triple Strike  *tstrike<target>* {#tstrike}
+### Falcata Triple Strike  *tstrike&lt;target&gt;* {#tstrike}
 
 * This attack can be aimed at the following regions: **high***(default)*, **mid**, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -286,7 +286,7 @@ A dashing Kelestian warrior levels her polished iron falcata and charges at Ulat
 
 </div>
 
-### Falcata Heavy Slash  *hslash <target>* {#hslash}
+### Falcata Heavy Slash  *hslash &lt;target&gt;* {#hslash}
 
 * This attack can be aimed at the following regions: **high**, **mid***(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -303,7 +303,7 @@ A gutsy Kelestian warrior pivots with one leg, projecting with full force into a
 
 </div>
 
-### Falcata Sudden Stab  *sustab <target>* {#sustab}
+### Falcata Sudden Stab  *sustab &lt;target&gt;* {#sustab}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -321,7 +321,7 @@ You deftly withdraw a silvery-blue falcata with a wire-wrapped handle from your 
 
 </div>
 
-### Falcata Tumble Slash  *tslash <target>* {#tslash}
+### Falcata Tumble Slash  *tslash &lt;target&gt;* {#tslash}
 
 * This attack can be aimed at the following regions: **high**, **mid** *(default)*, **low**.
 * This attack **can** be **aimed at** specific **body parts**.
@@ -336,7 +336,7 @@ You deftly withdraw a silvery-blue falcata with a wire-wrapped handle from your 
 
 </div>
 
-### Falcata Feigning Thrust  *fthrust <target>* {#fthrust}
+### Falcata Feigning Thrust  *fthrust &lt;target&gt;* {#fthrust}
 
 * This attack can be aimed at the following regions: **high** *(default)*, **mid**.
 * This attack **cannot be aimed** at specific body parts.

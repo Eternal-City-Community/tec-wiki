@@ -28,16 +28,16 @@ To make your emotes more targeted and dynamic, you can use advanced syntax by en
 
 Examples:
 
-//**emote dances around the room and winks suggestively towards <leda>.
-emote dances around <bar>.
-emote dances around <leda> and smiles suggestively, grabbing <leda> by the arm.**//
+//**emote dances around the room and winks suggestively towards &lt;leda&gt;.
+emote dances around &lt;bar&gt;.
+emote dances around &lt;leda&gt; and smiles suggestively, grabbing &lt;leda&gt; by the arm.**//
 In the above examples, the players in the same room will see the action with the targeted person or object's name, while the targeted person will see it as if it is directed towards them.
 
 You can also use '+p' in conjunction with '<>' to indicate the possessive form.
 
 Example:
 
-***emote dances around the room and grabs <leda+p> arm.***
+***emote dances around the room and grabs &lt;leda+p&gt; arm.***
 The players in the same room will see:
 ***Constantine dances around the room and grabs Leda's arm.***
 
@@ -53,7 +53,7 @@ You can combine '@' and '<>' with '+p' in a single emote to create more dynamic 
 
 Example:
 
-***emote Hooting wildly, @ dances around the room and grabs <leda+p> arm.***
+***emote Hooting wildly, @ dances around the room and grabs &lt;leda+p&gt; arm.***
 The players in the same room will see:
 ***Hooting wildly, Constantine dances around the room and grabs Leda's arm.***
 While Leda will see:
@@ -128,9 +128,9 @@ Combat Usage:
 Shorthand macro:
 stf
 Expanded macro:
-slash <target> face
+slash &lt;target&gt; face
 
-Now if you type in: **target thug** and you try your **stf** macro it will attempt to **slash thug face**. The <target> will be replaced by whatever you set your target as while using the TARGET command.
+Now if you type in: **target thug** and you try your **stf** macro it will attempt to **slash thug face**. The &lt;target&gt; will be replaced by whatever you set your target as while using the TARGET command.
 
 You can also make use of | (shift+#) to create several targets that will be cycled through. For example: **target thug|brute|dog** will now target those three opponents. If there are no thugs or brutes, the dog will be your target. It will always cycle from first to last in terms of priority.
 
@@ -152,11 +152,11 @@ The TARGET command can also be used in macros that make use of the emote command
 Shorthand macro:
 supersmile
 Expanded macro:
-emote opens his mouth wide open and flashes a quick smile at <target>.
+emote opens his mouth wide open and flashes a quick smile at &lt;target&gt;.
 
-You can also make use of the above syntax in the EMOTE section to create all sorts of macro'ed emotes. If you wish to use a possessive with your target, you can also do so: <<target>+p>
+You can also make use of the above syntax in the EMOTE section to create all sorts of macro'ed emotes. If you wish to use a possessive with your target, you can also do so: <&lt;target&gt;+p>
 Expanded macro:
-emote opens his mouth wide open and flashes a quick smile in <<target>+p> direction.
+emote opens his mouth wide open and flashes a quick smile in <&lt;target&gt;+p> direction.
 
 It would show up as: **Yourname opens his mouth wide open and flashes a quick smile in Leda's direction.** when you enter the **supersmile** command if Leda is your TARGET.
 
@@ -1218,18 +1218,18 @@ zestily
 ## Advanced Miscellaneous Commands {#AdvancedMisc}
 ### Dress/Undress/Outfits/Wear All
 #### Dress
-**dress <outfit name>**  (See @outfits)
+**dress &lt;outfit name&gt;**  (See @outfits)
 
 #### Undress
 **undress**  (removes all clothing items)
-Note: By default you will stow things in your current container item. You can set this with 'stow <storage container name>'
+Note: By default you will stow things in your current container item. You can set this with 'stow &lt;storage container name&gt;'
 
 #### @outfits
 **@outfits**  (set outfits of specific items  - in order of putting on / removing order)
 
 #### Wear All
 **wear all**  (attempts to wear all clothing in the area in correct order)
-**wear all <container>** (attempts to wear all clothing in the specified container in correct order)
+**wear all &lt;container&gt;** (attempts to wear all clothing in the specified container in correct order)
 More details:
 ```From:    Senses
 To:      *news
@@ -1245,7 +1245,7 @@ actually put the clothes ON you. Today that changes!
 Command: wear all
 - This will attempt to wear all pieces of clothing/armor/etc. in the room with
 you.
-Command: wear all <container>
+Command: wear all &lt;container&gt;
 - This will attempt to wear everything that is inside a sack, wagon etc.
 The system will do it's best to wear things in an appropriate order, such as
 wearing sacks under a sagum or paenula, or wearing a bow on the outer layer so

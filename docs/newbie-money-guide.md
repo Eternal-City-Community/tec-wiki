@@ -42,7 +42,7 @@ In addition to the value of individual coins, there is the "Talent", a unit of c
 Several banking institutions exist in Iridine, such as Seneda's Iridine Bank. Banking institutions that are linked, such as Seneda's multiple locations in Iridine, Vetallun, Blackvine and Monlon allow transfers of coin, between characters and between banking locations, for a fee. Funds may take approximately an hour to appear when transfered between locations.
 
 ### Conversion Command
-To quickly convert currency in the game, use the command: *convert <#> <coin type> to <new coin type>*
+To quickly convert currency in the game, use the command: *convert <#> &lt;coin type&gt; to &lt;new coin type&gt;*
 
 **What it looks like:**
 > *convert 250 denars to cents*

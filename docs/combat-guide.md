@@ -27,7 +27,7 @@ condition: shows your stance, fight level, wounds, bandages/stitches/splints, fa
 
 **approach/advance/engage**: will make you enter close range to a target
 
-**retreat**: will make you retreat from close range, but will make you leave openings. Can learn "fall back" in the Combat Maneuvers skillset to retreat without leaving openings. retreat <direction> will allow you to retreat and automatically leave an area to the targeted destination.
+**retreat**: will make you retreat from close range, but will make you leave openings. Can learn "fall back" in the Combat Maneuvers skillset to retreat without leaving openings. retreat &lt;direction&gt; will allow you to retreat and automatically leave an area to the targeted destination.
 
 **ac**: will show you the approach status of targets in the room
 
@@ -138,7 +138,7 @@ After you have learned some ranks and skills, you should now be able to handle t
 
 **Roll**: Your roll is a completely random number generated that will be between 1 and 100. You cannot, under any circumstances, affect your roll.
 
-**Cross-training**: In order to learn Combat Maneuvers, you can use -any- weapon skillsets to learn them. To do so, simply type: "learn combat maneuvers from <trainer> with <skillset>". The same principle works with Shields. You can earn Skill Points in Combat Maneuvers by using the Killing Blow skill on unconscious targets. Shields can also earn Skill Points by using the various shield bashes. Other skillsets such as Pankration and Brawling have interchangeable Skill Points, meaning that you can learn Pankration with skill points in Brawling and you can learn Brawlng with skill points in Pankration. The same works with Knives/Cineran Knife Fighting and Swords/Avros, Swords/Pardelian and Swords/Nelsor.
+**Cross-training**: In order to learn Combat Maneuvers, you can use -any- weapon skillsets to learn them. To do so, simply type: "learn combat maneuvers from &lt;trainer&gt; with &lt;skillset&gt;". The same principle works with Shields. You can earn Skill Points in Combat Maneuvers by using the Killing Blow skill on unconscious targets. Shields can also earn Skill Points by using the various shield bashes. Other skillsets such as Pankration and Brawling have interchangeable Skill Points, meaning that you can learn Pankration with skill points in Brawling and you can learn Brawlng with skill points in Pankration. The same works with Knives/Cineran Knife Fighting and Swords/Avros, Swords/Pardelian and Swords/Nelsor.
 
 **Stat-skills**: These skills allow one to train up their stats up to a maximum level. This number should be equivalent to more or less ~175 in the appropriate stat. If your current stat is above this number, you will not be receiving any benefit to learning it. Footwork in the Combat Maneuvers skillset will help you with Agility (raises your opponent's success). Reflexes in the Combat Maneuvers skillset will help you with Speed (slightly raises your opponent's success + lowers your roundtime). Most weapon skillsets will have a variant of Grip (Dexterity - makes it easier to hit your target) and Accuracy (Perception - slightly makes it easier to hit your target).
 

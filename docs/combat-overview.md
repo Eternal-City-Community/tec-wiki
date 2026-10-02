@@ -23,7 +23,7 @@ Having **problems with another character in-game**? Look over details regarding 
 * berserk | aggressive | normal | wary | defensive
 * fight
 * skills
-* skills ? <skill name>
+* skills ? &lt;skill name&gt;
 * ssk
 * practice
 * defenses
@@ -33,7 +33,7 @@ Having **problems with another character in-game**? Look over details regarding 
 The Eternal-City uses a **Rank Bonus (RB)** system. Every single rank that you learn in a skill will increase that skills effectiveness. The early ranks will offer you more rank bonus whereas the higher you are in a rank, the less it will give you. It is a diminishing return system. Difficulty of a maneuver does not effect this base rank bonus, but the level of 'basics knowledge' you have of a skill set will add additional RB.
 
 Your Rank Bonus is always visible when using the 'skills' command.
-***<Example Image>***
+***&lt;Example Image&gt;***
 
 To determine your Rank Bonus, you can use the [Rank Bonus Calculator](/rank-bonus-calculator/)
 
@@ -73,8 +73,8 @@ Your RB in a skill is determined by the Rank Bonus from your Basics skill + your
 | Difficult | 25% |
 | Impossible | 10% |
 
-***<Example Image>***
-***<Example Text. Sword Jab.>***
+***&lt;Example Image&gt;***
+***&lt;Example Text. Sword Jab.&gt;***
 
 
 [Back to Top](#)

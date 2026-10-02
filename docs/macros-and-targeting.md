@@ -24,12 +24,12 @@ Choose a short three to four letter abbreviation for each of your attack command
 
 #### Step Three:
 Set your first macro. Type: @macro SLA 
-When prompted with the message “Enter the string you wish to associate with this macro, or hit return to abort:” type: SLASH <TARGET>
+When prompted with the message “Enter the string you wish to associate with this macro, or hit return to abort:” type: SLASH &lt;TARGET&gt;
 You can now type SLA for your character to attempt to SLASH your target.
 
 #### Step Four:
 Set your target! Type: TARGET FLUVITUR or TAR FLUVITUR
-You can now type SLA for your character to attempt to SLASH FLUVITUR. (SLA = SLASH. <TARGET> = FLUVITUR.)
+You can now type SLA for your character to attempt to SLASH FLUVITUR. (SLA = SLASH. &lt;TARGET&gt; = FLUVITUR.)
 
 #### Step Five:
 The AC command checks the approach status of all creatures, including characters, in the room. 
@@ -39,7 +39,7 @@ Type AC . (yes, that’s a period) to check the approach status of any non-hidde
 
 #### Step Six:
 Repeat Step 3 for each of your attack commands.
-Advanced: Set aiming macros for each of your attacks. For example, you may wish to macro SLAH to mean SLASH <TARGET> HIGH, and KICL to mean KICK <TARGET> LOW. You can get even more nuanced: SLAHE = SLASH <TARGET> HEAD; SLAN = SLASH <TARGET> NECK and so on.
+Advanced: Set aiming macros for each of your attacks. For example, you may wish to macro SLAH to mean SLASH &lt;TARGET&gt; HIGH, and KICL to mean KICK &lt;TARGET&gt; LOW. You can get even more nuanced: SLAHE = SLASH &lt;TARGET&gt; HEAD; SLAN = SLASH &lt;TARGET&gt; NECK and so on.
 
 #### Step Seven:
 You can set your TARGET to look for any of multiple creatures in a room. For example, TARGET BANDIT|MAN|ESECARNUS|WOLF will attack the first of any of those creatures in a room. The list will not set a priority order. 

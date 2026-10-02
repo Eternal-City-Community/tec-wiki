@@ -15,4 +15,4 @@ Subject: Naming
 Forgot to mention...
 You can use the 'name' command to name a pet.  Only masters can name their pets.
 
-Usage: name <pet> <name>
+Usage: name &lt;pet&gt; &lt;name&gt;

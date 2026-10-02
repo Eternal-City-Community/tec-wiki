@@ -7,7 +7,7 @@ category: "Reference"
 
 ## Test
 
-### Craft Basic Torch  *make torch [with] <tinder>* {#Torch}
+### Craft Basic Torch  *make torch [with] &lt;tinder&gt;* {#Torch}
 
 Using a stick-like piece of tinder, the outdoorsman carves and whittles in it such a way as to make it suitable as a light-bearing torch, to either use personally, sell to other adventurers, or sell to the many supply shops throughout Iridine. The more skilled you are at making torches, the finer your torches will look and the longer they will burn; higher quality torches will also provide more light than poorly crafted ones.
 
@@ -44,7 +44,7 @@ Using a stick-like piece of tinder, the outdoorsman carves and whittles in it su
 
 ---
 
-### Craft Basic Torch  *make torch [with] <tinder>* {#Torch}
+### Craft Basic Torch  *make torch [with] &lt;tinder&gt;* {#Torch}
 
 Using a stick-like piece of tinder, the outdoorsman carves and whittles in it such a way as to make it suitable as a light-bearing torch, to either use personally, sell to other adventurers, or sell to the many supply shops throughout Iridine. The more skilled you are at making torches, the finer your torches will look and the longer they will burn; higher quality torches will also provide more light than poorly crafted ones. _
 1 _

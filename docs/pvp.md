@@ -29,7 +29,7 @@ existing warrant into these zones, but they may not issue new warrants while ins
 Within the Steps, gang organizations are expected to manage their own territory as they see fit.
 Regulated Zones (Civilized Territory)
 
-Combat is allowed, but looting is limited to coins and gems only, using the loot <target>
+Combat is allowed, but looting is limited to coins and gems only, using the loot &lt;target&gt;
 command. Gear, equipment, containers, and personal items cannot be taken. Violence is 
 permitted, and characters may attack without providing a reason, but griefing rules still 
 apply. All areas not designated as Open PvP Zones are considered regulated. Law enforcement 
@@ -66,7 +66,7 @@ PvP combat is much like PvE (Player vs Enemy/NPC) combat in that your skills go 
 #### Bone Break
 If another player is unconscious, you can break their bones. These breaks are generally very severe but will heal over time. Breaking a leg or a weapon arm/hand will put the victim out of order for a while.
 
-* **How to achieve**: Use the bbreak <target> command.
+* **How to achieve**: Use the bbreak &lt;target&gt; command.
 * **When**: While approaching the unconscious victim.
 * **Role Point Cost**: 250 rps per break
 
@@ -75,7 +75,7 @@ If another player is unconscious, you can break their bones. These breaks are ge
 You can **put an unconscious person into a [coma](/character-condition/#Coma)** by beating them within an inch of their life. A coma is essentially an **unconscious state for an extended period of time**, after which the victim wakes up and suffers from coma sickness, which temporarily reduces their [stats](/stats/). When someone suffers from coma sickness, it is difficult for them to walk, pick up heavy things and they are unable to think.
 
 
-* **How to achieve**: Use the kill <target> command on an unconscious victim OR continuing to attack an unconscious victim until they pass their [coma HP threshold](/character-condition/#Coma).
+* **How to achieve**: Use the kill &lt;target&gt; command on an unconscious victim OR continuing to attack an unconscious victim until they pass their [coma HP threshold](/character-condition/#Coma).
 * **When**: While approaching the unconscious victim.
 * **Role Point Cost**: (Compounding) 250 RPs per coma. 
  *  Example: **250 RPs** for the **1<sup>st</sup>** coma, **500 RPs** for the **2<sup>nd</sup>** coma, **750 RPs** for the **3<sup>rd</sup>** coma, etc. This resets after (1-3?) months.
@@ -93,7 +93,7 @@ One of the most severe PvP actions is the removal of someone's tongue, which mea
 #### Player (character) Killing (PKs) {#PKs}
 Killing another character is incredibly rare. You **must request approval** from the GMs to kill another character. You do this by submitting a player-kill ticket (PK ticket) under @request. When submitting a PK ticket, you must detail your **conflict history** with the other character. **IF** a GM approves your request, you have a limited amount of time (3 months?) to perform the kill. Like all PvP actions, in-character consequences may apply.
 
-* **Command**: Use the kill <target> command on an unconscious victim.
+* **Command**: Use the kill &lt;target&gt; command on an unconscious victim.
 * **Usage**: While approaching the unconscious victim & with a previously approved PK ticket.
 * **Role Point cost**: None
 

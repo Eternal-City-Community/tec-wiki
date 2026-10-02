@@ -133,7 +133,7 @@ Getting a hair cut is a natural occurrence in the daily lives of those dwelling 
 
 | Style | Outcome |
 | --- | --- |
-| Clean Shaven | <Characters> face is clean shaven |
+| Clean Shaven | &lt;Characters&gt; face is clean shaven |
 
 ### Stubble
 

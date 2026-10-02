@@ -76,7 +76,7 @@ Every attempt to echo your tutor will earn you language SP. How much is based on
 By default, every character in Midlight speaks in the **common** tongue. If you've mastered additional languages, you can speak and write in other tongues. Mastering a language means you've earned **50 ranks** in that language, allowing you to speak and understand it fluently. If you have not mastered a language, you cannot speak it and you may only understand bits and pieces from someone speaking it.
 
 #### Speaking Languages
-To **speak** in a language type 'speak <language>'. To switch back to the common tongue (normal) type 'speak **common**'
+To **speak** in a language type 'speak &lt;language&gt;'. To switch back to the common tongue (normal) type 'speak **common**'
 
 Examples:
 
@@ -87,7 +87,7 @@ speak Steps
 ```
 
 #### Writing in Languages
-To **write** in a language, type 'write [ON] <what> [IN <language>]'.
+To **write** in a language, type 'write [ON] &lt;what&gt; [IN &lt;language&gt;]'.
 
 ### Rock Valley - Blackroot Teacher {#Blackroot}
 Within the [Town of Rock Valley](/town-of-rock-valley/) lives the **Blackroot language** teacher. 

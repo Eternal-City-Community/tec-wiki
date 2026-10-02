@@ -44,9 +44,9 @@ The user interface (UI) is customizable and allows you to change the map from tw
 **Note:** if using the horizontal map style, you will need to use the macro system to make use of the APP, ADV, FB and KILL buttons. All of the buttons from 1-45 NEED to use the fe1, fe2, fe3, .. fe45 macros as it sends those commands. It functions the same way in Orchil.
 
 Step 1: @macro feapp
-Step 2: when prompted "Enter the string ..." you need to type in: app <target>
+Step 2: when prompted "Enter the string ..." you need to type in: app &lt;target&gt;
 
-Repeat the same process for @macro feadv (advance <target>), @macro fefb (fall back) and @macro fekill (kill <target>). The commands with the <target> string will need you to have a selected target first by using the TARGET command. 
+Repeat the same process for @macro feadv (advance &lt;target&gt;), @macro fefb (fall back) and @macro fekill (kill &lt;target&gt;). The commands with the &lt;target&gt; string will need you to have a selected target first by using the TARGET command. 
 
 ### Save Screen Positions
 
@@ -68,21 +68,21 @@ If you already have your colors set up, you still need to use the @colors comman
 
 List of macros that need to be set on each of your characters: (add only the appropriate ones - use @macro to add them)
 
-Kill command: fekill: kill <target>
-Use Advance to approach: feadv: adv <target>
-Use approach to approach: feapp: app <target>
-Use Custom Approach preference: customapproach: yourskill <target> (example: kleap <target>)
-Falx kill preference: falxkill: fslash <target>
-Use 2HC Charging Upswing after Forward Slam: fecupswing: cupswing <target>
-Use Cestus Upthrust to stand: feupthrust: upthrust <target>
+Kill command: fekill: kill &lt;target&gt;
+Use Advance to approach: feadv: adv &lt;target&gt;
+Use approach to approach: feapp: app &lt;target&gt;
+Use Custom Approach preference: customapproach: yourskill &lt;target&gt; (example: kleap &lt;target&gt;)
+Falx kill preference: falxkill: fslash &lt;target&gt;
+Use 2HC Charging Upswing after Forward Slam: fecupswing: cupswing &lt;target&gt;
+Use Cestus Upthrust to stand: feupthrust: upthrust &lt;target&gt;
 
-Now that all of the above has been completed, we can begin building scripts. The best way to use the system is to preset all of your attacks in macros and using <target> so you won't have to build scripts for every single hunting ground you visit. This will take very little time and will end up saving you a lot of time in the end. Using the @macro menu, you can build macros for every single attack that you will use. Some examples:
+Now that all of the above has been completed, we can begin building scripts. The best way to use the system is to preset all of your attacks in macros and using &lt;target&gt; so you won't have to build scripts for every single hunting ground you visit. This will take very little time and will end up saving you a lot of time in the end. Using the @macro menu, you can build macros for every single attack that you will use. Some examples:
 
 For the Sword skillset:
 
-@macro - A - sword1 - slash <target>
+@macro - A - sword1 - slash &lt;target&gt;
 
-What this does is make it so that when you send the sword1 command to the game, it will convert it into slash <target>. You can also be more specific and do things like: slash <target> high ... slash <target> head.
+What this does is make it so that when you send the sword1 command to the game, it will convert it into slash &lt;target&gt;. You can also be more specific and do things like: slash &lt;target&gt; high ... slash &lt;target&gt; head.
 
 You will now have to use the TARGET command to set up your target(s). So for instance, if you went to the sewers, you would set it up as: target ooze|snake|osecar|rat and it will attack the first target in the room with any of those names that can be targetted. As you change hunting grounds, you can easily set new targets without having to change any of your scripts.
 
@@ -141,11 +141,11 @@ Can be accessed using right-click->scripting->scripting preferences. Everything 
 * **Combat Script Debug Mode**: turning this to "ON" will send all debug functions to the @TEC or @Alerts windows. This is incredibly spammy, but allows you to see what is going on and allows the ability to troubleshoot if certain issues arise.
 * **Use combat advance**: turning this to "ON" will make you use combat advance over the basic approach command during scripts
 * **Kill automatically**: turning this to "ON" will make you use the killing blow command automatically when your target falls unconscious during scripts
-* **Use Custom Approach**: turning this to "ON" will make you use the  customapproach macro to make you use a variety of skills that can approach a target to you. You must first "@macro customapproach" and set it to whatever skill you wish to use, i.e.: falx: break <target>, chainblade: raptor <target>, nelsor: kleap <target>
+* **Use Custom Approach**: turning this to "ON" will make you use the  customapproach macro to make you use a variety of skills that can approach a target to you. You must first "@macro customapproach" and set it to whatever skill you wish to use, i.e.: falx: break &lt;target&gt;, chainblade: raptor &lt;target&gt;, nelsor: kleap &lt;target&gt;
 * **Continue Attacking on KO**: unlike the KILL AUTOMATICALLY function, this one allows you to keep attacking with your regular attack(s) while the target is unconscious. This is something that was added in for testing game mechanics.
-* **Falx: Use Final Slash to kill"**: when an enemy falls unconscious, the script will send the falxkill command if this is set to "ON". You MUST set a macro for falxkill as follows: falxkill: fslash <target>
+* **Falx: Use Final Slash to kill"**: when an enemy falls unconscious, the script will send the falxkill command if this is set to "ON". You MUST set a macro for falxkill as follows: falxkill: fslash &lt;target&gt;
 * **Use Backwards Rise to stand**: if set to "ON", in certain situations where your character needs to stand, it will use brise to do so.
-* **Cestus: Use Upthrust to stand**: turning this to "ON" will attempt to use upthrust to make your character stand. You MUST create a macro for it by using: feupthrust: upthrust <target>. 
+* **Cestus: Use Upthrust to stand**: turning this to "ON" will attempt to use upthrust to make your character stand. You MUST create a macro for it by using: feupthrust: upthrust &lt;target&gt;. 
 * **Sling: Use Speedload**: instead of using the "load" function, this allows your character to use speedload instead. Depending on your ranks in the skill, it can be faster to use speedload rather than the basic load function
 * **Noncom: Stop script when attacked**: as the name implies, when this setting is turned to "ON", you will stop your non-com script immediately upon being attacked. This can be useful when using the outdoors skills or herbalism in dangerous areas.
 * **Assume Weapon Combat Stance manually**: set to "ON" by default, if you don't have 80 ranks in your combat stance certain skills will require you to enter stance before performing them. Your script will attempt to enter the desired weapon combat stance when required.

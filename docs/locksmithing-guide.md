@@ -179,15 +179,15 @@ Below is the list of **keyring sizes** that can be created.
 
 | Keyring Size | Keyring Quality | Capacity |
 | --- | --- | ---: |
-| a somewhat tiny *<metal>* keyring | Poor | 6 |
-| a somewhat tiny *<metal>* keyring | Slightly Below-Average | 6 |
-| a somewhat tiny *<metal>* keyring | Average | 7 |
-| a small *<metal>* keyring | Average | 9 |
-| a small *<metal>* keyring | Good | 10 - 11 |
-| a somewhat small *<metal>* keyring | Good | ? |
-| a somewhat large *<metal>* keyring | Excellent | 12 |
-| a large *<metal>* keyring | Excellent | 13 - 14 |
-| a very large *<metal>* keyring | Excellent | ? |
+| a somewhat tiny *&lt;metal&gt;* keyring | Poor | 6 |
+| a somewhat tiny *&lt;metal&gt;* keyring | Slightly Below-Average | 6 |
+| a somewhat tiny *&lt;metal&gt;* keyring | Average | 7 |
+| a small *&lt;metal&gt;* keyring | Average | 9 |
+| a small *&lt;metal&gt;* keyring | Good | 10 - 11 |
+| a somewhat small *&lt;metal&gt;* keyring | Good | ? |
+| a somewhat large *&lt;metal&gt;* keyring | Excellent | 12 |
+| a large *&lt;metal&gt;* keyring | Excellent | 13 - 14 |
+| a very large *&lt;metal&gt;* keyring | Excellent | ? |
 | ??? | Excellent | ? |
 
 ### Jobs {#Jobs}

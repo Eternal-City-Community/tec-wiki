@@ -12,8 +12,8 @@ You can also view the [Advanced Commands](/advanced-commands/) page for more spe
 
 * To review all the available commands while in-game, type: **@commands**
 * To see commands only for the skills that your character has learned, type: **skills ?**
- * You can also type **skills ? <skillset>** to see commands for the skills you've learned in a specific skillset, such as Locksmithing or Archery.
-* To search for commands, type: **@command-search <search string>**
+ * You can also type **skills ? &lt;skillset&gt;** to see commands for the skills you've learned in a specific skillset, such as Locksmithing or Archery.
+* To search for commands, type: **@command-search &lt;search string&gt;**
  * Example:
 
 ~~~
@@ -169,8 +169,8 @@ Others see: <code>A man in a hooded cloak says to Uzak, "Hello"</code>
   <td>
     Think command shortcut. <br>
 Example: <code>%Hello</code><br>
-You see: <code><You think aloud: Hello></code><br>
-Others see: <code><A man in a hooded cloak  thinks aloud: Hello></code>
+You see: <code>&lt;You think aloud: Hello&gt;</code><br>
+Others see: <code>&lt;A man in a hooded cloak  thinks aloud: Hello&gt;</code>
   </td>
 </tr>
 <tr>
@@ -314,9 +314,9 @@ If check option supplied will not change status only display the state of given 
     Used to set your availability times to meet with other players.<br>
 One of the options must be selected.<br>
 <code>exclude</code> will list your current exclusion settings.<br>
-<code>exclude <name></code> will exclude <name> from viewing your availability.<br>
+<code>exclude &lt;name&gt;</code> will exclude &lt;name&gt; from viewing your availability.<br>
 <code>view</code> will show your current availability.<br>
-<code>view <name></code> will show the availability of <name>.<br>
+<code>view &lt;name&gt;</code> will show the availability of &lt;name&gt;.<br>
 <code>edit</code> allows editing your availability.
   </td>
 </tr>
@@ -398,7 +398,7 @@ One of the options must be selected.<br>
   </th>
   <td>
     Used to respond to a Script-Check. Usage:<br>
-    @check <keyword>
+    @check &lt;keyword&gt;
   </td>
 </tr>
 <tr>
@@ -542,7 +542,7 @@ One of the options must be selected.<br>
     @kill-roster
   </th>
   <td>
-    Usage: @kill-roster <who> Used to see what one of your characters has killed. 
+    Usage: @kill-roster &lt;who&gt; Used to see what one of your characters has killed. 
   </td>
 </tr>
 <tr>
@@ -550,7 +550,7 @@ One of the options must be selected.<br>
     @kudos
   </th>
   <td>
-    Usage: @kudos <name> <reason> Used to let the staff know your thoughts about a certain character.
+    Usage: @kudos &lt;name&gt; &lt;reason&gt; Used to let the staff know your thoughts about a certain character.
   </td>
 </tr>
 <tr>
@@ -654,7 +654,7 @@ One of the options must be selected.<br>
     @page
   </th>
   <td>
-    <b>WA Only</b><br>Usage: @page <full WA name> <message>
+    <b>WA Only</b><br>Usage: @page &lt;full WA name&gt; &lt;message&gt;
   </td>
 </tr>
 <tr>
@@ -855,7 +855,7 @@ If a number is provided, will start play immediately with that character.
     @sp-reset
   </th>
   <td>
-    Resets all SP in one skill to 0. Does <b>not</b> reset your skill point gain for the cycle. Usage: @sp-reset <skill>
+    Resets all SP in one skill to 0. Does <b>not</b> reset your skill point gain for the cycle. Usage: @sp-reset &lt;skill&gt;
   </td>
 </tr>
 <tr>
@@ -4081,7 +4081,7 @@ They see: <code>A man in a hooded cloak grumbles under his breath.</code>
     selftrain
   </th>
   <td>
-    Train yourself one rank in a specified sub-skill. Usage: selftrain <sub-skill name>
+    Train yourself one rank in a specified sub-skill. Usage: selftrain &lt;sub-skill name&gt;
   </td>
 </tr>
 <tr>
@@ -4653,7 +4653,7 @@ They see: <code>A man in a hooded cloak grumbles under his breath.</code>
   </th>
   <td>
    Sets a container for stowing items; any time you automatically put something away as your hands become full, it will go into this container.    
-   <br/> Use: stow <container name>, ie: stow my 2 sack. 
+   <br/> Use: stow &lt;container name&gt;, ie: stow my 2 sack. 
   </td>
 </tr>
 <tr>

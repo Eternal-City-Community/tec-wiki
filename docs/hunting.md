@@ -66,8 +66,8 @@ Difficulty: Easy
 ##### Usage: setup deadfall snare
 Using nearby roughage and cover, the hunter digs a shallow pit in order to capture small animals. Usage of this skill requires relatively hard soil, but requires nothing but nearby foliage to execute.
 
-##### Usage: release <snare> or release <animal>
-Generally, the only kind of animals deadfall snares can catch effectively are small game and forest rodents. Most animals that have lived to survive near human settlements are wily enough to get themselves out of a shallow pit. If you have set a snare and an animal has been caught inside, use 'release <snare>' 'release <animal>' to let it out. You will be given an option of either killing the animal or letting it go. Keep in mind that anyone can free an animal caught in a snare, so a good trapper will keep a close watch on his traps.
+##### Usage: release &lt;snare&gt; or release &lt;animal&gt;
+Generally, the only kind of animals deadfall snares can catch effectively are small game and forest rodents. Most animals that have lived to survive near human settlements are wily enough to get themselves out of a shallow pit. If you have set a snare and an animal has been caught inside, use 'release &lt;snare&gt;' 'release &lt;animal&gt;' to let it out. You will be given an option of either killing the animal or letting it go. Keep in mind that anyone can free an animal caught in a snare, so a good trapper will keep a close watch on his traps.
 
 #### Cord Snares {#cord}
 Difficulty: Average
@@ -111,7 +111,7 @@ Difficulty: Easy
 High ranks in the forester dismantling skill will automatically dismantle the trap after claiming your critter, and will return some of the components you used to make it
 
 
-##### Usage: dismantle <snare>
+##### Usage: dismantle &lt;snare&gt;
 Knowledge of the best way to take apart an existing trap or lean-to is an extremely important thing to possess for a hunter, as it will allow him to conserve his materials. The more ranks you have in this skill, the more likely you are to regain one or more parts of a snare you're taking apart.
  
 ---
@@ -122,12 +122,12 @@ The Fishing commands and skill cover this area.
  
 #### Pole Fishing {#cast}
 Difficulty: Easy
-##### Usage: cast <pole> (while in a room with access to a body of water)
+##### Usage: cast &lt;pole&gt; (while in a room with access to a body of water)
 Using a fishing pole, baited or not, the hunter casts out his line and tries to retrieve a fish. Success in this skill does not guarantee bringing a fish in. More ranks in this skill will allow you to identify the type of fish you catch just by looking at it. You'll also be able to tell how the fish compares to the average size of other fish of that species (whether it's very large, average sized, tiny, etc.)
    
 #### Pole Baiting
 Difficulty: Innate
-##### Usage: bait <pole> (with bait in hand)
+##### Usage: bait &lt;pole&gt; (with bait in hand)
 Using this command, the fisherman places a small insect or other bait onto the hook of his fishing pole. A baited pole will have a much easier chance of catching a fish if the cast is successful.
 
 Bait is a complicated science. Some types of bait, such as chirpers or tadpoles, do a better job overall catching fish, anywhere. Particular kinds of bait are known to help you catch larger fish in certain areas. Some types of bait might also increase you chance of catching specific types of fish. Experiment to see what works best.
@@ -203,10 +203,10 @@ Skilled hunters should attempt to train basic, intermediate, and advanced skinni
 
 #### Basic Skinning {#skin}
 Difficulty: Easy
-##### Usage: skin [part] [from] <corpse>
+##### Usage: skin [part] [from] &lt;corpse&gt;
 Using a knife or other small blade, the Hunter attempts to remove a part from a corpse. The most basic of the skinning skills, Basic Skinning will determine whether or not you successfully remove the part.
 
-##### Usage: inspect <corpse>
+##### Usage: inspect &lt;corpse&gt;
 This will allow you examine which parts of the corpse you want to skin, if you are being picky.
 
 
@@ -233,27 +233,27 @@ By necessity or choice, a Hunter will sometimes create his own weapons or ammuni
 
 #### Craft Crude Arrow {#arrow}
 Difficulty: Average
-##### Usage: craft arrow [from] <dead> [and] <feather>
+##### Usage: craft arrow [from] &lt;dead&gt; [and] &lt;feather&gt;
 Using some deadwood and a long bird feather, the Hunter attempts to create an arrow. Subsequent ranks in this skill will not simply make it easier to create an arrow, but increase the number of arrows you can make with your materials.
 
 #### Survival Knapping {#knapping}
 Difficulty: Average
-##### Usage: knap <stone|bone> into <spearhead|arrowhead>
+##### Usage: knap &lt;stone|bone&gt; into &lt;spearhead|arrowhead&gt;
 Using a hammerstone (round rock), found in the wilderness, the Hunter will scrape nearby rocks or bones into arrowheads, to improve the quality and damage his manufactured arrows can inflict. You'll need to know [Hunter Tipping Lore](#tipping) in order to fasten your creations onto an arrow or other weapon
 
 #### Craft Basic Spear {#spear}
 Difficulty: Easy
-##### Usage: craft spear [from] <sapling>
+##### Usage: craft spear [from] &lt;sapling&gt;
 Using a knife or other short blade, this skill allows you to craft a simple spear from a pine sapling. Subsequent ranks in this skill will not only allow you to produce the spears more easily, but will increase their quality dramatically. 100 ranks will give the user the ability to craft superior quality weapons with a high enough roll. While the user can craft superior quality wooden spears, having some cordage and a serrated bone spearhead will add an increase to damage. Note: knapped spearheads that are not serrated will actually lower the quality of the spear. 
 
 #### Craft Basic Stave {#stave}
 Difficulty: Easy
-##### Usage: craft stave [from] <sapling> | craft fangstave [from] <sapling>
+##### Usage: craft stave [from] &lt;sapling&gt; | craft fangstave [from] &lt;sapling&gt;
 Using a knife or other short blade, this skill allows you to craft a simple quarterstave from a sapling. Subsequent ranks in this skill will not only allow you to produce the staves more easily, but will increase their quality dramatically. With enough ranks, the user can also craft fangstaves (slight penalty for non-Altene characters). 100 ranks will give the user the ability to craft superior quality weapons with a high enough roll, though non-Altenes may need to improve their skill further to achieve the same results with a fangstave.
 
 #### Craft Basic Club {#club}
 Difficulty: Easy
-##### Usage: craft club [from] <branch|legbone>
+##### Usage: craft club [from] &lt;branch|legbone&gt;
 Using a knife or other short blade, this skill allows you to craft clubs from branches and leg bones. Subsequent ranks in this skill will not only allow you to produce the clubs more easily, but will increase their quality dramatically. At 100 ranks, the user will be able to craft superior quality clubs with a high enough roll.
 
 
@@ -282,12 +282,12 @@ Using a knife or other short blade, this skill allows you to craft clubs from br
 
 #### Craft Basic Short Bow {#bow}
 Difficulty: Difficult
-##### Usage: craft bow [from] <sapling>
+##### Usage: craft bow [from] &lt;sapling&gt;
 Using a knife or other short blade, this skill allows you to craft bows from saplings. While subsequent ranks will increase quality and ease of crafting dramatically, using high quality whittled nocks and cordage can result in superior quality bows (with enough ranks and a decent roll).
 
 #### Craft Basic Knife {#knife}
 Difficulty: Average
-##### Usage: craft knife [from] <rib, antler, horn, or large fang>
+##### Usage: craft knife [from] &lt;rib, antler, horn, or large fang&gt;
 With a rib, antler, horn, or large fang in one hand, and a whet stone in another hand, allows you to craft a basic knife. To improve the quality of the knife, you should also have a piece of cordage or vine available, which will be used to wrap the handle.
 
 
@@ -316,7 +316,7 @@ With a rib, antler, horn, or large fang in one hand, and a whet stone in another
 
 #### Craft Basic Axe {#axe}
 Difficulty: Average
-##### Usage: craft axe [from] <bone>
+##### Usage: craft axe [from] &lt;bone&gt;
 Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or a leg bone and a whet stone. These materials will be used to create the main shaft of the axe. Additionally, requires one jawbone to form the blade of the axe and one piece of cordage to attach that blade to the shaft.
 
 
@@ -348,9 +348,9 @@ Allows you to craft a basic axe. Requires either a sturdy branch and a knife, or
 
 #### Hunter Tipping Lore {#tipping}
 ##### Usage: 
-* fasten <arrowhead|quill> to <arrow>
-* fasten <spearhead> to <spear>
-* fasten <spikes|claw> to <club>
+* fasten &lt;arrowhead|quill&gt; to &lt;arrow&gt;
+* fasten &lt;spearhead&gt; to &lt;spear&gt;
+* fasten &lt;spikes|claw&gt; to &lt;club&gt;
 
 This command allows you to attach arrowheads, spikes, or other objects to the tip of a weapon you may have crafted. If you're having trouble using this command, make sure that you're using the materials in the right order, which can be established by using the MATCH command.
 
@@ -362,7 +362,7 @@ This command allows you to attach arrowheads, spikes, or other objects to the ti
 Note: In some cases, if you have enough knowledge about crafting and you're proficient in using the weapon that you're fastening something to, you don't need to learn this lore from a trainer - you will know about it innately (see [Tale's forum post](https://forum.skotos.net/showpost.php?p=1045042&postcount=2) for details).
 
 #### Field Dressing Lore {#fdress}
-##### Usage: fdress <corpse>
+##### Usage: fdress &lt;corpse&gt;
 
 This lore allows you to prepare a whole animal corpse or a fish into fillets to be cooked. This can only be done with fish and certain types of small game and birds, such as rabbits, squirrels, pheasants, and quail. Your skinning ability will be used to determine the quality of the prepared corpse.
 

@@ -37,5 +37,5 @@ A: Inventory and equipment needs will vary between schools of thought. Nearly al
 #### Q: How will spellcasters train? Will they need a practice dummy?
 A: Acquiring SP in spellcasting happens in two major ways. The first is the familiar method of using skill-actions and earning SP on successful actions. The second is visiting places of power and meditating for a period of time. This will require regular pilgrimages to sometimes distant (and perhaps dangerous) parts of the gameworld.
 
-#### Q: What about the revamp for <insert skill here>?
+#### Q: What about the revamp for &lt;insert skill here&gt;?
 A: New content is not incompatible with improving existing content. Spellcasting, in particular, offers some opportunities for non-combat skills. Rituals, which require consumable materials, have the potential to create demand for various items obtained by lockpicking, forestry, crafting, etc.
