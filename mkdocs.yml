@@ -45,6 +45,7 @@ plugins:
 
 hooks:
   - hooks/listpages.py
+  - hooks/preview_styles.py
 
 markdown_extensions:
   - admonition
