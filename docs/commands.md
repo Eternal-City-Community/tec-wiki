@@ -141,7 +141,7 @@ Text formatted as **`<text>`** is required and **`[text]`** is optional.
 </tr>
 <tr>
   <th>
-    '&lt;message&gt; 
+    '<message> 
   </th>
   <td>
     Say command shortcut.<br>
@@ -152,7 +152,7 @@ Others see: <code>A man in a hooded cloak says, "Hello"</code>
 </tr>
 <tr>
   <th>
-    "&lt;target&gt; &lt;message&gt; 
+    "<target> <message> 
   </th>
   <td>
     Say to command shortcut. <br>
@@ -247,7 +247,7 @@ Others see: <code><A man in a hooded cloak  thinks aloud: Hello></code>
 </tr>
 <tr>
   <th>
-    :&lt;message&gt; 
+    :<message> 
   </th>
   <td>
     emote command shortcut. <br>
@@ -275,7 +275,7 @@ Opens in new window. If a topic is supplied, will search for matches in file hea
 </tr>
 <tr>
   <th>
-    @age &lt;number&gt; 
+    @age <number> 
   </th>
   <td>
     Sets your character's age. <b>Can be used once per character</b>
@@ -283,7 +283,7 @@ Opens in new window. If a topic is supplied, will search for matches in file hea
 </tr>
 <tr>
   <th>
-    @allow [check] &lt;character&gt; 
+    @allow [check] <character> 
   </th>
   <td>
     Adds character to your allowed affectionate list.<br>
@@ -300,7 +300,7 @@ If check option supplied will not change status only display the state of given 
 </tr>
 <tr>
   <th>
-    @aux-mute &lt;character&gt; 
+    @aux-mute <character> 
   </th>
   <td>
     Characters who are part of the Divortium Auxilii can toggle someone from having access to the Aux-chat channel.
@@ -308,7 +308,7 @@ If check option supplied will not change status only display the state of given 
 </tr>
 <tr>
   <th>
-    @availability [exclude|exclude &lt;name&gt;|edit|view &lt;name&gt;|view]
+    @availability [exclude|exclude <name>|edit|view <name>|view]
   </th>
   <td>
     Used to set your availability times to meet with other players.<br>
@@ -330,7 +330,7 @@ One of the options must be selected.<br>
 </tr>
 <tr>
   <th>
-    @bad-name &lt;name&gt; 
+    @bad-name <name> 
   </th>
   <td>
     Divortium Auxilii members and Trustee players can use this command to bring a bad name to the GMs' attention.
@@ -587,7 +587,7 @@ One of the options must be selected.<br>
 </tr>
 <tr>
   <th>
-    @mset &lt;macro set&gt; 
+    @mset <macro set> 
   </th>
   <td>
     Selects an existing macro set to load.
@@ -603,7 +603,7 @@ One of the options must be selected.<br>
 </tr>
 <tr>
   <th>
-    @namecheck &lt;name&gt; 
+    @namecheck <name> 
   </th>
   <td>
     Checks availability of given name.
@@ -996,7 +996,7 @@ If a number is provided, will start play immediately with that character.
 </tr>
 <tr>
   <th>
-    abandon &lt;pet&gt; 
+    abandon <pet> 
   </th>
   <td>
     Used to relinquish ownership of a pet. 
@@ -1004,7 +1004,7 @@ If a number is provided, will start play immediately with that character.
 </tr>
 <tr>
   <th>
-    absolve &lt;character&gt; 
+    absolve <character> 
   </th>
   <td>
     <b>Law Enforcement Only</b> Used to absolve a character of crimes.
@@ -1012,7 +1012,7 @@ If a number is provided, will start play immediately with that character.
 </tr>
 <tr>
   <th>
-    accept &lt;character&gt; 
+    accept <character> 
   </th>
   <td>
     Accepts an offered item or payment.
@@ -1020,7 +1020,7 @@ If a number is provided, will start play immediately with that character.
 </tr>
 <tr>
   <th>
-    acheck &lt;character&gt; 
+    acheck <character> 
   </th>
   <td>
     Checks the approach status of the given character.
@@ -1028,7 +1028,7 @@ If a number is provided, will start play immediately with that character.
 </tr>
 <tr>
   <th>
-    act &lt;action&gt; 
+    act <action> 
   </th>
   <td>
     Synonymous with emote. 
@@ -1044,7 +1044,7 @@ If a number is provided, will start play immediately with that character.
 </tr>
 <tr>
   <th>
-    address &lt;character&gt; 
+    address <character> 
   </th>
   <td>
     Social command.<br>
@@ -1055,7 +1055,7 @@ Others see: <code></code>
 </tr>
 <tr>
   <th>
-    adopt &lt;pet&gt; 
+    adopt <pet> 
   </th>
   <td>
     If well-liked by an abandoned pet, will allow you take ownership of given pet.
@@ -1087,7 +1087,7 @@ Others see: <code></code>
 </tr>
 <tr>
   <th>
-    ammo &lt;bow|slingshot&gt; &lt;ammo type|none&gt; 
+    ammo <bow|slingshot> <ammo type|none> 
   </th>
   <td>
     Sets preferred ammunition type for a ranged weapon. 
@@ -1113,7 +1113,7 @@ They see: <code>A man in a hooded cloak applauds.</code>
 </tr>
 <tr>
   <th>
-    approach &lt;character&gt; 
+    approach <character> 
   </th>
   <td>
     Used to close the distance to a character for close-quarter commands like combat. 
@@ -1141,7 +1141,7 @@ They see: <code>A man in a hooded cloak waves his arms.</code>
 </tr>
 <tr>
   <th>
-    arrange &lt;pile&gt; into &lt;square|circle&gt; 
+    arrange <pile> into <square|circle> 
   </th>
   <td>
     Arranges a group into a particular shape. 
@@ -1149,7 +1149,7 @@ They see: <code>A man in a hooded cloak waves his arms.</code>
 </tr>
 <tr>
   <th>
-    arrest &lt;character&gt; 
+    arrest <character> 
   </th>
   <td>
      <b>Law Enforcement Only</b> Used to arrest a character.
@@ -1157,7 +1157,7 @@ They see: <code>A man in a hooded cloak waves his arms.</code>
 </tr>
 <tr>
   <th>
-    assist &lt;message&gt; 
+    assist <message> 
   </th>
   <td>
     Will leave a message for Auxilii to receive when logging in. 
@@ -1165,7 +1165,7 @@ They see: <code>A man in a hooded cloak waves his arms.</code>
 </tr>
 <tr>
   <th>
-    asskick &lt;character&gt; 
+    asskick <character> 
   </th>
   <td>
     Give a person a swift kick in the ass.<br>
@@ -1183,7 +1183,7 @@ They see: <code>A man in a hooded cloak gives you a swift kick in the ass!</code
 </tr>
 <tr>
   <th>
-    aux-chat &lt;message&gt; 
+    aux-chat <message> 
   </th>
   <td>
     Sends your message to the Auxilii.
@@ -1201,7 +1201,7 @@ They see: <code>A man in a hooded cloak babbles.</code>
 </tr>
 <tr>
   <th>
-    backslap &lt;character&gt; 
+    backslap <character> 
   </th>
   <td>
     Social command.<br>
@@ -1211,7 +1211,7 @@ They see: <code>A man in a hooded cloak gives you a resounding slap on the back.
 </tr>
 <tr>
   <th>
-    bait &lt;fishing pole&gt; with &lt;bait&gt; 
+    bait <fishing pole> with <bait> 
   </th>
   <td>
     Used to put bait on a fishing implement.
@@ -1245,7 +1245,7 @@ They see: <code>A man in a hooded cloak bats his eyelashes.</code>
 </tr>
 <tr>
   <th>
-    bbreak &lt;character&gt; 
+    bbreak <character> 
   </th>
   <td>
     Used to break the bones of a character. They must be bound.
@@ -1273,7 +1273,7 @@ They see: <code>A man in a hooded cloak beckons.</code>
 </tr>
 <tr>
   <th>
-    behead &lt;corpse&gt; 
+    behead <corpse> 
   </th>
   <td>
     Removes the head of a corpse. Must have a large bladed weapon wielded.
@@ -1299,7 +1299,7 @@ They see: <code>A man in a hooded cloak lets loose a powerful belch.</code>
 </tr>
 <tr>
   <th>
-    bet &lt;amount&gt; &lt;currency&gt; on &lt;contestant|option&gt; 
+    bet <amount> <currency> on <contestant|option> 
   </th>
   <td>
     Only available at betting tables. Used to bet a given amount of currency on an option.
@@ -1315,7 +1315,7 @@ They see: <code>A man in a hooded cloak lets loose a powerful belch.</code>
 </tr>
 <tr>
   <th>
-    bind &lt;character&gt; &lt;feet|hands&gt; with &lt;item&gt; 
+    bind <character> <feet|hands> with <item> 
   </th>
   <td>
     Used to bind a person with rope or restraints. 
@@ -1341,7 +1341,7 @@ They see: <code>A man in a hooded cloak blinks.</code>
 </tr>
 <tr>
   <th>
-    blow &lt;character|item&gt; 
+    blow <character|item> 
   </th>
   <td>
     Social command.<br>
@@ -1351,7 +1351,7 @@ They see: <code>A man in a hooded cloak blows softly in your ear.</code> or <cod
 </tr>
 <tr>
   <th>
-    blowkiss &lt;character&gt; 
+    blowkiss <character> 
   </th>
   <td>
     Social command.<br>
@@ -1371,7 +1371,7 @@ They see: <code>A man in a hooded cloak blushes.</code>
 </tr>
 <tr>
   <th>
-    bonebreak &lt;character&gt; 
+    bonebreak <character> 
   </th>
   <td>
     Same as bbreak. 
@@ -1379,7 +1379,7 @@ They see: <code>A man in a hooded cloak blushes.</code>
 </tr>
 <tr>
   <th>
-    bonk &lt;character&gt; 
+    bonk <character> 
   </th>
   <td>
     Social command.<br>
@@ -1389,7 +1389,7 @@ They see: <code>A man in a hooded cloak bonks you on the head!</code>
 </tr>
 <tr>
   <th>
-    bop &lt;character&gt; 
+    bop <character> 
   </th>
   <td>
     Social command.<br>
@@ -1419,7 +1419,7 @@ They see: <code>A man in a hooded cloak bows.</code>
 </tr>
 <tr>
   <th>
-    brief &lt;on|off&gt; 
+    brief <on|off> 
   </th>
   <td>
     Toggles brief mode.
@@ -1427,7 +1427,7 @@ They see: <code>A man in a hooded cloak bows.</code>
 </tr>
 <tr>
   <th>
-    brush &lt;character&gt; 
+    brush <character> 
   </th>
   <td>
     Social command.<br>
@@ -1447,7 +1447,7 @@ They see: <code>A man in a hooded cloak burps.</code>
 </tr>
 <tr>
   <th>
-    bury &lt;hole&gt; 
+    bury <hole> 
   </th>
   <td>
     Fills a hole in, along with whatever is in it.
@@ -1455,7 +1455,7 @@ They see: <code>A man in a hooded cloak burps.</code>
 </tr>
 <tr>
   <th>
-    buy [amount] &lt;item&gt; 
+    buy [amount] <item> 
   </th>
   <td>
     Buys one or more of the item from a shopkeeper.
@@ -1500,7 +1500,7 @@ They see: <code>A man in a hooded cloak chortles.</code>
 </tr>
 <tr>
   <th>
-    clabel &lt;crate&gt; &lt;message&gt; 
+    clabel <crate> <message> 
   </th>
   <td>
     Used to label crates 
@@ -1536,7 +1536,7 @@ They see: <code>A man in a hooded cloak clears his throat.</code>
 </tr>
 <tr>
   <th>
-    cling &lt;character&gt; 
+    cling <character> 
   </th>
   <td>
     Social command.<br>
@@ -1546,7 +1546,7 @@ They see: <code>A man in a hooded cloak clings to you tightly.</code>
 </tr>
 <tr>
   <th>
-    close &lt;portal&gt; 
+    close <portal> 
   </th>
   <td>
     Closes a door or entry.
@@ -1590,7 +1590,7 @@ They see: <code>A man in a hooded cloak cocks his head.</code>
 </tr>
 <tr>
   <th>
-    combine &lt;item&gt; 
+    combine <item> 
   </th>
   <td>
     Combines all items matching the given type into a group.
@@ -1598,7 +1598,7 @@ They see: <code>A man in a hooded cloak cocks his head.</code>
 </tr>
 <tr>
   <th>
-    comfort &lt;character&gt; 
+    comfort <character> 
   </th>
   <td>
     Social command.<br>
@@ -1616,7 +1616,7 @@ They see: <code>A man in a hooded cloak comforts you.</code>
 </tr>
 <tr>
   <th>
-    concentrate [&lt;character&gt;|tile] 
+    concentrate [<character>|tile] 
   </th>
   <td>
     Social command also used to initiate cadae usage.<br>
@@ -1652,7 +1652,7 @@ They see: <code>A man in a hooded cloak considers.</code>
 </tr>
 <tr>
   <th>
-    convert &lt;amount&gt; &lt;currency&gt; to &lt;currency&gt; 
+    convert <amount> <currency> to <currency> 
   </th>
   <td>
      Does currency conversions for the given amount and types.
@@ -1670,7 +1670,7 @@ They see: <code>A man in a hooded cloak coughs.</code>
 </tr>
 <tr>
   <th>
-    count &lt;group&gt; 
+    count <group> 
   </th>
   <td>
     Counts the items in a group.
@@ -1678,7 +1678,7 @@ They see: <code>A man in a hooded cloak coughs.</code>
 </tr>
 <tr>
   <th>
-    crack &lt;item&gt; 
+    crack <item> 
   </th>
   <td>
     Used to crack an item. Destroys the item when done.
@@ -1686,7 +1686,7 @@ They see: <code>A man in a hooded cloak coughs.</code>
 </tr>
 <tr>
   <th>
-    crawl &lt;direction&gt; 
+    crawl <direction> 
   </th>
   <td>
     Used to move while prone or unable to walk.
@@ -1722,7 +1722,7 @@ They see: <code>A man in a hooded cloak cries.</code>
 </tr>
 <tr>
   <th>
-    cuddle &lt;character&gt; 
+    cuddle <character> 
   </th>
   <td>
     <b>Requires allowed affections.</b> Social command.<br>
@@ -1732,7 +1732,7 @@ They see: <code>A man in a hooded cloak cuddles up to you.</code>
 </tr>
 <tr>
   <th>
-    cup &lt;character&gt; 
+    cup <character> 
   </th>
   <td>
     Social command.<br>
@@ -1762,7 +1762,7 @@ They see: <code>A man in a hooded cloak curtsies.</code>
 </tr>
 <tr>
   <th>
-    cuttongue &lt;character&gt; 
+    cuttongue <character> 
   </th>
   <td>
     Cut a character's tongue out. They must be bound.
@@ -1794,7 +1794,7 @@ They see: <code>A man in a hooded cloak curtsies.</code>
 </tr>
 <tr>
   <th>
-    decline &lt;person&gt; 
+    decline <person> 
   </th>
   <td>
     Declines something who is offering you something. 
@@ -1867,7 +1867,7 @@ They see: <code>A man in a hooded cloak curtsies.</code>
 </tr>
 <tr>
   <th>
-    discard &lt;item&gt; 
+    discard <item> 
   </th>
   <td>
     Discards an item.
@@ -2003,7 +2003,7 @@ They see: <code>A man in a hooded cloak curtsies.</code>
 </tr>
 <tr>
   <th>
-    echo &lt;character&gt; 
+    echo <character> 
   </th>
   <td>
      Used in learning languages. Echoes the tutor when asked.
@@ -2419,7 +2419,7 @@ They see: <code>A man in a hooded cloak curtsies.</code>
 </tr>
 <tr>
   <th>
-    focus &lt;item&gt; 
+    focus <item> 
   </th>
   <td>
     Can be used to initiate cadae communication.
@@ -3988,7 +3988,7 @@ They see: <code>A man in a hooded cloak grumbles under his breath.</code>
 </tr>
 <tr>
   <th>
-    say &lt;message&gt; 
+    say <message> 
   </th>
   <td>
     Used to speak.
@@ -5361,7 +5361,7 @@ They see: <code>A man in a hooded cloak winks.</code>
 </tr>
 <tr>
   <th>
-    withdraw &lt;item|amount in currency&gt; 
+    withdraw <item|amount in currency> 
   </th>
   <td>
     Used to withdraw items from automated storage like banks and message centers.<br>
@@ -5395,7 +5395,7 @@ You see: <code>You raise your fist in the air and shout, "Hurray!"</code>
 </tr>
 <tr>
   <th>
-    write on &lt;media&gt; [in &lt;language&gt;] 
+    write on <media> [in <language>] 
   </th>
   <td>
     Begins writing.
@@ -5412,7 +5412,7 @@ You see: <code>You yawn.</code>
 </tr>
 <tr>
   <th>
-    yell &lt;message&gt; 
+    yell <message> 
   </th>
   <td>
     Allows for yelling, which can be heard over a distance. The distance from the yelling person determines if the message can be clearly heard.<br>

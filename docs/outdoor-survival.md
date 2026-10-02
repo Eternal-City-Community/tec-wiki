@@ -71,7 +71,7 @@ In the outdoors, it can be hard to predict the behavior of a campfire, and even 
 
 </div>
 
-### Craft Basic Torch  *make torch [with] &lt;tinder&gt;* {#Torch}
+### Craft Basic Torch  *make torch [with] <tinder>* {#Torch}
 
 Using a small dry piece of deadwood or other tinder, typically found using the Find Firewood skill, the outdoorsman carves and whittles in it such a way as to make it suitable as a light-bearing torch, to either use personally, sell to other adventurers, or sell to the many supply shops throughout Iridine. The more skilled you are at making torches, the finer your torches will look and the longer they will burn; higher quality torches will also provide more light than poorly crafted ones.
 
@@ -103,7 +103,7 @@ Using a small dry piece of deadwood or other tinder, typically found using the F
 
 </details>
 
-### Stoke Fire  *stoke fire [with] &lt;tinder&gt;* {#Stoke}
+### Stoke Fire  *stoke fire [with] <tinder>* {#Stoke}
 
 A fire can use up a great deal of fuel, be it twigs, branches, or anything else that will burn, and as such will need to be rekindled from time to time with new materials. You can stoke a fire with just about anything that will burn, including clothing, wooden items, and, of course, branches and twigs. The size and dryness of the tinder will determine how effective of a fuel source it is.
 
@@ -116,7 +116,7 @@ A fire can use up a great deal of fuel, be it twigs, branches, or anything else 
 
 </div>
 
-### Firebuilding  *build fire [with] &lt;tinder&gt;* {#Fire}
+### Firebuilding  *build fire [with] <tinder>* {#Fire}
 
 Aside from a sharp survival knife, there's nothing more useful to an outdoorsman than a camp fire. Whether it's being used to cook food or keep away predators, a fire will always be helpful. To build a fire, you'll need **a firepit** and **a piece of tinder**, with some tinder being more effective than others. Many things can be used as tinder, including deadwood, twigs, torches, or other wooden objects.
 
@@ -160,7 +160,7 @@ To find a sapling, you'll need to be in an area with a lot of trees. You can fin
 
 </div>
 
-### Basic Camp Cooking  *cook &lt;food&gt;* {#Cook}
+### Basic Camp Cooking  *cook <food>* {#Cook}
 
 While many things you forage for or skin may be fine to eat raw, there are countless others which will need to be cooked. Using this skill, you will roast the item over a heat source such as a camp fire or stove. Some items are harder to cook than others, though, so make sure you keep an eye on your dinner!
 
@@ -173,7 +173,7 @@ While many things you forage for or skin may be fine to eat raw, there are count
 
 </div>
 
-### Outdoor Climbing  *climb &lt;object|location&gt;* {#Climb}
+### Outdoor Climbing  *climb <object|location>* {#Climb}
 
 As an outdoorsman you might encounter terrain which seems impassible to the normal person. But through extensive study of the land, the knowledgeable woodsman will be able to find a way up or down such obstacles. Beware, though, for some obstacles are harder to climb than others, and while a tumble down a grassy hill may not seem too harmful, falling down a stone mountain will not be pleasant.
 
@@ -216,7 +216,7 @@ Notes:
 
 </div>
 
-### Survival Rope-Making  *make rope with &lt;grass&gt;* {#Rope}
+### Survival Rope-Making  *make rope with <grass>* {#Rope}
 
 Rope is useful as a capturing agent, a snare component, a construction material, and for countless other things, and your ability to make your own will not only save you time, but also quite a bit of coin. Using grass foraged from the outdoors, you can use this skill to make a lightweight grass rope.
 
@@ -335,7 +335,7 @@ As your ranks in Grass Harvesting improve, you will be able to gather a greater 
 
 </details>
 
-### Craft Fishing Pole  *craft pole with &lt;sapling&gt;* {#Pole}
+### Craft Fishing Pole  *craft pole with <sapling>* {#Pole}
 
 Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing day of fishing. A skilled hunter knows that the fishing is only as good as the fishing pole, and takes pride in crafting a perfectly balanced pole that can stand the test of time. Creating a fishing pole requires a knife in-hand, a sapling, some cordage (made with [Survival Cordage Lore](/hunting/#cordage) or found in certain areas using Find Resource), as well as a suitable hook of some kind (such as one you've whittled, or a barbed thorn you've found by foraging around in the wilderness).
 
@@ -348,7 +348,7 @@ Of all the hunter's pastimes, nothing is quite as nostalgic as a long, relaxing 
 
 </div>
 
-### Forester Conceal  *conceal &lt;item&gt;* {#Conceal}
+### Forester Conceal  *conceal <item>* {#Conceal}
 
 There are times when you'll need to hide the things you find away, and using this skill you can conceal small objects from the prying eyes of your neighbors. Further skill in this move will allow you to conceal larger objects, and the number of objects you can hide in an area will be dependent on the amount of cover present. You can find concealed objects by using the **search** command.
 

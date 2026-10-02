@@ -378,9 +378,9 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 | /help |  | Search game help; show input syntax, key bindings, and commands |
 | /guide |  | Open the getting-started window and Praetor wiki links |
 | /list |  | Browse the loaded modes |
-| /mode (/sm) | &lt;name&gt; [args…] | Start a mode |
+| /mode (/sm) | <name> [args…] | Start a mode |
 | /toggle | &lt;label&gt; | Toggle a mode state value |
-| /set | &lt;label&gt; &lt;value&gt; | Set a mode state value |
+| /set | &lt;label&gt; <value> | Set a mode state value |
 | /calc (/rb) |  | Rank-bonus calculator |
 | /wiki | [name] | Open a wiki bookmark, or list them |
 | /maps | [name] | Open a map bookmark, or list them |

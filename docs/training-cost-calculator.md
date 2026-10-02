@@ -59,7 +59,6 @@ The displayed cost also assumes # is always used in LEARN command. When # is not
 .tcc-panel h3 {
   margin: 0 0 10px;
   font-size: .85rem;
-  color: var(--tcc-olive-dark);
 }
 
 .tcc-options-stack {

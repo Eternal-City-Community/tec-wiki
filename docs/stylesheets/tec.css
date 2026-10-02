@@ -331,6 +331,36 @@ body::before {
   text-decoration: underline;
 }
 
+/* Links and bold text inside the olive heading bars take the bar's light text. */
+.md-typeset h2 strong,
+.md-typeset h3 strong,
+.md-typeset h2 a,
+.md-typeset h3 a,
+.md-typeset h2 a:visited,
+.md-typeset h3 a:visited,
+.md-typeset h2 a:hover,
+.md-typeset h3 a:hover,
+.md-typeset h2 a:focus,
+.md-typeset h3 a:focus {
+  color: inherit;
+  text-decoration-color: currentColor;
+}
+
+.md-typeset h2 a.tec-missing-link,
+.md-typeset h3 a.tec-missing-link {
+  color: inherit !important;
+  text-decoration-color: currentColor !important;
+}
+
+/* Search results show section headings as h2: plain bold text, not olive bars. */
+.md-search-result .md-typeset h2 {
+  padding: 0;
+  background: none;
+  font-family: inherit;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
 .md-typeset table:not([class]) {
   display: table;
   width: max-content;

@@ -188,6 +188,7 @@ Confirmed from user testing / GM clarification:
 - Pickpocketing fix commit: `62db7233c06a3b2e0a96d8e5bb8a4c35641cedc3`
 - Outdoor Survival fix commit: `c76dc3a73ebbe51381f0e440bfa0399e3b4ae78b`
 - The Pickpocketing source still has no surviving detailed sections for Silent Slip or Silent Draw; do not invent those mechanics.
+- Superseded by a build step: `hooks/placeholders.py` escapes any `<word>` that is not an HTML tag the pages use, so pages keep plain `<target>`, `<object>` and the like (the CMS shows `&lt;` literally and saves typed `<` raw). `docs/admin/tec-cms-placeholders.js` does the same for the editor preview. Unescaped placeholders also hid in the search index, where the rest of a section became part of its heading. Only `&lt;label&gt;` and `&lt;mark&gt;`, which are real tag names, stay escaped in the pages.
 
 
 

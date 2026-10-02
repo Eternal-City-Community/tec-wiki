@@ -45,7 +45,7 @@ Objects must be visible to be stolen. Wearing a paenula, sagum, cloak, or simila
 
 ### Skill Details
 
-### Quick Grab  *grab &lt;object&gt; from &lt;target&gt;* {#Quick-Grab}
+### Quick Grab  *grab <object> from <target>* {#Quick-Grab}
 
 A simple, but highly visible move that just about every thief knows from the start - after all, which of ya hasn't had to steal a bit of bread from a merchants hands in order to have a meal for the day? The problem is snatching something out of someone's hands is not the least bit subtle. They're going to notice you take it, and probably call for a guard if you're really unlucky. Be prepared to spend some time in the slam until you master this maneuver and the art of running away quickly.
 
@@ -70,7 +70,7 @@ TBC
 
 </div>
 
-### Coin Sharpening  *sharpen &lt;coin&gt;* {#Coin-Sharpening}
+### Coin Sharpening  *sharpen <coin>* {#Coin-Sharpening}
 
 A sharpened coin is one of the most valuable tools a thief has at his disposal. Easily concealed by palming, a sharpened coin can be used to cut straps from coin pouches, or perhaps even to slice traps on heavier objects. Just be careful not to get caught with one in your possession or a grumpy constable might charge you with Destruction of Public Property over defacing a sen. This skill is not overly useful from a training perspective, unless you like cutting up your currency and rendering good coin useless for buying (No merchants will accept a sharpened coin for currency, so don't be so hasty about sharpening those golden cents unless you've got plenty of em to spare).
 
@@ -90,14 +90,14 @@ TBC
 
 </div>
 
-### Palm  *palm &lt;object&gt;* {#Palm}
+### Palm  *palm <object>* {#Palm}
 
 Palming is the absolute easiest way for a young thief to hone their dexterity and skill at the 'trade'. You simply conceal an object in the palm of your hand where it won't be easily noticed by anyone else. It's easy, it's tedious, but it's safe and won't get you arrested. But it might get you funny looks if you do it in front of the Stone Toga Inn. Use your noggin, think like a thief, and do it where someone isn't liable to walk in on you unless you plan on getting branded as a thief right from the start.
 
 **Visibility**
 * Public: *On Success* - Hidden. *On Failure* - Visible.
 
-Once an item is palmed, to reveal it again, use the **unpalm &lt;object&gt;** command.
+Once an item is palmed, to reveal it again, use the **unpalm <object>** command.
 
 **When you see this in use you see:**
 
@@ -108,7 +108,7 @@ TBC
 
 </div>
 
-### Cut and Lift  *lift &lt;pouch&gt; from &lt;target&gt;* {#CutandLift}
+### Cut and Lift  *lift <pouch> from <target>* {#CutandLift}
 
 Ahh, now here is the bread and butter of a decently trained thief. Lifting a pouch from an unsuspecting mark is by far the easiest and quickest way to getting the coin you need for all your little roguish dreams. Combined with a few useful skills in [Setups](/setups/), you can make very good money utilizing this particular maneuver. And the best part is, once you're skilled enough in it, the mark will never notice their pouch is missing til you're long gone and moving on to your next target. Learn this, master it, use it wisely, and you'll never go hungry again.
 
@@ -134,7 +134,7 @@ TBC
 
 </div>
 
-### Handoff  *handoff &lt;object&gt; to &lt;target&gt;* {#Handoff}
+### Handoff  *handoff <object> to <target>* {#Handoff}
 
 A simple way to subtly give an object to another person. Useful for when you're working side by side with another thief and need to get rid of something before a mark takes notice of ya. Also good for training if you've got a similarly skilled partner.
 
@@ -152,7 +152,7 @@ TBC
 
 </div>
 
-### Receive Handoff  *receive &lt;target&gt;* {#Receive-Handoff}
+### Receive Handoff  *receive <target>* {#Receive-Handoff}
 
 The second step to a successful **Handoff**, this maneuver will let you secretly accept an object from someone trying to hand it to ya on the sly. Both maneuvers are required in order for this exchange to be effective - and completely unnoticed to anyone around you if done right.
 
@@ -169,7 +169,7 @@ TBC
 
 </div>
 
-### Slice Strap  *slice &lt;container&gt; from &lt;target&gt;* {#Slice-Strap}
+### Slice Strap  *slice <container> from <target>* {#Slice-Strap}
 
 Similar to Cut and Lift, Slice Strap allows you to **remove a sack, bag or larger pouch** from a target.
 
@@ -188,7 +188,7 @@ Similar to Cut and Lift, Slice Strap allows you to **remove a sack, bag or large
 
 </div>
 
-### Loose Lift  *llift &lt;weapon&gt; [from] &lt;target&gt;* {#Loose-Lift}
+### Loose Lift  *llift <weapon> [from] <target>* {#Loose-Lift}
 
 As simple as it sounds, you lift a weapon from your target's belt hoop.
 
@@ -205,7 +205,7 @@ TBC
 
 </div>
 
-### Knife Lift  *klift &lt;weapon&gt; from &lt;target&gt;* {#Knife-Lift}
+### Knife Lift  *klift <weapon> from <target>* {#Knife-Lift}
 
 As simple as it sounds, you lift a knife or dagger from your target's sheath.
 
@@ -225,7 +225,7 @@ As simple as it sounds, you lift a knife or dagger from your target's sheath.
 
 </div>
 
-### Sword Lift  *slift &lt;gladius&gt; from &lt;target&gt;* {#Sword-Lift}
+### Sword Lift  *slift <gladius> from <target>* {#Sword-Lift}
 
 As simple as it sounds, you lift a gladius from your target's scabbard.
 

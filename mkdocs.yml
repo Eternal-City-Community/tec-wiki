@@ -48,6 +48,7 @@ hooks:
   - hooks/listpages.py
   - hooks/breadcrumbs.py
   - hooks/preview_assets.py
+  - hooks/placeholders.py
 
 markdown_extensions:
   - admonition
