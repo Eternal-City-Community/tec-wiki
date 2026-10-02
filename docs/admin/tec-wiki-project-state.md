@@ -452,6 +452,21 @@ User-reported issues and fixes on 2026-10-01:
 - Page commit: `2b81fd5a7b7d7398dafd4d9f2577267b5c686786`
 - CSS commit: `4bb47246530794576b16974201020d1e30dfc773`
 
+
+
+### Stats responsive two-column redesign
+
+- User reported that `/stats/` had been two-column on Wikidot and looked awkward as one long linear page after migration.
+- Restored the two-column intent with a more deliberate responsive layout rather than one giant page-wide split:
+  - all 13 **Attribute Types** are individual cards in a two-column desktop grid
+  - **The Training Courses** and **Numeric Equivalents** are side-by-side reference panels
+  - **Improving Attributes**, **Natural Attribute Increases**, **Stat Skills**, and **Temporary Modifiers** remain full-width for long-form readability
+- All grids collapse to one column below 62rem for tablet/mobile.
+- Existing mechanics, stat descriptions, values, training-course directions, and formulas were preserved.
+- Promoted major section headings to H2 for clearer hierarchy.
+- Page commit: `befe35771cf74e0d1cceb76d0b560efa6490cac2`
+- CSS commit: `8f35d3969193d18b0c9fd8d7b92b73f728f23737`
+
 ## Recent Migration/Audit Work
 
 Recent repository work before this handoff file was created includes:
