@@ -10,7 +10,10 @@ category: Wiki & Help
 
 **The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
 
-> Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
+<a href="https://login.eternalcitygame.com/login.php" target="_blank" rel="noopener"><img class="tec-play-now" src="/assets/wikidot/files/TEC%20Play%20Now.png" alt="Play Now"></a>
+
+Having trouble logging into your TEC account? Visit our [FAQ](/faq/) page.
+{: .tec-center }
 
 ### Getting Started {#GettingStarted}
 
@@ -48,16 +51,16 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 
 ### Latest Updates {#LatestUpdates}
 
-<!--\\\* To add new updates, please use the "Latest Updates" page included below. \\\*--> 
-
-### Latest Major Updates To The Game *(sorted chronologically↑)*
-
 * For the month of **October 2026**, cover (faceplates/masks/hoods) alterations will be half-off.
 * **September 2026:** New weapon released - Dual Daggers are now available to learn
 * **August 2026:** New Noncom skillset released - Jewel crafting
 * **March 1<sup>st</sup> 2024**: The promo for March is **50% off Superior Weapon Upgrades**.
 * **February 23<sup>rd</sup> 2024**: **Combat trainers** have been updated. Some trainers now **teach up to 300/300 or 500/500** ranks. Visit the related [skills page](/skills/#Combat) for details.
 * **February 1<sup>st</sup> 2024**: The chance for natural **[stats](/stats/) increases gained through performing actions** has been increased. See [stats#naturalatt](/stats/#naturalatt) for details.
+
+<details markdown="1">
+<summary>Older updates</summary>
+
 * **February 1<sup>st</sup> 2024**: **50% off** **GSP purchases & Swapping Skill Slots** for the February Promotion! 
 * **January 4<sup>th</sup> 2024**: The ability to **teach above rank 1150 has been disabled** along with additional changes to self-training. For more information, see [self-training](/skills/#SelfTraining). 
 * **January 1<sup>st</sup> 2024**: For the month of January, the Role Point cost for **[Veteran Character Packages](/veteran-characters/)** are **50% off**!
@@ -123,14 +126,6 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 * **August 20<sup>th</sup> 2019**: The road to [Seld](/village-of-seld/) recently caused the Black Hand Bandits to flee [their old hideout](/black-hand-mines/) and they have found themselves [a brand new home](/hg-black-hand-caverns/). This is intended for high level characters. If you wish to learn more about it, seek for information IG. More information will be released in due time on the Wiki.
 * **July 6<sup>th</sup> 2019**: Tale has just recently released [The Officium de Humanitas](/newbie-office/), a great new place for low level characters who seek training and low-cost items.
 
+</details>
+
 *[More Updates](/latest-updates/)*
-
-- - -
-
-### What's New In-Game {#WhatsNew}
-
-> **Archive note:** Wikidot module frontforum was not portable and has been omitted.
-
-- - -
-
-*[More News](/in-game-news/)*

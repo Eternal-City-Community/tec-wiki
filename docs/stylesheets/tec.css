@@ -773,11 +773,6 @@ html, body {
   line-height: 1.62;
 }
 
-.md-typeset p,
-.md-typeset li {
-  max-width: 92ch;
-}
-
 /* Anchor links (#Section) stop below the fixed header and nav bar, not under them.
    Most anchors are an empty <a id> just above the heading, so cover every id. */
 .md-typeset [id],
@@ -834,11 +829,23 @@ html, body {
 }
 
 .md-typeset figure,
-.md-typeset p > img:only-child,
-.md-typeset p > a:only-child > img {
+.md-typeset p > img:only-child {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+/* A linked image on its own is centered. The link is only as wide as the
+   image, so only the picture itself is clickable, not the space beside it. */
+.md-typeset p > a:only-child:has(> img:only-child) {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.md-typeset p > a:only-child > img {
+  display: block;
 }
 
 /* Cleaner code/pre blocks for calculators, scripts and command examples. */
@@ -956,7 +963,6 @@ html, body {
 
 .md-typeset blockquote p {
   margin: .25rem 0;
-  max-width: none;
 }
 
 .md-typeset blockquote::before {
@@ -1133,7 +1139,6 @@ html, body {
 .tec-skill-page .skill-template p {
   margin: 0 !important;
   color: inherit !important;
-  max-width: none !important;
 }
 
 /* Shrink-to-fit so only the words are clickable, still on its own line at the right. */
@@ -2032,14 +2037,10 @@ html, body {
 .tec-bio-page .tec-bio-quote > :first-child { margin-top: 0; }
 .tec-bio-page .tec-bio-quote > :last-child { margin-bottom: 0; }
 
-/* Map images may use the full article column rather than prose width. */
-.md-typeset p:has(> a.tec-map-image-link),
-.md-typeset p:has(> a > img) {
-  max-width: none;
-}
 .md-typeset a.tec-map-image-link {
   display: block;
-  width: 100%;
+  width: fit-content;
+  max-width: 100%;
 }
 .md-typeset a.tec-map-image-link img {
   display: block;
@@ -2774,4 +2775,19 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 /* Homepage map banner, with the shadow it had on the old wiki. */
 .md-typeset img.tec-home-banner {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+}
+
+/* Homepage "Play Now" button, linking to the game login. */
+.md-typeset img.tec-play-now {
+  width: 416px;
+  cursor: pointer;
+  transition: filter .15s;
+}
+.md-typeset a:hover > img.tec-play-now {
+  filter: brightness(1.12);
+}
+
+/* Centered text, written in a page as a line "{: .tec-center }" under the paragraph. */
+.md-typeset .tec-center {
+  text-align: center;
 }
