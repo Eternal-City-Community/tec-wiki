@@ -281,6 +281,76 @@
     if (!frame) return;
     if (resizeObserver && frame.parentElement) resizeObserver.observe(frame.parentElement);
     fitFrame(frame);
+    watchPreviewScroll(frame);
+  }
+
+  // Scroll sync: Decap's own sync doesn't move this preview, so keep the editor
+  // and preview at the same relative position here. Decap's toggle button still
+  // switches it on and off (it stores its state under this key).
+  var SCROLL_SYNC_KEY = "cms.scroll-sync-enabled";
+  var ECHO_MS = 150;
+  var lastDriver = null;
+  var lastDriveTime = 0;
+
+  function scrollSyncEnabled() {
+    try {
+      return localStorage.getItem(SCROLL_SYNC_KEY) !== "false";
+    } catch (e) {
+      return true;
+    }
+  }
+
+  // The editor's scroll box is the first pane of the editor/preview split.
+  function editorScroller() {
+    var frame = document.getElementById("preview-pane");
+    var split = frame && frame.closest(".SplitPane");
+    var pane = split && split.querySelector(":scope > .Pane1");
+    return pane && pane.firstElementChild;
+  }
+
+  function scrollFraction(el) {
+    var range = el.scrollHeight - el.clientHeight;
+    return range > 0 ? el.scrollTop / range : 0;
+  }
+
+  function scrollToFraction(el, fraction) {
+    el.scrollTop = fraction * Math.max(0, el.scrollHeight - el.clientHeight);
+  }
+
+  // Scrolling one side moves the other, which fires its own scroll event. Ignore
+  // that echo by letting only the side the user is scrolling drive for a moment.
+  function drive(source, from, to) {
+    var now = Date.now();
+    if (!scrollSyncEnabled() || !from || !to) return;
+    if (lastDriver && lastDriver !== source && now - lastDriveTime < ECHO_MS) return;
+    lastDriver = source;
+    lastDriveTime = now;
+    scrollToFraction(to, scrollFraction(from));
+  }
+
+  function previewScroller() {
+    var frame = document.getElementById("preview-pane");
+    var doc = frame && frame.contentDocument;
+    return doc && doc.scrollingElement;
+  }
+
+  // Scroll events don't bubble, so catch the editor's in the capture phase.
+  document.addEventListener("scroll", function (event) {
+    var editor = editorScroller();
+    if (event.target === editor) drive("editor", editor, previewScroller());
+  }, true);
+
+  function watchPreviewScroll(frame) {
+    function attach() {
+      var win = frame.contentWindow;
+      if (!win || win.__tecScrollSync) return;
+      win.__tecScrollSync = true;
+      win.addEventListener("scroll", function () {
+        drive("preview", previewScroller(), editorScroller());
+      });
+    }
+    attach();
+    frame.addEventListener("load", attach);
   }
 
   window.tecCmsPreview = {
