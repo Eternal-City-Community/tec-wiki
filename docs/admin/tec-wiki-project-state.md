@@ -502,6 +502,7 @@ Markdown tables lack Wikidot's cell formatting, so a marker at the start of a ce
 | `\|\|= 2` / `\|\|> 400d` | `= 2` / `> 400d` | center / right-align one cell |
 
 - Whole columns use normal Markdown alignment (`:---:`, `---:`). Header cells stay centered unless they have their own marker.
+- Editor-facing docs: the "Formatting rules" section of `docs/browser-editing.md`, linked from the "Formatting" link in the CMS editor toolbar (`docs/admin/tec-cms-format-link.js`). Only markers in plain text count; a marker inside code (`` `~ ` ``) is shown as written.
 - There is no left marker (the CMS escapes a leading `<`); left is the default.
 - Content that itself starts with a marker needs rewording, e.g. `~5 GSP` rather than `~ 5 GSP`.
 - The migration had dropped all of this (spans became empty cells, `~ = >` were stripped, and some "~" meaning "approximately" were lost with them). Restored from the Wikidot source where the table still matches it. Not restored: tables restructured after migration (Account, Locksmithing); on Jewelry, Leather-working, Tailoring and Tanning skill tables only header/section rows were restored (their source alignment was inconsistent).

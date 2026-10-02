@@ -14,12 +14,12 @@ TEC.addPageEnhancer("table-cells", function (root) {
     return cell.textContent.trim() === marker && !cell.children.length;
   }
 
-  // Removes a leading marker such as "~ " from the cell's first text.
+  // Removes a leading marker such as "~ " from the cell's text. Only plain
+  // text counts, so a marker written as code (`~ `) is left alone.
   function takePrefix(cell, pattern) {
-    var walker = doc.createTreeWalker(cell, 4 /* NodeFilter.SHOW_TEXT */);
-    var node;
-    while ((node = walker.nextNode()) && !node.nodeValue.trim()) {}
-    if (!node) return null;
+    var node = cell.firstChild;
+    while (node && node.nodeType === 3 && !node.nodeValue.trim()) node = node.nextSibling;
+    if (!node || node.nodeType !== 3) return null;
     var match = node.nodeValue.match(pattern);
     if (!match) return null;
     node.nodeValue = node.nodeValue.slice(match[0].length);
