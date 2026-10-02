@@ -18,6 +18,18 @@
   --tec-table-alt: #363636;
   --tec-table-head: #e4e2da;
   --tec-sidebar-width: 12.2rem;
+
+  /* Theme accent and primary colors (hover, focus, scrollbars, buttons) in olive instead of indigo. */
+  --md-accent-fg-color: #48652c;
+  --md-accent-fg-color--transparent: rgba(72,101,44,.1);
+  --md-accent-bg-color: #f3eed8;
+  --md-accent-bg-color--light: rgba(243,238,216,.7);
+  --md-primary-fg-color: #234707;
+  --md-primary-fg-color--light: #48652c;
+  --md-primary-fg-color--dark: #173104;
+  --md-primary-bg-color: #f3eed8;
+  --md-primary-bg-color--light: rgba(243,238,216,.7);
+  --md-typeset-a-color: #234707;
 }
 
 html,
@@ -106,6 +118,18 @@ body::before {
 .md-header__button,
 .md-search__icon {
   color: var(--tec-olive-dark);
+}
+
+/* No logo icon; the wiki title itself links to the homepage. */
+.md-header .md-logo {
+  display: none !important;
+}
+
+.tec-header-home,
+.tec-header-home:visited,
+.tec-header-home:hover {
+  color: inherit;
+  text-decoration: none;
 }
 
 /* Main layout: wide like Wikidot, not centered like docs software. */
@@ -316,18 +340,18 @@ body::before {
 }
 
 .md-typeset a {
-  color: #244a6b;
-  text-decoration-color: rgba(36,74,107,.42);
+  color: #005604;
+  text-decoration-color: rgba(0,86,4,.42);
   text-underline-offset: .08em;
 }
 
 .md-typeset a:visited {
-  color: #4b4267;
+  color: #091501;
 }
 
 .md-typeset a:hover,
 .md-typeset a:focus {
-  color: #153651;
+  color: #192902;
   text-decoration: underline;
 }
 
@@ -402,6 +426,15 @@ body::before {
   color: var(--tec-olive-dark);
 }
 
+/* Expandable boxes: no type icon, since titles carry their own "+". */
+.md-typeset summary::before {
+  display: none;
+}
+
+[dir] .md-typeset summary {
+  padding-left: .6rem;
+}
+
 .md-search__form {
   background: rgba(117,111,82,.48);
   border: 1px solid rgba(55,65,35,.35);
@@ -417,18 +450,41 @@ body::before {
     max-width: none;
   }
 
+  /* Title lines up with the sidebar text and fills the header's height. */
+  .md-header__inner {
+    padding-left: 1.15rem;
+  }
+
+  [dir] .md-header__title {
+    margin-left: .35rem;
+  }
+
+  .md-header__topic:first-child {
+    font-size: 1.6rem;
+  }
+
+  /* The sidebar sticks exactly where it starts (header bottom plus the main
+     area's 1rem top padding), so it never shifts when the page scrolls. It
+     reaches to just above the window's bottom; tec-sidebar.js shortens it
+     while the footer is in view, so the footer never pushes it up.
+     !important beats the inline top the theme's script sets. */
   .md-sidebar--primary {
+    --tec-sidebar-top: calc(var(--tec-header-stack-height, 103px) - 6px + 1rem);
     position: sticky;
-    top: calc(var(--tec-header-stack-height, 103px) + .35rem);
+    top: var(--tec-sidebar-top) !important;
     align-self: start;
-    max-height: calc(100vh - var(--tec-header-stack-height, 103px) - .8rem);
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - var(--tec-sidebar-top) - .55rem);
     overflow: hidden;
   }
 
   .md-sidebar--primary .md-sidebar__scrollwrap {
+    flex: 0 1 auto;
+    min-height: 0;
     overflow-y: auto !important;
     overflow-x: hidden !important;
-    max-height: calc(100vh - var(--tec-header-stack-height, 103px) - 1.4rem) !important;
+    max-height: none !important;
     height: auto !important;
     scrollbar-width: thin;
   }
@@ -667,14 +723,14 @@ body::before {
 
 
 /* Full TEC sidebar generated from the legacy nav_side-v2 menu */
-.tec-side { font-size: .59rem; line-height: 1.18; }
+.tec-side { font-size: .675rem; line-height: 1.18; }
 .tec-side__section { margin: 0 0 .72rem; }
 .tec-side__plaque {
   margin: 0 0 .18rem;
   padding: .33rem .35rem;
   text-align: center;
   color: #f3eed8;
-  font: 700 .64rem Georgia, "Times New Roman", serif;
+  font: 700 .72rem Georgia, "Times New Roman", serif;
   text-shadow: 0 1px 1px #222;
   border: 1px solid #4b4d3d;
   border-radius: 2px;
@@ -762,14 +818,14 @@ body::before {
 }
 
 
-/* Table link contrast: global TEC green is too dark on charcoal rows. */
+/* Links on the charcoal table rows: papyrus, underlined, visited or not. */
 .md-typeset table:not([class]) td a {
-  color: #c9e3ff;
-  font-weight: 600;
-  text-decoration-color: rgba(201,227,255,.6);
+  color: #fcf5d4;
+  text-decoration: underline;
+  text-decoration-color: currentColor;
 }
 .md-typeset table:not([class]) td a:visited {
-  color: #d8c9ff;
+  color: #fcf5d4;
 }
 .md-typeset table:not([class]) td a:hover,
 .md-typeset table:not([class]) td a:focus {
@@ -777,7 +833,7 @@ body::before {
   text-decoration: underline;
 }
 .md-typeset table:not([class]) th a {
-  color: #244a6b;
+  color: #005604;
 }
 
 /* Bold text on the dark table rows and skill boxes: white, as on the old wiki. */
@@ -927,6 +983,22 @@ html, body {
 
 .md-typeset code {
   font-size: .92em;
+  background: #f0eddc;
+  color: #2b2a24;
+}
+
+/* "Back to top" button: parchment, turning olive on hover. */
+.md-top {
+  background-color: #f0eddc;
+  border: 1px solid #c5b876;
+  color: #234707;
+}
+
+.md-top:hover,
+.md-top:focus {
+  background-color: #234707;
+  border-color: #234707;
+  color: #f3eed8;
 }
 
 /* Strong keyboard-focus visibility. */
@@ -938,10 +1010,10 @@ html, body {
   outline-offset: 2px;
 }
 
-/* Make active sidebar links easier to locate without returning to green-on-green. */
+/* The current page in the sidebar: bold green. */
 .tec-side__link[aria-current="page"],
 .md-sidebar--primary .md-nav__link--active {
-  color: #173d5c;
+  color: #005604;
   font-weight: 700;
   background: rgba(255,255,255,.28);
 }
@@ -1196,14 +1268,14 @@ html, body {
   margin: .18rem 9% .18rem .25rem !important;
   padding: .55rem .65rem !important;
   min-height: 2.4rem;
-  color: #fff !important;
+  color: #e2ded2 !important;
   background: rgba(58,56,48,.91) !important;
   border: 1px dashed rgba(210,205,179,.55) !important;
   border-radius: 6px !important;
   box-shadow: inset 0 1px rgba(255,255,255,.05) !important;
-  font-family: Arial, Helvetica, sans-serif !important;
-  font-size: .58rem !important;
-  line-height: 1.38 !important;
+  font-family: inherit !important;
+  font-size: .65rem !important;
+  line-height: 1.45 !important;
   white-space: pre-line;
 }
 
@@ -1229,7 +1301,7 @@ html, body {
 
   .tec-skill-page .skill-template {
     margin-right: .25rem !important;
-    font-size: .64rem !important;
+    font-size: .7rem !important;
   }
 }
 
@@ -2065,13 +2137,13 @@ html, body {
 }
 
 .md-typeset table.tec-skill-overview-table td a {
-  color: #c9e3ff;
-  font-weight: 600;
-  text-decoration-color: rgba(201,227,255,.6);
+  color: #fcf5d4;
+  text-decoration: underline;
+  text-decoration-color: currentColor;
 }
 
 .md-typeset table.tec-skill-overview-table td a:visited {
-  color: #d8c9ff;
+  color: #fcf5d4;
 }
 
 .md-typeset table.tec-skill-overview-table td a:hover,
@@ -2081,7 +2153,7 @@ html, body {
 }
 
 .md-typeset table.tec-skill-overview-table th a {
-  color: #244a6b;
+  color: #005604;
 }
 
 .md-typeset table.tec-skill-overview-table td:first-child,

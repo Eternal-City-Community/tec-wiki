@@ -3,6 +3,18 @@ function initTecTopNav() {
   var header = document.querySelector(".md-header");
   if (!header) return;
 
+  // The wiki title links to the homepage.
+  var logo = header.querySelector(".md-logo");
+  var title = header.querySelector(".md-header__topic:first-child .md-ellipsis");
+  if (logo && title && !title.querySelector("a")) {
+    var home = document.createElement("a");
+    home.className = "tec-header-home";
+    home.href = logo.href;
+    home.textContent = title.textContent.trim();
+    title.textContent = "";
+    title.appendChild(home);
+  }
+
   function p(slug) { return "/" + slug + "/"; }
   function link(label, slug) { return '<a href="' + p(slug) + '">' + label + '</a>'; }
   function fly(label, slug, children) {

@@ -309,6 +309,29 @@ function initTecSidebar() {
   probe.remove();
 })();
 
+// Desktop: while the footer is in view, shorten the sticky sidebar so it ends
+// the same distance above the footer as it normally ends above the window's
+// bottom. Without this the footer would push the whole sidebar up.
+(function () {
+  var desktop = window.matchMedia("(min-width: 76.25em)");
+  function fitSidebar() {
+    var sidebar = document.querySelector(".md-sidebar--primary");
+    var footer = document.querySelector(".md-footer");
+    if (!sidebar || !footer) return;
+    sidebar.style.maxHeight = "";
+    if (!desktop.matches) return;
+    var top = sidebar.getBoundingClientRect().top;
+    var cssBottom = top + parseFloat(getComputedStyle(sidebar).maxHeight);
+    var gap = window.innerHeight - cssBottom;
+    var limit = footer.getBoundingClientRect().top - gap;
+    if (limit < cssBottom) sidebar.style.maxHeight = Math.max(0, limit - top) + "px";
+  }
+  window.addEventListener("scroll", fitSidebar, { passive: true });
+  window.addEventListener("resize", fitSidebar, { passive: true });
+  document.addEventListener("DOMContentLoaded", fitSidebar);
+  window.addEventListener("load", fitSidebar);
+})();
+
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", initTecSidebar, { once: true });
 } else {
