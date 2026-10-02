@@ -27,7 +27,7 @@ See the full list of [commands](/commands/).
 <a id="attributetypes"></a>
 ## Attribute Types
 
-<div class="tec-stat-grid">
+<div class="tec-stat-grid" markdown="1">
 
 <article class="tec-stat-card" markdown="1">
 
@@ -154,7 +154,7 @@ Can your character withstand a novice healer's unsuccessful attempts at setting 
 
 [Back to Top](#)
 
-<div class="tec-stats-reference-grid">
+<div class="tec-stats-reference-grid" markdown="1">
 
 <section class="tec-stats-reference-panel" markdown="1">
 
