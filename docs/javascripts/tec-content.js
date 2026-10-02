@@ -1,17 +1,19 @@
-function initTecContent() {
-  var root = document.querySelector(".md-typeset");
-  if (!root) return;
+// The missing-pages list is fetched once and reused (the editor preview runs
+// this on every edit).
+var tecMissingPagesRequest = null;
 
-  var path = window.location.pathname || "";
+TEC.addPageEnhancer("content", function (root, ctx) {
+  var doc = root.ownerDocument;
+  var path = ctx.path || "";
 
   // Character biography pages on the old wiki used a quotation-style frame.
   // Normalize the migrated mix of standalone ">" markers and partial
   // blockquotes into one consistent quote block without altering content.
   if (/^\/bio_[^/]+\/?$/.test(path) && !root.querySelector(".tec-bio-quote")) {
-    document.body.classList.add("tec-bio-page");
+    ctx.body.classList.add("tec-bio-page");
     var h1 = root.querySelector(":scope > h1");
     if (h1) {
-      var quote = document.createElement("blockquote");
+      var quote = doc.createElement("blockquote");
       quote.className = "tec-bio-quote";
 
       var node = h1.nextSibling;
@@ -36,11 +38,13 @@ function initTecContent() {
   // Restore Wikidot-style missing-page links. The migration originally created
   // placeholder Markdown files for these references; those stubs are now removed.
   // A small manifest keeps the browser from issuing a request for every link.
-  fetch("/assets/data/missing-pages.json")
+  tecMissingPagesRequest = tecMissingPagesRequest || fetch("/assets/data/missing-pages.json")
     .then(function (response) {
       if (!response.ok) return [];
       return response.json();
-    })
+    });
+
+  tecMissingPagesRequest
     .then(function (missingPages) {
       var missing = new Set(missingPages);
       root.querySelectorAll('a[href^="/"]').forEach(function (link) {
@@ -69,11 +73,4 @@ function initTecContent() {
     link.target = "_blank";
     link.rel = "noopener";
   });
-}
-
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initTecContent, { once: true });
-} else {
-  initTecContent();
-}
-document.addEventListener("DOMContentSwitch", initTecContent);
+});

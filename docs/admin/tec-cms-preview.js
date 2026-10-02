@@ -83,7 +83,75 @@
     });
   }
 
-  var previewFixes = [lineBreaksToBr, wrapTables];
+  // Python-Markdown's admonition extension: "!!! type "Title"" plus indented text.
+  // CommonMark leaves it as one paragraph, so rebuild the site's markup:
+  // <div class="admonition type"><p class="admonition-title">Title</p><p>text</p></div>
+  function admonitions(root) {
+    var doc = root.ownerDocument;
+    root.querySelectorAll("p").forEach(function (p) {
+      var first = p.firstChild;
+      if (!first || first.nodeType !== 3) return;
+      var match = first.nodeValue.match(/^!!!\s+([\w-]+)(?:[ \t]+"([^"]*)")?[ \t]*(?:\n|$)/);
+      if (!match) return;
+
+      var type = match[1].toLowerCase();
+      var title = match[2] !== undefined ? match[2] : type.charAt(0).toUpperCase() + type.slice(1);
+
+      var box = doc.createElement("div");
+      box.className = "admonition " + type;
+      if (title) {
+        var heading = doc.createElement("p");
+        heading.className = "admonition-title";
+        heading.textContent = title;
+        box.appendChild(heading);
+      }
+
+      first.nodeValue = first.nodeValue.slice(match[0].length);
+      if (p.textContent.trim()) {
+        var text = doc.createElement("p");
+        while (p.firstChild) text.appendChild(p.firstChild);
+        box.appendChild(text);
+      }
+      p.parentNode.replaceChild(box, p);
+    });
+  }
+
+  // attr_list heading ids written as "## Heading {#id}".
+  function headingIds(root) {
+    root.querySelectorAll("h1, h2, h3, h4, h5, h6").forEach(function (heading) {
+      var last = heading.lastChild;
+      if (!last || last.nodeType !== 3) return;
+      var match = last.nodeValue.match(/\s*\{:?\s*#([\w-]+)\s*\}\s*$/);
+      if (!match) return;
+      last.nodeValue = last.nodeValue.slice(0, match.index);
+      heading.id = match[1];
+    });
+  }
+
+  // Order matters: admonitions must be rebuilt before line breaks become <br>.
+  var previewFixes = [admonitions, headingIds, lineBreaksToBr, wrapTables];
+
+  // Decap re-renders the page body into the same container element, so undo the
+  // classes and data attributes the enhancers put on it last time.
+  function resetRoot(root) {
+    (root.__tecAddedClasses || []).forEach(function (name) { root.classList.remove(name); });
+    (root.__tecAddedAttributes || []).forEach(function (name) { root.removeAttribute(name); });
+  }
+
+  function rootState(root) {
+    return {
+      classes: Array.from(root.classList),
+      attributes: Array.from(root.attributes).map(function (attr) { return attr.name; })
+    };
+  }
+
+  function rememberAdditions(root, before) {
+    root.__tecAddedClasses = Array.from(root.classList).filter(function (name) {
+      return before.classes.indexOf(name) === -1;
+    });
+    root.__tecAddedAttributes = Array.from(root.attributes).map(function (attr) { return attr.name; })
+      .filter(function (name) { return before.attributes.indexOf(name) === -1; });
+  }
 
   // The page body is inside Decap's widget preview container, the article's last
   // child (after our optional title heading). Decap 3 puts the content directly in
@@ -114,6 +182,14 @@
       applyFixes: function () {
         var root = bodyRoot(this.article);
         if (!root) return;
+
+        // Only fresh content needs work: when the body text changes, Decap replaces
+        // the container's children. Re-renders for other reasons keep them.
+        if (root.firstChild && root.firstChild.__tecPreviewDone) return;
+
+        resetRoot(root);
+        var before = rootState(root);
+
         previewFixes.forEach(function (fix) {
           fix(root);
         });
@@ -125,6 +201,9 @@
           body.className = "";
           TEC.runPageEnhancers(root, { path: pagePath(this.props.entry), body: body });
         }
+
+        rememberAdditions(root, before);
+        if (root.firstChild) root.firstChild.__tecPreviewDone = true;
       },
 
       componentDidMount: function () {
@@ -143,7 +222,8 @@
         // Like the site theme: show the title as the heading when the page has none.
         var heading = title && !hasHeading(body) ? h("h1", null, title) : null;
 
-        return h("div", { className: "md-container" },
+        // dir="ltr" is on the live <body>; many theme rules are scoped to [dir=ltr].
+        return h("div", { className: "md-container", dir: "ltr" },
           h("main", { className: "md-main" },
             h("div", { className: "md-main__inner md-grid" },
               h("div", { className: "md-content" },
@@ -207,6 +287,8 @@
     DESKTOP_WIDTH: DESKTOP_WIDTH,
     lineBreaksToBr: lineBreaksToBr,
     wrapTables: wrapTables,
+    admonitions: admonitions,
+    headingIds: headingIds,
     fitFrame: fitFrame
   };
 

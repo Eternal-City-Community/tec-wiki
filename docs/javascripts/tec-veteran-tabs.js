@@ -1,15 +1,6 @@
-// Heading text without the "¶" permalink that the toc extension adds.
-function tecHeadingText(heading) {
-  var copy = heading.cloneNode(true);
-  copy.querySelectorAll(".headerlink").forEach(function (link) { link.remove(); });
-  return copy.textContent.trim();
-}
-
-function initTecVeteranTabs() {
-  if (window.location.pathname.replace(/\/+$/, "") !== "/veteran-characters") return;
-
-  var root = document.querySelector(".md-typeset");
-  if (!root) return;
+TEC.addPageEnhancer("veteran-tabs", function (root, ctx) {
+  if (ctx.path.replace(/\/+$/, "") !== "/veteran-characters") return;
+  var doc = root.ownerDocument;
   if (root.dataset.tecVeteranTabs === "1") return;
   root.dataset.tecVeteranTabs = "1";
 
@@ -31,7 +22,7 @@ function initTecVeteranTabs() {
 
   function nextHeading(label) {
     for (var i = cursor; i < h4s.length; i++) {
-      if (tecHeadingText(h4s[i]) === label) {
+      if (TEC.headingText(h4s[i]) === label) {
         cursor = i + 1;
         return h4s[i];
       }
@@ -43,16 +34,16 @@ function initTecVeteranTabs() {
     var headings = labels.map(nextHeading).filter(Boolean);
     if (!headings.length) return;
 
-    var shell = document.createElement("section");
+    var shell = doc.createElement("section");
     shell.className = "tec-tabs";
     shell.setAttribute("data-tec-tabset", String(groupIndex));
 
-    var tabs = document.createElement("div");
+    var tabs = doc.createElement("div");
     tabs.className = "tec-tabs__bar";
     tabs.setAttribute("role", "tablist");
     tabs.setAttribute("aria-label", groupIndex === 0 ? "Veteran Character combat skill trainers" : "Veteran Character service skill trainers");
 
-    var panels = document.createElement("div");
+    var panels = doc.createElement("div");
     panels.className = "tec-tabs__panels";
 
     headings[0].parentNode.insertBefore(shell, headings[0]);
@@ -68,7 +59,7 @@ function initTecVeteranTabs() {
       }
 
       var id = "vc-tabs-" + groupIndex + "-" + idx;
-      var button = document.createElement("button");
+      var button = doc.createElement("button");
       button.type = "button";
       button.className = "tec-tabs__tab";
       button.id = id + "-tab";
@@ -79,7 +70,7 @@ function initTecVeteranTabs() {
       button.textContent = displayLabel;
       tabs.appendChild(button);
 
-      var panel = document.createElement("div");
+      var panel = doc.createElement("div");
       panel.className = "tec-tabs__panel";
       panel.id = id;
       panel.setAttribute("role", "tabpanel");
@@ -139,11 +130,4 @@ function initTecVeteranTabs() {
 
   buildTabset(groups[0], 0);
   buildTabset(groups[1], 1);
-}
-
-if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initTecVeteranTabs, { once: true });
-} else {
-  initTecVeteranTabs();
-}
-document.addEventListener("DOMContentSwitch", initTecVeteranTabs);
+});
