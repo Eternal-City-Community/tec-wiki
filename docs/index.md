@@ -4,6 +4,8 @@ category: Wiki & Help
 ---
 # The Eternal City Wiki
 
+[![Map of Iridine - The Eternal City MUD](/assets/wikidot/files/IridineMapShortest.jpg){.tec-home-banner}](/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)
+
 ## The Eternal City - A Text Based MUD
 
 **The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
