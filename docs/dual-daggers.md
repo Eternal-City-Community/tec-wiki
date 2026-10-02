@@ -12,32 +12,32 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 
 **For additional guidance on using this skill set, see the [Dual Daggers Combat Guide](/dual-daggers-combat-guide/)**.
 
-|                                              |            |       |        |                              | Skill Info                                                            |         |              | Ranks Taught by Trainer |
-| -------------------------------------------- | ---------- | ----- | ------ | ---------------------------- | --------------------------------------------------------------------- | ------- | ------------ | ----------------------- |
-| Skills/Actions                               | Difficulty | Hands | Range  | Wound                        | Prerequisite                                                          | Someone | Someone Else |                         |
-| *<u>Dual Daggers</u>*                        | Easy       | \-    | \-     | \-                           | \-                                                                    | 80      | 500          |                         |
-| [Dual Daggers Sanguine Stance ](#Sanguine)   | Easy       | 2     | \-     | \-                           | Wielded **Two daggers**                                               | 80      | 500          |                         |
-| [Dual Daggers Chop](#Chop)                   | Easy       | 2     | Short  | Cut                          | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Jab](#Jab)                     | Easy       | 2     | Short  | Pierce                       | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Overhead Strike](#Strike)      | Easy       | 2     | Short  | Pierce                       | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Low Swat](#Swat)               | Easy       | 2     | Short  | Bruise                       | \-                                                                    | 50      | 500          |                         |
-| Dual Daggers Twin Slash        | Average    | 2     | Short  | Cut<br>Cut               | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Blood Dance](#Blooddance)      | Average    | 2     | Short  | Pierce<br>Pierce         | [Dual Daggers Sanguine Stance](#Sanguine)                             | 50      | 500          |                         |
-| [Dual Daggers Gorge Ripper](#Gorgeripper)    | Average    | 2     | Short  | \-                           | [Dual Daggers Sanguine Stance](#Sanguine)                             | 50      | 500          |                         |
-| [Dual Daggers Heartseeker](#Heartseeker)     | Average    | 2     | Short  | \-                           | Rank 30 Dual Daggers Jab                                              | 50      | 500          |                         |
-| Dual Daggers Flicker Strike      | Average    | 2     | Either | Pierce<br>Pierce         | [Dual Daggers Sanguine Stance](#Sanguine)<br>Rank 40 Dual Daggers | 50      | 500          |                         |
-| [Dual Daggers Tendon Slash](#Tendon)         | Difficult  | 2     | Short  | Cut<br>Cut _ Trip Chance | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Blood Staccato](#Staccato)     | Difficult  | 2     | Short  | ???                          | Rank 50 Jab, Overhead Strike, Chop, Heartseeker                       | 50      | 500          |                         |
-| [Dual Daggers Hook Disarm](#Hook)            | Difficult  | 2     | Short  | Cut  Unwield Chance          | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Feint](#Feint)                 | Average    | 2     | Short  | \-                           | [Dual Daggers Sanguine Stance](#Sanguine)                             | 50      | 500          |                         |
-| [Dual Daggers Twin-Flat Block](#Flatblock)   | Average    | 2     | \-     | \-                           | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Off-Hand Parry](#Parry)        | Average    | 2     | Short  | \-                           | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Twin-Cross Trap](#Crosstrap)   | Difficult  | 2     | \-     | \-                           | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Circular Deflection](#Deflect) | Difficult  | 2     | \-     | \-                           | \-                                                                    | 50      | 500          |                         |
-| [Dual Daggers Binding Parry](#Bindingparry)  | Difficult  | 2     | \-     | \-                           | \-                                                                    | 50      | 500          |                         |
-| Dual Daggers Opportunist     | Impossible | \-    | \-     | \-                           | \-                                                                    | 50      | 100          |                         |
-| Dual Daggers Accuracy           | Difficult  | \-    | \-     | \-                           | \-                                                                    | 50      | 100          |                         |
-| Dual Daggers Grip                   | Impossible | \-    | \-     | \-                           | \-                                                                    | 50      | 100          |                         |
+|                                              |            |       |        |                          | Skill Info                                                        |         |              | Ranks Taught by Trainer |
+| -------------------------------------------- | ---------- | ----- | ------ | ------------------------ | ----------------------------------------------------------------- | ------- | ------------ | ----------------------- |
+| Skills/Actions                               | Difficulty | Hands | Range  | Wound                    | Prerequisite                                                      | Someone | Someone Else |                         |
+| *<u>Dual Daggers</u>*                        | Easy       | \-    | \-     | \-                       | \-                                                                | 80      | 500          |                         |
+| [Dual Daggers Sanguine Stance ](#Sanguine)   | Easy       | 2     | \-     | \-                       | Wielded **Two daggers**                                           | 80      | 500          |                         |
+| [Dual Daggers Chop](#Chop)                   | Easy       | 2     | Short  | Cut                      | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Jab](#Jab)                     | Easy       | 2     | Short  | Pierce                   | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Overhead Strike](#Strike)      | Easy       | 2     | Short  | Pierce                   | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Low Swat](#Swat)               | Easy       | 2     | Short  | Bruise                   | \-                                                                | 50      | 500          |                         |
+| Dual Daggers Twin Slash                      | Average    | 2     | Short  | Cut<br>Cut               | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Blood Dance](#Blooddance)      | Average    | 2     | Short  | Pierce<br>Pierce         | [Dual Daggers Sanguine Stance](#Sanguine)                         | 50      | 500          |                         |
+| [Dual Daggers Gorge Ripper](#Gorgeripper)    | Average    | 2     | Short  | \-                       | [Dual Daggers Sanguine Stance](#Sanguine)                         | 50      | 500          |                         |
+| [Dual Daggers Heartseeker](#Heartseeker)     | Average    | 2     | Short  | \-                       | Rank 30 Dual Daggers Jab                                          | 50      | 500          |                         |
+| Dual Daggers Flicker Strike                  | Average    | 2     | Either | Pierce<br>Pierce         | [Dual Daggers Sanguine Stance](#Sanguine)<br>Rank 40 Dual Daggers | 50      | 500          |                         |
+| [Dual Daggers Tendon Slash](#Tendon)         | Difficult  | 2     | Short  | Cut<br>Cut _ Trip Chance | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Blood Staccato](#Staccato)     | Difficult  | 2     | Short  | ???                      | Rank 50 Jab, Overhead Strike, Chop, Heartseeker                   | 50      | 500          |                         |
+| [Dual Daggers Hook Disarm](#Hook)            | Difficult  | 2     | Short  | Cut  Unwield Chance      | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Feint](#Feint)                 | Average    | 2     | Short  | \-                       | [Dual Daggers Sanguine Stance](#Sanguine)                         | 50      | 500          |                         |
+| [Dual Daggers Twin-Flat Block](#Flatblock)   | Average    | 2     | \-     | \-                       | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Off-Hand Parry](#Parry)        | Average    | 2     | Short  | \-                       | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Twin-Cross Trap](#Crosstrap)   | Difficult  | 2     | \-     | \-                       | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Circular Deflection](#Deflect) | Difficult  | 2     | \-     | \-                       | \-                                                                | 50      | 500          |                         |
+| [Dual Daggers Binding Parry](#Bindingparry)  | Difficult  | 2     | \-     | \-                       | \-                                                                | 50      | 500          |                         |
+| Dual Daggers Opportunist                     | Impossible | \-    | \-     | \-                       | \-                                                                | 50      | 100          |                         |
+| Dual Daggers Accuracy                        | Difficult  | \-    | \-     | \-                       | \-                                                                | 50      | 100          |                         |
+| Dual Daggers Grip                            | Impossible | \-    | \-     | \-                       | \-                                                                | 50      | 100          |                         |
 
 **Directions to Someone** 
 **Directions to Someone Else**
@@ -62,7 +62,7 @@ You sink low into a crouch and bring your twin daggers close in a reverse grip, 
 
 ### Dual Daggers Chop  *dchop <target>*
 
-none
+This move can be aimed **high, mid,** and **low.**
 
 **When you see this in use you see:**
 
@@ -76,7 +76,7 @@ You snap your fang-shaped alanti dagger down at a tough Kelestian raider in a sh
 
 ### Dual Daggers Jab  *djab <target>*
 
-none
+This move can be aimed **high, mid,** and **low.**
 
 **When you see this in use you see:**
 
@@ -93,7 +93,7 @@ You dart forward, driving a rapid jab into a young brute with your alanti dagger
 
 ### Dual Daggers Overhead Strike  *dstrike <target>*
 
-none
+This move can be aimed **high**.
 
 **When you see this in use you see:**
 
@@ -107,7 +107,7 @@ You drop your weight into a vicious downward stab at a tough Kelestian raider wi
 
 ### Dual Daggers Low Swat  *dswat <target>*
 
-none
+This move can be aimed **low**.
 
 **When you see this in use you see:**
 
@@ -121,7 +121,7 @@ You whip your knife down in a stinging swat against a dark-haired woman with a f
 
 ### Dual Daggers Twin Slash  *twinslash <target>*
 
-none
+This move can be aimed **high, mid,** and **low.**
 
 **When you see this in use you see:**
 
@@ -135,7 +135,7 @@ You sweep your fang-shaped alanti dagger and long narrow sooty black dagger acro
 
 ### Dual Daggers Blood Dance  *dblood <target>*
 
-none
+This move cannot be aimed. 
 
 **When you see this in use you see:**
 
@@ -149,7 +149,7 @@ You step in and drive your daggers into a tough Kelestian raider with controlled
 
 ### Dual Daggers Gorge Ripper  *Gorgeripper<target>*
 
-Aggressive Stepping Move
+Aggressive Stepping Move. This move can be aimed **high.**
 
 **When you see this in use you see:**
 
@@ -164,7 +164,7 @@ From your reverse grip, you drive both points of your long narrow sooty black da
 
 ### Dual Daggers Flicker Strike  *heartseeker <target>*
 
-Auto-wielding move. Lunge at a distance.
+Auto-wielding move. Lunge at a distance. This move can be aimed **high, & mid.**
 
 **When you see this in use you see:**
 
@@ -192,7 +192,7 @@ You drop low and slash at a dirty Kelestian tunneler's right ankle with your bro
 
 ### Dual Daggers Blood Staccato  *bloodstaccato <target>*
 
-none
+This move can be aimed **high** and **mid.**
 
 **When you see this in use you see:**
 
@@ -206,7 +206,7 @@ In a blinding staccato rhythm, you drive a flurry of rapid jabs into a grungy Ke
 
 ### Dual Daggers Hook Disarm  *hookdisarm <target>*
 
-This move has a chance to disarm your opponent.
+This move has a chance to disarm your opponent. This move can be aimed **high.**
 
 **When you see this in use you see:**
 
