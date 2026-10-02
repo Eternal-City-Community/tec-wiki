@@ -24,7 +24,7 @@ Learn about [Getting Started](https://tec-wiki.com/getting-started/) to understa
 
 Those familiar with the Game-world may find it more fun to jump into [character creation](https://tec-wiki.com/character-generator/) and catch up on the latest updates.
 
-**Have questions?** Join the conversation on our extremely active Discord!
+**Have questions?** Join the conversation on our extremely active [Discord](https://discord.gg/fevBA8j)!
 
 Check out the sidebar for other helpful categories.
 
