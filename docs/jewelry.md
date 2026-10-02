@@ -17,7 +17,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 **For guidance on using the skill set, see the [Jewelry Guide](/jewelry-guide/)***(in progress)*.
 
 | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Captuo |
 | <u>*Basic Jewelry*</u> | Average | 100 |
 | [Assemble Jewelry](#Assemble-Jewelry) | Average | 100 |
@@ -41,7 +41,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 
 | Jewelry Recipes |  | Ranks Taught by Trainer |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | ~ Recipes | ~ Difficulty | ~ Captuo |
 | >> | >> | ~ Metal Stock |
 | Produce Metal Stock Recipe | Easy | 100 |
@@ -141,7 +141,7 @@ Jewelry is focused on metal and stone: casting, hot and cold work, chain assembl
 
 
 | Jewelry Lores |  | Ranks Taught by Trainer |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | ~ Lore | ~ Difficulty | ~ Captuo |
 | >> | >> | ~ Engraving |
 | Geometric Engraving | Easy | 100 |

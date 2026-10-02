@@ -15,21 +15,21 @@ We highly recommend checking out some of our **guides on starting out as a thief
 This skill set is best **complemented by knowledge of [Setups](/setups/).**
 
 | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
-| --- | --- | --- | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Prerequisite | ~ *Hidden Iridine Trainer <sup>1</sup>* | ~ *Hidden RV Trainer <sup>2</sup>* |
-| Pickpocketing | Easy | = - | 50 | 200 |
-| [Quick Grab](#Quick-Grab) | Easy | = - | 50 | 150 |
-| [Coin Sharpening](#Coin-Sharpening) | Easy | = - | 50 | 150 |
-| [Palm](#Palm) | Easy | = - | 50 | 150 |
-| [Cut and Lift](#CutandLift) | Average | = - | 25 | 150 |
-| [Handoff](#Handoff) | Average | = - | 25 | 150 |
-| [Receive Handoff](#Receive-Handoff) | Average | = - | 25 | 150 |
+| Pickpocketing | Easy | - | 50 | 200 |
+| [Quick Grab](#Quick-Grab) | Easy | - | 50 | 150 |
+| [Coin Sharpening](#Coin-Sharpening) | Easy | - | 50 | 150 |
+| [Palm](#Palm) | Easy | - | 50 | 150 |
+| [Cut and Lift](#CutandLift) | Average | - | 25 | 150 |
+| [Handoff](#Handoff) | Average | - | 25 | 150 |
+| [Receive Handoff](#Receive-Handoff) | Average | - | 25 | 150 |
 | [Slice Strap](#Slice-Strap) | Average | 10 Ranks in [Cut and Lift](#CutandLift) | 25 | 10 |
-| [Loose Lift](#Loose-Lift) | Impossible | = - | - | 150 |
-| [Knife Lift](#Knife-Lift) | Difficult | = - | - | 10 |
-| [Sword Lift](#Sword-Lift) | Impossible | = - | - | 10 |
-| [Silent Slip](#Silent-Slip) | Average | = - | - | 10 |
-| [Silent Draw](#Silent-Draw) | Average | = - | - | 10 |
+| [Loose Lift](#Loose-Lift) | Impossible | - | - | 150 |
+| [Knife Lift](#Knife-Lift) | Difficult | - | - | 10 |
+| [Sword Lift](#Sword-Lift) | Impossible | - | - | 10 |
+| [Silent Slip](#Silent-Slip) | Average | - | - | 10 |
+| [Silent Draw](#Silent-Draw) | Average | - | - | 10 |
 
 ***<sup>1</sup> Shh! It's a secret!** Look for a rat holding a glass of posca in the harbor.*
 ***<sup>2</sup> Shh! It's a secret!** May a torch bracket light your way to wisdom in the Northeast area of town.*

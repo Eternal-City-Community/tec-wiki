@@ -65,17 +65,17 @@ In most cases you'll want a **reforged Iron capped quarterstave** or **an Altene
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | :---: | --- | --- | --- |
-| A padded quarterstave | N/A | =  | =  | =  |
-| A quarterstave |  | =  | =  | =  |
-| A dursc quarterstave |  | =  | =  | =  |
-| A fangstave |  | =  | =  | =  |
-| An dursc fangstave |  | =  | =  | =  |
-| A bronze-capped quarterstave |  | =  | =  | =  |
-| An iron-capped quarterstave |  | =  | =  | =  |
-| [Runed] An iron-capped quarterstave |  | =  | =  | =  |
-| An Altene double mace | 2 | =  | =  | =  |
-| [ReForged] An Altene double mace | 1 | =  | =  | =  |
+| --- | :---: | :---: | :---: | :---: |
+| A padded quarterstave | N/A | | | |
+| A quarterstave |  | | | |
+| A dursc quarterstave |  | | | |
+| A fangstave |  | | | |
+| An dursc fangstave |  | | | |
+| A bronze-capped quarterstave |  | | | |
+| An iron-capped quarterstave |  | | | |
+| [Runed] An iron-capped quarterstave |  | | | |
+| An Altene double mace | 2 | | | |
+| [ReForged] An Altene double mace | 1 | | | |
 
 
 #### Weapon Damage
@@ -100,16 +100,16 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 |  | >> | Rank 90 Reflexes | >> | Maxed Speed |
-| --- | --- | --- | --- | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | ~ Weapon | ~ Speed Rank | ~ Median Speed | ~ Speed Rank | ~ Average Speed |
-| A padded quarterstave | =  | =  | =  |  |
-| A quarterstave | =  | =  | =  |  |
-| A dursc quarterstave | =  | =  | =  | 2 +MoS |
-| A fangstave | =  | =  | =  | 1.17 +MoS |
-| An dursc fangstave | =  | =  | =  |  |
-| A bronze-capped quarterstave | =  | =  | =  | 1.17 +MoS |
-| An iron-capped quarterstave | =  | =  | =  |  |
-| An Altene double mace | =  | =  | =  |  |
+| A padded quarterstave | | | |  |
+| A quarterstave | | | |  |
+| A dursc quarterstave | | | | 2 +MoS |
+| A fangstave | | | | 1.17 +MoS |
+| An dursc fangstave | | | |  |
+| A bronze-capped quarterstave | | | | 1.17 +MoS |
+| An iron-capped quarterstave | | | |  |
+| An Altene double mace | | | |  |
 
 
 #### Weapon Weight

@@ -12,15 +12,15 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 **For guidance on using the skill set, see the [Two-Handed Crushing Guide](/two-handed-crushing-guide/)**.
 
 | >> | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
-| --- | :---: | :---: | --- | --- | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Krindalus | ~ A short sturdy man |
-| *<u>2H Crushing</u>* | Easy | - | = - | = - | - | 250 | 500 |
-| [2H Crushing Smasher Stance](#smasherstance) | Easy | Either | = - | = - | - | 250 | 500 |
+| *<u>2H Crushing</u>* | Easy | - | - | - | - | 250 | 500 |
+| [2H Crushing Smasher Stance](#smasherstance) | Easy | Either | - | - | - | 250 | 500 |
 | [2H Crushing Chop](#chop) | Easy | 2 | Either | Bruise | - | 250 | 500 |
 | [2H Crushing Swat](#swat) | Easy | 2 | Either | Bruise | - | 250 | 500 |
 | [2H Crushing Haft Snap](#haftsnap) | Easy | 2 | Either | Bruise | - | 250 | 500 |
 | [2H Crushing Head Thrust](#hthrust) | Easy | 2 | Either | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
-| [2H Crushing Forward Slam](#fslam) | Average | 2 | Short | = Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
+| [2H Crushing Forward Slam](#fslam) | Average | 2 | Short | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
 | [2H Crushing Charging Upswing](#charge) | Average | 2 | Long | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
 | [2H Crushing Vital Crush](#vcrush) | Average | 2 | Short | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
 | [2H Crushing Leg Crush](#lcrush) | Average | 2 | Short | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
@@ -31,12 +31,12 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 | [2H Crushing Head Crusher](#hcrush) | Difficult | 2 | Short | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
 | [2H Crushing Whirling Smash](#wsmash) | Difficult | 2 | Either | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
 | [2H Crushing Feint](#feint) | Average | 2 | Either | Bruise | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
-| [2H Crushing Crossing Block](#cblock) | Easy | 2 | = - | = - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
-| [2H Crushing Haft Block](#hblock) | Average | 2 | = - | = - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
-| [2H Crushing Head Block](#heblock) | Difficult | 2 | = - | = - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
-| [2H Crushing Swat Block](#sblock) | Difficult | 2 | = - | = - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
-| [2H Crushing Accuracy](#Accuracy) | Difficult | - | = - | = - | - | 100 | 100 |
-| [2H Crushing Grip](#Grip) | Impossible | - | = - | = - | - | 100 | 100 |
+| [2H Crushing Crossing Block](#cblock) | Easy | 2 | - | - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
+| [2H Crushing Haft Block](#hblock) | Average | 2 | - | - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
+| [2H Crushing Head Block](#heblock) | Difficult | 2 | - | - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
+| [2H Crushing Swat Block](#sblock) | Difficult | 2 | - | - | [2H Crushing Smasher Stance](#smasherstance) | 250 | 500 |
+| [2H Crushing Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 |
+| [2H Crushing Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 |
 
 **Directions to Krindalus** ([Vetallun](/town-of-vetallun/)): Walk to Vetallun Road, Walk to Vetallun Crossroads, W, W, W, S
 **Directions to A short sturdy man** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, S, SE, E, E, E, E, S, S, S, S, S

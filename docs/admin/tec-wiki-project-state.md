@@ -509,6 +509,7 @@ Markdown tables lack Wikidot's cell formatting, so a marker at the start of a ce
 | `\|\|= 2` / `\|\|> 400d` | `= 2` / `> 400d` | center / right-align one cell |
 
 - Whole columns use normal Markdown alignment (`:---:`, `---:`). Header cells stay centered unless they have their own marker.
+- Alignment is set per column, not per cell: the 775 migrated `= ` markers were removed. A column where most cells had one became `:---:`; elsewhere the few marked cells now follow their column. Skill overview tables ("Ranks Taught by Trainer") are `---` for the first column and `:---:` for the rest. `= ` and `> ` remain only for a cell that should differ from its column.
 - Editor-facing docs: the "Formatting rules" section of `docs/browser-editing.md`, linked from the "Formatting" link in the CMS editor toolbar (`docs/admin/tec-cms-format-link.js`). Only markers in plain text count; a marker inside code (`` `~ ` ``) is shown as written.
 - There is no left marker (the CMS escapes a leading `<`); left is the default.
 - Content that itself starts with a marker needs rewording, e.g. `~5 GSP` rather than `~ 5 GSP`.

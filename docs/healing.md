@@ -13,7 +13,7 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 **For more in-depth guidance on the skillset, consult the [Healing Guide](/healing-guide/)***(in progress)*.
 
 | >> | Skill Info | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Iskara | ~ Cipus | ~ Piroska | ~ Tullaria |
 | *<u>Healing</u>* | Easy | 100 | 200 | 50 | 80 |
 | [Bandage Wound](#Bandage-Wound) | Easy | 100 | 150 | 30 | 80 |
@@ -33,7 +33,7 @@ Healers are an absolutely essential asset to Midlight. They are required everywh
 | Remove Tourniquet | Easy | 100 | 150 | 30 | 80 |
 
 | >> | Healing Lores | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | ~ Lores | ~ Difficulty | ~ Iskara | ~ Cipus | ~ Piroska | ~ Tullaria |
 | [Pressure Wound Technique](#Pressure-Wound-Technique) | Easy | 25 | 25 | 25 | - |
 

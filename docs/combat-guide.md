@@ -340,26 +340,26 @@ Source 1: http://forum.skotos.net/forum/our-games/the-eternal-city/the-eternal-c
  
 | Stat Description | Numeric Value |
 | --- | :---: |
-| Abysmal | = 0 - 60 |
-| Very Poor | = 61 - 70 |
-| Poor | = 71 - 80 |
-| Below Average | = 81 - 90 |
-| Slightly Below Average | = 91 - 100 |
-| Average | = 101 - 110 |
-| Slightly Above Average | = 111 - 120 |
-| Above Average | = 121 - 130 |
-| Fairly Good | = 131 - 140 |
-| Good | = 141 - 150 |
-| Very Good | = 151 - 165 |
-| Great | = 166 - 180 |
-| Exceptional | = 181 - 190 |
-| Outstanding | = 191 - 200 |
-| Remarkable | = 201 - 210 |
-| Extraordinary | = 211 - 220 |
-| Phenomenal | = 221 - 230 |
-| Incredible | = 231 - 240 |
-| Inhuman | = 241 - 250 |
-| Superhuman | = 251 - oo |
+| Abysmal | 0 - 60 |
+| Very Poor | 61 - 70 |
+| Poor | 71 - 80 |
+| Below Average | 81 - 90 |
+| Slightly Below Average | 91 - 100 |
+| Average | 101 - 110 |
+| Slightly Above Average | 111 - 120 |
+| Above Average | 121 - 130 |
+| Fairly Good | 131 - 140 |
+| Good | 141 - 150 |
+| Very Good | 151 - 165 |
+| Great | 166 - 180 |
+| Exceptional | 181 - 190 |
+| Outstanding | 191 - 200 |
+| Remarkable | 201 - 210 |
+| Extraordinary | 211 - 220 |
+| Phenomenal | 221 - 230 |
+| Incredible | 231 - 240 |
+| Inhuman | 241 - 250 |
+| Superhuman | 251 - oo |
 
 
 | Aiming | Body Parts | Aiming Penalty |

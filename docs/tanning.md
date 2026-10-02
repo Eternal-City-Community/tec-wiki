@@ -16,7 +16,7 @@ Developing tanning skills requires attention to detail, patience, and an underst
 **For guidance on using the skill set, see the [Tanning Guide](/tanning-guide/)***(in progress)*.
 
 | Skill Info |  | Ranks Taught by Trainer |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Arvane |
 | <u>*Basic Tanning*</u> | Easy | 145 |
 | [Knead Hide](#Knead-Hide) | Easy | 50 |
@@ -38,7 +38,7 @@ Developing tanning skills requires attention to detail, patience, and an underst
 
 
 | Tanning Recipes |  | Ranks Taught by Trainer |
-| --- | --- | --- |
+| --- | :---: | :---: |
 | ~ Recipes | ~ Difficulty | ~ Arvane |
 | Doeskin Tanning Recipe | easy | 10 |
 | Leather Tanning Recipe | easy | 10 |

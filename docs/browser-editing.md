@@ -26,7 +26,7 @@ Open Authoring is enabled so contributors do not need direct write access to the
 
 ## Formatting rules {#formatting-rules}
 
-Pages are written in Markdown. This section covers only what works differently on this wiki.
+Pages are written in Markdown. This section covers a few useful Markdown reminders, along with features that get special handling on this wiki.
 
 ### Line breaks
 
@@ -44,21 +44,39 @@ Link to it with `/reputation/#Monlon`, or `#Monlon` from the same page.
 
 ### Tables
 
-Tables can merge cells, mark header cells and align single cells. Put the marker at the start of the cell:
+#### Aligning columns
+
+The line under a table's first row sets how each column is aligned. It has one entry per column:
+
+| Entry | Column |
+| --- | --- |
+| `---` | Left (the default) |
+| `:---:` | Centered |
+| `---:` | Right |
+
+~~~
+| Skills/Actions | Difficulty | Wound |
+| --- | :---: | :---: |
+| Falcata Slash | Easy | Cut |
+~~~
+
+Here the first column is left-aligned and the other two are centered. To change a column, change its entry in that line rather than marking cells one by one. Skill tables put `---` under the first column and `:---:` under every other column.
+
+#### Cell markers
+
+Tables can also merge cells, mark header cells and align a single cell. Put the marker at the start of the cell:
 
 | Cell | Effect |
 | --- | --- |
 | `>>` | Joins the cell to the one on its right. Two `>>` cells before **Armor** make one cell spanning three columns. |
 | `^^` | Joins the cell to the one above it. |
 | `~ Armor` | Makes a header cell. |
-| `= 25` | Centers the cell. |
-| `> 400d` | Aligns the cell to the right. |
+| `= 25` | Centers this one cell. Only for a cell that should differ from its column. |
+| `> 400d` | Aligns this one cell to the right. Only for a cell that should differ from its column. |
 
-- To align a whole column, use `:---:` (center) or `---:` (right) in the line under the first row.
 - Header cells are always centered, unless they have their own `= ` or `> `.
 - A `>>` or `^^` cell must contain nothing else.
 - If a cell's text really starts with `~ `, `= ` or `> `, drop the space or reword it, for example `~5 GSP`.
-- Cells are left-aligned unless marked.
 
 This table:
 

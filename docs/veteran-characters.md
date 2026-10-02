@@ -58,11 +58,11 @@ The table below shows the different VC packages available, with their correspond
 
 | Package | RP Cost | GSPs | Credits | Wealth | Attribute Points | Extras |
 | --- | ---: | ---: | ---: | ---: | :---: | --- |
-| Level 0 | Free | 100 | 0 | 0t | 5 | = None |
-| Level 1 | 500 RPs | 1,000 | 10 | 5t | 10 | = None |
-| Level 2 | 1,000 RPs | 1,500 | 20 | 10t | 15 | = None |
-| Level 3 | 1,500 RPs | 2,000 | 30 | 15t | 20 | = None |
-| Level 4 | 2,000 RPs | 2,500 | 40 | 20t | 25 | = None |
+| Level 0 | Free | 100 | 0 | 0t | 5 | None |
+| Level 1 | 500 RPs | 1,000 | 10 | 5t | 10 | None |
+| Level 2 | 1,000 RPs | 1,500 | 20 | 10t | 15 | None |
+| Level 3 | 1,500 RPs | 2,000 | 30 | 15t | 20 | None |
+| Level 4 | 2,000 RPs | 2,500 | 40 | 20t | 25 | None |
 | Level 5 | 3,000 RPs | 3,000 | 80 | 40t | 30 | Makeover |
 | Level 6 | 4,000 RPs | 3,500 | 100 | 50t | 90 | Makeover |
 | Level 7 | 5,000 RPs | 4,000 | 125 | 60t | 100 | Makeover |

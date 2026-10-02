@@ -18,7 +18,7 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 
 
 | >> | Skill Info | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ **Krimalus ** | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
 | *<u>Outdoor Survival</u>* | Easy | 80 | 100 | 150 | 150 | 200 |
 | [Dig Firepit](#Firepit) | Easy | 60 | 100 | 120 | 125 | 150 |

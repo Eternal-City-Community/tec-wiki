@@ -57,14 +57,14 @@ In most cases, you'll want a **Retalq Spear** & **Towering Shield**.
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | --- | --- |
-| A tin-tipped short spear | =  | =  | =  | =  |
-| A bronze-tipped short spear | =  | =  | =  | =  |
-| An iron-tipped short spear | =  | =  | =  | =  |
-| [Reforged] An iron-tipped short spear | =  | =  | =  | =  |
-| A boison-tipped short spear | =  | =  | =  | =  |
-| [Reforged] A boison-tipped short spear | =  | =  | =  | =  |
-| A retalq-tipped short spear | =  | =  | =  | =  |
+| --- | :---: | :---: | :---: | :---: |
+| A tin-tipped short spear | | | | |
+| A bronze-tipped short spear | | | | |
+| An iron-tipped short spear | | | | |
+| [Reforged] An iron-tipped short spear | | | | |
+| A boison-tipped short spear | | | | |
+| [Reforged] A boison-tipped short spear | | | | |
+| A retalq-tipped short spear | | | | |
 
 
 #### Weapon Damage
@@ -72,14 +72,14 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category.
 
 | Weapon | Damage Rank |
-| --- | --- |
-| A retalq-tipped short spear | =  |
-| [Reforged] A boison-tipped short spear | =  |
-| A boison-tipped short spear | =  |
-| [Reforged] An iron-tipped short spear | =  |
-| An iron-tipped short spear | =  |
-| A bronze-tipped short spear | =  |
-| A tin-tipped short spear | =  |
+| --- | :---: |
+| A retalq-tipped short spear | |
+| [Reforged] A boison-tipped short spear | |
+| A boison-tipped short spear | |
+| [Reforged] An iron-tipped short spear | |
+| An iron-tipped short spear | |
+| A bronze-tipped short spear | |
+| A tin-tipped short spear | |
 
 
 #### Weapon Speed
@@ -87,13 +87,13 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category.
 
 |  | >> | Rank 90 Reflexes | >> | Maxed Speed |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
-| A tin-tipped short spear | =  | =  | =  | =  |
-| A bronze-tipped short spear | =  | =  | =  | =  |
-| An iron-tipped short spear | =  | =  | =  | =  |
-| A boison-tipped short spear | =  | =  | =  | =  |
-| A retalq-tipped short spear | =  | =  | =  | =  |
+| A tin-tipped short spear | | | | |
+| A bronze-tipped short spear | | | | |
+| An iron-tipped short spear | | | | |
+| A boison-tipped short spear | | | | |
+| A retalq-tipped short spear | | | | |
 
 
 Weapon round time with outstanding speed (190+):

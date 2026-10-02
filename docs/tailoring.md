@@ -19,7 +19,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 **For guidance on using the skill set, see the [Tailoring Guide](/tailoring-guide/)***(in progress)*.
 
 | >> | Skill Info | >> | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Josephus | ~ Pomoura | ~ Xantheros | ~ Gestus | ~ Demetrius | ~ Circiana | ~ Periona |
 | <u>*Basic Tailoring*</u> | Easy | 150 | 150 | 150 | 150 | 35 | 301 | 102 |
 | [Patternwork](#Patternwork) | Easy | 50 | 50 | 50 | 50 | 10 | 150 | 25 |
@@ -37,7 +37,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 
 | Tailoring Recipes |  |  |  |  |  |  |  | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Recipes | ~ Difficulty | ~ Josephus | ~ Pomoura | ~ Xantheros | ~ Gestus | ~ Demetrius | ~ Circiana | ~ Periona |
 | Apron Recipe | Average | 25 | - | 25 | 25 | - | - | 25 |
 | Apron Length Recipe | Easy | 25 | - | 25 | 25 | - | - | 25 |
@@ -141,7 +141,7 @@ The art of tailoring has been around since ancient times, when the primitive peo
 
 
 | >> | Tailoring Lores | >> | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Lore | ~ Difficulty | ~ Josephus | ~ Pomoura | ~ Xantheros | ~ Gestus | ~ Demetrius | ~ Circiana | ~ Periona |
 | Maker's Mark | Easy | 25 | - | - | - | - | - | - |
 | >> | >> | >> | >> | >> | >> | >> | >> | ~ Edgings |

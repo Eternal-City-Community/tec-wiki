@@ -12,36 +12,36 @@ The Knowledge of hunting, passed down from generation to generation, is an impor
 This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoor-survival/).**
 
 | >> | >> | Skill Info | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Prerequisite | ~ **Krimalus** | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
-| *<u>Hunting</u>* | Easy | = - | 80 | 50 | 125 | 150 | 200 |
-| [Deadfall Snares](#deadfall) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
+| *<u>Hunting</u>* | Easy | - | 80 | 50 | 125 | 150 | 200 |
+| [Deadfall Snares](#deadfall) | Easy | - | 60 | 50 | 100 | 125 | 150 |
 | [Cord Snares](#cord) | Average | 10 Ranks in [Deadfall Snares](#deadfall) | 60 | 50 | 100 | 125 | 150 |
 | [Sapling Snares](#sapling) | Difficult | 20 Ranks in [Cord Snares](#cord) | 60 | 50 | 100 | 125 | 150 |
-| [Forester Dismantling](#disarm) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Pole Fishing](#cast) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Deer Hunting](#deerlore) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Rabbit Hunting](#rabbitlore) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Gamebird Hunting](#birdlore) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Boar Hunting](#boarlore) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Ursine Hunting](#ursinelore) | Impossible | = - | 80 | - | - | - | - |
-| [Goat Hunting](#goatlore) | Difficult | = - | 80 | - | - | - | 150 |
-| [Deer's Instinct](#freeze) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Simple Hiding](#hide) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Basic Skinning](#skin) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Intermediate Skinning](#intSkin) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Advanced Skinning](#advSkin) | Difficult | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Arrow](#arrow) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Stave](#stave) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Spear](#spear) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Survival Knapping](#knapping) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Club](#club) | Easy | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Short Bow](#bow) | Difficult | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Knife](#knife) | Average | = - | 60 | 50 | 100 | 125 | 150 |
-| [Craft Basic Axe](#axe) | Difficult | = - | 60 | 50 | 100 | 125 | 150 |
+| [Forester Dismantling](#disarm) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Pole Fishing](#cast) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Deer Hunting](#deerlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Rabbit Hunting](#rabbitlore) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Gamebird Hunting](#birdlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Boar Hunting](#boarlore) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Ursine Hunting](#ursinelore) | Impossible | - | 80 | - | - | - | - |
+| [Goat Hunting](#goatlore) | Difficult | - | 80 | - | - | - | 150 |
+| [Deer's Instinct](#freeze) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Simple Hiding](#hide) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Basic Skinning](#skin) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Intermediate Skinning](#intSkin) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Advanced Skinning](#advSkin) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Arrow](#arrow) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Stave](#stave) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Spear](#spear) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Survival Knapping](#knapping) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Club](#club) | Easy | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Short Bow](#bow) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Knife](#knife) | Average | - | 60 | 50 | 100 | 125 | 150 |
+| [Craft Basic Axe](#axe) | Difficult | - | 60 | 50 | 100 | 125 | 150 |
 
 | >> | Hunting Lores | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Lore | ~ Difficulty | ~ Krimalus | ~ Fern | ~ Tauruu | ~ Shantaz | ~ Jarla |
 | [Hunter Tipping Lore](#tipping) | *TBC* | 25 | - | 25 | - | - |
 | [Field Dressing Lore](#fdress) | *TBC* | 25 | - | 25 | - | - |

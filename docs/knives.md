@@ -18,31 +18,31 @@ Everybody knows how to kill someone with a dagger- stab them overhand, over and 
 If you have a solid understanding of knives, you may wish to explore the **more advanced combat style of [Cineran Knife Fighting](/cineran-knife-fighting-knives/)**.
 
 | >> | >> | >> | >> | >> | Skill Info | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- | --- | :---: | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Vitrus | ~ Dreggo | ~ Fetidus | ~ Gilven | ~ Maerodus | ~ Hatrin |
-| *<u>Knives</u>* | - | - | - | - | = - | 500 | 100 | 100 | 300 | 80 | 90 |
-| [Knife Simple Stab](#Stab) | Average | 1 | Short | Pierce | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Slash](#Slash) | Average | 1 | Short | Cut | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Overhead Strike](#Strike) | Easy | 1 | Short | Pierce | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Chop](#Chop) | Easy | 1 | Short | Cut | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Step and Lunge](#Lunge) | Difficult | 1 | Long | Pierce | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Jab](#Jab) | Easy | 1 | Short | Pierce | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Short Block](#Sblock) | Average | 1 | - | - | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Feint](#Feint) | Average | 1 | Short | - | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Long Block](#Lblock) | Difficult | 1 | - | - | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Cross Block](#Cblock) | Average | 1 | - | - | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Stealthy Draw](#Draw) | Easy | 1 | - | - | = - | 175 | 100 | 85 | 100 | 75 | 75 |
-| [Knife Wrist Dancing](#Wd) | Average | 1 | - | - | = - | 175 | 100 | 85 | 100 | 75 | 75 |
-| [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | = - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | = Cut<br>Cut | 20 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Stab and Slash](#Dc) | Average | 1 | Short | = Cut<br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br>10 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | = - | 500 | 100 | - | - | 75 | - |
-| [Knives Grip](#Grip) | Impossible | - | - | - | = - | 100 | 100 | 85 | 100 | 75 | - |
-| [Knives Accuracy](#Accuracy) | Difficult | - | - | - | = - | 100 | 100 | 85 | 100 | 75 | - |
+| *<u>Knives</u>* | - | - | - | - | - | 500 | 100 | 100 | 300 | 80 | 90 |
+| [Knife Simple Stab](#Stab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Slash](#Slash) | Average | 1 | Short | Cut | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Overhead Strike](#Strike) | Easy | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Chop](#Chop) | Easy | 1 | Short | Cut | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Step and Lunge](#Lunge) | Difficult | 1 | Long | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Jab](#Jab) | Easy | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Short Block](#Sblock) | Average | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Feint](#Feint) | Average | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Long Block](#Lblock) | Difficult | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Cross Block](#Cblock) | Average | 1 | - | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Stealthy Draw](#Draw) | Easy | 1 | - | - | - | 175 | 100 | 85 | 100 | 75 | 75 |
+| [Knife Wrist Dancing](#Wd) | Average | 1 | - | - | - | 175 | 100 | 85 | 100 | 75 | 75 |
+| [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut<br>Cut | 20 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut<br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br>10 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 500 | 100 | - | - | 75 | - |
+| [Knives Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
+| [Knives Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
 | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Unavailable Skills (Not taught by NPC trainers) |
-| [Knife Low Block](#Lowblock) | - | 1 | - | - | = - | = - | = - | - | = - | = - | = - |
+| [Knife Low Block](#Lowblock) | - | 1 | - | - | - | - | - | - | - | - | - |
 
 **Directions to Gilven** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex5, Nx2, E
 **Directions to Dreggo** ([Blackvine](/village-of-blackvine/)): Walk to Blackvine, Ex4, Sx6

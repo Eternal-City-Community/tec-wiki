@@ -55,7 +55,7 @@ Example of looking at a **gladius** tear:
 | River | [Healing](/healing/) |
 | Forge | [Locksmithing](/locksmithing/) or [Tailoring](/tailoring/) |
 | Shadow | [Pickpocketing](/pickpocketing/), [Setups](/setups/) or [Street Smarts](/street-smarts/) |
-| Nightmare***** | = *N/A* |
+| Nightmare***** | *N/A* |
 
 
 *Nightmare Tears: The 6th type of tear is called a **nightmare tear**. This type differs in that it has no unique description of its own when looked at. **It will look like any of the 'normal'** types of **tears**. When it's cracked, **it will award no SP, and instead drain all of your character's [fatigue](/character-condition/#Fatigue)**. 

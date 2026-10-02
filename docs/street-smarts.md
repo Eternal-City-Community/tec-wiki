@@ -30,7 +30,7 @@ parent: skills
 > - Anonymous graffiti
 
 | >> | >> | Skill Info | >> | >> | >> | >> | >> | Ranks Taught by Trainer |  |  |  |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skill/Action | ~ Difficulty | ~ Prerequisite | ~ Trainer # 1 | ~ Trainer # 2 | ~ Trainer # 3 | ~ Trainer # 4 | ~ Trainer # 5 | ~ RV Trainer |  |  |  |
 | *<u>Street Smarts</u>* | Easy | - | 50 | 50 | 50 | 50 | 50 | 100 |  |  |  |
 | [Graffiti](#Graffiti) | Easy | - | 30 | - | - | - | - | 10 |  |  |  |

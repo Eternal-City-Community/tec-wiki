@@ -20,7 +20,7 @@ Covering the most areas in combative situations, CMs are an integral part of you
 
 
 | >> | >> | Skill Info | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | :---: | :---: | --- | --- | --- | --- | --- | --- | --- | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Prerequisites | ~ Leda | ~ Rontubius | ~ Hroth | ~ Uiseann | ~ Cralus | ~ Pelias | ~ Clobris | ~ Mervia | ~ Regul | ~ **Prestis | ~ Karkara |
 | *<u>Combat Maneuvers</u>* | Easy | - | 300 | 200 | 500 | 125 | 100 | 110 | 300 | 300 | 300 | 154 | 300 |
 | [Duck](#Duck) | Easy | - | 300 | 150 | 500 | - | 90 | 100 | 300 | 175 | 300 | 154 | 175 |
@@ -39,11 +39,11 @@ Covering the most areas in combative situations, CMs are an integral part of you
 | [Recovery](#Recovery) | Average | - | 100 | 150 | 175 | - | 90 | 100 | 100 | 175 | 100 | 154 | 175 |
 | [Missile Awareness](#Missile) | Difficult | - | 100 | 100 | 175 | 85 | 90 | - | 100 | 100 | 100 | 154 | 175 |
 | [Feint Awareness](#Feint) | Difficult | - | 100 | - | 100 | 100 | - | - | - | 175 | 100 | 154 | 175 |
-| [Melee Advance](#Advance) | Difficult | 30 Ranks in [Fall Back](#FB) | 100 | 100 | - | - | - | - | - | = 175 | - | - | 175 |
+| [Melee Advance](#Advance) | Difficult | 30 Ranks in [Fall Back](#FB) | 100 | 100 | - | - | - | - | - | 175 | - | - | 175 |
 | [Footwork](#Footwork) | Impossible | - | 100 | 100 | 100 | 100 | - | - | 100 | 100 | 100 | 154 | 175 |
 | [Reflexes](#Reflexes) | Impossible | - | 100 | 100 | 100 | 100 | - | - | 100 | 100 | 100 | 154 | 175 |
 | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | >> | ~ Unavailable Skills |
-| [Offensive Guarding](#Offensive-Guarding) | Difficult | - | - | = - | = - | = - | = - | = - | = - | = - | - | - | - |
+| [Offensive Guarding](#Offensive-Guarding) | Difficult | - | - | - | - | - | - | - | - | - | - | - | - |
 
 **Directions to Leda** ([Iridine](/riverside/)): Walk to **Toga**, W, SW, S, E
 **Directions to Rontubius** ([Monlon](/monlon/)): Walk to Vetallun Road, Walk to Vetallun **Crossroads**, Ex2, NE, Ex2, SE, S, E, buy ticket, W, S, wait for and take ferry to monlon, Nx3, W, N, NW, W, Nx3, NEx2, S

@@ -54,15 +54,15 @@ In most cases, if still using Reflexes, you'll want a **retalq falcata**. If you
 A rank of **1 signifies the best** in this category. **(FURTHER TESTING NEEDED)**
 
 | Weapon | Damage Rank | Speed Rank | Weight Rank | Overall Rank |
-| --- | --- | --- | :---: | --- |
-| A tin falcata | =  | =  | 2 | =  |
-| A bronze falcata | =  | =  | 3 | =  |
-| An iron falcata | =  | =  | 4 | =  |
-| A boison falcata | =  | =  | 5 | =  |
-| [Reforged] An iron falcata | =  | =  | 4 | =  |
-| [Reforged] A boison falcata | =  | =  | 5 | =  |
-| A sooty black falcata | =  | =  | 1 | =  |
-| A retalq falcata | =  | =  | 2 | =  |
+| --- | :---: | :---: | :---: | :---: |
+| A tin falcata | | | 2 | |
+| A bronze falcata | | | 3 | |
+| An iron falcata | | | 4 | |
+| A boison falcata | | | 5 | |
+| [Reforged] An iron falcata | | | 4 | |
+| [Reforged] A boison falcata | | | 5 | |
+| A sooty black falcata | | | 1 | |
+| A retalq falcata | | | 2 | |
 
 #### Weapon Damage
 
@@ -83,14 +83,14 @@ A rank of **1 signifies the best** in this category.
 A rank of **1 signifies the best** in this category.
 
 |  | >> | Rank 90 Reflexes | >> | Maxed Speed |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | ~ Weapon | ~ Speed Rank | ~ Average Speed | ~ Speed Rank | ~ Average Speed |
-| A tin falcata | =  | =  | =  | =  |
-| A bronze falcata | =  | =  | =  | =  |
-| An iron falcata | =  | =  | =  | =  |
-| A boison falcata | =  | =  | =  | =  |
-| A sooty black falcata | =  | =  | =  | =  |
-| A retalq falcata | =  | =  | =  | =  |
+| A tin falcata | | | | |
+| A bronze falcata | | | | |
+| An iron falcata | | | | |
+| A boison falcata | | | | |
+| A sooty black falcata | | | | |
+| A retalq falcata | | | | |
 
 
 #### Weapon Weight

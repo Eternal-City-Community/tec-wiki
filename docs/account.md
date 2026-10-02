@@ -17,21 +17,21 @@ parent: index
 The Eternal City offers three account subscription levels. Find the one that best fits your needs and goals:
 
 |  | Free | Basic | Premium |
-| --- | --- | --- | --- |
-| Earn skill points | = ✓ | = ✓ | = ✓ |
-| Join organizations | = ✓ | = ✓ | = ✓ |
-| Participate in events | = ✓ | = ✓ | = ✓ |
-| Access entire gameworld | = ✓ | = ✓ | = ✓ |
-| Give and receive @kudos | = ✓ | = ✓ | = ✓ |
-| Convert [Skill Points](/skills/#SP) to [General Skill Points](/skills/#GSP) | = ✓ | = ✓ | = ✓ |
-| Multiple accounts per IP address* | =  | = ✓ | = ✓ |
-| **Free** Tier 1 [Veteran Characters](/veteran-characters/) | =  | =  | = ✓ |
-| [Role Points](#RolePoints) earned per hour ( base / max ) | = 0 | = 2.5 / 8 | = 5 / 12 |
-| Accessible Character Slots** | = 2 | = 5 * | = 10 |
-| [Role Point Purchases](#RolePointPurchases) | = Limited | = Reduced cost | = Greatly reduced cost |
-| Monthly [StoryPoints](#Storypoints) Awarded | = 0 | = 0 | = 50 |
-| Monthly [General Skill Points](/skills/#GSP) Received (per character) | = 0 | = 10 | = 25 |
-| Monthly [Perk](#Perks) Received | = None | = 1 Basic Perk | = 1 Premium Perk |
+| --- | :---: | :---: | :---: |
+| Earn skill points | ✓ | ✓ | ✓ |
+| Join organizations | ✓ | ✓ | ✓ |
+| Participate in events | ✓ | ✓ | ✓ |
+| Access entire gameworld | ✓ | ✓ | ✓ |
+| Give and receive @kudos | ✓ | ✓ | ✓ |
+| Convert [Skill Points](/skills/#SP) to [General Skill Points](/skills/#GSP) | ✓ | ✓ | ✓ |
+| Multiple accounts per IP address* | | ✓ | ✓ |
+| **Free** Tier 1 [Veteran Characters](/veteran-characters/) | | | ✓ |
+| [Role Points](#RolePoints) earned per hour ( base / max ) | 0 | 2.5 / 8 | 5 / 12 |
+| Accessible Character Slots** | 2 | 5 * | 10 |
+| [Role Point Purchases](#RolePointPurchases) | Limited | Reduced cost | Greatly reduced cost |
+| Monthly [StoryPoints](#Storypoints) Awarded | 0 | 0 | 50 |
+| Monthly [General Skill Points](/skills/#GSP) Received (per character) | 0 | 10 | 25 |
+| Monthly [Perk](#Perks) Received | None | 1 Basic Perk | 1 Premium Perk |
 | Monthly | Free | $12.95 | $29.95 |
 | Quarterly | Free | $34.95 (6% savings) | $79.95 (12% savings) |
 | Annually | Free | $129.95 (19% savings) | $299.95  (19% savings) |
@@ -80,7 +80,7 @@ The cost of making purchases using Role Points (RPs) can vary based on your [acc
 | [Exchange Character Order on Playlist](/rp-expenditure/#moveCharacter) | N/A | 500 | 250 | @play |
 | Retrieve deleted character | 500 | 500 | 500 | @play |
 | Extra character slot | N/A | 4,000 | 3,000 | @play |
-| [Veteran Character Package](/veteran-characters/) | >> | >> | = Free - 100K | @play |
+| [Veteran Character Package](/veteran-characters/) | >> | >> | Free - 100K | @play |
 | Recover sold/discarded item | 200 | 150 | 100 | retrieve command IG |
 | [Item Alteration](/customization-guide/) | N/A | 500 | 250 | @request *(see [Item Alterations](/customization-guide/#Alterations))* |
 | [Custom Roleplay Prop](/customization-guide/#Props) | N/A | 1,500+ | 1,000+ | @request *(see [Custom Props](/customization-guide/#Props))* |

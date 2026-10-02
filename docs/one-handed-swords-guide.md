@@ -48,13 +48,13 @@ This is the list of weapons that can be used by the One-Handed Swords skill set.
 
 | Weapons | How to get it | Cost |
 | --- | --- | ---: |
-| Bone Gladius | = n/a | *not available for purchase* |
+| Bone Gladius | n/a | *not available for purchase* |
 | Wooden Gladius **[T]** | Sold by [Usius](/shops/) ([Iridine](/bronze-lane/)) | 95d |
-| Durscwood Gladius | = n/a | *not available for purchase* |
+| Durscwood Gladius | n/a | *not available for purchase* |
 | Tin Gladius | Found as loot in various [hunting grounds](/hunting-grounds/) | 380d |
 | Bronze Gladius | Sold by [Bibulus](/shops/) ([Iridine](/bronze-lane/)) | 7t 145d 3st 1s |
 | Alanti Gladius | Found as loot in various [hunting grounds](/hunting-grounds/) | 6t 600d |
-| Gold Gladius | = n/a | *not available for purchase* |
+| Gold Gladius | n/a | *not available for purchase* |
 | Iron Gladius **[RF]** | Found as loot in various [hunting grounds](/hunting-grounds/) | 13t 1537d 2st |
 | Boison Gladius **[RF]** | Found as **rare** loot in various [hunting grounds](/hunting-grounds/) | 30t 625d |
 | Retalq Gladius | Sold by [Fama](/shops/) ([Vetallun](/town-of-vetallun/)) | 200t |

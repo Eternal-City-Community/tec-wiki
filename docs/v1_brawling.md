@@ -16,7 +16,7 @@ Damage done by the Brawling skill set is dependent upon your ranks in the skill 
 
 
 | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Pugilius | ~ Mervia |
 | Brawling | Easy | Either | Short | - | 80 | 300 |
 | [Brawling Punch](#Punch) | Easy | 1 | Short | Bruise | 80 | 175 |

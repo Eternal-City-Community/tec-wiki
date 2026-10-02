@@ -189,16 +189,16 @@ This is the list of bows & arrows that can be used by the Archery skill set.
 * Use the ammo command to quickly set your preferred ammo. *(ammo bows|slings <ammo type>|none )*
 
 | Weapons | How to get it | Est. cost in shops |
-| --- | --- | --- |
+| --- | --- | :---: |
 | Short Bow | Sold by various [shopkeepers](/shops/) | > +1t 400d |
 | ~ Arrows | ~ How to get it | ~ Est. cost in shops (20 arrows) |
-| Crude Arrows | Found on [TM Archers](/hg-bandit-forest/) | = n/a |
-| Reed Arrows | Sold by various [shopkeepers](/shops/) | = 39d - 75d |
-| Bone-Tipped Arrows | Crafted by [Hunters](/hunting/) | = n/a |
-| Stone-Tipped Arrows | Crafted by [Hunters](/hunting/) | = n/a |
-| Barbed Arrows | Sold by various [shopkeepers](/shops/) | = 63d - 253d |
+| Crude Arrows | Found on [TM Archers](/hg-bandit-forest/) | n/a |
+| Reed Arrows | Sold by various [shopkeepers](/shops/) | 39d - 75d |
+| Bone-Tipped Arrows | Crafted by [Hunters](/hunting/) | n/a |
+| Stone-Tipped Arrows | Crafted by [Hunters](/hunting/) | n/a |
+| Barbed Arrows | Sold by various [shopkeepers](/shops/) | 63d - 253d |
 | Bronze-Tipped Arrows | Sold by various [shopkeepers](/shops/)= | 190d - 332d |
-| Iron-Tipped Arrows | Sold by various [shopkeepers](/shops/) | = 316d - 399d |
+| Iron-Tipped Arrows | Sold by various [shopkeepers](/shops/) | 316d - 399d |
 
 
 #### Summary

@@ -20,28 +20,28 @@ You can find the important figures of organizations involved with the game world
 | [Iridine Constables](#Constables) | Lawkeeper | Yes | Yes | Yes |
 | [Legio](#Legio) | Lawkeeper | Yes | Yes | Yes |
 | [Monlon Vigiles](#Vigiles) | Lawkeeper | Yes | - | -* |
-| *[Phoenix Guard](#PG)* | Lawkeeper | Yes | = - | - |
-| *[Rock Valley Watch](#Watch)* | Lawkeeper | Yes | = - | - |
-| *[Quaesitus Monitor](#QM)* | Lawkeeper | Yes | = - | - |
+| *[Phoenix Guard](#PG)* | Lawkeeper | Yes | - | - |
+| *[Rock Valley Watch](#Watch)* | Lawkeeper | Yes | - | - |
+| *[Quaesitus Monitor](#QM)* | Lawkeeper | Yes | - | - |
 | *[Lex Legalis](#LexLegalis)* | Lawyer | Yes | - | -* |
 | [Black Centurions](#BC) | Criminal | Yes | Yes | Yes |
 | [Harbor Rats](#TG) | Criminal | Yes | Yes | Yes |
 | [Umbra Alati](#Alati) | Criminal | Yes | Yes | Yes |
-| [Shrikes](#Shrikes) | Criminal | Yes | = - | - |
-| [Sinistrals](#Sinistrals) | Criminal | Yes | = - | - |
+| [Shrikes](#Shrikes) | Criminal | Yes | - | - |
+| [Sinistrals](#Sinistrals) | Criminal | Yes | - | - |
 | [Traevant Militia](#Traevant) | Militia | Yes | Yes | Yes |
-| [Blackvine Volunteer Militia](#BVM) | Militia | Yes | = - | Yes |
-| [Monlon Volunteer Guard](#MVG) | Militia | = - | = - | Yes |
-| [Seld Sentinels](#SS) | Militia | = Yes | = Yes | Yes |
+| [Blackvine Volunteer Militia](#BVM) | Militia | Yes | - | Yes |
+| [Monlon Volunteer Guard](#MVG) | Militia | - | - | Yes |
+| [Seld Sentinels](#SS) | Militia | Yes | Yes | Yes |
 | [Cult of Ereal](#CoE) | Religious | Yes | Yes | Yes |
 | [Soldiers of Ereal](#SoE) | Religious | Yes | Yes | Yes |
 | [Cruentus Laureola](#CL) | Gladiator Stable | Yes | Yes | Yes |
 | [Silver Wolves](#SW) | Gladiator Stable | Yes | Yes | Yes |
 | [Guild of Locksmiths](#GoL) | Non-Combat | Yes | Yes | Yes |
 | [Healers of Light](#HoL) | Non-Combat | Yes | Yes | Yes |
-| [Vestis Formatae](#Vestis) | Non-Combat | = ? | Yes | Yes |
-| [Diamond Eye](#DE) | Non-Combat | = ? | Yes | Yes |
-| [Slime Squad](#Slime) | Social Affiliations | = - | = No | Yes |
+| [Vestis Formatae](#Vestis) | Non-Combat | ? | Yes | Yes |
+| [Diamond Eye](#DE) | Non-Combat | ? | Yes | Yes |
+| [Slime Squad](#Slime) | Social Affiliations | - | No | Yes |
 
 ******Formerly joinable by PCs, but this is no longer the case.*
 

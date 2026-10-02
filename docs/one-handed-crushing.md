@@ -15,7 +15,7 @@ Other cultures, primarily primitive ones, have been known to use clubs extensive
 
 
 | >> | >> | >> | >> | >> | Skill Info | >> | >> | >> | Ranks Taught by Trainer |
-| --- | --- | --- | --- | --- | :---: | --- | --- | :---: | --- |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Cottus | ~ Rontubius | ~ Cassius | ~ Cralus |
 | *<u>One-Handed Crushing</u>* | Easy | - | - | - | - | 115 | 300 | 300 | 130 |
 | [Club Iunius' Stance](#Stance) | Easy | - | - | - | - | 100 | 100 | 100 | 120 |

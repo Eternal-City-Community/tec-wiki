@@ -14,7 +14,7 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 **For additional guidance on using this skill set, see the [Dual Daggers Combat Guide](/dual-daggers-combat-guide/)**.
 
 | >> | >> | >> | >> | >> | Skill Info                                                        | >> | >> | Ranks Taught by Trainer |
-| -------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ----------------------- |
+| -------------------------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :-----------------------: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Someone | ~ Someone Else |                         |
 | *<u>Dual Daggers</u>*                        | Easy       | \-    | \-     | \-                       | \-                                                                | 80      | 500          |                         |
 | [Dual Daggers Sanguine Stance ](#Sanguine)   | Easy       | 2     | \-     | \-                       | Wielded **Two daggers**                                           | 80      | 500          |                         |

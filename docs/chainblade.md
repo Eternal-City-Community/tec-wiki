@@ -14,30 +14,30 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 
 
 | >> | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
-| --- | :---: | :---: | :---: | --- | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ Flavien | ~ Karkara |
-| *<u>Chainblade Combat</u>* | Easy | - | - | = - | - | 200 | 500 |
-| [Chainblade Winged Stance](#wingedstance) | Easy | 2 | - | = - | - | 100 | 500 |
-| [Chainblade Flying Slash](#slash) | Easy | 2 | Either | = Cut | - | 200 | 500 |
-| [Chainblade Ring Jab](#jab) | Easy | 2 | Short | = Bruise | - | 200 | 500 |
-| [Chainblade Close Stab](#stab) | Easy | 2 | Short | = Pierce | - | 200 | 500 |
-| [Chainblade Ring Uppercut](#uppercut) | Average | 2 | Short | = Bruise | - | 200 | 500 |
-| [Chainblade Hand Slash](#handslash) | Average | 2 | Either | = Cut | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Flying Thrust](#thrust) | Average | 2 | Either | = Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Ankle Snare](#ankle) | Average | 2 | Either | = Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | = Cut<br>Cut | [Chainblade Winged Stance](#wingedstance)<br>20 Ranks in [Chainblade Flying Slash](#slash) | 200 | 500 |
-| [Chainblade Raptor Spike](#raptor) | Average | 2 | Either | = Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | = Bruise<br>Pierce | 10 Ranks in [Chainblade Ring Jab](#jab)<br>10 Ranks in [Chainblade Close Stab](#stab) | 200 | 500 |
-| [Chainblade Feint](#feint) | Difficult | 2 | Either | = - | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | = Cut<br>Cut<br>Cut | 30 Ranks in [Chainblade Overhead Spin](#overhead) | 200 | 500 |
-| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | = Cut<br>Cut<br>Cut<br>Cut | [Chainblade Winged Stance](#wingedstance)<br>20 Ranks in [Chainblade Overhead Spin](#overhead)<br>20 Ranks in [Chainblade Raptor Spike](#raptor) | 200 | 500 |
+| *<u>Chainblade Combat</u>* | Easy | - | - | - | - | 200 | 500 |
+| [Chainblade Winged Stance](#wingedstance) | Easy | 2 | - | - | - | 100 | 500 |
+| [Chainblade Flying Slash](#slash) | Easy | 2 | Either | Cut | - | 200 | 500 |
+| [Chainblade Ring Jab](#jab) | Easy | 2 | Short | Bruise | - | 200 | 500 |
+| [Chainblade Close Stab](#stab) | Easy | 2 | Short | Pierce | - | 200 | 500 |
+| [Chainblade Ring Uppercut](#uppercut) | Average | 2 | Short | Bruise | - | 200 | 500 |
+| [Chainblade Hand Slash](#handslash) | Average | 2 | Either | Cut | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
+| [Chainblade Flying Thrust](#thrust) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
+| [Chainblade Ankle Snare](#ankle) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
+| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut<br>Cut | [Chainblade Winged Stance](#wingedstance)<br>20 Ranks in [Chainblade Flying Slash](#slash) | 200 | 500 |
+| [Chainblade Raptor Spike](#raptor) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
+| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise<br>Pierce | 10 Ranks in [Chainblade Ring Jab](#jab)<br>10 Ranks in [Chainblade Close Stab](#stab) | 200 | 500 |
+| [Chainblade Feint](#feint) | Difficult | 2 | Either | - | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
+| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut<br>Cut<br>Cut | 30 Ranks in [Chainblade Overhead Spin](#overhead) | 200 | 500 |
+| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut<br>Cut<br>Cut<br>Cut | [Chainblade Winged Stance](#wingedstance)<br>20 Ranks in [Chainblade Overhead Spin](#overhead)<br>20 Ranks in [Chainblade Raptor Spike](#raptor) | 200 | 500 |
 | [Chainblade No Mind Strike](#nomind) | Impossible | 2 | Either | *<varies>* | 90 Ranks in [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Blade Block](#bladeblock) | Easy | 2 | - | = - | - | 200 | 500 |
-| [Chainblade Ring Block](#ringblock) | Average | 2 | - | = - | - | 200 | 500 |
-| [Chainblade Chain Block](#chainblock) | Difficult | 2 | - | = - | - | 200 | 500 |
-| [Chainblade Snap Block](#snapblock) | Impossible | 2 | - | = - | - | 200 | 500 |
-| [Chainblade Accuracy](#Accuracy) | Difficult | - | - | = - | - | 100 | 175 |
-| [Chainblade Grip](#Grip) | Impossible | - | - | = - | - | 100 | 175 |
+| [Chainblade Blade Block](#bladeblock) | Easy | 2 | - | - | - | 200 | 500 |
+| [Chainblade Ring Block](#ringblock) | Average | 2 | - | - | - | 200 | 500 |
+| [Chainblade Chain Block](#chainblock) | Difficult | 2 | - | - | - | 200 | 500 |
+| [Chainblade Snap Block](#snapblock) | Impossible | 2 | - | - | - | 200 | 500 |
+| [Chainblade Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 175 |
+| [Chainblade Grip](#Grip) | Impossible | - | - | - | - | 100 | 175 |
 
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
