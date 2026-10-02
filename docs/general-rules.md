@@ -4,6 +4,10 @@ category: Reference
 ---
 # General Rules
 
+<div class="tec-general-rules-grid">
+
+<div class="tec-general-rules-column" markdown="1">
+
 ## The Eternal City Rules and Policies
 
 * The Eternal City is a game for mature role-players. Please make an effort to stay in character, even if you are not actively contributing to what is going on around you. Out-of-character (OOC) comments should be kept to a minimum and reserved to whispers. Please avoid out-of-character comments on any public 'channel' or in populated areas where others will hear them. The standard for making OOC comments is to whisper them and enclose them in brackets \[].  Keep in mind that some characters can hear whispers so even in whispers, please keep OOC comments to a bare minimum.
@@ -25,6 +29,10 @@ category: Reference
     
 
 The above rules and policies are enforced in conjunction with ThreeSea LLC's ToS.  Multiple violations of any of these policies can result in suspension of your account.
+
+</div>
+
+<div class="tec-general-rules-column tec-general-rules-contact" markdown="1">
 
 ## Contacting the GM Staff
 
@@ -93,4 +101,6 @@ Please send an e-mail to cs@eternalcitygame.com for the following issues:
 * Forum Issues
 * Additional concerns regarding Eternal City, or the Eternal City community as a whole.
 
-Test Text
+</div>
+
+</div>
