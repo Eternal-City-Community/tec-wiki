@@ -4,7 +4,7 @@ category: Reference
 ---
 # General Rules
 
-<div class="tec-general-rules-grid">
+<div class="tec-general-rules-grid" markdown="1">
 
 <div class="tec-general-rules-column" markdown="1">
 
