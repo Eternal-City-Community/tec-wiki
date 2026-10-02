@@ -61,6 +61,8 @@ collections:
         field: category
         pattern: "^Reference$"
     slug: "{{slug}}"
+    # Makes "View Live" open the page being edited instead of the homepage.
+    preview_path: "{{slug}}/"
     editor:
       preview: true
     fields:
