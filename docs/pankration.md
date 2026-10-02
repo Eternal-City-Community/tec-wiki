@@ -28,10 +28,10 @@ This skill set is best **complemented by knowledge of [Brawling](/brawling/).**
 | [Pankration Straight Palm](#spalm) | Average | 1 | Short | Bruise | - | 75 | 500 |  |
 | [Pankration Wide Knee](#wknee) | Difficult | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
 | [Pankration Rising Elbow](#relbow) | Average | 2 | Short | Bruise | [Pankration Basic Stance](#stance) | 75 | 500 |  |
-| [Pankration Lead and Cross](#lcross) | Average | 2 | Short | Bruise<br><br>Bruise | [Pankration Basic Stance](#stance)<br><br>20 Ranks in Pankration Lead Palm<br><br>20 Ranks in [Pankration Forward Elbow](#felbow) | 75 | 500 |  |
-| [Pankration Strike and Rise](#srise) | Average | 2 | Short | Bruise<br><br>Bruise | [Pankration Basic Stance](#stance)<br><br>20 Ranks in Pankration Straight Palm<br><br>20 Ranks in [Pankration Rising Elbow](#relbow) | 75 | 500 |  |
-| [Pankration Double Knee](#doubleknee) | Difficult | 1 | Short | Bruise<br><br>Bruise | 30 Ranks in [Pankration Driving Knee](#dknee)<br><br>30 Ranks in [Pankration Wide Knee](#wknee) | 75 | 500 |  |
-| [Pankration Knife Hand](#knife) | Difficult | 2 | Short | Pierce | [Pankration Basic Stance](#stance)<br><br>80 Ranks in *Pankration*<br><br>40 Ranks in Pankration Lead Palm<br><br>40 Ranks in Pankration Straight Palm<br><br>40 Ranks in [Pankration Rising Palm](#rpalm) | 75 | 500 |  |
+| [Pankration Lead and Cross](#lcross) | Average | 2 | Short | Bruise<br>Bruise | [Pankration Basic Stance](#stance)<br>20 Ranks in Pankration Lead Palm<br>20 Ranks in [Pankration Forward Elbow](#felbow) | 75 | 500 |  |
+| [Pankration Strike and Rise](#srise) | Average | 2 | Short | Bruise<br>Bruise | [Pankration Basic Stance](#stance)<br>20 Ranks in Pankration Straight Palm<br>20 Ranks in [Pankration Rising Elbow](#relbow) | 75 | 500 |  |
+| [Pankration Double Knee](#doubleknee) | Difficult | 1 | Short | Bruise<br>Bruise | 30 Ranks in [Pankration Driving Knee](#dknee)<br>30 Ranks in [Pankration Wide Knee](#wknee) | 75 | 500 |  |
+| [Pankration Knife Hand](#knife) | Difficult | 2 | Short | Pierce | [Pankration Basic Stance](#stance)<br>80 Ranks in *Pankration*<br>40 Ranks in Pankration Lead Palm<br>40 Ranks in Pankration Straight Palm<br>40 Ranks in [Pankration Rising Palm](#rpalm) | 75 | 500 |  |
 | [Pankration Shoulder Block](#sblock) | Easy | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
 | [Pankration Knee Block](#kblock) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |
 | [Pankration Palm Block](#pblock) | Average | 2 | Short | - | [Pankration Basic Stance](#stance) | 75 | 500 |  |

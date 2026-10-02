@@ -35,8 +35,8 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 | [Knife Push Aside](#Pa) | Difficult | 1 | Short | - | - | 500 | 100 | 85 | 300 | 75 | 75 |
 | [Knife Round Strike](#Round) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
 | [Knife Underhand Stab](#Ustab) | Average | 1 | Short | Pierce | - | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut<br><br>Cut | 20 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
-| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut<br><br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br><br>10 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Whirling Slash](#Whirl) | Average | 1 | Short | Cut<br>Cut | 20 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
+| [Knife Stab and Slash](#Dc) | Average | 1 | Short | Cut<br>Cut | 10 Ranks in [Knife Simple Stab](#Stab)<br>10 Ranks in [Knife Slash](#Slash) | 500 | 100 | 85 | 300 | 75 | 75 |
 | [Knife Flicking Feint](#Flick) | Average | 1 | Short | - | - | 500 | 100 | - | - | 75 | - |
 | [Knives Grip](#Grip) | Impossible | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |
 | [Knives Accuracy](#Accuracy) | Difficult | - | - | - | - | 100 | 100 | 85 | 100 | 75 | - |

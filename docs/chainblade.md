@@ -24,12 +24,12 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 | [Chainblade Hand Slash](#handslash) | Average | 2 | Either | Cut | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Flying Thrust](#thrust) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Ankle Snare](#ankle) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut<br><br>Cut | [Chainblade Winged Stance](#wingedstance)<br><br>20 Ranks in [Chainblade Flying Slash](#slash) | 200 | 500 |
+| [Chainblade Overhead Spin](#overhead) | Average | 2 | Either | Cut<br>Cut | [Chainblade Winged Stance](#wingedstance)<br>20 Ranks in [Chainblade Flying Slash](#slash) | 200 | 500 |
 | [Chainblade Raptor Spike](#raptor) | Average | 2 | Either | Pierce | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise<br><br>Pierce | 10 Ranks in [Chainblade Ring Jab](#jab)<br><br>10 Ranks in [Chainblade Close Stab](#stab) | 200 | 500 |
+| [Chainblade Double Jab](#doublejab) | Average | 2 | Short | Bruise<br>Pierce | 10 Ranks in [Chainblade Ring Jab](#jab)<br>10 Ranks in [Chainblade Close Stab](#stab) | 200 | 500 |
 | [Chainblade Feint](#feint) | Difficult | 2 | Either | - | [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
-| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Chainblade Overhead Spin](#overhead) | 200 | 500 |
-| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut<br><br>Cut<br><br>Cut<br><br>Cut | [Chainblade Winged Stance](#wingedstance)<br><br>20 Ranks in [Chainblade Overhead Spin](#overhead)<br><br>20 Ranks in [Chainblade Raptor Spike](#raptor) | 200 | 500 |
+| [Chainblade Kneeling Spin](#spin) | Difficult | 2 | Short | Cut<br>Cut<br>Cut | 30 Ranks in [Chainblade Overhead Spin](#overhead) | 200 | 500 |
+| [Chainblade Hawk Talon](#hawk) | Difficult | 2 | Either | Cut<br>Cut<br>Cut<br>Cut | [Chainblade Winged Stance](#wingedstance)<br>20 Ranks in [Chainblade Overhead Spin](#overhead)<br>20 Ranks in [Chainblade Raptor Spike](#raptor) | 200 | 500 |
 | [Chainblade No Mind Strike](#nomind) | Impossible | 2 | Either | *<varies>* | 90 Ranks in [Chainblade Winged Stance](#wingedstance) | 200 | 500 |
 | [Chainblade Blade Block](#bladeblock) | Easy | 2 | - | - | - | 200 | 500 |
 | [Chainblade Ring Block](#ringblock) | Average | 2 | - | - | - | 200 | 500 |

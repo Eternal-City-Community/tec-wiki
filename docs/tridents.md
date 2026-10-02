@@ -32,10 +32,10 @@ As a weapon, variations of the trident have made appearances in almost every cul
 | [Trident Sweep](#Sweep) | Difficult | 2 | Either | - | - | 300 | 500 | 154 |
 | [Trident Throw](#Throw) | Difficult | Either | Missile | Pierce | - | 300 | 500 | 154 |
 | [Trident Defensive Bash](#Defensive-Bash) | Average | 2 | Short | Bruise | 20 Ranks in [Trident Blunt Bash](#Blunt-Bash) | 300 | 500 | 154 |
-| [Trident Parting Gouge](#Parting-Gouge) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>40 Ranks in [Trident Vital Jab](#Vital-Jab)<br><br>40 Ranks in [Trident Parting Jab](#Parting-Jab) | 300 | 500 | 154 |
-| [Trident Parting Jab](#Parting-Jab) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>10 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
-| [Trident Pierce](#Pierce) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>30 Ranks in [Trident Stab](#Stab) | 300 | 500 | 154 |
-| [Trident Vital Jab](#Vital-Jab) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br><br>20 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
+| [Trident Parting Gouge](#Parting-Gouge) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>40 Ranks in [Trident Vital Jab](#Vital-Jab)<br>40 Ranks in [Trident Parting Jab](#Parting-Jab) | 300 | 500 | 154 |
+| [Trident Parting Jab](#Parting-Jab) | Average | 2 | Short | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>10 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
+| [Trident Pierce](#Pierce) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>30 Ranks in [Trident Stab](#Stab) | 300 | 500 | 154 |
+| [Trident Vital Jab](#Vital-Jab) | Average | 2 | Either | Pierce | [Trident Harpoon Stance](#Harpoon-Stance)<br>20 Ranks in [Trident Jab](#Jab) | 300 | 500 | 154 |
 | [Trident Simple Block](#Simple-Block) | Easy | 2 | - | - | - | 300 | 500 | 154 |
 | [Trident Cross Block](#Cross-Block) | Average | 2 | - | - | - | 300 | 500 | 154 |
 | [Trident Tine Block](#Tine-Block) | Difficult | 2 | - | - | - | 300 | 500 | 154 |

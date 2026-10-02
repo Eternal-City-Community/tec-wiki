@@ -20,15 +20,15 @@ Basic familiarity with the cestus involves becoming comfortable enough with the 
 | [Cestus Jab](#Jab) | Easy | Either | Short | Pierce | - | 300 | 500 | 154 |
 | [Cestus Short Upcut](#Shortupcut) | Easy | 2 | Short | Pierce |  | 300 | 500 | 154 |
 | [Cestus Spike Slash](#Slash) | Easy | Either | Short | Cut | - | 300 | 500 | 154 |
-| [Cestus Double Jab](#Doublejab) | Average | 2 | Short | Pierce<br><br>Pierce | 20 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
+| [Cestus Double Jab](#Doublejab) | Average | 2 | Short | Pierce<br>Pierce | 20 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
 | [Cestus Feint](#Feint) | Average | Either | Short | - | - | 300 | 500 | 154 |
 | [Cestus Tumble Lunge](#Lunge) | Average | 2 | Long | Pierce | - | 300 | 500 | 154 |
 | [Cestus Rear Upcut](#Rearupcut) | Average | 2 | Short | Pierce | [Cestus Weaving Stance](#Stance) | 300 | 500 | 154 |
-| [Cestus Spinning Backhand](#Spinning) | Average | Either | Short | Cut | 20 Ranks in<br><br>[Cestus Spike Slash](#Slash) | 300 | 500 | 154 |
+| [Cestus Spinning Backhand](#Spinning) | Average | Either | Short | Cut | 20 Ranks in<br>[Cestus Spike Slash](#Slash) | 300 | 500 | 154 |
 | [Cestus Stab](#Stab) | Average | Either | Short | Pierce | - | 300 | 500 | 154 |
 | [Cestus Upward Thrust](#Upthrust) | Average | Either | Either | Pierce | - | 300 | 500 | 154 |
-| [Cestus Triple Slash](#Tripleslash) | Difficult | 2 | Short | Cut<br><br>Cut<br><br>Cut | 30 Ranks in [Cestus Spike Slash](#Slash) | 300 | 500 | 154 |
-| [Cestus Upcut Spin](#Upcutspin) | Difficult | 2 | Short | Pierce<br><br>Pierce<br><br>Pierce | [Cestus Weaving Stance](#Stance)<br><br>20 Ranks in [Cestus Short Upcut](#Shortupcut)<br><br>20 Ranks in [Cestus Rear Upcut](#Rearupcut) | 300 | 500 | 154 |
+| [Cestus Triple Slash](#Tripleslash) | Difficult | 2 | Short | Cut<br>Cut<br>Cut | 30 Ranks in [Cestus Spike Slash](#Slash) | 300 | 500 | 154 |
+| [Cestus Upcut Spin](#Upcutspin) | Difficult | 2 | Short | Pierce<br>Pierce<br>Pierce | [Cestus Weaving Stance](#Stance)<br>20 Ranks in [Cestus Short Upcut](#Shortupcut)<br>20 Ranks in [Cestus Rear Upcut](#Rearupcut) | 300 | 500 | 154 |
 | [Cestus Vital Gouge](#Gouge) | Difficult | Either | Short | Pierce | 10 Ranks in [Cestus Jab](#Jab) | 300 | 500 | 154 |
 | [Cestus Weapon Trap](#Trap) | Difficult | Either | Short | - | - | 300 | 500 | 154 |
 | [Cestus Simple Block](#Simpleblock) | Average | Either | - | - | - | 300 | 500 | 154 |

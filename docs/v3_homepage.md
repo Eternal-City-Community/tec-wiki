@@ -98,7 +98,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | Knife Round Strike | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | Knife Underhand Stab | Average | 1 | Short | Pierce | - | 175 | 80 | 50 | 75 | 75 |
 | Knife Whirling Slash | Average | 1 | Short | Cut | Knife Slash (20 Ranks) | 175 | 80 | 50 | 75 | 75 |
-| Knife Stab and Slash | Average | 1 | Short | Cut | Knife Simple Stab(10 Ranks)<br><br>Knife Slash (10 Ranks) | 175 | 80 | 50 | 75 | 75 |
+| Knife Stab and Slash | Average | 1 | Short | Cut | Knife Simple Stab(10 Ranks)<br>Knife Slash (10 Ranks) | 175 | 80 | 50 | 75 | 75 |
 | Knife Flicking Feint | Average | 1 | Short | - | - | 175 | 80 | - | 75 | - |
 | Knife Accuracy | Difficult | - | - | - | - | 175 | - | 75 | 75 | - |
 | Knife Grip | Impossible | - | - | - | - | 175 | - | 75 | 75 | - |
@@ -114,7 +114,7 @@ Join for the chance to explore the vast gameworld, complex combat and non-combat
 | Skill | Guaranteed Multi-Hits |
 | --- | --- |
 | Knife Whirling Slash | 100 ranks in Knife Slash |
-| Knife Stab and Slash | 50 Ranks in Knife Simple Stab<br><br>50 Ranks in Knife Slash |
+| Knife Stab and Slash | 50 Ranks in Knife Simple Stab<br>50 Ranks in Knife Slash |
 
 
 <details markdown="1">

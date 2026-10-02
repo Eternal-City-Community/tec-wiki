@@ -43,7 +43,7 @@ To view the current organization leaders, use the **officials** command.
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Legio I |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | 1<sup>st</sup> Cohort<br><br>**Rearing Stallion** | 2<sup>nd</sup> Cohort<br><br>**Wild Dog** | 3<sup>rd</sup> Cohort<br><br>**Snarling Wildcat** | 4<sup>th</sup> Cohort<br><br>**Charging Bull** | 5<sup>th</sup> Cohort<br><br>**Leaping Dolphin** | 6<sup>th</sup> Cohort<br><br>**Rampant Lion** | 7<sup>th</sup> Cohort<br><br>**Snarling Badger** | 8<sup>th</sup> Cohort<br><br>**Howling Wolf** | 9<sup>th</sup> Cohort<br><br>**Diving Falcon** | 10<sup>th</sup> Cohort<br><br>**Striking Snake** |  |  |  |  |
+|  |  |  | 1<sup>st</sup> Cohort<br>**Rearing Stallion** | 2<sup>nd</sup> Cohort<br>**Wild Dog** | 3<sup>rd</sup> Cohort<br>**Snarling Wildcat** | 4<sup>th</sup> Cohort<br>**Charging Bull** | 5<sup>th</sup> Cohort<br>**Leaping Dolphin** | 6<sup>th</sup> Cohort<br>**Rampant Lion** | 7<sup>th</sup> Cohort<br>**Snarling Badger** | 8<sup>th</sup> Cohort<br>**Howling Wolf** | 9<sup>th</sup> Cohort<br>**Diving Falcon** | 10<sup>th</sup> Cohort<br>**Striking Snake** |  |  |  |  |
 |  | 1<sup>st</sup> Century (**Eagle**) | ... | 6<sup>th</sup> Century |  |  |  |  |  |  |  |  | 1<sup>st</sup> - 6<sup>th</sup> Centuries *(per Cohort)* |  |  |  |  |
 | Wolf Squad | Lion Squad | ... | Squads |  |  |  |  |  |  |  |  | Squads *(per Century)* |  |  |  |  |
 

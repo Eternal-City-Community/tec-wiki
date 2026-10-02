@@ -95,7 +95,7 @@ Higher ranks in this skill allow you to create higher quality snares, which last
 | Rank 10 | ?? |
 | Rank 20 | ?? |
 | Rank 30 | ?? |
-| Rank 40 | slightly below-average<br><br>**average** |
+| Rank 40 | slightly below-average<br>**average** |
 | Rank 50 | **average** |
 | Rank 60 | ?? |
 | Rank 70 | ?? |
@@ -323,9 +323,9 @@ With a rib, antler, horn, or large fang in one hand, and a whet stone in another
 
 |  | knife description prefixes | "inspect" quality | knife weight |
 | --- | --- | --- | --- |
-| Rank 1 | rough<br><br>primitive (no cordage) | poor | 0.9 lbs |
-| Rank 10 | rough<br><br>simple<br><br>primitive (no cordage) | average | 0.9 lbs |
-| Rank 20 | simple<br><br>primitive (no cordage) | average<br><br>fairly good | 0.9 lbs |
+| Rank 1 | rough<br>primitive (no cordage) | poor | 0.9 lbs |
+| Rank 10 | rough<br>simple<br>primitive (no cordage) | average | 0.9 lbs |
+| Rank 20 | simple<br>primitive (no cordage) | average<br>fairly good | 0.9 lbs |
 | Rank 30 |  |  |  |
 | Rank 40 |  |  |  |
 | Rank 50 |  |  |  |

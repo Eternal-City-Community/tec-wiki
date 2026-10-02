@@ -19,16 +19,16 @@ Cineran Knife Fighting is known as a refined fighting style from the distant lan
 | [CKF Screnaca Coranadin Stance](#Stance) | Easy | - | - | - | - | 100 | 75 |  |  |  |
 | [CKF Slashing Block](#Slashing) | Average | - | - | - | - | 500 | 50 |  |  |  |
 | [CKF Dirk Balance](#Dirk) | Difficult | - | - | - | 20 Ranks in [Knives Wrist-Dancing](/knives/#Wd) | 175 | 50 |  |  |  |
-| [CKF Rib Tickle](#Rib) | Difficult | 1 | Short | Pierce | 30 Ranks in [Knives Slash](/knives/#Slash)<br><br>20 Ranks in [Knives Underhand Stab](/knives/#Ustab) | 500 | 50 |  |  |  |
-| [CKF Triple Cut](#Triple) | Difficult | 1 | Short | Cut<br><br>Cut<br><br>Cut | 20 Ranks in [Knives Jab](/knives/#Jab)<br><br>20 Ranks in [Knives Slash](/knives/#Slash)<br><br>20 Ranks in [Knives Chop](/knives/#Chop) | 500 | 40 |  |  |  |
+| [CKF Rib Tickle](#Rib) | Difficult | 1 | Short | Pierce | 30 Ranks in [Knives Slash](/knives/#Slash)<br>20 Ranks in [Knives Underhand Stab](/knives/#Ustab) | 500 | 50 |  |  |  |
+| [CKF Triple Cut](#Triple) | Difficult | 1 | Short | Cut<br>Cut<br>Cut | 20 Ranks in [Knives Jab](/knives/#Jab)<br>20 Ranks in [Knives Slash](/knives/#Slash)<br>20 Ranks in [Knives Chop](/knives/#Chop) | 500 | 40 |  |  |  |
 | [CKF Face Slash](#Face) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
 | [CKF Wrist Slash](#Wrist) | Difficult | 1 | Short | Cut | 30 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
 | [CKF Backhand Slash](#Backhand) | Average | 1 | Short | Cut | - | 500 | 45 |  |  |  |
 | [CKF Quick Draw](#Quick) | Difficult | 1 | - | - | - | 175 | 50 |  |  |  |
-| [CKF Markad Slash](#Markad) | Average | 1 | Short | Bruise<br><br>Cut | 20 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
+| [CKF Markad Slash](#Markad) | Average | 1 | Short | Bruise<br>Cut | 20 Ranks in [Knives Slash](/knives/#Slash) | 500 | 50 |  |  |  |
 |  |  |  |  |  |  |  |  |  |  | Unavailable Skills (Not taught by NPC trainers) |
 | [Cineran Knives Heavy Chop](#HChop) | - | - | - | - | 20 Ranks in [Knife Chop](/knives/#Chop) | - | - |  |  |  |
-| [Cineran Knives Diving Stab](#DStab) | - | 1 | Long | Pierce | 20 Ranks in [Knife Step and Lunge](/knives/#Lunge)<br><br>20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
+| [Cineran Knives Diving Stab](#DStab) | - | 1 | Long | Pierce | 20 Ranks in [Knife Step and Lunge](/knives/#Lunge)<br>20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
 | [Cineran Knives Knee Stab](#KStab) | - | - | - | - | 20 Ranks in [Knife Simple Stab](/knives/#Stab) | - | - |  |  |  |
 
 

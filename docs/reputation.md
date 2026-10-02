@@ -33,7 +33,7 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 | Tier 1 | SE Section | .25 |
 
 
-| Item | Reputation<br><br>Points | Price | Weight | Protection<br><br>or Quality |
+| Item | Reputation<br>Points | Price | Weight | Protection<br>or Quality |
 | --- | --- | --- | --- | --- |
 | some leather gloves | 500 | 2t | <1 lb | Good - Arms, Hands |
 | some leather leggings | 500 | 2t | <1 lb | Good - Feet, Shins |
@@ -111,7 +111,7 @@ That comes in the following colors: azure, balanced, barbed, black, black leathe
 ##### Reputation Status
 You can ask Pretium about your "reputation" to receive a comment that gives you and idea of approximately how much reputation you've gained.
 
-| Reputation<br><br>Points | Comments from Pretium |
+| Reputation<br>Points | Comments from Pretium |
 | --- | --- |
 | 0 | Your name is barely a whisper in Franlius, unknown to most. |
 | 250 | Faint rumors of your minor deeds against the undead circulate in Franlius. |

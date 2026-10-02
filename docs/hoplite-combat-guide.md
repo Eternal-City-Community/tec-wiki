@@ -97,11 +97,11 @@ A rank of **1 signifies the best** in this category.
 
 Weapon round time with outstanding speed (190+):
 
-| Weapon and Shield | Most Attacks | Rotating Bash | Lunge and Strike &<br><br>Stab and Swing | Bash and Jab &<br><br>Slam and Thrust | Basic Attack | Feint |
+| Weapon and Shield | Most Attacks | Rotating Bash | Lunge and Strike &<br>Stab and Swing | Bash and Jab &<br>Slam and Thrust | Basic Attack | Feint |
 | --- | --- | --- | --- | --- | --- | --- |
-| wood spear w/ any shield<br><br>tin short spear w/ any shield<br><br>alanti spear w/ any shield<br><br>alanti short spear w/ any shield<br><br>retalq spear w/ any shield<br><br>retalq short spear w/ any shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
-| boison spear w/ light shield<br><br>boison short spear w/ light shield<br><br>iron short spear w/ light shield | 2 + MoS | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
-| boison spear w/ heavy shield<br><br>boison short spear w/ heavy shield<br><br>iron spear w/ heavy shield | 2 + MoS | 2 + MoS | 3 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
+| wood spear w/ any shield<br>tin short spear w/ any shield<br>alanti spear w/ any shield<br>alanti short spear w/ any shield<br>retalq spear w/ any shield<br>retalq short spear w/ any shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
+| boison spear w/ light shield<br>boison short spear w/ light shield<br>iron short spear w/ light shield | 2 + MoS | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
+| boison spear w/ heavy shield<br>boison short spear w/ heavy shield<br>iron spear w/ heavy shield | 2 + MoS | 2 + MoS | 3 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 
 
 **Notes:**

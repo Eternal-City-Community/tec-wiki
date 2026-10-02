@@ -28,8 +28,8 @@ The [Allende Family](/political-factions/#Allende) are patron to the Cult of Ere
 |  |  |  |  |  | Cult of Ereal |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | High Priest Tharius |
-| ***High Priest’s Proxy***<br><br>Darie Allende | ***Sword of Ereal***<br><br>Junia Gracious<br><br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br><br>i. Titus Ahala<br><br>ii. Albius Anande<br><br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br><br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br><br>v. Sartor Mithus<br><br>vi. Spurius Ravilla<br><br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
-|  | i. Fist of Ereal<br><br>ii. Firm of Ereal<br><br>iii. Shield of Ereal |  |  |  |  |
+| ***High Priest’s Proxy***<br>Darie Allende | ***Sword of Ereal***<br>Junia Gracious<br>*(deceased)* | *(Tharius’)* ***Chief of Spies*** |             ***The Council of Elders***<br>i. Titus Ahala<br>ii. Albius Anande<br>iii. Drusus Rustius – *Heart of Ereal* ( **Nurturing Light** )<br>iv. Jarin Seneda – *Eye of Ereal* ( **Revealing Light** )<br>v. Sartor Mithus<br>vi. Spurius Ravilla<br>vii. Bernard Tubero – *Hand of Ereal* ( **Bright Hope** ) |  |  |
+|  | i. Fist of Ereal<br>ii. Firm of Ereal<br>iii. Shield of Ereal |  |  |  |  |
 
 
 <a id="High-Priest"></a>
@@ -73,11 +73,11 @@ While rank titles may differ across sects, their structures remain very similar.
 |  |  |  | Temple Hierarchy |
 | --- | --- | --- | --- |
 | Sect Name: | **Revealing Light** | **Nurturing Light** | **Bright Hope** |
-| Highest Ranking Priest:<br><br>*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
-| Oversees ~5 Temples:<br><br>*(Reports to rank directly above)* | Glass | Mist | Gentle |
-| Head of 1 Temple:<br><br>*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
-| Temple Department:<br><br>*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
-| Universal Rank<br><br>*(Reports to rank directly above)* |  |  | Focus |
+| Highest Ranking Priest:<br>*(Reports to Council of Elders)* | Eye of Ereal | Heart of Ereal | Hand of Ereal |
+| Oversees ~5 Temples:<br>*(Reports to rank directly above)* | Glass | Mist | Gentle |
+| Head of 1 Temple:<br>*(Reports to rank directly above)* | Revealer | Druid | Glimmer |
+| Temple Department:<br>*(Reports to rank directly above)* | Shepherd | Guide | Comforter* |
+| Universal Rank<br>*(Reports to rank directly above)* |  |  | Focus |
 
 
 <a id="NurturingLight"></a>

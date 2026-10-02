@@ -30,10 +30,10 @@ Below you'll find everything important to know about **[Short Whips](/whips/)**.
 
 Weapon roundtime with outstanding speed (190+):
 
-| Weapon Type | Most Attacks | Flick Strike &<br><br>Short Entangle | Sky Circle Rake |
+| Weapon Type | Most Attacks | Flick Strike &<br>Short Entangle | Sky Circle Rake |
 | --- | --- | --- | --- |
 | hair whip | 1 + MoS | 1 + MoS | 2 + MoS |
-| short whip<br><br>short whip with a retalq bit<br><br>simple whip of soft leather | 2 + MoS | 1 + MoS | 2 + MoS |
+| short whip<br>short whip with a retalq bit<br>simple whip of soft leather | 2 + MoS | 1 + MoS | 2 + MoS |
 | scale whip | 2 + MoS | 2 + MoS | 3 + MoS |
 | short whip with a boison bit | 3 + MoS | 2 + MoS | 3 + MoS |
 
@@ -42,7 +42,7 @@ Weapon roundtime with outstanding speed (190+):
 
 In this damage ranking table, 1 is the best/highest raw damage. This ranking does not factor in critical hit frequency/quality. It simply ranks weapons based on the roll-over-success required to achieve the highest damage tier on an unarmored humanoid opponent.
 
-| Damage Rank | Weapon(s) | Maximum Damage Tier<br><br>(with 230 strength) |
+| Damage Rank | Weapon(s) | Maximum Damage Tier<br>(with 230 strength) |
 | --- | --- | --- |
 | 1 | short whip with a boison bit | 5 |
 | 2 | scale whip | 5 |
@@ -57,9 +57,9 @@ In this damage ranking table, 1 is the best/highest raw damage. This ranking doe
 | Weapon | Weight | Source(s) | Notes |
 | --- | --- | --- | --- |
 | a hair whip with a soft leather bit | ? | [Usius (Practice Weapons)](/bronze-lane/) | training weapon / no damage |
-| a simple whip of soft leather | 0.3 lbs | [Llorona (Leather)](/town-of-rock-valley/)<br><br>[Apecuia (Officium de Humanitas)](/riverside/) |  |
+| a simple whip of soft leather | 0.3 lbs | [Llorona (Leather)](/town-of-rock-valley/)<br>[Apecuia (Officium de Humanitas)](/riverside/) |  |
 | a hair whip | 1.8 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) |  |
-| a short whip | 3.0 lbs | [Marius (Gladiator Weapons)](/bronze-lane/)<br><br>[BHC](/hg-black-hand-caverns/) bandits |  |
+| a short whip | 3.0 lbs | [Marius (Gladiator Weapons)](/bronze-lane/)<br>[BHC](/hg-black-hand-caverns/) bandits |  |
 | a scale whip | 1.8 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) |  |
 | a short whip with a boison bit | 2.5 lbs | [Marius (Gladiator Weapons)](/bronze-lane/) |  |
 | a short whip with a retalq bit | 1.4 lbs | [Fama (Retalq Weapons)](/town-of-vetallun/) |  |

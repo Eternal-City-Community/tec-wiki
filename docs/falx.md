@@ -27,10 +27,10 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 | [Falx Eviscerate](#eviscerate) | Difficult | 2 | Short | Pierce | - | 200 | 500 |
 | [Falx Formation Breaker](#break) | Average | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 175 |
 | [Falx Ankle Drag](#ankle) | Difficult | 2 | Either | Pierce | [Falx Kelestian Siege Stance](#siege) | 200 | 500 |
-| [Falx Whirlwind Slash](#wslash) | Average | 2 | Short | Cut <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
-| [Falx Spinning Backhand](#spin) | Average | 2 | Short | Bruise <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
-| [Falx Wide Hook Rake](#rake) | Difficult | 2 | Short | Pierce <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br><br>20 Ranks in [Falx Wild Strike](#wstrike)<br><br>20 Ranks in [Falx Whirlwind Slash](#wslash)<br><br>20 Ranks in [Falx Spinning Backhand](#spin) | 200 | 500 |
-| [Falx Final Slash](#fslash) | Difficult | 2 | Either | Cut **or** *Kill* | [Falx Kelestian Siege Stance](#siege)<br><br>40 Ranks in [Falx Narrow Slash](#slash)<br><br>40 Ranks in [Falx Whirlwind Slash](#wslash) | 200 | 500 |
+| [Falx Whirlwind Slash](#wslash) | Average | 2 | Short | Cut <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
+| [Falx Spinning Backhand](#spin) | Average | 2 | Short | Bruise <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br>20 Ranks in [Falx Wild Strike](#wstrike) | 200 | 500 |
+| [Falx Wide Hook Rake](#rake) | Difficult | 2 | Short | Pierce <sup>AoE</sup> | [Falx Kelestian Siege Stance](#siege)<br>20 Ranks in [Falx Wild Strike](#wstrike)<br>20 Ranks in [Falx Whirlwind Slash](#wslash)<br>20 Ranks in [Falx Spinning Backhand](#spin) | 200 | 500 |
+| [Falx Final Slash](#fslash) | Difficult | 2 | Either | Cut **or** *Kill* | [Falx Kelestian Siege Stance](#siege)<br>40 Ranks in [Falx Narrow Slash](#slash)<br>40 Ranks in [Falx Whirlwind Slash](#wslash) | 200 | 500 |
 | [Falx Chopping Block](#cblock) | Easy | 2 | - | - | - | 200 | 500 |
 | [Falx High Parry](#hparry) | Easy | Either | - | - | - | 200 | 500 |
 | [Falx Outside Parry](#oparry) | Average | 2 | - | - | - | 200 | 500 |

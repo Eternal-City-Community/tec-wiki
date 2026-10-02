@@ -24,10 +24,10 @@ Avros is also a popular amongst patricians, noble families, and other members of
 | *<u>Avros Gladius Combat</u>* | Easy | - | - | - | - | 100 | 500 |
 | [Avros Dueling Stance](#Dueling) | Easy | - | - | - | - | 100 | 100 |
 | [Avros Rapid Strike](#Rapid) | Easy | Either | Short | Cut | 30 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
-| [Avros Forced Thrust](#Forced) | Average | Either | Short | Cut | 10 Ranks in [Swords Jab](/one-handed-swords/#Jab)<br><br>10 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 100 | 500 |
-| [Avros Needle Strike](#Needle) | Average | Either | Short | Pierce<br><br>Pierce<br><br>Pierce<br><br>Pierce | 40 Ranks in [Swords Jab](/one-handed-swords/#Jab) | 100 | 500 |
-| [Avros Stab and Slash](#Stab) | Average | Either | Short | Pierce<br><br>Cut | 20 Ranks in [Swords Stab](/one-handed-swords/#Stab)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
-| [Avros Whirling Strike](#Whirling) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
+| [Avros Forced Thrust](#Forced) | Average | Either | Short | Cut | 10 Ranks in [Swords Jab](/one-handed-swords/#Jab)<br>10 Ranks in [Swords Stab](/one-handed-swords/#Stab) | 100 | 500 |
+| [Avros Needle Strike](#Needle) | Average | Either | Short | Pierce<br>Pierce<br>Pierce<br>Pierce | 40 Ranks in [Swords Jab](/one-handed-swords/#Jab) | 100 | 500 |
+| [Avros Stab and Slash](#Stab) | Average | Either | Short | Pierce<br>Cut | 20 Ranks in [Swords Stab](/one-handed-swords/#Stab)<br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
+| [Avros Whirling Strike](#Whirling) | Average | Either | Short | Cut | 20 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 100 | 500 |
 | [Avros Strike and Smash](#Strike) | Difficult | Either | Short | - | 10 Ranks in [Swords Chop](/one-handed-swords/#Chop) | 100 | 500 |
 | [Avros Pivot Lunge](#Pivot) | Difficult | Either | Short | Pierce | 20 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 100 | 500 |
 | [Avros Sunrise Block](#Sunrise) | Average | Either | - | - | [Avros Dueling Stance](#Dueling) | 100 | 500 |

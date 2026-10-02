@@ -21,13 +21,13 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 | [Extended Arm Spin](#EAS) | Average | Either | Short | Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
 | [Kicking Leap Strike](#KLS) | Difficult | Either | Long | Cut | 10 Ranks in [Kicking Slash](#KS) | 300 | 500 | 154 |
 | [Kicking Slash](#KS) | Average | Either | Short | Cut | 10 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
-| [Leaping Cross Strike](#LCS) | Difficult | 2 | Long | Cut | 10 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br><br>10 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
+| [Leaping Cross Strike](#LCS) | Difficult | 2 | Long | Cut | 10 Ranks in [Swords Chop](/one-handed-swords/#Chop)<br>10 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
 | [Lightning Thrust](#LT) | Difficult | Either | Long | Pierce | 10 Ranks in [Swords Lunge](/one-handed-swords/#Lunge) | 300 | 500 | 154 |
 | [Planting the Blade](#PtB) | Easy | 1 | - | - | - | 100 | 175 | 154 |
-| [Spinning Duck and Strike](#SDaS) | Average | Either | Short | Cut | 1 Rank in [Duck](/combat-maneuvers/#Duck)<br><br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
+| [Spinning Duck and Strike](#SDaS) | Average | Either | Short | Cut | 1 Rank in [Duck](/combat-maneuvers/#Duck)<br>20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
 | [Vulture Block](#VB) | Difficult | Either | - | - | - | 300 | 500 | 154 |
 | [Reverse Sky Arch](#RSA) | Average | Either | Short | Cut | [Tiger Stance](/nelsor-one-handed-swords/#T) | 300 | 500 | 154 |
-| [Tiger Slash](#TS) | Difficult | Either | Short | Cut<br><br>Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
+| [Tiger Slash](#TS) | Difficult | Either | Short | Cut<br>Cut | 20 Ranks in [Swords Slash](/one-handed-swords/#Slash) | 300 | 500 | 154 |
 | [Tiger Stance](#T) | Easy | Either | - | - | - | 100 | 100 | 154 |
 
 **Directions to Ariston** ([Iridine](/bronze-lane/)): Walk to Bronze Lane, Ex2, NEx2, N, Ex4, N, W
