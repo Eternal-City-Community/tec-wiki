@@ -185,8 +185,46 @@ function initTecTopNav() {
     );
   }
 
-  syncHeaderStackHeight();
-  window.addEventListener("resize", syncHeaderStackHeight, { passive: true });
+  // On narrow screens, shrink the wiki title until all of it fits between the
+  // header buttons.
+  var siteTitle = header.querySelector(".md-header__topic:first-child");
+  var siteTitleText = siteTitle && siteTitle.querySelector(".md-ellipsis");
+  function fitSiteTitle() {
+    if (!siteTitleText) return;
+    siteTitle.style.fontSize = "";
+    var have = siteTitleText.clientWidth;
+    var need = siteTitleText.scrollWidth;
+    if (have > 0 && need > have) {
+      var size = parseFloat(getComputedStyle(siteTitle).fontSize);
+      siteTitle.style.fontSize = Math.floor(size * have / need * 10) / 10 + "px";
+    }
+  }
+
+  // Likewise shrink the shortcut buttons so they stay on one row.
+  var navInner = nav.querySelector(".tec-topnav__inner");
+  function fitNavButtons() {
+    nav.style.removeProperty("--tec-topnav-fit");
+    var last = navInner.lastElementChild;
+    if (!last) return;
+    var left = navInner.getBoundingClientRect().left;
+    var room = navInner.clientWidth - 4;
+    function used() { return last.getBoundingClientRect().right - left; }
+    var fit = 1;
+    for (var i = 0; i < 4 && used() > room; i++) {
+      fit *= room / used();
+      nav.style.setProperty("--tec-topnav-fit", Math.floor(fit * 100) / 100);
+    }
+  }
+
+  function syncHeader() {
+    fitSiteTitle();
+    fitNavButtons();
+    syncHeaderStackHeight();
+  }
+
+  syncHeader();
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(syncHeader);
+  window.addEventListener("resize", syncHeader, { passive: true });
   if ("ResizeObserver" in window) {
     new ResizeObserver(syncHeaderStackHeight).observe(header);
   }

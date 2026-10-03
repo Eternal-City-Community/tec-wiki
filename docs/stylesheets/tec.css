@@ -616,9 +616,8 @@ body::before {
   }
 
   .md-header__topic:first-child {
-    max-width: 13rem;
+    /* tec-nav-v2.js shrinks the font when the title doesn't fit. */
     overflow: hidden;
-    text-overflow: ellipsis;
     white-space: nowrap;
     font-size: .9rem;
     letter-spacing: .12em;
@@ -681,6 +680,7 @@ body::before {
   background: #173200;
   color: #f5e9bd;
   font: 600 .58rem/18px Georgia, "Times New Roman", serif;
+  white-space: nowrap;
   cursor: pointer;
 }
 
@@ -740,7 +740,9 @@ body::before {
   .tec-topnav__button {
     min-width: 0;
     padding: 0 .35rem;
-    font-size: .52rem;
+    /* tec-nav-v2.js lowers --tec-topnav-fit when the buttons don't fit on
+       one row. */
+    font-size: calc(.52rem * var(--tec-topnav-fit, 1));
   }
 
   .tec-topnav__menu {
