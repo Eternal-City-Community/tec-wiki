@@ -90,6 +90,7 @@ function initTecTopNav() {
       link("Brigand Treehouse","brigand-treehouse"),
       link("Esecarnus Caves","esecarnus-caves"),
       link("Filinius Villa","hg-filinius-villa"),
+      link("Fist Fort","fist-fort"),
       link("Grey Sands","grey-sands"),
       link("Pirate Ship","pirate-ship")
     ]) +
