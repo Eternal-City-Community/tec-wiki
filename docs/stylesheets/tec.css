@@ -1961,6 +1961,31 @@ html, body {
   }
 }
 
+/* Header cells stay in view, just under the site header, while scrolling
+   through a table; a header row further down takes over from the one above.
+   Only for tables that fit the column (tec-tables.js marks them), because a
+   wrapper that scrolls sideways would hold the headers in place instead.
+   The header row tucks 2px under the site header, so no sliver of the rows
+   scrolling past shows between them when the header's height isn't a whole
+   pixel. */
+:root {
+  --tec-sticky-top: calc(var(--tec-header-stack-height, 103px) + 2px);
+}
+
+.md-typeset__scrollwrap.tec-table-fits,
+.md-typeset__scrollwrap.tec-table-fits > .md-typeset__table,
+.tec-table-scroll.tec-table-fits,
+.tec-table-fits table {
+  overflow: visible !important;
+}
+
+/* Header rows only; header cells that label a row stay where they are. */
+.tec-table-fits tr:not(:has(> td)) > th {
+  position: sticky;
+  top: var(--tec-sticky-top);
+  z-index: 2;
+}
+
 
 /* Page history app */
 .tec-history-app {

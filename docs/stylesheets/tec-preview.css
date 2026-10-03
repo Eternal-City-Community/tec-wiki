@@ -41,3 +41,8 @@ body::before {
 .tec-history-loading {
   display: none;
 }
+
+/* No site header in the preview, so table headers stick to the top of the frame. */
+:root {
+  --tec-sticky-top: 0px;
+}
