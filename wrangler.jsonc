@@ -15,5 +15,6 @@
   },
   "build": {
     "command": "mkdocs build --clean"
-  }
+  },
+  "previews": {}
 }
