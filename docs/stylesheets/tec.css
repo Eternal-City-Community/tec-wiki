@@ -102,6 +102,12 @@ body::before {
   overflow: visible;
   text-overflow: clip;
   white-space: nowrap;
+  /* Centred vertically in the header; the subtitle keeps its place beside
+     the title's top edge. */
+  top: 0;
+  bottom: 0;
+  height: fit-content;
+  margin-block: auto;
 }
 
 .md-header__topic:first-child::after {
