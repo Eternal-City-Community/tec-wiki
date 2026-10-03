@@ -200,7 +200,6 @@ This will read:
 
 **Final note:**  
 > I mention PG-13 stuff. While I understand we're adults (technically), we don't want to have to write about your perky bits or that elephant trunk buldge. If you can't live without everyone knowing about your characters junk, please provide that stuff in the format above so that it can just be copy/pasted.
-================================================================================
 
 
 Wearing certain items cover aspects of your character's description. For instance, a bronze-visored **helmet** will cover your character's head, making **your head/hair description not visible** to someone looking at your character.

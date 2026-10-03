@@ -1107,10 +1107,12 @@ html, body {
 
 /* Restore the visual language of the original Wikidot skill template. */
 
-/* Trainer/flavor quotations used by FLAVORTEXT in skill-template. */
+/* Quote boxes. The quote mark sits in the left padding, so every line of the
+   quote starts at the same place. */
 .md-typeset blockquote {
+  position: relative;
   margin: .55rem 1.2rem .8rem;
-  padding: .65rem .85rem;
+  padding: .65rem .85rem .65rem 2.1rem;
   color: #403b2d;
   background:
     linear-gradient(rgba(247,239,207,.92), rgba(230,216,169,.92));
@@ -1126,12 +1128,25 @@ html, body {
   margin: .25rem 0;
 }
 
+/* [dir] matches the theme's own padding rule, which would otherwise win. */
+[dir] .md-typeset blockquote {
+  padding-left: 2.1rem;
+}
+
 .md-typeset blockquote::before {
   content: "“";
-  float: left;
-  margin: -.18rem .35rem -.2rem -.1rem;
+  position: absolute;
+  left: .5rem;
+  top: .45rem;
   color: rgba(91,76,41,.42);
   font: 2rem/1 Georgia, "Times New Roman", serif;
+}
+
+/* Inline code inside a quote (game output examples) reads as plain monospace
+   lines rather than separate grey pills. */
+.md-typeset blockquote code {
+  padding: 0;
+  background: none;
 }
 
 /* Combat/action examples from the original skill-template backend. */
@@ -2180,9 +2195,9 @@ html, body {
 }
 
 /* Character biography pages use the original quote-style presentation. */
-.tec-bio-page .tec-bio-quote {
+[dir] .tec-bio-page .tec-bio-quote {
   margin: .55rem 0 1.2rem;
-  padding: .8rem 1rem;
+  padding: .8rem 1rem .8rem 2.1rem;
 }
 .tec-bio-page .tec-bio-quote > :first-child { margin-top: 0; }
 .tec-bio-page .tec-bio-quote > :last-child { margin-bottom: 0; }
@@ -2932,9 +2947,15 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
 }
 
-/* Homepage "Play Now" button, linking to the game login. */
+/* Homepage "Play Now" button, linking to the game login. It keeps the same
+   proportion to the banner above it at every screen width, but stays large
+   enough to tap on a phone. */
+.md-typeset p > a:only-child:has(> img.tec-play-now:only-child) {
+  width: clamp(150px, 30%, 726px);
+}
+
 .md-typeset img.tec-play-now {
-  width: 300px;
+  width: 100%;
   cursor: pointer;
   transition: filter .15s;
 }
