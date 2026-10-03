@@ -6,7 +6,7 @@ parent: skills
 
 # Cestus
 
-### Skill Overview
+## Skill Overview
 A cestus is a heavy gauntlet, worn by a hand clenched into a fist. It is much heftier than a normal glove, and can weigh half a dozen pounds or more. The gladiatorial cestus often has bronze, iron, or boison spikes jutting out, either in an orderly pattern or at random. It is strapped on and difficult to remove in a hurry, used to bludgeon and puncture an opponent. Some have longer spikes or even knifelike blades jutting forward like extended fingers. Cestii are most effective when worn on both hands, as many maneuvers require two. Rarely, however, a single cestus may be used alone or as a secondary weapon.
 
 Basic familiarity with the cestus involves becoming comfortable enough with the weight and shape of the weapon to avoid stabbing yourself in the chest or hip with the spikes, and to perform the simplest punching motions with the extra weight on your hand. It also means unlearning some basic habits like scratching your nose during a fight.
@@ -49,7 +49,7 @@ Basic familiarity with the cestus involves becoming comfortable enough with the 
 **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
-### Skill Details
+## Skill Details
 
 ### Cestus Weaving Stance  *weave* {#Stance}
 

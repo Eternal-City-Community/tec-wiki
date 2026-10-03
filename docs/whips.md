@@ -6,7 +6,7 @@ parent: skills
 
 # Whips
 
-### Skill Overview
+## Skill Overview
 The short whip used by gladiators (and originally for punishment and the control of animals) is made from braided leather strips. They are tightly coiled around a short length of wood, or a thicker piece of leather at the handle end, often with a wrist-loop for convenience. At the opposite end, they are either wrapped into a slightly stiff, very durable, narrow end with a bronze bit; or split for the last foot or so, with or without several smaller bits. The overall length of the whip is about six feet, and an average fighter can strike at someone who is standing seven to nine feet away with it.
 
 Basic familiarity with the short whip means that the wielder won't take out her own eye or flay her own cheek, and can make it crack every time without having to think too hard about it. It also means that she can strike in a general area, such as "over that horse's head", with reasonable confidence. As a weapon, the short whip is a very difficult and complex style to learn and use well. In the hands of a master, however, the whip is capable of disarming and mutilating opponents with blinding finesse.
@@ -47,7 +47,7 @@ Basic familiarity with the short whip means that the wielder won't take out her 
 **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
-### Skill Details
+## Skill Details
 
 ### Whip Fast Coil Stance  *fastcoil* {#FCstance}
 

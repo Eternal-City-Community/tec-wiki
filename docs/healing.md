@@ -6,7 +6,7 @@ parent: skills
 
 # Healing
 
-### Skill Overview
+## Skill Overview
 
 Healers are an absolutely essential asset to Midlight. They are required everywhere, as perils include dangerous physical environments (falling into pits, climbing trees, etc.) as well as the more obvious combat risks to character health.
 

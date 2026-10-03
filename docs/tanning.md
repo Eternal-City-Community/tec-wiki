@@ -6,7 +6,7 @@ parent: skills
 
 # Tanning
 
-### Skill Overview
+## Skill Overview
 Tanning is the process of converting raw animal hides into durable, long-lasting leather through a series of preservation and treatment techniques. This skill has been practiced for thousands of years and remains an important craft.
 
 The tanning process involves cleaning and preparing hides, removing hair and unwanted tissue, and treating the material with natural tanning agents. These treatments prevent decomposition while improving the leather's strength, flexibility, and resistance to moisture.
@@ -83,7 +83,7 @@ N 1 W 3
 * When you learn the Tanning skill with [GSP](/skills/#GSP), you also learn all the sub-skills and the 4 tanning recipes.
 * All tanning skills require a recipe to be recalled to used. Use **recipe-recall** and select from the options listed.
 
-### Skill Details
+## Skill Details
 
 ### Knead Hide  *Knead <thing>* {#Knead-Hide}
 

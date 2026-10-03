@@ -6,7 +6,7 @@ parent: skills
 
 # Outdoor Survival
 
-### Skill Overview {#Top}
+## Skill Overview {#Top}
 
 The City of Iridine is but a small place in a vast, mostly untamed, world. There are those who make their living in this uncharted wilderness, however. Woodsmen, or foresters, spend much of their time in the wild, learning how to track wild animals, hunt them, and bring their pelts in for money. They are skilled in surviving in the wild lands, knowing the best places to find firewood, sweet water, and food with but the barest of clues.
 
@@ -56,7 +56,7 @@ This skill set is best **complemented by knowledge of [Hunting](/hunting/).**
 * **Krimalus** will only teach you once you have given him his requested item for the day. Ask him to teach or train you to know which item(s) he's looking for. **See [Reputation Guide](/reputation/#Krimalus) for details.**
 
 
-### Skill Details
+## Skill Details
 
 ### Dig Firepit  *dig firepit* {#Firepit}
 

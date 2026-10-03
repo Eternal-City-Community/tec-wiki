@@ -6,7 +6,7 @@ parent: skills
 
 # Hoplite Combat
 
-### Skill Overview
+## Skill Overview
 Hoplite Combat is a skill originally developed by the [Aestivans](/aestivan-league/).
 
 The Hoplite style of fighting allows a powerful, coordinated assault using a spear while protecting the user behind their shield.
@@ -52,7 +52,7 @@ While this skill set can be optionally complemented by knowledge of [spears](/sp
 
 **short sturdy man (Blackvine)** will only teach you once you have enough [Franlius reputation](/reputation/#Franlius).
 
-### Skill Details {#Subskill}
+## Skill Details {#Subskill}
 
 ### Hoplite Combat Stance  *hoplite* {#hoplite}
 

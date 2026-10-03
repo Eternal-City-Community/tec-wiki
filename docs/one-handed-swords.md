@@ -6,7 +6,7 @@ parent: skills
 
 # One Handed Swords
 
-### Skill Overview
+## Skill Overview
 The gladius is a type of sword that is used by the [Iridinians](/republic-of-iridine/). It is a short sword that was designed for thrusting, and has been the primary weapon of Iridinian soldiers for many centuries. Here's a general description of a gladius:
 
 The gladius has a short, double-edged blade that is typically around two feet in length. The blade is typically narrow and pointed, with a slight taper that makes it ideal for thrusting. The blade is made of high-quality metal and is known for its strength and sharpness. The blade is about twenty-four to twenty-eight inches long, with two edges. Quillions, either straight or ornamentally curved, project where the handle meets the blade, giving about an inch on either side with which to block.
@@ -65,7 +65,7 @@ Two custom moves, [bio:Retalq](/bio_retalq/)'s [Shadow Blade Thrust](#Sthrust) a
 * **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
-### Skill Details
+## Skill Details
 
 ### Sword Chop  *chop <target>* {#Chop}
 

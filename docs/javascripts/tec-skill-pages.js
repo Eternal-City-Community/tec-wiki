@@ -115,7 +115,8 @@ TEC.addPageEnhancer("skill-pages", function (root, ctx) {
   });
 
 
-  var headings = Array.from(root.querySelectorAll("h3"));
+  // The h3 headings after "Skill Details" (an h2) are the skill's actions.
+  var headings = Array.from(root.querySelectorAll("h2, h3"));
   var inSkillDetails = false;
 
   headings.forEach(function (h) {
@@ -124,6 +125,11 @@ TEC.addPageEnhancer("skill-pages", function (root, ctx) {
     if (/^Skill Details$/i.test(label)) {
       inSkillDetails = true;
       h.classList.add("tec-skill-section-title");
+      return;
+    }
+
+    if (h.tagName === "H2") {
+      inSkillDetails = false;
       return;
     }
 

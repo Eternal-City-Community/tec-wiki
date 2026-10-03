@@ -6,7 +6,7 @@ parent: skills
 
 # Missile Weapons Bows
 
-### Skill Overview
+## Skill Overview
 The archer is both dangerous and vulnerable, playing the role of the sniper, but generally defenseless when the enemy is upon him. Archery as a more serious form of civil combat, while not as steeped in tradition as many other forms of weaponry, has become increasingly more common in recent decades. Looked down on by the rank and file of the Legions, the lack of significant range limits the use of archers in war, leaving the weapon more suited for hunting and banditry. Many prominent bandit archers have been known to prowl the roads and forests of the Republic, causing extensive grief for travellers. The Legion is often tasked with hunting down and putting an end to these enemies of the Republic.
 
 The technology of the bow itself is just emerging in Midlight, with the Iridine short bow being the weapon of choice for those who fancy themselves archers. The short bow is made of a composite of materials. The heart of the bow is often a piece of ash, reinforced on its inside curve with horn and on its outside surface with a layer of sinew. Horn nocks are regularly attached to either end of the bow to hold its waxed sinew string in place. 
@@ -57,7 +57,7 @@ You can start your training journey at the following archery targets:
 **Rock Valley Archery Trainer** ([Town-of-Rock-Valley](/town-of-rock-valley/)): West side of town, just outside the Archery Trainer (Brauthos). From the caravan dropoff: Ex10, Nx2, Wx3, Nx7, Ex2, N, W, S
 
 
-### Skill Details
+## Skill Details
 
 ### Basic Shot  *shoot <target>* {#Basic}
 

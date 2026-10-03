@@ -6,7 +6,7 @@ parent: skills
 
 # Leather Working
 
-### Skill Overview
+## Skill Overview
 
 Leatherworking is the craft of shaping hides and leather into armor, clothing, containers, weapon fittings, and other useful goods. Leatherworkers measure and cut their materials into individual components before shaping, thinning, punching, lacing, sewing, or riveting those pieces together into finished items.
 
@@ -195,7 +195,7 @@ What is a tailor to do with the remnants of their spools of thread? Combine them
 </div>
 
 
-### Skill Details
+## Skill Details
 
 ### Cut Leather  *TBD* {#Cut-Leather}
 

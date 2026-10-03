@@ -6,7 +6,7 @@ parent: one-handed-swords
 
 # Avros One Handed Swords
 
-### Skill Overview
+## Skill Overview
 The name 'Avros' is a famous one, belonging to a semi-legendary swordsman who lived roughly five hundred years ago. Though scholars believe, according to historical references, that the man actually existed, the sheer volume of feats and stories attributed to Avros makes it unclear what part of the man is real and what part is myth.
 
 It is also ambiguous as to whether or not the historical 'Avros' actually developed the gladius fighting style bearing the same name. The techniques themselves are real, as any swordsman would tell you, and are particularly valued amongst lone rogues, adventurers, and left-handed misfits. Avros, as a fighting style, prefers single combat, particularly the kind of one on one combat that is glorified by song and legend. Although its techniques are pretty much useless in a formation of soldiers, they are highly effective in skirmishes and duels.
@@ -39,7 +39,7 @@ Avros is also a popular amongst patricians, noble families, and other members of
 **Directions to Varga** ([City of Monlon](/city-of-monlon/)): Walk to Monlon Bank, Sx2, NE, Ex3, S, Ex3
 
 
-### Skill Details
+## Skill Details
 
 ### Avros Dueling Stance  *duel* {#Dueling}
 

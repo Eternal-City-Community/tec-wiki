@@ -6,7 +6,7 @@ parent: skills
 
 # Hunting
 
-### Skill Overview
+## Skill Overview
 The Knowledge of hunting, passed down from generation to generation, is an important part of many cultures in the Eternal City. Providing raw materials  and hides for leather, armor, and clothing, these people are one of the most important in Iridine's economy. Because of this, the hunter is not only a valued member of the community, he can also become very wealthy through his work.
 
 This skill set is best **complemented by knowledge of [Outdoor Survival](/outdoor-survival/).**

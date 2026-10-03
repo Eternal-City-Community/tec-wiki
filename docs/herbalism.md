@@ -6,7 +6,7 @@ parent: skills
 
 # Herbalism
 
-### Skill Overview
+## Skill Overview
 
 Leaves, flowers, roots--you breathe and eat them; sometimes you even dream about them. Whether your specialty is medicine for the healer; cosmetics for the actor, trollop, or thief; dyes for the fuller; or Ereal forbid -- the assassin's poison, some basic principles are universal. Whether your mentor was a sage scholar or a village mid-wife, the familiar lessons still echo in your mind...
  
@@ -44,7 +44,7 @@ Herbalism deals with the study and use of [flora](/flora-fauna/#Plants).
 * **Terali** will only teach you once you've earned enough reputation. **See [Reputation Guide](/reputation/#Herb-Lessons) for details.**
 
 
-### Skill Details
+## Skill Details
 
 ### Plant Identification  *plantid <plant>* {#plantid}
 

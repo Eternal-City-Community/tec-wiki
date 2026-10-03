@@ -6,7 +6,7 @@ parent: one-handed-swords
 
 # Nelsor One Handed Swords
 
-### Skill Overview
+## Skill Overview
 The purpose of the Nelsor style of swordsmanship is to impress onlookers as much as it is to beat the opponent. Gladiators, not normally expecting to be killed if they lose, will gladly use such techniques to increase their popularity. A gladiator who uses less flashy techniques exclusively is guaranteed to lose popularity in time. Still, despite these disadvantages, some of these tricks can be useful in a "real" combat situation. They are also very handy in intimidating opponents outside of the arena. 
 
 **This skill set is a style of combat, meant to be used with existing knowledge of [One Handed Swords](/one-handed-swords/)**.
@@ -41,7 +41,7 @@ The purpose of the Nelsor style of swordsmanship is to impress onlookers as much
 * **Prestis** (located in the [Colosseum](/colosseum/))will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
-### Skill Details
+## Skill Details
 
 ### Arch of the Sky  *arch <target>* {#AotS}
 

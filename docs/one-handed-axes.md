@@ -6,7 +6,7 @@ parent: skills
 
 # One Handed Axes
 
-### Skill Overview
+## Skill Overview
 The axe, as a tool and as a weapon, has existed since long before the cataclysm and is said to be almost as old as the spear or the bow. The first examples of recorded history show axes in use in many domestic and agricultural roles, most notably in construction and woodcutting. Their place in warfare is equally ancient, and several surviving military textbooks from as early as the reign of Tulcas detail their proper use on the battlefield. Most primitive axes were almost always wood hafted weapons, the heads of which were made of carved bone, or stone chipped to an edge. Bronze heads and shafts came about much later and were common by the time of the founding of the Republic. More recently, increasing numbers of axes are making good use of the strength of iron and boison since the typical small axe-head requires less metal to craft than most gladii and even some fighting dirks.
 
 In combat, the preferred axe is usually a one-handed variant with a single blade. Two-handed axes are not unheard of, but because of the skill and sheer strength required to successfully wield such a weapon in combat they are not common outside of logging. There are exceptions, however. The Blackroots are well known for their two-handed battle-axes and have a distinct fighting style for their use. (Blackroot tribesmen are also generally much stronger than the denizens of surrounding lands and so are more capable of handling such large axes in combat).
@@ -46,7 +46,7 @@ The main advantages of the axe, as opposed to simply choosing a sword or club-ty
 **Directions to Kerta** ([Town of Rock Valley](/town-of-rock-valley/)): Walk to Hospice, wait for drover to appear, follow drover, Ex10, Nx2, Wx3, Nx9, Ex2, Nx2, E, Nx3
 **Directions to Hroth** ([Stromheim](/village-of-stromheim/)): Travel to Stromheim through the [Rock Valley](/town-of-rock-valley/) wilderness.
 
-### Skill Details
+## Skill Details
 
 ### Axe Hand Toss  *handtoss* {#Hand-Toss}
 

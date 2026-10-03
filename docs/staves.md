@@ -6,7 +6,7 @@ parent: skills
 
 # Staves
 
-### Skill Overview
+## Skill Overview
 Staves have been around for ages, being simply a long stick that you hit people with. To some, it seems silly to use a stick as a weapon, when you could grab a nice sharp gladius or even a knife, but to the experienced user, a stave is more then a stick. It's balance gives it the ability to quickly move around, blocking all parts of thier body, and quickly snapping attacks at the enemy, from close-range, or even several feet away (due to the six foot length of the weapon).
 
 The quarterstave is the chosen weapon of the Iridine Constabulary (along with clubs), the Cineran Officer, and about the entire island nation of Altene. The Altenes are trained in staves from an early age, due to being driven from their original homeland. Then King Alterod started the rigorous training program instilled in every Altene, teaching them the ways of the quarterstave.
@@ -65,7 +65,7 @@ Staves are an excellent support weapon. You can often maintain distance from you
 Keeping in the spirit of remaining at a distance, a staver with parting moves and sweep can prove both an annoyance to opponents and a heavy damage dealer. Parting moves keep your enemies at a distance, hit harder than their non-parting relatives (especially parting smash), and have a reduced roundtime. Coupled with a strategy of well timed approaching and falling back, you can cause your opponent to constantly reconsider their strategy if you get too close or move too far away for them to hit you effectively.
 
 
-### Skill Details
+## Skill Details
 
 ### Staves Sweep  *sweep <target>* {#Sweep}
 

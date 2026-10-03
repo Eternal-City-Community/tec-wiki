@@ -6,7 +6,7 @@ parent: skills
 
 # Tridents
 
-### Skill Overview
+## Skill Overview
 The trident is an ancient design, its origins for the most part are unknown and often disputed by scholars, historians, and even theologians who draw upon old myths in countryside legends. As a tool, it is most clearly descended from pitchfork and other agricultural implements. Variations of it are also used in fishing and, often in spearing small ocean-dwelling creatures, making it a common sight in notable sea-faring nations, such as Tuchea and Cenath.
 
 As a weapon, variations of the trident have made appearances in almost every culture that has used pole-arms in war. Used almost exclusively for thrusting, it provides a much broader surface than the spear with which to skewer an opponent and significantly greater hitting power, due to its weight and leverage, than any type of stave. However, it is slower and more unwieldy than other pole-arms and it has found greater use in ceremonial or personal weaponry rather than in general-issue battlefield use. One of the most famous of those roles is in the arena of Iridine, where the crowds greatly appreciate a variety of 'exotic' weapons.
@@ -52,7 +52,7 @@ As a weapon, variations of the trident have made appearances in almost every cul
 **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
-### Skill Details
+## Skill Details
 
 ### Trident Throw  *throw <trident>* {#Throw}
 

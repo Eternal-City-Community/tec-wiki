@@ -5,7 +5,7 @@ parent: skills
 ---
 # Two Handed Crushing
 
-### Skill Overview
+## Skill Overview
 
 Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force trauma or puncturing it with a specialized spike.
 
@@ -45,7 +45,7 @@ Two-handed Crushing utilizes a **war hammer** to deliver heavy blunt force traum
 
 **A short sturdy man (Blackvine)** will only teach you once you have enough [reputation](/reputation/#Franlius).
 
-### Skill Details
+## Skill Details
 
 ### 2H Crushing Smasher Stance  *smasherstance* {#smasherstance}
 

@@ -6,7 +6,7 @@ parent: skills
 
 # One Handed Crushing
 
-### Skill Overview
+## Skill Overview
 The Iridine short mace is a single piece of bronze, or rarely iron, about sixteen inches long. The last four inches are a roughly spherical piece of metal. The sphere often has studs or spikes to make it more dangerous to human flesh. This metal cudgel is favored for its concealability, being as easy to stash under a loose tunic as a long knife and much better for a non-lethal assault. A few years ago gladiators began using these maces as backup weapons, too, because it's easy to carry one in case you lose your main weapon, and because the crowd likes to see such "interesting" variety. Small maces and clubs have also been popular among street thugs and the like, relying less upon skill and more upon brute strength and surprise.
 
 Other cultures, primarily primitive ones, have been known to use clubs extensively. Simple to use and easy to craft, the war club is an effective weapon from a nation lacking in technical expertise. The Blackroot have been known to use this weapon most extensively, though their large two-handed clubs are often used in a different manner than their smaller Iridine cousins. The spiked club is known to deal punctures rather than bruises. 
@@ -46,7 +46,7 @@ Other cultures, primarily primitive ones, have been known to use clubs extensive
 **Directions to Cralus** ([Blackvine](/village-of-blackvine/)): Walk to Vetallun Road, walk to Vetallun Crossroads, walk to Blackvine, Ex4, Sx5, Wx2, S
 
 
-### Skill Details
+## Skill Details
 
 ### Club Crush  *crush <target>* {#Crush}
 

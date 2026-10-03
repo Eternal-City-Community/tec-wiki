@@ -5,6 +5,6 @@ category: "Reference"
 
 # Home
 
-<meta http-equiv="refresh" content="0; url=//">
+<meta http-equiv="refresh" content="0; url=/">
 
-This page has moved to [*](*).
+This page has moved to the [homepage](/).

@@ -311,31 +311,32 @@ body::before {
   line-height: 1.35;
 }
 
-/* Headings follow the old wiki: Wikidot's "+" and "++" were both olive bars,
-   "+++" and "++++" were underlined. Here they are h2/h3 and h4/h5, since the
-   page title takes h1. */
+/* Heading levels step down: h2 a solid olive bar, h3 a light olive strip,
+   h4 small uppercase with an underline, h5 plain text with a dotted
+   underline. h3 to h5 text lines up with the text in the h2 bar. */
 .md-typeset h3 {
   margin: .9rem 0 .55rem;
   padding: .1rem .65rem;
-  background: var(--tec-olive);
-  color: #f0e7bf;
+  background: rgba(104,109,55,.10);
+  color: #39461f;
+  border-bottom: 1px solid var(--tec-olive);
   font-family: Georgia, "Times New Roman", serif;
   text-transform: uppercase;
   letter-spacing: .15em;
   font-size: .76rem;
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.35;
 }
 
 .md-typeset h4 {
   margin: 1rem 0 .5rem;
-  padding: 0 0 .16rem 1.15rem;
+  padding: 0 0 .16rem .65rem;
   color: #4a513b;
-  border-bottom: 1px solid var(--tec-line);
+  border-bottom: 1px solid rgba(141,134,89,.55);
   font-family: Georgia, "Times New Roman", serif;
   text-transform: uppercase;
-  letter-spacing: .15em;
-  font-size: .76rem;
+  letter-spacing: .13em;
+  font-size: .66rem;
   font-weight: 400;
 }
 
@@ -1181,8 +1182,7 @@ html, body {
   font-size: .76rem;
 }
 
-.md-typeset h3,
-.md-typeset h4 {
+.md-typeset h3 {
   font-size: .70rem;
 }
 
@@ -1207,28 +1207,15 @@ html, body {
   }
 }
 
-/* Skill pages: mirror the old Wikidot rhythm more closely. */
-.tec-skill-page .tec-skill-section-title {
-  margin: .75rem 0 .55rem !important;
-  padding: .13rem .55rem .12rem 1.4rem !important;
-  background: #315f00 !important;
-  color: #f3ebc2 !important;
-  border: 0 !important;
-  font-family: Georgia, "Times New Roman", serif !important;
-  font-size: .78rem !important;
-  font-weight: 700 !important;
-  letter-spacing: .17em !important;
-  line-height: 1.25 !important;
-  text-transform: uppercase !important;
-}
-
+/* Skill pages: each action under "Skill Details" gets the light h3 strip, in a
+   larger size. */
 .tec-skill-page .tec-skill-action-title {
   position: relative;
   margin: 1.2rem 0 .45rem !important;
-  padding: .05rem 0 .18rem 1.8rem !important;
-  color: #2f5c0a !important;
-  background: transparent !important;
-  border-bottom: 1px solid #557a2e !important;
+  padding: .1rem .65rem !important;
+  color: #39461f !important;
+  background: rgba(104,109,55,.10) !important;
+  border-bottom: 1px solid var(--tec-olive) !important;
   font-family: Georgia, "Times New Roman", serif !important;
   font-size: .82rem !important;
   font-weight: 400 !important;
@@ -1237,18 +1224,9 @@ html, body {
   text-transform: uppercase !important;
 }
 
-.tec-skill-page .tec-skill-action-title::before {
-  content: "#";
-  position: absolute;
-  left: .55rem;
-  top: .05rem;
-  color: #315f00;
-  font-weight: 700;
-}
-
 .tec-skill-page .tec-skill-action-title em {
   margin-left: 1rem;
-  color: #7a8061 !important;
+  color: #5f6548 !important;
   font-family: Georgia, "Times New Roman", serif !important;
   font-size: .62em !important;
   font-style: italic;
@@ -2168,15 +2146,17 @@ html, body {
 }
 
 
-/* Make fifth-level headings visually distinct from body copy. */
+/* Fifth-level headings: plain text with a dotted underline, a step below h4. */
 .md-typeset h5 {
   margin: .78rem 0 .32rem;
-  padding-bottom: .1rem;
-  color: #465032;
+  padding: 0 0 .1rem .65rem;
+  color: #4a513b;
   border-bottom: 1px dotted rgba(85, 122, 46, .55);
   font-family: Georgia, "Times New Roman", serif;
-  font-size: .76rem;
-  font-weight: 700;
+  font-size: .68rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: .02em;
   line-height: 1.35;
 }
 

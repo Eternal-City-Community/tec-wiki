@@ -6,7 +6,7 @@ parent: skills
 
 # Setups
 
-### Skill Overview
+## Skill Overview
 Another illegal body of knowledge, setups are what thieves use to prepare their pray for a grab, pouch cut, or other larceny. If someone seems to be catching your character's eye in an unusual way, check the area-better yet, check your pouch. It may not be there anymore! Thieves often work in teams, with one accomplice drawing attention while another does the dastardly deed almost unseen. You'll have to find your way into the guild or to a thief trainer to learn the details of this skill set.
 
 Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/). While some of the skills may be useful to less dishonorable folk, a thief will find far more use for them any day of the week. 
@@ -36,7 +36,7 @@ Setups is in many ways a companion skillset to [Pickpocketing](/pickpocketing/).
 * If you're looking to **learn skills** or lessons that are **not taught by NPC trainers**, you may wish to **discreetly** inquire about them to one of the **[Criminal Orgs](/orgs/)**. It has always been said that certain people with the right connections can learn a good deal more in the art of stealing. Though sometimes it's best to **let them find you**, rather than seeking them out yourself.
 
 
-### Skill Details
+## Skill Details
 
 ### Draw Attention  *spook <target>* {#Draw-Attention}
 

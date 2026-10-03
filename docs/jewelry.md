@@ -6,7 +6,7 @@ parent: skills
 
 # Jewelry
 
-### Skill Overview
+## Skill Overview
 
 While many in the world arm themselves with spear and shield, the jeweler prefers the hammer, the graver, and the careful hand. From a lump of slag or a rough stone comes work that sits on the hand, at the throat, or on the ear — plain bands for daily wear, cut stones that catch the light, chains linked one by one, and charms cast small enough to hang from a bracelet.
 
@@ -259,7 +259,7 @@ Once player-crafted jewelry is complete, it can be altered slightly through the 
 </div>
 
 
-### Skill Details
+## Skill Details
 
 ### Form Wax  *form <wax>* {#Form-Wax}
 

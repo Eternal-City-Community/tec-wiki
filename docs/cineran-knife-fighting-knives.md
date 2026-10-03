@@ -6,7 +6,7 @@ parent: knives
 
 # Cineran Knife Fighting Knives
 
-### Skill Overview
+## Skill Overview
 Cineran Knife Fighting is known as a refined fighting style from the distant land as 'The Dance of Drizzling Blood' where people consent to be bound together and then attack until someone draws blood three times. The skill builds on a knowledge of knives and their slashing properties, particularly in close quarters, to wield an effective blade. Those who aspire to become grandmasters have been known to be some of the most deadly opponents to face in Cinera. The skillset is particularly suited to small bladed weapons with a longer slashing surface, such as the common fighting dirk.
 
 **This skill set is a style of combat, meant to be used with existing knowledge of [Knives](/knives/)**.
@@ -39,7 +39,7 @@ Cineran Knife Fighting is known as a refined fighting style from the distant lan
 #### Notes on Learning
 * Advanced use of forehand and backhand slashing attacks results in a bonus from taking advantage of a fluid back and forth movement. More details can be found in the **[Cineran Knife Fighting Guide](/ckf-guide/#fhbh)**
 
-### Skill Details
+## Skill Details
 
 ### CKF Screnaca Coranadin Stance  *ckf* {#Stance}
 

@@ -6,7 +6,7 @@ parent: skills
 
 # Sling
 
-### Skill Overview 
+## Skill Overview 
 The sling is a weapon skillset used by the [Kelestians](/kelestia/). It is a missile type weapon, requiring ammo to use. It is **now available** for player characters to learn. It is currently taught in the Kelestian military outpost deep in the ravines (not the fort with the prisoners).
 
 There are at the very least three types of **bullets** that can be loaded into a sling: **ceramic**, **lead** and **iron**.

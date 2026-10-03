@@ -6,7 +6,7 @@ parent: skills
 
 # Falx
 
-### Skill Overview 
+## Skill Overview 
 
 A falx was a type of weapon with a curved blade. It is devastatingly effective against swarms of opponents, with its unique **Area of Effect** (AoE) attacks which can attack multiple opponents in a single attack. The falx is a weapon first introduced by [The Kelestians](/kelestia/).
 
@@ -46,7 +46,7 @@ A falx was a type of weapon with a curved blade. It is devastatingly effective a
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
 
-### Skill Details {#Subskill}
+## Skill Details {#Subskill}
 
 ### Falx Kelestian Siege Stance  *siege* {#siege}
 

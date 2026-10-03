@@ -6,7 +6,7 @@ parent: skills
 
 # Falcata
 
-### Skill Overview
+## Skill Overview
 
 The falcata has a distinctive curved blade with a single edge that widens towards the point and then curves sharply towards the tip, forming a hook-like shape. This unique shape allowed the falcata to deliver powerful chopping blows that could easily sever limbs or penetrate armor.
 
@@ -51,7 +51,7 @@ The falcata is a versatile weapon that could be used for both hacking and thrust
 **Directions to Sataria** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Sphara** ([Kelestian Outpost](/monlon-ravines/)): Find Sphara in the Kelestian outputs in the Monlon ravines.
 
-### Skill Details {#Subskill}
+## Skill Details {#Subskill}
 
 ### Falcata Striker's Stance  *striker?stance* {#strikerstance}
 

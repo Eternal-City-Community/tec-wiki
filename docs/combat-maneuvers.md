@@ -6,7 +6,7 @@ parent: skills
 
 # Combat Maneuvers
 
-### Skill Overview
+## Skill Overview
 
 
  
@@ -61,7 +61,7 @@ Covering the most areas in combative situations, CMs are an integral part of you
 #### Notes on Learning
 **Prestis** will only teach you once you have earned enough [Aralex Eggs reputation](/reputation/#Aralex) with him.
 
-### Skill Details
+## Skill Details
 
 ### Duck  *n/a* {#Duck}
 

@@ -6,7 +6,7 @@ parent: skills
 
 # Street Smarts
 
-### Skill Overview
+## Skill Overview
 > That district, if you can call it that, is an aberration, a product of corruption, a diseased appendage of an otherwise healthy and vibrant Republic. Its bowels spawn nothing but the dredges of mankind. It is the refuge of criminals, crooks, common thieves, smugglers, and thugs. You ask me if it should be locked down? I say it should be locked down and burned!
 > 
 > - Maxus Maxus Capypom
@@ -60,7 +60,7 @@ parent: skills
 * If you're looking to **learn skills** or lessons that are **not taught by NPC trainers**, you may wish to **discreetly** inquire about them to one of the **[Criminal Orgs](/orgs/)**. It has always been said that certain people with the right connections can learn a good deal more in the art of stealing. Though sometimes it's best to **let them find you**, rather than seeking them out yourself.
 
 
-### Skill Details
+## Skill Details
 
 ### Graffiti  *graffiti <wall> <text>* {#Graffiti}
 

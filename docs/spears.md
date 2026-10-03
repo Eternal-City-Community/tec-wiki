@@ -6,7 +6,7 @@ parent: skills
 
 # Spears
 
-### Skill Overview
+## Skill Overview
 
 The standard spear is used for hunting game, some forms of fishing and, of course, for killing people. A typical Iridine spear has a haft about six feet long with a foot-long blade of bronze on the end. It can be thrown, though accuracy is difficult to attain, and used in hand-to-hand fighting. Well-crafted spears will have a haft of varying width, growing slightly wider the farther it gets from the blade. This allows for balance during more complex maneuvers.
 
@@ -60,7 +60,7 @@ Though spears have often been used in conjunction with shields, most who special
 **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
 
-### Skill Details
+## Skill Details
 
 ### Spear Sweep  *sweep <target>* {#Sweep}
 

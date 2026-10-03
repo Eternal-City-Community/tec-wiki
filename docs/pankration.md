@@ -6,7 +6,7 @@ parent: skills
 
 # Pankration
 
-### Skill Overview
+## Skill Overview
 > "To the prospective student, it is important to learn the thought behind the forms as much as it is to learn the forms themselves. Pankration is distinguished from crude brawling by the refinement and effectiveness of technique. Blindly striking at a foe, unthinking, wastes energy and sweat.  To best use the moves in your arsenal, you must understand them. And to this end, these scrolls have been written."
 > 
 > "I myself am a third generation fighter of the Velsuvian school.  Though the fighters of pankration are no longer as well known as the currently popular gladiators of the arena, our discipline is an ancient one, respected by good, honest Iridinians who revere the old ways.  Though there once was a flourishing of fighting schools, as there is now a great many gladiator stables, there are only a few remaining.  What is recorded in these scrolls are the way of the Velsuvian school, the best known of the Pankration arts.  Keep in mind, though, that it is only one of the old schools of fighting."
@@ -56,7 +56,7 @@ This skill set is best **complemented by knowledge of [Brawling](/brawling/).**
 * While not all maneuvers require both hands free, **no Pankration maneuvers can be performed while wielding** another weapon or shield.
 
 
-### Skill Details
+## Skill Details
 
 ### Pankration Basic Stance  *pank* {#stance}
 

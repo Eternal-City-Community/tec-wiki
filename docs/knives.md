@@ -6,7 +6,7 @@ parent: skills
 
 # Knives
 
-### Skill Overview
+## Skill Overview
 The fighting dirk, or dagger, is distinguished from the common knife in that it is larger- with a foot of a blade, typically, sharpened on both edges, and a sharp stabbing tip. It is usually made of bronze, though iron is more common than in swords due to the lesser amount required to make one. The handle is the same size as a gladius's, about six or seven inches counting the pommel. Fighting dirks also have quillions about three-quarters of an inch long. The handle is typically wrapped in rawhide strips for a better grip, and to keep the user's hand from smelling like metal for hours after use. 
 
 Most soldiers carry such a knife, using it both in fights where swords are not appropriate (very close quarters, quieter) and in the same way a common citizen uses his own, smaller blade- cutting off strips of roasted meat, spearing vegetables, paring his nails, and so on. In fact, if the typical soldier was forced to pick a single item to take with him, it would be the dirk much more often than the sword. Given a choice of a second item, he will probably pick a sharpening stone for the dirk. 
@@ -57,7 +57,7 @@ If you have a solid understanding of knives, you may wish to explore the **more 
 * Knives **attacks receive a bonus** from [CKF Screnaca Coranadin Stance](/cineran-knife-fighting-knives/#Stance).
 
 
-### Skill Details
+## Skill Details
 
 ### Knife Stab  *stab <target>* {#Stab}
 

@@ -6,7 +6,7 @@ parent: skills
 
 # Pickpocketing
 
-### Skill Overview
+## Skill Overview
 
 Ah, so you want to learn the 'trade' do ya? Well, trust an old thief when I tell you that you're in for a rough time starting out if you aren't careful about how ya practice and who ya practice on. Pickpocketing can be a great way to earn some coin, or earn a lot of crusty robes and moldy bread when you get tossed in the slam. With enough practice, why a proper thief could steal just about anything. You just have to have patience and know the right people.  
 
@@ -43,7 +43,7 @@ This skill set is best **complemented by knowledge of [Setups](/setups/).**
 * Wearables that cannot be stolen using the skills noted here: short bows, jewelry, wearable lockpicks, wearable keyrings, wearable vials
 Objects must be visible to be stolen. Wearing a paenula, sagum, cloak, or similar object over the top of any of these items prevents them from being stolen with the skills listed here.
 
-### Skill Details
+## Skill Details
 
 ### Quick Grab  *grab <object> from <target>* {#Quick-Grab}
 

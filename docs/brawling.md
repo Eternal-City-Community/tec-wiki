@@ -6,7 +6,7 @@ parent: skills
 
 # Brawling
 
-### Skill Overview
+## Skill Overview
 
 Brawling is a general term for any kind of "untrained" street fighting. It is learned as much as it is taught, and there are a variety of individual techniques that don't correspond to any fighting style. Every child knows how to throw a punch in this environment, but for many inhabitants of the city, learning to fight with one's bare hands is a matter of life and death.
 
@@ -50,7 +50,7 @@ This skill set is best complemented by knowledge of [Pankration](/pankration/), 
 * You can use Skill Points (SP) obtained from [Pankration](/pankration/) to learn Brawling, and vice versa.
 * Damage done by Brawling maneuvers is based on your ranks in the skill. For example, having more ranks in Punch will make you do more damage with Punch.
 
-### Skill Details
+## Skill Details
 
 ### Punch  *punch <target>* {#Punch}
 

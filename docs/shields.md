@@ -6,7 +6,7 @@ parent: skills
 
 # Shields
 
-### Skill Overview
+## Skill Overview
 
 
  
@@ -63,7 +63,7 @@ Some attacks have 'special effects' above and beyond the damage they do. In some
 
 **Prestis** will only teach you once you have enough [Aralex Eggs reputation](/reputation/#Aralex).
 
-### Skill Details
+## Skill Details
 
 ### Shield Simple Block {#sBlock}
 

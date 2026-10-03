@@ -6,7 +6,7 @@ parent: one-handed-swords
 
 # Pardelian One Handed Swords
 
-### Skill Overview
+## Skill Overview
 For centuries prior to the founding of the Republic, battlefields between the civilized nations were dominated by phalanxes. Rows upon rows of disciplined spears were enough to break cavalry charges and rout disorganized foot soldiers. Battles between two well-trained armies amounted to little more than a pushing match between two heavily-armored formations grinding against each other. These conflicts were often won on the flanks, wherein the first army to gain an edge over their enemy could turn the entire battle line.
 
 This changed with the birth of the Iridine Legio. Retrained sometime during the age of Quintus the Marauder by an obscure officer by the name of 'Pardelian', the Iridine army was designed for one thing: to frontally shatter the opposition. A rain of javelins would disrupt the enemy formation, after which the soldiers would charge directly into shock combat. In the shoulder-to-shoulder conditions of line fighting, the short gladius viciously prevailed over much longer weaponry. Holes created in the enemy formation could be easily exploited by additional waves of centuries, battlefield units of men far smaller than anything else seen at the time. It was through this unique and deadly military system that Iridine has maintained an edge over many of its powerful neighbors.
@@ -48,7 +48,7 @@ As Iridine soldiers are usually expected to bear shields when waging war, many m
 * You must **wield a shield** in order to use the Pardelian style.
 * You can also use Skill Points (SP) from [Swords](/one-handed-swords/) to learn Pardelian.
 
-### Skill Details
+## Skill Details
 
 ### Pardelian Turtle Stance  *turtle* {#Stance}
 

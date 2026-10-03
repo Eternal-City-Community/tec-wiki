@@ -5,7 +5,7 @@ parent: skills
 ---
 # Dual Daggers
 
-### Skill Overview
+## Skill Overview
 
 Dual Daggers (insert small description later). Can be used with knives, daggers or dirks.
 
@@ -43,7 +43,7 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 **Directions to Someone** 
 **Directions to Someone Else**
 
-### Skill Details
+## Skill Details
 
 ### Dual Daggers Sanguine Stance  *SSTANCE* {#Sanguine}
 

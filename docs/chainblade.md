@@ -6,7 +6,7 @@ parent: skills
 
 # Chainblade
 
-### Skill Overview
+## Skill Overview
 
 Chainblades are a mobile, fast-attacking weapon consisting of twin blades connected by a chain. They allow the wielder to slash enemies up close or attack from a distance. The Chainblade is a weapon first introduce by [The Kelestians](/kelestia/).
 
@@ -42,7 +42,7 @@ Chainblades are a mobile, fast-attacking weapon consisting of twin blades connec
 **Directions to Flavien** ([Iridine](/harbor/)): Walk to Toga, then walk w 1 sw 2 s 3 sw 1 s 2 sw 4 w 2 sw 1 w 3 nw 1 n 2 w 1
 **Directions to Karkara** ([Kelestian Outpost](/monlon-ravines/)): Find Karkara in the Kelestian outputs in the Monlon ravines.
 
-### Skill Details {#Subskill}
+## Skill Details {#Subskill}
 
 ### Chainblade Winged Stance  *wing?edstance* {#wingedstance}
 

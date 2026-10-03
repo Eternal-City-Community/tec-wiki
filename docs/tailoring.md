@@ -6,7 +6,7 @@ parent: skills
 
 # Tailoring
 
-### Skill Overview
+## Skill Overview
 
 While many in the world arm themselves with spear and shield, the tailor prefers as his weapons, the needle and thread. With it he attacks the wear and tear that plagues Iridine's clothing. Of course most tailor can easily advance beyond this, leaving such mending to apprentices, and begin to craft clothing for others to buy and wear. A truly gifted tailor can look forward to being hired exclusively as a house tailor for a patrician or his wife, and can watch as his creations are worn to parties of the rich and famous.
 
@@ -438,7 +438,7 @@ Once a tailor has completed the garment, it can be altered slightly through the 
 </details>
 
 
-### Skill Details
+## Skill Details
 
 ### Patternwork  *layout <fabric>* {#Patternwork}
 
