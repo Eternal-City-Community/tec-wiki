@@ -45,7 +45,7 @@ function initTecSidebar() {
   ]);
 
   html += section("Getting Started", [
-    link("GET STARTED HERE!", page("getting-started"), "tec-side__strong"),
+    link("GET STARTED HERE!", page("getting-started")),
     link("Search the Site", "#", "tec-side__search"),
     link("General Rules", page("general-rules")),
     link("Account", page("account")),
@@ -78,7 +78,7 @@ function initTecSidebar() {
   ]);
 
   html += section("The Game World", [
-    link("Midlight", page("game-world"), "tec-side__strong"),
+    link("Midlight", page("game-world")),
     group("History", [
       link("History of Midlight", page("history"), "tec-side__sub"),
       link("Monlon Invasion", page("monlon-invasion"), "tec-side__sub")
@@ -295,6 +295,66 @@ function initTecSidebar() {
       if (searchButton) searchButton.click();
     });
   }
+
+  keepSidebarPlace(host, activeLink);
+}
+
+// Clicking a sidebar link saves the menu's scroll position and open groups for
+// this tab; the next page opens the menu the same way. Arriving any other way,
+// or with the current page's link out of view, scrolls that link into view.
+function keepSidebarPlace(host, activeLink) {
+  var KEY = "tec-sidebar-place";
+  var wrap = host.closest(".md-sidebar__scrollwrap");
+  if (!wrap) return;
+  var groups = Array.from(host.querySelectorAll(".tec-side__group"));
+
+  function setOpen(group, open) {
+    group.classList.toggle("is-open", open);
+    var toggle = group.querySelector(":scope > .tec-side__toggle");
+    if (!toggle) return;
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    var sign = toggle.querySelector(".tec-side__sign");
+    if (sign) sign.textContent = open ? "−" : "+";
+  }
+
+  host.addEventListener("click", function (e) {
+    var link = e.target.closest("a.tec-side__link[href]");
+    var href = link && link.getAttribute("href");
+    if (!href || href === "#" || /^https?:\/\//i.test(href)) return;
+    var open = [];
+    groups.forEach(function (group, i) { if (group.classList.contains("is-open")) open.push(i); });
+    try {
+      sessionStorage.setItem(KEY, JSON.stringify({ top: wrap.scrollTop, open: open, time: Date.now() }));
+    } catch (err) {}
+  });
+
+  var saved = null;
+  try {
+    saved = JSON.parse(sessionStorage.getItem(KEY) || "null");
+    sessionStorage.removeItem(KEY);
+  } catch (err) {}
+  if (saved && Date.now() - saved.time < 30000) {
+    (saved.open || []).forEach(function (i) { if (groups[i]) setOpen(groups[i], true); });
+    wrap.scrollTop = saved.top || 0;
+  }
+
+  if (!activeLink) return;
+  var view = wrap.getBoundingClientRect();
+  var link = activeLink.getBoundingClientRect();
+  var height = wrap.clientHeight;
+  // Already in view, and not crowded against the bottom edge.
+  if (link.top >= view.top && link.bottom <= view.top + height * 0.85) return;
+
+  // Put the link a third of the way down, or bring its section heading to the
+  // top when the link still lands in the top two-thirds of the menu.
+  var linkTop = link.top - view.top + wrap.scrollTop;
+  var target = linkTop - height / 3;
+  var section = activeLink.closest(".tec-side__section");
+  if (section) {
+    var sectionTop = section.getBoundingClientRect().top - view.top + wrap.scrollTop - 4;
+    if (sectionTop < target && linkTop + link.height - sectionTop <= height * 2 / 3) target = sectionTop;
+  }
+  wrap.scrollTop = Math.max(0, target);
 }
 
 // Overlay scrollbars (e.g. Firefox on Windows 11) take no width and draw over
