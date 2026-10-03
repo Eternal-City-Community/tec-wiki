@@ -23,8 +23,8 @@ Praetor is a free, open-source desktop client for The Eternal City. It runs on W
 * Lua automation modes, with a shared script library you can pull from
 * A session metrics dashboard your automation modes can write to
 * Saved command variables that can be reused from the input, Actions, and Variables sidebar
-* Typed command chains: `;;` runs the next command after 900 ms, while `&&` waits until the game reports that you are no longer busy
-* Immediate cancellation of queued command chains from the input's Stop button or with Alt+X
+* PraetorScript command chains: variables and fallbacks, configurable `;;` pacing, unbusy-aware `&&`, waits, text reactions, notifications, and bounded or counted repeats
+* Live chain status and immediate cancellation from the Automation Bar or with Alt+X
 * Multiple stored accounts, so you can switch accounts without retyping passwords
 * Scrollback search (Ctrl+F) and command-history search (Ctrl+R)
 * A freeform notepad for notes, backstory, or IOUs
@@ -251,7 +251,7 @@ The sidebar on the right shows the minimap, the compass, and your vitals bars (H
 
 The command input sits at the bottom. Press **Esc** to open the menu.
 
-Saved variables can be inserted into typed commands with `${name}`. Separate commands with `;;` to run the next command after 900 milliseconds, or use `&&` to wait for an unbusy response from the game. While a command chain still has items queued, the input's play indicator becomes a **Stop** button. Click it or press **Alt+X** to discard the remaining commands.
+Saved variables can be inserted into typed commands with `${name}` or `${name:fallback}`. PraetorScript also supports configurable `;;` pacing, unbusy-aware `&&`, waits, text reactions, titled notifications, and bounded or exact-count repeats. The Automation Bar below the input shows the active step; while a chain is active, its play control becomes **Stop**. Click it or press **Alt+X** to discard the remaining work. See the [PraetorScript guide](/praetor-guide/#praetorscript) for the complete language.
 
 Anything you type starting with a slash is a slash command, handled by Praetor itself and not sent to the game. A hint appears as you type showing what the command expects. To see them all in the app:
 
@@ -278,7 +278,7 @@ Some shortcuts do different things depending on what's in front of you. Those ge
 | Alt+X | A file is being sent | Abort the rest of the send ([Sending a file](/praetor-guide/#send)) |
 | Alt+X | A play script is running | Stop the performance ([Play scripts](/praetor-guide/#play)) |
 | Alt+X | A mode is running | Switch to the disable mode ([Run a mode](/praetor-scripts/#run)) |
-| Alt+X | A `;;` or `&&` command chain has commands waiting | Discard the rest of the queued chain |
+| Alt+X | A PraetorScript chain is active | Cancel its queued commands, waits, text reactions, and repeats |
 | Alt+I | Anywhere | Reveal lines hidden by the ignore filters ([Filters](/praetor-guide/#filters)) |
 | Esc | Game view | Open the menu ([The Esc menu](/praetor-guide/#menu)) |
 | Esc | A menu screen, search bar, or history search is open | Close it without saving |
