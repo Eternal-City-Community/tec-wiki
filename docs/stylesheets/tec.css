@@ -2948,10 +2948,10 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 }
 
 /* Homepage "Play Now" button, linking to the game login. It keeps the same
-   proportion to the banner above it at every screen width, but stays large
-   enough to tap on a phone. */
+   proportion to the banner above it, between 150px (still easy to tap on a
+   phone) and 360px on wide screens. */
 .md-typeset p > a:only-child:has(> img.tec-play-now:only-child) {
-  width: clamp(150px, 30%, 726px);
+  width: clamp(150px, 30%, 360px);
 }
 
 .md-typeset img.tec-play-now {
