@@ -1,6 +1,6 @@
 ---
-title: "TEC Related Sites"
-category: "Reference"
+title: TEC Related Sites
+category: Reference
 parent: index
 ---
 
@@ -8,8 +8,9 @@ parent: index
 
 Note that some player sites are quite old and outdated. They're preserved here for historic reasons and nostalgia.
 
-| [TEC Homepage](https://login.eternalcitygame.com/login.php) | The Eternal City's Homepage |
+| Site | Description |
 | --- | --- |
+| ~ [TEC Homepage](https://login.eternalcitygame.com/login.php) | The Eternal City's Homepage |
 | ~ [TEC Forums](https://www.eternalcitygame.com/index.php/community/) | The Eternal City Forums - discussions, announcements, promotions, and more |
 | ~ [TEC Facebook](https://www.facebook.com/pages/The-Eternal-City/433023980060917) | Promotions and other announcements |
 | ~ [TEC Twitter](https://twitter.com/TheEternalCity) |  |
