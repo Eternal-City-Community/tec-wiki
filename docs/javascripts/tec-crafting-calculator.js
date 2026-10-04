@@ -15,12 +15,10 @@ function initTecCraftingCalculator() {
     var remaining = Math.round(totalSens);
     var parts = [];
     currency.forEach(function (entry) {
-      var label = entry[0];
-      var value = entry[1];
-      var amount = Math.floor(remaining / value);
+      var amount = Math.floor(remaining / entry[1]);
       if (amount) {
-        parts.push(amount + label);
-        remaining -= amount * value;
+        parts.push(amount + entry[0]);
+        remaining -= amount * entry[1];
       }
     });
     return parts.length ? parts.join(" ") : "0s";
@@ -96,52 +94,128 @@ function initTecCraftingCalculator() {
     { name: "Heavy Chain Necklace (10 thick links)", sixths: 60 }
   ];
 
+  function recipeOptions() {
+    return recipes.map(function (recipe, index) {
+      return '<option value="' + index + '">' + recipe.name + '</option>';
+    }).join("");
+  }
+
+  function metalOptions() {
+    return metals.map(function (metal, index) {
+      return '<option value="' + index + '">' + metal.name + '</option>';
+    }).join("");
+  }
+
   root.innerHTML =
-    '<div class="tec-craft-card">' +
-      '<div class="tec-craft-grid">' +
+    '<div class="tec-craft-shell">' +
+      '<div class="tec-craft-toolbar">' +
+        '<strong>Crafting Calculator</strong>' +
+        '<span>Build an order and calculate the materials to buy.</span>' +
+      '</div>' +
+      '<div class="tec-craft-stack"></div>' +
+      '<div class="tec-craft-summary">' +
+        '<div class="tec-craft-summary-title">Order Total</div>' +
+        '<div class="tec-craft-summary-body" data-summary></div>' +
+      '</div>' +
+    '</div>' +
+    '<button type="button" class="tec-craft-add" title="Add another item" aria-label="Add another item"></button>';
+
+  var stack = root.querySelector(".tec-craft-stack");
+  var summary = root.querySelector("[data-summary]");
+
+  function makeCard() {
+    var card = document.createElement("div");
+    card.className = "tec-craft-card";
+    card.innerHTML =
+      '<div class="tec-craft-fields">' +
         '<label><span>Crafting skill</span><select data-craft>' +
           '<option value="jewelry">Jewelry Crafting</option>' +
           '<option disabled>Leatherworking — coming later</option>' +
           '<option disabled>Woodworking — coming later</option>' +
         '</select></label>' +
-        '<label><span>Recipe</span><select data-recipe></select></label>' +
-        '<label><span>Material</span><select data-metal></select></label>' +
+        '<label><span>Recipe</span><select data-recipe>' + recipeOptions() + '</select></label>' +
+        '<label><span>Material</span><select data-metal>' + metalOptions() + '</select></label>' +
+        '<label><span>Quantity</span><input type="number" min="1" step="1" value="1" inputmode="numeric" data-quantity></label>' +
       '</div>' +
-      '<div class="tec-craft-result" aria-live="polite">' +
-        '<div><span>Recipe consumes</span><strong data-used></strong></div>' +
-        '<div><span>Slags to purchase</span><strong data-buy></strong></div>' +
-        '<div><span>Purchase cost</span><strong data-cost></strong></div>' +
-        '<div><span>Expected leftover</span><strong data-leftover></strong></div>' +
+      '<div class="tec-craft-line-result">' +
+        '<div><span>Material used</span><strong data-used></strong></div>' +
+        '<div><span>Whole slags if bought alone</span><strong data-buy></strong></div>' +
+        '<div><span>Cost if bought alone</span><strong data-cost></strong></div>' +
+        '<div><span>Leftover if bought alone</span><strong data-leftover></strong></div>' +
       '</div>' +
-      '<p class="tec-craft-note">Jewelry calculations assume metal is purchased as whole slags. Fractional recipe requirements leave the remaining metal available for later crafting.</p>' +
-    '</div>';
+      '<button type="button" class="tec-craft-remove" data-remove aria-label="Remove this item" title="Remove this item">Remove</button>';
 
-  var recipeSelect = root.querySelector("[data-recipe]");
-  var metalSelect = root.querySelector("[data-metal]");
+    function renderLine() {
+      var recipe = recipes[Number(card.querySelector("[data-recipe]").value) || 0];
+      var metal = metals[Number(card.querySelector("[data-metal]").value) || 0];
+      var quantity = Math.max(1, Math.floor(Number(card.querySelector("[data-quantity]").value) || 1));
+      var usedSixths = recipe.sixths * quantity;
+      var slagsToBuy = Math.ceil(usedSixths / 6);
+      var leftoverSixths = slagsToBuy * 6 - usedSixths;
 
-  recipeSelect.innerHTML = recipes.map(function (recipe, index) {
-    return '<option value="' + index + '">' + recipe.name + '</option>';
-  }).join("");
+      card.querySelector("[data-used]").textContent = fractionLabel(usedSixths, 6) + " slag" + (usedSixths === 6 ? "" : "s");
+      card.querySelector("[data-buy]").textContent = slagsToBuy + " slag" + (slagsToBuy === 1 ? "" : "s");
+      card.querySelector("[data-cost]").textContent = formatMoney(metal.sens * slagsToBuy);
+      card.querySelector("[data-leftover]").textContent = leftoverSixths ? fractionLabel(leftoverSixths, 6) + " slag" : "None";
+      renderSummary();
+    }
 
-  metalSelect.innerHTML = metals.map(function (metal, index) {
-    return '<option value="' + index + '">' + metal.name + '</option>';
-  }).join("");
+    card.querySelectorAll("select, input").forEach(function (field) {
+      field.addEventListener("change", renderLine);
+      field.addEventListener("input", renderLine);
+    });
 
-  function render() {
-    var recipe = recipes[Number(recipeSelect.value) || 0];
-    var metal = metals[Number(metalSelect.value) || 0];
-    var slagsToBuy = Math.ceil(recipe.sixths / 6);
-    var leftoverSixths = slagsToBuy * 6 - recipe.sixths;
+    card.querySelector("[data-remove]").addEventListener("click", function () {
+      if (stack.children.length === 1) return;
+      card.remove();
+      renderSummary();
+    });
 
-    root.querySelector("[data-used]").textContent = fractionLabel(recipe.sixths, 6) + " slag" + (recipe.sixths === 6 ? "" : "s");
-    root.querySelector("[data-buy]").textContent = slagsToBuy + " slag" + (slagsToBuy === 1 ? "" : "s");
-    root.querySelector("[data-cost]").textContent = formatMoney(metal.sens * slagsToBuy);
-    root.querySelector("[data-leftover]").textContent = leftoverSixths ? fractionLabel(leftoverSixths, 6) + " slag" : "None";
+    card.tecRender = renderLine;
+    return card;
   }
 
-  recipeSelect.addEventListener("change", render);
-  metalSelect.addEventListener("change", render);
-  render();
+  function renderSummary() {
+    var byMetal = {};
+
+    stack.querySelectorAll(".tec-craft-card").forEach(function (card) {
+      var recipe = recipes[Number(card.querySelector("[data-recipe]").value) || 0];
+      var metalIndex = Number(card.querySelector("[data-metal]").value) || 0;
+      var quantity = Math.max(1, Math.floor(Number(card.querySelector("[data-quantity]").value) || 1));
+      if (!byMetal[metalIndex]) byMetal[metalIndex] = 0;
+      byMetal[metalIndex] += recipe.sixths * quantity;
+    });
+
+    var rows = Object.keys(byMetal).map(function (metalIndex) {
+      var metal = metals[Number(metalIndex)];
+      var usedSixths = byMetal[metalIndex];
+      var slagsToBuy = Math.ceil(usedSixths / 6);
+      var leftoverSixths = slagsToBuy * 6 - usedSixths;
+      return '<tr>' +
+        '<th>' + metal.name + '</th>' +
+        '<td>' + fractionLabel(usedSixths, 6) + '</td>' +
+        '<td><strong>' + slagsToBuy + '</strong></td>' +
+        '<td><strong>' + formatMoney(metal.sens * slagsToBuy) + '</strong></td>' +
+        '<td>' + (leftoverSixths ? fractionLabel(leftoverSixths, 6) : 'None') + '</td>' +
+      '</tr>';
+    }).join("");
+
+    summary.innerHTML =
+      '<div class="tec-craft-summary-scroll"><table>' +
+        '<thead><tr><th>Material</th><th>Used</th><th>Buy</th><th>Cost</th><th>Leftover</th></tr></thead>' +
+        '<tbody>' + rows + '</tbody>' +
+      '</table></div>' +
+      '<p>Leftovers are pooled across items made from the same metal before the calculator rounds up to whole slags.</p>';
+  }
+
+  stack.appendChild(makeCard());
+  stack.firstElementChild.tecRender();
+
+  root.querySelector(".tec-craft-add").addEventListener("click", function () {
+    var card = makeCard();
+    stack.appendChild(card);
+    card.tecRender();
+  });
 }
 
 if (document.readyState === "loading") {
