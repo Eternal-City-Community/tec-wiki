@@ -13,9 +13,9 @@ This page covers using the desktop app once it's installed. For installing it, a
 
 ### The layout {#layout}
 
-![](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
+![Praetor desktop interface with numbered layout callouts](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
 
-The numbers match the callouts in the picture.
+The numbered legend below matches the callouts in the picture.
 
 1. **Status bar**: your vitals, a lighting readout (click it to check the light level), and whether you're connected.
 2. **Tab bar**: **All** is always there, plus any custom tabs you've set up and a **Metrics** tab. See Tabs below.
@@ -25,7 +25,7 @@ The numbers match the callouts in the picture.
 6. **Vitals**: Health, Fatigue, Encumbrance, and Satiation. Click one to check your exact condition.
 7. **Actions, Modes, and Variables tabs**: **Actions** holds your own button sets (set them up under **Action Sets** in the Esc menu). **Modes** lists the loaded automation modes. **Variables** manages saved values you can insert into typed commands and Action buttons. Changes made here are the same ones shown under **Automation**, then **Variables**, in the Esc menu.
 8. **Command input**: where you type to the game. A **hint line** appears just above it while you type a slash command, showing what the command expects.
-9. **Play and current-mode buttons**: the play button starts a play script (see Play scripts below), and the button beside it shows the running mode. Click it to switch. While a typed command chain still has commands waiting, the play button is replaced by a **Stop** button that discards the rest of the chain.
+9. **Automation Bar**: PraetorScript status fills the left side, while the play and current-mode buttons stay fixed on the right. The play button starts a play script (see Play scripts below), and the button beside it shows the running mode. Click it to switch. While a PraetorScript chain is active, the play button is replaced by a **Stop** button that discards the rest of the chain.
 
 Regions 4 to 7 together are the **sidebar**. **Alt+S** hides or shows it. Right-click the output for a Copy/Paste menu. Ctrl+C copies a selection and Ctrl+V pastes into the input.
 
@@ -209,9 +209,29 @@ search here;;$(wait-for "You find a button");;push button
 
 `wait-for` pauses until a future game line contains the quoted text. Matching is case-sensitive.
 
+Add a positive timeout in seconds to keep a missing response from waiting forever:
+
+
+~~~
+search here;;$(wait-for "You find a button" timeout 30);;push button
+~~~
+
+
+If the timeout expires, Praetor cancels the entire chain instead of advancing it. The number may come from a variable or fallback.
+
+Add `cancel-on` when a particular response should cancel the chain immediately:
+
+
+~~~
+$(wait-for "The gate opens" cancel-on "The gate is locked" timeout ${limit:30});;go gate
+~~~
+
+
+`cancel-on` and `timeout` are both optional and may appear in either order.
+
 When `wait-for` immediately follows a command, Praetor activates the matcher before sending that command. This prevents a fast response from arriving before the matcher is ready.
 
-There is no automatic timeout. Use the chain's **Stop** button or **Alt+X** if the expected text never arrives.
+Without a `timeout`, the wait remains active until it matches, a `cancel-on` response appears, the connection closes, or you use **Stop** or **Alt+X**.
 
 ##### Show a notification
 
@@ -223,7 +243,17 @@ look;;$(notify "Finished looking")
 
 `notify` displays a Praetor notification and requests an operating-system desktop notification, then continues the chain.
 
-Variables and fallbacks work inside the message:
+Pass two quoted strings to give the notification a custom title:
+
+
+~~~
+$(notify "Training" "Rank gained")
+~~~
+
+
+With one string, the title defaults to **Praetor**. Variables and fallbacks work in both the title and message.
+
+For example:
 
 
 ~~~
@@ -259,17 +289,45 @@ In this example:
 
 Success and cancellation matching is case-sensitive. The repeated command must be a game command, not a local slash command.
 
-A repeat has no attempt limit. Use **Stop** or **Alt+X** to end one manually.
+By default, an `until` repeat has no attempt limit. Add `max` to set a positive maximum number of sends:
+
+
+~~~
+$(repeat "unlock chest with lockpick" until "You hear a click" max 10)
+~~~
+
+
+The initial send is attempt 1. If attempt 10 becomes unbusy without the success text, Praetor cancels the chain as a failed repeat rather than sending attempt 11. `max` and `cancel-on` may appear in either order, and the maximum may come from a variable or fallback.
+
+##### Repeat a fixed number of times
+
+
+~~~
+$(repeat "search chest" count 5)
+~~~
+
+
+The `count` form sends the command exactly five times. The first send happens immediately. Each later send follows a recognized unbusy response and the configured `&&` response delay. After the fifth send, one final unbusy response and delay completes the repeat and advances the surrounding chain.
+
+`count` requires a positive whole number and may use a variable or fallback:
+
+
+~~~
+$(repeat "search chest" count ${tries:5} cancel-on "You find nothing");;look
+~~~
+
+
+Reaching the exact count completes normally. This is different from `until ... max N`, which cancels the chain when it reaches the limit without seeing the success text. The optional `cancel-on` text still cancels the entire counted chain immediately.
 
 #### Combining the features
 
 PraetorScript features can be combined in the same submission.
 
-This example uses variables, fallbacks, a success-aware repeat, fixed pacing, and a notification:
+This example uses variables, fallbacks, a bounded success-aware repeat, fixed pacing, and a titled notification:
 
 
 ~~~
-$(repeat "search ${container:chest}" until "You find ${item:key}" cancel-on "You find nothing");;get ${item:key};;$(notify "${item:key} acquired")
+$(repeat "search ${container:chest}" until "You find ${item:key}" cancel-on "You find nothing" max ${tries:10});;get ${item:key};;$(notify "Search complete" "${item:key} acquired")
 ~~~
 
 
@@ -279,8 +337,9 @@ Praetor:
 2. Repeats the search after each unbusy response.
 3. Advances when the success text appears.
 4. Cancels everything if `You find nothing` appears.
-5. Gets the item after the configured `;;` delay.
-6. Displays a notification after the next configured delay.
+5. Cancels as a failed repeat if ten searches complete without either response.
+6. Gets the item after the configured `;;` delay.
+7. Displays a titled notification after the next configured delay.
 
 This example combines unbusy-aware commands with an explicit pause:
 
@@ -288,6 +347,23 @@ This example combines unbusy-aware commands with an explicit pause:
 ~~~
 stand&&get ${weapon:gladius};;$(wait ${pause:2});;wield ${weapon:gladius};;$(notify "Ready")
 ~~~
+
+
+#### Automation Bar status
+
+The row below the input is the **Automation Bar**. Its left side always stays in place: it reads **PraetorScript idle** when no chain is active, then expands to use the available space while a chain is running. The play and current-mode controls remain fixed on the right.
+
+For an active chain, the bar shows the current step and what Praetor is doing:
+
+* `sending “command”` for a command being sent
+* `pacing 0.9s` for a `;;` delay; the displayed value is the delay captured when the chain started, not a countdown
+* `waiting for unbusy` for an `&&` continuation
+* `waiting 3s` for `$(wait 3)`; true waits count down in whole seconds
+* `waiting for “text” 30s` for a bounded `wait-for`; the timeout counts down in whole seconds
+* `notifying “title”` for `notify`
+* `repeating “command” (2/5)` for a bounded or counted repeat, or `(2)` for an unlimited repeat
+
+If more than one chain is active, the oldest chain is shown and a `+N` marker reports the others. Any active chain replaces **Play** with **Stop**.
 
 
 #### Literal syntax and quoted text
@@ -323,17 +399,18 @@ The full PraetorScript language applies to:
 
 * Single-line command input
 * Action Set buttons
+* Text submitted deliberately by a Lua mode through `praetor_script(expression)`
 
 Variable expansion, including `${name:fallback}`, also applies to:
 
 * Multi-line submissions
 * Files sent with **/send**
 
-Multi-line submissions and **/send** files do not interpret `;;`, `&&`, or `$()` controls. Lua modes, Lua scripts, **/play** scripts, numpad movement, and other direct interface controls bypass PraetorScript.
+Multi-line submissions and **/send** files do not interpret `;;`, `&&`, or `$()` controls. Ordinary Lua `send()` calls, **/play** scripts, numpad movement, and other direct interface controls bypass PraetorScript. A Lua mode must call `praetor_script(expression)` explicitly when it wants the full parser, executor, cancellation, and Automation Bar lifecycle.
 
 Praetor validates the entire submission before sending its first command. A single submission may contain up to 100 commands and control steps.
 
-While a chain is waiting, the Play button becomes **Stop**. Stop cancels queued commands, timers, text matchers, and repeats. Commands already sent to the game cannot be recalled.
+While any chain is active, the Play button becomes **Stop**. Stop cancels queued commands, timers, text matchers, and repeats. Commands already sent to the game cannot be recalled.
 
 Pending chains are also discarded when the connection closes or is replaced.
 

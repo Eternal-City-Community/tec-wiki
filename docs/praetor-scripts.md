@@ -390,11 +390,26 @@ state.set('waves', state.get('waves') + 1)
 
 State is scoped to the current mode and clears when you switch modes, unless you mark a key with **state.persist**, which keeps it across switches and app restarts. Timers started with **set_interval** or **set_timeout** are canceled automatically when the mode stops, so there's nothing to clean up in **on_stop**.
 
+### Run PraetorScript from a mode
+
+The normal `send(command)` function queues one literal game command; it does not interpret PraetorScript syntax. When a mode deliberately needs variables, `;;`, `&&`, or `$()` controls, submit the complete expression through `praetor_script(expression)` instead:
+
+
+~~~
+function M.on_start(args)
+    praetor_script([[$(repeat "search chest" count ${tries:3});;$(notify "Search" "Finished")]])
+end
+~~~
+
+
+This uses the same parser, executor, Stop control, and Automation Bar status as PraetorScript entered by hand. It also follows the same validation, timing, cancellation, disconnect, and shutdown behavior. See the [PraetorScript guide](/praetor-guide/#praetorscript) for the complete language.
+
 ### Rules that bite
 
 * Only one mode runs at a time. Starting another stops the current one.
 * Each piece of Lua (a reaction, a timer callback, on_start, on_stop) may run for at most 2 seconds. If it doesn't finish, Praetor aborts it and logs an error, then keeps going.
 * **send** queues a command rather than sending it instantly. Commands go out with a delay (900ms by default, or your own via a second argument in milliseconds) and at least 400ms apart from each other.
+* **praetor_script** is the explicit opt-in to PraetorScript processing. A normal **send** never expands variables or treats separators as controls.
 * A command identical to one already waiting in the queue is dropped rather than queued twice.
 * The queue holds 20 commands and drops anything past that, except high-priority commands (configured in the menu), which push their way in instead of being dropped.
 * Matching is plain text, not a regular expression, and a reaction's Lua only runs when its match actually matches a line.
