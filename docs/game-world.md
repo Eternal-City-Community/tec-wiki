@@ -9,7 +9,9 @@ parent: index
 ## Welcome to Midlight
 
 
-[![](/assets/wikidot/files/Midlight_masks_2.5_parchment_filter_3_v2.png)](/assets/wikidot/files/Midlight_masks_2.5_parchment_filter_3_v2.png)
+<div style="text-align: center;">
+  <a href="/assets/wikidot/files/Midlight_masks_2.5_parchment_filter_3_v2.png"><img src="/assets/wikidot/files/Midlight_masks_2.5_parchment_filter_3_v2.png" alt="Map of Midlight" style="width: 100%; max-width: 800px; height: auto;"></a>
+</div>
 
 
 An ancient world, where magic once flowed freely, but where it is now feared and hated, where those who have not sought the blessing and sanction from the gods themselves practice their craft in secret. 
@@ -19,7 +21,9 @@ A young world, of men and their armies, of emerging philosophies and beliefs, of
 ### Realms of Midlight {#countries}
 
 
-[![](/assets/wikidot/files/realms%20of%20midlight.jpg)](/assets/wikidot/files/realms%20of%20midlight.jpg)
+<div style="text-align: center;">
+  <a href="/assets/wikidot/files/realms%20of%20midlight.jpg"><img src="/assets/wikidot/files/realms%20of%20midlight.jpg" alt="Realms of Midlight" style="width: 100%; max-width: 800px; height: auto;"></a>
+</div>
 
 
 Midlight is a restless world, its citizens and nations in flux as power and economic demands ebb and flow. [The Eternal City](/city-of-iridine/) has been at the center of much of this change and turmoil throughout its long history, seeing cataclysm, civil war, and defeat at the hands of enemies. Yet always a resurgent spirit survives, and even those who have conquered Iridine in the past have come to respect her.
