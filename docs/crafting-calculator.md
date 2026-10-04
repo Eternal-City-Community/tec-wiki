@@ -20,7 +20,7 @@ For example, a recipe that consumes **3 1/3 slags** requires purchasing **4 slag
 
 Use the **+** button to add more items to an order, or use the quantity field when several copies of the same item are needed. When multiple items use the same metal, their fractional requirements are combined before the calculator rounds up to whole slags. This lets leftover metal from one item count toward another item in the same order.
 
-The prices used here are the confirmed material prices documented in the [Jewelry Guide](/jewelry-guide/#material-costs/).
+The prices used here are the confirmed material prices documented in the [Jewelry Guide](/jewelry-guide/#material-costs).
 
 !!! note
     Only recipes with confirmed material requirements are included. Missing or unknown crafting requirements are not estimated.
