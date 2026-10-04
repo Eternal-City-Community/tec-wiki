@@ -13,9 +13,9 @@ This page covers using the desktop app once it's installed. For installing it, a
 
 ### The layout {#layout}
 
-![](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
+![Praetor desktop interface with numbered layout callouts](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
 
-The numbers match the callouts in the picture.
+The numbered legend below matches the callouts in the picture.
 
 1. **Status bar**: your vitals, a lighting readout (click it to check the light level), and whether you're connected.
 2. **Tab bar**: **All** is always there, plus any custom tabs you've set up and a **Metrics** tab. See Tabs below.
