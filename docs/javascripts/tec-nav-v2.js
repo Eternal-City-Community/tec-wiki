@@ -144,6 +144,7 @@ function initTecTopNav() {
         link("Training Cost Calculator","training-cost-calculator") +
         link("Money Calculator","money-calculator") +
         link("Blocks and Dodges","blocks-and-dodges") +
+        link("Shops","shops") +
         link("Fight It!™ Calculator","fight-it-calculator") +
       '</div></div>' +
       '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Wiki Team</button><div class="tec-topnav__menu">' +
