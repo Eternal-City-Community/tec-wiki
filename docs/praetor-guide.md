@@ -38,7 +38,7 @@ The **All** tab always receives everything. **Custom tabs** filter game text by 
 | `*` | any run of characters, including none | `You hit the*rat` | You hit the rat, You hit the giant rat | You hit a rat |
 | `?` | exactly one character | `?at` | rat, cat, hat | at |
 
-![](/assets/wikidot/praetor-guide/praetor-custom-tabs.png)
+![Custom Tabs editor with include and exclude rules](/assets/wikidot/praetor-guide/praetor-custom-tabs.png)
 
 To build a Think/OOC tab:
 
@@ -353,6 +353,8 @@ stand&&get ${weapon:gladius};;$(wait ${pause:2});;wield ${weapon:gladius};;$(not
 
 The row below the input is the **Automation Bar**. Its left side always stays in place: it reads **PraetorScript idle** when no chain is active, then expands to use the available space while a chain is running. The play and current-mode controls remain fixed on the right.
 
+![Active Automation Bar waiting for game text, with chain progress and Stop control](/assets/wikidot/praetor-guide/praetor-automation.png)
+
 For an active chain, the bar shows the current step and what Praetor is doing:
 
 * `sending “command”` for a command being sent
@@ -434,9 +436,9 @@ The **Input spellcheck** setting turns spellcheck on the command input on or off
 | 4 | w | 5 | look | 6 | e |
 | 1 | sw | 2 | s | 3 | se |
 | 0 | ss | . | stand |  |  |
-| − | down | + | up |  |  |
+| − | d | + | u |  |  |
 
-With **NumLock off**, the numpad walks. With it on, the numpad types digits as usual. Holding a movement key repeats the command, so you can hold a direction to keep walking. The **Numpad navigation** setting offers three choices: **Only when NumLock is off** (the default), **Always** (required on macOS, which has no NumLock, so the numpad then never types digits), and **Never**. The plus and minus keys always send up and down, regardless of NumLock.
+With **NumLock off**, the numpad walks. With it on, the numpad types digits as usual. Holding a movement key repeats the command, so you can hold a direction to keep walking. The **Numpad navigation** setting offers three choices: **Only when NumLock is off** (the default), **Always** (required on macOS, which has no NumLock, so the numpad then never types digits), and **Never**. The plus and minus keys always send `u` and `d`, regardless of NumLock.
 
 You can also move with the mouse. Clicking a direction on the compass walks that way, and clicking the minimap sends:
 
@@ -476,7 +478,7 @@ Slash commands are not interpreted inside a multi-line block.
 
 This is the main entrypoint to all Praetor menus
 
-![](/assets/wikidot/praetor-guide/praetor-settings-menu.png)
+![Praetor Esc menu with Display and Behavior, Automation, Filters, Tools and References, and Session groups](/assets/wikidot/praetor-guide/praetor-settings-menu.png)
 
 #### Display & Behavior
 
@@ -487,10 +489,10 @@ This is the main entrypoint to all Praetor menus
 * Action Sets: your own sidebar buttons, with support for variables and command chains
 * Notifications: desktop alerts for low vitals, text patterns, and opt-in Lua script alerts
 
-![](/assets/wikidot/praetor-guide/praetor-crt-effects)
+![Retro CRT Effects editor](/assets/wikidot/praetor-guide/praetor-crt-effects)
 
 
-![](/assets/wikidot/praetor-guide/praetor-action-sets.png)
+![Action Sets editor with command buttons](/assets/wikidot/praetor-guide/praetor-action-sets.png)
 
 #### Settings {#settings}
 
@@ -501,6 +503,8 @@ To change any setting:
 2. Choose **Display & Behavior**, then **Settings**
 3. Change what you need
 4. **Save**
+
+![General Settings showing command timing, minimap zoom, compass scale, and other behavior controls](/assets/wikidot/praetor-guide/praetor-settings.png)
 
 The settings are:
 
@@ -515,6 +519,8 @@ The settings are:
 * **Hide IP addresses**: replace real IP addresses in game text with consistent fake ones, for example when streaming
 * **Input spellcheck**: spellcheck the command input
 * **Retain Input After Send**: keep the sent text selected in the input instead of clearing it
+* **;; chain delay (ms)**: pacing delay between commands separated by `;;` (default 900ms)
+* **&& response delay (ms)**: delay after an unbusy response before advancing an `&&` chain or repeat (default 100ms)
 * **Numpad navigation**: Only when NumLock is off, Always, or Never (see Moving around above)
 * **Check for updates on startup**: check GitHub for a newer release when Praetor starts
 * **Session transcript logging**: record timestamped game text to a log file
@@ -529,9 +535,11 @@ The settings are:
 * Persistent Data: what your modes have saved, with export and clear
 * Reload Scripts: rescan your script folders for changes
 
-![](/assets/wikidot/praetor-guide/praetor-script-directories.png)
+![Script Directories editor](/assets/wikidot/praetor-guide/praetor-script-directories.png)
 
 **Variables** stores reusable name/value pairs. Add a name and value, then save. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with `${name}` in typed input, Action Set buttons, and **/send** files. Editing variables here or in the sidebar updates the same saved list.
+
+![Variables editor with count, target, and weapon values](/assets/wikidot/praetor-guide/praetor-variables.png)
 
 **Quick-Cycle Modes** lets **Alt+M** step through a chosen set of modes:
 
@@ -540,7 +548,7 @@ The settings are:
 3. Toggle the modes you want in the cycle
 4. **Save**. Alt+M now advances through them in list order
 
-![](/assets/wikidot/praetor-guide/praetor-priority-commands.png)
+![High-Priority Commands editor](/assets/wikidot/praetor-guide/praetor-priority-commands.png)
 
 
 **High-Priority Commands** jump ahead of normal queued commands while preserving their order relative to other priority commands. Duplicate commands already waiting in the queue are dropped. If the queue is full, an incoming priority command replaces the newest normal command; if the queue contains only priority commands, the incoming command is dropped.
@@ -563,7 +571,7 @@ retreat
 * Ignore OOC Accounts: hide OOC chatter from accounts you name
 * Ignore Think Characters: hide think-channel text from characters you name
 
-![](/assets/wikidot/praetor-guide/praetor-ignore-ooc.png)
+![Ignore OOC Accounts editor](/assets/wikidot/praetor-guide/praetor-ignore-ooc.png)
 
 
 Both filters match on the **name** shown in the line, and nothing else. Someone who switches between their in-character and out-of-character names on the OOC channel shows up as two different names, so you'd have to add both to stop seeing them.
@@ -603,7 +611,7 @@ Each of these has its own section further down this page.
 
 ### Highlights and notifications {#highlights}
 
-![](/assets/wikidot/praetor-guide/praetor-highlights.png)
+![Highlights editor with pattern and color controls](/assets/wikidot/praetor-guide/praetor-highlights.png)
 
 **Highlights** make text stand out with a colored background, useful for rare drops and other things you don't want to miss scrolling past. To add one:
 
@@ -621,9 +629,9 @@ retalq
 
 **4.** Click **Save**. You can toggle a highlight off, or delete it, at any time.
 
-![](/assets/wikidot/praetor-guide/praetor-notifications.png)
+![Desktop Notifications editor with script permission, sound, vital thresholds, and text patterns](/assets/wikidot/praetor-guide/praetor-notifications.png)
 
-**Notifications** raise desktop alerts and in-app notices when something happens. To set them up:
+**Notifications** can raise desktop alerts when something happens. Built-in health, fatigue, and text-pattern notifications use the desktop alert. Lua `notify()` calls, when allowed, also show an in-app notice. PraetorScript `$(notify ...)` shows both a desktop alert and an in-app notice and is independent of the Lua permission. To configure notifications:
 
 1. Press **Esc**
 2. Choose **Display & Behavior**, then **Notifications**
@@ -643,7 +651,7 @@ If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Pr
 
 ### Notes {#notes}
 
-![](/assets/wikidot/praetor-guide/praetor-notes.png)
+![Praetor Notes list](/assets/wikidot/praetor-guide/praetor-notes.png)
 
 The notepad keeps freeform notes: plans, backstory, who owes you what. Open it with **/notes**, or from the Esc menu under **Tools & References**.
 
@@ -704,7 +712,7 @@ wield sword
 ~~~
 
 
-**/send** is refused while a play script is running, and **/play** is refused during a send, so the two can never write to the game at the same time.
+Praetor keeps its long-running command producers from interleaving. **/send** is refused while a play script or typed PraetorScript chain is active. **/play** is refused while a send, typed PraetorScript chain, or Lua mode other than `disable` is active. Stop or finish the active work before starting the other operation.
 
 ### Play scripts {#play}
 
@@ -768,7 +776,7 @@ For the complete script-language reference: [full play-script reference](https:/
 
 #### Wiki bookmarks {#lookups}
 
-![](/assets/wikidot/praetor-guide/praetor-wiki.png)
+![Wiki Bookmarks browser](/assets/wikidot/praetor-guide/praetor-wiki.png)
 
 **/wiki** on its own lists the built-in bookmarks, grouped by topic:
 
@@ -790,7 +798,7 @@ The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmar
 
 #### Map bookmarks
 
-![](/assets/wikidot/praetor-guide/praetor-maps.png)
+![Map Bookmarks browser grouped by region](/assets/wikidot/praetor-guide/praetor-maps.png)
 
 **/maps** on its own lists this wiki's maps by region: Iridine, The Steps, Invex River Delta, Salinae Swamp, Eastern Grasslands, Rock Valley, Franlius, Monlon, Seld, and Cullaiden Island. Each region expands to its individual maps. Give it a map's name to open that map in your browser, for example the Sewers and Sea Caves map:
 
@@ -802,17 +810,17 @@ The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmar
 
 The same list is under **Tools & References**, as **Map Bookmarks**.
 
-#### Calculator
+#### Calculator {#calculator}
 
-![](/assets/wikidot/praetor-guide/praetor-rbcalc.png)
+![Rank-Bonus Calculator comparing current and target ranks with training costs](/assets/wikidot/praetor-guide/praetor-rbcalc.png)
 
 **/calc** (or **/rb**) opens the rank-bonus and training-cost calculator, which uses the same math as this wiki's [Rank Bonus Calculator](/rank-bonus-calculator/) and [Training Cost Calculator](/training-cost-calculator/). Choose **Defensive**, **Offensive**, or **Noncombat**, then enter current and target Basics and Subskill ranks. Praetor shows side-by-side current and target rank bonuses for each posture and difficulty, including the Basics and Subskill rank bonuses.
 
 The training-cost section shows the Basics and Subskill rank changes and the cost for slots 1 through 20; use the page button to switch between slots 1–10 and 11–20. **Self-trained**, **Self-taught**, and **Healing** adjust the calculation. Ranks above 1150 display a reminder that training to 1151 or higher requires `/selftrain`.
 
-#### Kudos
+#### Kudos {#kudos}
 
-![](/assets/wikidot/praetor-guide/praetor-kudos.png)
+![Kudos window with favorites and queued messages](/assets/wikidot/praetor-guide/praetor-kudos.png)
 
 **/kudos** opens the kudos window. It has a **Favorites** list of names you kudos often, and a **Queue** of name-and-message pairs waiting to be sent. When the queue has entries, the window offers **Send** to send them all. From the input, a name alone adds a favorite, and a name with a message queues a kudos:
 
@@ -847,7 +855,7 @@ The app log (startup, connection, and error detail, not a copy of the game text)
 ~~~
 
 
-![](/assets/wikidot/praetor-guide/praetor-persistent-data.png)
+![Persistent Data browser with export and clear controls](/assets/wikidot/praetor-guide/praetor-persistent-data.png)
 
 To see what your modes have saved between sessions:
 
