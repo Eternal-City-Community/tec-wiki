@@ -372,8 +372,9 @@ body::before {
   text-underline-offset: .08em;
 }
 
+/* Visited links keep the link color, so they never blend into the text. */
 .md-typeset a:visited {
-  color: #091501;
+  color: #005604;
 }
 
 .md-typeset a:hover,
