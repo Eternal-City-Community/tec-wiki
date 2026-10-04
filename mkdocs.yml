@@ -66,6 +66,7 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/tec.css
+  - stylesheets/tec-crafting-calculator.css
 
 extra_javascript:
   - javascripts/tec-page-enhancers.js
@@ -76,6 +77,7 @@ extra_javascript:
   - javascripts/tec-veteran-tabs.js
   - javascripts/tec-rank-bonus.js
   - javascripts/tec-money-calculator.js
+  - javascripts/tec-crafting-calculator.js
   - javascripts/tec-national-lores.js
   - javascripts/tec-stats.js
   - javascripts/tec-shops.js
