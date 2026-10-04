@@ -6,8 +6,11 @@ parent: character-generator
 
 # National Lores
 
+<div class="tec-account-jump" markdown="1">
 
-[TOC]
+**Jump to:** [Aestivan League](#aestivan-league) · [Altene](#altene) · [Cinera](#cinera) · [Gadaene](#gadaene) · [Iridine](#iridine) · [Parcines](#parcines) · [Remath](#remath) · [Safelands](#safelands) · [Sostaera](#sostaera) · [Tuchea](#tuchea) · [Windward](#windward)
+
+</div>
 
 ## Aestivan League
 #### Aestiva Surveyor Lore
