@@ -157,7 +157,7 @@ none
 
 </div>
 
-### Dual Daggers Flicker Strike  *??? <target>* {#Flicker}
+### Dual Daggers Flicker Strike  *flicker <target>* {#Flicker}
 
 Auto-wielding move. Lunge at a distance. This move can be aimed **high, & mid.**
 
