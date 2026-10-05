@@ -8,7 +8,7 @@ parent: unofficial-game-clients
 
 Praetor is a free, open-source desktop client for The Eternal City. It runs on Windows, macOS, and Linux.
 
-![](/assets/wikidot/praetor/praetor-action-screen.png)
+![Praetor connected to the Welcome Room, showing game output, map, compass, vitals, sidebar tools, command input, and Automation Bar](/assets/wikidot/praetor/praetor-action-screen.png)
 
 
 [TOC]
@@ -222,13 +222,13 @@ praetor_<version>_linux_arm64.tar.gz
 
 ### First login
 
-![](/assets/wikidot/praetor/praetor-splash-screen.png)
+![Praetor splash screen](/assets/wikidot/praetor/praetor-splash-screen.png)
 
 Praetor opens with a splash screen. Press any key to continue.
 
 From there you'll see the **Sign in to The Eternal City** form:
 
-![](/assets/wikidot/praetor/praetor-login-screen.png)
+![Praetor login screen with account name and password fields](/assets/wikidot/praetor/praetor-login-screen.png)
 
 Enter your TEC username and password.
 
@@ -271,24 +271,24 @@ Some shortcuts do different things depending on what's in front of you. Those ge
 | --- | --- | --- |
 | Tab | Output tabs | Next tab ([Tabs](/praetor-guide/#tabs)) |
 | Tab | A slash-command hint is showing | Complete the command ([Typing commands](/praetor-guide/#typing)) |
-| Shift+Tab | Anywhere | Previous tab |
-| Alt+1 to Alt+9, Alt+0 | Anywhere | Jump to that tab (0 is the tenth) |
-| Alt+S | Anywhere | Show or hide the sidebar ([The layout](/praetor-guide/#layout)) |
-| Alt+M | Anywhere | Switch to the next quick-cycle mode ([Run a mode](/praetor-scripts/#run)) |
+| Shift+Tab | Game view | Previous tab |
+| Alt+1 to Alt+9, Alt+0 | Game view | Jump to that tab (0 is the tenth) |
+| Alt+S | Game view | Show or hide the sidebar ([The layout](/praetor-guide/#layout)) |
+| Alt+M | Game view | Switch to the next quick-cycle mode ([Run a mode](/praetor-scripts/#run)) |
 | Alt+X | A file is being sent | Abort the rest of the send ([Sending a file](/praetor-guide/#send)) |
 | Alt+X | A play script is running | Stop the performance ([Play scripts](/praetor-guide/#play)) |
 | Alt+X | A mode is running | Switch to the disable mode ([Run a mode](/praetor-scripts/#run)) |
 | Alt+X | A PraetorScript chain is active | Cancel its queued commands, waits, text reactions, and repeats |
-| Alt+I | Anywhere | Reveal lines hidden by the ignore filters ([Filters](/praetor-guide/#filters)) |
+| Alt+I | Game view | Reveal lines hidden by the ignore filters ([Filters](/praetor-guide/#filters)) |
 | Esc | Game view | Open the menu ([The Esc menu](/praetor-guide/#menu)) |
 | Esc | A menu screen, search bar, or history search is open | Close it without saving |
-| Ctrl+F | Anywhere | Search the scrollback ([Search](/praetor-guide/#search)) |
+| Ctrl+F | Game view | Search the scrollback ([Search](/praetor-guide/#search)) |
 | Ctrl+R | Command input | Search your command history ([Typing commands](/praetor-guide/#typing)) |
 | Ctrl+R | History search is open | Step to an older match |
 | Enter | Command input | Send the line |
 | Enter | History search is open | Send the highlighted match |
 | Enter | Scrollback search is open | Step to an older match |
-| Shift+Enter | Command input | New line without sending ([Typing commands](/praetor-guide/#typing)) |
+| Shift+Enter, Ctrl+Enter, or Alt+Enter | Command input | New line without sending ([Typing commands](/praetor-guide/#typing)) |
 | Shift+Enter | Scrollback search is open | Step to a newer match |
 | Up, Down | Command input, on its first or last line | Recall earlier commands |
 | PgUp, PgDn, mouse wheel | Output | Scroll |
@@ -310,10 +310,10 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | `/mode disable` or Alt+X stops it |
 | /toggle | <label> | Flip a true/false value in the running mode | Run it again to flip it back |
 | /set | <label> <value> | Set a value in the running mode | Set it again to the old value |
-| /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#lookups)) | Esc closes it |
+| /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#calculator)) | Esc closes it |
 | /wiki | [name] | List the wiki bookmarks, or open one in your browser ([Wiki bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
 | /maps | [name] | List the map bookmarks, or open one in your browser ([Map bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
-| /kudos | [name] [message] | Open the kudos window, add a favorite, or queue a message ([Kudos](/praetor-guide/#lookups)) | Esc closes the window. Queued kudos aren't sent until you click Send |
+| /kudos | [name] [message] | Open the kudos window, add a favorite, or queue a message ([Kudos](/praetor-guide/#kudos)) | Esc closes the window. Queued kudos aren't sent until you click Send |
 | /notes | [add\|open\|delete\|list] [title] | The notepad ([Notes](/praetor-guide/#notes)) | Esc closes it |
 | /send |  | Pick a text file and send it to the game ([Sending a file](/praetor-guide/#send)) | Cancel the file dialog, or close the preview without clicking Save. Alt+X aborts a send already in progress |
 | /play |  | Pick a play script, preview it, and start it ([Play scripts](/praetor-guide/#play)) | Close the preview without clicking Save. `/stop` or Alt+X ends a running performance |
@@ -365,3 +365,64 @@ Your Praetor version is shown on the splash screen when the app starts, and on t
 * [Praetor Guide](/praetor-guide/): using the client
 * [Praetor Scripts](/praetor-scripts/): installing, running, and writing modes
 * [TEC Discord](https://discord.gg/fevBA8j): the #unofficial-clients channel
+
+### Release history
+
+Dates are the publication dates of the [GitHub releases](https://github.com/cyber-godzilla/praetor/releases), shown newest first.
+
+<!-- praetor-release-history:start -->
+| Release | Date | Major features and changes |
+| --- | --- | --- |
+| [v0.4.15](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.15) | 2026-09-24 | Render variables in Action Set `/mode` commands and validate the resulting command before dispatch. |
+| [v0.4.14](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.14) | 2026-09-24 | Make paced-chain and unbusy-chain delays configurable in General settings. |
+| [v0.4.13](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.13) | 2026-09-24 | Expand saved variables in multiline submissions and `/send` file contents. |
+| [v0.4.12](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.12) | 2026-09-23 | Add a setting to allow or suppress desktop notifications raised by Lua scripts. |
+| [v0.4.11](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.11) | 2026-09-23 | Complete the GUI parity and stability pass, including command chaining, minimap scaling, variables in the menu, calculator layout, help text, spellcheck visibility, and disconnect fixes. |
+| [v0.4.10](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.10) | 2026-09-22 | Add live input variables plus paced (`;;`) and unbusy-aware (`&&`) command chains. |
+| [v0.4.9](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.9) | 2026-09-21 | Harden the GUI with a Playwright end-to-end smoke suite and improve release-job retry behavior. |
+| [v0.4.8](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.8) | 2026-09-10 | Fix Arch package publication by accepting the package service's successful `201` response. |
+| [v0.4.7](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.7) | 2026-09-10 | Release metadata-only follow-up; no user-facing application changes. |
+| [v0.4.6](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.6) | 2026-09-10 | Fix the Arch release job by installing the archive tooling needed to build its repository database. |
+| [v0.4.5](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.5) | 2026-09-10 | Add Arch Linux packages, a pacman repository, and Arch installation documentation. |
+| [v0.4.4](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.4) | 2026-08-31 | Render game-supplied HTML tables with aligned, bordered columns. |
+| [v0.4.3](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.3) | 2026-08-30 | Add the GUI's Retain Input After Send setting and prevent consecutive duplicate history entries. |
+| [v0.4.2](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.2) | 2026-08-17 | Add Tab completion and clickable completion for command hints, including longest-common-prefix completion. |
+| [v0.4.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.1) | 2026-08-16 | Add script-aware `/mode` argument hints and render attribute tables correctly. |
+| [v0.4.0](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.0) | 2026-08-13 | Add multiline and file sending, the `/play` performance language, live command hints, and lossless handling of large server messages. |
+| [v0.3.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.3.1) | 2026-07-22 | Fix eight regressions found in the v0.3.0 review, including Lua-call behavior. |
+| [v0.3.0](https://github.com/cyber-godzilla/praetor/releases/tag/v0.3.0) | 2026-07-22 | Resolve the broad pre-release review backlog and correct command and build-check documentation. |
+| [v0.2.11](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.11) | 2026-07-20 | Keep two-digit patch versions from being clipped on the splash screen. |
+| [v0.2.10](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.10) | 2026-07-20 | Add the `/notes` notepad with create, edit, rename, delete, and recent-note browsing. |
+| [v0.2.9](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.9) | 2026-07-20 | Fix persistent-state races, invalid mode-file panics, color-match offset panics, and near-black color crashes. |
+| [v0.2.8](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.8) | 2026-07-20 | Add scrollback and command-history search, input spellcheck, and update notifications. |
+| [v0.2.7](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.7) | 2026-07-17 | Add configurable numpad navigation and case-insensitive mode names. |
+| [v0.2.6](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.6) | 2026-07-15 | Improve arm64 release reliability by forcing apt downloads over IPv4. |
+| [v0.2.5](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.5) | 2026-07-15 | Add a live metrics-session timer, hide library-only modes, and render empty metrics sessions correctly. |
+| [v0.2.4](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.4) | 2026-07-14 | Enable WebKit hardware acceleration on Linux. |
+| [v0.2.3](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.3) | 2026-07-12 | Add collapsible sidebar sections and improve scroll controls, tail-following, and burst handling. |
+| [v0.2.2](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.2) | 2026-07-10 | Add editable sidebar Action Sets, themed copy/paste controls, and the tabbed Actions/Modes sidebar. |
+| [v0.2.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.1) | 2026-07-09 | Add explicit logout and robust dropped-connection detection, cleanup, and return-to-login behavior. |
+| [v0.2.0](https://github.com/cyber-godzilla/praetor/releases/tag/v0.2.0) | 2026-07-08 | Make the Wails desktop GUI the primary client, restore TUI feature parity, and ship native Linux, macOS, and Windows builds. |
+| [v0.1.5](https://github.com/cyber-godzilla/praetor/releases/tag/v0.1.5) | 2026-05-16 | Reduce stale Kitty-protocol maps while avoiding expensive image resets during long sessions. |
+| [v0.1.4](https://github.com/cyber-godzilla/praetor/releases/tag/v0.1.4) | 2026-05-13 | Improve TUI rendering performance with view caching and add optional pprof diagnostics. |
+| [v0.1.3](https://github.com/cyber-godzilla/praetor/releases/tag/v0.1.3) | 2026-05-05 | Add the `/kudos` workflow for favorites, queued messages, and login reminders. |
+| [v0.1.2](https://github.com/cyber-godzilla/praetor/releases/tag/v0.1.2) | 2026-05-01 | Add the `/calc`/`/rb` rank-bonus and training-cost calculator. |
+| [v0.1.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.1.1) | 2026-04-29 | Fix Kitty and Sixel minimap sizing, flicker, and stale-image behavior. |
+| [v0.1.0](https://github.com/cyber-godzilla/praetor/releases/tag/v0.1.0) | 2026-04-28 | Add OOC/Think ignore filters, expandable suppressed lines, and the `/maps` bookmark browser. |
+| [v0.0.16](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.16) | 2026-04-27 | Add the curated `/wiki` bookmark browser and fix a browser-launch loop. |
+| [v0.0.15](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.15) | 2026-04-25 | Expand color recognition, improve Sixel scaling on Windows Terminal, and guard the empty mode picker. |
+| [v0.0.14](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.14) | 2026-04-23 | Add Sixel graphics, terminal capability detection, graphics fallbacks, and Chocolatey distribution. |
+| [v0.0.13](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.13) | 2026-04-19 | Add editable notification settings with live configuration reload. |
+| [v0.0.12](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.12) | 2026-04-15 | Fix rendering performance and memory leaks during long sessions. |
+| [v0.0.11](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.11) | 2026-04-15 | Expand color recognition and fix exclude-only custom-tab matching. |
+| [v0.0.10](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.10) | 2026-04-11 | Expand recognized in-game color words and refine adjective parsing. |
+| [v0.0.9](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.9) | 2026-04-11 | Expand color-word, suffix, and adjective recognition from game-log review. |
+| [v0.0.8](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.8) | 2026-04-11 | Make script reload rescan every script directory for newly added modes. |
+| [v0.0.7](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.7) | 2026-04-10 | Expand color recognition and fix unread-tab markers for blank lines. |
+| [v0.0.6](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.6) | 2026-04-09 | Hide HTML-wrapped SKOOT protocol messages from game output. |
+| [v0.0.5](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.5) | 2026-04-08 | Add mode validation, batched rendering, blank-line support, and safer command pacing. |
+| [v0.0.4](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.4) | 2026-04-08 | Correct lighting-level ranges and labels to match the game. |
+| [v0.0.3](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.3) | 2026-04-07 | Add the first how-to guide, improve scrolling and menu layout, and make script reload preserve the active mode. |
+| [v0.0.2](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.2) | 2026-04-07 | Add Homebrew, Apt, and Yum installation instructions. |
+| [v0.0.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.0.1) | 2026-04-07 | Initial public release with CI pipelines and package repositories. |
+<!-- praetor-release-history:end -->

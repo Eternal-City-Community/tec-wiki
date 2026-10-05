@@ -27,14 +27,14 @@ The shared library lives on GitHub as **praetor-scripts** and is published as nu
 
 **1.** Open the [latest praetor-scripts release](https://github.com/cyber-godzilla/praetor-scripts/releases/latest) and, under **Assets**, download the zip.
 
-[SCREENSHOT: the latest praetor-scripts release page with the zip under Assets highlighted]
+![GitHub release with the versioned praetor-scripts ZIP listed first under Assets](/assets/wikidot/praetor-scripts/praetor-scripts-release.png)
 
 **2.** Unzip it somewhere that won't move. The folder will be named after the version, for example:
 
 
 ~~~
-~/praetor-scripts-0.1.1             (macOS and Linux)
-Documents\praetor-scripts-0.1.1     (Windows)
+~/praetor-scripts-v0.1.1             (macOS and Linux)
+Documents\praetor-scripts-v0.1.1     (Windows)
 ~~~
 
 
@@ -47,8 +47,6 @@ Check that the unzipped folder contains **macro.lua** directly, not another fold
 #### Fallback: the latest unreleased copy
 
 If you want changes that haven't made it into a release yet, open the [repository page](https://github.com/cyber-godzilla/praetor-scripts), click the green **Code** button, then **Download ZIP**. Unzip and add the folder exactly as above.
-
-[SCREENSHOT: GitHub Code button menu with Download ZIP highlighted]
 
 #### Updating
 
@@ -89,9 +87,11 @@ Start a mode with **/mode** followed by its name and any arguments it takes. Nam
 
 As you type the mode's name, the hint line above the input shows that mode's arguments and a one-line description, so you never have to open the file to check. Type the name, a space, and read the hint before pressing Enter.
 
-[SCREENSHOT: the hint line showing the usage and description for /mode loot]
+![The Praetor input hint showing loot arguments, completion handoffs, and its description](/assets/wikidot/praetor-scripts/praetor-mode-hint.png)
 
 **/list** opens a **Switch Mode** window that shows every loaded mode with its description. Use it to browse what you have. Clicking a mode there starts it with no arguments, so for anything that takes arguments, use **/mode** and the hint line instead.
+
+![Switch Mode window showing each loaded mode's arguments, completion support, and description](/assets/wikidot/praetor-scripts/praetor-mode-select.png)
 
 To stop the running mode:
 
@@ -110,19 +110,27 @@ To stop the running mode:
 
 To watch what a running mode is doing, turn on the **Echo script commands** setting (Esc, **Display & Behavior**, **Settings**). Every command the mode sends then shows in the output in italics.
 
-#### Chaining modes
+#### Completion handoffs
 
-Some modes hand off to another mode when they finish, instead of stopping, using an **after:** argument:
+Modes that run to completion can start another mode or send one final game command instead of stopping. Put the handoff after all arguments for the current mode:
 
 
 ~~~
-/mode loot bronze|alanti after:wagon      # loot corpses, then sell to a vendor
-/mode wagon romulus after:idle            # sell, then rest until fatigue recovers
-/mode idle after:macro                    # rest, then start fighting
+/mode loot bronze|alanti after_mode:wagon romulus
+/mode wagon romulus after_do:look in wagon
+~~~
+
+The first `after_mode:` or `after_do:` token begins the handoff payload, so it and every later token belong to the handoff. `after_mode:` treats its value as the next mode and passes the remaining tokens to that mode. `after_do:` joins its value and the remaining tokens into one game command, disables automation, then sends it.
+
+Because the next mode receives the remaining tokens, mode handoffs can nest:
+
+
+~~~
+/mode loot hand after_mode:wagon romulus after_mode:idle
 ~~~
 
 
-Chains can go several modes deep. Each mode in the chain carries its own **after:**. Not every mode supports it. The hint line shows **[after:<mode>]** at the end of a mode's arguments when it does.
+Not every mode supports completion handoffs. The hint line and Switch Mode window show **[after_&lt;mode|do&gt;:&lt;mode|command&gt;]** when one does. The older `after:<mode>` spelling remains available for compatibility, but it can pass only a mode name, not arguments for the target mode.
 
 ### Five modes to learn from
 
@@ -135,11 +143,11 @@ The shared library has a few dozen modes. These five cover the patterns the rest
 
 ~~~
 /mode idle
-/mode idle after:macro
+/mode idle after_mode:macro
 ~~~
 
 
-What it shows you: a single reaction that matches one phrase from the game (**Fatigue: 100%**), a timer set with **set_interval**, a desktop notification with **notify**, and the **lib_after** library that makes the **after:** argument work.
+What it shows you: a single reaction that matches one phrase from the game (**Fatigue: 100%**), a timer set with **set_interval**, a notification with **notify**, and the **lib_after** library that implements completion handoffs. Lua notifications appear only when **Allow Script Notifications** is enabled under **Esc → Display & Behavior → Notifications**.
 
 #### wagon
 
@@ -176,12 +184,16 @@ What it shows you: a mode that leans on two libraries, [lib_strings.lua](https:/
 ~~~
 /mode loot bronze|alanti|retalq
 /mode loot metals                   # alias from lib_loot: retalq|boison|alanti|sooty|iron
-/mode loot hand drop:rawhide        # loot the "hand" list, but drop any rawhide taken
-/mode loot bandit 3                 # start at the third corpse
+/mode loot hand drop:rawhide                 # loot the "hand" list, but drop any rawhide taken
+/mode loot bandit start:3                    # start at the third corpse
+/mode loot metals from:pile                  # use numbered piles instead of corpses
+/mode loot hand stow:pack stow_start:3       # begin with the third pack and rotate as packs fill
 ~~~
 
 
-What it shows you: an optional named argument (**drop:**) picked out of the argument list, a corpse counter kept in **state** and advanced when the game says **You don't see**, a reaction whose **match** is a list of several phrases, and the **action** function using the matched text itself to decide what to do.
+Every option is a `key:value` token and can appear in any position alongside the item list. `start:` chooses the first numbered source, `from:` replaces “corpse” in the get command, `stow:` names a one-word stowage container, `stow_start:` chooses the first instance of that container, and `drop:` accepts a pipe-delimited list to discard after taking it.
+
+What it shows you: named arguments picked out of the argument list, source and stowage counters kept in **state**, reactions whose **match** can be a list of phrases, and an **action** function using the matched text itself to decide what to do.
 
 #### empty_containers
 
@@ -249,7 +261,7 @@ For the game side of macros and targeting, see [Macros](/macros/) and [Macros an
 | mode not in the mode list | folder not added, or Reload Scripts not run | add the folder under **Script Directories** (Esc menu, **Automation**), then **Reload Scripts** |
 | "unknown mode" | typo, or the file is a `lib_*.lua` helper (it never appears in the list and there's no reason to start one) | check the list with `/list` (names are matched regardless of case) |
 | combat mode starts but nothing attacks | `@macro` entries missing on this character | see the [macro table](#macros) above, and watch for the game answering "I don't understand" to `at1` |
-| mode stops on its own | fatigue ran out, a script error hit the 2-second limit, or the mode finished | check the app log |
+| an expected action does not happen | a Lua callback hit the 2-second limit or raised an error | check the app log; Praetor aborts that callback but leaves the mode running |
 | error when reloading | a `lib_*.lua` file it needs is missing, or the ZIP was unzipped one folder too deep | the folder must contain `macro.lua` directly |
 | commands keep going after you stop it | the queue is still draining | `/mode disable`, then Alt+X |
 | changes to a script do nothing | it wasn't reloaded | **Reload Scripts** (Esc menu, **Automation**). This also clears cached libraries |
@@ -275,7 +287,7 @@ Copy the mode file from the shared folder into your own scripts folder under a n
 ~~~
 
 
-**Reload Scripts** after saving any change.
+**Reload Scripts** after saving any change. Reloading clears cached libraries and immediately refreshes changed, added, and removed mode names, descriptions, and input hints.
 
 **Change the attack rotation.** In **macro.lua**, the rotation is a plain list near the top of the file:
 
@@ -326,6 +338,8 @@ A mode is a Lua file that returns a table. Here's a complete one, **greet.lua**,
 local M = {}
 
 M.desc = 'Say hello whenever someone waves at you'
+M.chains = false
+M.hidden = false
 
 function M.on_start(args)
     log('greet mode started')
@@ -350,10 +364,13 @@ return M
 
 Reading it top to bottom:
 
+* **M.usage** is the mode's argument signature without the mode name. Omit it when the mode takes no arguments.
 * **M.desc** is the one-line description the mode list and the hint line show next to the mode's name.
+* **M.chains** should be true only when the mode implements completion handoffs. Praetor then adds the handoff suffix to its hint.
+* **M.hidden** hides the mode from input hints when true. It can still be run by name and still appears in the Switch Mode window.
 * **on_start** runs when the mode is activated, and gets the words you typed after the mode name as a list of arguments.
 * **on_stop** runs when you switch away.
-* **reactions** is a list of match and action pairs. A match is a plain substring of the game text, or a pattern using an asterisk as a wildcard. A list of strings matches if any of them does. When a line matches, the action runs with that line as its argument.
+* **reactions** is a list of match and action pairs. A match is a plain substring of the game text, or a pattern where `*` matches any run of characters and `?` matches one character. A list of strings matches if any of them does. When a line matches, the action runs with that line as its argument.
 * **send** queues a command for the game.
 * **return M** at the end hands the finished mode to Praetor.
 
@@ -408,7 +425,7 @@ This uses the same parser, executor, Stop control, and Automation Bar status as 
 
 * Only one mode runs at a time. Starting another stops the current one.
 * Each piece of Lua (a reaction, a timer callback, on_start, on_stop) may run for at most 2 seconds. If it doesn't finish, Praetor aborts it and logs an error, then keeps going.
-* **send** queues a command rather than sending it instantly. Commands go out with a delay (900ms by default, or your own via a second argument in milliseconds) and at least 400ms apart from each other.
+* **send** queues a command rather than sending it instantly. Commands use a 1-second delay by default, or your own delay passed as a second argument in milliseconds, and are sent at least 500ms apart.
 * **praetor_script** is the explicit opt-in to PraetorScript processing. A normal **send** never expands variables or treats separators as controls.
 * A command identical to one already waiting in the queue is dropped rather than queued twice.
 * The queue holds 20 commands and drops anything past that, except high-priority commands (configured in the menu), which push their way in instead of being dropped.
