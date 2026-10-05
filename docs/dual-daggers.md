@@ -25,7 +25,7 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 | [Dual Daggers Twin Slash](#Slash) | Average | 2 | Short | Cut<br>Cut | \- | TBD | TBD |
 | [Dual Daggers Blood Dance](#Blooddance) | Average | 2 | Short | Pierce<br>Pierce | [Dual Daggers Sanguine Stance](#Sanguine) | TBD | TBD |
 | [Dual Daggers Gorge Ripper](#Gorgeripper) | Average | 2 | Short | \- | [Dual Daggers Sanguine Stance](#Sanguine) | TBD | TBD |
-| Dual Daggers Heartseeker | Average | 2 | Short | \- | Rank 30 Dual Daggers Jab | TBD | TBD |
+| [Dual Daggers Heartseeker](#Heartseeker) | Average | 2 | Short | \- | Rank 30 Dual Daggers Jab | TBD | TBD |
 | [Dual Daggers Flicker Strike](#Flicker) | Average | 2 | Either | Pierce<br>Pierce | [Dual Daggers Sanguine Stance](#Sanguine)<br>Rank 40 Dual Daggers | TBD | TBD |
 | [Dual Daggers Tendon Slash](#Tendon) | Difficult | 2 | Short | Cut<br>Cut _ Trip Chance | \- | TBD | TBD |
 | [Dual Daggers Blood Staccato](#Staccato) | Difficult | 2 | Short | ??? | Rank 50 Jab, Overhead Strike, Chop, Heartseeker | TBD | TBD |
@@ -36,9 +36,9 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 | [Dual Daggers Twin-Cross Trap](#Crosstrap) | Difficult | 2 | \- | \- | \- | TBD | TBD |
 | [Dual Daggers Circular Deflection](#Deflect) | Difficult | 2 | \- | \- | \- | TBD | TBD |
 | [Dual Daggers Binding Parry](#Bindingparry) | Difficult | 2 | \- | \- | \- | TBD | TBD |
-| Dual Daggers Opportunist | Impossible | \- | \- | \- | \- | TBD | TBD |
-| Dual Daggers Accuracy | Difficult | \- | \- | \- | \- | TBD | TBD |
-| Dual Daggers Grip | Impossible | \- | \- | \- | \- | TBD | TBD |
+| [Dual Daggers Opportunist](#Opportunist) | Impossible | \- | \- | \- | \- | TBD | TBD |
+| [Dual Daggers Accuracy](#Accuracy) | Difficult | \- | \- | \- | \- | TBD | TBD |
+| [Dual Daggers Grip](#Grip) | Impossible | \- | \- | \- | \- | TBD | TBD |
 
 **Directions to Someone** 
 **Directions to Someone Else**
@@ -145,7 +145,19 @@ From your reverse grip, you drive both points of your long narrow sooty black da
 
 </div>
 
-### Dual Daggers Flicker Strike  *heartseeker <target>* {#Flicker}
+### Dual Daggers Heartseeker  *heartseeker <target>* {#Heartseeker}
+
+none
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+none
+
+</div>
+
+### Dual Daggers Flicker Strike  *??? <target>* {#Flicker}
 
 Auto-wielding move. Lunge at a distance. This move can be aimed **high, & mid.**
 
@@ -266,3 +278,19 @@ none
 none
 
 </div>
+
+### Dual Daggers Opportunist  *n/a* {#Opportunist}
+
+none
+
+### Dual Daggers Accuracy  *n/a* {#Accuracy}
+
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
+
+*(This is a passive skill that improves your perception, making it easier to hit targets.)*
+
+### Dual Daggers Grip  *n/a* {#Grip}
+
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
+
+*(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*
