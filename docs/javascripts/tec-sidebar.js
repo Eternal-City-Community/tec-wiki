@@ -206,11 +206,11 @@ function initTecSidebar() {
       link("Basic Woodworking", page("basic-woodworking"), "tec-side__sub"),
       link("Herbalism", page("herbalism"), "tec-side__sub"),
       link("Hunting", page("hunting"), "tec-side__sub"),
-      link("Jewelry", page("jewelry"), "tec-side__sub")
+      link("Jewelry", page("jewelry"), "tec-side__sub"),
       link("Leatherworking", page("leather-working"), "tec-side__sub"),
       link("Outdoor Survival", page("outdoor-survival"), "tec-side__sub"),
       link("Tailoring", page("tailoring"), "tec-side__sub"),
-      link("Tanning", page("tanning"), "tec-side__sub"),
+      link("Tanning", page("tanning"), "tec-side__sub")
     ], false),
     group("Subtlety", [
       link("Pickpocketing", page("pickpocketing"), "tec-side__sub"),
