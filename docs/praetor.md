@@ -373,6 +373,7 @@ Dates are the publication dates of the [GitHub releases](https://github.com/cybe
 <!-- praetor-release-history:start -->
 | Release | Date | Major features and changes |
 | --- | --- | --- |
+| [v0.5.0](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.0) | 2026-10-06 | Introduce PraetorScript with configurable paced and unbusy chains, variables and fallbacks, waits, titled notifications, bounded reactions, and success- or count-based repeats; add Automation Bar status and cancellation; allow Lua modes to submit PraetorScript; refresh mode hints on script reload; and improve GUI responsiveness and sticky scrollback behavior. |
 | [v0.4.15](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.15) | 2026-09-24 | Render variables in Action Set `/mode` commands and validate the resulting command before dispatch. |
 | [v0.4.14](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.14) | 2026-09-24 | Make paced-chain and unbusy-chain delays configurable in General settings. |
 | [v0.4.13](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.13) | 2026-09-24 | Expand saved variables in multiline submissions and `/send` file contents. |
