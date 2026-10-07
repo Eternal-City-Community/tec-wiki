@@ -129,10 +129,25 @@
     return h("div", {}, props.value ? "Starter template: " + props.value : "Blank page");
   }
 
-  if (window.CMS && window.createClass && window.h) {
-    window.CMS.registerWidget("tec-template", window.createClass(TemplateControl), window.createClass(TemplatePreview));
-  } else if (window.CMS && window.React) {
-    window.CMS.registerWidget("tec-template", TemplateControl, TemplatePreview);
+  function register() {
+    // Decap exposes the same global createClass()/h() compatibility API used
+    // by our working Parent page widget. createClass expects a component spec
+    // object, not a function component.
+    var Control = createClass({
+      render: function () {
+        return TemplateControl(this.props);
+      }
+    });
+    var Preview = createClass({
+      render: function () {
+        return TemplatePreview(this.props);
+      }
+    });
+    CMS.registerWidget("tec-template", Control, Preview);
+  }
+
+  if (window.CMS && typeof window.createClass === "function" && typeof window.h === "function") {
+    register();
   }
 
   // Decap does not expose a supported setter for a sibling field from a
