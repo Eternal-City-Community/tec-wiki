@@ -6,7 +6,7 @@ import re
 import subprocess
 
 MAX_DAYS = 90
-EXCLUDED = {"whats-new.md", "page-history.md"}
+EXCLUDED = {"index.md", "whats-new.md", "page-history.md"}
 
 def _title(path):
     text = path.read_text(encoding="utf-8", errors="replace")
