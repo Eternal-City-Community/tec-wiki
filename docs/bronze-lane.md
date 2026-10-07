@@ -47,9 +47,9 @@ LUDUS VALERIUS
 25. Bunk room, Ludus Valerius
 26. Sword/stave/CM/shield trainer: Facitio
 27. Culina, Ludus Valerius: Kint
-28. Ludus Valerius: Berinius
+28. Ludus Valerius: Berinius
 
-29. Fletcher: Arturos
+29\. Fletcher: Arturos
 30. Cruentus Laureola stable
 31. Healers of Light hall
 32. Stelahos School of Pankration: Yorkus & Brissona

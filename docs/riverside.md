@@ -43,7 +43,7 @@ C.   Stone Toga Inn
 18. Officium de Humanitas entrance: A wizened old woman
 19. Item turn-in: Priest Neathius
 
-20. Divortium Auxilii dropbox
+20\. Divortium Auxilii dropbox
 21. Divortium Auxilii HQ
 22. Archives: An old man
 23. Archives: Floralie
