@@ -10,7 +10,7 @@ publish_mode: editorial_workflow
 
 site_url: https://tec-wiki.com
 display_url: https://tec-wiki.com
-logo_url: https://tec-wiki.com/favicon.ico
+logo_url: https://tec-wiki.com/assets/images/favicon.gif
 
 media_folder: docs/assets/uploads
 public_folder: /assets/uploads

@@ -5,6 +5,7 @@ site_url: "https://tec-wiki.com"
 theme:
   name: material
   custom_dir: overrides
+  favicon: assets/images/favicon.gif
   variant: classic
   features:
     - navigation.sections
