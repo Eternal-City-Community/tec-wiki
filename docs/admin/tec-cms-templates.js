@@ -121,10 +121,14 @@
         var title = document.querySelector('input[id*="title"], input[name="title"]');
         if (title && title.value) params.set("title", title.value);
 
-        // Decap dynamic defaults belong on the collection's hash route:
-        // /admin/#/collections/pages/new?body=... . This is the documented
-        // Decap URL shape; putting the query before the hash is ignored.
+        // Decap dynamic defaults belong on the collection's hash route.
+        // Changing that route from an already-dirty new entry invokes Decap's
+        // local-backup warning. The template selection itself is intentional,
+        // so accept that one navigation automatically.
+        var nativeConfirm = window.confirm;
+        window.confirm = function () { return true; };
         window.location.hash = "#/collections/pages/new?" + params.toString();
+        setTimeout(function () { window.confirm = nativeConfirm; }, 1000);
       },
       style: { width:"100%", minHeight:"42px", padding:"8px" }
     }, [
