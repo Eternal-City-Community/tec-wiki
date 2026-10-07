@@ -150,40 +150,54 @@
     register();
   }
 
-  // Decap does not expose a supported setter for a sibling field from a
-  // custom widget. This helper only performs that final handoff to Body.
+  // Populate the sibling Body field through Decap's editor DOM. The rich-text
+  // editor uses a contenteditable ProseMirror surface, so switching modes and
+  // hunting for a textarea is unreliable. Insert the starter as plain text
+  // into the active editor, then dispatch input so Decap records the change.
   document.addEventListener("tec-template-selected", function (event) {
     if (!event.detail || !event.detail.value) return;
     setTimeout(function () {
-      var areas = Array.prototype.slice.call(document.querySelectorAll("textarea"));
-      var area = areas.find(function (x) {
-        var name=(x.getAttribute("name")||"").toLowerCase();
-        var aria=(x.getAttribute("aria-label")||"").toLowerCase();
-        return name==="body" || aria==="body";
+      var labels = Array.prototype.slice.call(document.querySelectorAll("label"));
+      var label = labels.find(function (x) {
+        return /^Body\\b/i.test((x.textContent || "").trim());
       });
+      var host = label && label.parentElement;
+      var area = null;
+      for (var n = 0; host && n < 7; n++, host = host.parentElement) {
+        area = host.querySelector("textarea, [contenteditable=true]");
+        if (area) break;
+      }
+
+      // Fallback for Decap versions where the visible BODY caption is not a
+      // semantic label.
       if (!area) {
-        // Rich Text mode uses a contenteditable surface instead of textarea.
-        var labels=Array.prototype.slice.call(document.querySelectorAll("label"));
-        var label=labels.find(function(x){return /^Body\\b/i.test((x.textContent||"").trim());});
-        var host=label && label.parentElement;
-        for(var n=0; host && n<6; n++,host=host.parentElement){
-          area=host.querySelector("[contenteditable=true], textarea");
-          if(area)break;
-        }
+        var editors = Array.prototype.slice.call(document.querySelectorAll("[contenteditable=true]"));
+        area = editors.find(function (x) {
+          return x.closest && x.closest("[class]") && !x.closest(".tec-parent");
+        }) || document.querySelector("textarea");
       }
       if (!area) return;
+
+      var value = event.detail.value;
       if (area.tagName === "TEXTAREA") {
-        var setter=Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype,"value").set;
-        setter.call(area,event.detail.value);
-        area.dispatchEvent(new Event("input",{bubbles:true}));
-        area.dispatchEvent(new Event("change",{bubbles:true}));
-      } else {
-        // Switch to Markdown using the visible mode control, then retry. This
-        // preserves the Markdown template instead of injecting formatted HTML.
-        var buttons=Array.prototype.slice.call(document.querySelectorAll("button"));
-        var markdown=buttons.find(function(b){return /Markdown/i.test(b.textContent||"");});
-        if(markdown){ markdown.click(); setTimeout(function(){document.dispatchEvent(new CustomEvent("tec-template-selected",{detail:event.detail}));},150); }
+        var setter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, "value").set;
+        setter.call(area, value);
+        area.dispatchEvent(new Event("input", { bubbles: true }));
+        area.dispatchEvent(new Event("change", { bubbles: true }));
+        return;
       }
-    }, 50);
+
+      area.focus();
+      // execCommand is deprecated for general application code, but remains
+      // useful here because it updates contenteditable through the browser's
+      // native editing path, which ProseMirror/Decap observes.
+      document.execCommand("selectAll", false, null);
+      document.execCommand("insertText", false, value);
+      area.dispatchEvent(new InputEvent("input", {
+        bubbles: true,
+        inputType: "insertText",
+        data: value
+      }));
+    }, 75);
   });
 })();
