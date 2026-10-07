@@ -24,6 +24,22 @@ def on_post_build(config, **kwargs):
     site = Path(config["site_dir"]).resolve()
     entries = []
     try:
+        # Cloudflare Workers Builds may check the repository out with shallow
+        # history. At a shallow boundary Git can make the boundary commit look
+        # like it introduced the entire repository, which would put nearly
+        # every wiki page in this feed. Deepen history before inspecting it.
+        shallow = subprocess.run(
+            ["git", "rev-parse", "--is-shallow-repository"],
+            cwd=repo, capture_output=True, text=True, encoding="utf-8",
+            errors="replace", check=False,
+        )
+        if shallow.stdout.strip().lower() == "true":
+            subprocess.run(
+                ["git", "fetch", "--quiet", "--deepen=500", "origin", "main"],
+                cwd=repo, capture_output=True, text=True, encoding="utf-8",
+                errors="replace", check=False, timeout=60,
+            )
+
         # Use an unmistakable line prefix rather than control-character record
         # separators. Git inserts blank lines around --name-only output, and
         # parsing explicit commit header lines keeps filenames attached to the
