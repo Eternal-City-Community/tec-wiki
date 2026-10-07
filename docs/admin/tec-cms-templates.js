@@ -121,7 +121,11 @@
         var title = document.querySelector('input[id*="title"], input[name="title"]');
         if (title && title.value) params.set("title", title.value);
 
-        window.location.hash = "#/collections/pages/new?" + params.toString();
+        // Decap reads dynamic defaults from query parameters placed before the
+        // hash route (e.g. /admin/?body=...#/collections/pages/new), not from
+        // query text appended inside the hash.
+        var base = window.location.pathname;
+        window.location.href = base + "?" + params.toString() + "#/collections/pages/new";
       },
       style: { width:"100%", minHeight:"42px", padding:"8px" }
     }, [
