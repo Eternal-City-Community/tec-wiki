@@ -111,16 +111,9 @@
         props.onChange(choice);
         if (!choice || !templates[choice]) return;
 
-        // Update Decap's immutable entry data as well as the visible editor.
-        // The preview reads entry.data.body, so a DOM-only insertion can appear
-        // in the editor while leaving the preview (and saved entry) unchanged.
-        var entry = props.entry;
-        if (entry && entry.get && entry.set) {
-          var data = entry.get("data");
-          if (data && data.set) {
-            props.entry = entry.set("data", data.set("body", templates[choice]));
-          }
-        }
+        // The template field cannot mutate props.entry: that is only the
+        // immutable snapshot Decap passed to this widget. Ask the Body widget
+        // itself to accept the template through a document event instead.
         document.dispatchEvent(new CustomEvent("tec-template-selected", { detail: { value: templates[choice] } }));
       },
       style: { width:"100%", minHeight:"42px", padding:"8px" }
@@ -157,54 +150,51 @@
     register();
   }
 
-  // Populate the sibling Body field through Decap's editor DOM. The rich-text
-  // editor uses a contenteditable ProseMirror surface, so switching modes and
-  // hunting for a textarea is unreliable. Insert the starter as plain text
-  // into the active editor, then dispatch input so Decap records the change.
+  // Populate Body through Decap's Markdown textarea. React tracks input
+  // values internally, so use the native value setter plus input/change events.
+  // Switching to Markdown first gives us the real controlled textarea rather
+  // than ProseMirror's contenteditable surface.
   document.addEventListener("tec-template-selected", function (event) {
     if (!event.detail || !event.detail.value) return;
-    setTimeout(function () {
-      var labels = Array.prototype.slice.call(document.querySelectorAll("label"));
-      var label = labels.find(function (x) {
-        return /^Body\\b/i.test((x.textContent || "").trim());
-      });
-      var host = label && label.parentElement;
-      var area = null;
-      for (var n = 0; host && n < 7; n++, host = host.parentElement) {
-        area = host.querySelector("textarea, [contenteditable=true]");
-        if (area) break;
-      }
+    var value = event.detail.value;
 
-      // Fallback for Decap versions where the visible BODY caption is not a
-      // semantic label.
-      if (!area) {
-        var editors = Array.prototype.slice.call(document.querySelectorAll("[contenteditable=true]"));
-        area = editors.find(function (x) {
-          return x.closest && x.closest("[class]") && !x.closest(".tec-parent");
-        }) || document.querySelector("textarea");
-      }
-      if (!area) return;
+    function findBodyTextarea() {
+      var areas = Array.prototype.slice.call(document.querySelectorAll("textarea"));
+      if (areas.length === 1) return areas[0];
+      return areas.find(function (x) {
+        var aria = (x.getAttribute("aria-label") || "").toLowerCase();
+        var name = (x.getAttribute("name") || "").toLowerCase();
+        return aria.indexOf("body") >= 0 || name === "body";
+      }) || null;
+    }
 
-      var value = event.detail.value;
-      if (area.tagName === "TEXTAREA") {
-        var setter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, "value").set;
-        setter.call(area, value);
-        area.dispatchEvent(new Event("input", { bubbles: true }));
-        area.dispatchEvent(new Event("change", { bubbles: true }));
-        return;
-      }
-
+    function apply() {
+      var area = findBodyTextarea();
+      if (!area) return false;
       area.focus();
-      // execCommand is deprecated for general application code, but remains
-      // useful here because it updates contenteditable through the browser's
-      // native editing path, which ProseMirror/Decap observes.
-      document.execCommand("selectAll", false, null);
-      document.execCommand("insertText", false, value);
-      area.dispatchEvent(new InputEvent("input", {
-        bubbles: true,
-        inputType: "insertText",
-        data: value
-      }));
-    }, 75);
+      var setter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, "value").set;
+      setter.call(area, value);
+      area.dispatchEvent(new Event("input", { bubbles: true }));
+      area.dispatchEvent(new Event("change", { bubbles: true }));
+      return true;
+    }
+
+    // If already in Markdown mode, update immediately.
+    if (apply()) return;
+
+    // Otherwise switch the Body widget to Markdown. Decap then mounts its
+    // controlled textarea; updating that control changes entry.data.body,
+    // which drives both preview and save.
+    var candidates = Array.prototype.slice.call(document.querySelectorAll("button, label, span"));
+    var markdown = candidates.find(function (el) {
+      return /^Markdown$/i.test((el.textContent || "").trim()) && el.offsetParent !== null;
+    });
+    if (markdown) markdown.click();
+
+    var attempts = 0;
+    var timer = setInterval(function () {
+      attempts += 1;
+      if (apply() || attempts >= 20) clearInterval(timer);
+    }, 50);
   });
 })();
