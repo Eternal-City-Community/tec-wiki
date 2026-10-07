@@ -38,6 +38,7 @@ nav:
   - Community:
       - Character Bios: character-bios.md
       - In-Game News: in-game-news.md
+      - What's New: whats-new.md
       - About the Wiki: about.md
       - Browser Editing: browser-editing.md
 
@@ -51,6 +52,7 @@ hooks:
   - hooks/placeholders.py
   - hooks/list_spacing.py
   - hooks/skill_samples.py
+  - hooks/whats_new.py
 
 markdown_extensions:
   - admonition
@@ -84,3 +86,4 @@ extra_javascript:
   - javascripts/tec-tables.js
   - javascripts/tec-content.js
   - javascripts/tec-page-history.js
+  - javascripts/tec-whats-new.js
