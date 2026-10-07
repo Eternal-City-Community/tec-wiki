@@ -3052,3 +3052,26 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
   color: var(--tec-olive-dark);
   text-decoration: underline;
 }
+
+
+/* What's New: reader-friendly page-level wiki change feed. */
+.tec-whats-new-app { margin: .65rem 0 1.1rem; }
+.tec-whats-new-controls { display:flex; flex-wrap:wrap; gap:.4rem; margin:.55rem 0 .8rem; }
+.tec-whats-new-controls button {
+  padding:.35rem .65rem; border:1px solid #8f8969; border-radius:5px;
+  background:#eee7cc; color:#39461f; cursor:pointer; font:inherit; font-size:.72rem;
+}
+.tec-whats-new-controls button[aria-pressed="true"] { background:#686d37; color:#fffdf1; border-color:#4e5428; }
+.tec-whats-new-list { display:grid; gap:.55rem; }
+.tec-whats-new-entry { padding:.6rem .72rem; border:1px solid #aaa38a; border-radius:7px; background:rgba(248,243,223,.72); }
+.tec-whats-new-entry__title { margin:0 0 .16rem; font-size:.82rem; font-weight:700; }
+.tec-whats-new-entry__meta { color:#665f49; font-size:.66rem; }
+.tec-whats-new-entry__summary { margin:.28rem 0 0; font-size:.74rem; line-height:1.4; }
+.tec-whats-new-empty, .tec-whats-new-error, .tec-whats-new-loading {
+  padding:.65rem .72rem; border:1px solid #aaa38a; border-radius:7px;
+  background:rgba(226,219,186,.5); color:#5f5a48; font-size:.74rem;
+}
+@media screen and (max-width:600px) {
+  .tec-whats-new-controls button { flex:1 1 5rem; min-height:42px; }
+  .tec-whats-new-entry { padding:.58rem .62rem; }
+}
