@@ -16,28 +16,17 @@ The art of chopping trees (not currently available) and transforming them into u
 
 
 | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
-
 | --- | :---: | :---: | :---: | :---: |
-
-| ~ Skills/Actions | ~ Difficulty | ~ Prerequisite | ~ *Beta Only* | ~ *Beta Only* |
-
+| ~ Skills/Actions | ~ Difficulty | ~ Tool Required | ~ *Beta Only* | ~ *Beta Only* |
 | Basic Forestry | Easy | - | 0 | 0 |
-
-| [Fell Trees](#Fell-Trees) | Easy | - | 0 | 0 |
-
-| [Debark Timber](#Debark-Timber) | Easy | - | 0 | 0 |
-
-| [Rough Square Timber](#Rough-Square-Timber) | Easy | - | 0 | 0 |
-
-| [Timber Markup](#TimberMarkup) | Easy | - | 0 | 0 |
-
-| [Crosscut Timber](#CrosscutTimber) | Easy | - | 0 | 0 |
-
-| [Detailed Sawing](#Detailed-Sawing) | Easy | - | 0 | 0 |
-
-| [Planing](#Planing) | Easy | - | 0 | 0 |
-
-| [Lamination](#Lamination) | Easy | - | 0 | 0 |
+| [Fell Trees](#Fell-Trees) | Easy | Axe | 0 | 0 |
+| [Debark Timber](#Debark-Timber) | Easy | Axe | 0 | 0 |
+| [Rough Square Timber](#Rough-Square-Timber) | Easy | Axe | 0 | 0 |
+| [Timber Markup](#TimberMarkup) | Easy | Chalk | 0 | 0 |
+| [Crosscut Timber](#CrosscutTimber) | Easy | Saw | 0 | 0 |
+| [Detailed Sawing](#Detailed-Sawing) | Easy | Saw | 0 | 0 |
+| [Planing](#Planing) | Easy | Hand Plane | 0 | 0 |
+| [Lamination](#Lamination) | Easy | Wood Glue, Wood Clamps | 0 | 0 |
 
 
 
