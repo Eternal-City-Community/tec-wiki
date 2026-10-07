@@ -1,25 +1,13 @@
 ---
 title: Basic Forestry
-category: Crafting & Trade
+category: Reference
 parent: skills
 ---
-\---
-
-title: "Basic Forestry"
-
-category: "Reference"
-
-parent: skills
-
-\---
+# Basic Forestry
 
 
 
-\# Basic Forestry
-
-
-
-\## Skill Overview
+## Skill Overview
 
 
 
@@ -27,55 +15,51 @@ The art of chopping trees (not currently available) and transforming them into u
 
 
 
-\| >> | >> | Skill Info | >> | Ranks Taught by Trainer |
+| >> | >> | Skill Info | >> | Ranks Taught by Trainer |
 
-\| --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 
-\| \~ Skills/Actions | \~ Difficulty | \~ Prerequisite | \~ \*Beta Only\* | ~ \*Beta Only\* |
+| ~ Skills/Actions | ~ Difficulty | ~ Prerequisite | ~ *Beta Only* | ~ *Beta Only* |
 
-\| Basic Forestry | Easy | - | 0 | 0 |
+| Basic Forestry | Easy | - | 0 | 0 |
 
-\| \[Fell Trees](#Fell-Trees) | Easy | - | 0 | 0 |
+| [Fell Trees](#Fell-Trees) | Easy | - | 0 | 0 |
 
-\| \[Debark Timber](#Debark-Timber) | Easy | - | 0 | 0 |
+| [Debark Timber](#Debark-Timber) | Easy | - | 0 | 0 |
 
-\| \[Rough Square Timber](#Rough-Square-Timber) | Easy | - | 0 | 0 |
+| [Rough Square Timber](#Rough-Square-Timber) | Easy | - | 0 | 0 |
 
-\| \[Timber Markup](#TimberMarkup) | Easy | - | 0 | 0 |
+| [Timber Markup](#TimberMarkup) | Easy | - | 0 | 0 |
 
-\| \[Crosscut Timber](#CrosscutTimber) | Easy | - | 0 | 0 |
+| [Crosscut Timber](#CrosscutTimber) | Easy | - | 0 | 0 |
 
-\| \[Detailed Sawing](#Detailed-Sawing) | Easy | - | 0 | 0 |
+| [Detailed Sawing](#Detailed-Sawing) | Easy | - | 0 | 0 |
 
-\| \[Planing](#Planing) | Easy | - | 0 | 0 |
+| [Planing](#Planing) | Easy | - | 0 | 0 |
 
-\| \[Lamination](#Lamination) | Easy | - | 0 | 0 |
-
-\| \[Knife Lift](#Knife-Lift) | Difficult | - | - | 10 |
+| [Lamination](#Lamination) | Easy | - | 0 | 0 |
 
 
 
+#### Notes on Learning
 
+* Only currently available in the Beta-Test area. Fell Trees is not available, other skills can be used.
 
-\#### Notes on Learning
+* The log comes from a tree standing there. Forest timber runs to oak, birch, pine, cedar, walnut, olive, and tilock. Ash, brightash, satinwood, sycamore, dursc, and moskan reach the bench as bought lumber.
 
-\* Only currently available in the Beta-Test area. Fell Trees is not available, other skills can be used.
+* A stand yields a limited run of logs, then needs time to recover. Higher Basic Forestry brings in a fuller, finer log.
 
-\* The log comes from a tree standing there. Forest timber runs to oak, birch, pine, cedar, walnut, olive, and tilock. Ash, brightash, satinwood, sycamore, dursc, and moskan reach the bench as bought lumber.
+* Planks come in three sizes: thin, standard and thick.
 
-\* A stand yields a limited run of logs, then needs time to recover. Higher Basic Forestry brings in a fuller, finer log.
-
-\* Planks come in three sizes: thin, standard and thick.
-
-\* You can use the SAW command to cut planks in halves or quarter planks.
-
-
-
-\## Skill Details
+* You can use the SAW command to cut planks in halves or quarter planks.
 
 
 
-\### Fell Trees  \*fell tree\* {#Fell-Trees}
+## Skill Details
+
+
+
+### Fell Trees  *fell tree* {#Fell-Trees}
 
 
 
@@ -83,11 +67,11 @@ Fell in a forest, with an axe in hand or close by. Keep a hand free if the axe i
 
 
 
-\*\*Required Tools:\*\* one-handed axe or two-handed axe
+**Required Tools:** one-handed axe or two-handed axe
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -95,7 +79,7 @@ Fell in a forest, with an axe in hand or close by. Keep a hand free if the axe i
 
 
 
-\> \*fell tree\*
+> *fell tree*
 
 TBC
 
@@ -105,7 +89,7 @@ TBC
 
 
 
-\### Debark Timber  \*debark <raw timber log>\* {#Debark-Timber}
+### Debark Timber  *debark <raw timber log>* {#Debark-Timber}
 
 
 
@@ -113,11 +97,11 @@ Once a tree has been felled, use a one-handed or two-handed axe to remove the ba
 
 
 
-\*\*Required Tools:\*\* one-handed axe or two-handed axe
+**Required Tools:** one-handed axe or two-handed axe
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -125,13 +109,13 @@ Once a tree has been felled, use a one-handed or two-handed axe to remove the ba
 
 
 
-\> \*debark log\*
+> *debark log*
 
-\[Success: 31, Roll: 5] The bark tears raggedly under your tool, and you have to reset your grip before starting the pass again.
+[Success: 31, Roll: 5] The bark tears raggedly under your tool, and you have to reset your grip before starting the pass again.
 
 
 
-\[Success: 31, Roll: 50] You take a two-handed bronze axe. You scrape away the bark with a two-handed bronze axe in fits and starts, wood shavings and bark chips scattering everywhere. Finished, you set a two-handed bronze axe aside.
+[Success: 31, Roll: 50] You take a two-handed bronze axe. You scrape away the bark with a two-handed bronze axe in fits and starts, wood shavings and bark chips scattering everywhere. Finished, you set a two-handed bronze axe aside.
 
 
 
@@ -139,7 +123,7 @@ Once a tree has been felled, use a one-handed or two-handed axe to remove the ba
 
 
 
-\### Rough Square Timber  \*square <debarked timber log>\* {#Rough-Square-Timber}
+### Rough Square Timber  *square <debarked timber log>* {#Rough-Square-Timber}
 
 
 
@@ -147,11 +131,11 @@ Once the bark has been removed, you must use an axe to square the log before mar
 
 
 
-\*\*Required Tools:\*\* one-handed axe or two-handed axe
+**Required Tools:** one-handed axe or two-handed axe
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -159,9 +143,9 @@ Once the bark has been removed, you must use an axe to square the log before mar
 
 
 
-\> \*square debarked\*
+> *square debarked*
 
-\[Success: 21, Roll: 61] You take a two-handed bronze axe. You hack at the log with a two-handed bronze axe, chips flying in every direction and the resulting faces wandering and uneven. Finished, you set a two-handed bronze axe aside.
+[Success: 21, Roll: 61] You take a two-handed bronze axe. You hack at the log with a two-handed bronze axe, chips flying in every direction and the resulting faces wandering and uneven. Finished, you set a two-handed bronze axe aside.
 
 
 
@@ -169,7 +153,7 @@ Once the bark has been removed, you must use an axe to square the log before mar
 
 
 
-\### Crosscut Timber \*crosscut <rough-squared timber>\* {#Crosscut-Timber}
+### Crosscut Timber *crosscut <rough-squared timber>* {#Crosscut-Timber}
 
 
 
@@ -177,11 +161,11 @@ Using a woodworking saw .... Ranks in crosscut increase plank quality, reduce ro
 
 
 
-\*\*Required Tools:\*\* a woodworking saw
+**Required Tools:** a woodworking saw
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -189,15 +173,15 @@ Using a woodworking saw .... Ranks in crosscut increase plank quality, reduce ro
 
 
 
-\> \*crosscut rough-squared\*
+> *crosscut rough-squared*
 
 
 
-\[Success: 15, Roll: 15] The saw binds in the kerf, and you have to ease it back and start the cut again.
+[Success: 15, Roll: 15] The saw binds in the kerf, and you have to ease it back and start the cut again.
 
 
 
-\[Success: 15, Roll: 20] You take a bronze woodworking saw. You drag a bronze woodworking saw through the timber in halting strokes, the kerf wandering and the cut faces ragged. Finished, you set a bronze woodworking saw aside.
+[Success: 15, Roll: 20] You take a bronze woodworking saw. You drag a bronze woodworking saw through the timber in halting strokes, the kerf wandering and the cut faces ragged. Finished, you set a bronze woodworking saw aside.
 
 
 
@@ -205,7 +189,7 @@ Using a woodworking saw .... Ranks in crosscut increase plank quality, reduce ro
 
 
 
-\### Timber Markup \*markup <crosscut timber>\* {#Timber-Markup}
+### Timber Markup *markup <crosscut timber>* {#Timber-Markup}
 
 
 
@@ -213,11 +197,11 @@ Using a piece of chalk, you mark a set of lines where the wood will be cut to tu
 
 
 
-\*\*Required Tools:\*\* a piece of chalk
+**Required Tools:** a piece of chalk
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -225,11 +209,11 @@ Using a piece of chalk, you mark a set of lines where the wood will be cut to tu
 
 
 
-\> \*markup crosscut\*
+> *markup crosscut*
 
 
 
-\[Success: 16, Roll: 91] You scratch a rough set of layout lines along the timber, dividing it into five slabs. The kerfs wander a little, but the plan will hold.
+[Success: 16, Roll: 91] You scratch a rough set of layout lines along the timber, dividing it into five slabs. The kerfs wander a little, but the plan will hold.
 
 
 
@@ -237,7 +221,7 @@ Using a piece of chalk, you mark a set of lines where the wood will be cut to tu
 
 
 
-\### Detailed Sawing \*detail saw <crosscut timber|rough timber slab>\* {#Detailed-Sawing}
+### Detailed Sawing *detail saw <crosscut timber|rough timber slab>* {#Detailed-Sawing}
 
 
 
@@ -245,11 +229,11 @@ Once the wood has been laid out for cutting, you must first cut a slab off from 
 
 
 
-\*\*Required Tools:\*\* a woodworking saw
+**Required Tools:** a woodworking saw
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -257,15 +241,15 @@ Once the wood has been laid out for cutting, you must first cut a slab off from 
 
 
 
-\> \*detail saw crosscut\*
+> *detail saw crosscut*
 
-\[Success: 1, Roll: 10] You wrestle a bronze woodworking saw through the layout marks and a rough slab parts free of the timber. Four more to go.
+[Success: 1, Roll: 10] You wrestle a bronze woodworking saw through the layout marks and a rough slab parts free of the timber. Four more to go.
 
 
 
-\> \*detail saw slab\*
+> *detail saw slab*
 
-\[Success: 1, Roll: 67] You finish the slab and a rough thick plank parts free. The remaining scrap is brushed aside and discarded.
+[Success: 1, Roll: 67] You finish the slab and a rough thick plank parts free. The remaining scrap is brushed aside and discarded.
 
 
 
@@ -273,7 +257,7 @@ Once the wood has been laid out for cutting, you must first cut a slab off from 
 
 
 
-\### Planing \*planing <rough plank>\* {#Planing}
+### Planing *planing <rough plank>* {#Planing}
 
 
 
@@ -281,11 +265,11 @@ To finish the plank, you will have to use a hand plane and run it along the roug
 
 
 
-\*\*Required Tools:\*\* a hand plane
+**Required Tools:** a hand plane
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -293,9 +277,9 @@ To finish the plank, you will have to use a hand plane and run it along the roug
 
 
 
-\> \*plane rough\*
+> *plane rough*
 
-\[Success: 5, Roll: 62] You take a bronze hand plane. You shove a bronze hand plane along the rough thin plank in jerky pushes, curls tearing free at odd angles and the surface still uneven. Finished, you set a bronze hand plane aside.
+[Success: 5, Roll: 62] You take a bronze hand plane. You shove a bronze hand plane along the rough thin plank in jerky pushes, curls tearing free at odd angles and the surface still uneven. Finished, you set a bronze hand plane aside.
 
 
 
@@ -303,7 +287,7 @@ To finish the plank, you will have to use a hand plane and run it along the roug
 
 
 
-\### Lamination \*laminate <finished plank> and <finished plank 2>\* {#Lamination}
+### Lamination *laminate <finished plank> and <finished plank 2>* {#Lamination}
 
 
 
@@ -311,15 +295,15 @@ To change the thickness of a plank, you may use two planks and combine them with
 
 
 
-\*\*Requirements:\*\* Matching planks must be of same quality. Matching planks must be of the same wood.
+**Requirements:** Matching planks must be of same quality. Matching planks must be of the same wood.
 
 
 
-\*\*Required Tools:\*\* wood glue, woodworking clamps
+**Required Tools:** wood glue, woodworking clamps
 
 
 
-\*\*When you see this in use you see:\*\*
+**When you see this in use you see:**
 
 
 
@@ -327,9 +311,9 @@ To change the thickness of a plank, you may use two planks and combine them with
 
 
 
-\> \*laminate plank and 2 plank\*
+> *laminate plank and 2 plank*
 
-\[Success: 1, Roll: 14] You smear glue from a small glass jar filled with thick amber glue across the plank faces and wrestle them into a pair of bronze woodworking clamps, cranking the jaws down until the seam grudgingly closes. When you release the pressure, a fresh standard black walnut plank remains, the glue line a bit sloppy but sound.
+[Success: 1, Roll: 14] You smear glue from a small glass jar filled with thick amber glue across the plank faces and wrestle them into a pair of bronze woodworking clamps, cranking the jaws down until the seam grudgingly closes. When you release the pressure, a fresh standard black walnut plank remains, the glue line a bit sloppy but sound.
 
 
 
