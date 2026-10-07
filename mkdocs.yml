@@ -45,6 +45,12 @@ nav:
 plugins:
   - search
 
+# TEC internal links intentionally use root-relative URLs such as /skills/.
+# Silence only MkDocs' absolute-link diagnostics; keep broken/missing-link
+# validation and all other build diagnostics enabled.
+validation:
+  absolute_links: ignore
+
 hooks:
   - hooks/listpages.py
   - hooks/breadcrumbs.py
