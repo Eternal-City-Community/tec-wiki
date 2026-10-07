@@ -71,14 +71,10 @@ collections:
         widget: string
         required: false
         hint: Optional metadata title. The visible page heading can also remain in the body.
-      - label: Page Template
-        name: page_template
-        widget: tec-template
-        required: false
-        hint: Optional for new pages. Blank is the default; skill templates seed the Body with the established wiki structure.
       - label: Body
         name: body
-        widget: markdown
+        widget: tec-body
+        hint: Choose a starter template for a new skill page, or edit the Markdown directly.
       - label: Category
         name: category
         widget: select
