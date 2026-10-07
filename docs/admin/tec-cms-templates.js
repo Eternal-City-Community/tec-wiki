@@ -121,11 +121,10 @@
         var title = document.querySelector('input[id*="title"], input[name="title"]');
         if (title && title.value) params.set("title", title.value);
 
-        // Decap reads dynamic defaults from query parameters placed before the
-        // hash route (e.g. /admin/?body=...#/collections/pages/new), not from
-        // query text appended inside the hash.
-        var base = window.location.pathname;
-        window.location.href = base + "?" + params.toString() + "#/collections/pages/new";
+        // Decap dynamic defaults belong on the collection's hash route:
+        // /admin/#/collections/pages/new?body=... . This is the documented
+        // Decap URL shape; putting the query before the hash is ignored.
+        window.location.hash = "#/collections/pages/new?" + params.toString();
       },
       style: { width:"100%", minHeight:"42px", padding:"8px" }
     }, [
