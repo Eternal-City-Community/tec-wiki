@@ -373,6 +373,7 @@ Dates are the publication dates of the [GitHub releases](https://github.com/cybe
 <!-- praetor-release-history:start -->
 | Release | Date | Major features and changes |
 | --- | --- | --- |
+| [v0.5.2](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.2) | 2026-10-07 | Add start-of-line and end-of-line anchors to Lua reaction patterns, preventing embedded text such as NPC dialogue from triggering automation rules intended for complete game responses. |
 | [v0.5.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.1) | 2026-10-06 | Advertise all supported Lua completion handoffs consistently in mode command hints and the mode picker, including mode switches with arguments, direct game commands, and PraetorScript expressions. |
 | [v0.5.0](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.0) | 2026-10-06 | Introduce PraetorScript with configurable paced and unbusy chains, variables and fallbacks, waits, titled notifications, bounded reactions, and success- or count-based repeats; add Automation Bar status and cancellation; allow Lua modes to submit PraetorScript; refresh mode hints on script reload; and improve GUI responsiveness and sticky scrollback behavior. |
 | [v0.4.15](https://github.com/cyber-godzilla/praetor/releases/tag/v0.4.15) | 2026-09-24 | Render variables in Action Set `/mode` commands and validate the resulting command before dispatch. |
