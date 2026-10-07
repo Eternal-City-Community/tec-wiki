@@ -103,18 +103,25 @@
 
   function TemplateControl(props) {
     var h = window.h || (window.React && window.React.createElement);
-    var value = props.value || "";
     return h("select", {
-      value: value,
+      value: "",
       onChange: function (event) {
         var choice = event.target.value;
-        props.onChange(choice);
         if (!choice || !templates[choice]) return;
 
-        // The template field cannot mutate props.entry: that is only the
-        // immutable snapshot Decap passed to this widget. Ask the Body widget
-        // itself to accept the template through a document event instead.
-        document.dispatchEvent(new CustomEvent("tec-template-selected", { detail: { value: templates[choice] } }));
+        // Decap officially supports dynamic defaults on the /new route,
+        // including the special body field. Re-open the new-entry route with
+        // the selected starter as the body instead of trying to mutate a
+        // sibling widget through unsupported DOM/React internals.
+        var params = new URLSearchParams();
+        params.set("body", templates[choice]);
+        params.set("category", choice === "combat" ? "Skills & Combat" : "Crafting & Trade");
+
+        // Preserve a title already typed before choosing the starter.
+        var title = document.querySelector('input[id*="title"], input[name="title"]');
+        if (title && title.value) params.set("title", title.value);
+
+        window.location.hash = "#/collections/pages/new?" + params.toString();
       },
       style: { width:"100%", minHeight:"42px", padding:"8px" }
     }, [
@@ -150,51 +157,4 @@
     register();
   }
 
-  // Populate Body through Decap's Markdown textarea. React tracks input
-  // values internally, so use the native value setter plus input/change events.
-  // Switching to Markdown first gives us the real controlled textarea rather
-  // than ProseMirror's contenteditable surface.
-  document.addEventListener("tec-template-selected", function (event) {
-    if (!event.detail || !event.detail.value) return;
-    var value = event.detail.value;
-
-    function findBodyTextarea() {
-      var areas = Array.prototype.slice.call(document.querySelectorAll("textarea"));
-      if (areas.length === 1) return areas[0];
-      return areas.find(function (x) {
-        var aria = (x.getAttribute("aria-label") || "").toLowerCase();
-        var name = (x.getAttribute("name") || "").toLowerCase();
-        return aria.indexOf("body") >= 0 || name === "body";
-      }) || null;
-    }
-
-    function apply() {
-      var area = findBodyTextarea();
-      if (!area) return false;
-      area.focus();
-      var setter = Object.getOwnPropertyDescriptor(HTMLTextAreaElement.prototype, "value").set;
-      setter.call(area, value);
-      area.dispatchEvent(new Event("input", { bubbles: true }));
-      area.dispatchEvent(new Event("change", { bubbles: true }));
-      return true;
-    }
-
-    // If already in Markdown mode, update immediately.
-    if (apply()) return;
-
-    // Otherwise switch the Body widget to Markdown. Decap then mounts its
-    // controlled textarea; updating that control changes entry.data.body,
-    // which drives both preview and save.
-    var candidates = Array.prototype.slice.call(document.querySelectorAll("button, label, span"));
-    var markdown = candidates.find(function (el) {
-      return /^Markdown$/i.test((el.textContent || "").trim()) && el.offsetParent !== null;
-    });
-    if (markdown) markdown.click();
-
-    var attempts = 0;
-    var timer = setInterval(function () {
-      attempts += 1;
-      if (apply() || attempts >= 20) clearInterval(timer);
-    }, 50);
-  });
 })();
