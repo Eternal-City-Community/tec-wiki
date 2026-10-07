@@ -6,7 +6,7 @@ parent: iridine
 
 # Bronze Lane
 
-[![](/assets/wikidot/bronze-lane/iridine-bronzelane.gif)](/assets/wikidot/bronze-lane/iridine-bronzelane.gif)
+[![](/assets/wikidot/bronze-lane/iridine-bronzelane.png)](/assets/wikidot/bronze-lane/iridine-bronzelane.png)
 
 **Related Maps**
 [Riverside](/riverside/)
@@ -54,3 +54,4 @@ LUDUS VALERIUS
 31. Healers of Light hall
 32. Stelahos School of Pankration: Yorkus & Brissona
 33. Pankration trainer: Stelahos
+34. Gladii: Dalkos
