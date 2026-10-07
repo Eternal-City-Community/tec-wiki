@@ -10,7 +10,7 @@ parent: iridine
 > 
 > Herein lies a burying ground that, depending on who you ask, contains the sarcophagi of plague victims, the well-to-do, or even the original tomb of the Priestess Iridine. Whomever it was, time has forgotten.
 
-[![](/assets/wikidot/files/iridine-oldcitymoondeep.gif)](/assets/wikidot/files/iridine-oldcitymoondeep.gif)
+[![](/assets/wikidot/files/iridine-oldcitymoondeep-2026.png)](/assets/wikidot/files/iridine-oldcitymoondeep-2026.png)
 
 **Related Maps**
 [Bronze Lane](/bronze-lane/)

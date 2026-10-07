@@ -6,7 +6,7 @@ parent: iridine
 
 # Bronze Lane
 
-[![](/assets/wikidot/bronze-lane/iridine-bronzelane.png)](/assets/wikidot/bronze-lane/iridine-bronzelane.png)
+[![](/assets/wikidot/bronze-lane/iridine-bronzelane-2026.png)](/assets/wikidot/bronze-lane/iridine-bronzelane-2026.png)
 
 **Related Maps**
 [Riverside](/riverside/)
@@ -55,3 +55,10 @@ LUDUS VALERIUS
 32. Stelahos School of Pankration: Yorkus & Brissona
 33. Pankration trainer: Stelahos
 34. Gladii: Dalkos
+35. Leatherworking supplies: Corvalia
+36. Stamp store: a grizzled engraver
+37. Leather consignment shop: Priscla
+38. Leatherworking trainer: Malktros
+39. Jeweler supplies: Rhampha
+40. Jeweler trainer: Captuo
+41. Jewelery consignment shop: Kindalia
