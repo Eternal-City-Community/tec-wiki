@@ -22,9 +22,13 @@ def on_post_build(config, **kwargs):
     repo = Path(config["config_file_path"]).resolve().parent
     docs = Path(config["docs_dir"]).resolve()
     site = Path(config["site_dir"]).resolve()
-    marker = "%x1e%H%x1f%aI%x1f%an%x1f%s"
     entries = []
     try:
+        # Use an unmistakable line prefix rather than control-character record
+        # separators. Git inserts blank lines around --name-only output, and
+        # parsing explicit commit header lines keeps filenames attached to the
+        # commit that actually changed them.
+        marker = "TEC_WIKI_COMMIT|%H|%aI|%an|%s"
         result = subprocess.run(
             ["git", "log", "--since=%d days ago" % MAX_DAYS, "--date=iso-strict",
              "--pretty=format:" + marker, "--name-only", "--", "docs"],
@@ -32,36 +36,38 @@ def on_post_build(config, **kwargs):
             errors="replace", check=True,
         )
         newest = {}
-        for record in result.stdout.split("\x1e"):
-            record = record.strip()
-            if not record:
+        current = None
+        for raw_line in result.stdout.splitlines():
+            line = raw_line.strip()
+            if not line:
                 continue
-            lines = record.splitlines()
-            meta = lines[0].split("\x1f", 3)
-            if len(meta) != 4:
+            if line.startswith("TEC_WIKI_COMMIT|"):
+                meta = line.split("|", 4)
+                current = meta[1:] if len(meta) == 5 else None
                 continue
-            sha, date, author, message = meta
-            for filename in lines[1:]:
-                filename = filename.strip().replace("\\", "/")
-                if not filename.startswith("docs/") or not filename.endswith(".md"):
-                    continue
-                rel = filename[5:]
-                if rel.startswith("admin/") or rel in EXCLUDED:
-                    continue
-                source = docs / rel
-                if not source.is_file():
-                    continue
-                slug = rel[:-3]
-                if slug.endswith("/index"):
-                    slug = slug[:-6]
-                if slug in newest:
-                    continue
-                newest[slug] = {
-                    "title": _title(source),
-                    "url": "/" if rel == "index.md" else "/" + slug.strip("/") + "/",
-                    "date": date,
-                    "summary": message.splitlines()[0].strip() or "Page updated",
-                }
+            if current is None:
+                continue
+            sha, date, author, message = current
+            filename = line.replace("\\", "/")
+            if not filename.startswith("docs/") or not filename.endswith(".md"):
+                continue
+            rel = filename[5:]
+            if rel.startswith("admin/") or rel in EXCLUDED:
+                continue
+            source = docs / rel
+            if not source.is_file():
+                continue
+            slug = rel[:-3]
+            if slug.endswith("/index"):
+                slug = slug[:-6]
+            if slug in newest:
+                continue
+            newest[slug] = {
+                "title": _title(source),
+                "url": "/" if rel == "index.md" else "/" + slug.strip("/") + "/",
+                "date": date,
+                "summary": message.splitlines()[0].strip() or "Page updated",
+            }
         entries = sorted(newest.values(), key=lambda item: item["date"], reverse=True)
     except (OSError, subprocess.CalledProcessError):
         pass
