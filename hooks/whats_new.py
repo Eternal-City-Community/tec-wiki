@@ -35,7 +35,7 @@ def on_post_build(config, **kwargs):
         )
         if shallow.stdout.strip().lower() == "true":
             subprocess.run(
-                ["git", "fetch", "--quiet", "--deepen=500", "origin", "main"],
+                ["git", "fetch", "--quiet", "--unshallow", "origin", "main"],
                 cwd=repo, capture_output=True, text=True, encoding="utf-8",
                 errors="replace", check=False, timeout=60,
             )
