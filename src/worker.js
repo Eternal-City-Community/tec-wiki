@@ -121,7 +121,7 @@ async function handleCallback(request, env) {
 }
 
 
-const REPO = "herdias/tec-wiki";
+const REPO = "Eternal-City-Community/tec-wiki";
 
 function jsonResponse(data, status = 200) {
   return new Response(JSON.stringify(data), {
