@@ -73,8 +73,8 @@ collections:
         hint: Optional metadata title. The visible page heading can also remain in the body.
       - label: Body
         name: body
-        widget: tec-body
-        hint: Choose a starter template for a new skill page, or edit the Markdown directly.
+        widget: markdown
+        hint: Use the + menu in the editor toolbar to insert a Combat Skill or Crafting Skill starter template.
       - label: Category
         name: category
         widget: select
