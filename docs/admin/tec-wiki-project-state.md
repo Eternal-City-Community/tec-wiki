@@ -581,3 +581,5 @@ At the beginning of a fresh TEC Wiki chat:
 - Added new-page starter templates to the Decap editor: Blank page (default), Combat Skill based structurally on Tridents, and Crafting Skill based structurally on Jewelry.
 - Templates only seed the Body field and do not add template metadata or create a runtime dependency. Mechanics/trainer values/commands remain placeholders until confirmed for the new page.
 - Corrected the Worker Page History repository target to the canonical organization repository.
+
+- 2026-10-07: Cloudflare missed the automatic build trigger for commit `4e2ca2355ad23a29f8670c2e184e7bb2db319048`; follow-up commit created to retrigger the Git integration.
