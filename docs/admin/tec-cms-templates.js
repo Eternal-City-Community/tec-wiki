@@ -110,10 +110,17 @@
         var choice = event.target.value;
         props.onChange(choice);
         if (!choice || !templates[choice]) return;
-        var body = props.forID && props.forID.split("-").slice(0,-1).join("-");
-        // Decap gives widgets access to the current entry through metadata in
-        // some versions, but not a supported cross-field setter. Emit a
-        // document event; the body helper below applies the selected starter.
+
+        // Update Decap's immutable entry data as well as the visible editor.
+        // The preview reads entry.data.body, so a DOM-only insertion can appear
+        // in the editor while leaving the preview (and saved entry) unchanged.
+        var entry = props.entry;
+        if (entry && entry.get && entry.set) {
+          var data = entry.get("data");
+          if (data && data.set) {
+            props.entry = entry.set("data", data.set("body", templates[choice]));
+          }
+        }
         document.dispatchEvent(new CustomEvent("tec-template-selected", { detail: { value: templates[choice] } }));
       },
       style: { width:"100%", minHeight:"42px", padding:"8px" }
