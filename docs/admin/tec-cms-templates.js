@@ -1,4 +1,6 @@
-// Starter layouts for new pages. Choosing one only seeds the Body editor.
+// Body editor with reliable starter templates for new wiki pages.
+// The template selector lives inside the Body widget so Decap's supported
+// onChange callback updates the actual body field and preview immediately.
 (function () {
   var templates = {
     combat: `# [Combat Skill Name]
@@ -11,7 +13,7 @@
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisites | ~ [Trainer] | ~ [Trainer] |
 | *<u>[Combat Skill]</u>* | [Difficulty] | - | - | - | - | [Rank] | [Rank] |
-| [[Action Name]](#Action-Name) | [Difficulty] | [Hands] | [Range] | [Wound] | [Prerequisite] | [Rank] | [Rank] |
+| [Action Name](#Action-Name) | [Difficulty] | [Hands] | [Range] | [Wound] | [Prerequisite] | [Rank] | [Rank] |
 
 **Directions to [Trainer]** ([Location](/location/)): [Directions]
 
@@ -43,7 +45,7 @@
 | --- | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ [Trainer] |
 | <u>*Basic [Craft]*</u> | [Difficulty] | [Rank] |
-| [[Crafting Action]](#Crafting-Action) | [Difficulty] | [Rank] |
+| [Crafting Action](#Crafting-Action) | [Difficulty] | [Rank] |
 
 <a id="Recipes"></a>
 
@@ -97,71 +99,78 @@
 
 ### See Also
 
-* [[Crafting Skill Name] Guide](/[crafting-skill]-guide/)
+* [Crafting Skill Guide](/crafting-skill-guide/)
 `
   };
 
-  function TemplateControl(props) {
-    var h = window.h || (window.React && window.React.createElement);
-    return h("select", {
-      value: "",
-      onChange: function (event) {
-        var choice = event.target.value;
-        if (!choice || !templates[choice]) return;
-
-        // Decap officially supports dynamic defaults on the /new route,
-        // including the special body field. Re-open the new-entry route with
-        // the selected starter as the body instead of trying to mutate a
-        // sibling widget through unsupported DOM/React internals.
-        var params = new URLSearchParams();
-        params.set("body", templates[choice]);
-        params.set("category", choice === "combat" ? "Skills & Combat" : "Crafting & Trade");
-
-        // Preserve a title already typed before choosing the starter.
-        var title = document.querySelector('input[id*="title"], input[name="title"]');
-        if (title && title.value) params.set("title", title.value);
-
-        // Decap dynamic defaults belong on the collection's hash route.
-        // Changing that route from an already-dirty new entry invokes Decap's
-        // local-backup warning. The template selection itself is intentional,
-        // so accept that one navigation automatically.
-        var nativeConfirm = window.confirm;
-        window.confirm = function () { return true; };
-        window.location.hash = "#/collections/pages/new?" + params.toString();
-        setTimeout(function () { window.confirm = nativeConfirm; }, 1000);
-      },
-      style: { width:"100%", minHeight:"42px", padding:"8px" }
-    }, [
-      h("option",{key:"blank",value:""},"Blank page"),
-      h("option",{key:"combat",value:"combat"},"Combat Skill — based on Tridents"),
-      h("option",{key:"crafting",value:"crafting"},"Crafting Skill — based on Jewelry")
-    ]);
-  }
-
-  function TemplatePreview(props) {
-    var h = window.h || (window.React && window.React.createElement);
-    return h("div", {}, props.value ? "Starter template: " + props.value : "Blank page");
-  }
-
   function register() {
-    // Decap exposes the same global createClass()/h() compatibility API used
-    // by our working Parent page widget. createClass expects a component spec
-    // object, not a function component.
     var Control = createClass({
+      getInitialState: function () {
+        return { template: "" };
+      },
+
+      applyTemplate: function (event) {
+        var choice = event.target.value;
+        if (!choice || !templates[choice]) {
+          this.setState({ template: "" });
+          return;
+        }
+
+        var current = this.props.value || "";
+        if (current.trim() && current !== templates[choice]) {
+          if (!window.confirm("Replace the current Body with the selected starter template?")) {
+            event.target.value = this.state.template || "";
+            return;
+          }
+        }
+
+        this.props.onChange(templates[choice]);
+        this.setState({ template: choice });
+      },
+
       render: function () {
-        return TemplateControl(this.props);
+        var self = this;
+        return h("div", { className: this.props.classNameWrapper },
+          h("div", { style: { marginBottom: "10px" } },
+            h("label", { style: { display: "block", fontWeight: "600", marginBottom: "6px" } }, "Starter template"),
+            h("select", {
+              value: this.state.template,
+              onChange: this.applyTemplate,
+              style: { width: "100%", minHeight: "42px", padding: "8px" }
+            }, [
+              h("option", { key: "blank", value: "" }, "Blank page"),
+              h("option", { key: "combat", value: "combat" }, "Combat Skill — based on Tridents"),
+              h("option", { key: "crafting", value: "crafting" }, "Crafting Skill — based on Jewelry")
+            ])),
+          h("textarea", {
+            id: this.props.forID,
+            value: this.props.value || "",
+            onChange: function (event) { self.props.onChange(event.target.value); },
+            spellCheck: true,
+            style: {
+              width: "100%", minHeight: "560px", boxSizing: "border-box",
+              resize: "vertical", padding: "12px", border: "1px solid #dfdfe3",
+              borderRadius: "4px", fontFamily: "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace",
+              fontSize: "14px", lineHeight: "1.5"
+            }
+          }));
       }
     });
+
     var Preview = createClass({
       render: function () {
-        return TemplatePreview(this.props);
+        var value = this.props.value || "";
+        var html = window.marked && window.marked.parse
+          ? window.marked.parse(value, { gfm: true })
+          : "<pre>" + value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;") + "</pre>";
+        return h("div", { dangerouslySetInnerHTML: { __html: html } });
       }
     });
-    CMS.registerWidget("tec-template", Control, Preview);
+
+    CMS.registerWidget("tec-body", Control, Preview);
   }
 
   if (window.CMS && typeof window.createClass === "function" && typeof window.h === "function") {
     register();
   }
-
 })();
