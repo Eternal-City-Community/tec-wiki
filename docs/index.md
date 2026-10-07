@@ -31,6 +31,14 @@ Those familiar with the Game-world may find it more fun to jump into [character 
 
 Check out the sidebar for other helpful categories.
 
+### What's New in the Wiki {#WhatsNew}
+
+<div class="tec-whats-new-app" data-limit="5" data-days="30">
+  <div class="tec-whats-new-loading">Loading recent wiki changes…</div>
+</div>
+
+[See all recent wiki changes](/whats-new/)
+
 - - -
 
 ### About the Game
