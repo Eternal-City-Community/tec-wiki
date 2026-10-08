@@ -85,10 +85,15 @@ Auxilii are volunteer players who have the ability to communicate with you OOC t
 
 ##### AUXCHAT:
 
-***Syntax: aux-chat <message>***
+***Syntax: aux-chat [message]***
 
 If you have an OOC question about the game the Auxilii is there to help new and old players alike.
 
+If no one responds, an Auxilii may not be available. You can also use: 
+##### ASSIST:
+***Syntax: assist [message]***
+
+This will save a question to am in-game forum that the Auxilii have access to and can respond back to when they are available. 
 ## Contacting ThreeSeas LLC
 
 Please send an e-mail to cs@eternalcitygame.com for the following issues:
