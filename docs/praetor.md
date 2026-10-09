@@ -373,6 +373,7 @@ Dates are the publication dates of the [GitHub releases](https://github.com/cybe
 <!-- praetor-release-history:start -->
 | Release | Date | Major features and changes |
 | --- | --- | --- |
+| [v0.5.4](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.4) | 2026-10-09 | Route typed /mode and /sm commands through Praetor's shared command parser so single-word arguments keep working and quoted multiword values such as from:"2 sack" reach Lua modes as one argument in the desktop and web clients. |
 | [v0.5.3](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.3) | 2026-10-09 | Allow local command arguments, including Lua mode options, to group multiword values with double quotes so references such as `from:2 sack` arrive as one argument consistently in the GUI, terminal client, and PraetorScript. |
 | [v0.5.2](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.2) | 2026-10-07 | Add start-of-line and end-of-line anchors to Lua reaction patterns, preventing embedded text such as NPC dialogue from triggering automation rules intended for complete game responses. |
 | [v0.5.1](https://github.com/cyber-godzilla/praetor/releases/tag/v0.5.1) | 2026-10-06 | Advertise all supported Lua completion handoffs consistently in mode command hints and the mode picker, including mode switches with arguments, direct game commands, and PraetorScript expressions. |
