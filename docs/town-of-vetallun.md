@@ -21,7 +21,7 @@ A strategic village that serves as the last line of defense against northern inv
 <summary>+ Show Map</summary>
 
 
-[Visit the Map Page](/town-of-vetallun/)
+[Visit the Map Page](/vetallun/)
 
 
 [![](/assets/wikidot/files/invexriverdelta-vetallun-2025.png)](/assets/wikidot/files/invexriverdelta-vetallun-2025.png)

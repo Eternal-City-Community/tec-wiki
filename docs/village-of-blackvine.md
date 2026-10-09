@@ -20,7 +20,7 @@ The current governor is [bio:Sedivain Oradanae](/bio_sedivain-oradanae/), assist
 <summary>+ Show Map</summary>
 
 
-[Visit the Map Page](/village-of-blackvine/)
+[Visit the Map Page](/blackvine/)
 
 
 [![](/assets/wikidot/files/blackvine%202025-10.png)](/assets/wikidot/files/blackvine%202025-10.png)

@@ -24,7 +24,7 @@ Years later, during the 315th Year of the Republic, whispers began circulating i
 <summary>+ Show Map</summary>
 
 
-[Visit the Map Page](/town-of-franlius/)
+[Visit the Map Page](/franlius/)
 
 
 The **[Town of Franlius](/town-of-franlius/)** is currently **under attack by undead soldiers**, due to an ongoing storyline run by the Game Masters.

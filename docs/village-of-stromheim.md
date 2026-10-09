@@ -24,7 +24,7 @@ These barbarians are friendly, but they do not talk our language or tolerate vio
 <summary>+ Show Map</summary>
 
 
-[Visit the Map Page](/village-of-stromheim/)
+[Visit the Map Page](/stromheim/)
 
 
 [![](/assets/wikidot/files/Rockvalley-stromheim1.gif)](/assets/wikidot/files/Rockvalley-stromheim1.gif)

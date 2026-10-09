@@ -18,7 +18,7 @@ This small town is located along the river ferry ride from the [Town of Vetallun
 <summary>+ Show Map</summary>
 
 
-[Visit the Map Page](/village-of-seld/)
+[Visit the Map Page](/seld/)
 
 
 [![](/assets/wikidot/files/EastoftheSalinaeRiver-Seld1.gif)](/assets/wikidot/files/EastoftheSalinaeRiver-Seld1.gif)
