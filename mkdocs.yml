@@ -60,6 +60,7 @@ hooks:
   - hooks/list_spacing.py
   - hooks/skill_samples.py
   - hooks/whats_new.py
+  - hooks/shops.py
 
 markdown_extensions:
   - admonition

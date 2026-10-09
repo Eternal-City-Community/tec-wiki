@@ -4,56 +4,24 @@ function initTecShops() {
   root.dataset.initialized = "1";
   root.innerHTML = '<div class="tec-shops-loading">Loading shop inventories…</div>';
 
-  fetch("/assets/wikidot/files/shop_inventories_2026_03_26.txt")
+  // Built from docs/data/shops.txt by hooks/shops.py; data-src is the content-hashed copy.
+  fetch(root.dataset.src || "/assets/shops.json")
     .then(function(r) {
       if (!r.ok) throw new Error("Could not load shop inventory data.");
-      return r.text();
+      return r.json();
     })
-    .then(function(source) {
-      var m = source.match(/SHOP_DATA\s*=\s*`([\s\S]*?)`/);
-      if (!m) throw new Error("Shop inventory data could not be parsed.");
-      build(m[1]);
-    })
+    .then(build)
     .catch(function(err) {
       root.innerHTML = '<div class="tec-shops-error">' + err.message + '</div>';
     });
 
-  function parse(data) {
-    var locations = [];
-    var currentLocation = null;
-    var currentShop = null;
-    var locationRe = /^\s*\*\*\*([^*]+)\*\*\*(?:\s*\[\s*wikipage\s*=\s*([^\]]+)\])?/;
-    var shopRe = /^\s*---((?:(?!\().)+?)\s*(?:\(([^)]+)\))?---(?:\s*\[.*(rotating.*stock).*\])?/i;
-    var itemRe = /^\s*((?:(?!---|\*\*\*)[^\n])+?)\s*((?:\d+(?:t|d|st|s| tokens)\b\s*)+)\s*(?:\[\s*([^\]]+?)\s*\]\s*)?$/i;
-
-    data.split(/\r?\n/).forEach(function(line) {
-      if (!line.trim()) return;
-      var x = line.match(locationRe);
-      if (x) {
-        currentLocation = { name:x[1].trim(), page:(x[2]||"").trim(), shops:[] };
-        locations.push(currentLocation);
-        currentShop = null;
-        return;
-      }
-      x = line.match(shopRe);
-      if (x && currentLocation) {
-        currentShop = {
-          name:x[1].trim(),
-          keeper:(x[2]||"").trim(),
-          rotating:!!x[3],
-          items:[]
-        };
-        currentLocation.shops.push(currentShop);
-        return;
-      }
-      x = line.match(itemRe);
-      if (x && currentShop) {
-        currentShop.items.push({
-          name:x[1].trim(),
-          price:x[2].trim().replace(/\s+/g," "),
-          options:(x[3]||"").trim()
+  function expand(locations) {
+    locations.forEach(function(loc) {
+      loc.shops.forEach(function(shop) {
+        shop.items = shop.items.map(function(item) {
+          return { name:item[0], price:item[1], options:item[2] };
         });
-      }
+      });
     });
     return locations;
   }
@@ -69,7 +37,7 @@ function initTecShops() {
   }
 
   function build(data) {
-    var locations = parse(data);
+    var locations = expand(data);
     root.innerHTML =
       '<section class="tec-shops-controls">' +
         '<div class="tec-shops-search-row">' +
