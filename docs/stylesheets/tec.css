@@ -1905,6 +1905,14 @@ html, body {
 .md-typeset .tec-shop-card td:last-child { width:130px; white-space:nowrap; text-align:right; font-weight:600; }
 .tec-shop-rotating { color:#456b20; font-weight:700; }
 .tec-shop-info { display:inline-flex; align-items:center; justify-content:center; width:1.15em; height:1.15em; border-radius:50%; background:#686d37; color:#fff; font-size:.58rem; cursor:help; }
+.tec-shop-rotating { cursor:help; }
+.tec-shop-info:hover,.tec-shop-info:focus-visible { background:#39461f; outline:none; }
+#tec-shop-tip { position:fixed; z-index:1000; max-width:min(340px, calc(100vw - 16px)); padding:.45rem .6rem; border:1px solid #565c2f; border-radius:6px; background:#2b271d; color:#f2e9cb; font-size:.64rem; line-height:1.45; box-shadow:0 3px 10px rgba(0,0,0,.3); pointer-events:none; }
+#tec-shop-tip[hidden] { display:none; }
+@media (hover:none) { .tec-shop-info,.tec-shop-rotating { cursor:pointer; } } /* lets iOS Safari register taps */
+#tec-shop-tip strong { color:#d9c894; }
+#tec-shop-tip::after { content:""; position:absolute; left:var(--arrow-x, 50%); top:100%; margin-left:-6px; border:6px solid transparent; border-top-color:#2b271d; }
+#tec-shop-tip.below::after { top:auto; bottom:100%; border-top-color:transparent; border-bottom-color:#2b271d; }
 .tec-shops-results-count { margin:.75rem 0 .4rem; font-size:.66rem; color:#5f5a48; }
 .tec-shops-table-wrap { max-width:1060px; overflow-x:auto; border:1px solid #aaa38a; border-radius:7px; background:#f8f3df; }
 .md-typeset table.tec-shops-results-table { display:table; width:100%; min-width:720px; margin:0; border-collapse:collapse; background:transparent; box-shadow:none; }

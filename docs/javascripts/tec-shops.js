@@ -32,6 +32,11 @@ function initTecShops() {
     });
   }
 
+  function markers(shop, item) {
+    return (shop.rotating ? ' <span class="tec-shop-rotating" tabindex="0" data-tip="Example rotating stock" aria-label="Example rotating stock">☘</span>' : '') +
+      (item.options ? ' <span class="tec-shop-info" tabindex="0" data-tip="'+esc(item.options)+'" aria-label="'+esc(item.options)+'">?</span>' : '');
+  }
+
   function slug(s) {
     return s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
   }
@@ -106,10 +111,7 @@ function initTecShops() {
               '<h3>'+esc(shop.name)+(shop.keeper ? ' <span>— '+esc(shop.keeper)+'</span>' : '')+'</h3>' +
               '<table><tbody>' +
               shop.items.map(function(item) {
-                return '<tr><td>'+esc(item.name) +
-                  (shop.rotating ? ' <span class="tec-shop-rotating" title="Example rotating stock">☘</span>' : '') +
-                  (item.options ? ' <span class="tec-shop-info" title="'+esc(item.options)+'">?</span>' : '') +
-                  '</td><td>'+esc(item.price)+'</td></tr>';
+                return '<tr><td>'+esc(item.name)+markers(shop, item)+'</td><td>'+esc(item.price)+'</td></tr>';
               }).join("") +
               '</tbody></table>' +
             '</article>';
@@ -147,10 +149,7 @@ function initTecShops() {
           '<th>Item</th><th>Price</th><th>Shop</th><th>Location</th>' +
         '</tr></thead><tbody>' +
         rows.map(function(r) {
-          return '<tr><td>'+esc(r.item.name) +
-            (r.shop.rotating ? ' <span class="tec-shop-rotating" title="Example rotating stock">☘</span>' : '') +
-            (r.item.options ? ' <span class="tec-shop-info" title="'+esc(r.item.options)+'">?</span>' : '') +
-            '</td><td>'+esc(r.item.price)+'</td><td>'+esc(r.shop.name)+(r.shop.keeper?' — '+esc(r.shop.keeper):'')+'</td><td>' +
+          return '<tr><td>'+esc(r.item.name)+markers(r.shop, r.item)+'</td><td>'+esc(r.item.price)+'</td><td>'+esc(r.shop.name)+(r.shop.keeper?' — '+esc(r.shop.keeper):'')+'</td><td>' +
             (r.loc.page?'<a href="/'+esc(r.loc.page)+'/">'+esc(r.loc.name)+'</a>':esc(r.loc.name)) +
           '</td></tr>';
         }).join("") +
@@ -164,7 +163,74 @@ function initTecShops() {
     }
 
     render();
+    tooltips(root);
   }
+}
+
+// Custom tooltip for the ☘ and ? markers: appears instantly on hover/focus, and on tap for touch screens.
+function tooltips(root) {
+  var tip = document.getElementById("tec-shop-tip");
+  if (!tip) {
+    tip = document.createElement("div");
+    tip.id = "tec-shop-tip";
+    tip.setAttribute("role", "tooltip");
+    tip.hidden = true;
+    document.body.appendChild(tip);
+    window.addEventListener("scroll", hideShopTip, {passive:true});
+    window.addEventListener("resize", hideShopTip);
+    // pointerdown, not click: iOS Safari doesn't fire click when tapping non-interactive content.
+    document.addEventListener("pointerdown", function(e) {
+      if (!e.target.closest || !e.target.closest("[data-tip]")) hideShopTip();
+    });
+    document.addEventListener("keydown", function(e) { if (e.key === "Escape") hideShopTip(); });
+  }
+
+  function show(el) {
+    if (!tip.hidden && tip.owner === el) return;
+    tip.owner = el;
+    // "QUALITIES: a, b - COLORS: c" -> one labelled line per option group
+    tip.innerHTML = "";
+    el.getAttribute("data-tip").split(/\s+-\s+(?=[A-Z][A-Z ]+:)/).forEach(function(part) {
+      var line = document.createElement("div");
+      var m = part.match(/^([A-Z][A-Z ]+):\s*([\s\S]*)$/);
+      if (m) {
+        var label = document.createElement("strong");
+        label.textContent = m[1].charAt(0) + m[1].slice(1).toLowerCase() + ": ";
+        line.appendChild(label);
+        line.appendChild(document.createTextNode(m[2]));
+      } else {
+        line.textContent = part;
+      }
+      tip.appendChild(line);
+    });
+    tip.hidden = false;
+    var r = el.getBoundingClientRect();
+    var w = tip.offsetWidth, h = tip.offsetHeight, gap = 8;
+    var left = Math.max(8, Math.min(r.left + r.width / 2 - w / 2, window.innerWidth - w - 8));
+    var below = r.top - h - gap < 8;
+    tip.style.left = left + "px";
+    tip.style.top = (below ? r.bottom + gap : r.top - h - gap) + "px";
+    tip.className = below ? "below" : "";
+    tip.style.setProperty("--arrow-x", (r.left + r.width / 2 - left) + "px");
+  }
+
+  function target(e) {
+    return e.target.closest ? e.target.closest("[data-tip]") : null;
+  }
+
+  root.addEventListener("mouseover", function(e) { var el = target(e); if (el) show(el); });
+  root.addEventListener("mouseout", function(e) {
+    var el = target(e);
+    if (el && !el.contains(e.relatedTarget)) hideShopTip();
+  });
+  root.addEventListener("focusin", function(e) { var el = target(e); if (el) show(el); });
+  root.addEventListener("focusout", hideShopTip);
+  root.addEventListener("click", function(e) { var el = target(e); if (el) show(el); });
+}
+
+function hideShopTip() {
+  var tip = document.getElementById("tec-shop-tip");
+  if (tip) { tip.hidden = true; tip.owner = null; }
 }
 
 if (document.readyState === "loading") {
