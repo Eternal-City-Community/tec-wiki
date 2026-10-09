@@ -34,9 +34,20 @@ body::before {
 }
 #tec-rb-calculator::before { content: "Rank Bonus Calculator — appears here on the live page"; }
 #tec-money-calculator::before { content: "Money Calculator — appears here on the live page"; }
-#tec-shops-app::before { content: "Shop search — appears here on the live page"; }
+#tec-shops-app::before { content: "Shop search — appears here on the live page. Its data comes from docs/data/shops.txt (see the editor note above)."; }
 #tec-page-history::before { content: "Page history — appears here on the live page"; }
 #fight-it-app::before { content: "Fight It calculator — works on the live page only"; }
+/* Editor-only notes (hidden on the live site in tec.css). */
+.md-typeset .tec-editor-note {
+  display: block;
+  margin: .4rem 0;
+  padding: .6rem .8rem;
+  border: 1px solid #8d8659;
+  border-left: 4px solid #686d37;
+  border-radius: 6px;
+  background: #f8f3df;
+  color: #322e1e;
+}
 .tec-shops-loading,
 .tec-history-loading {
   display: none;
