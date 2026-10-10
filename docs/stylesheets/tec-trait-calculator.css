@@ -49,3 +49,27 @@ body:has(#tec-trait-calculator) .md-content__inner{max-width:none;margin-right:0
 @media(max-width:1250px){#tec-trait-calculator .tt-layout{grid-template-columns:190px minmax(0,1fr) 240px}#tec-trait-calculator .tt-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:950px){#tec-trait-calculator .tt-layout{grid-template-columns:185px minmax(0,1fr)}#tec-trait-calculator .tt-sidebar{grid-column:1/-1;grid-template-columns:1fr 1fr}#tec-trait-calculator .tt-actions{grid-column:1/-1;grid-template-columns:1fr 1fr}}
 @media(max-width:650px){#tec-trait-calculator .tt-layout{display:block}#tec-trait-calculator .tt-filters{margin-bottom:.7rem}#tec-trait-calculator .tt-tabs{grid-template-columns:repeat(2,minmax(0,1fr))}#tec-trait-calculator .tt-list{max-height:none;min-height:0;overflow:visible;grid-template-columns:1fr}#tec-trait-calculator .tt-sidebar{display:grid;grid-template-columns:1fr;margin-top:.8rem}#tec-trait-calculator .tt-actions{grid-column:auto}#tec-trait-calculator .tt-summary{gap:.5rem}}
+
+/* Layout refinement: full-width selected chips, search under balance, roomy effects. */
+#tec-trait-calculator .tt-search{margin:0 0 .7rem}
+#tec-trait-calculator .tt-search input{width:100%;padding:.65rem .85rem;border:1px solid var(--tt-line);border-radius:.4rem;background:var(--tt-paper);color:inherit;font:inherit;font-size:.85rem}
+#tec-trait-calculator .tt-selected-bar{padding:.75rem;border:1px solid var(--tt-line);border-radius:.45rem;background:var(--tt-panel);margin:0 0 .8rem}
+#tec-trait-calculator .tt-selected-bar h3{margin:0 0 .55rem}
+#tec-trait-calculator .tt-selected-buckets{display:grid;grid-template-columns:5fr 5fr 1.7fr;gap:.65rem}
+#tec-trait-calculator .tt-selected-bucket{min-width:0;padding:.55rem;background:var(--tt-paper);border:1px solid var(--tt-line);border-radius:.4rem}
+#tec-trait-calculator .tt-selected-bucket h4{font-size:.82rem;margin:0 0 .45rem}
+#tec-trait-calculator .tt-chips{display:flex;flex-wrap:wrap;gap:.4rem;align-items:flex-start}
+#tec-trait-calculator .tt-chip{display:inline-flex;align-items:center;gap:.35rem;padding:.35rem .45rem;border-radius:.3rem;border:1px solid rgba(62,94,48,.35);background:rgba(219,236,200,.7);font-size:.76rem}
+#tec-trait-calculator .tt-chip strong{color:#305b2a}
+#tec-trait-calculator .tt-chip button{font-size:1.05rem;line-height:1;padding:0 .1rem}
+#tec-trait-calculator .tt-selected-bucket.tt-negative .tt-chip{background:rgba(239,211,198,.7);border-color:rgba(144,64,45,.35)}
+#tec-trait-calculator .tt-selected-bucket.tt-negative .tt-chip strong{color:#8c3029}
+#tec-trait-calculator .tt-selected-bucket.tt-neutral .tt-chip{background:rgba(223,211,233,.7);border-color:rgba(102,68,122,.35)}
+#tec-trait-calculator .tt-layout{grid-template-columns:minmax(150px,190px) minmax(0,1fr) minmax(340px,28%)}
+#tec-trait-calculator .tt-sidebar{align-self:stretch}
+#tec-trait-calculator .tt-effects ul{max-height:none;overflow:visible}
+#tec-trait-calculator .tt-effects li{font-size:.79rem;line-height:1.55}
+#tec-trait-calculator .tt-effects{overflow:visible}
+@media(max-width:1250px){#tec-trait-calculator .tt-layout{grid-template-columns:160px minmax(0,1fr) minmax(290px,30%)}}
+@media(max-width:950px){#tec-trait-calculator .tt-layout{grid-template-columns:175px minmax(0,1fr)}#tec-trait-calculator .tt-sidebar{grid-column:1/-1;display:block}#tec-trait-calculator .tt-selected-buckets{grid-template-columns:1fr 1fr}#tec-trait-calculator .tt-selected-bucket.tt-neutral{grid-column:1/-1}}
+@media(max-width:650px){#tec-trait-calculator .tt-selected-buckets{grid-template-columns:1fr}#tec-trait-calculator .tt-selected-bucket.tt-neutral{grid-column:auto}#tec-trait-calculator .tt-layout{display:block}#tec-trait-calculator .tt-sidebar{display:block}}
