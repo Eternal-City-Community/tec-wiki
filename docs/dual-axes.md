@@ -41,10 +41,13 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Grip](#grip) | Impossible | — | — | — | — | 100 |
 
 **Trainer:** D'Kestor.
-
+#### Notes on Learning
+Dual axes uses a momentum building system. Momentum builds by alternating hands, it doesn't actually matter if you're rotating multiple moves beyond left-right-left-right. Some moves require momentum and expend it. 
 ## Skill Details
 
-The following actions are confirmed as teachable by D'Kestor. Detailed effects, command syntax, ranges, and prerequisites have not yet been verified.
+The following actions are confirmed as teachable by D'Kestor. 
+
+
 
 ### Dual Axes Harrower's Guard Stance {#harrower-s-guard-stance}
 
@@ -96,7 +99,7 @@ The following actions are confirmed as teachable by D'Kestor. Detailed effects, 
 
 ### Dual Axes Offhand Chop {#offhand-chop}
 
-*Action details and in-game examples awaiting verification.*
+Single Hitter. Cut. Defaults High. Can trigger CO.
 
 ### Dual Axes Offhand Crush {#offhand-crush}
 
