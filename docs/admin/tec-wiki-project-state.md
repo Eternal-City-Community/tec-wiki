@@ -597,3 +597,11 @@ At the beginning of a fresh TEC Wiki chat:
 - 2026-10-10 UX revision: calculator changed to a full-width responsive parchment dashboard with contrasting trait cards, left search/type filters, center scrollable desktop grid, right selected-traits/effects summary, and mobile stacking. JS commit `b5c8b05eba0cf7091349067bc25ff91d12592621`, CSS commit `3fb8e580079adf60f3cbd8f774f66b016cebeba8`.
 
 - 2026-10-10 layout follow-up: trait list now alphabetized by name within type filters; selected positive/negative/neutral traits are horizontal chips above the list; search moved immediately under balance; right-side effects summary widened and no longer internally scrolls. Main JS commit `7fa82898c0db374ba67340fb1330a976b733639c`; CSS commit `04dda39ba6659869a91dd1e693e2c856ac881ac7`.
+
+### Dual Axes verified action prerequisites (2026-10-10)
+
+- User-confirmed terminology: **Capable** means rank 40; **Learned** means rank 30.
+- Sundering Chop, Flank Hew, and Hand Cleave require Capable (rank 40) in Dual Axes Rotating Chop.
+- Wolf's Hew requires Learned (rank 30) in Rotating Chop and Head Butt.
+- Wolf's Gyre requires Learned (rank 30) in Rotating Chop and Sweeping Cleave.
+- Recorded in `docs/dual-axes.md` prerequisite table; do not assume other prerequisites without confirmation.
