@@ -7,7 +7,7 @@ const conflicts=[["Night Owl","Fear of the Dark"],["Ox's Grace","Frail Build"],[
 const root=document.getElementById("tec-trait-calculator");if(!root)return;
 const state=new Set();let filter="all",query="";
 const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n};
-const selected=()=>TRAITS.filter(t=>state.has(t.name));
+const selected=()=>TRAITS.filter(t=>state.has(t.name)).sort((a,b)=>a.name.localeCompare(b.name));
 const conflictsFor=name=>conflicts.filter(pair=>pair.includes(name)).map(pair=>pair.find(x=>x!==name));
 const limitFor=type=>type==="neutral"?1:5;
 const titles={positive:"Positive Traits",negative:"Negative Traits",neutral:"Neutral Trait"};
@@ -29,11 +29,29 @@ function render(){
  const balance=el("section","tt-summary");
  balance.append(el("strong","tt-score","Trait balance: "+(sum>0?"+":"")+sum),el("span","tt-counts","Positive "+counts.positive+"/5 · Negative "+counts.negative+"/5 · Neutral "+counts.neutral+"/1"),el("span",sum<=0?"tt-valid":"tt-invalid",sum<=0?"Balance and limits satisfied":"Select more negative traits to balance"));
  root.append(balance);
+ const selectedBar=el("section","tt-selected-bar");
+ selectedBar.append(el("h3","","Selected Traits"));
+ const selectedBuckets=el("div","tt-selected-buckets");
+ for(const type of ["positive","negative","neutral"]){
+  const bucket=el("div","tt-selected-bucket tt-"+type);
+  bucket.append(el("h4","",titles[type]+" ("+counts[type]+"/"+limitFor(type)+")"));
+  const members=picked.filter(t=>t.type===type);
+  const chips=el("div","tt-chips");
+  if(!members.length)chips.append(el("span","tt-empty","None selected"));
+  for(const t of members){
+   const chip=el("span","tt-chip");
+   chip.append(el("span","",t.name),el("strong","",t.cost>0?"+"+t.cost:String(t.cost)));
+   const remove=el("button","","×");remove.type="button";remove.setAttribute("aria-label","Remove "+t.name);
+   remove.addEventListener("click",()=>{state.delete(t.name);render()});chip.append(remove);chips.append(chip);
+  }
+  bucket.append(chips);selectedBuckets.append(bucket);
+ }
+ selectedBar.append(selectedBuckets);root.append(selectedBar);
  const layout=el("div","tt-layout"),filters=el("aside","tt-filters");
- filters.append(el("h3","","Search Traits"));
  const input=el("input");input.type="search";input.value=query;input.placeholder="Search traits or effects…";input.setAttribute("aria-label","Search traits or effects");
- input.addEventListener("input",()=>{const pos=input.selectionStart;query=input.value;render();const next=root.querySelector(".tt-filters input");next.focus();next.setSelectionRange(pos,pos)});
- filters.append(input,el("h3","","Filter by Type"));
+ input.addEventListener("input",()=>{const pos=input.selectionStart;query=input.value;render();const next=root.querySelector(".tt-search input");next.focus();next.setSelectionRange(pos,pos)});
+ const search=el("div","tt-search");search.append(input);root.insertBefore(search,root.lastChild);
+ filters.append(el("h3","","Filter by Type"));
  const tabs=el("div","tt-tabs");
  for(const [value,label] of [["all","All Traits"],["positive","Positive Traits"],["negative","Negative Traits"],["neutral","Neutral Traits"]]){
  const b=el("button",filter===value?"active":"",label);b.type="button";b.setAttribute("aria-pressed",String(filter===value));
@@ -41,21 +59,11 @@ function render(){
  b.addEventListener("click",()=>{filter=value;render()});tabs.append(b);
  }filters.append(tabs);
  const center=el("main","tt-center"),list=el("div","tt-list");
- const matches=TRAITS.filter(t=>(filter==="all"||filter===t.type)&&(t.name+" "+t.desc).toLowerCase().includes(query.toLowerCase()));
+ const matches=TRAITS.filter(t=>(filter==="all"||filter===t.type)&&(t.name+" "+t.desc).toLowerCase().includes(query.toLowerCase())).sort((a,b)=>a.name.localeCompare(b.name));
  for(const t of matches)list.append(traitCard(t,counts));
  if(!matches.length)list.append(el("p","tt-empty","No traits match your search."));
  center.append(list);
- const sidebar=el("aside","tt-sidebar"),chosen=el("section","tt-panel");
- chosen.append(el("h3","","Selected Traits"));
- for(const type of ["positive","negative","neutral"]){
- const group=el("div","tt-selected-group tt-"+type);
- group.append(el("h4","",titles[type]+" ("+counts[type]+"/"+limitFor(type)+")"));
- const members=picked.filter(t=>t.type===type);
- if(!members.length)group.append(el("p","tt-empty","No "+type+" traits selected."));
- else for(const t of members){const item=el("div","tt-selected-item");item.append(el("span","",t.name),el("strong","",t.cost>0?"+"+t.cost:String(t.cost)));const remove=el("button","","×");remove.type="button";remove.setAttribute("aria-label","Remove "+t.name);remove.addEventListener("click",()=>{state.delete(t.name);render()});item.append(remove);group.append(item)}
- chosen.append(group);
- }
- sidebar.append(chosen);
+ const sidebar=el("aside","tt-sidebar");
  const effects=el("section","tt-panel tt-effects");effects.append(el("h3","","Trait Effects Summary"));
  if(!picked.length)effects.append(el("p","tt-empty","Select traits to see your bonuses and penalties."));
  else{const ul=el("ul");for(const t of picked){const li=el("li");li.append(el("strong","",t.name+": "),document.createTextNode(t.desc));ul.append(li)}effects.append(ul)}
