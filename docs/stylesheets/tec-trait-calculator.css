@@ -79,3 +79,27 @@ body:has(#tec-trait-calculator) .md-content__inner{max-width:none;margin-right:0
 #tec-trait-calculator .tt-actions{display:flex;flex-wrap:wrap;align-items:start;align-content:start;gap:.5rem}
 #tec-trait-calculator .tt-actions button{flex:1 1 130px;min-height:0;height:auto;max-height:3rem;padding:.55rem .75rem;line-height:1.35;align-self:start}
 @media(max-width:950px){#tec-trait-calculator .tt-actions{grid-column:auto}}
+
+/* Character stat planner: matching parchment, expandable and responsive. */
+#tec-trait-calculator .tt-stat-planner{margin:0 0 .85rem;border:1px solid var(--tt-line);border-radius:.45rem;background:var(--tt-panel)}
+#tec-trait-calculator .tt-stat-toggle{display:block;width:100%;text-align:left;padding:.8rem 1rem;font-weight:700;font-size:1rem;border:0;background:transparent;cursor:pointer}
+#tec-trait-calculator .tt-stat-toggle:hover{background:rgba(255,249,225,.4)}
+#tec-trait-calculator .tt-stat-body{padding:.3rem 1rem 1rem}
+#tec-trait-calculator .tt-stat-body h3{margin:1.1rem 0 .65rem;border-bottom:1px solid var(--tt-line);padding-bottom:.35rem}
+#tec-trait-calculator .tt-stat-inputs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.45rem 1rem}
+#tec-trait-calculator .tt-stat-field{display:grid;grid-template-columns:minmax(78px,.7fr) minmax(100px,1fr) 75px;gap:.4rem;align-items:center;min-width:0;font-size:.8rem}
+#tec-trait-calculator .tt-stat-field select,#tec-trait-calculator .tt-stat-field input,#tec-trait-calculator .tt-time select{min-width:0;width:100%;padding:.45rem .4rem;border:1px solid var(--tt-line);border-radius:.35rem;background:var(--tt-paper);color:inherit;font:inherit;font-size:.77rem}
+#tec-trait-calculator .tt-stat-field input{width:75px}
+#tec-trait-calculator .tt-time{display:flex;align-items:center;gap:.6rem;margin:.6rem 0;font-size:.82rem}
+#tec-trait-calculator .tt-time select{max-width:240px}
+#tec-trait-calculator .tt-stat-table-wrap{overflow-x:auto}
+#tec-trait-calculator .tt-stat-table{width:100%;border-collapse:collapse;background:var(--tt-paper);font-size:.8rem}
+#tec-trait-calculator .tt-stat-table th,#tec-trait-calculator .tt-stat-table td{padding:.45rem .6rem;border-bottom:1px solid var(--tt-line);text-align:left}
+#tec-trait-calculator .tt-stat-table th{background:rgba(221,207,165,.65);font-weight:700}
+#tec-trait-calculator .tt-stat-table tr.tt-modified{background:rgba(217,233,195,.42)}
+#tec-trait-calculator .tt-derived{margin-top:.8rem}
+#tec-trait-calculator .tt-derived-row{display:grid;grid-template-columns:minmax(160px,1fr) 2fr;gap:.75rem;border-bottom:1px solid var(--tt-line);padding:.55rem .3rem;font-size:.84rem}
+#tec-trait-calculator .tt-derived-row small{display:block;font-size:.73rem;opacity:.7;margin-top:.2rem}
+@media(max-width:1300px){#tec-trait-calculator .tt-stat-inputs{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){#tec-trait-calculator .tt-stat-inputs{grid-template-columns:1fr}#tec-trait-calculator .tt-stat-field{grid-template-columns:minmax(80px,.7fr) minmax(100px,1fr) 75px}#tec-trait-calculator .tt-derived-row{grid-template-columns:1fr 1.5fr}}
+@media(max-width:440px){#tec-trait-calculator .tt-stat-field{grid-template-columns:1fr 1fr 65px}#tec-trait-calculator .tt-stat-field input{width:65px}}
