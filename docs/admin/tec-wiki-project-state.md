@@ -605,3 +605,9 @@ At the beginning of a fresh TEC Wiki chat:
 - Wolf's Hew requires Learned (rank 30) in Rotating Chop and Head Butt.
 - Wolf's Gyre requires Learned (rank 30) in Rotating Chop and Sweeping Cleave.
 - Recorded in `docs/dual-axes.md` prerequisite table; do not assume other prerequisites without confirmation.
+
+### Confirmed TEC attribute mechanics (user confirmation 2026-10-10)
+
+- Raw attributes range from 0 to 200. The 200 raw-stat ceiling is not a hard cap on effective attributes after traits.
+- Trait bonuses can raise effective attributes above 200; Steady Hands gives +10% Dexterity, so raw Dexterity 200 can yield effective Dexterity 220.
+- User confirmed the stat-tier ranges, trait-adjusted stat calculations, and derived offense/defense/HP/carrying-capacity formulas shown in their 2026-10-10 character planner screenshots are correct. Preserve these as confirmed mechanics when adding stats to the trait calculator. Do not assume unconfirmed rounding rules; screenshots display ranges.
