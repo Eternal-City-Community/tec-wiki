@@ -172,6 +172,7 @@ function initTecSidebar() {
       link("Brawling", page("brawling"), "tec-side__sub"),
       link("Cestus", page("cestus"), "tec-side__sub"),
       link("Chainblade", page("chainblade"), "tec-side__sub"),
+      link("Dual Axes", page("dual-axes"), "tec-side__sub"),
       link("Dual Daggers", page("dual-daggers"), "tec-side__sub"),
       link("Falcata", page("falcata"), "tec-side__sub"),
       link("Falx", page("falx"), "tec-side__sub"),
