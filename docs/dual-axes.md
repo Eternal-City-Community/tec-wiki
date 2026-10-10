@@ -12,32 +12,33 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 
 ## Skills and Training
 
-| Skills / Actions | Difficulty | Ranks Taught by D'Kestor |
-| --- | :---: | :---: |
-| **Dual Axes Combat** | — | 300 |
-| [Dual Axes Harrower's Guard Stance](#harrower-s-guard-stance) | Easy | 100 |
-| [Dual Axes Grip](#grip) | Impossible | 100 |
-| [Dual Axes Accuracy](#accuracy) | Difficult | 100 |
-| [Dual Axes Feint](#feint) | Average | 100 |
-| [Dual Axes Crescent Block](#crescent-block) | Average | 100 |
-| [Dual Axes Crossed Block](#crossed-block) | Difficult | 100 |
-| [Dual Axes Beard Trap](#beard-trap) | Difficult | 100 |
-| [Dual Axes Haft Deflection](#haft-deflection) | Difficult | 100 |
-| [Dual Axes Flank Hew](#flank-hew) | Average | 100 |
-| [Dual Axes Frenzied Hack](#frenzied-hack) | Difficult | 100 |
-| [Dual Axes Hand Cleave](#hand-cleave) | Average | 100 |
-| [Dual Axes Harrowing](#harrowing) | Difficult | 100 |
-| [Dual Axes Offhand Chop](#offhand-chop) | Easy | 100 |
-| [Dual Axes Offhand Crush](#offhand-crush) | Average | 100 |
-| [Dual Axes Offhand Pivoting Jab](#offhand-pivoting-jab) | Easy | 100 |
-| [Dual Axes Wolf's Hew](#wolf-s-hew) | Average | 100 |
-| [Dual Axes Rotating Chop](#rotating-chop) | Easy | 100 |
-| [Dual Axes Sundering Chop](#sundering-chop) | Average | 100 |
-| [Dual Axes Sweeping Cleave](#sweeping-cleave) | Average | 100 |
-| [Dual Axes Wolf's Gyre](#wolf-s-gyre) | Difficult | 100 |
-| [Dual Axes Twin Fangs](#twin-fangs) | Difficult | 100 |
-| [Dual Axes Poll Smash](#poll-smash) | Average | 100 |
-| [Dual Axes Onslaught](#onslaught) | Average | 100 |
+| >> | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ D'Kestor |
+| **Dual Axes Combat** | — | - | — | — | — | 300 |
+| [Dual Axes Harrower's Guard Stance](#harrower-s-guard-stance) | Easy | — | — | — | — | 100 |
+| [Dual Axes Grip](#grip) | Impossible | — | — | — | — | 100 |
+| [Dual Axes Accuracy](#accuracy) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Feint](#feint) | Average | — | — | — | — | 100 |
+| [Dual Axes Crescent Block](#crescent-block) | Average | — | — | — | — | 100 |
+| [Dual Axes Crossed Block](#crossed-block) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Beard Trap](#beard-trap) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Haft Deflection](#haft-deflection) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Flank Hew](#flank-hew) | Average | — | — | — | — | 100 |
+| [Dual Axes Frenzied Hack](#frenzied-hack) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Hand Cleave](#hand-cleave) | Average | — | — | — | — | 100 |
+| [Dual Axes Harrowing](#harrowing) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Offhand Chop](#offhand-chop) | Easy | — | — | — | — | 100 |
+| [Dual Axes Offhand Crush](#offhand-crush) | Average | — | — | — | — | 100 |
+| [Dual Axes Offhand Pivoting Jab](#offhand-pivoting-jab) | Easy | — | — | — | — | 100 |
+| [Dual Axes Wolf's Hew](#wolf-s-hew) | Average | — | — | — | — | 100 |
+| [Dual Axes Rotating Chop](#rotating-chop) | Easy | — | — | — | — | 100 |
+| [Dual Axes Sundering Chop](#sundering-chop) | Average | — | — | — | — | 100 |
+| [Dual Axes Sweeping Cleave](#sweeping-cleave) | Average | — | — | — | — | 100 |
+| [Dual Axes Wolf's Gyre](#wolf-s-gyre) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Twin Fangs](#twin-fangs) | Difficult | — | — | — | — | 100 |
+| [Dual Axes Poll Smash](#poll-smash) | Average | — | — | — | — | 100 |
+| [Dual Axes Onslaught](#onslaught) | Average | — | — | — | — | 100 |
 
 **Trainer:** D'Kestor.
 
