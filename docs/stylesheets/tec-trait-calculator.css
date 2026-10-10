@@ -73,3 +73,9 @@ body:has(#tec-trait-calculator) .md-content__inner{max-width:none;margin-right:0
 @media(max-width:1250px){#tec-trait-calculator .tt-layout{grid-template-columns:160px minmax(0,1fr) minmax(290px,30%)}}
 @media(max-width:950px){#tec-trait-calculator .tt-layout{grid-template-columns:175px minmax(0,1fr)}#tec-trait-calculator .tt-sidebar{grid-column:1/-1;display:block}#tec-trait-calculator .tt-selected-buckets{grid-template-columns:1fr 1fr}#tec-trait-calculator .tt-selected-bucket.tt-neutral{grid-column:1/-1}}
 @media(max-width:650px){#tec-trait-calculator .tt-selected-buckets{grid-template-columns:1fr}#tec-trait-calculator .tt-selected-bucket.tt-neutral{grid-column:auto}#tec-trait-calculator .tt-layout{display:block}#tec-trait-calculator .tt-sidebar{display:block}}
+
+/* Keep action buttons compact even when the summary column stretches vertically. */
+#tec-trait-calculator .tt-sidebar{align-self:start;align-content:start;grid-auto-rows:max-content}
+#tec-trait-calculator .tt-actions{display:flex;flex-wrap:wrap;align-items:start;align-content:start;gap:.5rem}
+#tec-trait-calculator .tt-actions button{flex:1 1 130px;min-height:0;height:auto;max-height:3rem;padding:.55rem .75rem;line-height:1.35;align-self:start}
+@media(max-width:950px){#tec-trait-calculator .tt-actions{grid-column:auto}}
