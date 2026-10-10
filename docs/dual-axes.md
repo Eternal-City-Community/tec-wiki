@@ -45,98 +45,265 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 Dual axes uses a momentum building system. Momentum builds by alternating hands, it doesn't actually matter if you're rotating multiple moves beyond left-right-left-right. Some moves require momentum and expend it. 
 ## Skill Details
 
-The following actions are confirmed as teachable by D'Kestor. 
+The following actions are confirmed as teachable by D'Kestor. Replace the command placeholders, notes, and sample output with verified in-game information.
 
+### Dual Axes Harrower's Guard Stance  *command <target>* {#harrower-s-guard-stance}
 
+*Add verified action description, targeting, and mechanics here.*
 
-### Dual Axes Harrower's Guard Stance {#harrower-s-guard-stance}
+**When you see this in use you see:**
 
-*Action details and in-game examples awaiting verification.*
+<div class="skill-template">
 
-### Dual Axes Grip {#grip}
+Replace this text with actual in-game output.
 
-*Action details and in-game examples awaiting verification.*
+</div>
 
-### Dual Axes Accuracy {#accuracy}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Feint {#feint}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Crescent Block {#crescent-block}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Crossed Block {#crossed-block}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Beard Trap {#beard-trap}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Haft Deflection {#haft-deflection}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Flank Hew {#flank-hew}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Frenzied Hack {#frenzied-hack}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Hand Cleave {#hand-cleave}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Harrowing {#harrowing}
-
-*Action details and in-game examples awaiting verification.*
-
-### Dual Axes Offhand Chop {#offhand-chop}
+### Dual Axes Offhand Chop  *command <target>* {#offhand-chop}
 
 Single Hitter. Cut. Defaults High. Can trigger CO.
 
-### Dual Axes Offhand Crush {#offhand-crush}
+**When you see this in use you see:**
 
-*Action details and in-game examples awaiting verification.*
+<div class="skill-template">
 
-### Dual Axes Offhand Pivoting Jab {#offhand-pivoting-jab}
+Replace this text with actual in-game output.
 
-*Action details and in-game examples awaiting verification.*
+</div>
 
-### Dual Axes Wolf's Hew {#wolf-s-hew}
+### Dual Axes Offhand Pivoting Jab  *command <target>* {#offhand-pivoting-jab}
 
-*Action details and in-game examples awaiting verification.*
+*Add verified action description, targeting, and mechanics here.*
 
-### Dual Axes Rotating Chop {#rotating-chop}
+**When you see this in use you see:**
 
-*Action details and in-game examples awaiting verification.*
+<div class="skill-template">
 
-### Dual Axes Sundering Chop {#sundering-chop}
+Replace this text with actual in-game output.
 
-*Action details and in-game examples awaiting verification.*
+</div>
 
-### Dual Axes Sweeping Cleave {#sweeping-cleave}
+### Dual Axes Rotating Chop  *command <target>* {#rotating-chop}
 
-*Action details and in-game examples awaiting verification.*
+*Add verified action description, targeting, and mechanics here.*
 
-### Dual Axes Wolf's Gyre {#wolf-s-gyre}
+**When you see this in use you see:**
 
-*Action details and in-game examples awaiting verification.*
+<div class="skill-template">
 
-### Dual Axes Twin Fangs {#twin-fangs}
+Replace this text with actual in-game output.
 
-*Action details and in-game examples awaiting verification.*
+</div>
 
-### Dual Axes Poll Smash {#poll-smash}
+### Dual Axes Feint  *command <target>* {#feint}
 
-*Action details and in-game examples awaiting verification.*
+*Add verified action description, targeting, and mechanics here.*
 
-### Dual Axes Onslaught {#onslaught}
+**When you see this in use you see:**
 
-*Action details and in-game examples awaiting verification.*
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Flank Hew  *command <target>* {#flank-hew}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Hand Cleave  *command <target>* {#hand-cleave}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Offhand Crush  *command <target>* {#offhand-crush}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Onslaught  *command <target>* {#onslaught}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Poll Smash  *command <target>* {#poll-smash}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Sundering Chop  *command <target>* {#sundering-chop}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Sweeping Cleave  *command <target>* {#sweeping-cleave}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Wolf's Hew  *command <target>* {#wolf-s-hew}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Frenzied Hack  *command <target>* {#frenzied-hack}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Harrowing  *command <target>* {#harrowing}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Twin Fangs  *command <target>* {#twin-fangs}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Wolf's Gyre  *command <target>* {#wolf-s-gyre}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Crescent Block  *command <target>* {#crescent-block}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Beard Trap  *command <target>* {#beard-trap}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Crossed Block  *command <target>* {#crossed-block}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Haft Deflection  *command <target>* {#haft-deflection}
+
+*Add verified action description, targeting, and mechanics here.*
+
+**When you see this in use you see:**
+
+<div class="skill-template">
+
+Replace this text with actual in-game output.
+
+</div>
+
+### Dual Axes Accuracy  *n/a* {#accuracy}
+
+*Add verified action description, targeting, and mechanics here.*
+
+### Dual Axes Grip  *n/a* {#grip}
+
+*Add verified action description, targeting, and mechanics here.*
+
