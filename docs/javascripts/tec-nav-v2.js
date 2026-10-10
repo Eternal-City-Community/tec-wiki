@@ -140,13 +140,14 @@ function initTecTopNav() {
         link("Village of Stromheim","village-of-stromheim") +
       '</div></div>' +
       '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Tools</button><div class="tec-topnav__menu">' +
-        link("Rank Bonus Calculator","rank-bonus-calculator") +
-        link("Training Cost Calculator","training-cost-calculator") +
-        link("Money Calculator","money-calculator") +
         link("Blocks and Dodges","blocks-and-dodges") +
-        link("Shops","shops") +
         link("Crafting Calculator","crafting-calculator") +
         link("Fight It!™ Calculator","fight-it-calculator") +
+        link("Money Calculator","money-calculator") +
+        link("Rank Bonus Calculator","rank-bonus-calculator") +
+        link("Shops","shops") +
+        link("Training Cost Calculator","training-cost-calculator") +
+        link("Trait Calculator","trait-calculator") +
       '</div></div>' +
       '<div class="tec-topnav__item"><button class="tec-topnav__button" type="button">Wiki Team</button><div class="tec-topnav__menu">' +
         '<a href="#" data-tec-edit-current="true">Edit this page</a>' +
