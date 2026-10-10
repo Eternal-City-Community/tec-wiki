@@ -1,6 +1,6 @@
 ---
-title: "Dual Axes"
-category: "Skills & Combat"
+title: Dual Axes
+category: Skills & Combat
 parent: skills
 ---
 
@@ -22,7 +22,7 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Rotating Chop](#rotating-chop) | Easy | — | — | — | — | 100 |
 | [Dual Axes Feint](#feint) | Average | — | — | — | — | 100 |
 | [Dual Axes Flank Hew](#flank-hew) | Average | — | — | — | — | 100 |
-| [Dual Axes Hand Cleave](#hand-cleave) | Average | — | — | — | — | 100 |
+| [Dual Axes Hand Cleave](#hand-cleave) | Average | — | — | — | Capable in [Rotating Chop](#rotating-chop) | 100 |
 | [Dual Axes Offhand Crush](#offhand-crush) | Average | — | — | — | — | 100 |
 | [Dual Axes Onslaught](#onslaught) | Average | — | — | — | — | 100 |
 | [Dual Axes Poll Smash](#poll-smash) | Average | — | — | — | — | 100 |
