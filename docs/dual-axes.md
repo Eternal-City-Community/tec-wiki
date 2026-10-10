@@ -15,7 +15,7 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | >> | >> | >> | >> | >> | Skill Info | >> | Ranks Taught by Trainer |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ~ Skills/Actions | ~ Difficulty | ~ Hands | ~ Range | ~ Wound | ~ Prerequisite | ~ D'Kestor |
-| **Dual Axes Combat** | — | - | — | — | — | 300 |
+| **Dual Axes Combat** | Easy | - | — | — | — | 300 |
 | [Dual Axes Harrower's Guard Stance](#harrower-s-guard-stance) | Easy | — | — | — | — | 100 |
 | [Dual Axes Grip](#grip) | Impossible | — | — | — | — | 100 |
 | [Dual Axes Accuracy](#accuracy) | Difficult | — | — | — | — | 100 |
