@@ -47,7 +47,6 @@ function render(){
   bucket.append(chips);selectedBuckets.append(bucket);
  }
  selectedBar.append(selectedBuckets);root.append(selectedBar);
- root.append(renderStatPlanner());
  const layout=el("div","tt-layout"),filters=el("aside","tt-filters");
  const input=el("input");input.type="search";input.value=query;input.placeholder="Search traits or effects…";input.setAttribute("aria-label","Search traits or effects");
  input.addEventListener("input",()=>{const pos=input.selectionStart;query=input.value;render();const next=root.querySelector(".tt-search input");next.focus();next.setSelectionRange(pos,pos)});
