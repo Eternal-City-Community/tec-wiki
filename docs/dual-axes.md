@@ -68,7 +68,7 @@ Single Hitter. Cut. Defaults High. Can trigger CO.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 34] You pivot smoothly on your back foot, snapping a vicious chop into a gigantic pale white rat with crimson splotches with your off-hand crude axe with a blade of sharpened bone! It suffers a cut to its face. You exploit a gap in its defenses, striking again! It suffers a cut to its neck.
 
 </div>
 
@@ -92,7 +92,7 @@ Single Hitter. Cut. Defaults High. Can trigger CO.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 17] You pivot smoothly on your heels, driving a rotating chop with your scarred bone axe into a gigantic pale white rat with crimson splotches! It suffers a cut to its face.
 
 </div>
 
