@@ -593,3 +593,5 @@ At the beginning of a fresh TEC Wiki chat:
 - Calculator enforces 5 positive / 5 negative / 1 neutral, zero-or-negative balance, and explicitly documented mutual exclusions. Displays source descriptions, rather than inventing stacking rules.
 - Google Drive 'Trait Selector' example spreadsheet (new copy) confirms 9 positive / 9 negative and Ox's Grace neutral.
 - Last enabling commit: `9c0a407acec8400d542ac280f9736ec603ab942c`.
+
+- 2026-10-10 UX revision: calculator changed to a full-width responsive parchment dashboard with contrasting trait cards, left search/type filters, center scrollable desktop grid, right selected-traits/effects summary, and mobile stacking. JS commit `b5c8b05eba0cf7091349067bc25ff91d12592621`, CSS commit `3fb8e580079adf60f3cbd8f774f66b016cebeba8`.
