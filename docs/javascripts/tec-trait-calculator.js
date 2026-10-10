@@ -50,7 +50,7 @@ function render(){
  const layout=el("div","tt-layout"),filters=el("aside","tt-filters");
  const input=el("input");input.type="search";input.value=query;input.placeholder="Search traits or effects…";input.setAttribute("aria-label","Search traits or effects");
  input.addEventListener("input",()=>{const pos=input.selectionStart;query=input.value;render();const next=root.querySelector(".tt-search input");next.focus();next.setSelectionRange(pos,pos)});
- const search=el("div","tt-search");search.append(input);root.insertBefore(search,root.lastChild);
+ const search=el("div","tt-search");search.append(input);root.insertBefore(search,selectedBar);
  filters.append(el("h3","","Filter by Type"));
  const tabs=el("div","tt-tabs");
  for(const [value,label] of [["all","All Traits"],["positive","Positive Traits"],["negative","Negative Traits"],["neutral","Neutral Traits"]]){
