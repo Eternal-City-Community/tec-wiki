@@ -6,6 +6,8 @@ parent: character-generator
 
 # Traits
 
+**[Open the interactive Trait Calculator →](/trait-calculator/)** to select traits, check point balance, and review documented effects.
+
 For the old, archived traits page, go here: [Old_Archived_Traits2020](/archived_traits-2020/)
 
 In 2020, new traits were released. 
