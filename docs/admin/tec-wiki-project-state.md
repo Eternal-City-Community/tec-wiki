@@ -583,3 +583,13 @@ At the beginning of a fresh TEC Wiki chat:
 - Corrected the Worker Page History repository target to the canonical organization repository.
 
 - 2026-10-07: Cloudflare missed the automatic build trigger for commit `4e2ca2355ad23a29f8670c2e184e7bb2db319048`; follow-up commit created to retrigger the Git integration.
+
+
+### Interactive Trait Calculator (2026-10-10)
+
+- Added `/trait-calculator/` with 93 traits sourced from `docs/traits.md` (10 neutral, 47 positive, 36 negative).
+- Source files: `docs/trait-calculator.md`, `docs/javascripts/tec-trait-calculator.js`, `docs/stylesheets/tec-trait-calculator.css`.
+- Added navigation in `mkdocs.yml` and link from `docs/traits.md`.
+- Calculator enforces 5 positive / 5 negative / 1 neutral, zero-or-negative balance, and explicitly documented mutual exclusions. Displays source descriptions, rather than inventing stacking rules.
+- Google Drive 'Trait Selector' example spreadsheet (new copy) confirms 9 positive / 9 negative and Ox's Grace neutral.
+- Last enabling commit: `9c0a407acec8400d542ac280f9736ec603ab942c`.
