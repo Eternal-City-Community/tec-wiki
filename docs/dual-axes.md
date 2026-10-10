@@ -21,18 +21,18 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Offhand Pivoting Jab](#offhand-pivoting-jab) | Easy | 2 | — | — | — | 100 |
 | [Dual Axes Rotating Chop](#rotating-chop) | Easy | 2 | — | — | — | 100 |
 | [Dual Axes Feint](#feint) | Average | 2 | — | — | — | 100 |
-| [Dual Axes Flank Hew](#flank-hew) | Average | 2 | — | — | — | 100 |
-| [Dual Axes Hand Cleave](#hand-cleave) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) | 100 |
+| [Dual Axes Flank Hew](#flank-hew) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) (rank 40) | 100 |
+| [Dual Axes Hand Cleave](#hand-cleave) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) (rank 40) | 100 |
 | [Dual Axes Offhand Crush](#offhand-crush) | Average | 2 | — | — | — | 100 |
 | [Dual Axes Onslaught](#onslaught) | Average | 2 | — | — | — | 100 |
 | [Dual Axes Poll Smash](#poll-smash) | Average | 2 | — | — | — | 100 |
-| [Dual Axes Sundering Chop](#sundering-chop) | Average | 2 | — | — | — | 100 |
+| [Dual Axes Sundering Chop](#sundering-chop) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) (rank 40) | 100 |
 | [Dual Axes Sweeping Cleave](#sweeping-cleave) | Average | 2 | — | — | — | 100 |
-| [Dual Axes Wolf's Hew](#wolf-s-hew) | Average | 2 | — | — | — | 100 |
+| [Dual Axes Wolf's Hew](#wolf-s-hew) | Average | 2 | — | — | Learned in [Rotating Chop](#rotating-chop) and Head Butt (rank 30 each) | 100 |
 | [Dual Axes Frenzied Hack](#frenzied-hack) | Difficult | 2 | — | — | — | 100 |
 | [Dual Axes Harrowing](#harrowing) | Difficult | 2 | — | — | — | 100 |
 | [Dual Axes Twin Fangs](#twin-fangs) | Difficult | 2 | — | — | — | 100 |
-| [Dual Axes Wolf's Gyre](#wolf-s-gyre) | Difficult | 2 | — | — | — | 100 |
+| [Dual Axes Wolf's Gyre](#wolf-s-gyre) | Difficult | 2 | — | — | Learned in [Rotating Chop](#rotating-chop) and [Sweeping Cleave](#sweeping-cleave) (rank 30 each) | 100 |
 | [Dual Axes Crescent Block](#crescent-block) | Average | 2 | — | — | — | 100 |
 | [Dual Axes Beard Trap](#beard-trap) | Difficult | 2 | — | — | — | 100 |
 | [Dual Axes Crossed Block](#crossed-block) | Difficult | 2 | — | — | — | 100 |
