@@ -1,6 +1,6 @@
 ---
-title: "Altene Language"
-category: "Guides & Commands"
+title: Altene Language
+category: Guides & Commands
 parent: altene
 ---
 
@@ -74,6 +74,8 @@ Dislike: N'ken
 Do: Kel
 Dog: Canor
 Don't: Kel'na
+Dual Axes: Darao'valas
+Dual Daggers: Darao'shi
 Drink: Q'arl
  
 
