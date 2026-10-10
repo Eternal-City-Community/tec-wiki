@@ -611,3 +611,11 @@ At the beginning of a fresh TEC Wiki chat:
 - Raw attributes range from 0 to 200. The 200 raw-stat ceiling is not a hard cap on effective attributes after traits.
 - Trait bonuses can raise effective attributes above 200; Steady Hands gives +10% Dexterity, so raw Dexterity 200 can yield effective Dexterity 220.
 - User confirmed the stat-tier ranges, trait-adjusted stat calculations, and derived offense/defense/HP/carrying-capacity formulas shown in their 2026-10-10 character planner screenshots are correct. Preserve these as confirmed mechanics when adding stats to the trait calculator. Do not assume unconfirmed rounding rules; screenshots display ranges.
+
+### Trait Calculator character stat planner (2026-10-10)
+
+- Implemented expandable Character Stats & Bonuses section below selected trait chips in `docs/javascripts/tec-trait-calculator.js`; styling in `docs/stylesheets/tec-trait-calculator.css` and instructions in `docs/trait-calculator.md`.
+- All 13 stats support wiki descriptive tiers (Abysmal 0–50 through Outstanding 191–200) or exact raw input 0–200. Effective stats and effective raw-200 caps include numeric trait modifiers, including exceeding 200.
+- Stat modifiers mapped from documented Traits page; multiple percentages add as in user-confirmed planner screenshot. Night Owl includes selectable day/night conditions. Conditional non-stat bonuses remain descriptive.
+- Derived offense = Dexterity/2 + Perception/4 + Empathy/4 + Strength/10; defense = Agility/2 + Speed/4; HP = Endurance; significant load = Strength/2 (+30 lbs with Heavy Arms); maximum load = Strength*1.5 (Strength*2.5 with Mule's Back). Bows flip Dexterity/Perception weighting. Rounded values are display estimates; in-game rounding is not asserted.
+- Implementation commits: JS `a6447cfed96ad7662e695ff360c8479c86c6162a`, CSS `df269792bacd418cbb71a942e3d1b51f90be92a2`, documentation `1f9bea4d7e8be877066e4302a38efc6a72c2d349`. JavaScript syntax was checked successfully; live browser/deployment not yet verified.
