@@ -22,6 +22,7 @@ nav:
       - Account: account.md
       - Character Creation: characters.md
       - Traits: traits.md
+      - Trait Calculator: trait-calculator.md
       - Stats: stats.md
       - Newbie Guides: newbie-guides.md
   - Game World:
@@ -77,6 +78,7 @@ markdown_extensions:
 extra_css:
   - stylesheets/tec.css
   - stylesheets/tec-crafting-calculator.css
+  - stylesheets/tec-trait-calculator.css
 
 extra_javascript:
   - javascripts/tec-page-enhancers.js
@@ -95,3 +97,4 @@ extra_javascript:
   - javascripts/tec-content.js
   - javascripts/tec-page-history.js
   - javascripts/tec-whats-new.js
+  - javascripts/tec-trait-calculator.js
