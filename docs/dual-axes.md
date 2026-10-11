@@ -219,13 +219,14 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Harrowing  *harrow <target>* {#harrowing}
 
-*Add verified action description, targeting, and mechanics here.*
+Uses all five momentum. 2-4 hits and possible knockdown. 
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+You exhaust the rotational momentum of your axes, settling back into balance.
+[Success: 5, Roll: 35] Stepping inside a sickly yellow rat's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! Following a swift headbutt into a sickly yellow rat, you chop downward with your scarred bone axe! It suffers a bruise to its head. It suffers a deep cut to its head.
 
 </div>
 
