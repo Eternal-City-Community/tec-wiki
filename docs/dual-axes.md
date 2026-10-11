@@ -60,7 +60,7 @@ You take up a menacing, rhythmic harrower's guard, weaving your paired axes in t
 
 </div>
 
-### Dual Axes Offhand Chop  *command <target>* {#offhand-chop}
+### Dual Axes Offhand Chop  *offchop <target>* {#offhand-chop}
 
 Single Hitter. Cut. Defaults High. Can trigger CO.
 
@@ -72,7 +72,7 @@ Single Hitter. Cut. Defaults High. Can trigger CO.
 
 </div>
 
-### Dual Axes Offhand Pivoting Jab  *command <target>* {#offhand-pivoting-jab}
+### Dual Axes Offhand Pivoting Jab  *offpivot <target>* {#offhand-pivoting-jab}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -80,11 +80,11 @@ Single Hitter. Cut. Defaults High. Can trigger CO.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 17] You pivot sharply on your lead foot, punching the sharp top horn of your off-hand crude axe with a blade of sharpened bone directly into a sickly yellow rat! It suffers a puncture to its back.
 
 </div>
 
-### Dual Axes Rotating Chop  *command <target>* {#rotating-chop}
+### Dual Axes Rotating Chop  *rotcho <target>* {#rotating-chop}
 
 Single Hitter. Cut. Defaults High. Can trigger CO.
 
@@ -132,7 +132,7 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Offhand Crush  *command <target>* {#offhand-crush}
+### Dual Axes Offhand Crush  *offcrush <target>* {#offhand-crush}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -140,11 +140,11 @@ Replace this text with actual in-game output.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 79] Stepping inside a sickly yellow rat's guard, you slam the blunt poll of your crude axe with a blade of sharpened bone heavily into a sickly yellow rat with driving force! It suffers a major bruise to its neck.
 
 </div>
 
-### Dual Axes Onslaught  *command <target>* {#onslaught}
+### Dual Axes Onslaught  *onslaught <target>* {#onslaught}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -152,11 +152,11 @@ Replace this text with actual in-game output.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 31] You step in and swing your scarred bone axe in a sudden, erratic arc toward a pale white rat with crimson splotches! It suffers a ugly bruise to its abdomen.
 
 </div>
 
-### Dual Axes Poll Smash  *command <target>* {#poll-smash}
+### Dual Axes Poll Smash  *pollsmash <target>* {#poll-smash}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -164,7 +164,7 @@ Replace this text with actual in-game output.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 11] You drive the heavy poll of your scarred bone axe forward in a heavy smash into a pale white rat with crimson splotches! It suffers a bruise to its right hind leg.
 
 </div>
 
@@ -180,7 +180,7 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Sweeping Cleave  *command <target>* {#sweeping-cleave}
+### Dual Axes Sweeping Cleave  *sweepcleave <target>* {#sweeping-cleave}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -217,7 +217,7 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Harrowing  *command <target>* {#harrowing}
+### Dual Axes Harrowing  *harrow <target>* {#harrowing}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -229,7 +229,7 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Twin Fangs  *command <target>* {#twin-fangs}
+### Dual Axes Twin Fangs  *twinfangs <target>* {#twin-fangs}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -255,7 +255,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Beard Trap  *n/a* {#beard-trap}
 
-*Add verified action description, targeting, and mechanics here.*
+A block for incoming attacks.
 
 **When you see this in use you see:**
 
