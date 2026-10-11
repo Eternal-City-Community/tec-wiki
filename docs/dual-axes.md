@@ -182,7 +182,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Sweeping Cleave  *command <target>* {#sweeping-cleave}
 
-*Add verified action description, targeting, and mechanics here.*
+Sweep Cleave uses 2 momentum levels. So you can use it after just 2 attacks. If you're at 5 momentum, it drops you down to level 3.
 
 **When you see this in use you see:**
 
@@ -207,7 +207,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Frenzied Hack  *command <target>* {#frenzied-hack}
 
-*Add verified action description, targeting, and mechanics here.*
+Frenzied Hack requires 3 momentum levels. Locks you into berserk for several seconds. Increases you to 5 momentum levels.
 
 **When you see this in use you see:**
 
@@ -219,7 +219,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Harrowing  *command <target>* {#harrowing}
 
-*Add verified action description, targeting, and mechanics here.*
+Harrowing requires all 5 momentum. It's the triple-hitter. Exhausts all momentum to use.
 
 **When you see this in use you see:**
 
@@ -231,7 +231,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Twin Fangs  *command <target>* {#twin-fangs}
 
-*Add verified action description, targeting, and mechanics here.*
+Twin Fangs requires 3 momentum levels. But once you use it, it exhausts all your momentum.
 
 **When you see this in use you see:**
 
