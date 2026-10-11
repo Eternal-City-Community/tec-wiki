@@ -50,13 +50,13 @@ The following actions are confirmed as teachable by D'Kestor. Replace the comman
 
 ### Dual Axes Harrower's Guard Stance  *harrowguard* {#harrower-s-guard-stance}
 
-*Add verified action description, targeting, and mechanics here.*
+Stance is required to be able to perform some dual axe maneuvers, and provides a to-hit bonus for all dual axe maneuvers.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+You take up a menacing, rhythmic harrower's guard, weaving your paired axes in tight, measured arcs.
 
 </div>
 
