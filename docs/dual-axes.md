@@ -34,8 +34,8 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Harrowing](#harrowing) | Difficult | 2 | — | Bruise<br>Cut<br>Pierce | — | 100 |
 | [Dual Axes Twin Fangs](#twin-fangs) | Difficult | 2 | — | — | — | 100 |
 | [Dual Axes Wolf's Gyre](#wolf-s-gyre) | Difficult | 2 | — | — | Learned in [Rotating Chop](#rotating-chop) and [Sweeping Cleave](#sweeping-cleave) (rank 30 each) | 100 |
-| [Dual Axes Crescent Block](#crescent-block) | Average | 2 | — | — | — | 100 |
 | [Dual Axes Beard Trap](#beard-trap) | Difficult | 2 | — | — | — | 100 |
+| [Dual Axes Crescent Block](#crescent-block) | Average | 2 | — | — | — | 100 |
 | [Dual Axes Crossed Block](#crossed-block) | Difficult | 2 | — | — | — | 100 |
 | [Dual Axes Haft Deflection](#haft-deflection) | Difficult | 2 | — | — | — | 100 |
 | [Dual Axes Accuracy](#accuracy) | Difficult | — | — | — | — | 100 |
@@ -48,7 +48,7 @@ Dual axes uses a momentum building system. Momentum builds by alternating hands,
 
 The following actions are confirmed as teachable by D'Kestor. Replace the command placeholders, notes, and sample output with verified in-game information.
 
-### Dual Axes Harrower's Guard Stance  *command <target>* {#harrower-s-guard-stance}
+### Dual Axes Harrower's Guard Stance  *harrowguard* {#harrower-s-guard-stance}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -253,7 +253,7 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Crescent Block  *command <target>* {#crescent-block}
+### Dual Axes Beard Trap  *n/a* {#beard-trap}
 
 *Add verified action description, targeting, and mechanics here.*
 
@@ -261,52 +261,56 @@ Replace this text with actual in-game output.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+Aiming for your torso, a thin sailor brings his scratched dagger to bear in a downward stabbing motion, but misses. You snap the head of your retalq axe outward, hooking the beard of the blade around a thin sailor's scratched dagger and wrenching it violently aside!
 
 </div>
 
-### Dual Axes Beard Trap  *command <target>* {#beard-trap}
+### Dual Axes Crescent Block  *n/a* {#crescent-block}
 
-*Add verified action description, targeting, and mechanics here.*
+A block for incoming attacks.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+Using her iron-tipped spear as a stave, a bandit covered with scars swings the butt around at you, but misses. You turn the broad crescent blade of your retalq axe outward, meeting a bandit covered with scars's iron-tipped spear head-on and checking the blow with the heavy face of the axe!
 
 </div>
 
-### Dual Axes Crossed Block  *command <target>* {#crossed-block}
+### Dual Axes Crossed Block  *n/a* {#crossed-block}
 
-*Add verified action description, targeting, and mechanics here.*
+A block for incoming attacks.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+A well tanned sailor makes a quick stabbing motion at you with her dagger with a rope grip, but misses. You cross the sturdy hafts of your retalq axe and iron axe overhead, catching the full force of a well tanned sailor's dagger with a rope grip between your crossed hafts!
 
 </div>
 
-### Dual Axes Haft Deflection  *command <target>* {#haft-deflection}
+### Dual Axes Haft Deflection  *n/a* {#haft-deflection}
 
-*Add verified action description, targeting, and mechanics here.*
+A block for incoming attacks.
 
 **When you see this in use you see:**
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+With a quick back-handed movement, a muscle-bound sailor swats at you with his simple club banded with iron, but misses. You angle the sturdy haft of your retalq axe forward, deflecting a muscle-bound sailor's simple club banded with iron harmlessly aside!
 
 </div>
 
 ### Dual Axes Accuracy  *n/a* {#accuracy}
 
-*Add verified action description, targeting, and mechanics here.*
+With enough training in Accuracy, you are able to raise your **perception** in combat situations. A grandmaster in this skill will be equivalent to low-end great [perception](/stats/#Perception).
+
+*(This is a passive skill that improves your perception, making it easier to hit targets.)*
 
 ### Dual Axes Grip  *n/a* {#grip}
 
-*Add verified action description, targeting, and mechanics here.*
+With enough training in Grip, you are able to raise your **dexterity** in combat situations. A grandmaster in this skill will be equivalent to low-end great [dexterity](/stats/#Dexterity).
+
+*(This is a passive skill that improves your dexterity, making it significantly easier to hit targets.)*
 
 
