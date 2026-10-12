@@ -41,7 +41,9 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Accuracy](#accuracy) | Difficult | — | — | N/A | — | 100 |
 | [Dual Axes Grip](#grip) | Impossible | — | — | N/A | — | 100 |
 
-**Trainer:** D'Kestor.
+**Trainer:** D'Kestor
+
+**Directions to Trainer — From Blackvine Square:** `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
 #### Momentum
 
 Dual Axes momentum builds by alternating left- and right-hand attacks, up to **5 (Full Momentum)**. Repeating the same strike stalls momentum without increasing or decreasing it.
@@ -86,10 +88,6 @@ These attacks build momentum **when used in an alternating left/right-hand patte
 | [Twin Fangs](#twin-fangs) | 3 | `twinfangs <character>` | Requires 3 but can consume up to 5 |
 
 Minimum momentum is the amount required to use an action, not necessarily the amount consumed.
-
-## Directions to Trainers
-
-**From Blackvine Square:** `s 1 se 1 s 1 se 1 e 8 s 7 e 1 n 1`
 
 ## Skill Details
 
