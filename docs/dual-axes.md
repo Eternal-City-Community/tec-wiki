@@ -45,7 +45,7 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 
 **Directions to Trainer — From Blackvine Square:** `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
 
-![Map showing the route from Blackvine Square to the Dual Axes and Dual Daggers trainers](/assets/uploads/DualTrainer.png)
+<img src="/assets/uploads/DualTrainer.png" alt="Blackvine Square map showing the dual weapon trainers" width="303" style="display: block; margin: 0.75rem 0 1.25rem 0; max-width: 100%; height: auto;">
 #### Momentum
 
 Dual Axes momentum builds by alternating left- and right-hand attacks, up to **5 (Full Momentum)**. Repeating the same strike stalls momentum without increasing or decreasing it.
