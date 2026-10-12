@@ -87,6 +87,10 @@ These attacks build momentum **when used in an alternating left/right-hand patte
 
 Minimum momentum is the amount required to use an action, not necessarily the amount consumed.
 
+## Directions to Trainers
+
+**From Blackvine Square:** `s 1 se 1 s 1 se 1 e 8 s 7 e 1 n 1`
+
 ## Skill Details
 
 The following actions are confirmed as teachable by D'Kestor. Replace the command placeholders, notes, and sample output with verified in-game information.
