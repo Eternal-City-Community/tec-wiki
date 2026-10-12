@@ -48,6 +48,8 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 
 **Directions to Trainer — From Blackvine Square:** `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
 
+![Map showing the route from Blackvine Square to the Dual Axes and Dual Daggers trainers](/assets/uploads/DualTrainer.png)
+
 ## Skill Details
 
 ### Dual Daggers Sanguine Stance  *SSTANCE* {#Sanguine}
