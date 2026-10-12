@@ -1,6 +1,6 @@
 ---
-title: "Reputation"
-category: "Reference"
+title: Reputation
+category: Reference
 parent: game-world
 ---
 
@@ -51,7 +51,7 @@ Due to armbands being the easiest to measure reputation, the below table is meas
 | some alanti mail shoulder guards | 3,500 | 80t | 3 lbs | Good - Shoulders |
 | a boison-tipped short spear | 3,800 | 175t | 4.2 lbs | Superior quality |
 | a boison war hammer | 3,800 | 175t | 10 lbs | Superior quality |
-| an alanti muscle cuirass | 4,300 | 185t | > |  |
+| an alanti muscle cuirass | 4,300 | 185t | 6 lbs | Very Good - Chest, Back, Waist  |
 | an alanti lorica segmentata | 4,750 | 195t | 9 lbs | Very Good - Chest, Back, Waist, Shoulders |
 | an alanti lorica squamata | 4,900 | 200t | 9 lbs | Very Good - Chest, Back, Waist, Thighs |
 | a retalq-tipped short spear | 5,500 | 250t | 3.3 lbs | Superior quality |
