@@ -25,21 +25,21 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Flank Hew](#flank-hew) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) (rank 40) | 100 |
 | [Dual Axes Hand Cleave](#hand-cleave) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) (rank 40) | 100 |
 | [Dual Axes Offhand Crush](#offhand-crush) | Average | 2 | — | Bruise | — | 100 |
-| [Dual Axes Onslaught](#onslaught) | Average | 2 | — | — | — | 100 |
+| [Dual Axes Onslaught](#onslaught) | Average | 2 | — | Varies | — | 100 |
 | [Dual Axes Poll Smash](#poll-smash) | Average | 2 | — | Bruise | — | 100 |
 | [Dual Axes Sundering Chop](#sundering-chop) | Average | 2 | — | — | Capable in [Rotating Chop](#rotating-chop) (rank 40) | 100 |
 | [Dual Axes Sweeping Cleave](#sweeping-cleave) | Average | 2 | — | Cut | — | 100 |
 | [Dual Axes Wolf's Hew](#wolf-s-hew) | Average | 2 | — | — | Learned in [Rotating Chop](#rotating-chop) and Head Butt (rank 30 each) | 100 |
 | [Dual Axes Frenzied Hack](#frenzied-hack) | Difficult | 2 | — | — | — | 100 |
-| [Dual Axes Harrowing](#harrowing) | Difficult | 2 | — | Bruise<br>Cut<br>Pierce | — | 100 |
-| [Dual Axes Twin Fangs](#twin-fangs) | Difficult | 2 | — | — | — | 100 |
+| [Dual Axes Harrowing](#harrowing) | Difficult | 2 | — | Varies | — | 100 |
+| [Dual Axes Twin Fangs](#twin-fangs) | Difficult | 2 | — | Cut | — | 100 |
 | [Dual Axes Wolf's Gyre](#wolf-s-gyre) | Difficult | 2 | — | — | Learned in [Rotating Chop](#rotating-chop) and [Sweeping Cleave](#sweeping-cleave) (rank 30 each) | 100 |
-| [Dual Axes Beard Trap](#beard-trap) | Difficult | 2 | — | — | — | 100 |
-| [Dual Axes Crescent Block](#crescent-block) | Average | 2 | — | — | — | 100 |
-| [Dual Axes Crossed Block](#crossed-block) | Difficult | 2 | — | — | — | 100 |
-| [Dual Axes Haft Deflection](#haft-deflection) | Difficult | 2 | — | — | — | 100 |
-| [Dual Axes Accuracy](#accuracy) | Difficult | — | — | — | — | 100 |
-| [Dual Axes Grip](#grip) | Impossible | — | — | — | — | 100 |
+| [Dual Axes Beard Trap](#beard-trap) | Difficult | 2 | — | N/A | — | 100 |
+| [Dual Axes Crescent Block](#crescent-block) | Average | 2 | — | N/A | — | 100 |
+| [Dual Axes Crossed Block](#crossed-block) | Difficult | 2 | — | N/A | — | 100 |
+| [Dual Axes Haft Deflection](#haft-deflection) | Difficult | 2 | — | N/A | — | 100 |
+| [Dual Axes Accuracy](#accuracy) | Difficult | — | — | N/A | — | 100 |
+| [Dual Axes Grip](#grip) | Impossible | — | — | N/A | — | 100 |
 
 **Trainer:** D'Kestor.
 #### Notes on Learning
@@ -158,7 +158,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Poll Smash  *pollsmash <target>* {#poll-smash}
 
-*Add verified action description, targeting, and mechanics here.*
+1-2 Attacks
 
 **When you see this in use you see:**
 
@@ -225,8 +225,16 @@ Uses all five momentum. 2-4 hits and possible knockdown.
 
 <div class="skill-template">
 
-You exhaust the rotational momentum of your axes, settling back into balance.
-[Success: 5, Roll: 35] Stepping inside a sickly yellow rat's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! Following a swift headbutt into a sickly yellow rat, you chop downward with your scarred bone axe! It suffers a bruise to its head. It suffers a deep cut to its head.
+**Bruise/Cut**
+[Success: 5, Roll: 63] Stepping inside a coarse seafarer's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! Following a swift headbutt into a coarse seafarer, you chop downward with your scarred bone axe! He suffers a major bruise to his head. He suffers a severe cut to his right hand. 
+**Pierce/Cut** 
+[Success: 5, Roll: 88] Stepping inside a rough-edged seafarer's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! You thrust the top horn of your scarred bone axe into a rough-edged seafarer and sweep your crude axe with a blade of sharpened bone across in follow-through! He suffers a gaping wound to his chest. He suffers a devastating cut to his chest. 
+**Bruise/Cut/Cut**
+[Success: 5, Roll: 10] Stepping inside a dark-skinned sailor's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! Following a headbutt into a dark-skinned sailor, you chop downward with your paired axes in quick succession! She suffers a bruise to her head. She suffers a cut to her left shoulder. She suffers a cut to her left hand.
+**4X Cut & Knockdown**
+[Success: 5, Roll: 21] Stepping inside a squinty-eyed sailor's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! You press the attack against a squinty-eyed sailor, delivering a continuous series of heavy, alternating chops into his guard! He suffers a cut to his chest. He suffers a deep cut to his head. He suffers a deep cut to his head. He suffers a deep cut to his right arm. The force of the strikes knocks a squinty-eyed sailor to the ground!
+**Bruise/Cut/Cut/Cut**
+[Success: 5, Roll: 80] Stepping inside a thin sailor's guard, you deliver a rapid, alternating sequence of heavy chops with your scarred bone axe and crude axe with a blade of sharpened bone! After a sharp headbutt into a thin sailor, you follow through with a series of quick chops from both axes!  Critical Hit! Strong hit to the head.   Critical Hit! Firm slash to the head.  He suffers a severe cut to his face.  Critical Hit! Damaging strike to the right arm.
 
 </div>
 
