@@ -40,13 +40,9 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 | [Dual Daggers Accuracy](#Accuracy) | Difficult | \- | \- | \- | \- | 100 |
 | [Dual Daggers Grip](#Grip) | Impossible | \- | \- | \- | \- | 100 |
 
-**Directions to Vivia** 
+**Directions to Vivia**
 
-
-
-**Trainer:** Vivia
-
-**Directions to Trainer — From Blackvine Square:** `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
+From Blackvine Square: `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
 
 <img src="/assets/uploads/DualTrainer.png" alt="Blackvine Square map showing the dual weapon trainers" width="303" style="display: block; margin: 0.75rem 0 1.25rem 0; max-width: 100%; height: auto;">
 
