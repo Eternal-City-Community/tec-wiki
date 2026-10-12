@@ -42,8 +42,51 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Grip](#grip) | Impossible | — | — | N/A | — | 100 |
 
 **Trainer:** D'Kestor.
-#### Notes on Learning
-Dual axes uses a momentum building system. Momentum builds by alternating hands, it doesn't actually matter if you're rotating multiple moves beyond left-right-left-right. Some moves require momentum and expend it. 
+#### Momentum
+
+Dual Axes momentum builds by alternating left- and right-hand attacks, up to **5 (Full Momentum)**. Repeating the same strike stalls momentum without increasing or decreasing it.
+
+| Level | In-game message |
+| --- | --- |
+| 1 | You feel the weight of your axes settle into an alternating rhythm. |
+| 2 | The heavy axe heads swing smoothly into a continuous rotation. |
+| 3 | The rotational cadence quickens, your shoulders driving each recovery. |
+| 4 | Centrifugal force pulls your strikes forward in rapid, heavy succession. |
+| 5 — Full Momentum | Your axes flow in a seamless, relentless cycle of momentum. |
+| All momentum removed | You exhaust the rotational momentum of your axes, settling back into balance. |
+
+- **Repeated strike (no change):** Repeating your strike breaks the cadence, stalling your momentum.
+- **Momentum spent (reduces by 2):** You channel the momentum of your axes into the strike, releasing the rotational build.
+
+#### Momentum-building attacks
+
+These attacks build momentum **when used in an alternating left/right-hand pattern**.
+
+| Action | Command |
+| --- | --- |
+| [Rotating Chop](#rotating-chop) | `rotchop <character>` |
+| [Offhand Chop](#offhand-chop) | `offchop <character>` |
+| [Poll Smash](#poll-smash) | `pollsmash <character>` |
+| [Offhand Crush](#offhand-crush) | `offcrush <character>` |
+| [Onslaught](#onslaught) | `onslaught <character>` |
+| [Offhand Pivoting Jab](#offhand-pivoting-jab) | `offpivot <character>` |
+
+#### Momentum-consuming attacks
+
+| Action | Minimum momentum | Command | Additional information |
+| --- | :---: | --- | --- |
+| [Flank Hew](#flank-hew) | Unconfirmed | `flankhew <character>` | Target must be snared or entangled |
+| [Frenzied Hack](#frenzied-hack) | 3 | `fhack <character>` | Berserk |
+| [Hand Cleave](#hand-cleave) | 2 | `handcleave <character>` | Capable in Rotating Chop (rank 40) |
+| [Harrowing](#harrowing) | 5 | `harrow <character>` | Uses all five momentum |
+| [Wolf's Hew](#wolf-s-hew) | 3 | `wolfshew <character>` | Learned in Rotating Chop and Head Butt (rank 30 each) |
+| [Sundering Chop](#sundering-chop) | 3 | `sunderchop <character>` | Capable in Rotating Chop (rank 40) |
+| [Sweeping Cleave](#sweeping-cleave) | 2 | `sweepcleave <character>` | — |
+| [Wolf's Gyre](#wolf-s-gyre) | 3 | `wolfsgyre <character>` | Learned in Rotating Chop and Sweeping Cleave (rank 30 each) |
+| [Twin Fangs](#twin-fangs) | 3 | `twinfangs <character>` | Requires 3 but can consume up to 5 |
+
+Minimum momentum is the amount required to use an action, not necessarily the amount consumed.
+
 ## Skill Details
 
 The following actions are confirmed as teachable by D'Kestor. Replace the command placeholders, notes, and sample output with verified in-game information.
@@ -84,7 +127,7 @@ Single Hitter. Cut. Defaults High. Can trigger CO.
 
 </div>
 
-### Dual Axes Rotating Chop  *rotcho <target>* {#rotating-chop}
+### Dual Axes Rotating Chop  *rotchop <target>* {#rotating-chop}
 
 Single Hitter. Cut. Defaults High. Can trigger CO.
 
@@ -108,9 +151,9 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Flank Hew  *command <target>* {#flank-hew}
+### Dual Axes Flank Hew  *flankhew <target>* {#flank-hew}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires the target to be snared or entangled. Momentum requirement not yet confirmed.
 
 **When you see this in use you see:**
 
@@ -120,9 +163,9 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Hand Cleave  *command <target>* {#hand-cleave}
+### Dual Axes Hand Cleave  *handcleave <target>* {#hand-cleave}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires 2 momentum and Capable (rank 40) in Rotating Chop.
 
 **When you see this in use you see:**
 
@@ -168,9 +211,9 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Sundering Chop  *command <target>* {#sundering-chop}
+### Dual Axes Sundering Chop  *sunderchop <target>* {#sundering-chop}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires 3 momentum and Capable (rank 40) in Rotating Chop.
 
 **When you see this in use you see:**
 
@@ -182,7 +225,7 @@ Replace this text with actual in-game output.
 
 ### Dual Axes Sweeping Cleave  *sweepcleave <target>* {#sweeping-cleave}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires 2 momentum.
 
 **When you see this in use you see:**
 
@@ -193,9 +236,9 @@ You channel the momentum of your axes into the strike, releasing the rotational 
 
 </div>
 
-### Dual Axes Wolf's Hew  *command <target>* {#wolf-s-hew}
+### Dual Axes Wolf's Hew  *wolfshew <target>* {#wolf-s-hew}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires 3 momentum and Learned (rank 30) in Rotating Chop and Head Butt.
 
 **When you see this in use you see:**
 
@@ -205,9 +248,9 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Frenzied Hack  *command <target>* {#frenzied-hack}
+### Dual Axes Frenzied Hack  *fhack <target>* {#frenzied-hack}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires 3 momentum. Berserk.
 
 **When you see this in use you see:**
 
@@ -240,7 +283,7 @@ Uses all five momentum. 2-4 hits and possible knockdown.
 
 ### Dual Axes Twin Fangs  *twinfangs <target>* {#twin-fangs}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires at least 3 momentum; can consume up to 5 if available.
 
 **When you see this in use you see:**
 
@@ -250,9 +293,9 @@ Replace this text with actual in-game output.
 
 </div>
 
-### Dual Axes Wolf's Gyre  *command <target>* {#wolf-s-gyre}
+### Dual Axes Wolf's Gyre  *wolfsgyre <target>* {#wolf-s-gyre}
 
-*Add verified action description, targeting, and mechanics here.*
+Requires 3 momentum and Learned (rank 30) in Rotating Chop and Sweeping Cleave.
 
 **When you see this in use you see:**
 
