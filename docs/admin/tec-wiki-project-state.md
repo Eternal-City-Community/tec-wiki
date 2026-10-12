@@ -621,3 +621,11 @@ At the beginning of a fresh TEC Wiki chat:
 - Implementation commits: JS `a6447cfed96ad7662e695ff360c8479c86c6162a`, CSS `df269792bacd418cbb71a942e3d1b51f90be92a2`, documentation `1f9bea4d7e8be877066e4302a38efc6a72c2d349`. JavaScript syntax was checked successfully; live browser/deployment not yet verified.
 
 - 2026-10-10 user correction: Strength/10 (10:1) offense contribution is weapon-dependent, not universal. Removed it from the Trait Calculator's generic Offense from stats calculation. Generic displayed offense is Dexterity/2 + Perception/4 + Empathy/4, with a note that weapon-specific Strength modifiers are excluded. Do not reintroduce Strength/10 into a universal offense formula. Commit `484b178d21e1a242de5d4a7b22f0d3f190fdba51`.
+
+### Dual Axes momentum and commands (user-confirmed 2026-10-12)
+
+- Momentum ranges from 0 to 5 (full). Alternating left/right-hand attacks builds it; repeating the same strike stalls without changing momentum. In-game messages for each level, reset, stall, and spending 2 are documented verbatim in `docs/dual-axes.md`.
+- Momentum builders: Rotating Chop (`rotchop`), Offhand Chop (`offchop`), Poll Smash (`pollsmash`), Offhand Crush (`offcrush`), Onslaught (`onslaught`), Offhand Pivoting Jab (`offpivot`).
+- Momentum minimums: Flank Hew unknown (target snared/entangled); Frenzied Hack 3 (berserk); Hand Cleave 2; Harrowing 5; Wolf's Hew 3; Sundering Chop 3; Sweeping Cleave 2; Wolf's Gyre 3; Twin Fangs 3 (can consume up to 5).
+- Commands for spenders: `flankhew`, `fhack`, `handcleave`, `harrow`, `wolfshew`, `sunderchop`, `sweepcleave`, `wolfsgyre`, `twinfangs`. Requirements for Rotating Chop, Head Butt, and Sweeping Cleave ranks remain documented above.
+- Distinguish momentum required from momentum actually consumed; do not infer an exact spend from a minimum unless independently verified.
