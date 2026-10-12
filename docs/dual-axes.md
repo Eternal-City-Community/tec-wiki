@@ -41,9 +41,9 @@ Dual Axes is a combat skill set taught by **D'Kestor**. The trainer information 
 | [Dual Axes Accuracy](#accuracy) | Difficult | — | — | N/A | — | 100 |
 | [Dual Axes Grip](#grip) | Impossible | — | — | N/A | — | 100 |
 
-**Trainer:** D'Kestor
+**Directions to D'Kestor**
 
-**Directions to Trainer — From Blackvine Square:** `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
+From Blackvine Square: `walk s 1 se 1 s 1 se 1 e 7 s 7 e 1 n 1`
 
 <img src="/assets/uploads/DualTrainer.png" alt="Blackvine Square map showing the dual weapon trainers" width="303" style="display: block; margin: 0.75rem 0 1.25rem 0; max-width: 100%; height: auto;">
 #### Momentum
