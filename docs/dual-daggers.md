@@ -43,6 +43,10 @@ Knives and Cineran Knife Fighting cannot be used while dual-wielding. Skill Poin
 **Directions to Vivia** 
 
 
+## Directions to Trainers
+
+**From Blackvine Square:** `s 1 se 1 s 1 se 1 e 8 s 7 e 1 n 1`
+
 ## Skill Details
 
 ### Dual Daggers Sanguine Stance  *SSTANCE* {#Sanguine}
