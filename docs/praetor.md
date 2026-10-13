@@ -1,6 +1,6 @@
 ---
-title: "Praetor"
-category: "Reference"
+title: Praetor
+category: Reference
 parent: unofficial-game-clients
 ---
 
@@ -9,7 +9,6 @@ parent: unofficial-game-clients
 Praetor is a free, open-source desktop client for The Eternal City. It runs on Windows, macOS, and Linux.
 
 ![Praetor connected to the Welcome Room, showing game output, map, compass, vitals, sidebar tools, command input, and Automation Bar](/assets/wikidot/praetor/praetor-action-screen.png)
-
 
 [TOC]
 
