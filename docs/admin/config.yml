@@ -74,7 +74,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
-        hint: Use the + menu in the editor toolbar to insert a Combat Skill or Crafting Skill starter template.
+        # Markdown only: rich text mode rewrites the page's Markdown on save.
+        modes: [raw]
+        hint: Use the Templates menu in the editor toolbar to insert a Combat Skill or Crafting Skill starter.
       - label: Category
         name: category
         widget: select

@@ -1,0 +1,180 @@
+/* Dark theme for the editor's left pane (the fields), on by default.
+   tec-cms-editor-theme.js sets html.tec-editor-dark and adds the switch.
+   Decap's class names carry its component names, so they are matched by part. */
+
+html.tec-editor-dark {
+  --tec-ed-bg: #1f2228;
+  --tec-ed-surface: #2a2e35;
+  --tec-ed-raised: #343943;
+  --tec-ed-border: #3d434d;
+  --tec-ed-text: #e2e5ea;
+  --tec-ed-muted: #9aa3b1;
+  --tec-ed-accent: #6b9bf0;
+}
+
+html.tec-editor-dark .SplitPane > .Pane1,
+html.tec-editor-dark [class*="ControlPaneContainer"] {
+  background: var(--tec-ed-bg);
+  color: var(--tec-ed-text);
+  color-scheme: dark;
+}
+
+/* Field labels: tabs above each field, blue while the field has focus. */
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="FieldLabel"] {
+  background-color: var(--tec-ed-raised) !important;
+  color: var(--tec-ed-muted) !important;
+}
+
+/* Decap draws the tab's corners with these; the light one shows on dark. */
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="FieldLabel"]::after {
+  background-color: transparent !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="ControlContainer"]:focus-within > [class*="ControlTopbar"] [class*="FieldLabel"] {
+  background-color: var(--tec-ed-accent) !important;
+  color: #fff !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="ControlHint"] {
+  color: var(--tec-ed-muted);
+}
+
+/* Text inputs and the Parent page field's box. */
+html.tec-editor-dark [class*="ControlPaneContainer"] input:not(.tec-parent__input):not([class*="-control"] input):not([type="checkbox"]):not([type="radio"]),
+html.tec-editor-dark [class*="ControlPaneContainer"] textarea,
+html.tec-editor-dark [class*="ControlPaneContainer"] div:has(> .tec-parent) {
+  background-color: var(--tec-ed-surface) !important;
+  color: var(--tec-ed-text) !important;
+  border-color: var(--tec-ed-border) !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] input:not(.tec-parent__input):not([class*="-control"] input):focus,
+html.tec-editor-dark [class*="ControlPaneContainer"] textarea:focus,
+html.tec-editor-dark [class*="ControlPaneContainer"] div:has(> .tec-parent):focus-within {
+  border-color: var(--tec-ed-accent) !important;
+}
+
+/* Markdown editor: toolbar and text area. */
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="EditorControlBar"],
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="ToolbarContainer"] {
+  background-color: var(--tec-ed-raised) !important;
+  color: var(--tec-ed-text) !important;
+  border-color: var(--tec-ed-border) !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [data-slate-editor] {
+  background-color: var(--tec-ed-surface) !important;
+  color: var(--tec-ed-text) !important;
+  border-color: var(--tec-ed-border) !important;
+  caret-color: #fff;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="ControlContainer"]:focus-within [data-slate-editor],
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="ControlContainer"]:focus-within [class*="ToolbarContainer"] {
+  border-color: var(--tec-ed-accent) !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [data-slate-editor] ::selection {
+  background: rgba(107,155,240,.4);
+}
+
+/* Category dropdown (react-select). */
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-control"] {
+  background-color: var(--tec-ed-surface) !important;
+  border-color: var(--tec-ed-border) !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-singleValue"],
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-control"] input {
+  color: var(--tec-ed-text) !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-menu"] {
+  background-color: var(--tec-ed-surface) !important;
+  border: 1px solid var(--tec-ed-border);
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-option"] {
+  background-color: transparent !important;
+  color: var(--tec-ed-text) !important;
+}
+
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-option"]:hover,
+html.tec-editor-dark [class*="ControlPaneContainer"] [class*="-option"][aria-selected="true"] {
+  background-color: var(--tec-ed-raised) !important;
+  color: var(--tec-ed-accent) !important;
+}
+
+/* Our own menus: Parent page suggestions and Templates. */
+html.tec-editor-dark .tec-parent__list,
+html.tec-editor-dark .tec-templates__menu {
+  background: var(--tec-ed-surface);
+  border-color: var(--tec-ed-border);
+  box-shadow: 0 6px 16px rgba(0,0,0,.45);
+}
+
+html.tec-editor-dark .tec-templates__item {
+  color: var(--tec-ed-text);
+}
+
+html.tec-editor-dark .tec-parent__option--active,
+html.tec-editor-dark .tec-templates__item:hover,
+html.tec-editor-dark .tec-templates__item:focus-visible {
+  background: var(--tec-ed-raised);
+  color: var(--tec-ed-accent);
+}
+
+html.tec-editor-dark .tec-parent__option small,
+html.tec-editor-dark .tec-parent__note,
+html.tec-editor-dark .tec-parent__clear {
+  color: var(--tec-ed-muted);
+}
+
+/* Theme switch in the top bar. */
+.tec-theme-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-right: 16px;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: #798291;
+  font: inherit;
+  font-size: 14px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.tec-theme-switch:hover {
+  color: #3a69c7;
+}
+
+.tec-theme-switch__track {
+  position: relative;
+  width: 34px;
+  height: 18px;
+  border-radius: 9px;
+  background: #c9cdd4;
+  transition: background .15s;
+}
+
+.tec-theme-switch__track::after {
+  content: "";
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #fff;
+  transition: transform .15s;
+}
+
+.tec-theme-switch[aria-checked="true"] .tec-theme-switch__track {
+  background: #3a69c7;
+}
+
+.tec-theme-switch[aria-checked="true"] .tec-theme-switch__track::after {
+  transform: translateX(16px);
+}

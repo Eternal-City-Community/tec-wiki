@@ -580,6 +580,8 @@ At the beginning of a fresh TEC Wiki chat:
 - The full page offers 7-, 30-, and 90-day views. The homepage shows up to five recent wiki page changes from the last 30 days.
 - Added new-page starter templates to the Decap editor: Blank page (default), Combat Skill based structurally on Tridents, and Crafting Skill based structurally on Jewelry.
 - Templates only seed the Body field and do not add template metadata or create a runtime dependency. Mechanics/trainer values/commands remain placeholders until confirmed for the new page.
+- The Body editor is Markdown only (`modes: [raw]`); rich text mode is off. Starters are inserted from a "Templates" menu in the Body toolbar (`docs/admin/tec-cms-templates.js`), which replaces Decap's disabled formatting buttons.
+- The editor's field pane is dark by default; a "Dark mode" switch in the top bar turns it off, remembered per browser (`tec-cms-editor-theme.js`, `tec-cms-editor-dark.css`).
 - Corrected the Worker Page History repository target to the canonical organization repository.
 
 - 2026-10-07: Cloudflare missed the automatic build trigger for commit `4e2ca2355ad23a29f8670c2e184e7bb2db319048`; follow-up commit created to retrigger the Git integration.
