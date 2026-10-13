@@ -223,7 +223,7 @@ Requires 3 momentum and Capable (rank 40) in Rotating Chop.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+Putting your weight behind the heavy wedge of your time-worn bone axe with a sturdy haft, you drive a heavy sundering chop into a sun burnt sailor's defenses, biting deep into his protection! He suffers a deep cut to his left shoulder.
 
 </div>
 
