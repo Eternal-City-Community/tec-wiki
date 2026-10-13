@@ -1,0 +1,147 @@
+/* Wiki-styled editor login page. Decap's login screen is a <section> holding
+   the config's logo_url image; it is recognised by that image, so these rules
+   leave the rest of the editor alone. The wiki title is drawn with ::before /
+   ::after, and the logo slot is reused for the sign-in note. */
+
+body:has(#nc-root section > span > img[alt="Logo"]) {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 78% 34%, rgba(167,143,91,.35), transparent 27rem),
+    radial-gradient(circle at 68% 68%, rgba(55,73,35,.35), transparent 35rem),
+    linear-gradient(115deg, #536044 0%, #72725b 38%, #384735 100%);
+  background-attachment: fixed;
+}
+
+/* Bronze stripe along the top, as on the wiki. */
+body:has(#nc-root section > span > img[alt="Logo"])::before {
+  content: "";
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 10px;
+  background:
+    linear-gradient(90deg,
+      #9c6a3b 0 3px,
+      #efe7c7 3px 8px,
+      #9c6a3b 8px 11px,
+      #efe7c7 11px 16px);
+  background-size: 16px 10px;
+  border-top: 2px solid #9c6a3b;
+  border-bottom: 2px solid #9c6a3b;
+}
+
+#nc-root section:has(> span > img[alt="Logo"]) {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  width: min(35rem, calc(100vw - 32px));
+  height: auto;
+  gap: 1.1rem;
+  padding: 2.4rem 2rem 1.6rem;
+  background: rgba(239,231,199,.98);
+  color: #2b271d;
+  border: 1px solid #8d8659;
+  border-bottom: 4px solid #173104;
+  box-shadow: 0 18px 50px rgba(20,26,12,.45);
+  font-family: Georgia, "Times New Roman", serif;
+  text-align: center;
+}
+
+#nc-root section:has(> span > img[alt="Logo"])::before {
+  content: "The Eternal City Wiki";
+  order: -2;
+  text-transform: uppercase;
+  letter-spacing: .23em;
+  font-size: 1.55rem;
+  line-height: 1.25;
+}
+
+#nc-root section:has(> span > img[alt="Logo"])::after {
+  content: "Unofficial wiki for The Eternal City MUD";
+  order: -1;
+  margin-top: -.6rem;
+  text-transform: uppercase;
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .17em;
+  color: #4d4a36;
+}
+
+/* Logo slot: the image is the tiny favicon, so show the sign-in note instead. */
+#nc-root section > span:has(> img[alt="Logo"]) {
+  width: 100%;
+  margin: .2rem 0 .3rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid #8d8659;
+  color: #665f49;
+  font-size: .95rem;
+  line-height: 1.45;
+}
+
+#nc-root section > span > img[alt="Logo"] {
+  display: none;
+}
+
+#nc-root section > span:has(> img[alt="Logo"])::after {
+  content: "Wiki editors sign in with their GitHub account.";
+}
+
+/* Decap credit mark. */
+#nc-root section:has(> span > img[alt="Logo"]) > span:has(> svg) {
+  display: none;
+}
+
+/* GitHub-branded login button. */
+#nc-root section:has(> span > img[alt="Logo"]) > button {
+  height: 44px;
+  padding: 0 22px;
+  border: 1px solid #1b1f23;
+  border-radius: 6px;
+  background: #24292f;
+  color: #fff;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0,0,0,.25);
+}
+
+#nc-root section:has(> span > img[alt="Logo"]) > button:hover:not([disabled]),
+#nc-root section:has(> span > img[alt="Logo"]) > button:focus-visible {
+  background: #32383f;
+}
+
+#nc-root section:has(> span > img[alt="Logo"]) > button[disabled] {
+  background: #57606a;
+  border-color: #57606a;
+  color: #eaeef2;
+}
+
+#nc-root section:has(> span > img[alt="Logo"]) > button svg {
+  fill: currentColor;
+}
+
+/* Login error text. */
+#nc-root section:has(> span > img[alt="Logo"]) > p {
+  margin: 0;
+  color: #8a2a1a;
+  font-size: .9rem;
+}
+
+/* "Go back to site" link. */
+#nc-root section:has(> span > img[alt="Logo"]) > a {
+  margin-top: .3rem;
+  padding: 4px;
+  color: #234707;
+  font-size: .85rem;
+  text-decoration: none;
+}
+
+#nc-root section:has(> span > img[alt="Logo"]) > a p {
+  margin: 0 6px;
+  color: inherit;
+}
+
+#nc-root section:has(> span > img[alt="Logo"]) > a:hover p {
+  text-decoration: underline;
+}
