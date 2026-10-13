@@ -3084,3 +3084,12 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
   .tec-whats-new-controls button { flex:1 1 5rem; min-height:42px; }
   .tec-whats-new-entry { padding:.58rem .62rem; }
 }
+
+/* General Rules: preserve the original two-column arrangement with softer panels. */
+.tec-general-rules-grid { gap: 1.5rem; }
+.tec-general-rules-column { min-width: 0; padding: 1rem 1.2rem; border: 1px solid rgba(110,116,78,.25); border-radius: .75rem; background: rgba(122,132,82,.04); }
+.tec-general-rules-contact { border-left: 1px solid rgba(110,116,78,.25); }
+.tec-general-rules-column ul > li { margin-bottom: 1rem; line-height: 1.7; }
+.tec-general-rules-contact h5 { margin-top: 1.1rem; padding-bottom: .3rem; border-bottom: 1px solid rgba(110,116,78,.2); }
+.tec-general-rules-contact p { line-height: 1.65; }
+@media screen and (max-width: 62rem) { .tec-general-rules-column { padding: 1rem; } }
