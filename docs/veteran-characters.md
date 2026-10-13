@@ -51,7 +51,9 @@ Veteran Character (VC) packages can be obtained in multiple ways.
 
 > Pranzor (GM) says, "The calculation for the veteran package considers age (40%), RPs spent (30%), and total skill points earned (30%, divided by 7.5). For every 125 RPs spent, 1 month is added to the age in years, and for every total skill points divided by 7.5, 125 points add 1 month. The final package level defaults to the higher value between the original VC level and the new package calculation."
 
-In the event you receive a VC package for free, you have the option to **upgrade** this package **using your [role points](/account/#RolePoints)** (Cost = The desired VC package price - the price of the package you were issued). To upgrade your package, please submit an @request with the details.
+In the event you receive a VC package for free, you have the option to **upgrade** this package **using your [role points](/account/#RolePoints)** (Cost = The desired VC package price - the price of the package you were issued).
+
+Redeem your free VC package from the `@perks` menu. When you create a new character, you will be prompted with the option to upgrade your package with RPs. Only one redeemed VC package can be pending character creation at a time.
 
 
 The table below shows the different VC packages available, with their corresponding character age, RP cost, GSPs, credits, wealth, attribute points, and extras:
@@ -129,6 +131,8 @@ The process of retiring a character involves several technical and Role Point (R
 ### Veteran Character Lobby {#Lobby}
 
 Your new character will be placed in an out-of-character (OOC) lounge to spend their GSP, credits, stat points, and receive any extras that they are entitled to. Walk around to explore all the "stores" where you can spend those credits.
+
+**Attribute point restriction:** VC attribute points cannot be used to increase **Empathy, Charisma, or Appearance** in the VC lobby. These attributes must be raised using **Story Points**.
 
 #### Credits {#Credits}
 
