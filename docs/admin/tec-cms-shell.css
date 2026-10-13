@@ -1,0 +1,91 @@
+/* Wiki colors for the editor's frame, the same in dark and light mode: the top
+   bar, the round preview / scroll-sync buttons, and the loading screens.
+   Decap's class names carry its component names, so they are matched by part. */
+
+:root {
+  --tec-bar: #2e3a2a;
+  --tec-bar-hover: #39472f;
+  --tec-bar-text: #efe7c7;
+  --tec-bar-muted: #c2b994;
+  --tec-bar-link: #e5c98a;
+  --tec-bar-line: rgba(239,231,199,.16);
+  --tec-bronze: #9c6a3b;
+}
+
+/* Editor top bar. Its right-hand group (ToolbarSubSectionLast) tells it apart
+   from the Markdown toolbar, which shares the ToolbarContainer name. */
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) {
+  background-color: var(--tec-bar) !important;
+  border-bottom: 3px solid var(--tec-bronze);
+  box-sizing: border-box;
+  color: var(--tec-bar-text);
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) > * {
+  border-color: var(--tec-bar-line) !important;
+}
+
+[class*="ToolbarSectionBackLink"],
+[class*="ToolbarSectionBackLink"] [class*="BackArrow"],
+[class*="ToolbarSectionBackLink"] [class*="BackCollection"] {
+  color: var(--tec-bar-text) !important;
+}
+
+[class*="ToolbarSectionBackLink"]:hover,
+[class*="ToolbarSectionBackLink"]:focus {
+  background-color: var(--tec-bar-hover) !important;
+}
+
+/* "View Live", our "Formatting" link, the dark-mode switch, the site link and
+   the "Signed in as" label. */
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="PreviewButtonContainer"],
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="PreviewButtonContainer"] a,
+.tec-format-link {
+  color: var(--tec-bar-link) !important;
+}
+
+.tec-theme-switch,
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarSectionMeta"] a,
+.tec-cms-user {
+  color: var(--tec-bar-muted) !important;
+}
+
+.tec-theme-switch:hover,
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarSectionMeta"] a:hover {
+  color: var(--tec-bar-text) !important;
+}
+
+.tec-theme-switch[aria-checked="true"] .tec-theme-switch__track {
+  background: var(--tec-bronze);
+}
+
+.tec-theme-switch .tec-theme-switch__track {
+  background: #5d6656;
+}
+
+/* Round buttons over the preview: show/hide preview and scroll sync. Decap
+   colors the icon blue when on and gray when off; brightening keeps that
+   difference readable on the dark circle. */
+[class*="ViewControls"] button {
+  background-color: var(--tec-bar) !important;
+  border: 2px solid var(--tec-bronze);
+  box-sizing: border-box;
+}
+
+[class*="ViewControls"] button svg {
+  filter: brightness(1.7) saturate(.9);
+}
+
+/* Loading screens ("Loading configuration...", "Loading entry..."). The page
+   before the editor script starts gets the same background from index.html. */
+body:has(#nc-root [class*="Loader"]):not(:has([class*="SplitPane"])) {
+  background:
+    radial-gradient(circle at 78% 34%, rgba(167,143,91,.35), transparent 27rem),
+    radial-gradient(circle at 68% 68%, rgba(55,73,35,.35), transparent 35rem),
+    linear-gradient(115deg, #536044 0%, #72725b 38%, #384735 100%) !important;
+  background-attachment: fixed !important;
+}
+
+#nc-root [class*="Loader"] {
+  color: var(--tec-bar-text) !important;
+}
