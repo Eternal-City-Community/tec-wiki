@@ -127,6 +127,7 @@ function initTecSidebar() {
     link("Religion", page("religion")),
     link("Reputation", page("reputation")),
     link("Shops", page("shops")),
+    link("Player Shops", page("player-shops")),
     link("Wealth", page("wealth"))
   ]);
 
