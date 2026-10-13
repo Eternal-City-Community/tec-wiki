@@ -223,7 +223,7 @@ Requires 3 momentum and Capable (rank 40) in Rotating Chop.
 
 <div class="skill-template">
 
-Putting your weight behind the heavy wedge of your time-worn bone axe with a sturdy haft, you drive a heavy sundering chop into a sun burnt sailor's defenses, biting deep into his protection! He suffers a deep cut to his left shoulder.
+Putting your weight behind the heavy wedge of your bone axe, you drive a heavy sundering chop into a sun burnt sailor's defenses, biting deep into his protection! He suffers a deep cut to his left shoulder.
 
 </div>
 
@@ -305,7 +305,7 @@ Requires 3 momentum and Learned (rank 30) in Rotating Chop and Sweeping Cleave.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+You pivot through a complete rotation, chopping into a well tanned sailor with your battered bone axe before bringing your scarred bone axe around on the follow-through! She suffers a severe cut to her left hand. She suffers a severe cut to her face.
 
 </div>
 
