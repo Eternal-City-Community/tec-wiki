@@ -29,6 +29,7 @@ nav:
       - Game World: game-world.md
       - Maps: maps.md
       - Shops: shops.md
+      - Player Shops: player-shops.md
       - Organizations: orgs.md
   - Skills:
       - Skills Overview: skills.md
