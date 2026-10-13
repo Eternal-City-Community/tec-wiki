@@ -3093,3 +3093,6 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 .tec-general-rules-contact h5 { margin-top: 1.1rem; padding-bottom: .3rem; border-bottom: 1px solid rgba(110,116,78,.2); }
 .tec-general-rules-contact p { line-height: 1.65; }
 @media screen and (max-width: 62rem) { .tec-general-rules-column { padding: 1rem; } }
+
+.tec-rules-notice { margin: .85rem 0 1.1rem; padding: .8rem 1rem; border-left: 4px solid #967b38; border-radius: .35rem; background: rgba(171,137,52,.11); }
+.tec-rules-notice p { margin: 0; }
