@@ -12,7 +12,7 @@ Player-owned shops in The Eternal City are listed alphabetically by shop name. S
 **Shop Name:** The Crimson Emporium  
 **Shop Owner:** Owin  
 **Description:** *Details to be added.*  
-**Directions:** *Details to be added.*
+**Directions:** From Vetullan Crossroads: Walk s 2 w 1
 
 ## Exquisite Emporium
 
@@ -26,11 +26,11 @@ Player-owned shops in The Eternal City are listed alphabetically by shop name. S
 **Shop Name:** The Flying Fish  
 **Shop Owner:** Gendibold  
 **Description:** *Details to be added.*  
-**Directions:** *Details to be added.*
+**Directions:** From Vetullan Crossroads: Walk w 4 n 4 nw 1 s 1
 
 ## The Hole in the Wall
 
 **Shop Name:** The Hole in the Wall  
 **Shop Owner:** Ioulinus  
 **Description:** *Details to be added.*  
-**Directions:** *Details to be added.*
+**Directions:** From Steps Porticullis: Walk e 7 s 1 e 1 s 1 e 4 s 2 e 7 s 5 w 3 n 1
