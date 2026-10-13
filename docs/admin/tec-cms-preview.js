@@ -284,13 +284,22 @@
     watchPreviewScroll(frame);
   }
 
-  // Scroll sync: Decap's own sync doesn't move this preview, so keep the editor
-  // and preview at the same relative position here. Decap's toggle button still
-  // switches it on and off (it stores its state under this key).
+  // Scrolling: a pane moves only when the user scrolls it (wheel, touch,
+  // scrollbar, keys). Re-rendering the preview while typing, or the editor
+  // keeping the caret in view, must not move either side. With scroll sync on
+  // (Decap's toggle, stored under this key), a user scroll on one side moves
+  // the other to the same relative position. Decap's own sync is switched off:
+  // it follows every scroll, including those made while typing.
   var SCROLL_SYNC_KEY = "cms.scroll-sync-enabled";
-  var ECHO_MS = 150;
-  var lastDriver = null;
-  var lastDriveTime = 0;
+  var SETTLE_MS = 300;
+  var NAV_KEYS = ["PageUp", "PageDown", "Home", "End", "ArrowUp", "ArrowDown", " "];
+
+  var userAt = { editor: 0, preview: 0 };     // last wheel/touch/scroll key
+  var holding = { editor: false, preview: false }; // pointer down on a scrollbar
+  var typedAt = 0;          // last key or input in the editor
+  var renderedAt = 0;       // last change to the preview's content
+  var ownScroll = { editor: null, preview: null }; // scrollTop we set ourselves
+  var anchor = null;        // preview block at the top of the view, see holdPreview
 
   function scrollSyncEnabled() {
     try {
@@ -308,50 +317,190 @@
     return pane && pane.firstElementChild;
   }
 
-  function scrollFraction(el) {
-    var range = el.scrollHeight - el.clientHeight;
-    return range > 0 ? el.scrollTop / range : 0;
-  }
-
-  function scrollToFraction(el, fraction) {
-    el.scrollTop = fraction * Math.max(0, el.scrollHeight - el.clientHeight);
-  }
-
-  // Scrolling one side moves the other, which fires its own scroll event. Ignore
-  // that echo by letting only the side the user is scrolling drive for a moment.
-  function drive(source, from, to) {
-    var now = Date.now();
-    if (!scrollSyncEnabled() || !from || !to) return;
-    if (lastDriver && lastDriver !== source && now - lastDriveTime < ECHO_MS) return;
-    lastDriver = source;
-    lastDriveTime = now;
-    scrollToFraction(to, scrollFraction(from));
-  }
-
   function previewScroller() {
     var frame = document.getElementById("preview-pane");
     var doc = frame && frame.contentDocument;
     return doc && doc.scrollingElement;
   }
 
+  function userScrolling(side) {
+    return holding[side] || Date.now() - userAt[side] < SETTLE_MS;
+  }
+
+  function setScroll(side, el, top) {
+    var max = Math.max(0, el.scrollHeight - el.clientHeight);
+    top = Math.round(Math.min(Math.max(top, 0), max));
+    if (Math.abs(el.scrollTop - top) < 1) return;
+    ownScroll[side] = top;
+    el.scrollTop = top;
+  }
+
+  function isOwnScroll(side, el) {
+    if (ownScroll[side] === null) return false;
+    var own = Math.abs(el.scrollTop - ownScroll[side]) < 2;
+    ownScroll[side] = null;
+    return own;
+  }
+
+  function scrollFraction(el) {
+    var range = el.scrollHeight - el.clientHeight;
+    return range > 0 ? el.scrollTop / range : 0;
+  }
+
+  function follow(side, from, to) {
+    if (!scrollSyncEnabled() || !from || !to) return;
+    var range = to.scrollHeight - to.clientHeight;
+    setScroll(side, to, scrollFraction(from) * Math.max(0, range));
+    if (side === "preview") rememberAnchor();
+  }
+
+  // The preview stays on the block the user was looking at. A re-render
+  // replaces every block, and edits above the view change its height, so the
+  // block is found again by its text (or its place) and the view moved back
+  // onto it.
+  function previewBlocks() {
+    var frame = document.getElementById("preview-pane");
+    var doc = frame && frame.contentDocument;
+    var root = doc && bodyRoot(doc.querySelector("article"));
+    return root ? root.children : [];
+  }
+
+  function blockKey(el) {
+    return (el.textContent || "").trim().slice(0, 80);
+  }
+
+  function rememberAnchor() {
+    var blocks = previewBlocks();
+    anchor = null;
+    for (var i = 0; i < blocks.length; i++) {
+      var top = blocks[i].getBoundingClientRect();
+      if (top.bottom > 0) {
+        anchor = { index: i, key: blockKey(blocks[i]), top: top.top };
+        return;
+      }
+    }
+  }
+
+  function findAnchor(blocks) {
+    var best = null;
+    for (var i = 0; i < blocks.length; i++) {
+      if (blockKey(blocks[i]) !== anchor.key) continue;
+      if (best === null || Math.abs(i - anchor.index) < Math.abs(best - anchor.index)) best = i;
+    }
+    if (best === null) best = Math.min(anchor.index, blocks.length - 1);
+    return best >= 0 ? blocks[best] : null;
+  }
+
+  function holdPreview() {
+    var preview = previewScroller();
+    if (!preview || !anchor || userScrolling("preview")) return;
+    var el = findAnchor(previewBlocks());
+    if (!el) return;
+    var shift = el.getBoundingClientRect().top - anchor.top;
+    if (Math.abs(shift) >= 1) setScroll("preview", preview, preview.scrollTop + shift);
+    rememberAnchor();
+  }
+
+  function onEditorScroll(editor) {
+    if (isOwnScroll("editor", editor)) return;
+    // Scrolls while typing keep the caret in view; the preview stays put.
+    var user = userScrolling("editor") || Date.now() - typedAt > SETTLE_MS;
+    if (user) follow("preview", editor, previewScroller());
+  }
+
+  function onPreviewScroll(preview) {
+    if (isOwnScroll("preview", preview)) return;
+    var user = userScrolling("preview") || Date.now() - renderedAt > SETTLE_MS;
+    if (!user) {
+      holdPreview();
+      return;
+    }
+    rememberAnchor();
+    follow("editor", preview, editorScroller());
+  }
+
+  // Decap's react-scroll-sync attaches through element.onscroll; ignore it.
+  function disableDecapSync(el) {
+    if (!el || el.__tecNoDecapSync) return;
+    el.__tecNoDecapSync = true;
+    el.onscroll = null;
+    Object.defineProperty(el, "onscroll", { configurable: true, get: function () { return null; }, set: function () {} });
+  }
+
+  function watchIntent(win, side, scroller) {
+    win.addEventListener("wheel", function () { userAt[side] = Date.now(); }, { capture: true, passive: true });
+    win.addEventListener("touchmove", function () { userAt[side] = Date.now(); }, { capture: true, passive: true });
+    win.addEventListener("pointerdown", function (event) {
+      // A press on the scroll box itself (not its content) is on the scrollbar.
+      var el = scroller();
+      if (el && (event.target === el || event.target === el.ownerDocument.documentElement)) holding[side] = true;
+    }, true);
+    function release() {
+      if (holding[side]) userAt[side] = Date.now();
+      holding[side] = false;
+    }
+    win.addEventListener("pointerup", release, true);
+    win.addEventListener("pointercancel", release, true);
+  }
+
+  watchIntent(window, "editor", editorScroller);
+
+  document.addEventListener("keydown", function (event) {
+    var editor = editorScroller();
+    if (!editor || !editor.contains(event.target)) return;
+    var editable = event.target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(event.target.tagName);
+    if (event.key === "PageUp" || event.key === "PageDown" || (!editable && NAV_KEYS.indexOf(event.key) !== -1)) {
+      userAt.editor = Date.now();
+    } else {
+      typedAt = Date.now();
+    }
+  }, true);
+  document.addEventListener("input", function () { typedAt = Date.now(); }, true);
+
   // Scroll events don't bubble, so catch the editor's in the capture phase.
   document.addEventListener("scroll", function (event) {
     var editor = editorScroller();
-    if (event.target === editor) drive("editor", editor, previewScroller());
+    if (event.target !== editor) return;
+    disableDecapSync(editor);
+    onEditorScroll(editor);
   }, true);
 
   function watchPreviewScroll(frame) {
     function attach() {
       var win = frame.contentWindow;
-      if (!win || win.__tecScrollSync) return;
-      win.__tecScrollSync = true;
-      win.addEventListener("scroll", function () {
-        drive("preview", previewScroller(), editorScroller());
-      });
+      var doc = frame.contentDocument;
+      if (!win || !doc) return;
+
+      // The first blank document's window is kept when the preview loads, so
+      // the window is watched once and the current document looked up per event.
+      if (!win.__tecScroll) {
+        win.__tecScroll = true;
+        watchIntent(win, "preview", previewScroller);
+        win.addEventListener("keydown", function (event) {
+          if (NAV_KEYS.indexOf(event.key) !== -1) userAt.preview = Date.now();
+        }, true);
+        win.addEventListener("scroll", function () {
+          var preview = previewScroller();
+          if (preview) onPreviewScroll(preview);
+        });
+      }
+
+      if (doc.__tecScroll) return;
+      doc.__tecScroll = true;
+      anchor = null;
+      disableDecapSync(doc.scrollingElement);
+      disableDecapSync(editorScroller());
+      // Runs before the browser paints, so a re-render never shows a jump.
+      new win.MutationObserver(function () {
+        renderedAt = Date.now();
+        if (anchor) holdPreview();
+        else rememberAnchor();
+      }).observe(doc, { childList: true, subtree: true, characterData: true, attributes: true });
     }
     attach();
     frame.addEventListener("load", attach);
   }
+
 
   window.tecCmsPreview = {
     DESKTOP_WIDTH: DESKTOP_WIDTH,
