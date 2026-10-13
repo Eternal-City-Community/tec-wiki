@@ -22,9 +22,9 @@ parent: character-generator
 
 **Stats:** Aestivans are thought to have strong spear arms and even stronger convictions, but are rigid in other ways.
 
-- National Lore: [Aestiva Surveyor Lore](/national-lores/)
-- National Lore: [Aestiva Spear Hurling Lore](/national-lores/) 
-- Free Skill: [Spears](/spears/)
+[1]  National Lore: [Aestiva Surveyor Lore](/national-lores/)
+[2]  National Lore: [Aestiva Spear Hurling Lore](/national-lores/) 
+[3]  Free Skill: [Spears](/spears/)
 
 </div>
 
@@ -36,9 +36,9 @@ parent: character-generator
 
 **Stats:** Altenes are the most well-known 'warrior' race, and show it in many ways. Though their militaristic mindset tends to leave everything else by the wayside.
 
-- National Lore: [Altene Oath Lore](/national-lores/)
-- Free Skill: [Staves](/staves/)
-- Free Skill: [Armed Combat Maneuvers](/combat-maneuvers/)
+[1]  National Lore: [Altene Oath Lore](/national-lores/)
+[2]  Free Skill: [Staves](/staves/)
+[3]  Free Skill: [Armed Combat Maneuvers](/combat-maneuvers/)
 
 </div>
 
@@ -50,9 +50,9 @@ parent: character-generator
 
 **Stats:** Cinerans tend to be lean and quick to act, but tend to drive themselves too hard and can become too focused.
 
-- National Lore: [Cinera Silent Blade Lore](/national-lores/)
-- Free Skill: [Knives](/knives/)
-- Free Skill: [Cineran Knife Fighting](/cineran-knife-fighting-knives/)
+[1]  National Lore: [Cinera Silent Blade Lore](/national-lores/)
+[2]  Free Skill: [Knives](/knives/)
+[3]  Free Skill: [Cineran Knife Fighting](/cineran-knife-fighting-knives/)
 
 </div>
 
@@ -64,9 +64,9 @@ parent: character-generator
 
 **Stats:** Gadaenes tend towards rapid change, in their wardrobes, their thought processes, and the way they move through the world. For good or ill.
 
-- National Lore: [Gadaene Rag Picker Lore](/national-lores/)
-- Free Skill: [Cestus](/cestus/)
-- Free Skill: [Short Whip](/whips/)
+[1]  National Lore: [Gadaene Rag Picker Lore](/national-lores/)
+[2]  Free Skill: [Cestus](/cestus/)
+[3]  Free Skill: [Short Whip](/whips/)
 
 </div>
 
@@ -78,9 +78,9 @@ parent: character-generator
 
 **Stats:** Iridinians from Iridine are thought to be fairly adept at social niceties, but lack the drive or hardiness of country folk.
 
-- National Lore: [Iridine First Aid Lore](/national-lores/)
-- National Lore: [Iridine Protection Lore](/national-lores/)
-- Free Skill: [One-handed Swords](/one-handed-swords/)
+[1]  National Lore: [Iridine First Aid Lore](/national-lores/)
+[2]  National Lore: [Iridine Protection Lore](/national-lores/)
+[3]  Free Skill: [One-handed Swords](/one-handed-swords/)
 
 </div>
 
@@ -92,9 +92,9 @@ parent: character-generator
 
 **Stats:** Iridinians from Iridine are thought to be fairly adept at social niceties, but lack the drive or hardiness of country folk.
 
-- National Lore: [Steps Gang Swagger Lore](/national-lores/)
-- National Lore: [Steps Undone Lineage Lore](/national-lores/)
-- Free Skill: [Brawling](/brawling/)
+[1]  National Lore: [Steps Gang Swagger Lore](/national-lores/)
+[2]  National Lore: [Steps Undone Lineage Lore](/national-lores/)
+[3]  Free Skill: [Brawling](/brawling/)
 
 </div>
 
@@ -106,9 +106,9 @@ parent: character-generator
 
 **Stats:** Iridinians from the country are seen as fairly hardy, and hardworking, but lack the social graces of the city folk.
 
-- National Lore: [Republic Rough It Lore](/national-lores/)
-- Free Skill: [Outdoor Survival](/outdoor-survival/)
-- Free Skill: [Healing](/healing/)
+[1]  National Lore: [Republic Rough It Lore](/national-lores/)
+[2]  Free Skill: [Outdoor Survival](/outdoor-survival/)
+[3]  Free Skill: [Healing](/healing/)
 
 </div>
 
@@ -120,9 +120,9 @@ parent: character-generator
 
 **Stats:** Parcine people are generally seen as very hardy, but also very blunt and often do not thrive in social practices.
 
-- National Lore: [Parcines Warclub Lore](/national-lores/)
-- Additional Skill: [Missile Weapons - Bow](/missile-weapons-bows/)
-- Additional Skill: [One-handed Crushing](/one-handed-crushing/)
+[1]  National Lore: [Parcines Warclub Lore](/national-lores/)
+[2]  Additional Skill: [Missile Weapons - Bow](/missile-weapons-bows/)
+[3]  Additional Skill: [One-handed Crushing](/one-handed-crushing/)
 
 </div>
 
@@ -134,9 +134,9 @@ parent: character-generator
 
 **Stats:** Remathens often tend to be wonderful scholars and artisans, but lack the physicality for most physical professions.
 
-- National Lore: [Remath Tea Lore](/national-lores/)
-- Free Skill: [Locksmithing](/locksmithing/)
-- Free Skill: [Pickpocketing](/pickpocketing/)
+[1]  National Lore: [Remath Tea Lore](/national-lores/)
+[2]  Free Skill: [Locksmithing](/locksmithing/)
+[3]  Free Skill: [Pickpocketing](/pickpocketing/)
 
 </div>
 
@@ -148,9 +148,9 @@ parent: character-generator
 
 **Stats:** Safelanders are a peaceful people who thrive as craftsman, gatherers, and socialites, but lack any sort of warrior spirit in mind or body.
 
-- National Lore: [Safelander Foraging Lore](/national-lores/)
-- Free Skill: [Healing](/healing/)
-- Free Skill: [Basic Tailoring](/tailoring/)
+[1]  National Lore: [Safelander Foraging Lore](/national-lores/)
+[2]  Free Skill: [Healing](/healing/)
+[3]  Free Skill: [Basic Tailoring](/tailoring/)
 
 </div>
 
@@ -162,9 +162,9 @@ parent: character-generator
 
 **Stats:** Sostaerans are a subdued, stoic people. They are a very balanced and grounded people, but not particularly imaginative.
 
-- National Lore: [Sostaeran Alertness Lore](/national-lores/)
-- Free Skill: [One-handed Swords](/one-handed-swords/)
-- Free Skill: [Shields](/shields/)
+[1]  National Lore: [Sostaeran Alertness Lore](/national-lores/)
+[2]  Free Skill: [One-handed Swords](/one-handed-swords/)
+[3]  Free Skill: [Shields](/shields/)
 
 </div>
 
@@ -176,9 +176,9 @@ parent: character-generator
 
 **Stats:** Tucheans are often mistreated, but keep their hearts open, and thrive at sea where efficiency and hard work are key, but lack of proper nutrition often leaves them lacking in some ways.
 
-- National Lore: [Tuchea Grog Lore](/national-lores/)
-- Free Skill: [Tridents](/tridents/)
-- Free Skill: [Knives](/knives/)
+[1]  National Lore: [Tuchea Grog Lore](/national-lores/)
+[2]  Free Skill: [Tridents](/tridents/)
+[3]  Free Skill: [Knives](/knives/)
 
 </div>
 
@@ -190,8 +190,8 @@ parent: character-generator
 
 **Stats:** Windwardians have the strength and conviction of warriors, but sometimes don't see reason as easily as some due to some bad luck in history.
 
-- Free Skill: [One-Handed Axes](/one-handed-axes/)
-- Free Skill: [Two-Handed Axes](/two-handed-axes/)
+[1]  Free Skill: [One-Handed Axes](/one-handed-axes/)
+[2]  Free Skill: [Two-Handed Axes](/two-handed-axes/)
 
 </div>
 
