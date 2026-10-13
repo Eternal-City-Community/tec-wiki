@@ -629,3 +629,10 @@ At the beginning of a fresh TEC Wiki chat:
 - Momentum minimums: Flank Hew unknown (target snared/entangled); Frenzied Hack 3 (berserk); Hand Cleave 2; Harrowing 5; Wolf's Hew 3; Sundering Chop 3; Sweeping Cleave 2; Wolf's Gyre 3; Twin Fangs 3 (can consume up to 5).
 - Commands for spenders: `flankhew`, `fhack`, `handcleave`, `harrow`, `wolfshew`, `sunderchop`, `sweepcleave`, `wolfsgyre`, `twinfangs`. Requirements for Rotating Chop, Head Butt, and Sweeping Cleave ranks remain documented above.
 - Distinguish momentum required from momentum actually consumed; do not infer an exact spend from a minimum unless independently verified.
+
+### Veteran Characters (user-confirmed 2026-10-13)
+
+- Free VC packages are redeemed through `@perks`. During new character creation, players may upgrade a redeemed package by paying the RP difference between desired and issued package prices; the prior `@request` upgrade instruction is obsolete.
+- Only one redeemed VC package can be pending character creation at a time.
+- VC lobby attribute points cannot increase Empathy, Charisma, or Appearance; these require Story Points.
+- Updated `docs/veteran-characters.md` in commit `a269e4ed853d56ac353de5e560d3b7bc59a2fddb`.
