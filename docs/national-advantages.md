@@ -8,7 +8,7 @@ parent: character-generator
 
 <div class="tec-account-jump" markdown="1">
 
-**Jump to:** [Aestivan League](#aestivan-league) · [Altene](#altene) · [Cinera](#cinera) · [Gadaene](#gadaene) · [City of Iridine - non Steps](#city-of-iridine-non-steps) · [Iridine Steps](#iridine-steps) · [Republic of Iridine](#republic-of-iridine) · [Parcines](#parcines) · [Remath](#remath) · [Safelands](#safelands) · [Sostaera](#sostaera) · [Tuchea](#tuchea) · [Windward](#windward)
+**Jump to:** [Aestivan League](#aestivan-league) · [Altene](#altene) · [Cinera](#cinera) · [Gadaene](#gadaene) · [City of Iridine - Non-Steps](#city-of-iridine-non-steps) · [Iridine Steps](#iridine-steps) · [Republic of Iridine](#republic-of-iridine) · [Parcines](#parcines) · [Remath](#remath) · [Safelands](#safelands) · [Sostaera](#sostaera) · [Tuchea](#tuchea) · [Windward](#windward)
 
 </div>
 
