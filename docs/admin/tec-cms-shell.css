@@ -31,6 +31,14 @@
   color: var(--tec-bar-text) !important;
 }
 
+[class*="ToolbarSectionBackLink"] [class*="BackStatusChanged"] {
+  color: #f0a99c !important;
+}
+
+[class*="ToolbarSectionBackLink"] [class*="BackStatusUnchanged"] {
+  color: #a9c98f !important;
+}
+
 [class*="ToolbarSectionBackLink"]:hover,
 [class*="ToolbarSectionBackLink"]:focus {
   background-color: var(--tec-bar-hover) !important;
@@ -40,6 +48,7 @@
    the "Signed in as" label. */
 [class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="PreviewButtonContainer"],
 [class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="PreviewButtonContainer"] a,
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="PreviewButtonContainer"] [class*="IconWrapper"],
 .tec-format-link {
   color: var(--tec-bar-link) !important;
 }
@@ -61,6 +70,51 @@
 
 .tec-theme-switch .tec-theme-switch__track {
   background: #5d6656;
+}
+
+/* Toolbar buttons. Outlined by default; solid bronze for the next step
+   (Save with unsaved changes, Publish); red outline for Delete. */
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarButton"],
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DropdownButton"]:not([class*="AvatarDropdownButton"]) {
+  background-color: transparent !important;
+  color: var(--tec-bar-text) !important;
+  border: 1px solid rgba(239,231,199,.4) !important;
+  box-shadow: none !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarButton"]:hover:not(:disabled),
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DropdownButton"]:not([class*="AvatarDropdownButton"]):hover {
+  background-color: var(--tec-bar-hover) !important;
+  border-color: rgba(239,231,199,.65) !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarButton"]:disabled {
+  color: var(--tec-bar-muted) !important;
+  border-color: var(--tec-bar-line) !important;
+  opacity: .7;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="SaveButton"]:not(:disabled),
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DropdownButton"][class*="-PublishButton"] {
+  background-color: var(--tec-bronze) !important;
+  border-color: var(--tec-bronze) !important;
+  color: #fff8e6 !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="SaveButton"]:not(:disabled):hover,
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DropdownButton"][class*="-PublishButton"]:hover {
+  background-color: #b07a45 !important;
+  border-color: #b07a45 !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DeleteButton"] {
+  color: #f0a99c !important;
+  border-color: rgba(214,110,95,.6) !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DeleteButton"]:hover {
+  background-color: rgba(214,110,95,.15) !important;
+  border-color: #d66e5f !important;
 }
 
 /* Round buttons over the preview: show/hide preview and scroll sync. Decap
