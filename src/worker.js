@@ -163,7 +163,7 @@ async function handleBiographyPortrait(request, env) {
     const markdown = new TextDecoder().decode(bytes);
     const portraitLine = "![Character portrait](" + result.path + ")";
     if (!markdown.includes(portraitLine)) {
-      const updated = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown + "\\n\\n" + portraitLine + "\\n", file.sha);
+      const updated = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown + "\n\n" + portraitLine + "\n", file.sha);
       if (updated.status !== "updated")
         return jsonResponse({ error: "Portrait saved but biography update conflicted; contact an administrator" }, 409);
     }
