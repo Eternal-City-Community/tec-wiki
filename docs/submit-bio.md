@@ -20,4 +20,4 @@ Tell your character's story.
 
 
 
-[Browse existing character biographies](/character-bios/)
+[Edit a biography you previously submitted](/edit-bio/) | [Browse existing character biographies](/character-bios/)
