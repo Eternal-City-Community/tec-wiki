@@ -34,3 +34,12 @@ export async function hashBiographyEditCode(code, secret) {
   const signature = await crypto.subtle.sign("HMAC", key, bytes.encode(code));
   return Array.from(new Uint8Array(signature), b => b.toString(16).padStart(2, "0")).join("");
 }
+
+export async function verifyBiographyEditCode(code, expectedHash, secret) {
+  if (typeof expectedHash !== "string" || !/^[0-9a-f]{64}$/.test(expectedHash)) return false;
+  let actual;
+  try { actual = await hashBiographyEditCode(code, secret); } catch { return false; }
+  let diff = 0;
+  for (let i = 0; i < 64; i++) diff |= actual.charCodeAt(i) ^ expectedHash.charCodeAt(i);
+  return diff === 0;
+}
