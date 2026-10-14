@@ -648,3 +648,6 @@ At the beginning of a fresh TEC Wiki chat:
 - Not live yet. Requires restricted GitHub App, Cloudflare D1, Turnstile, verified email sender/provider, implementation and staging validation before public exposure.
 
 - **2026-10-14 scope revision:** User deferred all self-service biography editing. Public guided form + optional portrait + automatic new-page publishing and alphabetical directory remain in scope; edits are handled by wiki editors. No email verification or ownership database. Simplified spec: `docs/admin/biography-submission-implementation.md` (commit `aedc356719a3d64714329a5b671564647d03ab9d`).
+
+- **2026-10-14 later decision supersedes deferral:** User approved private editing codes for new biographies and wiki-owner reset/revoke. No email system. Existing bios stay editor-managed. Implement using Cloudflare KV and strong code hashing, rate limiting, admin GitHub allowlist. Updated spec `docs/admin/biography-submission-implementation.md` (commit `e6dd85f65b8cc1541be736f36efc5f10a323800a`).
+- Implementation started: `hooks/biography_index.py` auto-sorts existing cards and new `character_name` metadata at build time; enabled in `mkdocs.yml` (commits `ef14097a61320b7a7ffab3e9c37e9be4d87e7c95`, `96af4eac757fbbea935a0ffdcbf902f6a7b21a6c`). Public API/form not yet implemented or enabled.
