@@ -656,9 +656,9 @@ export class BiographyCoordinator {
     const now = Date.now(), hour = 3600000, ttl = 15 * 60000;
     const outcome = await this.state.storage.transaction(async () => {
       if (input.action === "owner_abandon") {
-        const claim = this.sql.exec("SELECT status FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
+        const claim = this.sql.exec("SELECT status, updated_at FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
         const owner = this.sql.exec("SELECT status FROM bio_owner_state WHERE slug = ?", input.slug).toArray()[0];
-        if (!claim || !["reserved", "review"].includes(claim.status) || owner) return { status: "denied" };
+        if (!claim || !["reserved", "review"].includes(claim.status) || owner || now - claim.updated_at < 15 * 60000) return { status: "denied" };
         this.sql.exec("DELETE FROM bio_claims WHERE slug = ?", input.slug);
         return { status: "abandoned" };
       }
