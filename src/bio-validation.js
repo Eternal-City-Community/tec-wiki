@@ -12,6 +12,16 @@ export function validateBiography(input) {
   if(!input || typeof input !== "object" || Array.isArray(input)) throw new Error("Invalid biography");
   const bio={};
   for(const [field,max] of Object.entries(lengths)) bio[field]=textField(input[field] ?? "",max,field);
+  if (input.first_name !== undefined || input.last_name !== undefined) {
+    const first = textField(input.first_name ?? "", 80, "first name");
+    const last = textField(input.last_name ?? "", 80, "last name");
+    const combined = [first, last].filter(Boolean).join(" ");
+    if (!first || combined.length > 80 || (bio.character_name && bio.character_name !== combined))
+      throw new Error("Invalid or conflicting character name");
+    bio.character_name = combined;
+    bio.first_name = first;
+    bio.last_name = last;
+  }
   if(!/^[\p{L}\p{N}][\p{L}\p{N} '\-.,]{1,79}$/u.test(bio.character_name)) throw new Error("Invalid character name");
   if(bio.nationality && !nations.has(bio.nationality)) throw new Error("Invalid nationality");
   if(!Array.isArray(input.affiliations) || input.affiliations.length>25) throw new Error("Invalid affiliations");
