@@ -359,6 +359,7 @@ async function handleBiographyStorageCheck(request, env) {
   if (request.method !== "GET") return jsonResponse({ error: "Method not allowed" }, 405);
   const checks = {
     kv_binding: Boolean(env.BIO_EDIT_CODES),
+    coordinator_binding: Boolean(env.BIO_COORDINATOR),
     editing_code_secret: Boolean(env.BIO_EDIT_CODE_SECRET),
     github_publisher_secret: Boolean(env.BIO_GITHUB_TOKEN),
     turnstile_secret: Boolean(env.BIO_TURNSTILE_SECRET)
