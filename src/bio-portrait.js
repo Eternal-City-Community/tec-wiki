@@ -25,15 +25,18 @@ export async function publishPortrait(token, slug, image) {
     "content-type": "application/json", "user-agent": "TEC-Wiki" };
   const url = ROOT + file;
   const existing = await fetch(url + "?ref=main", { headers });
+  let existingSha = null;
   if (existing.status !== 404) {
     if (!existing.ok) throw new Error("Unable to inspect portrait");
-    return { status: "exists", path: "/assets/uploads/" + file };
+    const previous = await existing.json();
+    if (!/^[a-f0-9]{40}$/.test(previous.sha || "")) throw new Error("Invalid existing portrait revision");
+    existingSha = previous.sha;
   }
   const response = await fetch(url, {
     method: "PUT", headers,
-    body: JSON.stringify({ message: "Add character portrait " + slug, content: image.base64, branch: "main" })
+    body: JSON.stringify({ message: "Add character portrait " + slug, content: image.base64, branch: "main", ...(existingSha ? { sha: existingSha } : {}) })
   });
   if (response.status === 409 || response.status === 422) return { status: "conflict" };
-  if (response.status !== 201) throw new Error("Unable to publish portrait");
-  return { status: "created", path: "/assets/uploads/" + file };
+  if (response.status !== (existingSha ? 200 : 201)) throw new Error("Unable to publish portrait");
+  return { status: existingSha ? "updated" : "created", path: "/assets/uploads/" + file };
 }
