@@ -218,6 +218,10 @@ async function handleBiographyAdmin(request, env) {
       });
     if (record.status === "pending") return jsonResponse({ error: "Pending publication requires manual reconciliation before code recovery" }, 409);
     if (action === "revoke") {
+      const authoritative = await biographyCoordinatorCall(env, {
+        action: "owner_revoke", slug, identity: "0".repeat(64), reservation: "0".repeat(64)
+      });
+      if (authoritative.result.status !== "revoked") throw new Error("Owner record unavailable");
       await env.BIO_EDIT_CODES.put(key, JSON.stringify({
         version: 1, status: "revoked", revoked_at: new Date().toISOString()
       }));
@@ -225,6 +229,10 @@ async function handleBiographyAdmin(request, env) {
     }
     const editCode = generateBiographyEditCode();
     const hash = await hashBiographyEditCode(editCode, env.BIO_EDIT_CODE_SECRET);
+    const authoritative = await biographyCoordinatorCall(env, {
+      action: "owner_reset", slug, hash, identity: "0".repeat(64), reservation: "0".repeat(64)
+    });
+    if (authoritative.result.status !== "active") throw new Error("Owner record unavailable");
     await env.BIO_EDIT_CODES.put(key, JSON.stringify({
       version: 1, status: "active", hash, reset_at: new Date().toISOString(),
       published_commit: record.published_commit || null
