@@ -593,6 +593,7 @@ export class BiographyCoordinator {
     this.sql = state.storage.sql;
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_limits (identity TEXT PRIMARY KEY, window_start INTEGER NOT NULL, attempts INTEGER NOT NULL)");
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_claims (slug TEXT PRIMARY KEY, status TEXT NOT NULL, created_at INTEGER NOT NULL, updated_at INTEGER NOT NULL)");
+    this.sql.exec("CREATE TABLE IF NOT EXISTS bio_owner_state (slug TEXT PRIMARY KEY, status TEXT NOT NULL, hash TEXT NOT NULL, updated_at INTEGER NOT NULL)");
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_edit_limits (identity TEXT NOT NULL, slug TEXT NOT NULL, window_start INTEGER NOT NULL, attempts INTEGER NOT NULL, PRIMARY KEY(identity, slug))");
     // New columns are additive so existing Durable Objects can migrate safely.
     const columns = this.sql.exec("PRAGMA table_info(bio_claims)").toArray().map(row => row.name);
@@ -611,7 +612,7 @@ export class BiographyCoordinator {
       if (raw.length > 2048) return jsonResponse({ error: "Request too large" }, 413);
       input = JSON.parse(raw);
     } catch { return jsonResponse({ error: "Invalid request" }, 400); }
-    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt"].includes(input.action) ||
+    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt", "owner_activate", "owner_check", "owner_reset", "owner_revoke", "owner_status"].includes(input.action) ||
         !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(input.slug || "") || input.slug.length > 74 ||
         !/^[a-f0-9]{64}$/.test(input.identity || "") ||
         !/^[a-f0-9]{64}$/.test(input.reservation || "")) {
@@ -619,6 +620,35 @@ export class BiographyCoordinator {
     }
     const now = Date.now(), hour = 3600000, ttl = 15 * 60000;
     const outcome = await this.state.storage.transaction(async () => {
+      if (input.action.startsWith("owner_")) {
+        const owner = this.sql.exec("SELECT status, hash FROM bio_owner_state WHERE slug = ?", input.slug).toArray()[0];
+        if (input.action === "owner_status") return { status: owner?.status || "missing" };
+        if (input.action === "owner_check") {
+          if (!owner || owner.status !== "active" || !/^[a-f0-9]{64}$/.test(input.hash || ""))
+            return { status: "denied" };
+          let diff = 0;
+          for (let j = 0; j < 64; j++) diff |= owner.hash.charCodeAt(j) ^ input.hash.charCodeAt(j);
+          return { status: diff === 0 ? "allowed" : "denied" };
+        }
+        if (input.action === "owner_activate") {
+          const claim = this.sql.exec("SELECT status, reservation FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
+          if (!claim || claim.status !== "published" || claim.reservation !== input.reservation ||
+              owner || !/^[a-f0-9]{64}$/.test(input.hash || "")) return { status: "denied" };
+          this.sql.exec("INSERT INTO bio_owner_state (slug, status, hash, updated_at) VALUES (?, 'active', ?, ?)", input.slug, input.hash, now);
+          return { status: "active" };
+        }
+        const claim = this.sql.exec("SELECT status FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
+        if (!owner || !claim || claim.status !== "published") return { status: "denied" };
+        if (input.action === "owner_revoke") {
+          this.sql.exec("UPDATE bio_owner_state SET status = 'revoked', updated_at = ? WHERE slug = ?", now, input.slug);
+          return { status: "revoked" };
+        }
+        if (input.action === "owner_reset") {
+          if (!/^[a-f0-9]{64}$/.test(input.hash || "")) return { status: "denied" };
+          this.sql.exec("UPDATE bio_owner_state SET status = 'active', hash = ?, updated_at = ? WHERE slug = ?", input.hash, now, input.slug);
+          return { status: "active" };
+        }
+      }
       if (input.action === "edit_attempt") {
         const previous = this.sql.exec("SELECT window_start, attempts FROM bio_edit_limits WHERE identity = ? AND slug = ?", input.identity, input.slug).toArray()[0];
         const start = previous && now >= previous.window_start && now - previous.window_start < hour ? previous.window_start : now;
