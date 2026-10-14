@@ -25,8 +25,14 @@ async function handleBiographyPreflight(request, env) {
 async function handleBiographyStorageCheck(request, env) {
   // This route never writes to KV or GitHub; it checks only server configuration.
   if (request.method !== "GET") return jsonResponse({ error: "Method not allowed" }, 405);
-  const ready = Boolean(env.BIO_EDIT_CODES && env.BIO_EDIT_CODE_SECRET && env.BIO_GITHUB_TOKEN && env.BIO_TURNSTILE_SECRET);
-  return new Response(JSON.stringify({ ready, publication_enabled: false }), {
+  const checks = {
+    kv_binding: Boolean(env.BIO_EDIT_CODES),
+    editing_code_secret: Boolean(env.BIO_EDIT_CODE_SECRET),
+    github_publisher_secret: Boolean(env.BIO_GITHUB_TOKEN),
+    turnstile_secret: Boolean(env.BIO_TURNSTILE_SECRET)
+  };
+  const ready = Object.values(checks).every(Boolean);
+  return new Response(JSON.stringify({ ready, checks, publication_enabled: false }), {
     status: ready ? 200 : 503,
     headers: { "content-type": "application/json", "cache-control": "no-store" }
   });
