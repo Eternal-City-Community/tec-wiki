@@ -3,6 +3,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { createBiographyFile } from '../src/bio-github.js';
+import { readBiographyFile, updateBiographyFile } from '../src/bio-edit.js';
 import { activateBiographyCode, storePendingBiographyCode, verifyBiographyEditCode } from '../src/bio-turnstile.js';
 
 const sha = 'a'.repeat(40);
@@ -112,4 +113,36 @@ test('production repository refuses staging branch', async () => {
     }),
     /Staging requires a separate repository/
   );
+});
+
+test('editing uses GitHub SHA to prevent blind overwrites', async () => {
+  const calls = [];
+  globalThis.fetch = async (url, options = {}) => {
+    calls.push({ url, options });
+    return { ok: true, status: 200, json: async () => ({ commit: { sha } }) };
+  };
+  try {
+    const result = await updateBiographyFile('fake-token', slug, '# Changed', sha);
+    assert.equal(result.status, 'updated');
+    const body = JSON.parse(calls[0].options.body);
+    assert.equal(body.sha, sha);
+    assert.equal(body.branch, 'main');
+    assert.ok(calls[0].url.endsWith('/docs/' + slug + '.md'));
+  } finally { globalThis.fetch = originalFetch; }
+});
+
+test('GitHub concurrent update returns conflict', async () => {
+  globalThis.fetch = async () => ({ status: 409, ok: false });
+  try {
+    assert.deepEqual(await updateBiographyFile('fake-token', slug, '# Changed', sha), { status: 'conflict' });
+  } finally { globalThis.fetch = originalFetch; }
+});
+
+test('invalid biography update revision fails without network call', async () => {
+  let called = false;
+  globalThis.fetch = async () => { called = true; throw new Error('unexpected network'); };
+  try {
+    await assert.rejects(updateBiographyFile('fake-token', slug, '# Changed', 'bad'));
+    assert.equal(called, false);
+  } finally { globalThis.fetch = originalFetch; }
 });
