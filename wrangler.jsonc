@@ -13,6 +13,12 @@
       "/admin/config.yml"
     ]
   },
+  "kv_namespaces": [
+    {
+      "binding": "BIO_EDIT_CODES",
+      "id": "5fc2c163d4d34fc9a6cadc783a020196"
+    }
+  ],
   "build": {
     "command": "mkdocs build --clean"
   },
