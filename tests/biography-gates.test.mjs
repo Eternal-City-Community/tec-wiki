@@ -40,3 +40,24 @@ test("configuration is not ready without Durable Object coordinator", async () =
   assert.equal(result.ready, false);
   assert.equal(result.checks.coordinator_binding, false);
 });
+
+test("coordinator integration probe is disabled without its separate secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/integration-probe", {
+    method: "POST", headers: { authorization: "Bearer " + "a".repeat(64) }
+  }), { BIO_COORDINATOR: {}, BIO_EDIT_CODE_SECRET: "test" });
+  assert.equal(response.status, 503);
+});
+
+test("coordinator integration probe denies requests without matching secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/integration-probe", {
+    method: "POST", headers: { authorization: "Bearer " + "b".repeat(64) }
+  }), { BIO_INTEGRATION_TEST_SECRET: "a".repeat(64), BIO_COORDINATOR: {}, BIO_EDIT_CODE_SECRET: "test" });
+  assert.equal(response.status, 401);
+});
+
+test("coordinator integration probe rejects GET requests", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/integration-probe"), {
+    BIO_INTEGRATION_TEST_SECRET: "a".repeat(64), BIO_COORDINATOR: {}, BIO_EDIT_CODE_SECRET: "test"
+  });
+  assert.equal(response.status, 405);
+});
