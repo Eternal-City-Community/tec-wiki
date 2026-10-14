@@ -651,3 +651,9 @@ At the beginning of a fresh TEC Wiki chat:
 
 - **2026-10-14 later decision supersedes deferral:** User approved private editing codes for new biographies and wiki-owner reset/revoke. No email system. Existing bios stay editor-managed. Implement using Cloudflare KV and strong code hashing, rate limiting, admin GitHub allowlist. Updated spec `docs/admin/biography-submission-implementation.md` (commit `e6dd85f65b8cc1541be736f36efc5f10a323800a`).
 - Implementation started: `hooks/biography_index.py` auto-sorts existing cards and new `character_name` metadata at build time; enabled in `mkdocs.yml` (commits `ef14097a61320b7a7ffab3e9c37e9be4d87e7c95`, `96af4eac757fbbea935a0ffdcbf902f6a7b21a6c`). Public API/form not yet implemented or enabled.
+
+## Biography submission progress (2026-10-14)
+
+- Cloudflare KV binding is committed in `wrangler.jsonc` (commit `6dcca54bf5823df0c711c4e413191c6454c0194d`).
+- `docs/submit-bio.md` is a noninteractive placeholder clearly marking public submissions as unavailable (commit `36ef2c674d3fc51aee7b5b4fd9592991e1d98db9`). It is not linked from navigation.
+- Do not claim the guided form, portrait uploads, private editing, owner resets, or publishing API are implemented. These are the next development tasks. The existing biography directory build hook was added earlier.
