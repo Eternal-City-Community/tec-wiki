@@ -18,7 +18,7 @@
   receipt.hidden = true;
   receipt.setAttribute("aria-live", "polite");
   actions.parentElement.after(receipt);
-  let widget, active = false, issued = null;
+  let widget, portraitWidget, active = false, portraitEnabled = false, issued = null;
   const siteKey = "0x4AAAAAAFW5CvcMWb-nnJ6R";
   function render() {
     if (!window.turnstile || widget !== undefined) return;
@@ -70,6 +70,39 @@
     link.href = data.url;
     link.textContent = "View published biography";
     receipt.append(heading, info, code, document.createElement("p"), copy, document.createElement("p"), link);
+    const portraitFile = form.elements.portrait.files?.[0];
+    if (portraitFile && portraitEnabled) {
+      const verifyPortrait = document.createElement("div");
+      verifyPortrait.id = "bio-portrait-turnstile";
+      const upload = document.createElement("button");
+      upload.type = "button";
+      upload.textContent = "Upload selected portrait";
+      receipt.append(document.createElement("p"), verifyPortrait, upload);
+      if (window.turnstile) portraitWidget = window.turnstile.render(verifyPortrait, { sitekey: siteKey });
+      upload.addEventListener("click", async () => {
+        upload.disabled = true;
+        try {
+          const base64 = await new Promise((resolve, reject) => {
+            const reader = new FileReader();
+            reader.onload = () => resolve(String(reader.result).split(",")[1]);
+            reader.onerror = () => reject(new Error("Unable to read portrait"));
+            reader.readAsDataURL(portraitFile);
+          });
+          const response = await post("/api/bio/portrait", {
+            character_name: data.character_name, edit_code: data.edit_code,
+            mime: portraitFile.type, base64,
+            turnstileToken: window.turnstile.getResponse(portraitWidget)
+          });
+          feedback.textContent = response.published ? "Portrait published." : "Portrait publication not confirmed.";
+          if (response.published) upload.hidden = true;
+        } catch (error) {
+          feedback.textContent = "Biography published, but portrait upload failed: " + error.message;
+          upload.disabled = false;
+        } finally {
+          if (window.turnstile && portraitWidget !== undefined) window.turnstile.reset(portraitWidget);
+        }
+      });
+    }
     receipt.hidden = false;
   }
   submit.addEventListener("click", async () => {
@@ -90,6 +123,7 @@
       const response = await fetch("/api/bio/configuration", { cache: "no-store" });
       const data = await response.json();
       active = response.ok && data.publication_enabled === true;
+      portraitEnabled = data.portrait_enabled === true;
       submit.disabled = !active;
       if (!active) return;
       if (window.turnstile) render();
