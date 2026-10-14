@@ -3,7 +3,7 @@ import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiogra
 import { biographyMarkdown } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
 import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
-import { verifyBiographyEditCode } from "./bio-turnstile.js";
+import { authorizeBiographyOwner } from "./bio-owner.js";
 
 
 
@@ -141,9 +141,7 @@ async function handleBiographyEdit(request, env) {
     if (!/^[a-f0-9]{40}$/.test(expectedSha || "")) throw new Error("Invalid revision");
   } catch { return jsonResponse({ error: "Invalid biography update" }, 400); }
   try {
-    const record = await env.BIO_EDIT_CODES.get("bio-edit:" + slug, "json");
-    if (!record || record.status !== "active" ||
-        !(await verifyBiographyEditCode(code, record.hash, env.BIO_EDIT_CODE_SECRET)))
+    if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
       return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
     const existing = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
     if (!existing) return jsonResponse({ error: "Biography not found" }, 404);
