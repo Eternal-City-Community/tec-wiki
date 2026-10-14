@@ -242,9 +242,9 @@ async function handleBiographyAdmin(request, env) {
   } catch { return jsonResponse({ error: "Unable to confirm recovery" }, 503); }
 }
 
-async function handleBiographyLoad(request, env) {
+async function handleBiographyLoad(request, env, isTest = false) {
   const EDITING_ENABLED = false;
-  if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet" }, 503);
+  if (!EDITING_ENABLED && !isTest) return jsonResponse({ error: "Biography editing is not enabled yet" }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
     return jsonResponse({ error: "Expected JSON" }, 415);
@@ -274,9 +274,9 @@ async function handleBiographyLoad(request, env) {
   } catch { return jsonResponse({ error: "Unable to load biography" }, 503); }
 }
 
-async function handleBiographyEdit(request, env) {
+async function handleBiographyEdit(request, env, isTest = false) {
   const EDITING_ENABLED = false;
-  if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet." }, 503);
+  if (!EDITING_ENABLED && !isTest) return jsonResponse({ error: "Biography editing is not enabled yet." }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
     return jsonResponse({ error: "Expected JSON" }, 415);
@@ -353,6 +353,37 @@ async function handleBiographyPreflight(request, env) {
   }
 }
 
+
+async function handleBiographyEditTest(request, env, action) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32)
+    return jsonResponse({ error: "Integration test disabled" }, 503);
+  const digest = async s => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s)));
+  const [actual, expected] = await Promise.all([
+    digest(request.headers.get("authorization") || ""), digest("Bearer " + secret)
+  ]);
+  let diff = 0;
+  for (let i = 0; i < actual.length; i++) diff |= actual[i] ^ expected[i];
+  if (diff) return jsonResponse({ error: "Unauthorized" }, 401);
+  if (!request.headers.get("content-type")?.startsWith("application/json"))
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  let body;
+  try {
+    const raw = await request.text();
+    if (raw.length > 60000) throw Error("Too large");
+    body = JSON.parse(raw);
+    const name = action === "load" ? body?.character_name : body?.biography?.character_name;
+    if (name !== "Wiki Integration Test")
+      return jsonResponse({ error: "Only the disposable biography may be edited" }, 400);
+  } catch { return jsonResponse({ error: "Invalid test payload" }, 400); }
+  const forwarded = new Request(request.url, {
+    method: "POST", headers: request.headers, body: JSON.stringify(body)
+  });
+  return action === "load"
+    ? handleBiographyLoad(forwarded, env, true)
+    : handleBiographyEdit(forwarded, env, true);
+}
 
 async function handleBiographyPublishTest(request, env) {
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
@@ -931,6 +962,8 @@ export default {
     if (url.pathname === "/api/bio/github-write-probe") return handleBiographyGithubWriteProbe(request, env);
     if (url.pathname === "/api/bio/turnstile-probe") return handleBiographyTurnstileProbe(request, env);
     if (url.pathname === "/api/bio/publish-test") return handleBiographyPublishTest(request, env);
+    if (url.pathname === "/api/bio/load-test") return handleBiographyEditTest(request, env, "load");
+    if (url.pathname === "/api/bio/edit-test") return handleBiographyEditTest(request, env, "edit");
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
