@@ -19,4 +19,25 @@ document.addEventListener("DOMContentLoaded", () => {
     label.append(box, document.createTextNode(" " + name));
     choices.append(label);
   }
+  const search = wrap.querySelector('input[type="search"]');
+  const custom = wrap.querySelector(".bio-affiliation-custom");
+  const other = wrap.querySelector(".bio-affiliation-other input");
+  function sync() {
+    const selected = Array.from(choices.querySelectorAll("input:checked")).map(x => x.value);
+    if (other.checked) selected.push(...custom.value.split(",").map(x => x.trim()).filter(Boolean));
+    const value = selected.join(", ");
+    select.replaceChildren(new Option("None", ""));
+    if (value) select.add(new Option(value, value, true, true));
+    custom.hidden = !other.checked;
+  }
+  choices.addEventListener("change", sync);
+  other.addEventListener("change", sync);
+  custom.addEventListener("input", sync);
+  search.addEventListener("input", () => {
+    const term = search.value.toLowerCase().trim();
+    for (const label of choices.children) {
+      label.hidden = !label.textContent.toLowerCase().includes(term);
+    }
+  });
+  sync();
 });
