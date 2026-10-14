@@ -1,36 +1,49 @@
-/* Character biography submission tool — TEC parchment styling */
-body:has(#bio-submit-app) .md-content__inner{max-width:1050px}
-#bio-submit-app{--bio-border:rgba(103,84,47,.35);--bio-paper:rgba(252,247,226,.85);--bio-panel:rgba(238,226,191,.75);--bio-ink:#35301f;max-width:940px;margin:1rem 0 1.5rem;color:var(--bio-ink)}
-#bio-submit-app *,#bio-submit-app *::before,#bio-submit-app *::after{box-sizing:border-box}
-#bio-submit-app .bio-form-card{padding:1.2rem 1.35rem;margin:0 0 .85rem;border:1px solid var(--bio-border);border-radius:10px;background:var(--bio-paper);box-shadow:0 2px 6px rgba(59,46,24,.09)}
-#bio-submit-app .bio-form-card-heading{display:flex;gap:.75rem;align-items:center;padding-bottom:.85rem;margin-bottom:1rem;border-bottom:1px solid var(--bio-border)}
-#bio-submit-app .bio-step{display:grid;place-items:center;flex:none;width:2.3rem;height:2.3rem;border-radius:50%;background:#425633;color:#fff;font-weight:700;font-size:.75rem}
-#bio-submit-app .bio-form-card-heading h2{font-family:Georgia,"Times New Roman",serif;font-size:1.05rem;line-height:1.25;margin:0;color:#34452b}
-#bio-submit-app .bio-form-card-heading p{font-size:.72rem;line-height:1.5;margin:.18rem 0 0;color:#675c45}
-#bio-submit-app .bio-form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
-#bio-submit-app .bio-field{min-width:0}
+/* Biography submission: self-contained app matching TEC's calculator/shop cards. */
+body:has(#bio-submit-app) .md-content__inner{max-width:1080px}
+#bio-submit-app{max-width:940px;margin:1rem 0 1.5rem;color:#352f22;font-size:.78rem;line-height:1.5}
+#bio-submit-app,#bio-submit-app *{box-sizing:border-box}
+#bio-submit-app .bio-app-shell{overflow:hidden;border:1px solid #928669;border-radius:12px;background:rgba(226,219,186,.85);box-shadow:0 3px 14px rgba(63,48,25,.13)}
+#bio-submit-app .bio-app-header{display:flex;justify-content:space-between;gap:1rem;align-items:center;padding:1.35rem 1.5rem;background:rgba(246,239,211,.9);border-bottom:1px solid #b9aa83}
+#bio-submit-app .bio-app-eyebrow{font-size:.62rem;letter-spacing:.14em;font-weight:700;color:#6c654e}
+#bio-submit-app .bio-app-header h2{margin:.25rem 0 .35rem;padding:0;border:0;background:none;color:#354829;font:700 1.42rem/1.25 Georgia,"Times New Roman",serif;letter-spacing:0;text-transform:none}
+#bio-submit-app .bio-app-header p{margin:0;color:#655b44;font-size:.78rem}
+#bio-submit-app .bio-app-emblem{font:2.5rem Georgia,serif;color:#9c8a5b}
+#bio-submit-app form{display:block;margin:0;padding:1rem}
+#bio-submit-app .bio-form-card{display:block;margin:0 0 .85rem;padding:1.15rem 1.25rem;border:1px solid #c3b797;border-radius:8px;background:rgba(251,247,230,.91);box-shadow:0 1px 3px rgba(61,47,24,.06)}
+#bio-submit-app .bio-form-card-heading{display:block;margin:0 0 1rem;padding:0 0 .75rem;border-bottom:1px solid rgba(128,111,73,.25)}
+#bio-submit-app .bio-form-card-heading h3{display:block;margin:0 0 .15rem;padding:0;border:0;background:transparent;color:#3a4c2e;font:700 1rem/1.3 Georgia,"Times New Roman",serif;letter-spacing:0;text-transform:none}
+#bio-submit-app .bio-form-card-heading p{margin:0;font-size:.72rem;color:#716750}
+#bio-submit-app .bio-form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem 1.2rem;align-items:start}
+#bio-submit-app .bio-field{display:block;min-width:0}
 #bio-submit-app .bio-field-wide{grid-column:1/-1}
-#bio-submit-app .bio-field label,#bio-submit-app .bio-other-wrap label{display:block;margin:0 0 .35rem;font-weight:700;font-size:.74rem;color:#423b28}
-#bio-submit-app input:not([type=file]),#bio-submit-app select,#bio-submit-app textarea{display:block;width:100%;min-width:0;padding:.65rem .7rem;border:1px solid #a69a77;border-radius:6px;background:#fffdf4;color:#2f2c20;font:inherit;font-size:.77rem;line-height:1.5;box-shadow:inset 0 1px 2px rgba(45,35,19,.05)}
-#bio-submit-app input:not([type=file]),#bio-submit-app select{min-height:2.6rem}
-#bio-submit-app textarea{resize:vertical;min-height:6rem}
-#bio-submit-app input:focus-visible,#bio-submit-app select:focus-visible,#bio-submit-app textarea:focus-visible,#bio-submit-app button:focus-visible{outline:2px solid #446738;outline-offset:2px}
+#bio-submit-app .bio-field label,#bio-submit-app .bio-other-wrap label{display:block;margin:0 0 .4rem;font-size:.73rem;font-weight:700;color:#47402d}
+#bio-submit-app .bio-required{color:#9b392a}
+#bio-submit-app .bio-optional{color:#7b7058;font-weight:400}
+#bio-submit-app .bio-field input:not([type=file]),#bio-submit-app .bio-field select,#bio-submit-app .bio-field textarea,#bio-submit-app .bio-other-wrap input{display:block;float:none;width:100%;min-width:0;margin:0;padding:.62rem .75rem;border:1px solid #aa9e7e;border-radius:5px;background:#fffdf5;color:#302d22;font:inherit;font-size:.78rem;line-height:1.5;box-shadow:inset 0 1px 2px rgba(46,37,22,.05)}
+#bio-submit-app .bio-field input:not([type=file]),#bio-submit-app .bio-field select{height:2.6rem}
+#bio-submit-app .bio-field textarea{resize:none;min-height:0;overflow-y:auto}
+#bio-submit-app .bio-field textarea[name=appearance]{height:7rem}
+#bio-submit-app .bio-field textarea[name=background]{height:17rem}
+#bio-submit-app .bio-field textarea[name=additional]{height:7rem}
+#bio-submit-app .bio-field input:focus-visible,#bio-submit-app .bio-field select:focus-visible,#bio-submit-app .bio-field textarea:focus-visible,#bio-submit-app button:focus-visible{outline:2px solid #446738;outline-offset:2px}
 #bio-submit-app .bio-other-wrap{margin-top:.8rem}
-#bio-submit-app .bio-other-wrap[hidden],#bio-submit-app #bio-preview-panel[hidden]{display:none!important}
-#bio-submit-app .bio-required{color:#9a3828}
-#bio-submit-app .bio-optional{font-weight:400;color:#70654f}
-#bio-submit-app .bio-help{font-size:.69rem;color:#675c45;margin:.5rem 0 0}
-#bio-submit-app input[type=file]{display:block;max-width:100%;font-size:.73rem}
-#bio-submit-app .bio-form-actions{display:flex;flex-wrap:wrap;gap:.65rem;margin:1.1rem 0 .6rem}
-#bio-submit-app .bio-form-actions button{padding:.7rem 1.15rem;border:1px solid #425633;border-radius:6px;font:inherit;font-weight:700;font-size:.75rem;cursor:pointer}
-#bio-submit-app .bio-primary-action{background:#425633;color:#fff}
-#bio-submit-app .bio-primary-action:hover{background:#304327}
-#bio-submit-app .bio-secondary-action{background:rgba(251,246,223,.9);color:#35482c}
-#bio-submit-app .bio-secondary-action:hover{background:#eee5c6}
-#bio-submit-app #bio-feedback{font-size:.75rem;min-height:1.2rem;margin:.4rem 0}
-#bio-submit-app .bio-preview-panel{margin-top:1rem}
-#bio-submit-app .bio-preview-panel h2{margin:0 0 .8rem;font-size:1.05rem}
-#bio-submit-app #bio-preview-content h3{font-family:Georgia,"Times New Roman",serif;margin:.5rem 0 1rem}
-#bio-submit-app #bio-preview-content h4{margin:1rem 0 .3rem;font-size:.86rem}
-#bio-submit-app #bio-preview-content p{white-space:pre-wrap;font-size:.78rem}
-@media(max-width:640px){#bio-submit-app .bio-form-grid{grid-template-columns:1fr}#bio-submit-app .bio-form-card{padding:.9rem}#bio-submit-app .bio-form-actions button{width:100%}}
+#bio-submit-app [hidden]{display:none!important}
+#bio-submit-app .bio-help{font-size:.69rem;color:#75694f;margin:.45rem 0 0}
+#bio-submit-app input[type=file]{display:block;max-width:100%;padding:.45rem;border:1px dashed #b5a682;border-radius:5px;background:rgba(246,239,215,.6);font-size:.72rem}
+#bio-submit-app .bio-form-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;padding:.85rem .25rem}
+#bio-submit-app .bio-form-footer-copy{display:grid;gap:.15rem}
+#bio-submit-app .bio-form-footer-copy strong{color:#3b4e30;font-size:.85rem}
+#bio-submit-app .bio-form-footer-copy span{font-size:.72rem;color:#665c46}
+#bio-submit-app .bio-form-actions{display:flex;flex-wrap:wrap;gap:.55rem}
+#bio-submit-app .bio-form-actions button{display:inline-block;margin:0;padding:.65rem 1rem;border:1px solid #455a35;border-radius:5px;font:inherit;font-size:.75rem;font-weight:700;cursor:pointer}
+#bio-submit-app .bio-primary-action{background:#405631;color:#fff}
+#bio-submit-app .bio-primary-action:hover{background:#2f4325}
+#bio-submit-app .bio-secondary-action{background:#f7f1d9;color:#374a2d}
+#bio-submit-app .bio-secondary-action:hover{background:#ebe0be}
+#bio-submit-app #bio-feedback{min-height:1.2rem;margin:.2rem .25rem .5rem;font-size:.72rem;color:#52653c}
+#bio-submit-app .bio-preview-panel{margin:0 1rem 1rem}
+#bio-submit-app .bio-preview-panel h3{margin:0 0 .75rem;padding:0;border:0;background:none;color:#354829;font:700 1.05rem Georgia,serif;text-transform:none}
+#bio-submit-app #bio-preview-content h3{margin:.5rem 0 1rem;background:none;color:#354829;font:700 1.15rem Georgia,serif;text-transform:none}
+#bio-submit-app #bio-preview-content h4{margin:1rem 0 .3rem;background:none;color:#354829;font-size:.85rem;text-transform:none}
+#bio-submit-app #bio-preview-content p{white-space:pre-wrap;font-size:.77rem}
+@media(max-width:640px){#bio-submit-app .bio-app-header{padding:1rem}#bio-submit-app form{padding:.65rem}#bio-submit-app .bio-form-card{padding:.9rem}#bio-submit-app .bio-form-grid{grid-template-columns:1fr}#bio-submit-app .bio-form-actions,#bio-submit-app .bio-form-actions button{width:100%}#bio-submit-app .bio-app-emblem{display:none}}
