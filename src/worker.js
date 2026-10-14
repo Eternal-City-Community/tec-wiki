@@ -1,5 +1,17 @@
 import { validateBiography, biographySlug } from "./bio-validation.js";
-import { verifyBiographyTurnstile } from "./bio-turnstile.js";
+import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiographyCode, activateBiographyCode } from "./bio-turnstile.js";
+import { biographyMarkdown } from "./bio-validation.js";
+import { createBiographyFile } from "./bio-github.js";
+
+
+async function handleBiographyPublish(request, env) {
+  // Fail closed until atomic rate limiting, collision protection and recovery are tested.
+  // No runtime flag can bypass this launch gate.
+  return new Response(JSON.stringify({
+    error: "Biography publishing is not enabled yet.",
+    publication_enabled: false
+  }), { status: 503, headers: { "content-type": "application/json", "cache-control": "no-store" } });
+}
 
 async function handleBiographyPreflight(request, env) {
   if (request.method !== "POST") return new Response(JSON.stringify({error:"Method not allowed"}), {status:405,headers:{"content-type":"application/json","cache-control":"no-store"}});
@@ -278,6 +290,7 @@ export default {
     if (url.pathname === "/auth") return handleAuth(request);
     if (url.pathname === "/callback") return handleCallback(request, env);
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
+    if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/preflight") return handleBiographyPreflight(request, env);
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
