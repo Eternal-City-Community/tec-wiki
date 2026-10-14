@@ -99,14 +99,14 @@ async function handleBiographyPublish(request, env) {
     if (!/^[a-f0-9]{40}$/.test(created.commit || "")) {
       throw new Error("GitHub returned no commit identifier");
     }
-    await activateBiographyCode(env.BIO_EDIT_CODES, slug, created.commit);
+    await activateBiographyCode(env.BIO_EDIT_CODES, slug, created.commit, editCode, env.BIO_EDIT_CODE_SECRET);
     const completed = await biographyCoordinatorCall(env, {
       action: "complete", slug, identity, reservation, commit: created.commit
     });
     if (completed.result.status !== "published") throw new Error("Unable to finalize publication");
     return new Response(JSON.stringify({
       published: true, character_name: bio.character_name, slug,
-      url: "/" + slug.replace(/_/g, "-") + "/", edit_code: editCode
+      url: "/" + slug + "/", edit_code: editCode
     }), { status: 201, headers: { "content-type": "application/json", "cache-control": "no-store" } });
   } catch {
     // Never return the code on an ambiguous failure. Preserve the reservation
