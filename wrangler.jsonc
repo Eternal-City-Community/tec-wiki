@@ -22,5 +22,8 @@
   "build": {
     "command": "mkdocs build --clean"
   },
+  "vars": {
+    "BIO_TURNSTILE_SITE_KEY": "0x4AAAAAAFW5CvcMWb-nnJ6R"
+  },
   "previews": {}
 }
