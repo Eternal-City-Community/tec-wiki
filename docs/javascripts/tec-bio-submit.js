@@ -61,7 +61,8 @@
     Object.keys(labels).forEach((field) => {
       if (!data[field]) return;
       addText(content, "h4", labels[field]);
-      if (field === "affiliations") { const list = document.createElement("ul"); data[field].split(",").map(x => x.trim()).filter(Boolean).forEach(x => addText(list, "li", clean(x))); content.appendChild(list); }\n      else data[field].split(/\n\s*\n/).forEach((part) => addText(content, "p", clean(part)));
+      if (field === "affiliations") { const list = document.createElement("ul"); data[field].split(",").map(x => x.trim()).filter(Boolean).forEach(x => addText(list, "li", clean(x))); content.appendChild(list); }
+      else data[field].split(/\n\s*\n/).forEach((part) => addText(content, "p", clean(part)));
     });
     panel.hidden = false;
     feedback.textContent = "Preview ready. Publishing is not enabled yet.";
