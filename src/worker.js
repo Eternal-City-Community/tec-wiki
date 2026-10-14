@@ -3,7 +3,6 @@ import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiogra
 import { biographyMarkdown } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
 import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
-import { authorizeBiographyOwner } from "./bio-owner.js";
 import { isBiographyAdministrator } from "./bio-admin.js";
 import { hashBiographyEditCode } from "./bio-turnstile.js";
 import { validatePortrait, publishPortrait } from "./bio-portrait.js";
