@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { validateBiography, biographySlug, biographyMarkdown, biographyWithExistingPortrait } from "../src/bio-validation.js";
+import { validateBiography, biographySlug, biographyMarkdown, biographyWithExistingPortrait, biographyWithUploadedPortrait } from "../src/bio-validation.js";
 
 test("first and last names combine into page title and slug", () => {
   const bio = validateBiography({ first_name: "Veridio", last_name: "DiMori", affiliations: [] });
@@ -46,4 +46,20 @@ test("editing ignores noncanonical portrait references", () => {
   const updated = biographyWithExistingPortrait(bio,
     "![Character portrait](/assets/uploads/bio_other.webp)\n", "bio_veridio_dimori");
   assert.doesNotMatch(updated, /bio_other.webp/);
+});
+
+test("replacing a portrait removes the previous extension without duplicating it", () => {
+  const slug = "bio_veridio_dimori";
+  const oldLine = "![Character portrait](/assets/uploads/" + slug + ".png)";
+  const nextPath = "/assets/uploads/" + slug + ".webp";
+  const result = biographyWithUploadedPortrait("# Biography\n\n" + oldLine + "\n", slug, nextPath);
+  assert.doesNotMatch(result, /bio_veridio_dimori\.png/);
+  assert.equal(result.split("![Character portrait]").length - 1, 1);
+  assert.ok(result.endsWith("![Character portrait](" + nextPath + ")\n"));
+  assert.equal(biographyWithUploadedPortrait(result, slug, nextPath), result);
+});
+
+test("portrait replacement rejects another character's path", () => {
+  assert.throws(() => biographyWithUploadedPortrait("# Bio", "bio_veridio_dimori",
+    "/assets/uploads/bio_someone_else.png"), /Invalid biography portrait path/);
 });
