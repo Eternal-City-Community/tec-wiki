@@ -635,7 +635,7 @@ export class BiographyCoordinator {
       if (raw.length > 2048) return jsonResponse({ error: "Request too large" }, 413);
       input = JSON.parse(raw);
     } catch { return jsonResponse({ error: "Invalid request" }, 400); }
-    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt", "owner_activate", "owner_check", "owner_reset", "owner_revoke", "owner_status"].includes(input.action) ||
+    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt", "owner_activate", "owner_check", "owner_reset", "owner_revoke", "owner_status", "owner_reconcile"].includes(input.action) ||
         !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(input.slug || "") || input.slug.length > 74 ||
         !/^[a-f0-9]{64}$/.test(input.identity || "") ||
         !/^[a-f0-9]{64}$/.test(input.reservation || "")) {
@@ -653,6 +653,15 @@ export class BiographyCoordinator {
           for (let j = 0; j < 64; j++) diff |= owner.hash.charCodeAt(j) ^ input.hash.charCodeAt(j);
           return { status: diff === 0 ? "allowed" : "denied" };
         }
+        if (input.action === "owner_reconcile") {
+          const claim = this.sql.exec("SELECT status, updated_at FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
+          if (!claim || !["reserved", "review"].includes(claim.status) ||
+              now - claim.updated_at < 15 * 60000 || owner ||
+              !/^[a-f0-9]{64}$/.test(input.hash || "")) return { status: "denied" };
+          this.sql.exec("UPDATE bio_claims SET status = 'published', updated_at = ? WHERE slug = ?", now, input.slug);
+          this.sql.exec("INSERT INTO bio_owner_state (slug, status, hash, updated_at) VALUES (?, 'active', ?, ?)", input.slug, input.hash, now);
+          return { status: "active" };
+        }
         if (input.action === "owner_activate") {
           const claim = this.sql.exec("SELECT status, reservation FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
           if (!claim || claim.status !== "published" || claim.reservation !== input.reservation ||
@@ -661,14 +670,16 @@ export class BiographyCoordinator {
           return { status: "active" };
         }
         const claim = this.sql.exec("SELECT status FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
-        if (!owner || !claim || claim.status !== "published") return { status: "denied" };
+        if (!claim || claim.status !== "published") return { status: "denied" };
+        if (!owner && input.action !== "owner_reset") return { status: "denied" };
         if (input.action === "owner_revoke") {
           this.sql.exec("UPDATE bio_owner_state SET status = 'revoked', updated_at = ? WHERE slug = ?", now, input.slug);
           return { status: "revoked" };
         }
         if (input.action === "owner_reset") {
           if (!/^[a-f0-9]{64}$/.test(input.hash || "")) return { status: "denied" };
-          this.sql.exec("UPDATE bio_owner_state SET status = 'active', hash = ?, updated_at = ? WHERE slug = ?", input.hash, now, input.slug);
+          if (!owner) this.sql.exec("INSERT INTO bio_owner_state (slug, status, hash, updated_at) VALUES (?, 'active', ?, ?)", input.slug, input.hash, now);
+          else this.sql.exec("UPDATE bio_owner_state SET status = 'active', hash = ?, updated_at = ? WHERE slug = ?", input.hash, now, input.slug);
           return { status: "active" };
         }
       }
