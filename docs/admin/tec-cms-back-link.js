@@ -1,8 +1,9 @@
 // Makes the editor's top-left "Back to Wiki Pages" link return to the wiki page
 // being edited. New pages have no live page yet, so they keep Decap's default.
 // Leaving with unsaved changes still triggers Decap's "leave page?" warning.
-// Also hides Decap's "Changes saved" badge until a save actually happens,
-// since Decap shows it on every freshly opened page.
+// Also hides Decap's "Draft saved" badge (renamed in tec-cms-wording.js) until
+// a save actually happens, since Decap shows it on every freshly opened page,
+// and again once the page is published.
 (function () {
   var MODE_CLASS = "tec-back-to-page";
   var SAVED_CLASS = "tec-saved";
@@ -31,6 +32,11 @@
     schedule();
   }
 
+  function clearSaved() {
+    savedKey = null;
+    schedule();
+  }
+
   function trackSavedEntry() {
     var key = entryKey();
     // Saving a new page moves Decap from ".../new" to the page's real address.
@@ -40,7 +46,7 @@
 
   if (window.CMS && typeof window.CMS.registerEventListener === "function") {
     window.CMS.registerEventListener({ name: "postSave", handler: markSaved });
-    window.CMS.registerEventListener({ name: "postPublish", handler: markSaved });
+    window.CMS.registerEventListener({ name: "postPublish", handler: clearSaved });
   }
 
   // Live page for the entry being edited, or null for new pages and other screens.
