@@ -61,3 +61,24 @@ test("coordinator integration probe rejects GET requests", async () => {
   });
   assert.equal(response.status, 405);
 });
+
+test("storage integration probe is disabled without temporary secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/storage-probe", {
+    method: "POST", headers: { authorization: "Bearer " + "a".repeat(64) }
+  }), { BIO_EDIT_CODES: {}, BIO_GITHUB_TOKEN: "test" });
+  assert.equal(response.status, 503);
+});
+
+test("storage integration probe denies incorrect bearer secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/storage-probe", {
+    method: "POST", headers: { authorization: "Bearer " + "b".repeat(64) }
+  }), { BIO_INTEGRATION_TEST_SECRET: "a".repeat(64), BIO_EDIT_CODES: {}, BIO_GITHUB_TOKEN: "test" });
+  assert.equal(response.status, 401);
+});
+
+test("storage integration probe rejects GET", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/storage-probe"), {
+    BIO_INTEGRATION_TEST_SECRET: "a".repeat(64)
+  });
+  assert.equal(response.status, 405);
+});
