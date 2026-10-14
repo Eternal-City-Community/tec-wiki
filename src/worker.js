@@ -1,3 +1,26 @@
+import { validateBiography, biographySlug } from "./bio-validation.js";
+import { verifyBiographyTurnstile } from "./bio-turnstile.js";
+
+async function handleBiographyPreflight(request, env) {
+  if (request.method !== "POST") return new Response(JSON.stringify({error:"Method not allowed"}), {status:405,headers:{"content-type":"application/json","cache-control":"no-store"}});
+  if (!request.headers.get("content-type")?.startsWith("application/json")) return jsonResponse({error:"Expected JSON"},415);
+  const length=Number(request.headers.get("content-length") || 0);
+  if (length>60000) return jsonResponse({error:"Submission too large"},413);
+  let payload;
+  try {
+    const raw=await request.text();
+    if(raw.length>60000) return jsonResponse({error:"Submission too large"},413);
+    payload=JSON.parse(raw);
+    const bio=validateBiography(payload.biography);
+    const slug=biographySlug(bio.character_name);
+    const verified=await verifyBiographyTurnstile(payload.turnstileToken,request.headers.get("CF-Connecting-IP"),env.BIO_TURNSTILE_SECRET);
+    if(!verified) return jsonResponse({error:"Human verification failed"},403);
+    return new Response(JSON.stringify({valid:true,slug,publication_enabled:false}),{headers:{"content-type":"application/json","cache-control":"no-store"}});
+  } catch {
+    return jsonResponse({error:"Invalid biography submission"},400);
+  }
+}
+
 const CLIENT_ID = "Ov23lic8smpqjOHteIwJ";
 const CALLBACK_PATH = "/callback";
 
@@ -237,6 +260,7 @@ export default {
     const url = new URL(request.url);
     if (url.pathname === "/auth") return handleAuth(request);
     if (url.pathname === "/callback") return handleCallback(request, env);
+    if (url.pathname === "/api/bio/preflight") return handleBiographyPreflight(request, env);
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
     if (url.pathname === "/api/page-diff") return handlePageDiff(request);
