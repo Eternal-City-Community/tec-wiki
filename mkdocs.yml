@@ -101,5 +101,6 @@ extra_javascript:
   - javascripts/tec-page-history.js
   - javascripts/tec-whats-new.js
   - javascripts/tec-trait-calculator.js
+  - javascripts/tec-bio-edit.js
   - javascripts/tec-bio-submit.js
   - javascripts/tec-bio-affiliations.js
