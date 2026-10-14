@@ -638,3 +638,11 @@ At the beginning of a fresh TEC Wiki chat:
 - Only one redeemed VC package can be pending character creation at a time.
 - VC lobby attribute points cannot increase Empathy, Charisma, or Appearance; these require Story Points.
 - Updated `docs/veteran-characters.md` in commit `a269e4ed853d56ac353de5e560d3b7bc59a2fddb`.
+
+
+## Public Character Biography Submission (2026-10-14)
+
+- User approved automatic publishing, guided form, portrait uploads, and verified-email-based subsequent editing.
+- Existing migrated biographies stay editor-managed. Basic fields: name, nationality, appearance, background, history, affiliations, portrait, optional freeform.
+- Implementation and required infrastructure documented in `docs/admin/biography-submission-implementation.md` (commit `4c88d0d470c200f6a62ea6badfa3feccb97dea43`).
+- Not live yet. Requires restricted GitHub App, Cloudflare D1, Turnstile, verified email sender/provider, implementation and staging validation before public exposure.
