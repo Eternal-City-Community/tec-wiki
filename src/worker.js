@@ -6,6 +6,7 @@ import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
 import { authorizeBiographyOwner } from "./bio-owner.js";
 import { isBiographyAdministrator } from "./bio-admin.js";
 import { hashBiographyEditCode } from "./bio-turnstile.js";
+import { validatePortrait, publishPortrait } from "./bio-portrait.js";
 
 
 
@@ -127,6 +128,51 @@ async function handleBiographyPublish(request, env) {
 // without a verified ownership code and a fresh challenge.
 // Restricted recovery for biographies already registered with the submission system.
 // A legacy biography without an existing ownership record cannot be claimed.
+// Portraits are published only for an existing biography with a valid private code.
+// Publication stays gated until the complete recovery flow has been tested.
+async function handleBiographyPortrait(request, env) {
+  const PORTRAIT_PUBLISHING_ENABLED = false;
+  if (!PORTRAIT_PUBLISHING_ENABLED) return jsonResponse({ error: "Portrait publishing is not enabled yet" }, 503);
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  if (!request.headers.get("content-type")?.startsWith("application/json"))
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  let slug, code, token, image;
+  try {
+    const raw = await request.text();
+    if (raw.length > 4500000) return jsonResponse({ error: "Portrait too large" }, 413);
+    const input = JSON.parse(raw);
+    slug = biographySlug(input.character_name);
+    code = input.edit_code;
+    token = input.turnstileToken;
+    image = validatePortrait(input.base64, input.mime);
+  } catch { return jsonResponse({ error: "Invalid portrait" }, 400); }
+  if (!(await verifyBiographyTurnstile(token, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET)))
+    return jsonResponse({ error: "Human verification failed" }, 403);
+  try {
+    const identity = await biographyRateIdentity(request, env.BIO_EDIT_CODE_SECRET);
+    const limit = await biographyCoordinatorCall(env, { action: "edit_attempt", slug, identity, reservation: "0".repeat(64) });
+    if (limit.result.status === "limited") return jsonResponse({ error: "Too many attempts" }, 429);
+    if (limit.result.status !== "allowed") throw new Error("Rate limit unavailable");
+    if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
+      return jsonResponse({ error: "Invalid editing credentials" }, 403);
+    const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
+    if (!file) return jsonResponse({ error: "Biography not found" }, 404);
+    const result = await publishPortrait(env.BIO_GITHUB_TOKEN, slug, image);
+    if (result.status === "conflict") return jsonResponse({ error: "Portrait upload conflicted; retry later" }, 409);
+    const bytes = Uint8Array.from(atob(file.content.replace(/\\s/g, "")), x => x.charCodeAt(0));
+    const markdown = new TextDecoder().decode(bytes);
+    const portraitLine = "![Character portrait](" + result.path + ")";
+    if (!markdown.includes(portraitLine)) {
+      const updated = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown + "\\n\\n" + portraitLine + "\\n", file.sha);
+      if (updated.status !== "updated")
+        return jsonResponse({ error: "Portrait saved but biography update conflicted; contact an administrator" }, 409);
+    }
+    return new Response(JSON.stringify({ published: true, path: result.path }), {
+      headers: { "content-type": "application/json", "cache-control": "no-store" }
+    });
+  } catch { return jsonResponse({ error: "Unable to confirm portrait publication" }, 503); }
+}
+
 async function handleBiographyAdmin(request, env) {
   const ADMIN_RECOVERY_ENABLED = false;
   if (!ADMIN_RECOVERY_ENABLED) return jsonResponse({ error: "Biography recovery is not enabled yet" }, 503);
@@ -623,6 +669,7 @@ export default {
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
     if (url.pathname === "/api/bio/admin") return handleBiographyAdmin(request, env);
+    if (url.pathname === "/api/bio/portrait") return handleBiographyPortrait(request, env);
     if (url.pathname === "/api/bio/preflight") return handleBiographyPreflight(request, env);
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
