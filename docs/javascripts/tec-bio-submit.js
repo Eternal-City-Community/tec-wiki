@@ -5,17 +5,32 @@
   const feedback = document.getElementById("bio-feedback");
   const panel = document.getElementById("bio-preview-panel");
   const content = document.getElementById("bio-preview-content");
-  const fields = ["character_name", "nationality", "appearance", "background", "history", "affiliations", "additional"];
+  const fields = ["character_name", "nationality", "appearance", "background", "affiliations", "additional"];
   const labels = {
     nationality: "Nationality or origin", appearance: "Appearance",
-    background: "Background", history: "History",
+    background: "Background & history",
     affiliations: "Organizations and affiliations", additional: "Additional details"
   };
   function values() {
     const result = {};
     fields.forEach((name) => { result[name] = String(form.elements[name].value || "").trim(); });
+    if (result.affiliations === "__other__") {
+      result.affiliations = String(form.elements.other_org.value || "").trim();
+      if (!result.affiliations) throw new Error("Enter the name of the other organization.");
+    }
     return result;
   }
+  const affiliationSelect = form.elements.affiliations;
+  const otherWrap = document.getElementById("bio-other-wrap");
+  const otherInput = form.elements.other_org;
+  function toggleOther() {
+    const selected = affiliationSelect.value === "__other__";
+    otherWrap.hidden = !selected;
+    otherInput.required = selected;
+    if (!selected) otherInput.value = "";
+  }
+  affiliationSelect.addEventListener("change", toggleOther);
+  toggleOther();
   function clean(value) {
     return value.replace(/[<>]/g, "").replace(/\r/g, "").trim();
   }
