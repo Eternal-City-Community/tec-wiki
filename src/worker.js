@@ -187,9 +187,9 @@ async function handleBiographyPortrait(request, env) {
   } catch { return jsonResponse({ error: "Unable to confirm portrait publication" }, 503); }
 }
 
-async function handleBiographyAdmin(request, env) {
+async function handleBiographyAdmin(request, env, isTest = false) {
   const ADMIN_RECOVERY_ENABLED = false;
-  if (!ADMIN_RECOVERY_ENABLED) return jsonResponse({ error: "Biography recovery is not enabled yet" }, 503);
+  if (!ADMIN_RECOVERY_ENABLED && !isTest) return jsonResponse({ error: "Biography recovery is not enabled yet" }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
     return jsonResponse({ error: "Expected JSON" }, 415);
@@ -353,6 +353,33 @@ async function handleBiographyPreflight(request, env) {
   }
 }
 
+
+async function handleBiographyRecoveryTest(request, env) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32)
+    return jsonResponse({ error: "Integration test disabled" }, 503);
+  const digest = async s => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s)));
+  const [actual, expected] = await Promise.all([
+    digest(request.headers.get("authorization") || ""), digest("Bearer " + secret)
+  ]);
+  let mismatch = 0;
+  for (let i = 0; i < actual.length; i++) mismatch |= actual[i] ^ expected[i];
+  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
+  if (!request.headers.get("content-type")?.startsWith("application/json"))
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  let body;
+  try {
+    const raw = await request.text();
+    if (raw.length > 4096) throw new Error();
+    body = JSON.parse(raw);
+    if (body?.character_name !== "Wiki Integration Test" || !["inspect", "reset"].includes(body.action))
+      return jsonResponse({ error: "Only disposable biography inspection/reset permitted" }, 400);
+  } catch { return jsonResponse({ error: "Invalid test payload" }, 400); }
+  return handleBiographyAdmin(new Request(request.url, {
+    method: "POST", headers: request.headers, body: JSON.stringify(body)
+  }), env, true);
+}
 
 async function handleBiographyEditTest(request, env, action) {
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
@@ -964,6 +991,7 @@ export default {
     if (url.pathname === "/api/bio/publish-test") return handleBiographyPublishTest(request, env);
     if (url.pathname === "/api/bio/load-test") return handleBiographyEditTest(request, env, "load");
     if (url.pathname === "/api/bio/edit-test") return handleBiographyEditTest(request, env, "edit");
+    if (url.pathname === "/api/bio/recovery-test") return handleBiographyRecoveryTest(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
