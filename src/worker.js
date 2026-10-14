@@ -4,6 +4,31 @@ import { biographyMarkdown } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
 
 
+
+async function biographyRateIdentity(request, secret) {
+  // Do not store a raw IP address in coordinator storage.
+  const ip = request.headers.get("CF-Connecting-IP");
+  if (!ip || !secret || secret.length < 32) throw new Error("Rate identity unavailable");
+  const bytes = new TextEncoder();
+  const key = await crypto.subtle.importKey("raw", bytes.encode(secret), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const result = await crypto.subtle.sign("HMAC", key, bytes.encode("bio-rate-v1:" + ip));
+  return Array.from(new Uint8Array(result), byte => byte.toString(16).padStart(2, "0")).join("");
+}
+
+async function biographyCoordinatorCall(env, input) {
+  if (!env.BIO_COORDINATOR) throw new Error("Biography coordinator binding missing");
+  // A single Durable Object serializes claims across all biography slugs.
+  const id = env.BIO_COORDINATOR.idFromName("biography-publication-v1");
+  const stub = env.BIO_COORDINATOR.get(id);
+  const response = await stub.fetch("https://internal.invalid/biography", {
+    method: "POST",
+    headers: { "content-type": "application/json" },
+    body: JSON.stringify(input)
+  });
+  if (!response.ok && ![403, 409, 429].includes(response.status)) throw new Error("Coordinator unavailable");
+  return { statusCode: response.status, result: await response.json() };
+}
+
 async function handleBiographyPublish(request, env) {
   // The public write gate stays closed until a strongly consistent abuse limiter
   // and recovery workflow have been configured and tested.
