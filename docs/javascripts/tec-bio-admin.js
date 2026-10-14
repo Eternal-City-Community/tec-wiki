@@ -28,6 +28,7 @@
                 <option value="inspect">Check editing status (no changes)</option>
                 <option value="reset">Replace a lost editing code</option>
                 <option value="revoke">Turn off player editing</option>
+                <option value="abandon">Clear failed unpublished submission (no page exists)</option>
               </select></div>
           </div>
           <div class="bio-form-footer"><span class="bio-help">Check changes nothing. Replace makes the old code stop working. Turn off editing does not delete the page.</span>
@@ -72,7 +73,7 @@
     event.preventDefault();
     if (!githubToken) return;
     const action = form.elements.action.value;
-    if (action !== "inspect" && !window.confirm(action === "reset" ? "Replace this player’s editing code? Their old code will stop working. Make sure you can give the new code to the verified player." : "Turn off player editing for this biography? The biography will stay on the wiki, but the current code will stop working.")) return;
+    if (action !== "inspect" && !window.confirm(action === "reset" ? "Replace this player’s editing code? Their old code will stop working. Make sure you can give the new code to the verified player." : action === "abandon" ? "Clear a failed unpublished submission? Only do this after confirming no biography page exists and at least 15 minutes have passed." : "Turn off player editing for this biography? The biography will stay on the wiki, but the current code will stop working.")) return;
     button.disabled = true;
     result.textContent = "Verifying administrator permissions…";
     try {
@@ -98,6 +99,7 @@
         copy.addEventListener("click", () => navigator.clipboard.writeText(data.edit_code));
         result.append(intro, code, document.createElement("p"), copy);
       } else if (action === "inspect") result.textContent = "Editing status: " + (data.status || "unknown") + ". No changes were made.";
+      else if (action === "abandon" && data.abandoned) result.textContent = "Unpublished submission cleared. The character name can be submitted again.";
       else if (action === "revoke" && data.revoked) result.textContent = "Player editing is now turned off. The biography remains published.";
       else result.textContent = "Action completed.";
     } catch (error) { result.textContent = error.message; }
