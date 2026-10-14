@@ -1,6 +1,6 @@
 ---
-title: "Hoplite Combat Guide"
-category: "Skills & Combat"
+title: Hoplite Combat Guide
+category: Skills & Combat
 parent: hoplite-combat
 ---
 
@@ -100,7 +100,8 @@ Weapon round time with outstanding speed (190+):
 
 | Weapon and Shield | Most Attacks | Rotating Bash | Lunge and Strike &<br>Stab and Swing | Bash and Jab &<br>Slam and Thrust | Basic Attack | Feint |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| wood spear w/ any shield<br>tin short spear w/ any shield<br>alanti spear w/ any shield<br>alanti short spear w/ any shield<br>retalq spear w/ any shield<br>retalq short spear w/ any shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
+| wood spear w/ light shield<br>tin short spear w/ light shield<br>alanti spear w/ light shield<br>alanti short spear w/ light shield<br>retalq spear w/ light shield<br>retalq short spear w/ light shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
+| retalq short spear w/ heavy shield | 1 + MoS | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 | boison spear w/ light shield<br>boison short spear w/ light shield<br>iron short spear w/ light shield | 2 + MoS | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 | boison spear w/ heavy shield<br>boison short spear w/ heavy shield<br>iron spear w/ heavy shield | 2 + MoS | 2 + MoS | 3 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 
