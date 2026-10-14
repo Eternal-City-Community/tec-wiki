@@ -159,7 +159,7 @@ async function handleBiographyPortrait(request, env) {
     if (!file) return jsonResponse({ error: "Biography not found" }, 404);
     const result = await publishPortrait(env.BIO_GITHUB_TOKEN, slug, image);
     if (result.status === "conflict") return jsonResponse({ error: "Portrait upload conflicted; retry later" }, 409);
-    const bytes = Uint8Array.from(atob(file.content.replace(/\\s/g, "")), x => x.charCodeAt(0));
+    const bytes = Uint8Array.from(atob(file.content.replace(/\s/g, "")), x => x.charCodeAt(0));
     const markdown = new TextDecoder().decode(bytes);
     const portraitLine = "![Character portrait](" + result.path + ")";
     if (!markdown.includes(portraitLine)) {
@@ -245,7 +245,7 @@ async function handleBiographyLoad(request, env) {
       return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
     const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
     if (!file) return jsonResponse({ error: "Biography not found" }, 404);
-    return new Response(JSON.stringify({ slug, sha: file.sha, markdown_base64: file.content.replace(/\\s/g, "") }), {
+    return new Response(JSON.stringify({ slug, sha: file.sha, markdown_base64: file.content.replace(/\s/g, "") }), {
       headers: { "content-type": "application/json", "cache-control": "no-store" }
     });
   } catch { return jsonResponse({ error: "Unable to load biography" }, 503); }
