@@ -34,6 +34,16 @@ async function biographyCoordinatorCall(env, input) {
   return { statusCode: response.status, result: await response.json() };
 }
 
+async function biographyOwnerVerified(env, slug, code) {
+  let hash;
+  try { hash = await hashBiographyEditCode(code, env.BIO_EDIT_CODE_SECRET); }
+  catch { return false; }
+  const response = await biographyCoordinatorCall(env, {
+    action: "owner_check", slug, hash, identity: "0".repeat(64), reservation: "0".repeat(64)
+  });
+  return response.result.status === "allowed";
+}
+
 async function handleBiographyPublish(request, env) {
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   // Hard-coded launch gate: this branch must remain unreachable until an
@@ -109,6 +119,11 @@ async function handleBiographyPublish(request, env) {
       action: "complete", slug, identity, reservation, commit: created.commit
     });
     if (completed.result.status !== "published") throw new Error("Unable to finalize publication");
+    const hash = await hashBiographyEditCode(editCode, env.BIO_EDIT_CODE_SECRET);
+    const owner = await biographyCoordinatorCall(env, {
+      action: "owner_activate", slug, hash, identity, reservation
+    });
+    if (owner.result.status !== "active") throw new Error("Unable to activate authoritative owner record");
     return new Response(JSON.stringify({
       published: true, character_name: bio.character_name, slug,
       url: "/" + slug + "/", edit_code: editCode
@@ -153,7 +168,7 @@ async function handleBiographyPortrait(request, env) {
     const limit = await biographyCoordinatorCall(env, { action: "edit_attempt", slug, identity, reservation: "0".repeat(64) });
     if (limit.result.status === "limited") return jsonResponse({ error: "Too many attempts" }, 429);
     if (limit.result.status !== "allowed") throw new Error("Rate limit unavailable");
-    if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
+    if (!(await biographyOwnerVerified(env, slug, code)))
       return jsonResponse({ error: "Invalid editing credentials" }, 403);
     const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
     if (!file) return jsonResponse({ error: "Biography not found" }, 404);
@@ -242,7 +257,7 @@ async function handleBiographyLoad(request, env) {
     const limit = await biographyCoordinatorCall(env, { action: "edit_attempt", slug, identity, reservation: "0".repeat(64) });
     if (limit.result.status === "limited") return jsonResponse({ error: "Too many editing attempts" }, 429);
     if (limit.result.status !== "allowed") throw new Error("Rate limiting unavailable");
-    if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
+    if (!(await biographyOwnerVerified(env, slug, code)))
       return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
     const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
     if (!file) return jsonResponse({ error: "Biography not found" }, 404);
@@ -293,7 +308,7 @@ async function handleBiographyEdit(request, env) {
     return jsonResponse({ error: "Editing attempt limit unavailable" }, 503);
   }
   try {
-    if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
+    if (!(await biographyOwnerVerified(env, slug, code)))
       return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
     const existing = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
     if (!existing) return jsonResponse({ error: "Biography not found" }, 404);
