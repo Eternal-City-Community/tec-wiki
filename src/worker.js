@@ -356,58 +356,6 @@ async function handleBiographyPreflight(request, env) {
 
 // Operator-only integration probe. It exercises isolated coordinator records, never GitHub or KV.
 // This endpoint is unavailable unless a separate secret is explicitly configured.
-async function handleBiographyCoordinatorProbe(request, env) {
-  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
-  if (!env.BIO_INTEGRATION_TEST_SECRET || !env.BIO_COORDINATOR || !env.BIO_EDIT_CODE_SECRET)
-    return jsonResponse({ error: "Integration probe is disabled" }, 503);
-  const token = request.headers.get("authorization") || "";
-  if (!token.startsWith("Bearer ") || token.length > 300) return jsonResponse({ error: "Unauthorized" }, 401);
-  const candidate = token.slice(7);
-  const secret = env.BIO_INTEGRATION_TEST_SECRET;
-  if (typeof secret !== "string" || secret.length < 32 || candidate.length !== secret.length)
-    return jsonResponse({ error: "Unauthorized" }, 401);
-  const encoder = new TextEncoder();
-  const [expected, actual] = await Promise.all([
-    crypto.subtle.digest("SHA-256", encoder.encode(secret)),
-    crypto.subtle.digest("SHA-256", encoder.encode(candidate))
-  ]);
-  let diff = 0;
-  const a = new Uint8Array(expected), b = new Uint8Array(actual);
-  for (let i = 0; i < a.length; i++) diff |= a[i] ^ b[i];
-  if (diff) return jsonResponse({ error: "Unauthorized" }, 401);
-
-  const bytes = crypto.getRandomValues(new Uint8Array(12));
-  const suffix = Array.from(bytes, b => b.toString(16).padStart(2, "0")).join("");
-  const slug = "bio_integration_probe_" + suffix;
-  const identity = "0".repeat(64);
-  const reservation = "1".repeat(64);
-  const oldHash = "2".repeat(64), newHash = "3".repeat(64);
-  const commit = "4".repeat(40);
-  const call = async (action, extra = {}) => {
-    const response = await biographyCoordinatorCall(env, { action, slug, identity, reservation, ...extra });
-    return response.result.status;
-  };
-  try {
-    const results = {};
-    results.initial = await call("owner_status") === "missing";
-    results.reserved = await call("reserve") === "reserved";
-    results.duplicate_rejected = await call("reserve") === "claimed";
-    results.completed = await call("complete", { commit }) === "published";
-    results.activated = await call("owner_activate", { hash: oldHash }) === "active";
-    results.old_code_allowed = await call("owner_check", { hash: oldHash }) === "allowed";
-    results.wrong_code_denied = await call("owner_check", { hash: newHash }) === "denied";
-    results.reset = await call("owner_reset", { hash: newHash }) === "active";
-    results.old_code_denied_after_reset = await call("owner_check", { hash: oldHash }) === "denied";
-    results.new_code_allowed = await call("owner_check", { hash: newHash }) === "allowed";
-    results.revoked = await call("owner_revoke") === "revoked";
-    results.code_denied_after_revoke = await call("owner_check", { hash: newHash }) === "denied";
-    const passed = Object.values(results).every(Boolean);
-    return jsonResponse({ passed, results }, passed ? 200 : 500);
-  } catch {
-    return jsonResponse({ passed: false, error: "Coordinator integration probe failed" }, 503);
-  }
-}
-
 async function handleBiographyStorageCheck(request, env) {
   // This route never writes to KV or GitHub; it checks only server configuration.
   if (request.method !== "GET") return jsonResponse({ error: "Method not allowed" }, 405);
@@ -782,129 +730,12 @@ export class BiographyCoordinator {
   }
 }
 
-async function handleBiographyTurnstileProbe(request, env) {
-  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
-  const secret = env.BIO_INTEGRATION_TEST_SECRET;
-  if (typeof secret !== "string" || secret.length < 32)
-    return jsonResponse({ error: "Integration probe is disabled" }, 503);
-  const authorization = request.headers.get("authorization") || "";
-  const digest = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
-  const [actual, expected] = await Promise.all([digest(authorization), digest("Bearer " + secret)]);
-  let mismatch = 0;
-  for (let i = 0; i < actual.length; i++) mismatch |= actual[i] ^ expected[i];
-  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
-  let token;
-  try {
-    if (!request.headers.get("content-type")?.startsWith("application/json")) throw new Error();
-    const raw = await request.text();
-    if (raw.length > 4096) throw new Error();
-    token = JSON.parse(raw).turnstileToken;
-    if (typeof token !== "string" || token.length > 2048) throw new Error();
-  } catch { return jsonResponse({ error: "Invalid probe payload" }, 400); }
-  const verified = await verifyBiographyTurnstile(token, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET);
-  return jsonResponse({ verified });
-}
-
-// GitHub write probe creates an unattached Git blob, never a commit, branch, or page.
-// Disabled unless a separate short-lived runtime secret is configured.
-async function handleBiographyGithubWriteProbe(request, env) {
-  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
-  const secret = env.BIO_INTEGRATION_TEST_SECRET;
-  if (typeof secret !== "string" || secret.length < 32)
-    return jsonResponse({ error: "Integration probe is disabled" }, 503);
-  const supplied = request.headers.get("authorization") || "";
-  const digest = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
-  const [a, b] = await Promise.all([digest(supplied), digest("Bearer " + secret)]);
-  let mismatch = 0;
-  for (let i = 0; i < a.length; i++) mismatch |= a[i] ^ b[i];
-  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
-  if (!env.BIO_GITHUB_TOKEN) return jsonResponse({ passed: false, error: "GitHub credential missing" }, 503);
-  const nonce = new Uint8Array(16);
-  crypto.getRandomValues(nonce);
-  const marker = Array.from(nonce, x => x.toString(16).padStart(2, "0")).join("");
-  try {
-    const response = await fetch("https://api.github.com/repos/Eternal-City-Community/tec-wiki/git/blobs", {
-      method: "POST",
-      headers: {
-        authorization: "Bearer " + env.BIO_GITHUB_TOKEN,
-        accept: "application/vnd.github+json",
-        "content-type": "application/json",
-        "user-agent": "TEC-Wiki"
-      },
-      body: JSON.stringify({ content: "TEC biography write-permission probe " + marker + "\\n", encoding: "utf-8" }),
-      signal: AbortSignal.timeout(8000)
-    });
-    const data = response.ok ? await response.json() : null;
-    const passed = response.status === 201 && /^[a-f0-9]{40}$/.test(data?.sha || "");
-    // Git blobs without a tree/commit are unreachable from main and not deployed.
-    return jsonResponse({ passed, github_blob_created: passed, no_branch_or_page_modified: true,
-      github_status: response.status }, passed ? 200 : 502);
-  } catch {
-    return jsonResponse({ passed: false, github_blob_created: false, no_branch_or_page_modified: true }, 502);
-  }
-}
-
-// Temporary, bearer-restricted production connectivity probe. No wiki content is written.
-async function handleBiographyStorageProbe(request, env) {
-  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
-  const secret = env.BIO_INTEGRATION_TEST_SECRET;
-  if (typeof secret !== "string" || secret.length < 32)
-    return jsonResponse({ error: "Integration probe is disabled" }, 503);
-  const supplied = request.headers.get("authorization") || "";
-  const expected = "Bearer " + secret;
-  const digest = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
-  const [a, b] = await Promise.all([digest(supplied), digest(expected)]);
-  let mismatch = 0;
-  for (let i = 0; i < a.length; i++) mismatch |= a[i] ^ b[i];
-  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
-  if (!env.BIO_EDIT_CODES || !env.BIO_GITHUB_TOKEN)
-    return jsonResponse({ passed: false, error: "Required bindings unavailable" }, 503);
-
-  const results = { kv_written: false, kv_read: false, kv_deleted: false, github_repository_readable: false };
-  const bytes = new Uint8Array(16);
-  crypto.getRandomValues(bytes);
-  const key = "bio-integration-probe:" + Array.from(bytes, x => x.toString(16).padStart(2, "0")).join("");
-  const marker = key.slice("bio-integration-probe:".length);
-  try {
-    await env.BIO_EDIT_CODES.put(key, marker, { expirationTtl: 120 });
-    results.kv_written = true;
-    results.kv_read = (await env.BIO_EDIT_CODES.get(key)) === marker;
-  } catch {
-    // Return only booleans, never secrets or provider error bodies.
-  } finally {
-    try {
-      await env.BIO_EDIT_CODES.delete(key);
-      results.kv_deleted = (await env.BIO_EDIT_CODES.get(key)) === null;
-    } catch {}
-  }
-  try {
-    const response = await fetch("https://api.github.com/repos/Eternal-City-Community/tec-wiki", {
-      headers: {
-        authorization: "Bearer " + env.BIO_GITHUB_TOKEN,
-        accept: "application/vnd.github+json",
-        "user-agent": "TEC-Wiki"
-      },
-      signal: AbortSignal.timeout(8000)
-    });
-    if (response.ok) {
-      const repository = await response.json();
-      results.github_repository_readable = repository.full_name === "Eternal-City-Community/tec-wiki";
-    }
-  } catch {}
-  const passed = Object.values(results).every(Boolean);
-  return jsonResponse({ passed, results }, passed ? 200 : 500);
-}
-
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (url.pathname === "/auth") return handleAuth(request);
     if (url.pathname === "/callback") return handleCallback(request, env);
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
-    if (url.pathname === "/api/bio/integration-probe") return handleBiographyCoordinatorProbe(request, env);
-    if (url.pathname === "/api/bio/storage-probe") return handleBiographyStorageProbe(request, env);
-    if (url.pathname === "/api/bio/github-write-probe") return handleBiographyGithubWriteProbe(request, env);
-    if (url.pathname === "/api/bio/turnstile-probe") return handleBiographyTurnstileProbe(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
