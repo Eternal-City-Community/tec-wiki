@@ -12,7 +12,7 @@ export async function verifyBiographyTurnstile(token, ip, secret) {
     });
     if (!response.ok) return false;
     const result = await response.json();
-    return result.success === true && (!result.hostname || result.hostname === "tec-wiki.com");
+    return result.success === true && result.hostname === "tec-wiki.com";
   } catch {
     return false;
   }
