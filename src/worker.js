@@ -30,13 +30,91 @@ async function biographyCoordinatorCall(env, input) {
 }
 
 async function handleBiographyPublish(request, env) {
-  // The public write gate stays closed until a strongly consistent abuse limiter
-  // and recovery workflow have been configured and tested.
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
-  return new Response(JSON.stringify({
-    error: "Biography publishing is not enabled yet.",
-    publication_enabled: false
-  }), { status: 503, headers: { "content-type": "application/json", "cache-control": "no-store" } });
+  // Hard-coded launch gate: this branch must remain unreachable until an
+  // integration test confirms successful publication and edit-code recovery.
+  const PUBLIC_BIO_PUBLISHING_ENABLED = false;
+  if (!PUBLIC_BIO_PUBLISHING_ENABLED) return jsonResponse({
+    error: "Biography publishing is not enabled yet.", publication_enabled: false
+  }, 503);
+
+  if (!request.headers.get("content-type")?.startsWith("application/json")) {
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  }
+  const declaredSize = Number(request.headers.get("content-length") || 0);
+  if (declaredSize > 60000) return jsonResponse({ error: "Submission too large" }, 413);
+  if (!env.BIO_GITHUB_TOKEN || !env.BIO_EDIT_CODE_SECRET || !env.BIO_TURNSTILE_SECRET ||
+      !env.BIO_EDIT_CODES || !env.BIO_COORDINATOR) {
+    return jsonResponse({ error: "Publishing is not configured" }, 503);
+  }
+
+  let bio, slug, token;
+  try {
+    const raw = await request.text();
+    if (raw.length > 60000) return jsonResponse({ error: "Submission too large" }, 413);
+    const payload = JSON.parse(raw);
+    bio = validateBiography(payload.biography);
+    slug = biographySlug(bio.character_name);
+    token = payload.turnstileToken;
+  } catch {
+    return jsonResponse({ error: "Invalid biography submission" }, 400);
+  }
+
+  // Verify the challenge before reserving a slug or consuming GitHub quota.
+  const verified = await verifyBiographyTurnstile(
+    token, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET
+  );
+  if (!verified) return jsonResponse({ error: "Human verification failed" }, 403);
+
+  let identity, reservation;
+  try {
+    identity = await biographyRateIdentity(request, env.BIO_EDIT_CODE_SECRET);
+    reservation = generateBiographyEditCode();
+    const reserved = await biographyCoordinatorCall(env, {
+      action: "reserve", slug, identity, reservation
+    });
+    if (reserved.result.status === "limited") {
+      return new Response(JSON.stringify({ error: "Too many submissions. Try again later." }), {
+        status: 429, headers: { "content-type": "application/json", "cache-control": "no-store",
+          "retry-after": String(reserved.result.retry_after || 3600) }
+      });
+    }
+    if (reserved.result.status === "claimed") {
+      return jsonResponse({ error: "A biography with this character name is already reserved." }, 409);
+    }
+    if (reserved.result.status !== "reserved") throw new Error("Reservation failed");
+  } catch {
+    return jsonResponse({ error: "Unable to reserve biography; please try again later." }, 503);
+  }
+
+  // The private code is generated server-side, never written to GitHub.
+  const editCode = generateBiographyEditCode();
+  try {
+    await storePendingBiographyCode(env.BIO_EDIT_CODES, slug, editCode, env.BIO_EDIT_CODE_SECRET);
+    const created = await createBiographyFile(env.BIO_GITHUB_TOKEN, slug, biographyMarkdown(bio));
+    if (created.status !== "created") {
+      await biographyCoordinatorCall(env, { action: "release", slug, identity, reservation });
+      return jsonResponse({ error: "This character biography already exists." }, 409);
+    }
+    if (!/^[a-f0-9]{40}$/.test(created.commit || "")) {
+      throw new Error("GitHub returned no commit identifier");
+    }
+    await activateBiographyCode(env.BIO_EDIT_CODES, slug, created.commit);
+    const completed = await biographyCoordinatorCall(env, {
+      action: "complete", slug, identity, reservation, commit: created.commit
+    });
+    if (completed.result.status !== "published") throw new Error("Unable to finalize publication");
+    return new Response(JSON.stringify({
+      published: true, character_name: bio.character_name, slug,
+      url: "/" + slug.replace(/_/g, "-") + "/", edit_code: editCode
+    }), { status: 201, headers: { "content-type": "application/json", "cache-control": "no-store" } });
+  } catch {
+    // Never return the code on an ambiguous failure. Preserve the reservation
+    // for administrator reconciliation rather than risking a second owner.
+    return jsonResponse({
+      error: "Publication could not be confirmed. Please contact a wiki administrator; do not resubmit."
+    }, 503);
+  }
 }
 
 async function handleBiographyPreflight(request, env) {
