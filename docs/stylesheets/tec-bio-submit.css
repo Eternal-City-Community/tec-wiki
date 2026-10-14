@@ -64,38 +64,38 @@ body:has(#bio-submit-app) .md-content__inner{max-width:1080px}
 
 /* Shared parchment app language for biography editing and owner recovery. */
 body:has(#bio-edit-app) .md-content__inner,body:has(#bio-admin-app) .md-content__inner{max-width:1080px}
-#bio-edit-app,#bio-edit-test-app,#bio-admin-app{max-width:940px;margin:1rem 0 1.5rem;color:#352f22;font-size:.78rem;line-height:1.5}
+#bio-edit-app,#bio-admin-app{max-width:940px;margin:1rem 0 1.5rem;color:#352f22;font-size:.78rem;line-height:1.5}
 #bio-edit-app *,#bio-admin-app *{box-sizing:border-box}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-shell{overflow:hidden;border:1px solid #928669;border-radius:12px;background:rgba(226,219,186,.85);box-shadow:0 3px 14px rgba(63,48,25,.13)}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-header{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.35rem 1.5rem;background:rgba(246,239,211,.9);border-bottom:1px solid #b9aa83}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-eyebrow{font-size:.62rem;letter-spacing:.14em;font-weight:700;color:#6c654e;text-transform:uppercase}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-header h2{margin:.25rem 0 .35rem;padding:0;border:0;background:none;color:#354829;font:700 1.42rem/1.25 Georgia,"Times New Roman",serif;text-transform:none}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-header p{margin:0;color:#655b44;font-size:.78rem}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-emblem{font:2.5rem Georgia,serif;color:#9c8a5b}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-body{padding:1rem}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-card{display:block;margin:0 0 .85rem;padding:1.15rem 1.25rem;border:1px solid #c3b797;border-radius:8px;background:rgba(251,247,230,.91);box-shadow:0 1px 3px rgba(61,47,24,.06)}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-card-heading{margin:0 0 1rem;padding:0 0 .75rem;border-bottom:1px solid rgba(128,111,73,.25)}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-card-heading h3{margin:0 0 .15rem;padding:0;border:0;background:transparent;color:#3a4c2e;font:700 1rem/1.3 Georgia,"Times New Roman",serif;text-transform:none}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-card-heading p{margin:0;font-size:.72rem;color:#716750}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem 1.2rem;align-items:start}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field{min-width:0}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field-wide{grid-column:1/-1}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field label{display:block;margin:0 0 .4rem;font-size:.73rem;font-weight:700;color:#47402d}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field input,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field select,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field textarea{display:block;float:none;width:100%;min-width:0;margin:0;padding:.62rem .75rem;border:1px solid #aa9e7e;border-radius:5px;background:#fffdf5;color:#302d22;font:inherit;font-size:.78rem;line-height:1.5;box-shadow:inset 0 1px 2px rgba(46,37,22,.05)}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field input,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field select{height:2.6rem}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field textarea{resize:vertical;min-height:6rem}
-#bio-edit-app textarea,#bio-edit-test-app textarea[name=background]{min-height:16rem}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field input:focus-visible,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field select:focus-visible,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-field textarea:focus-visible,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) button:focus-visible{outline:2px solid #446738;outline-offset:2px}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-help{font-size:.69rem;color:#75694f;margin:.45rem 0 0}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;padding:.4rem .25rem}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-actions{display:flex;flex-wrap:wrap;gap:.55rem}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) button{display:inline-block;margin:0;padding:.65rem 1rem;border:1px solid #455a35;border-radius:5px;background:#405631;color:#fff;font:inherit;font-size:.75rem;font-weight:700;cursor:pointer}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) button:hover:not(:disabled){background:#2f4325}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) button:disabled{opacity:.55;cursor:not-allowed}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-secondary-action{background:#f7f1d9;color:#374a2d}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-secondary-action:hover:not(:disabled){background:#ebe0be}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-feedback{min-height:1.2rem;margin:.35rem .25rem;font-size:.73rem;color:#52653c}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) [hidden]{display:none!important}
-:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-security-note{margin:0 0 .9rem;padding:.75rem .9rem;border-left:3px solid #9c8a5b;border-radius:4px;background:rgba(247,240,213,.8);color:#64583f;font-size:.73rem}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-shell{overflow:hidden;border:1px solid #928669;border-radius:12px;background:rgba(226,219,186,.85);box-shadow:0 3px 14px rgba(63,48,25,.13)}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-header{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1.35rem 1.5rem;background:rgba(246,239,211,.9);border-bottom:1px solid #b9aa83}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-eyebrow{font-size:.62rem;letter-spacing:.14em;font-weight:700;color:#6c654e;text-transform:uppercase}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-header h2{margin:.25rem 0 .35rem;padding:0;border:0;background:none;color:#354829;font:700 1.42rem/1.25 Georgia,"Times New Roman",serif;text-transform:none}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-header p{margin:0;color:#655b44;font-size:.78rem}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-emblem{font:2.5rem Georgia,serif;color:#9c8a5b}
+:is(#bio-edit-app,#bio-admin-app) .bio-app-body{padding:1rem}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-card{display:block;margin:0 0 .85rem;padding:1.15rem 1.25rem;border:1px solid #c3b797;border-radius:8px;background:rgba(251,247,230,.91);box-shadow:0 1px 3px rgba(61,47,24,.06)}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-card-heading{margin:0 0 1rem;padding:0 0 .75rem;border-bottom:1px solid rgba(128,111,73,.25)}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-card-heading h3{margin:0 0 .15rem;padding:0;border:0;background:transparent;color:#3a4c2e;font:700 1rem/1.3 Georgia,"Times New Roman",serif;text-transform:none}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-card-heading p{margin:0;font-size:.72rem;color:#716750}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem 1.2rem;align-items:start}
+:is(#bio-edit-app,#bio-admin-app) .bio-field{min-width:0}
+:is(#bio-edit-app,#bio-admin-app) .bio-field-wide{grid-column:1/-1}
+:is(#bio-edit-app,#bio-admin-app) .bio-field label{display:block;margin:0 0 .4rem;font-size:.73rem;font-weight:700;color:#47402d}
+:is(#bio-edit-app,#bio-admin-app) .bio-field input,:is(#bio-edit-app,#bio-admin-app) .bio-field select,:is(#bio-edit-app,#bio-admin-app) .bio-field textarea{display:block;float:none;width:100%;min-width:0;margin:0;padding:.62rem .75rem;border:1px solid #aa9e7e;border-radius:5px;background:#fffdf5;color:#302d22;font:inherit;font-size:.78rem;line-height:1.5;box-shadow:inset 0 1px 2px rgba(46,37,22,.05)}
+:is(#bio-edit-app,#bio-admin-app) .bio-field input,:is(#bio-edit-app,#bio-admin-app) .bio-field select{height:2.6rem}
+:is(#bio-edit-app,#bio-admin-app) .bio-field textarea{resize:vertical;min-height:6rem}
+#bio-edit-app textarea textarea[name=background]{min-height:16rem}
+:is(#bio-edit-app,#bio-admin-app) .bio-field input:focus-visible,:is(#bio-edit-app,#bio-admin-app) .bio-field select:focus-visible,:is(#bio-edit-app,#bio-admin-app) .bio-field textarea:focus-visible,:is(#bio-edit-app,#bio-admin-app) button:focus-visible{outline:2px solid #446738;outline-offset:2px}
+:is(#bio-edit-app,#bio-admin-app) .bio-help{font-size:.69rem;color:#75694f;margin:.45rem 0 0}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;padding:.4rem .25rem}
+:is(#bio-edit-app,#bio-admin-app) .bio-form-actions{display:flex;flex-wrap:wrap;gap:.55rem}
+:is(#bio-edit-app,#bio-admin-app) button{display:inline-block;margin:0;padding:.65rem 1rem;border:1px solid #455a35;border-radius:5px;background:#405631;color:#fff;font:inherit;font-size:.75rem;font-weight:700;cursor:pointer}
+:is(#bio-edit-app,#bio-admin-app) button:hover:not(:disabled){background:#2f4325}
+:is(#bio-edit-app,#bio-admin-app) button:disabled{opacity:.55;cursor:not-allowed}
+:is(#bio-edit-app,#bio-admin-app) .bio-secondary-action{background:#f7f1d9;color:#374a2d}
+:is(#bio-edit-app,#bio-admin-app) .bio-secondary-action:hover:not(:disabled){background:#ebe0be}
+:is(#bio-edit-app,#bio-admin-app) .bio-feedback{min-height:1.2rem;margin:.35rem .25rem;font-size:.73rem;color:#52653c}
+:is(#bio-edit-app,#bio-admin-app) [hidden]{display:none!important}
+:is(#bio-edit-app,#bio-admin-app) .bio-security-note{margin:0 0 .9rem;padding:.75rem .9rem;border-left:3px solid #9c8a5b;border-radius:4px;background:rgba(247,240,213,.8);color:#64583f;font-size:.73rem}
 #bio-admin-app .bio-recovery-code{display:block;overflow-wrap:anywhere;margin:.65rem 0;padding:.85rem;border:1px dashed #aa9e7e;border-radius:5px;background:#fffdf5;color:#354829;font-size:.8rem}
-@media(max-width:640px){:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-header{padding:1rem}:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-body{padding:.65rem}:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-card{padding:.9rem}:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-grid{grid-template-columns:1fr}:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-actions,:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-form-actions button{width:100%}:is(#bio-edit-app,#bio-edit-test-app,#bio-admin-app) .bio-app-emblem{display:none}}
+@media(max-width:640px){:is(#bio-edit-app,#bio-admin-app) .bio-app-header{padding:1rem}:is(#bio-edit-app,#bio-admin-app) .bio-app-body{padding:.65rem}:is(#bio-edit-app,#bio-admin-app) .bio-form-card{padding:.9rem}:is(#bio-edit-app,#bio-admin-app) .bio-form-grid{grid-template-columns:1fr}:is(#bio-edit-app,#bio-admin-app) .bio-form-actions,:is(#bio-edit-app,#bio-admin-app) .bio-form-actions button{width:100%}:is(#bio-edit-app,#bio-admin-app) .bio-app-emblem{display:none}}
