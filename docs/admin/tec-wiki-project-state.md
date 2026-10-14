@@ -646,3 +646,5 @@ At the beginning of a fresh TEC Wiki chat:
 - Existing migrated biographies stay editor-managed. Basic fields: name, nationality, appearance, background, history, affiliations, portrait, optional freeform.
 - Implementation and required infrastructure documented in `docs/admin/biography-submission-implementation.md` (commit `4c88d0d470c200f6a62ea6badfa3feccb97dea43`).
 - Not live yet. Requires restricted GitHub App, Cloudflare D1, Turnstile, verified email sender/provider, implementation and staging validation before public exposure.
+
+- **2026-10-14 scope revision:** User deferred all self-service biography editing. Public guided form + optional portrait + automatic new-page publishing and alphabetical directory remain in scope; edits are handled by wiki editors. No email verification or ownership database. Simplified spec: `docs/admin/biography-submission-implementation.md` (commit `aedc356719a3d64714329a5b671564647d03ab9d`).
