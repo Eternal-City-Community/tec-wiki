@@ -4,6 +4,8 @@ import { biographyMarkdown } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
 import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
 import { authorizeBiographyOwner } from "./bio-owner.js";
+import { isBiographyAdministrator } from "./bio-admin.js";
+import { hashBiographyEditCode } from "./bio-turnstile.js";
 
 
 
@@ -123,6 +125,54 @@ async function handleBiographyPublish(request, env) {
 // Editing remains gated until recovery and live validation are complete.
 // Private biography retrieval; never expose page content or revision to a caller
 // without a verified ownership code and a fresh challenge.
+// Restricted recovery for biographies already registered with the submission system.
+// A legacy biography without an existing ownership record cannot be claimed.
+async function handleBiographyAdmin(request, env) {
+  const ADMIN_RECOVERY_ENABLED = false;
+  if (!ADMIN_RECOVERY_ENABLED) return jsonResponse({ error: "Biography recovery is not enabled yet" }, 503);
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  if (!request.headers.get("content-type")?.startsWith("application/json"))
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  let action, slug, token;
+  try {
+    const raw = await request.text();
+    if (raw.length > 4096) return jsonResponse({ error: "Request too large" }, 413);
+    const input = JSON.parse(raw);
+    action = input.action;
+    slug = biographySlug(input.character_name);
+    token = input.github_token;
+    if (!["reset", "revoke", "inspect"].includes(action)) throw new Error("Invalid action");
+  } catch { return jsonResponse({ error: "Invalid recovery request" }, 400); }
+  try {
+    if (!(await isBiographyAdministrator(token)))
+      return jsonResponse({ error: "GitHub organization owner access required" }, 403);
+    const key = "bio-edit:" + slug;
+    const record = await env.BIO_EDIT_CODES.get(key, "json");
+    const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
+    if (!record || record.version !== 1 || !file)
+      return jsonResponse({ error: "Not a registered player-managed biography" }, 404);
+    if (action === "inspect")
+      return new Response(JSON.stringify({ slug, status: record.status, page_exists: true }), {
+        headers: { "content-type": "application/json", "cache-control": "no-store" }
+      });
+    if (action === "revoke") {
+      await env.BIO_EDIT_CODES.put(key, JSON.stringify({
+        version: 1, status: "revoked", revoked_at: new Date().toISOString()
+      }));
+      return jsonResponse({ revoked: true }, 200);
+    }
+    const editCode = generateBiographyEditCode();
+    const hash = await hashBiographyEditCode(editCode, env.BIO_EDIT_CODE_SECRET);
+    await env.BIO_EDIT_CODES.put(key, JSON.stringify({
+      version: 1, status: "active", hash, reset_at: new Date().toISOString(),
+      published_commit: record.published_commit || null
+    }));
+    return new Response(JSON.stringify({ reset: true, edit_code: editCode }), {
+      headers: { "content-type": "application/json", "cache-control": "no-store" }
+    });
+  } catch { return jsonResponse({ error: "Unable to confirm recovery" }, 503); }
+}
+
 async function handleBiographyLoad(request, env) {
   const EDITING_ENABLED = false;
   if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet" }, 503);
@@ -572,6 +622,7 @@ export default {
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
+    if (url.pathname === "/api/bio/admin") return handleBiographyAdmin(request, env);
     if (url.pathname === "/api/bio/preflight") return handleBiographyPreflight(request, env);
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
