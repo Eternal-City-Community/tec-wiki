@@ -21,4 +21,4 @@ This is a disposable integration test. It is not a player character biography.
 
 ## Additional Details
 
-For administrator testing only. Remove after validation.
+For administrator testing only. Remove after validation. Biography editing integration test completed successfully.
