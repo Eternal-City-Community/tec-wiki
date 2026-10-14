@@ -151,6 +151,17 @@ async function handleBiographyEdit(request, env) {
   if (!(await verifyBiographyTurnstile(challenge, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET)))
     return jsonResponse({ error: "Human verification failed" }, 403);
   try {
+    const identity = await biographyRateIdentity(request, env.BIO_EDIT_CODE_SECRET);
+    const result = await biographyCoordinatorCall(env, {
+      action: "edit_attempt", slug, identity, reservation: "0".repeat(64)
+    });
+    if (result.result.status === "limited")
+      return jsonResponse({ error: "Too many editing attempts; try again later." }, 429);
+    if (result.result.status !== "allowed") throw new Error("Rate limit unavailable");
+  } catch {
+    return jsonResponse({ error: "Editing attempt limit unavailable" }, 503);
+  }
+  try {
     if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
       return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
     const existing = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
@@ -446,6 +457,7 @@ export class BiographyCoordinator {
     this.sql = state.storage.sql;
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_limits (identity TEXT PRIMARY KEY, window_start INTEGER NOT NULL, attempts INTEGER NOT NULL)");
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_claims (slug TEXT PRIMARY KEY, status TEXT NOT NULL, created_at INTEGER NOT NULL, updated_at INTEGER NOT NULL)");
+    this.sql.exec("CREATE TABLE IF NOT EXISTS bio_edit_limits (identity TEXT NOT NULL, slug TEXT NOT NULL, window_start INTEGER NOT NULL, attempts INTEGER NOT NULL, PRIMARY KEY(identity, slug))");
     // New columns are additive so existing Durable Objects can migrate safely.
     const columns = this.sql.exec("PRAGMA table_info(bio_claims)").toArray().map(row => row.name);
     if (!columns.includes("reservation")) this.sql.exec("ALTER TABLE bio_claims ADD COLUMN reservation TEXT");
@@ -463,7 +475,7 @@ export class BiographyCoordinator {
       if (raw.length > 2048) return jsonResponse({ error: "Request too large" }, 413);
       input = JSON.parse(raw);
     } catch { return jsonResponse({ error: "Invalid request" }, 400); }
-    if (!input || !["reserve", "complete", "release", "inspect"].includes(input.action) ||
+    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt"].includes(input.action) ||
         !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(input.slug || "") || input.slug.length > 74 ||
         !/^[a-f0-9]{64}$/.test(input.identity || "") ||
         !/^[a-f0-9]{64}$/.test(input.reservation || "")) {
@@ -471,6 +483,13 @@ export class BiographyCoordinator {
     }
     const now = Date.now(), hour = 3600000, ttl = 15 * 60000;
     const outcome = await this.state.storage.transaction(async () => {
+      if (input.action === "edit_attempt") {
+        const previous = this.sql.exec("SELECT window_start, attempts FROM bio_edit_limits WHERE identity = ? AND slug = ?", input.identity, input.slug).toArray()[0];
+        const start = previous && now >= previous.window_start && now - previous.window_start < hour ? previous.window_start : now;
+        const attempts = previous && start === previous.window_start ? previous.attempts + 1 : 1;
+        this.sql.exec("INSERT INTO bio_edit_limits (identity, slug, window_start, attempts) VALUES (?, ?, ?, ?) ON CONFLICT(identity, slug) DO UPDATE SET window_start=excluded.window_start, attempts=excluded.attempts", input.identity, input.slug, start, attempts);
+        return attempts > 10 ? { status: "limited", retry_after: Math.max(1, Math.ceil((start + hour - now) / 1000)) } : { status: "allowed" };
+      }
       if (input.action === "reserve") {
         const previous = this.sql.exec("SELECT window_start, attempts FROM bio_limits WHERE identity = ?", input.identity).toArray()[0];
         const start = previous && now - previous.window_start < hour ? previous.window_start : now;
