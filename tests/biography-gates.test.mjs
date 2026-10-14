@@ -17,13 +17,26 @@ for (const endpoint of ["/api/bio/publish", "/api/bio/edit", "/api/bio/load", "/
 test("configuration reports disabled publishing, editing, portrait and recovery", async () => {
   const request = new Request("https://tec-wiki.com/api/bio/configuration");
   const response = await worker.fetch(request, {
-    BIO_EDIT_CODES: {}, BIO_EDIT_CODE_SECRET: "a".repeat(40),
+    BIO_EDIT_CODES: {}, BIO_COORDINATOR: {}, BIO_EDIT_CODE_SECRET: "a".repeat(40),
     BIO_GITHUB_TOKEN: "test", BIO_TURNSTILE_SECRET: "test"
   });
   assert.equal(response.status, 200);
   const result = await response.json();
+  assert.equal(result.ready, true);
+  assert.equal(result.checks.coordinator_binding, true);
   assert.equal(result.publication_enabled, false);
   assert.equal(result.editing_enabled, false);
   assert.equal(result.portrait_enabled, false);
   assert.equal(result.admin_recovery_enabled, false);
+});
+
+test("configuration is not ready without Durable Object coordinator", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/configuration"), {
+    BIO_EDIT_CODES: {}, BIO_EDIT_CODE_SECRET: "a".repeat(40),
+    BIO_GITHUB_TOKEN: "test", BIO_TURNSTILE_SECRET: "test"
+  });
+  assert.equal(response.status, 503);
+  const result = await response.json();
+  assert.equal(result.ready, false);
+  assert.equal(result.checks.coordinator_binding, false);
 });
