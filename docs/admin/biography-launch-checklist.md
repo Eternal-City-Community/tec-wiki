@@ -15,8 +15,8 @@
 ## Launch blockers
 
 1. Confirm all latest GitHub Actions tests pass, and run a real Worker runtime integration suite. Node mocks do not prove Cloudflare KV, Durable Object, GitHub API, or Turnstile behavior.
-2. **KV consistency and revocation:** a recently reset/revoked code can remain valid at an edge location while KV changes propagate. Before enabling editing or admin resets, add authoritative revocation/version enforcement in the Durable Object or equivalent strongly consistent storage. Current implementation is not suitable for instant revocation.
-3. **Ambiguous publication recovery:** a GitHub write can succeed while KV activation or coordinator completion fails. The reserved claim must be reconciled with the GitHub file and ownership record before retrying. Current admin recovery refuses pending records, which is safe but not complete.
+2. **Authoritative revocation integration:** Durable Object owner state now performs code activation, validation, reset, and revoke, avoiding KV propagation as the source of truth. Confirm these behaviors in a real Cloudflare runtime, including concurrent requests and KV outages.
+3. **Ambiguous publication recovery:** administrator recovery now has an aged-claim reconciliation path (15-minute minimum), but this must be tested against actual GitHub writes and interrupted KV/coordinator operations before activation.
 4. Test admin OAuth against a real organization owner and a regular wiki editor; verify the token scope, membership response and recovery flows. Never publish GitHub tokens or private editing codes in logs.
 5. Test PNG/JPEG/WebP upload, size limits, malicious file types, conflicting GitHub updates, partial portrait writes, and the editor preserving existing portrait references.
 6. Conduct a **controlled production test** with a disposable biography: publish, save private code, edit, add portrait, reset, verify old code denied, revoke, verify denied, remove test content. Do not create a production biography before recovery and revocation are safe.
