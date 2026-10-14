@@ -1,4 +1,4 @@
-import { validateBiography, biographySlug } from "./bio-validation.js";
+import { validateBiography, biographySlug, biographyWithExistingPortrait } from "./bio-validation.js";
 import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiographyCode, activateBiographyCode } from "./bio-turnstile.js";
 import { biographyMarkdown, biographyWithExistingPortrait } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
