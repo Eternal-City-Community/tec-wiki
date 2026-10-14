@@ -104,3 +104,4 @@ extra_javascript:
   - javascripts/tec-bio-edit.js
   - javascripts/tec-bio-submit.js
   - javascripts/tec-bio-affiliations.js
+  - javascripts/tec-bio-publish.js
