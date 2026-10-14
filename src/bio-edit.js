@@ -1,5 +1,4 @@
 // Ownership-checked biography updates. The caller must authenticate the owner first.
-import { biographyFileExists } from "./bio-github.js";
 
 const repo = "Eternal-City-Community/tec-wiki";
 const api = "https://api.github.com/repos/" + repo + "/contents/docs/";
