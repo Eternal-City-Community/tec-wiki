@@ -2,6 +2,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test:bio": "node --test tests/biography.test.mjs"
+    "test:bio": "node --test tests/*.test.mjs"
   }
 }
