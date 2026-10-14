@@ -12,6 +12,12 @@
 - Portrait endpoint: strict file size and signature validation, slug-derived GitHub path, private-code authentication, Turnstile and throttling.
 - Node regression tests: `npm run test:bio` (runs `tests/*.test.mjs`).
 
+## Audit findings (2026-10-14)
+
+- Fixed player-edit portrait preservation: previously escaped newlines and portrait matching could corrupt the saved biography (`43b946a`).
+- Fixed custom organization submission: the publish UI previously sent the literal `__other__` marker rather than the player-entered organization (`afe66b4`).
+- Repository tests have **not** been executed locally: the execution container cannot resolve `github.com`. GitHub Actions results still require confirmation. These code fixes do not establish end-to-end correctness.
+
 ## Launch blockers
 
 1. Confirm all latest GitHub Actions tests pass, and run a real Worker runtime integration suite. Node mocks do not prove Cloudflare KV, Durable Object, GitHub API, or Turnstile behavior.
