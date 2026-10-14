@@ -298,7 +298,12 @@ async function handleBiographyEdit(request, env) {
     if (!existing) return jsonResponse({ error: "Biography not found" }, 404);
     if (existing.sha !== expectedSha)
       return jsonResponse({ error: "Biography changed; reload before saving" }, 409);
-    const result = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, biographyMarkdown(bio), existing.sha);
+    const original = new TextDecoder().decode(Uint8Array.from(
+      atob(existing.content.replace(/\\s/g, "")), x => x.charCodeAt(0)
+    ));
+    const portrait = original.match(new RegExp("^!\\\\[Character portrait\\\\]\\\\(/assets/uploads/" + slug + "\\\\.(?:png|jpg|webp)\\\\)$", "m"));
+    const markdown = biographyMarkdown(bio) + (portrait ? "\\n\\n" + portrait[0] + "\\n" : "");
+    const result = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown, existing.sha);
     if (result.status !== "updated") return jsonResponse({ error: "Biography changed; reload before saving" }, 409);
     return new Response(JSON.stringify({ updated: true, commit: result.commit }), {
       headers: { "content-type": "application/json", "cache-control": "no-store" }
