@@ -24,3 +24,13 @@ export function generateBiographyEditCode() {
   crypto.getRandomValues(bytes);
   return Array.from(bytes, b => b.toString(16).padStart(2, "0")).join("");
 }
+
+export async function hashBiographyEditCode(code, secret) {
+  if (typeof code !== "string" || !/^[0-9a-f]{64}$/.test(code) || typeof secret !== "string" || secret.length < 32) {
+    throw new Error("Invalid editing code or server configuration");
+  }
+  const bytes = new TextEncoder();
+  const key = await crypto.subtle.importKey("raw", bytes.encode(secret), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const signature = await crypto.subtle.sign("HMAC", key, bytes.encode(code));
+  return Array.from(new Uint8Array(signature), b => b.toString(16).padStart(2, "0")).join("");
+}
