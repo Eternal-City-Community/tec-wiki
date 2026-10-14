@@ -71,13 +71,18 @@ If you already use Homebrew, this is the easiest route and it handles updates fo
 
 
 ~~~
+brew tap cyber-godzilla/tap
+brew trust --cask cyber-godzilla/tap/praetor
 brew install --cask cyber-godzilla/tap/praetor
 ~~~
 
 
+Homebrew 6 requires trust for packages from third-party taps. The second command trusts only the Praetor desktop cask, not every package in the tap.
+
+
 **2.** Open Praetor from Applications (or Spotlight).
 
-**3.** The first time, macOS will say it cannot verify the developer, because Praetor isn't signed with an Apple developer account. Right-click the app in Applications, choose **Open**, and confirm once. After that it opens normally.
+**3.** The first time, macOS will say it cannot verify the developer because Praetor isn't signed or notarized. Try to open Praetor once, then open **System Settings → Privacy & Security**, scroll to **Security**, and click **Open Anyway** for Praetor. Authenticate and confirm **Open** when prompted. You can also Control-click the app in Applications, choose **Open**, and confirm once. After that it opens normally.
 
 **4.** To update later, run:
 
@@ -85,6 +90,9 @@ brew install --cask cyber-godzilla/tap/praetor
 ~~~
 brew upgrade
 ~~~
+
+
+Praetor is intentionally unsigned and unnotarized, and there are no plans to change that. Apple's Developer ID enrollment would expose CyberGodzilla's real identity and, through the required business identity records, home address to the community. The one-time macOS security exception preserves the maintainer's privacy while leaving the source and release artifacts available for public inspection.
 
 
 ##### Without Homebrew
@@ -99,7 +107,7 @@ Praetor_<version>_darwin_universal.zip
 
 **2.** Double-click the zip to unpack it, then drag **Praetor** into your Applications folder.
 
-**3.** The first time, macOS will say it cannot verify the developer. Right-click the app in Applications, choose **Open**, and confirm once. After that it opens normally.
+**3.** The first time, macOS will say it cannot verify the developer. Try to open Praetor once, then open **System Settings → Privacy & Security**, scroll to **Security**, and click **Open Anyway** for Praetor. Authenticate and confirm **Open** when prompted. You can also Control-click the app in Applications, choose **Open**, and confirm once. After that it opens normally.
 
 **4.** To update later, download the newer zip and replace the app in Applications. Your settings and stored accounts are kept.
 
