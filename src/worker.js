@@ -129,6 +129,13 @@ async function handleBiographyEdit(request, env) {
     return jsonResponse({ error: "Expected JSON" }, 415);
   if (!env.BIO_EDIT_CODES || !env.BIO_EDIT_CODE_SECRET || !env.BIO_GITHUB_TOKEN)
     return jsonResponse({ error: "Editing is unavailable" }, 503);
+  // Require a fresh human challenge for every edit attempt.
+  // Never let unauthenticated callers probe edit codes without this check.
+  let challenge;
+  try {
+    const length = Number(request.headers.get("content-length") || 0);
+    if (length > 60000) return jsonResponse({ error: "Submission too large" }, 413);
+  } catch { return jsonResponse({ error: "Invalid request" }, 400); }
   let bio, slug, code, expectedSha;
   try {
     const raw = await request.text();
@@ -138,8 +145,11 @@ async function handleBiographyEdit(request, env) {
     slug = biographySlug(bio.character_name);
     code = input.edit_code;
     expectedSha = input.expected_sha;
+    challenge = input.turnstileToken;
     if (!/^[a-f0-9]{40}$/.test(expectedSha || "")) throw new Error("Invalid revision");
   } catch { return jsonResponse({ error: "Invalid biography update" }, 400); }
+  if (!(await verifyBiographyTurnstile(challenge, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET)))
+    return jsonResponse({ error: "Human verification failed" }, 403);
   try {
     if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
       return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
