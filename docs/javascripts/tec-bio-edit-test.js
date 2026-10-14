@@ -1,6 +1,6 @@
 (() => {
   "use strict";
-  const root = document.getElementById("bio-edit-app");
+  const root = document.getElementById("bio-edit-test-app");
   if (!root) return;
   root.innerHTML = `
     <div class="bio-app-shell">
