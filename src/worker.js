@@ -5,8 +5,9 @@ import { createBiographyFile } from "./bio-github.js";
 
 
 async function handleBiographyPublish(request, env) {
-  // Fail closed until atomic rate limiting, collision protection and recovery are tested.
-  // No runtime flag can bypass this launch gate.
+  // The public write gate stays closed until a strongly consistent abuse limiter
+  // and recovery workflow have been configured and tested.
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   return new Response(JSON.stringify({
     error: "Biography publishing is not enabled yet.",
     publication_enabled: false
