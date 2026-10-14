@@ -25,7 +25,11 @@ export async function createBiographyFile(token, slug, markdown) {
     headers: { ...auth(token), "content-type": "application/json" },
     body: JSON.stringify({ message: "Add character biography " + slug, content: btoa(binary), branch: "main" })
   });
-  if (response.status === 409 || response.status === 422) return { status: "conflict" };
+  if (response.status === 409) return { status: "conflict" };
+  if (response.status === 422) {
+    if (await biographyFileExists(token, slug)) return { status: "conflict" };
+    throw new Error("GitHub rejected biography creation");
+  }
   if (response.status !== 201) throw new Error("Biography creation failed");
   const result = await response.json();
   return { status: "created", commit: result.commit?.sha || null };
