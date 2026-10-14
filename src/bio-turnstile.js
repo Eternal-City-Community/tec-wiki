@@ -43,3 +43,19 @@ export async function verifyBiographyEditCode(code, expectedHash, secret) {
   for (let i = 0; i < 64; i++) diff |= actual.charCodeAt(i) ^ expectedHash.charCodeAt(i);
   return diff === 0;
 }
+
+export async function storePendingBiographyCode(kv, slug, code, secret) {
+  if (!kv || !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(slug)) throw new Error("Editing-code storage unavailable");
+  const key = "bio-edit:" + slug;
+  if (await kv.get(key)) throw new Error("Biography editing record already exists");
+  const hash = await hashBiographyEditCode(code, secret);
+  await kv.put(key, JSON.stringify({ version: 1, status: "pending", hash, created: new Date().toISOString() }));
+  return key;
+}
+export async function activateBiographyCode(kv, slug, commit) {
+  if (!kv || !/^[a-f0-9]{40}$/.test(commit || "")) throw new Error("Cannot activate editing record");
+  const key = "bio-edit:" + slug;
+  const record = await kv.get(key, "json");
+  if (!record || record.status !== "pending") throw new Error("Editing record is not pending");
+  await kv.put(key, JSON.stringify({ ...record, status: "active", published_commit: commit }));
+}
