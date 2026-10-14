@@ -201,6 +201,7 @@ async function handleBiographyAdmin(request, env) {
       return new Response(JSON.stringify({ slug, status: record.status, page_exists: true }), {
         headers: { "content-type": "application/json", "cache-control": "no-store" }
       });
+    if (record.status === "pending") return jsonResponse({ error: "Pending publication requires manual reconciliation before code recovery" }, 409);
     if (action === "revoke") {
       await env.BIO_EDIT_CODES.put(key, JSON.stringify({
         version: 1, status: "revoked", revoked_at: new Date().toISOString()
