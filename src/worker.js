@@ -782,6 +782,57 @@ export class BiographyCoordinator {
   }
 }
 
+// Temporary, bearer-restricted production connectivity probe. No wiki content is written.
+async function handleBiographyStorageProbe(request, env) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32)
+    return jsonResponse({ error: "Integration probe is disabled" }, 503);
+  const supplied = request.headers.get("authorization") || "";
+  const expected = "Bearer " + secret;
+  const digest = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
+  const [a, b] = await Promise.all([digest(supplied), digest(expected)]);
+  let mismatch = 0;
+  for (let i = 0; i < a.length; i++) mismatch |= a[i] ^ b[i];
+  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
+  if (!env.BIO_EDIT_CODES || !env.BIO_GITHUB_TOKEN)
+    return jsonResponse({ passed: false, error: "Required bindings unavailable" }, 503);
+
+  const results = { kv_written: false, kv_read: false, kv_deleted: false, github_repository_readable: false };
+  const bytes = new Uint8Array(16);
+  crypto.getRandomValues(bytes);
+  const key = "bio-integration-probe:" + Array.from(bytes, x => x.toString(16).padStart(2, "0")).join("");
+  const marker = key.slice("bio-integration-probe:".length);
+  try {
+    await env.BIO_EDIT_CODES.put(key, marker, { expirationTtl: 120 });
+    results.kv_written = true;
+    results.kv_read = (await env.BIO_EDIT_CODES.get(key)) === marker;
+  } catch {
+    // Return only booleans, never secrets or provider error bodies.
+  } finally {
+    try {
+      await env.BIO_EDIT_CODES.delete(key);
+      results.kv_deleted = (await env.BIO_EDIT_CODES.get(key)) === null;
+    } catch {}
+  }
+  try {
+    const response = await fetch("https://api.github.com/repos/Eternal-City-Community/tec-wiki", {
+      headers: {
+        authorization: "Bearer " + env.BIO_GITHUB_TOKEN,
+        accept: "application/vnd.github+json",
+        "user-agent": "TEC-Wiki"
+      },
+      signal: AbortSignal.timeout(8000)
+    });
+    if (response.ok) {
+      const repository = await response.json();
+      results.github_repository_readable = repository.full_name === "Eternal-City-Community/tec-wiki";
+    }
+  } catch {}
+  const passed = Object.values(results).every(Boolean);
+  return jsonResponse({ passed, results }, passed ? 200 : 500);
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
@@ -789,6 +840,7 @@ export default {
     if (url.pathname === "/callback") return handleCallback(request, env);
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
     if (url.pathname === "/api/bio/integration-probe") return handleBiographyCoordinatorProbe(request, env);
+    if (url.pathname === "/api/bio/storage-probe") return handleBiographyStorageProbe(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
