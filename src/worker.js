@@ -43,12 +43,12 @@ async function biographyOwnerVerified(env, slug, code) {
   return response.result.status === "allowed";
 }
 
-async function handleBiographyPublish(request, env) {
+async function handleBiographyPublish(request, env, isTest = false) {
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   // Hard-coded launch gate: this branch must remain unreachable until an
   // integration test confirms successful publication and edit-code recovery.
   const PUBLIC_BIO_PUBLISHING_ENABLED = false;
-  if (!PUBLIC_BIO_PUBLISHING_ENABLED) return jsonResponse({
+  if (!PUBLIC_BIO_PUBLISHING_ENABLED && !isTest) return jsonResponse({
     error: "Biography publishing is not enabled yet.", publication_enabled: false
   }, 503);
 
@@ -353,6 +353,31 @@ async function handleBiographyPreflight(request, env) {
   }
 }
 
+
+async function handleBiographyPublishTest(request, env) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32)
+    return jsonResponse({ error: "Integration probe is disabled" }, 503);
+  const sha = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
+  const [actual, expected] = await Promise.all([
+    sha(request.headers.get("authorization") || ""), sha("Bearer " + secret)
+  ]);
+  let mismatch = 0;
+  for (let i = 0; i < actual.length; i++) mismatch |= actual[i] ^ expected[i];
+  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
+  let body;
+  try {
+    const raw = await request.text();
+    if (raw.length > 60000) throw new Error();
+    body = JSON.parse(raw);
+    if (body?.biography?.character_name !== "Wiki Integration Test")
+      return jsonResponse({ error: "Only the disposable test character is permitted" }, 400);
+  } catch { return jsonResponse({ error: "Invalid test payload" }, 400); }
+  return handleBiographyPublish(new Request(request.url, {
+    method: "POST", headers: request.headers, body: JSON.stringify(body)
+  }), env, true);
+}
 
 // Operator-only integration probe. It exercises isolated coordinator records, never GitHub or KV.
 // This endpoint is unavailable unless a separate secret is explicitly configured.
@@ -905,6 +930,7 @@ export default {
     if (url.pathname === "/api/bio/storage-probe") return handleBiographyStorageProbe(request, env);
     if (url.pathname === "/api/bio/github-write-probe") return handleBiographyGithubWriteProbe(request, env);
     if (url.pathname === "/api/bio/turnstile-probe") return handleBiographyTurnstileProbe(request, env);
+    if (url.pathname === "/api/bio/publish-test") return handleBiographyPublishTest(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
