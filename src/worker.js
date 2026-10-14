@@ -324,8 +324,12 @@ async function handleBiographyEdit(request, env) {
     const original = new TextDecoder().decode(Uint8Array.from(
       atob(existing.content.replace(/\\s/g, "")), x => x.charCodeAt(0)
     ));
-    const portrait = original.match(new RegExp("^!\\\\[Character portrait\\\\]\\\\(/assets/uploads/" + slug + "\\\\.(?:png|jpg|webp)\\\\)$", "m"));
-    const markdown = biographyMarkdown(bio) + (portrait ? "\\n\\n" + portrait[0] + "\\n" : "");
+    const portraitLine = original.split("\n").find(line =>
+      line === "![Character portrait](/assets/uploads/" + slug + ".png)" ||
+      line === "![Character portrait](/assets/uploads/" + slug + ".jpg)" ||
+      line === "![Character portrait](/assets/uploads/" + slug + ".webp)"
+    );
+    const markdown = biographyMarkdown(bio) + (portraitLine ? "\n\n" + portraitLine + "\n" : "");
     const result = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown, existing.sha);
     if (result.status !== "updated") return jsonResponse({ error: "Biography changed; reload before saving" }, 409);
     return new Response(JSON.stringify({ updated: true, commit: result.commit }), {
