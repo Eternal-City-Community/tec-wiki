@@ -36,13 +36,17 @@
     const character_name = [first_name, last_name].filter(Boolean).join(" ");
     if (!first_name || character_name.length > 80) throw Error("Enter a valid character name.");
     const chosen = form.elements.affiliations.value;
+    const selectedOrganization = chosen === "__other__"
+      ? String(form.elements.other_org.value || "").trim() : chosen;
+    if (chosen === "__other__" && !selectedOrganization)
+      throw new Error("Enter the name of the other organization.");
     return {
       first_name, last_name, character_name,
       nationality: form.elements.nationality.value,
       appearance: form.elements.appearance.value,
       background: form.elements.background.value,
       additional: form.elements.additional.value,
-      affiliations: chosen ? chosen.split(",").map(x => x.trim()).filter(Boolean) : []
+      affiliations: selectedOrganization ? [selectedOrganization] : []
     };
   }
   async function post(url, body) {
