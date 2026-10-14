@@ -1,6 +1,6 @@
 import { validateBiography, biographySlug } from "./bio-validation.js";
 import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiographyCode, activateBiographyCode } from "./bio-turnstile.js";
-import { biographyMarkdown } from "./bio-validation.js";
+import { biographyMarkdown, biographyWithExistingPortrait } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
 import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
 import { isBiographyAdministrator } from "./bio-admin.js";
@@ -324,12 +324,7 @@ async function handleBiographyEdit(request, env) {
     const original = new TextDecoder().decode(Uint8Array.from(
       atob(existing.content.replace(/\\s/g, "")), x => x.charCodeAt(0)
     ));
-    const portraitLine = original.split("\n").find(line =>
-      line === "![Character portrait](/assets/uploads/" + slug + ".png)" ||
-      line === "![Character portrait](/assets/uploads/" + slug + ".jpg)" ||
-      line === "![Character portrait](/assets/uploads/" + slug + ".webp)"
-    );
-    const markdown = biographyMarkdown(bio) + (portraitLine ? "\n\n" + portraitLine + "\n" : "");
+    const markdown = biographyWithExistingPortrait(bio, original, slug);
     const result = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown, existing.sha);
     if (result.status !== "updated") return jsonResponse({ error: "Biography changed; reload before saving" }, 409);
     return new Response(JSON.stringify({ updated: true, commit: result.commit }), {
