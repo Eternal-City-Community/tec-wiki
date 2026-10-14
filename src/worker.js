@@ -121,6 +121,40 @@ async function handleBiographyPublish(request, env) {
 
 // Ownership check and optimistic GitHub SHA comparison are mandatory.
 // Editing remains gated until recovery and live validation are complete.
+// Private biography retrieval; never expose page content or revision to a caller
+// without a verified ownership code and a fresh challenge.
+async function handleBiographyLoad(request, env) {
+  const EDITING_ENABLED = false;
+  if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet" }, 503);
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  if (!request.headers.get("content-type")?.startsWith("application/json"))
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  let slug, code, challenge;
+  try {
+    const raw = await request.text();
+    if (raw.length > 5000) return jsonResponse({ error: "Request too large" }, 413);
+    const payload = JSON.parse(raw);
+    slug = biographySlug(String(payload.character_name || ""));
+    code = payload.edit_code;
+    challenge = payload.turnstileToken;
+  } catch { return jsonResponse({ error: "Invalid request" }, 400); }
+  if (!(await verifyBiographyTurnstile(challenge, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET)))
+    return jsonResponse({ error: "Human verification failed" }, 403);
+  try {
+    const identity = await biographyRateIdentity(request, env.BIO_EDIT_CODE_SECRET);
+    const limit = await biographyCoordinatorCall(env, { action: "edit_attempt", slug, identity, reservation: "0".repeat(64) });
+    if (limit.result.status === "limited") return jsonResponse({ error: "Too many editing attempts" }, 429);
+    if (limit.result.status !== "allowed") throw new Error("Rate limiting unavailable");
+    if (!(await authorizeBiographyOwner(env.BIO_EDIT_CODES, slug, code, env.BIO_EDIT_CODE_SECRET)))
+      return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
+    const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
+    if (!file) return jsonResponse({ error: "Biography not found" }, 404);
+    return new Response(JSON.stringify({ slug, sha: file.sha, markdown_base64: file.content.replace(/\\s/g, "") }), {
+      headers: { "content-type": "application/json", "cache-control": "no-store" }
+    });
+  } catch { return jsonResponse({ error: "Unable to load biography" }, 503); }
+}
+
 async function handleBiographyEdit(request, env) {
   const EDITING_ENABLED = false;
   if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet." }, 503);
@@ -537,6 +571,7 @@ export default {
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
+    if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
     if (url.pathname === "/api/bio/preflight") return handleBiographyPreflight(request, env);
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
