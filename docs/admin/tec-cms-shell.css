@@ -143,3 +143,52 @@ body:has(#nc-root [class*="Loader"]):not(:has([class*="SplitPane"])) {
 #nc-root [class*="Loader"] {
   color: var(--tec-bar-text) !important;
 }
+
+/* Keeping the top bar on one line. Decap's bar is built for fewer controls;
+   with the Status menu shown it overflows and wraps labels. */
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) * {
+  white-space: nowrap;
+}
+
+[class*="ToolbarSectionBackLink"] {
+  padding: 0 14px !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarButton"],
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DropdownButton"]:not([class*="AvatarDropdownButton"]) {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+  margin-left: 0 !important;
+  margin-right: 8px !important;
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="DropdownButton"]:not([class*="AvatarDropdownButton"]) {
+  padding-right: 30px !important; /* room for the caret */
+}
+
+[class*="ToolbarContainer"]:has([class*="ToolbarSubSectionLast"]) [class*="ToolbarDropdown"] {
+  margin: 0 !important;
+}
+
+/* "Check for Preview" is for deploy previews, which this site does not have.
+   ("View Live", a link in the same container, stays.) */
+[class*="PreviewButtonContainer"]:has(> button[class*="RefreshPreviewButton"]) {
+  display: none !important;
+}
+
+@media (max-width: 1450px) {
+  [class*="AppHeaderSiteLink"],
+  .tec-cms-user {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1250px) {
+  .tec-theme-switch > span:first-child {
+    display: none;
+  }
+
+  .tec-format-link {
+    margin-right: 10px !important;
+  }
+}
