@@ -83,6 +83,7 @@ extra_css:
   - stylesheets/tec-crafting-calculator.css
   - stylesheets/tec-trait-calculator.css
   - stylesheets/tec-bio-submit.css
+  - stylesheets/tec-bio-profile.css
 
 extra_javascript:
   - javascripts/tec-page-enhancers.js
