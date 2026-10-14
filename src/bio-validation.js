@@ -60,3 +60,16 @@ export function biographyWithExistingPortrait(bio, originalMarkdown, slug) {
   );
   return base + (portraitLine ? "\n\n" + portraitLine + "\n" : "");
 }
+
+/** Keep one canonical portrait reference when an owner replaces an image. */
+export function biographyWithUploadedPortrait(markdown, slug, path) {
+  if (typeof markdown !== "string" ||
+      !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(slug || "") ||
+      !["png", "jpg", "webp"].some(ext => path === "/assets/uploads/" + slug + "." + ext))
+    throw new Error("Invalid biography portrait path");
+  const lines = markdown.split("\n").filter(line =>
+    !["png", "jpg", "webp"].some(ext =>
+      line === "![Character portrait](/assets/uploads/" + slug + "." + ext + ")")
+  );
+  return lines.join("\n").trimEnd() + "\n\n![Character portrait](" + path + ")\n";
+}
