@@ -103,3 +103,25 @@ test("GitHub write probe rejects GET", async () => {
   });
   assert.equal(response.status, 405);
 });
+
+test("disposable publication test is disabled without temporary secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/publish-test", {
+    method: "POST", headers: { authorization: "Bearer " + "a".repeat(64) }
+  }), {});
+  assert.equal(response.status, 503);
+});
+
+test("disposable publication test rejects incorrect bearer", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/publish-test", {
+    method: "POST", headers: { authorization: "Bearer " + "b".repeat(64) }
+  }), { BIO_INTEGRATION_TEST_SECRET: "a".repeat(64) });
+  assert.equal(response.status, 401);
+});
+
+test("disposable publication test rejects other characters", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/publish-test", {
+    method: "POST", headers: { authorization: "Bearer " + "a".repeat(64), "content-type": "application/json" },
+    body: JSON.stringify({ biography: { character_name: "Existing Character" } })
+  }), { BIO_INTEGRATION_TEST_SECRET: "a".repeat(64) });
+  assert.equal(response.status, 400);
+});
