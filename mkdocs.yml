@@ -84,7 +84,6 @@ extra_css:
   - stylesheets/tec-trait-calculator.css
   - stylesheets/tec-bio-submit.css
   - stylesheets/tec-bio-profile.css
-  - stylesheets/tec-bio-recovery-test.css
 
 extra_javascript:
   - javascripts/tec-page-enhancers.js
