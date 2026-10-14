@@ -88,3 +88,28 @@ test('422 without an existing file is not mislabeled as a conflict', async () =>
     await assert.rejects(createBiographyFile('fake-token', slug, '# Example'), /rejected/);
   } finally { globalThis.fetch = originalFetch; }
 });
+
+test('staging GitHub destination uses separate repository and branch', async () => {
+  const calls = [];
+  globalThis.fetch = async (url, options = {}) => {
+    calls.push({ url, options });
+    if (options.method === 'PUT') return { status: 201, json: async () => ({ commit: { sha } }) };
+    return { status: 404, ok: false };
+  };
+  try {
+    const result = await createBiographyFile('fake-token', slug, '# Fixture', {
+      repo: 'Eternal-City-Community/tec-wiki-staging', branch: 'main'
+    });
+    assert.equal(result.status, 'created');
+    assert.ok(calls.every(call => call.url.includes('/tec-wiki-staging/')));
+  } finally { globalThis.fetch = originalFetch; }
+});
+
+test('production repository refuses staging branch', async () => {
+  await assert.rejects(
+    createBiographyFile('fake-token', slug, '# Fixture', {
+      repo: 'Eternal-City-Community/tec-wiki', branch: 'staging'
+    }),
+    /Staging requires a separate repository/
+  );
+});
