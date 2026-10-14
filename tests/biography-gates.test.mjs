@@ -82,3 +82,24 @@ test("storage integration probe rejects GET", async () => {
   });
   assert.equal(response.status, 405);
 });
+
+test("GitHub write probe is disabled without separate secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/github-write-probe", {
+    method: "POST", headers: { authorization: "Bearer " + "a".repeat(64) }
+  }), { BIO_GITHUB_TOKEN: "test" });
+  assert.equal(response.status, 503);
+});
+
+test("GitHub write probe rejects invalid bearer secret", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/github-write-probe", {
+    method: "POST", headers: { authorization: "Bearer " + "b".repeat(64) }
+  }), { BIO_INTEGRATION_TEST_SECRET: "a".repeat(64), BIO_GITHUB_TOKEN: "test" });
+  assert.equal(response.status, 401);
+});
+
+test("GitHub write probe rejects GET", async () => {
+  const response = await worker.fetch(new Request("https://tec-wiki.com/api/bio/github-write-probe"), {
+    BIO_INTEGRATION_TEST_SECRET: "a".repeat(64), BIO_GITHUB_TOKEN: "test"
+  });
+  assert.equal(response.status, 405);
+});
