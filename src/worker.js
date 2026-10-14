@@ -285,6 +285,22 @@ async function handlePageDiff(request) {
   }
 }
 
+
+// Durable Object for serializing biography publication requests.
+// No public write operations are enabled until the publishing flow is tested.
+export class BiographyCoordinator {
+  constructor(state, env) {
+    this.state = state;
+    this.env = env;
+  }
+  async fetch(request) {
+    return new Response(JSON.stringify({ error: "Biography coordinator not yet enabled" }), {
+      status: 503,
+      headers: { "content-type": "application/json", "cache-control": "no-store" }
+    });
+  }
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
