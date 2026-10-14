@@ -782,6 +782,29 @@ export class BiographyCoordinator {
   }
 }
 
+async function handleBiographyTurnstileProbe(request, env) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32)
+    return jsonResponse({ error: "Integration probe is disabled" }, 503);
+  const authorization = request.headers.get("authorization") || "";
+  const digest = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
+  const [actual, expected] = await Promise.all([digest(authorization), digest("Bearer " + secret)]);
+  let mismatch = 0;
+  for (let i = 0; i < actual.length; i++) mismatch |= actual[i] ^ expected[i];
+  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
+  let token;
+  try {
+    if (!request.headers.get("content-type")?.startsWith("application/json")) throw new Error();
+    const raw = await request.text();
+    if (raw.length > 4096) throw new Error();
+    token = JSON.parse(raw).turnstileToken;
+    if (typeof token !== "string" || token.length > 2048) throw new Error();
+  } catch { return jsonResponse({ error: "Invalid probe payload" }, 400); }
+  const verified = await verifyBiographyTurnstile(token, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET);
+  return jsonResponse({ verified });
+}
+
 // GitHub write probe creates an unattached Git blob, never a commit, branch, or page.
 // Disabled unless a separate short-lived runtime secret is configured.
 async function handleBiographyGithubWriteProbe(request, env) {
@@ -881,6 +904,7 @@ export default {
     if (url.pathname === "/api/bio/integration-probe") return handleBiographyCoordinatorProbe(request, env);
     if (url.pathname === "/api/bio/storage-probe") return handleBiographyStorageProbe(request, env);
     if (url.pathname === "/api/bio/github-write-probe") return handleBiographyGithubWriteProbe(request, env);
+    if (url.pathname === "/api/bio/turnstile-probe") return handleBiographyTurnstileProbe(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
