@@ -342,7 +342,7 @@ async function handleBiographyStorageCheck(request, env) {
     turnstile_secret: Boolean(env.BIO_TURNSTILE_SECRET)
   };
   const ready = Object.values(checks).every(Boolean);
-  return new Response(JSON.stringify({ ready, checks, publication_enabled: false }), {
+  return new Response(JSON.stringify({ ready, checks, publication_enabled: false, editing_enabled: false, portrait_enabled: false, admin_recovery_enabled: false }), {
     status: ready ? 200 : 503,
     headers: { "content-type": "application/json", "cache-control": "no-store" }
   });
@@ -400,7 +400,7 @@ async function handleAuth(request) {
   const params = new URLSearchParams({
     client_id: CLIENT_ID,
     redirect_uri: callback,
-    scope: "public_repo user",
+    scope: "public_repo user read:org",
     state,
   });
   return new Response(null, {
