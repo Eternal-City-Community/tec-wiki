@@ -25,5 +25,9 @@
   "vars": {
     "BIO_TURNSTILE_SITE_KEY": "0x4AAAAAAFW5CvcMWb-nnJ6R"
   },
+  "durable_objects": {
+    "bindings": [{ "name": "BIO_COORDINATOR", "class_name": "BiographyCoordinator" }]
+  },
+  "migrations": [{ "tag": "bio-coordinator-v1", "new_sqlite_classes": ["BiographyCoordinator"] }],
   "previews": {}
 }
