@@ -15,3 +15,23 @@ body:has(.tec-bio-profile) .md-content__inner{max-width:1080px}
 .md-typeset .tec-bio-profile__card li{overflow-wrap:anywhere}
 .md-typeset .tec-bio-profile__card img{max-width:100%;height:auto;border-radius:7px}
 @media(max-width:680px){.md-typeset .tec-bio-profile__content{grid-template-columns:1fr;padding:.65rem}.md-typeset .tec-bio-profile__hero{padding:1rem}.md-typeset .tec-bio-profile__hero h1{font-size:1.35rem}.md-typeset .tec-bio-profile__card{padding:.9rem}}
+
+/* Override legacy global h2 banners with the biography form's quiet card headings. */
+.md-typeset .tec-bio-profile .tec-bio-profile__card > h2,
+.md-typeset .tec-bio-profile .tec-bio-profile__content .tec-bio-profile__card > h2{
+  display:block!important;width:auto!important;min-height:0!important;
+  margin:0 0 .8rem!important;padding:0 0 .7rem!important;
+  border:0!important;border-bottom:1px solid rgba(128,111,73,.25)!important;
+  border-radius:0!important;box-shadow:none!important;
+  background:transparent!important;background-image:none!important;
+  color:#3a4c2e!important;font:700 1rem/1.3 Georgia,"Times New Roman",serif!important;
+  letter-spacing:normal!important;text-transform:none!important;text-shadow:none!important;
+}
+.md-typeset .tec-bio-profile .tec-bio-profile__hero > h1{
+  border:0!important;border-bottom:0!important;background:none!important;
+  padding:0!important;box-shadow:none!important;
+  color:#354829!important;font:700 1.42rem/1.25 Georgia,"Times New Roman",serif!important;
+}
+.md-typeset .tec-bio-profile .tec-bio-profile__card--nationality{
+  background:rgba(251,247,230,.91);
+}
