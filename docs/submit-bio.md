@@ -18,7 +18,7 @@ Tell your character's story.
 
 <div id="bio-submit-app" class="tec-bio-form"></div>
 
-<script src="/javascripts/tec-bio-submit.js" defer></script>
-<script src="/javascripts/tec-bio-affiliations.js" defer></script>
+<script src="/javascripts/tec-bio-submit.js?v=20261014b" defer></script>
+<script src="/javascripts/tec-bio-affiliations.js?v=20261014b" defer></script>
 
 [Browse existing character biographies](/character-bios/)
