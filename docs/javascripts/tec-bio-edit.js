@@ -3,26 +3,50 @@
   const root = document.getElementById("bio-edit-app");
   if (!root) return;
   root.innerHTML = `
-    <form id="bio-owner-form" class="bio-form-card">
-      <h2>Open your biography</h2>
-      <p>Enter your full character name and the private editing code you received when publishing.</p>
-      <label>Character name <input name="character_name" required maxlength="80" autocomplete="off"></label>
-      <label>Private editing code <input name="edit_code" required minlength="64" maxlength="64" autocomplete="off" spellcheck="false"></label>
-      <div id="bio-owner-turnstile"></div>
-      <button type="submit">Load biography</button>
-    </form>
-    <form id="bio-owner-editor" class="bio-form-card" hidden>
-      <h2>Edit biography</h2>
-      <p>The character name cannot be changed here because it determines the page address.</p>
-      <label>Nationality <input name="nationality" maxlength="80"></label>
-      <label>Appearance <textarea name="appearance" maxlength="6000" rows="5"></textarea></label>
-      <label>Background &amp; history <textarea name="background" maxlength="30000" rows="10"></textarea></label>
-      <label>Organizations and affiliations (one per line) <textarea name="affiliations" rows="4"></textarea></label>
-      <label>Additional details <textarea name="additional" maxlength="8000" rows="5"></textarea></label>
-      <div id="bio-edit-turnstile"></div>
-      <button type="submit">Save changes</button>
-    </form>
-    <p id="bio-owner-feedback" role="status" aria-live="polite"></p>`;
+    <div class="bio-app-shell">
+      <header class="bio-app-header">
+        <div><span class="bio-app-eyebrow">The Eternal City · Character Biographies</span>
+          <h2>Continue their story</h2>
+          <p>Return to a biography you've published and make changes.</p></div>
+        <div class="bio-app-emblem" aria-hidden="true">✦</div>
+      </header>
+      <div class="bio-app-body">
+        <form id="bio-owner-form" class="bio-form-card">
+          <div class="bio-form-card-heading"><h3>Find your biography</h3>
+            <p>Use the character's full name and your private editing code.</p></div>
+          <div class="bio-form-grid">
+            <div class="bio-field"><label for="bio-edit-name">Character name</label>
+              <input id="bio-edit-name" name="character_name" required maxlength="80" autocomplete="off" placeholder="First and last name, if applicable"></div>
+            <div class="bio-field"><label for="bio-edit-code">Private editing code</label>
+              <input id="bio-edit-code" name="edit_code" required minlength="64" maxlength="64" autocomplete="off" spellcheck="false" placeholder="Your private 64-character code"></div>
+          </div>
+          <p class="bio-help">Only biographies created through the player submission system can be edited here.</p>
+          <div id="bio-owner-turnstile"></div>
+          <div class="bio-form-footer"><span class="bio-help">Your code is never displayed publicly.</span>
+            <div class="bio-form-actions"><button type="submit">Load biography</button></div></div>
+        </form>
+        <form id="bio-owner-editor" class="bio-form-card" hidden>
+          <div class="bio-form-card-heading"><h3>Edit character details</h3>
+            <p>Your character name stays the same so existing links continue working.</p></div>
+          <div class="bio-form-grid">
+            <div class="bio-field bio-field-wide"><label for="bio-edit-nationality">Nationality</label>
+              <input id="bio-edit-nationality" name="nationality" maxlength="80"></div>
+            <div class="bio-field bio-field-wide"><label for="bio-edit-appearance">Appearance</label>
+              <textarea id="bio-edit-appearance" name="appearance" maxlength="6000" rows="5"></textarea></div>
+            <div class="bio-field bio-field-wide"><label for="bio-edit-background">Background &amp; history</label>
+              <textarea id="bio-edit-background" name="background" maxlength="30000" rows="10"></textarea></div>
+            <div class="bio-field bio-field-wide"><label for="bio-edit-affiliations">Organizations and affiliations</label>
+              <textarea id="bio-edit-affiliations" name="affiliations" rows="4" placeholder="One organization per line"></textarea></div>
+            <div class="bio-field bio-field-wide"><label for="bio-edit-additional">Additional details</label>
+              <textarea id="bio-edit-additional" name="additional" maxlength="8000" rows="5"></textarea></div>
+          </div>
+          <div id="bio-edit-turnstile"></div>
+          <div class="bio-form-footer"><span class="bio-help">Saving updates your existing biography.</span>
+            <div class="bio-form-actions"><button type="submit">Save changes</button></div></div>
+        </form>
+        <p id="bio-owner-feedback" class="bio-feedback" role="status" aria-live="polite"></p>
+      </div>
+    </div>`;
   const openForm = root.querySelector("#bio-owner-form");
   const editor = root.querySelector("#bio-owner-editor");
   const feedback = root.querySelector("#bio-owner-feedback");
