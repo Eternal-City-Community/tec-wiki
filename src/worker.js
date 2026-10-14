@@ -201,7 +201,7 @@ async function handleBiographyAdmin(request, env) {
     action = input.action;
     slug = biographySlug(input.character_name);
     token = input.github_token;
-    if (!["reset", "revoke", "inspect"].includes(action)) throw new Error("Invalid action");
+    if (!["reset", "revoke", "inspect", "abandon"].includes(action)) throw new Error("Invalid action");
   } catch { return jsonResponse({ error: "Invalid recovery request" }, 400); }
   try {
     if (!(await isBiographyAdministrator(token)))
@@ -209,8 +209,19 @@ async function handleBiographyAdmin(request, env) {
     const key = "bio-edit:" + slug;
     const record = await env.BIO_EDIT_CODES.get(key, "json");
     const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
-    if (!record || record.version !== 1 || !file)
+    if (!record || record.version !== 1 || (!file && action !== "abandon"))
       return jsonResponse({ error: "Not a registered player-managed biography" }, 404);
+    if (action === "abandon") {
+      if (file || record.status !== "pending")
+        return jsonResponse({ error: "Only unpublished pending biographies can be abandoned" }, 409);
+      const outcome = await biographyCoordinatorCall(env, {
+        action: "owner_abandon", slug, identity: "0".repeat(64), reservation: "0".repeat(64)
+      });
+      if (outcome.result.status !== "abandoned")
+        return jsonResponse({ error: "Reservation cannot be safely abandoned" }, 409);
+      await env.BIO_EDIT_CODES.delete(key);
+      return jsonResponse({ abandoned: true, slug });
+    }
     if (action === "inspect")
       return new Response(JSON.stringify({ slug, status: record.status, page_exists: true }), {
         headers: { "content-type": "application/json", "cache-control": "no-store" }
@@ -636,7 +647,7 @@ export class BiographyCoordinator {
       if (raw.length > 2048) return jsonResponse({ error: "Request too large" }, 413);
       input = JSON.parse(raw);
     } catch { return jsonResponse({ error: "Invalid request" }, 400); }
-    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt", "owner_activate", "owner_check", "owner_reset", "owner_revoke", "owner_status", "owner_reconcile"].includes(input.action) ||
+    if (!input || !["reserve", "complete", "release", "inspect", "edit_attempt", "owner_activate", "owner_check", "owner_reset", "owner_revoke", "owner_status", "owner_reconcile", "owner_abandon"].includes(input.action) ||
         !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(input.slug || "") || input.slug.length > 74 ||
         !/^[a-f0-9]{64}$/.test(input.identity || "") ||
         !/^[a-f0-9]{64}$/.test(input.reservation || "")) {
@@ -644,6 +655,13 @@ export class BiographyCoordinator {
     }
     const now = Date.now(), hour = 3600000, ttl = 15 * 60000;
     const outcome = await this.state.storage.transaction(async () => {
+      if (input.action === "owner_abandon") {
+        const claim = this.sql.exec("SELECT status FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
+        const owner = this.sql.exec("SELECT status FROM bio_owner_state WHERE slug = ?", input.slug).toArray()[0];
+        if (!claim || !["reserved", "review"].includes(claim.status) || owner) return { status: "denied" };
+        this.sql.exec("DELETE FROM bio_claims WHERE slug = ?", input.slug);
+        return { status: "abandoned" };
+      }
       if (input.action.startsWith("owner_")) {
         const owner = this.sql.exec("SELECT status, hash FROM bio_owner_state WHERE slug = ?", input.slug).toArray()[0];
         if (input.action === "owner_status") return { status: owner?.status || "missing" };
