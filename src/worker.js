@@ -292,40 +292,70 @@ export class BiographyCoordinator {
   constructor(state, env) {
     this.state = state;
     this.env = env;
-    // Durable Object SQLite storage provides transactional, serialized state.
     this.sql = state.storage.sql;
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_limits (identity TEXT PRIMARY KEY, window_start INTEGER NOT NULL, attempts INTEGER NOT NULL)");
     this.sql.exec("CREATE TABLE IF NOT EXISTS bio_claims (slug TEXT PRIMARY KEY, status TEXT NOT NULL, created_at INTEGER NOT NULL, updated_at INTEGER NOT NULL)");
+    // New columns are additive so existing Durable Objects can migrate safely.
+    const columns = this.sql.exec("PRAGMA table_info(bio_claims)").toArray().map(row => row.name);
+    if (!columns.includes("reservation")) this.sql.exec("ALTER TABLE bio_claims ADD COLUMN reservation TEXT");
+    if (!columns.includes("commit_sha")) this.sql.exec("ALTER TABLE bio_claims ADD COLUMN commit_sha TEXT");
   }
 
   async fetch(request) {
-    // Internal only: callers must supply an unguessable capability minted by
-    // the Worker, not any user-supplied identity or raw IP address.
     if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
-    if (!this.env.BIO_EDIT_CODE_SECRET) return jsonResponse({ error: "Coordinator unavailable" }, 503);
+    if (!this.env.BIO_EDIT_CODE_SECRET || !request.headers.get("content-type")?.startsWith("application/json")) {
+      return jsonResponse({ error: "Coordinator unavailable" }, 503);
+    }
     let input;
     try {
-      if (!request.headers.get("content-type")?.startsWith("application/json")) return jsonResponse({ error: "Expected JSON" }, 415);
       const raw = await request.text();
       if (raw.length > 2048) return jsonResponse({ error: "Request too large" }, 413);
       input = JSON.parse(raw);
     } catch { return jsonResponse({ error: "Invalid request" }, 400); }
-    if (!input || input.action !== "reserve" || !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(input.slug || "") ||
-        !/^[a-f0-9]{64}$/.test(input.identity || "")) return jsonResponse({ error: "Invalid reservation" }, 400);
-    // No reservation endpoint is reachable from the public router yet.
-    const now = Date.now(), windowMs = 3600000, maxAttempts = 5;
+    if (!input || !["reserve", "complete", "release", "inspect"].includes(input.action) ||
+        !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(input.slug || "") || input.slug.length > 74 ||
+        !/^[a-f0-9]{64}$/.test(input.identity || "") ||
+        !/^[a-f0-9]{64}$/.test(input.reservation || "")) {
+      return jsonResponse({ error: "Invalid coordinator request" }, 400);
+    }
+    const now = Date.now(), hour = 3600000, ttl = 15 * 60000;
     const outcome = await this.state.storage.transaction(async () => {
-      const previous = this.sql.exec("SELECT window_start, attempts FROM bio_limits WHERE identity = ?", input.identity).toArray()[0];
-      const start = previous && now - previous.window_start < windowMs ? previous.window_start : now;
-      const count = previous && start === previous.window_start ? previous.attempts + 1 : 1;
-      this.sql.exec("INSERT INTO bio_limits (identity, window_start, attempts) VALUES (?, ?, ?) ON CONFLICT(identity) DO UPDATE SET window_start=excluded.window_start, attempts=excluded.attempts", input.identity, start, count);
-      if (count > maxAttempts) return { status: "limited", retry_after: Math.ceil((start + windowMs - now) / 1000) };
-      const existing = this.sql.exec("SELECT status FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
-      if (existing) return { status: "claimed" };
-      this.sql.exec("INSERT INTO bio_claims (slug, status, created_at, updated_at) VALUES (?, 'reserved', ?, ?)", input.slug, now, now);
-      return { status: "reserved" };
+      if (input.action === "reserve") {
+        const previous = this.sql.exec("SELECT window_start, attempts FROM bio_limits WHERE identity = ?", input.identity).toArray()[0];
+        const start = previous && now - previous.window_start < hour ? previous.window_start : now;
+        const count = previous && start === previous.window_start ? previous.attempts + 1 : 1;
+        this.sql.exec("INSERT INTO bio_limits (identity, window_start, attempts) VALUES (?, ?, ?) ON CONFLICT(identity) DO UPDATE SET window_start=excluded.window_start, attempts=excluded.attempts", input.identity, start, count);
+        if (count > 5) return { status: "limited", retry_after: Math.max(1, Math.ceil((start + hour - now) / 1000)) };
+      }
+      const existing = this.sql.exec("SELECT status, reservation, updated_at, commit_sha FROM bio_claims WHERE slug = ?", input.slug).toArray()[0];
+      if (input.action === "inspect") return { status: existing?.status || "missing" };
+      if (input.action === "reserve") {
+        // Expired reservations are deliberately NOT recycled: an in-flight
+        // GitHub create may have succeeded before its response was lost.
+        if (existing) return { status: "claimed", state: existing.status };
+        this.sql.exec("INSERT INTO bio_claims (slug, status, created_at, updated_at, reservation) VALUES (?, 'reserved', ?, ?, ?)", input.slug, now, now, input.reservation);
+        return { status: "reserved", expires_at: now + ttl };
+      }
+      if (!existing || existing.reservation !== input.reservation) return { status: "denied" };
+      if (input.action === "complete") {
+        if (!/^[a-f0-9]{40}$/.test(input.commit || "")) return { status: "invalid" };
+        if (existing.status === "published" && existing.commit_sha === input.commit) return { status: "published" };
+        if (existing.status !== "reserved") return { status: "denied" };
+        this.sql.exec("UPDATE bio_claims SET status = 'published', commit_sha = ?, updated_at = ? WHERE slug = ?", input.commit, now, input.slug);
+        return { status: "published" };
+      }
+      if (input.action === "release") {
+        // Release only after an authoritative check confirms GitHub did not
+        // create the page; the caller must not assume network errors mean failure.
+        if (existing.status !== "reserved") return { status: "denied" };
+        this.sql.exec("UPDATE bio_claims SET status = 'review', updated_at = ? WHERE slug = ?", now, input.slug);
+        return { status: "review" };
+      }
+      return { status: "invalid" };
     });
-    return jsonResponse(outcome, outcome.status === "limited" ? 429 : outcome.status === "claimed" ? 409 : 200);
+    const code = outcome.status === "limited" ? 429 : outcome.status === "claimed" ? 409 :
+      ["denied", "invalid"].includes(outcome.status) ? 403 : 200;
+    return jsonResponse(outcome, code);
   }
 }
 
