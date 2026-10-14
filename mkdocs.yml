@@ -57,6 +57,7 @@ validation:
 hooks:
   - hooks/listpages.py
   - hooks/biography_index.py
+  - hooks/biography_profile.py
   - hooks/breadcrumbs.py
   - hooks/preview_assets.py
   - hooks/placeholders.py
