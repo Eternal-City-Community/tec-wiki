@@ -52,10 +52,12 @@ export async function storePendingBiographyCode(kv, slug, code, secret) {
   await kv.put(key, JSON.stringify({ version: 1, status: "pending", hash, created: new Date().toISOString() }));
   return key;
 }
-export async function activateBiographyCode(kv, slug, commit) {
-  if (!kv || !/^[a-f0-9]{40}$/.test(commit || "")) throw new Error("Cannot activate editing record");
-  const key = "bio-edit:" + slug;
-  const record = await kv.get(key, "json");
-  if (!record || record.status !== "pending") throw new Error("Editing record is not pending");
-  await kv.put(key, JSON.stringify({ ...record, status: "active", published_commit: commit }));
+export async function activateBiographyCode(kv, slug, commit, code, secret) {
+  if (!kv || !/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(slug) ||
+      !/^[a-f0-9]{40}$/.test(commit || "")) throw new Error("Cannot activate editing record");
+  const hash = await hashBiographyEditCode(code, secret);
+  await kv.put("bio-edit:" + slug, JSON.stringify({
+    version: 1, status: "active", hash,
+    published_commit: commit, activated: new Date().toISOString()
+  }));
 }
