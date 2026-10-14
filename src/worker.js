@@ -2,6 +2,8 @@ import { validateBiography, biographySlug } from "./bio-validation.js";
 import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiographyCode, activateBiographyCode } from "./bio-turnstile.js";
 import { biographyMarkdown } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
+import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
+import { verifyBiographyEditCode } from "./bio-turnstile.js";
 
 
 
@@ -115,6 +117,44 @@ async function handleBiographyPublish(request, env) {
       error: "Publication could not be confirmed. Please contact a wiki administrator; do not resubmit."
     }, 503);
   }
+}
+
+// Ownership check and optimistic GitHub SHA comparison are mandatory.
+// Editing remains gated until recovery and live validation are complete.
+async function handleBiographyEdit(request, env) {
+  const EDITING_ENABLED = false;
+  if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet." }, 503);
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  if (!request.headers.get("content-type")?.startsWith("application/json"))
+    return jsonResponse({ error: "Expected JSON" }, 415);
+  if (!env.BIO_EDIT_CODES || !env.BIO_EDIT_CODE_SECRET || !env.BIO_GITHUB_TOKEN)
+    return jsonResponse({ error: "Editing is unavailable" }, 503);
+  let bio, slug, code, expectedSha;
+  try {
+    const raw = await request.text();
+    if (raw.length > 60000) return jsonResponse({ error: "Submission too large" }, 413);
+    const input = JSON.parse(raw);
+    bio = validateBiography(input.biography);
+    slug = biographySlug(bio.character_name);
+    code = input.edit_code;
+    expectedSha = input.expected_sha;
+    if (!/^[a-f0-9]{40}$/.test(expectedSha || "")) throw new Error("Invalid revision");
+  } catch { return jsonResponse({ error: "Invalid biography update" }, 400); }
+  try {
+    const record = await env.BIO_EDIT_CODES.get("bio-edit:" + slug, "json");
+    if (!record || record.status !== "active" ||
+        !(await verifyBiographyEditCode(code, record.hash, env.BIO_EDIT_CODE_SECRET)))
+      return jsonResponse({ error: "Invalid biography editing credentials" }, 403);
+    const existing = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
+    if (!existing) return jsonResponse({ error: "Biography not found" }, 404);
+    if (existing.sha !== expectedSha)
+      return jsonResponse({ error: "Biography changed; reload before saving" }, 409);
+    const result = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, biographyMarkdown(bio), existing.sha);
+    if (result.status !== "updated") return jsonResponse({ error: "Biography changed; reload before saving" }, 409);
+    return new Response(JSON.stringify({ updated: true, commit: result.commit }), {
+      headers: { "content-type": "application/json", "cache-control": "no-store" }
+    });
+  } catch { return jsonResponse({ error: "Unable to confirm biography update" }, 503); }
 }
 
 async function handleBiographyPreflight(request, env) {
@@ -469,6 +509,7 @@ export default {
     if (url.pathname === "/callback") return handleCallback(request, env);
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
+    if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/preflight") return handleBiographyPreflight(request, env);
     if (url.pathname === "/api/page-history") return handlePageHistory(request);
     if (url.pathname === "/api/page-version") return handlePageVersion(request);
