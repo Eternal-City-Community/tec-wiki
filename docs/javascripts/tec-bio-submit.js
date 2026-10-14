@@ -44,7 +44,7 @@
     Object.keys(labels).forEach((field) => {
       const value = clean(data[field]);
       if (!value) return;
-      lines.push("## " + labels[field], "", value, "");
+      lines.push("## " + labels[field], "", field === "affiliations" ? value.split(",").map(item => "- " + item.trim()).join("\\n") : value, "");
     });
     return lines.join("\n").trim() + "\n";
   }
