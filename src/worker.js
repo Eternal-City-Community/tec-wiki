@@ -782,6 +782,45 @@ export class BiographyCoordinator {
   }
 }
 
+// GitHub write probe creates an unattached Git blob, never a commit, branch, or page.
+// Disabled unless a separate short-lived runtime secret is configured.
+async function handleBiographyGithubWriteProbe(request, env) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32)
+    return jsonResponse({ error: "Integration probe is disabled" }, 503);
+  const supplied = request.headers.get("authorization") || "";
+  const digest = async value => new Uint8Array(await crypto.subtle.digest("SHA-256", new TextEncoder().encode(value)));
+  const [a, b] = await Promise.all([digest(supplied), digest("Bearer " + secret)]);
+  let mismatch = 0;
+  for (let i = 0; i < a.length; i++) mismatch |= a[i] ^ b[i];
+  if (mismatch) return jsonResponse({ error: "Unauthorized" }, 401);
+  if (!env.BIO_GITHUB_TOKEN) return jsonResponse({ passed: false, error: "GitHub credential missing" }, 503);
+  const nonce = new Uint8Array(16);
+  crypto.getRandomValues(nonce);
+  const marker = Array.from(nonce, x => x.toString(16).padStart(2, "0")).join("");
+  try {
+    const response = await fetch("https://api.github.com/repos/Eternal-City-Community/tec-wiki/git/blobs", {
+      method: "POST",
+      headers: {
+        authorization: "Bearer " + env.BIO_GITHUB_TOKEN,
+        accept: "application/vnd.github+json",
+        "content-type": "application/json",
+        "user-agent": "TEC-Wiki"
+      },
+      body: JSON.stringify({ content: "TEC biography write-permission probe " + marker + "\\n", encoding: "utf-8" }),
+      signal: AbortSignal.timeout(8000)
+    });
+    const data = response.ok ? await response.json() : null;
+    const passed = response.status === 201 && /^[a-f0-9]{40}$/.test(data?.sha || "");
+    // Git blobs without a tree/commit are unreachable from main and not deployed.
+    return jsonResponse({ passed, github_blob_created: passed, no_branch_or_page_modified: true,
+      github_status: response.status }, passed ? 200 : 502);
+  } catch {
+    return jsonResponse({ passed: false, github_blob_created: false, no_branch_or_page_modified: true }, 502);
+  }
+}
+
 // Temporary, bearer-restricted production connectivity probe. No wiki content is written.
 async function handleBiographyStorageProbe(request, env) {
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
@@ -841,6 +880,7 @@ export default {
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
     if (url.pathname === "/api/bio/integration-probe") return handleBiographyCoordinatorProbe(request, env);
     if (url.pathname === "/api/bio/storage-probe") return handleBiographyStorageProbe(request, env);
+    if (url.pathname === "/api/bio/github-write-probe") return handleBiographyGithubWriteProbe(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
