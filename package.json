@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test:bio": "node --test tests/biography.test.mjs"
+  }
+}
