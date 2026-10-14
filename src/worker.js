@@ -216,7 +216,7 @@ async function handleBiographyAdmin(request, env) {
       return new Response(JSON.stringify({ slug, status: record.status, page_exists: true }), {
         headers: { "content-type": "application/json", "cache-control": "no-store" }
       });
-    if (record.status === "pending") return jsonResponse({ error: "Pending publication requires manual reconciliation before code recovery" }, 409);
+    if (record.status === "pending" && action === "revoke") return jsonResponse({ error: "Pending publication cannot be revoked before reconciliation" }, 409);
     if (action === "revoke") {
       const authoritative = await biographyCoordinatorCall(env, {
         action: "owner_revoke", slug, identity: "0".repeat(64), reservation: "0".repeat(64)
@@ -230,7 +230,7 @@ async function handleBiographyAdmin(request, env) {
     const editCode = generateBiographyEditCode();
     const hash = await hashBiographyEditCode(editCode, env.BIO_EDIT_CODE_SECRET);
     const authoritative = await biographyCoordinatorCall(env, {
-      action: "owner_reset", slug, hash, identity: "0".repeat(64), reservation: "0".repeat(64)
+      action: record.status === "pending" ? "owner_reconcile" : "owner_reset", slug, hash, identity: "0".repeat(64), reservation: "0".repeat(64)
     });
     if (authoritative.result.status !== "active") throw new Error("Owner record unavailable");
     await env.BIO_EDIT_CODES.put(key, JSON.stringify({
