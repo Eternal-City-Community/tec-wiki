@@ -1,0 +1,12 @@
+/* Temporary recovery testing UI, consistent with biography editor. */
+body:has(#bio-recovery-test) .md-content__inner{max-width:1080px}
+#bio-recovery-test{max-width:940px;margin:1rem 0 1.5rem;color:#352f22;font-size:.78rem}
+#bio-recovery-test *{box-sizing:border-box}
+#bio-recovery-test .bio-recovery-test__card{padding:1.4rem;border:1px solid #928669;border-radius:12px;background:#f6efd3;box-shadow:0 3px 14px #3f301921}
+#bio-recovery-test h2{margin:0 0 1rem!important;padding:0 0 .65rem!important;background:none!important;border:0!important;border-bottom:1px solid #c3b797!important;color:#354829!important;font:700 1.2rem Georgia,serif!important;text-transform:none!important;letter-spacing:0!important}
+#bio-recovery-test label{display:block;margin:1rem 0 .35rem;font-weight:700;color:#47402d}
+#bio-recovery-test input{display:block;width:100%;padding:.7rem;border:1px solid #aa9e7e;border-radius:5px;background:#fffdf5;color:#302d22;font:inherit}
+#bio-recovery-test button{padding:.65rem 1rem;border:1px solid #455a35;border-radius:5px;background:#405631;color:#fff;font:700 .75rem inherit;cursor:pointer}
+#bio-recovery-test button:disabled{opacity:.5;cursor:not-allowed}
+#bio-recovery-test .bio-recovery-test__actions{display:flex;flex-wrap:wrap;gap:.65rem;margin:1rem 0}
+#bio-recovery-test [hidden]{display:none!important}
