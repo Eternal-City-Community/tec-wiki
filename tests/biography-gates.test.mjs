@@ -1,0 +1,29 @@
+import test from "node:test";
+import assert from "node:assert/strict";
+import worker from "../src/worker.js";
+
+for (const endpoint of ["/api/bio/publish", "/api/bio/edit", "/api/bio/load", "/api/bio/admin", "/api/bio/portrait"]) {
+  test("launch gate protects " + endpoint, async () => {
+    const request = new Request("https://tec-wiki.com" + endpoint, {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ character_name: "Test", edit_code: "a".repeat(64) })
+    });
+    const response = await worker.fetch(request, {});
+    assert.equal(response.status, 503);
+    assert.match((await response.json()).error, /not enabled yet/i);
+  });
+}
+
+test("configuration reports disabled publishing, editing, portrait and recovery", async () => {
+  const request = new Request("https://tec-wiki.com/api/bio/configuration");
+  const response = await worker.fetch(request, {
+    BIO_EDIT_CODES: {}, BIO_EDIT_CODE_SECRET: "a".repeat(40),
+    BIO_GITHUB_TOKEN: "test", BIO_TURNSTILE_SECRET: "test"
+  });
+  assert.equal(response.status, 200);
+  const result = await response.json();
+  assert.equal(result.publication_enabled, false);
+  assert.equal(result.editing_enabled, false);
+  assert.equal(result.portrait_enabled, false);
+  assert.equal(result.admin_recovery_enabled, false);
+});
