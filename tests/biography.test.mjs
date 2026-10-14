@@ -2,7 +2,6 @@
 // All network and KV operations are mocked; this suite never publishes.
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { webcrypto } from 'node:crypto';
 import { createBiographyFile } from '../src/bio-github.js';
 import { activateBiographyCode, storePendingBiographyCode, verifyBiographyEditCode } from '../src/bio-turnstile.js';
 
@@ -11,8 +10,6 @@ const secret = 'test-only-secret-not-for-production-'.repeat(2);
 const code = 'b'.repeat(64);
 const slug = 'bio_automated_fixture';
 const originalFetch = globalThis.fetch;
-const originalCrypto = globalThis.crypto;
-globalThis.crypto = webcrypto;
 
 function kvMock({ failOnPut = 0, staleReads = false } = {}) {
   const data = new Map();
