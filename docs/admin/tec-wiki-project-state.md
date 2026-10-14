@@ -657,3 +657,5 @@ At the beginning of a fresh TEC Wiki chat:
 - Cloudflare KV binding is committed in `wrangler.jsonc` (commit `6dcca54bf5823df0c711c4e413191c6454c0194d`).
 - `docs/submit-bio.md` is a noninteractive placeholder clearly marking public submissions as unavailable (commit `36ef2c674d3fc51aee7b5b4fd9592991e1d98db9`). It is not linked from navigation.
 - Do not claim the guided form, portrait uploads, private editing, owner resets, or publishing API are implemented. These are the next development tasks. The existing biography directory build hook was added earlier.
+
+- **2026-10-14 biography UI:** Added draft-only guided form at `docs/submit-bio.md` and `docs/javascripts/tec-bio-submit.js` (commits `3d2eb0a5d14a864c9a12d1952ae61f6a587d0f4f`, `8b1ec96d9e9c47015332ab97d61bea051da48979`). Preview and copy actions only; no public publishing API, portrait upload, or private-code editing yet. GitHub org owners are approved admins; backend must verify current owner role server-side and fail closed.
