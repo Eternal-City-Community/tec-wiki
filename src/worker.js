@@ -354,6 +354,60 @@ async function handleBiographyPreflight(request, env) {
 }
 
 
+// Operator-only integration probe. It exercises isolated coordinator records, never GitHub or KV.
+// This endpoint is unavailable unless a separate secret is explicitly configured.
+async function handleBiographyCoordinatorProbe(request, env) {
+  if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
+  if (!env.BIO_INTEGRATION_TEST_SECRET || !env.BIO_COORDINATOR || !env.BIO_EDIT_CODE_SECRET)
+    return jsonResponse({ error: "Integration probe is disabled" }, 503);
+  const token = request.headers.get("authorization") || "";
+  if (!token.startsWith("Bearer ") || token.length > 300) return jsonResponse({ error: "Unauthorized" }, 401);
+  const candidate = token.slice(7);
+  const secret = env.BIO_INTEGRATION_TEST_SECRET;
+  if (typeof secret !== "string" || secret.length < 32 || candidate.length !== secret.length)
+    return jsonResponse({ error: "Unauthorized" }, 401);
+  const encoder = new TextEncoder();
+  const [expected, actual] = await Promise.all([
+    crypto.subtle.digest("SHA-256", encoder.encode(secret)),
+    crypto.subtle.digest("SHA-256", encoder.encode(candidate))
+  ]);
+  let diff = 0;
+  const a = new Uint8Array(expected), b = new Uint8Array(actual);
+  for (let i = 0; i < a.length; i++) diff |= a[i] ^ b[i];
+  if (diff) return jsonResponse({ error: "Unauthorized" }, 401);
+
+  const bytes = crypto.getRandomValues(new Uint8Array(12));
+  const suffix = Array.from(bytes, b => b.toString(16).padStart(2, "0")).join("");
+  const slug = "bio_integration_probe_" + suffix;
+  const identity = "0".repeat(64);
+  const reservation = "1".repeat(64);
+  const oldHash = "2".repeat(64), newHash = "3".repeat(64);
+  const commit = "4".repeat(40);
+  const call = async (action, extra = {}) => {
+    const response = await biographyCoordinatorCall(env, { action, slug, identity, reservation, ...extra });
+    return response.result.status;
+  };
+  try {
+    const results = {};
+    results.initial = await call("owner_status") === "missing";
+    results.reserved = await call("reserve") === "reserved";
+    results.duplicate_rejected = await call("reserve") === "claimed";
+    results.completed = await call("complete", { commit }) === "published";
+    results.activated = await call("owner_activate", { hash: oldHash }) === "active";
+    results.old_code_allowed = await call("owner_check", { hash: oldHash }) === "allowed";
+    results.wrong_code_denied = await call("owner_check", { hash: newHash }) === "denied";
+    results.reset = await call("owner_reset", { hash: newHash }) === "active";
+    results.old_code_denied_after_reset = await call("owner_check", { hash: oldHash }) === "denied";
+    results.new_code_allowed = await call("owner_check", { hash: newHash }) === "allowed";
+    results.revoked = await call("owner_revoke") === "revoked";
+    results.code_denied_after_revoke = await call("owner_check", { hash: newHash }) === "denied";
+    const passed = Object.values(results).every(Boolean);
+    return jsonResponse({ passed, results }, passed ? 200 : 500);
+  } catch {
+    return jsonResponse({ passed: false, error: "Coordinator integration probe failed" }, 503);
+  }
+}
+
 async function handleBiographyStorageCheck(request, env) {
   // This route never writes to KV or GitHub; it checks only server configuration.
   if (request.method !== "GET") return jsonResponse({ error: "Method not allowed" }, 405);
@@ -734,6 +788,7 @@ export default {
     if (url.pathname === "/auth") return handleAuth(request);
     if (url.pathname === "/callback") return handleCallback(request, env);
     if (url.pathname === "/api/bio/configuration") return handleBiographyStorageCheck(request, env);
+    if (url.pathname === "/api/bio/integration-probe") return handleBiographyCoordinatorProbe(request, env);
     if (url.pathname === "/api/bio/publish") return handleBiographyPublish(request, env);
     if (url.pathname === "/api/bio/edit") return handleBiographyEdit(request, env);
     if (url.pathname === "/api/bio/load") return handleBiographyLoad(request, env);
