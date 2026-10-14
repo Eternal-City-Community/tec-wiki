@@ -1,4 +1,4 @@
-import { validateBiography, biographySlug, biographyWithExistingPortrait } from "./bio-validation.js";
+import { validateBiography, biographySlug, biographyWithExistingPortrait, biographyWithUploadedPortrait } from "./bio-validation.js";
 import { verifyBiographyTurnstile, generateBiographyEditCode, storePendingBiographyCode, activateBiographyCode } from "./bio-turnstile.js";
 import { biographyMarkdown } from "./bio-validation.js";
 import { createBiographyFile } from "./bio-github.js";
@@ -175,9 +175,9 @@ async function handleBiographyPortrait(request, env) {
     if (result.status === "conflict") return jsonResponse({ error: "Portrait upload conflicted; retry later" }, 409);
     const bytes = Uint8Array.from(atob(file.content.replace(/\s/g, "")), x => x.charCodeAt(0));
     const markdown = new TextDecoder().decode(bytes);
-    const portraitLine = "![Character portrait](" + result.path + ")";
-    if (!markdown.includes(portraitLine)) {
-      const updated = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, markdown + "\n\n" + portraitLine + "\n", file.sha);
+    const updatedMarkdown = biographyWithUploadedPortrait(markdown, slug, result.path);
+    if (updatedMarkdown !== markdown) {
+      const updated = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, updatedMarkdown, file.sha);
       if (updated.status !== "updated")
         return jsonResponse({ error: "Portrait saved but biography update conflicted; contact an administrator" }, 409);
     }
