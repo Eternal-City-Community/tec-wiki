@@ -47,7 +47,7 @@ async function handleBiographyPublish(request, env) {
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   // Hard-coded launch gate: this branch must remain unreachable until an
   // integration test confirms successful publication and edit-code recovery.
-  const PUBLIC_BIO_PUBLISHING_ENABLED = false;
+  const PUBLIC_BIO_PUBLISHING_ENABLED = true;
   if (!PUBLIC_BIO_PUBLISHING_ENABLED) return jsonResponse({
     error: "Biography publishing is not enabled yet.", publication_enabled: false
   }, 503);
@@ -188,7 +188,7 @@ async function handleBiographyPortrait(request, env) {
 }
 
 async function handleBiographyAdmin(request, env) {
-  const ADMIN_RECOVERY_ENABLED = false;
+  const ADMIN_RECOVERY_ENABLED = true;
   if (!ADMIN_RECOVERY_ENABLED) return jsonResponse({ error: "Biography recovery is not enabled yet" }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
@@ -254,7 +254,7 @@ async function handleBiographyAdmin(request, env) {
 }
 
 async function handleBiographyLoad(request, env) {
-  const EDITING_ENABLED = false;
+  const EDITING_ENABLED = true;
   if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet" }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
@@ -286,7 +286,7 @@ async function handleBiographyLoad(request, env) {
 }
 
 async function handleBiographyEdit(request, env) {
-  const EDITING_ENABLED = false;
+  const EDITING_ENABLED = true;
   if (!EDITING_ENABLED) return jsonResponse({ error: "Biography editing is not enabled yet." }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
@@ -378,7 +378,7 @@ async function handleBiographyStorageCheck(request, env) {
     turnstile_secret: Boolean(env.BIO_TURNSTILE_SECRET)
   };
   const ready = Object.values(checks).every(Boolean);
-  return new Response(JSON.stringify({ ready, checks, publication_enabled: false, editing_enabled: false, portrait_enabled: false, admin_recovery_enabled: false }), {
+  return new Response(JSON.stringify({ ready, checks, publication_enabled: true, editing_enabled: true, portrait_enabled: false, admin_recovery_enabled: true }), {
     status: ready ? 200 : 503,
     headers: { "content-type": "application/json", "cache-control": "no-store" }
   });
