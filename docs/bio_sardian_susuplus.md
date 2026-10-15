@@ -29,3 +29,5 @@ You'll know who is part of the Traevant Militia family by their wasitguards with
 ## Organizations and Affiliations
 
 - Traevant Militia
+
+![Character portrait](/assets/uploads/bio_sardian_susuplus.png)
