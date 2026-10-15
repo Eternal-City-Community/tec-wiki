@@ -79,3 +79,34 @@
     overflow:visible;
   }
 }
+
+/* v4: stable, centered book width based on available reading area, not chapter length. */
+.md-typeset .tec-storybook{
+  box-sizing:border-box;
+  width:100%;
+  max-width:1100px;
+  margin-inline:auto;
+}
+.md-typeset .tec-storybook__page{
+  box-sizing:border-box;
+  width:100%;
+  max-width:92ch;
+  margin-inline:auto;
+}
+@media(min-width:1300px){
+  body:has(.tec-storybook) .md-content__inner{
+    max-width:none;
+  }
+  body:has(.tec-storybook) .md-content{
+    min-width:0;
+    max-width:none;
+  }
+}
+@media(max-width:700px){
+  .md-typeset .tec-storybook{
+    max-width:100%;
+  }
+  .md-typeset .tec-storybook__page{
+    max-width:100%;
+  }
+}
