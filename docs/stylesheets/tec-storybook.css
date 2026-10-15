@@ -1,0 +1,24 @@
+/* Isolated prototype: never style ordinary wiki pages. */
+.md-typeset .tec-storybook{--book-ink:#30291e;--book-gold:#806029;max-width:1050px;margin:1.25rem auto 2rem;color:var(--book-ink)}
+.md-typeset .tec-storybook__top{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.75rem 1rem;background:#272c26;color:#f2e2b8;border:1px solid #907447;border-radius:10px 10px 0 0}
+.md-typeset .tec-storybook__counter{font-family:Georgia,serif;font-size:1.05rem;letter-spacing:.04em}
+.md-typeset .tec-storybook__sheet{position:relative;min-height:420px;padding:clamp(1.25rem,4vw,3rem);border:9px solid #725431;border-radius:0 0 12px 12px;box-shadow:inset 0 0 0 2px #caa66b,0 12px 28px #20170940;background:radial-gradient(ellipse at 50% 15%,#fff7dc 0%,#f3e4c2 66%,#e2cba0 100%);color:var(--book-ink)}
+.md-typeset .tec-storybook__sheet:before,.md-typeset .tec-storybook__sheet:after{content:"❧";position:absolute;color:#a78651;font-size:1.6rem;pointer-events:none}
+.md-typeset .tec-storybook__sheet:before{top:.4rem;left:.65rem}
+.md-typeset .tec-storybook__sheet:after{bottom:.4rem;right:.65rem;transform:rotate(180deg)}
+.md-typeset .tec-storybook__page{max-width:72ch;margin:auto;font-family:Georgia,"Times New Roman",serif;font-size:clamp(.9rem,1.15vw,1.05rem);line-height:1.85;overflow-wrap:anywhere}
+.md-typeset .tec-storybook__page[hidden]{display:none!important}
+.md-typeset .tec-storybook__page h2,.md-typeset .tec-storybook__page h3{color:#49381f;font-family:Georgia,serif;border-bottom:1px solid #bfa779;padding-bottom:.4rem}
+.md-typeset .tec-storybook__page p,.md-typeset .tec-storybook__page li{color:#30291e}
+.md-typeset .tec-storybook__page a{color:#6a4b20}
+.md-typeset .tec-storybook__nav{display:flex;align-items:center;justify-content:space-between;gap:.7rem;padding:1rem 0}
+.md-typeset .tec-storybook button{cursor:pointer;background:linear-gradient(#a78347,#765524);color:#fff5da;border:1px solid #6c4b20;border-radius:6px;padding:.55rem .9rem;font:600 .85rem Georgia,serif}
+.md-typeset .tec-storybook button:hover:not(:disabled){filter:brightness(1.1)}
+.md-typeset .tec-storybook button:disabled{opacity:.45;cursor:not-allowed}
+.md-typeset .tec-storybook button:focus-visible,.md-typeset .tec-storybook select:focus-visible{outline:3px solid #246bb0;outline-offset:3px}
+.md-typeset .tec-storybook__nav select{max-width:55%;min-width:0;padding:.5rem;border:1px solid #9d8154;border-radius:5px;background:#f7ebce;color:#352b1d;font-size:.8rem}
+.md-typeset .tec-storybook--all .tec-storybook__page+ .tec-storybook__page{margin-top:2rem;padding-top:2rem;border-top:2px solid #bda16d}
+.md-typeset .tec-storybook-note{padding:.7rem 1rem;border-left:3px solid #93723b;background:#f6e9c9;color:#382e20}
+@media(max-width:700px){.md-typeset .tec-storybook__sheet{padding:1.25rem;border-width:5px;min-height:280px}.md-typeset .tec-storybook__nav{flex-wrap:wrap}.md-typeset .tec-storybook__nav select{order:-1;width:100%;max-width:100%}.md-typeset .tec-storybook__page{font-size:.95rem;line-height:1.65}}
+@media(prefers-reduced-motion:reduce){.md-typeset .tec-storybook{scroll-behavior:auto}}
+@media print{.md-typeset .tec-storybook__top,.md-typeset .tec-storybook__nav{display:none!important}.md-typeset .tec-storybook__page{display:block!important;break-after:page}.md-typeset .tec-storybook__sheet{box-shadow:none;border:0}}
