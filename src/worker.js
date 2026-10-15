@@ -5,7 +5,7 @@ import { createBiographyFile } from "./bio-github.js";
 import { readBiographyFile, updateBiographyFile } from "./bio-edit.js";
 import { isBiographyAdministrator } from "./bio-admin.js";
 import { hashBiographyEditCode } from "./bio-turnstile.js";
-import { validatePortrait, publishPortrait } from "./bio-portrait.js";
+import { validatePortrait, publishPortraitAtomic } from "./bio-portrait.js";
 
 
 
@@ -171,16 +171,10 @@ async function handleBiographyPortrait(request, env) {
       return jsonResponse({ error: "Invalid editing credentials" }, 403);
     const file = await readBiographyFile(env.BIO_GITHUB_TOKEN, slug);
     if (!file) return jsonResponse({ error: "Biography not found" }, 404);
-    const result = await publishPortrait(env.BIO_GITHUB_TOKEN, slug, image);
-    if (result.status === "conflict") return jsonResponse({ error: "Portrait upload conflicted; retry later" }, 409);
     const bytes = Uint8Array.from(atob(file.content.replace(/\s/g, "")), x => x.charCodeAt(0));
     const markdown = new TextDecoder().decode(bytes);
-    const updatedMarkdown = biographyWithUploadedPortrait(markdown, slug, result.path);
-    if (updatedMarkdown !== markdown) {
-      const updated = await updateBiographyFile(env.BIO_GITHUB_TOKEN, slug, updatedMarkdown, file.sha);
-      if (updated.status !== "updated")
-        return jsonResponse({ error: "Portrait saved but biography update conflicted; contact an administrator" }, 409);
-    }
+    const result = await publishPortraitAtomic(env.BIO_GITHUB_TOKEN, slug, image, markdown, file.sha);
+    if (result.status === "conflict") return jsonResponse({ error: "Biography changed during portrait upload; reload and retry" }, 409);
     return new Response(JSON.stringify({ published: true, path: result.path }), {
       headers: { "content-type": "application/json", "cache-control": "no-store" }
     });
