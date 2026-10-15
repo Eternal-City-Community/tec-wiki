@@ -145,7 +145,7 @@ async function handleBiographyPublish(request, env) {
 // Portraits are published only for an existing biography with a valid private code.
 // Publication stays gated until the complete recovery flow has been tested.
 async function handleBiographyPortrait(request, env) {
-  const PORTRAIT_PUBLISHING_ENABLED = false;
+  const PORTRAIT_PUBLISHING_ENABLED = true;
   if (!PORTRAIT_PUBLISHING_ENABLED) return jsonResponse({ error: "Portrait publishing is not enabled yet" }, 503);
   if (request.method !== "POST") return jsonResponse({ error: "Method not allowed" }, 405);
   if (!request.headers.get("content-type")?.startsWith("application/json"))
@@ -378,7 +378,7 @@ async function handleBiographyStorageCheck(request, env) {
     turnstile_secret: Boolean(env.BIO_TURNSTILE_SECRET)
   };
   const ready = Object.values(checks).every(Boolean);
-  return new Response(JSON.stringify({ ready, checks, publication_enabled: true, editing_enabled: true, portrait_enabled: false, admin_recovery_enabled: true }), {
+  return new Response(JSON.stringify({ ready, checks, publication_enabled: true, editing_enabled: true, portrait_enabled: true, admin_recovery_enabled: true }), {
     status: ready ? 200 : 503,
     headers: { "content-type": "application/json", "cache-control": "no-store" }
   });
