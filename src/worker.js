@@ -305,13 +305,17 @@ async function handleBiographyEdit(request, env) {
     const raw = await request.text();
     if (raw.length > 60000) return jsonResponse({ error: "Submission too large" }, 413);
     const input = JSON.parse(raw);
-    bio = validateBiography(input.biography);
-    slug = biographySlug(bio.character_name);
+    try {
+      bio = validateBiography(input.biography);
+      slug = biographySlug(bio.character_name);
+    } catch (validationError) {
+      return jsonResponse({ error: "Invalid biography update: " + validationError.message }, 400);
+    }
     code = input.edit_code;
     expectedSha = input.expected_sha;
     challenge = input.turnstileToken;
     if (!/^[a-f0-9]{40}$/.test(expectedSha || "")) throw new Error("Invalid revision");
-  } catch { return jsonResponse({ error: "Invalid biography update" }, 400); }
+  } catch { return jsonResponse({ error: "Invalid biography update. Reload the biography and try again." }, 400); }
   if (!(await verifyBiographyTurnstile(challenge, request.headers.get("CF-Connecting-IP"), env.BIO_TURNSTILE_SECRET)))
     return jsonResponse({ error: "Human verification failed" }, 403);
   try {
