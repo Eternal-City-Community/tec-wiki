@@ -5,9 +5,6 @@ category: "Administration"
 
 # Character Biography Recovery
 
-!!! warning "Not yet enabled"
-    This tool is still disabled while we finish testing. No codes can be reset or revoked yet.
-
 Use this tool when a player has lost their biography editing code or when you need to stop someone from editing a biography.
 
 **Who can use it?** Only owners of the **Eternal-City-Community** GitHub organization. Being a wiki editor alone is not enough.
