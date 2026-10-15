@@ -1,0 +1,35 @@
+name: Protect Player Biographies
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  protect-player-biographies:
+    name: Block biography changes via pull requests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out proposed changes
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Reject direct changes to player-managed biographies
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+          git cat-file -e "${BASE_SHA}^{commit}"
+          git cat-file -e "${HEAD_SHA}^{commit}"
+          git diff --name-only --no-renames "$BASE_SHA" "$HEAD_SHA" -- docs/ > /tmp/tec-pr-docs-changed.txt
+          if grep -E '^docs/bio_[a-z0-9_]+\.md$|^docs/assets/uploads/bio_[a-z0-9_]+\.(png|jpg|jpeg|webp)$' /tmp/tec-pr-docs-changed.txt; then
+            echo "::error::Player-managed biography files and portraits cannot be modified through a pull request. Use /edit-bio/ or contact a wiki administrator for a verified exception."
+            exit 1
+          fi
+          echo "No player-managed biography or portrait changes detected."
