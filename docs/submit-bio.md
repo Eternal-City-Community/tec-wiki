@@ -8,9 +8,6 @@ parent: character-bios
 
 Tell your character's story.
 
-!!! warning "Draft mode"
-    Publishing is not enabled yet. You can preview and copy a Markdown draft, but this form does **not** save or submit your biography. Private editing codes and portrait publishing will be enabled after security testing.
-
 !!! info "Biography submission guidelines"
     Only submit biographies for your own characters. Do not submit someone else's character or impersonate another player. Avoid sharing real-world personal information, and keep submissions respectful and relevant to The Eternal City.
 
