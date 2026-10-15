@@ -13,11 +13,11 @@ Iridine
 
 ## Appearance
 
-He's a guy.
+He's a guy. Now wait. He's a woman!
 
 ## Background & History
 
-He did stuff in his history.
+He did stuff in his history. and did some more stuff
 
 ## Organizations and Affiliations
 
@@ -25,4 +25,4 @@ He did stuff in his history.
 
 ## Additional Details
 
-He's super testy if you test his patience.
+He's super testy if you test his patience. But he's really nice.
