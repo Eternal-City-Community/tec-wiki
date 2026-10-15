@@ -27,9 +27,13 @@
     mode.type = "button";
     mode.className = "tec-storybook__mode";
     mode.textContent = "All pages";
-    top.append(counter, mode);
+    const actions = document.createElement("div");
+    actions.className = "tec-storybook__actions";
+    top.append(counter, actions);
     const sheet = document.createElement("div");
     sheet.className = "tec-storybook__sheet";
+    sheet.tabIndex = 0;
+    sheet.setAttribute("aria-label", "Scrollable storybook page");
     const sections = pages.map((nodes, i) => {
       const page = document.createElement("section");
       page.className = "tec-storybook__page";
@@ -54,11 +58,25 @@
       opt.textContent = (i + 1) + ". " + (title?.textContent?.replace(/¶/g, "").trim() || (i === 0 ? "Introduction" : "Page " + (i + 1)));
       select.append(opt);
     });
-    nav.append(prev, select, next);
+    const dots = document.createElement("div");
+    dots.className = "tec-storybook__dots";
+    const dotButtons = pages.map((_, i) => {
+      const dot = document.createElement("button");
+      dot.type = "button";
+      dot.className = "tec-storybook__dot";
+      dot.setAttribute("aria-label", "Go to page " + (i + 1));
+      dot.title = select.options[i].textContent;
+      dot.addEventListener("click", () => goTo(i));
+      dots.append(dot);
+      return dot;
+    });
+    select.setAttribute("aria-label", "Jump to chapter");
+    actions.append(select, mode);
+    nav.append(prev, dots, next);
     root.append(top, sheet, nav);
     heading.after(root);
     let index = 0, continuous = false;
-    function render(scroll = false) {
+    function render() {
       root.classList.toggle("tec-storybook--all", continuous);
       sections.forEach((el, i) => { el.hidden = !continuous && i !== index; });
       counter.textContent = continuous ? "All " + pages.length + " pages" : "Page " + (index + 1) + " of " + pages.length;
@@ -66,17 +84,29 @@
       prev.disabled = continuous || index === 0;
       next.disabled = continuous || index === pages.length - 1;
       select.disabled = continuous;
+      dots.hidden = continuous;
+      dotButtons.forEach((dot, i) => {
+        dot.classList.toggle("is-active", i === index);
+        if (i === index) dot.setAttribute("aria-current", "page");
+        else dot.removeAttribute("aria-current");
+      });
       select.value = String(index);
-      if (scroll) root.scrollIntoView({ behavior: "smooth", block: "start" });
+
     }
-    prev.addEventListener("click", () => { if (index > 0) { index--; render(true); } });
-    next.addEventListener("click", () => { if (index < pages.length - 1) { index++; render(true); } });
-    select.addEventListener("change", () => { index = Number(select.value); render(true); });
-    mode.addEventListener("click", () => { continuous = !continuous; render(); });
+    function goTo(target) {
+      if (continuous || target < 0 || target >= pages.length) return;
+      index = target;
+      render();
+      sheet.scrollTop = 0;
+    }
+    prev.addEventListener("click", () => goTo(index - 1));
+    next.addEventListener("click", () => goTo(index + 1));
+    select.addEventListener("change", () => goTo(Number(select.value)));
+    mode.addEventListener("click", () => { continuous = !continuous; render(); sheet.scrollTop = 0; });
     root.addEventListener("keydown", e => {
       if (continuous || ["INPUT", "SELECT", "TEXTAREA"].includes(document.activeElement?.tagName)) return;
-      if (e.key === "ArrowRight" && index < pages.length - 1) { e.preventDefault(); index++; render(); }
-      if (e.key === "ArrowLeft" && index > 0) { e.preventDefault(); index--; render(); }
+      if (e.key === "ArrowRight" && index < pages.length - 1) { e.preventDefault(); goTo(index + 1); }
+      if (e.key === "ArrowLeft" && index > 0) { e.preventDefault(); goTo(index - 1); }
     });
     render();
   }
