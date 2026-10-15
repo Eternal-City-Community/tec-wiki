@@ -88,6 +88,7 @@ extra_css:
   - stylesheets/tec-trait-calculator.css
   - stylesheets/tec-bio-submit.css
   - stylesheets/tec-bio-profile.css
+  - stylesheets/tec-storybook.css
 
 extra_javascript:
   - javascripts/tec-page-enhancers.js
@@ -112,3 +113,4 @@ extra_javascript:
   - javascripts/tec-bio-submit.js
   - javascripts/tec-bio-affiliations.js
   - javascripts/tec-bio-publish.js
+  - javascripts/tec-storybook.js
