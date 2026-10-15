@@ -236,7 +236,11 @@ function initTecSidebar() {
   ]);
 
   html += section("Player Submissions", [
-    link("Character Bios", page("character-bios")),
+    group("Character Bios", [
+      link("All Character Bios", page("character-bios"), "tec-side__sub"),
+      link("Submit Bio", page("submit-bio"), "tec-side__sub"),
+      link("Edit Bio", page("edit-bio"), "tec-side__sub")
+    ], false),
     link("Fiction", page("fiction")),
     link("Player Stories", page("player-stories"))
   ]);
