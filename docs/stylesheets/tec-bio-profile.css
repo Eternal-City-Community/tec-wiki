@@ -38,7 +38,7 @@ body:has(.tec-bio-profile) .md-content__inner{max-width:1080px}
 
 /* Portrait occupies a dedicated right rail on desktop, and leads the details on mobile. */
 .md-typeset .tec-bio-profile__content:has(> .tec-bio-profile__portrait){
-  grid-template-columns:repeat(2,minmax(0,1fr)) minmax(180px, .85fr);
+  grid-template-columns:repeat(2,minmax(0,1fr)) minmax(0,220px);
 }
 .md-typeset .tec-bio-profile__content:has(> .tec-bio-profile__portrait) > .tec-bio-profile__card{
   grid-column:span 1;
@@ -47,10 +47,10 @@ body:has(.tec-bio-profile) .md-content__inner{max-width:1080px}
   grid-column:1 / 3;
 }
 .md-typeset .tec-bio-profile__portrait{
-  grid-column:3;grid-row:1 / span 4;align-self:start;
+  grid-column:3;grid-row:1 / span 4;align-self:start;justify-self:end;max-width:220px;width:100%;min-width:0;
   padding:.55rem;border:1px solid #c3b797;border-radius:8px;background:#fbf7e6;
 }
-.md-typeset .tec-bio-profile__portrait img{display:block;width:100%;height:auto;border-radius:5px}
+.md-typeset .tec-bio-profile__portrait img{display:block;width:100%;height:auto;object-fit:contain;border-radius:5px}
 @media(max-width:800px){
   .md-typeset .tec-bio-profile__content:has(> .tec-bio-profile__portrait){grid-template-columns:repeat(2,minmax(0,1fr))}
   .md-typeset .tec-bio-profile__portrait{grid-column:1/-1;grid-row:auto;max-width:340px;width:100%;justify-self:center}
