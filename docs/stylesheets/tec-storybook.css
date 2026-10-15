@@ -145,3 +145,9 @@
 .md-typeset .tec-storybook__page h4 {
   font-size:revert-layer;
 }
+
+/* All chapters share one grid cell; tallest chapter determines stable book height. */
+.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__sheet { display:grid; grid-template-columns:minmax(0,1fr); }
+.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__page { grid-area:1 / 1; min-width:0; }
+.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__page[hidden] { display:block!important; visibility:hidden; pointer-events:none; }
+.md-typeset .tec-storybook--all .tec-storybook__sheet { display:block; }
