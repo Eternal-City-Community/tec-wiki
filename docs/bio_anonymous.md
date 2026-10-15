@@ -1,11 +1,11 @@
 ---
-title: "Anonymous"
-character_name: "Anonymous"
+title: "Caelius Marcellan"
+character_name: "Caelius Marcellan"
 category: "Character Bios"
 parent: character-bios
 ---
 
-# Anonymous
+# Caelius Marcellan
 
 ## Nationality
 
