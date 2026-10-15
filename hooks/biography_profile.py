@@ -47,9 +47,9 @@ def on_page_markdown(markdown, page, config, files):
     output = [header]
     if portrait:
         output.append(
-            '<aside class="tec-bio-profile__portrait">\\n'
-            f'<img src="{escape(portrait, quote=True)}" alt="Portrait of {escape(name, quote=True)}" loading="lazy">\\n'
-            '</aside>\\n'
+            '<aside class="tec-bio-profile__portrait">\n'
+            f'<img src="{escape(portrait, quote=True)}" alt="Portrait of {escape(name, quote=True)}" loading="lazy">\n'
+            '</aside>\n'
         )
     intro = rest[:sections[0].start()].strip()
     if intro:
