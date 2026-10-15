@@ -15,8 +15,19 @@ The editor is powered by Decap CMS and uses the GitHub repository as the source 
 2. Sign in with GitHub.
 3. Select a wiki page or create a new page.
 4. Make the change in the browser editor.
-5. Submit it for review.
-6. A maintainer reviews and merges the resulting change before it appears on the public wiki.
+5. Optionally fill in **Change note** with a short description, e.g. *Fixed trainer directions*. It is shown in Page History and What's New.
+6. Save, then submit it for review.
+7. A maintainer reviews and merges the resulting change before it appears on the public wiki.
+
+## Images
+
+Use the **Image** button in the Body toolbar, beside Templates. Upload a new image or pick one already on the wiki, and choose **Choose selected**. The image is put in at the cursor as Markdown:
+
+~~~
+![Blackvine Square map](/assets/uploads/blackvine-square-map.png)
+~~~
+
+The text in square brackets describes the image for readers who cannot see it; edit it as needed. A new image is saved together with the page, so it goes into the same review as the text change.
 
 ## Authentication status
 

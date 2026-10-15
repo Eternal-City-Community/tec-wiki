@@ -66,6 +66,11 @@ collections:
     editor:
       preview: true
     fields:
+      - label: Change note
+        name: change_note
+        widget: tec-change-note
+        required: false
+        hint: Briefly describe what you changed. It is shown in Page History and What's New, not on the page.
       - label: Title
         name: title
         widget: string
@@ -98,3 +103,8 @@ collections:
         widget: tec-parent
         required: false
         hint: The page this one sits under, e.g. Skills for a skill page. It sets the breadcrumb links at the top of the page; leave empty for none.
+      # Hidden; lets the Body toolbar's Image button open the media library.
+      - label: Insert image
+        name: insert_image
+        widget: tec-image-insert
+        required: false

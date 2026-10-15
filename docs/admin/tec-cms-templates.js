@@ -129,9 +129,14 @@
 
   // Puts the text in at the cursor (or the top of the page when the editor has
   // no cursor yet) the way a paste would, so Decap's editor and undo see it.
-  function insert(editor, text) {
+  // A range saved earlier puts it back where the cursor was then.
+  function insert(editor, text, savedRange) {
     var sel = window.getSelection();
     editor.focus();
+    if (savedRange && editor.contains(savedRange.startContainer)) {
+      sel.removeAllRanges();
+      sel.addRange(savedRange);
+    }
     if (!sel.rangeCount || !editor.contains(sel.anchorNode)) {
       var first = editor.querySelector("[data-slate-string], [data-slate-zero-width]");
       var range = document.createRange();
@@ -147,6 +152,9 @@
       editor.dispatchEvent(new ClipboardEvent("paste", { clipboardData: data, bubbles: true, cancelable: true }));
     }, 50);
   }
+
+  // Also used by the Image button (tec-cms-image.js).
+  window.tecCmsInsert = insert;
 
   function makeMenu(toolbar) {
     var wrap = document.createElement("div");

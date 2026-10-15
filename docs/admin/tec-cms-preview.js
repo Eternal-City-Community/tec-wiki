@@ -188,6 +188,7 @@
         if (root.firstChild && root.firstChild.__tecPreviewDone) return;
 
         resetRoot(root);
+        this.useDraftImages(root);
         var before = rootState(root);
 
         previewFixes.forEach(function (fix) {
@@ -204,6 +205,24 @@
 
         rememberAdditions(root, before);
         if (root.firstChild) root.firstChild.__tecPreviewDone = true;
+      },
+
+      // An image uploaded in the editor is not on the live site until the change
+      // is published, so its /assets/uploads/ address fails in the preview.
+      // Decap treats that address as a live URL and never looks for the upload;
+      // asking by file name finds it (from this session or the saved draft).
+      useDraftImages: function (root) {
+        var getAsset = this.props.getAsset;
+        root.querySelectorAll('img[src^="/assets/uploads/"]').forEach(function (img) {
+          function tryDraft(attempt) {
+            var name = decodeURIComponent(img.getAttribute("src").split("/").pop());
+            var url = String(getAsset(name) || "");
+            if (/^(blob|data):/.test(url)) img.src = url;
+            // A saved draft's image may still be downloading.
+            else if (attempt < 5) setTimeout(function () { tryDraft(attempt + 1); }, 1000);
+          }
+          img.addEventListener("error", function () { tryDraft(0); }, { once: true });
+        });
       },
 
       componentDidMount: function () {
