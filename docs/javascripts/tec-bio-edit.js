@@ -104,7 +104,11 @@
     const matches = [...markdown.matchAll(pattern)];
     for (let i = 0; i < matches.length; i++) {
       const heading = matches[i][1];
-      output[heading] = markdown.slice(matches[i].index + matches[i][0].length, matches[i + 1]?.index ?? markdown.length).trim();
+      // Portrait references are stored after the biography sections; never treat them as editable field content.
+      output[heading] = markdown.slice(matches[i].index + matches[i][0].length, matches[i + 1]?.index ?? markdown.length)
+        .split("\n")
+        .filter(line => !/^!\[Character portrait\]\(\/assets\/uploads\/bio_[a-z0-9_]+\.(?:png|jpg|jpeg|webp)\)$/.test(line.trim()))
+        .join("\n").trim();
     }
     return output;
   }
