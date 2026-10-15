@@ -38,4 +38,4 @@ Worship & Superstition: Veridio worships Eraitheran, but his deep connection to 
 
 A Sense of Humor: Since retiring from the Constables, Veridios sense of humor has blossomed. Hes become known for his puns, dad jokes, and terribly long, pointless stories about the sea. Without the weight of his former responsibilities, hes more open and willing to laugh, showing a lighter side that few had seen before.
 
-![Character portrait](/assets/uploads/bio_veridio_dimori.png)
+![Character portrait](/assets/uploads/bio_veridio_dimori.jpg)
