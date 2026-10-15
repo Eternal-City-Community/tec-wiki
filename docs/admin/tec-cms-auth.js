@@ -13,17 +13,32 @@
   if (!github) return;
 
   var ATTEMPTS = 6;
+  var FRESH_LOGIN_MS = 60000;
+  var loginAt = 0;
+
+  // The login popup reports a new token with this message. Only that token
+  // may still be unknown to GitHub; a saved login that gets 401 has expired
+  // or been revoked, so it fails at once and the Log In button shows.
+  window.addEventListener("message", function (event) {
+    if (typeof event.data === "string" && event.data.indexOf("authorization:github:success") === 0) {
+      loginAt = Date.now();
+    }
+  });
+
+  function freshLogin() {
+    return Date.now() - loginAt < FRESH_LOGIN_MS;
+  }
 
   function wait(ms) {
     return new Promise(function (resolve) { setTimeout(resolve, ms); });
   }
 
-  // Retries while GitHub has not yet accepted the new token (401) or errors.
+  // Retries while GitHub has not yet accepted a new token (401) or errors.
   function fetchJson(url, auth, attempt) {
     attempt = attempt || 1;
     return fetch(url, { headers: { Authorization: auth } })
       .then(function (res) {
-        if ((res.status === 401 || res.status >= 500) && attempt < ATTEMPTS) {
+        if (((res.status === 401 && freshLogin()) || res.status >= 500) && attempt < ATTEMPTS) {
           throw new Error("retry");
         }
         return res.json().then(function (body) { return { status: res.status, body: body }; });
