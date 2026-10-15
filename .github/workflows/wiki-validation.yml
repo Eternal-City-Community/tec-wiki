@@ -1,0 +1,29 @@
+name: Validate TEC Wiki
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Install site dependencies
+        run: pip install -r requirements.txt
+      - name: Compile Python hooks
+        run: python -m compileall -q hooks
+      - name: Check JavaScript syntax
+        run: |
+          find src docs/javascripts -name '*.js' -type f -print0 | xargs -0 -n1 node --check
+      - name: Run biography tests
+        run: npm run test:bio
+      - name: Build wiki
+        run: mkdocs build --clean
