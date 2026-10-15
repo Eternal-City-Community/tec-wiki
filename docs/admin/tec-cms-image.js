@@ -12,7 +12,7 @@
   var BUTTON_CLASS = "tec-insert-image";
   var MARKER_CLASS = "tec-image-insert";
   var opener = null;
-  var pending = null; // { editor, range } of the cursor when the button was used
+  var pending = null; // { editor, cursor } when the button was used
 
   var style = document.createElement("style");
   style.id = "tec-cms-image-style";
@@ -33,7 +33,7 @@
     var target = pending;
     pending = null;
     var markdown = "![" + altText(path) + "](" + encodeURI(decodeURI(path)) + ")";
-    window.tecCmsInsert(target.editor, markdown, target.range);
+    window.tecCmsInsert(target.editor, markdown, target.cursor);
   }
 
   // ---- Hidden field that owns the media library ----
@@ -46,7 +46,8 @@
         self.props.onOpenMediaLibrary({
           controlID: self.controlID,
           forImage: true,
-          privateUpload: false,
+          // privateUpload is left out, as Decap's own image field does: the
+          // library drops its file list if this differs from the list's own.
           value: [],
           allowMultiple: false,
           field: self.props.field
@@ -102,9 +103,7 @@
     button.addEventListener("click", function () {
       var editor = toolbar.closest(".cms-editor-raw").querySelector("[data-slate-editor]");
       if (!editor || !opener) return;
-      var sel = window.getSelection();
-      var range = sel.rangeCount && editor.contains(sel.anchorNode) ? sel.getRangeAt(0).cloneRange() : null;
-      pending = { editor: editor, range: range };
+      pending = { editor: editor, cursor: window.tecCmsCursor ? window.tecCmsCursor(editor) : null };
       opener();
     });
     return button;

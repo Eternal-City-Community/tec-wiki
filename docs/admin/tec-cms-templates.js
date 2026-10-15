@@ -127,16 +127,52 @@
     "." + MENU_CLASS + "__item:hover, ." + MENU_CLASS + "__item:focus-visible { background: #e8f5fe; color: #3a69c7; }";
   document.head.appendChild(style);
 
-  // Puts the text in at the cursor (or the top of the page when the editor has
-  // no cursor yet) the way a paste would, so Decap's editor and undo see it.
-  // A range saved earlier puts it back where the cursor was then.
-  function insert(editor, text, savedRange) {
+  // The Slate editor behind Decap's Markdown box, found through React's
+  // internal links from the box's element to the <Slate editor> above it.
+  function slateEditor(element) {
+    var key = Object.keys(element).filter(function (k) { return k.indexOf("__reactFiber$") === 0; })[0];
+    for (var fiber = key && element[key]; fiber; fiber = fiber.return) {
+      var editor = fiber.memoizedProps && fiber.memoizedProps.editor;
+      if (editor && typeof editor.insertData === "function" && typeof editor.select === "function") return editor;
+    }
+    return null;
+  }
+
+  // Where the cursor is now, to put text there later (see insert).
+  function cursor(element) {
+    var editor = slateEditor(element);
+    return editor && editor.selection ? JSON.parse(JSON.stringify(editor.selection)) : null;
+  }
+
+  // Puts the text in at the cursor (or the end of the page when the editor has
+  // no cursor) through the editor's own paste handling, so it and undo see it.
+  // A cursor saved earlier with cursor() puts it back where the cursor was then.
+  function insert(element, text, savedCursor) {
+    var editor = slateEditor(element);
+    if (!editor) return pasteEvent(element, text);
+    element.focus();
+    try {
+      if (savedCursor) editor.select(savedCursor);
+    } catch (e) {
+      // The text changed since; the cursor's old place may be gone.
+    }
+    if (!editor.selection) editor.select(editor.end([]));
+    // Each line of the box is one block; keep the text on lines of its own.
+    var at = editor.selection.anchor;
+    var block = editor.children[at.path[0]];
+    var line = block && block.children && block.children[0] ? block.children[0].text || "" : "";
+    if (at.offset > 0) text = "\n" + text;
+    if (at.offset < line.length) text = text + "\n";
+    var data = new DataTransfer();
+    data.setData("text/plain", text);
+    editor.insertData(data);
+  }
+
+  // Fallback if Decap's editor changes shape: a synthetic paste. Chrome
+  // accepts it; Firefox ignores synthetic paste events.
+  function pasteEvent(editor, text) {
     var sel = window.getSelection();
     editor.focus();
-    if (savedRange && editor.contains(savedRange.startContainer)) {
-      sel.removeAllRanges();
-      sel.addRange(savedRange);
-    }
     if (!sel.rangeCount || !editor.contains(sel.anchorNode)) {
       var first = editor.querySelector("[data-slate-string], [data-slate-zero-width]");
       var range = document.createRange();
@@ -155,6 +191,7 @@
 
   // Also used by the Image button (tec-cms-image.js).
   window.tecCmsInsert = insert;
+  window.tecCmsCursor = cursor;
 
   function makeMenu(toolbar) {
     var wrap = document.createElement("div");
