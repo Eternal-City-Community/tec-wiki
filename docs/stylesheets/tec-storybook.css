@@ -56,3 +56,26 @@
   .md-typeset .tec-storybook__sheet{height:clamp(320px,calc(100dvh - 270px),720px)}
 }
 @media print{.md-typeset .tec-storybook__sheet{height:auto!important;overflow:visible!important}}
+
+/* v3: Let the document scroll naturally; no nested scrollbar in paged view. */
+.md-typeset .tec-storybook__sheet{
+  height:auto;
+  min-height:clamp(340px,calc(100dvh - 275px),780px);
+  max-height:none;
+  overflow:visible;
+  overscroll-behavior:auto;
+}
+@media(max-width:1000px){
+  .md-typeset .tec-storybook__sheet{
+    height:auto;
+    min-height:clamp(300px,calc(100dvh - 300px),650px);
+    overflow:visible;
+  }
+}
+@media(max-width:600px){
+  .md-typeset .tec-storybook__sheet{
+    height:auto;
+    min-height:300px;
+    overflow:visible;
+  }
+}
