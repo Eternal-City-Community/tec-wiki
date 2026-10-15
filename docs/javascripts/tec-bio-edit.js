@@ -40,6 +40,13 @@
             <div class="bio-field bio-field-wide"><label for="bio-edit-additional">Additional details</label>
               <textarea id="bio-edit-additional" name="additional" maxlength="8000" rows="5"></textarea></div>
           </div>
+          <div class="bio-field bio-field-wide" id="bio-edit-portrait-section" hidden>
+            <label for="bio-edit-portrait">Character portrait</label>
+            <input id="bio-edit-portrait" type="file" accept="image/png,image/jpeg,image/webp">
+            <p class="bio-help">PNG, JPG, or WebP, up to 3 MB. Uploading again replaces the current portrait.</p>
+            <div id="bio-edit-portrait-turnstile"></div>
+            <div class="bio-form-actions"><button type="button" id="bio-edit-portrait-upload">Upload portrait</button></div>
+          </div>
           <div id="bio-edit-turnstile"></div>
           <div class="bio-form-footer"><span class="bio-help">Saving updates your existing biography.</span>
             <div class="bio-form-actions"><button type="submit">Save changes</button></div></div>
@@ -52,7 +59,15 @@
   const feedback = root.querySelector("#bio-owner-feedback");
   let name = "", code = "", sha = "";
   const siteKey = "0x4AAAAAAFW5CvcMWb-nnJ6R";
-  let loadWidget, editWidget;
+  let loadWidget, editWidget, portraitWidget, portraitEnabled = false;
+  const portraitSection = root.querySelector("#bio-edit-portrait-section");
+  const portraitInput = root.querySelector("#bio-edit-portrait");
+  const portraitUpload = root.querySelector("#bio-edit-portrait-upload");
+  fetch("/api/bio/configuration", { cache: "no-store" }).then(r => r.json()).then(data => {
+    portraitEnabled = data.portrait_enabled === true;
+    portraitSection.hidden = !portraitEnabled || editor.hidden;
+    if (portraitEnabled) renderChallenges();
+  }).catch(() => { portraitSection.hidden = true; });
   function turnstileToken(widget) {
     if (!window.turnstile || widget === undefined) throw Error("Human verification is unavailable.");
     const token = window.turnstile.getResponse(widget);
@@ -63,6 +78,8 @@
     if (!window.turnstile) return;
     if (loadWidget === undefined) loadWidget = window.turnstile.render("#bio-owner-turnstile", { sitekey: siteKey });
     if (editWidget === undefined) editWidget = window.turnstile.render("#bio-edit-turnstile", { sitekey: siteKey });
+    if (portraitEnabled && portraitWidget === undefined)
+      portraitWidget = window.turnstile.render("#bio-edit-portrait-turnstile", { sitekey: siteKey });
   }
   if (window.turnstile) renderChallenges();
   else {
@@ -109,9 +126,44 @@
       editor.elements.affiliations.value = (parts["Organizations and Affiliations"] || "").split("\n").map(x => x.replace(/^-\s*/, "")).join("\n");
       editor.elements.additional.value = parts["Additional Details"] || "";
       editor.hidden = false;
+      portraitSection.hidden = !portraitEnabled;
       feedback.textContent = "Biography loaded. Review the details before saving.";
     } catch (error) { feedback.textContent = error.message; }
     finally { if (window.turnstile && loadWidget !== undefined) window.turnstile.reset(loadWidget); }
+  });
+  portraitUpload.addEventListener("click", async () => {
+    if (!portraitEnabled || editor.hidden) return;
+    const file = portraitInput.files?.[0];
+    if (!file) { feedback.textContent = "Choose a portrait first."; return; }
+    if (!["image/png", "image/jpeg", "image/webp"].includes(file.type) || file.size > 3 * 1024 * 1024 || !file.size) {
+      feedback.textContent = "Choose a PNG, JPG, or WebP image no larger than 3 MB.";
+      return;
+    }
+    portraitUpload.disabled = true;
+    feedback.textContent = "Uploading portrait…";
+    try {
+      const base64 = await new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(String(reader.result).split(",")[1]);
+        reader.onerror = () => reject(new Error("Unable to read portrait."));
+        reader.readAsDataURL(file);
+      });
+      const result = await post("/api/bio/portrait", {
+        character_name: name, edit_code: code, mime: file.type, base64,
+        turnstileToken: turnstileToken(portraitWidget)
+      });
+      if (!result.published) throw Error("Portrait publication was not confirmed.");
+      portraitInput.value = "";
+      feedback.textContent = "Portrait uploaded. Reload the biography before making text edits; the site build may take a moment.";
+      editor.hidden = true;
+      portraitSection.hidden = true;
+      sha = "";
+    } catch (error) {
+      feedback.textContent = error.message;
+    } finally {
+      portraitUpload.disabled = false;
+      if (window.turnstile && portraitWidget !== undefined) window.turnstile.reset(portraitWidget);
+    }
   });
   editor.addEventListener("submit", async event => {
     event.preventDefault();
