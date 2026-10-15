@@ -22,12 +22,13 @@ Born and raised in Iridine with his brother Tondrin Susuplus.
 
 Tondrin was viscously killed by bandits in the Traevant woods. This set Sardian on a life long quest of helping people traverse the Traevant woods and near by roads.
 
-During this time he ran into a man named Kered Solstice, who would become a life long friend. With the help of a few others, they created the Traevant Militia, a group dedicated to the protection of travelers that considers each other as Family.
+During this time he ran into a man named Kered Solace, who would become a life long friend. With the help of a few others, they created the Traevant Militia, a group dedicated to the protection of travelers that considers each other as Family.
 
 You'll know who is part of the Traevant Militia family by their wasitguards with a prominent "TM" the words 'Traevant Militia' in large fancy lettering. On both sides of the hip area are similar small plaques, enscribed into them both are the words 'Family For Life'.
 
 ## Organizations and Affiliations
 
 - Traevant Militia
+
 
 ![Character portrait](/assets/uploads/bio_sardian_susuplus.png)
