@@ -81,6 +81,8 @@ def on_post_build(config, **kwargs):
             newest[slug] = {
                 "title": _title(source),
                 "url": "/" if rel == "index.md" else "/" + slug.strip("/") + "/",
+                "slug": slug,
+                "sha": sha,
                 "date": date,
                 "summary": message.splitlines()[0].strip() or "Page updated",
             }

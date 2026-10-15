@@ -2005,8 +2005,7 @@ html, body {
 .tec-history-loading,
 .tec-history-error,
 .tec-history-header,
-.tec-history-entry,
-.tec-history-detail {
+.tec-history-entry {
   background: rgba(244,238,207,.94);
   border: 1px solid #8f8969;
   border-radius: 6px;
@@ -2023,14 +2022,25 @@ html, body {
   padding:.7rem .85rem;
   margin-bottom:.75rem;
 }
+.tec-history-count { color:#6d6854; }
 .tec-history-current {
   white-space:nowrap;
 }
-.tec-history-list {
+.md-typeset ol.tec-history-list {
   display:grid;
   gap:.55rem;
+  margin:0;
+  padding:0;
+  list-style:none;
 }
-.tec-history-entry {
+.md-typeset .tec-history-list > li.tec-history-entry {
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+.md-typeset .tec-history-list > li.tec-history-entry { scroll-margin-top:9rem; }
+.tec-history-entry.is-selected { border-color:#646b35; box-shadow:0 0 0 2px rgba(100,107,53,.35); }
+.tec-history-entry__row {
   display:flex;
   align-items:center;
   justify-content:space-between;
@@ -2040,6 +2050,11 @@ html, body {
 .tec-history-entry__title {
   font-weight:700;
   color:#30351e;
+}
+.tec-history-entry__title.is-auto {
+  font-weight:400;
+  font-style:italic;
+  color:#5d5946;
 }
 .tec-history-entry__meta {
   margin-top:.18rem;
@@ -2061,8 +2076,7 @@ html, body {
   flex-wrap:wrap;
   justify-content:flex-end;
 }
-.tec-history-entry__actions button,
-.tec-history-close {
+.tec-history-entry__actions button {
   border:1px solid #646b35;
   background:#687038;
   color:#fffdf4;
@@ -2071,69 +2085,103 @@ html, body {
   cursor:pointer;
   font:inherit;
 }
-.tec-history-entry__actions button:hover,
-.tec-history-close:hover {
-  background:#555d2d;
-}
-.tec-history-entry__actions button:disabled {
-  opacity:.6;
-  cursor:wait;
+.tec-history-entry__actions button:hover { background:#555d2d; }
+.tec-history-entry__actions button[aria-expanded="true"] {
+  background:#fffdf4;
+  color:#3f4520;
 }
 .tec-history-detail {
-  margin-top:1rem;
-  overflow:hidden;
+  border-top:1px solid #b9b293;
+  background:#fbf8ea;
 }
-.tec-history-detail__head {
+.tec-history-detail__bar {
   display:flex;
-  align-items:center;
+  flex-wrap:wrap;
   justify-content:space-between;
-  gap:1rem;
-  padding:.6rem .75rem;
-  background:#646b35;
-  color:#fffdf4;
+  gap:.3rem 1rem;
+  padding:.45rem .8rem;
+  font-size:.82em;
+  color:#5d5946;
+  border-bottom:1px solid #d8d1b3;
 }
-.tec-history-detail__head h2 {
+.tec-history-note {
   margin:0 !important;
-  color:#fffdf4 !important;
-  border:0 !important;
-  padding:0 !important;
-  font-size:1rem !important;
-}
-.tec-history-detail__body {
-  padding:.75rem;
-}
-.tec-history-summary {
-  margin-bottom:.65rem;
+  padding:.7rem .8rem;
+  color:#5d5946;
 }
 .tec-history-add { color:#2f6a2d; font-weight:700; }
 .tec-history-del { color:#8a342d; font-weight:700; }
-.tec-history-diff,
+
+/* Diff: parchment page with ink-green additions and rust removals. */
+.tec-diff {
+  max-height:70vh;
+  overflow:auto;
+}
+.md-typeset .tec-diff table {
+  display:table;
+  width:100%;
+  margin:0;
+  border:0;
+  border-collapse:collapse;
+  border-radius:0;
+  box-shadow:none;
+  font: .74rem/1.5 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+  background:transparent;
+}
+.md-typeset .tec-diff td {
+  padding:0 .5rem;
+  border:0;
+  vertical-align:top;
+  background:transparent;
+}
+.md-typeset .tec-diff .tec-diff__num {
+  width:1%;
+  min-width:2.6rem;
+  text-align:right;
+  color:#9a9276;
+  user-select:none;
+  border-right:1px solid #e3dcc0;
+}
+.md-typeset .tec-diff .tec-diff__sign {
+  width:1%;
+  padding:0 .15rem 0 .4rem;
+  user-select:none;
+  font-weight:700;
+}
+.md-typeset .tec-diff .tec-diff__text {
+  white-space:pre-wrap;
+  overflow-wrap:anywhere;
+  color:#33321f;
+}
+.md-typeset .tec-diff .is-add td { background:#e2ecd0; }
+.md-typeset .tec-diff .is-add .tec-diff__sign { color:#2f6a2d; }
+.md-typeset .tec-diff .is-del td { background:#f3dcd2; }
+.md-typeset .tec-diff .is-del .tec-diff__sign { color:#8a342d; }
+.md-typeset .tec-diff .is-add mark { background:#b9d39a; color:inherit; border-radius:2px; }
+.md-typeset .tec-diff .is-del mark { background:#e6b4a3; color:inherit; border-radius:2px; text-decoration:line-through; text-decoration-color:rgba(138,52,45,.5); }
+.md-typeset .tec-diff .tec-diff__hunk td {
+  padding:.2rem .6rem;
+  background:#ece5c8;
+  color:#646b35;
+  font-family:Georgia, serif;
+  font-style:italic;
+  border-top:1px solid #d8d1b3;
+  border-bottom:1px solid #d8d1b3;
+}
 .tec-history-version {
   margin:0;
-  max-height:65vh;
+  max-height:70vh;
   overflow:auto;
-  background:#2f302c;
-  color:#f2f0e5;
-  border:1px solid #1f201d;
-  border-radius:4px;
-  font: .74rem/1.45 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
-}
-.tec-history-diff__line {
+  padding:.7rem .8rem;
   white-space:pre-wrap;
   overflow-wrap:anywhere;
-  padding:0 .55rem;
-}
-.tec-history-diff__line.is-add { background:#263e29; }
-.tec-history-diff__line.is-del { background:#4a2926; }
-.tec-history-diff__line.is-meta { background:#343d50; color:#d5def7; }
-.tec-history-version {
-  padding:.7rem;
-  white-space:pre-wrap;
-  overflow-wrap:anywhere;
+  background:transparent;
+  color:#33321f;
+  font: .74rem/1.5 ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
 }
 @media screen and (max-width: 44.984375em) {
   .tec-history-header,
-  .tec-history-entry {
+  .tec-history-entry__row {
     align-items:flex-start;
     flex-direction:column;
   }
@@ -2141,6 +2189,8 @@ html, body {
     width:100%;
     justify-content:flex-start;
   }
+  .tec-history-entry__actions button { flex:1 1 auto; min-height:40px; }
+  .md-typeset .tec-diff .tec-diff__num { min-width:1.8rem; padding:0 .25rem; }
 }
 
 /* Deployment retry: page history interface */
@@ -3076,6 +3126,7 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 .tec-whats-new-entry__title { margin:0 0 .16rem; font-size:.82rem; font-weight:700; }
 .tec-whats-new-entry__meta { color:#665f49; font-size:.66rem; }
 .tec-whats-new-entry__summary { margin:.28rem 0 0; font-size:.74rem; line-height:1.4; }
+.tec-whats-new-entry__summary.is-auto { font-style:italic; color:#5d5946; }
 .tec-whats-new-empty, .tec-whats-new-error, .tec-whats-new-loading {
   padding:.65rem .72rem; border:1px solid #aaa38a; border-radius:7px;
   background:rgba(226,219,186,.5); color:#5f5a48; font-size:.74rem;

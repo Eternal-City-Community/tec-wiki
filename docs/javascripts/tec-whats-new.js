@@ -1,6 +1,10 @@
 (function () {
   function esc(v) { return String(v == null ? "" : v).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
   function date(v) { try { return new Intl.DateTimeFormat(undefined,{dateStyle:"medium"}).format(new Date(v)); } catch(e) { return v || ""; } }
+  // Shared with Page History (tec-page-history.js) for Decap's automatic messages.
+  function describe(message) {
+    return window.tecHistoryDescribe ? tecHistoryDescribe(message) : { text: message, auto: false };
+  }
   function render(root, data, days) {
     var cutoff = Date.now() - days * 86400000;
     var rows = (data.entries || []).filter(function(e){ return new Date(e.date).getTime() >= cutoff; });
@@ -10,7 +14,9 @@
       return '<button type="button" data-days="'+n+'" aria-pressed="'+(n===days)+'">Last '+n+' days</button>';
     }).join("") + '</div>';
     var list = rows.length ? '<div class="tec-whats-new-list">' + rows.map(function(e){
-      return '<article class="tec-whats-new-entry"><div class="tec-whats-new-entry__title"><a href="'+esc(e.url)+'">'+esc(e.title)+'</a></div><div class="tec-whats-new-entry__meta">'+esc(date(e.date))+'</div><p class="tec-whats-new-entry__summary">'+esc(e.summary)+'</p></article>';
+      var d = describe(e.summary);
+      var changes = e.slug && e.sha ? ' · <a href="/page-history/?page='+encodeURIComponent(e.slug)+'&amp;rev='+esc(e.sha)+'">View changes</a>' : '';
+      return '<article class="tec-whats-new-entry"><div class="tec-whats-new-entry__title"><a href="'+esc(e.url)+'">'+esc(e.title)+'</a></div><div class="tec-whats-new-entry__meta">'+esc(date(e.date))+changes+'</div><p class="tec-whats-new-entry__summary'+(d.auto?' is-auto':'')+'">'+esc(d.text)+'</p></article>';
     }).join("") + '</div>' : '<div class="tec-whats-new-empty">No wiki page updates were found in this timeframe.</div>';
     root.innerHTML = controls + list;
     root.querySelectorAll("[data-days]").forEach(function(b){ b.addEventListener("click",function(){ render(root,data,Number(b.dataset.days)); }); });
