@@ -39,7 +39,10 @@ nav:
       - Jewelry: jewelry.md
       - Leatherworking: leather-working.md
   - Community:
-      - Character Bios: character-bios.md
+      - Character Bios:
+          - Character Bios: character-bios.md
+          - Submit Bio: submit-bio.md
+          - Edit Bio: edit-bio.md
       - In-Game News: in-game-news.md
       - What's New: whats-new.md
       - About the Wiki: about.md
