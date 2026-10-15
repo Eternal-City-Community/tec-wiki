@@ -66,11 +66,6 @@ collections:
     editor:
       preview: true
     fields:
-      - label: Change note
-        name: change_note
-        widget: tec-change-note
-        required: false
-        hint: Briefly describe what you changed. It is shown in Page History and What's New, not on the page.
       - label: Title
         name: title
         widget: string

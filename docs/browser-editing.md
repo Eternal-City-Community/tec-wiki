@@ -15,8 +15,8 @@ The editor is powered by Decap CMS and uses the GitHub repository as the source 
 2. Sign in with GitHub.
 3. Select a wiki page or create a new page.
 4. Make the change in the browser editor.
-5. Optionally fill in **Change note** with a short description, e.g. *Fixed trainer directions*. It is shown in Page History and What's New.
-6. Save, then submit it for review.
+5. Click **Save**. A box asks you to describe your change, e.g. *Fixed trainer directions*. This is optional; it is shown in Page History and What's New.
+6. Submit it for review.
 7. A maintainer reviews and merges the resulting change before it appears on the public wiki.
 
 ## Images
