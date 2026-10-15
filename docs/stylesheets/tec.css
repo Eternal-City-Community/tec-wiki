@@ -2022,7 +2022,6 @@ html, body {
   padding:.7rem .85rem;
   margin-bottom:.75rem;
 }
-.tec-history-count { color:#6d6854; }
 .tec-history-current {
   white-space:nowrap;
 }
@@ -2109,6 +2108,27 @@ html, body {
   padding:.7rem .8rem;
   color:#5d5946;
 }
+.tec-history-paging {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:.6rem 1rem;
+  flex-wrap:wrap;
+  margin-top:.75rem;
+  color:#6d6854;
+  font-size:.85em;
+}
+.tec-history-paging[hidden], .tec-history-more[hidden] { display:none; }
+.tec-history-more {
+  border:1px solid #646b35;
+  background:#687038;
+  color:#fffdf4;
+  border-radius:4px;
+  padding:.38rem .7rem;
+  cursor:pointer;
+  font:inherit;
+}
+.tec-history-more:hover { background:#555d2d; }
 .tec-history-add { color:#2f6a2d; font-weight:700; }
 .tec-history-del { color:#8a342d; font-weight:700; }
 

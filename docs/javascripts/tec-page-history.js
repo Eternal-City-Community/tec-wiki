@@ -2,6 +2,7 @@
 // is generated at build time by hooks/page_history.py from Git history.
 // ?page=<slug> picks the page; &rev=<sha> opens that revision's changes.
 var TEC_REPO_URL = "https://github.com/Eternal-City-Community/tec-wiki";
+var PAGE_SIZE = 20;
 
 function tecHistoryEsc(value) {
   return String(value == null ? "" : value)
@@ -192,45 +193,83 @@ function initTecPageHistory() {
       var revisions = data.revisions || [];
       root.innerHTML =
         '<div class="tec-history-header">' +
-          '<div><strong>History for:</strong> ' + esc(friendlyPageName(page)) +
-            ' <span class="tec-history-count">· ' + revisions.length + ' revision' + (revisions.length === 1 ? '' : 's') + '</span></div>' +
+          '<div><strong>History for:</strong> ' + esc(friendlyPageName(page)) + '</div>' +
           '<a class="tec-history-current" href="' + currentUrl + '">Back to current page</a>' +
         '</div>' +
         (revisions.length
-          ? '<ol class="tec-history-list">' + revisions.map(function (rev, index) {
-              var described = tecHistoryDescribe(rev.message);
-              return '<li class="tec-history-entry" data-index="' + index + '">' +
-                '<div class="tec-history-entry__row">' +
-                  '<div class="tec-history-entry__main">' +
-                    '<div class="tec-history-entry__title' + (described.auto ? ' is-auto' : '') + '">' + esc(described.text) + '</div>' +
-                    '<div class="tec-history-entry__meta">' +
-                      esc(rev.author || "Unknown editor") + ' · ' + esc(formatDate(rev.date)) + ' · ' + counts(rev) +
-                      (index === 0 ? ' <span class="tec-history-current-badge">Current</span>' : '') +
-                    '</div>' +
-                  '</div>' +
-                  '<div class="tec-history-entry__actions">' +
-                    '<button type="button" data-history-diff aria-expanded="false">View changes</button>' +
-                    '<button type="button" data-history-version aria-expanded="false">View this version</button>' +
-                  '</div>' +
-                '</div>' +
-              '</li>';
-            }).join("") + '</ol>'
+          ? '<ol class="tec-history-list"></ol>' +
+            '<div class="tec-history-paging">' +
+              '<span class="tec-history-paging__count"></span>' +
+              '<button type="button" class="tec-history-more"></button>' +
+            '</div>'
           : '<p class="tec-history-note">No saved revisions were found for this page.</p>');
+      if (!revisions.length) return;
 
-      root.querySelectorAll(".tec-history-entry").forEach(function (entry) {
-        var rev = revisions[Number(entry.dataset.index)];
-        entry.querySelector("[data-history-diff]").addEventListener("click", function (event) {
-          toggle(entry, event.currentTarget, function (detail) { showChanges(entry, rev, detail); });
+      var list = root.querySelector(".tec-history-list");
+      var paging = root.querySelector(".tec-history-paging");
+      var more = root.querySelector(".tec-history-more");
+      var shown = 0;
+
+      function entryHtml(rev, index) {
+        var described = tecHistoryDescribe(rev.message);
+        return '<li class="tec-history-entry" data-index="' + index + '">' +
+          '<div class="tec-history-entry__row">' +
+            '<div class="tec-history-entry__main">' +
+              '<div class="tec-history-entry__title' + (described.auto ? ' is-auto' : '') + '">' + esc(described.text) + '</div>' +
+              '<div class="tec-history-entry__meta">' +
+                esc(rev.author || "Unknown editor") + ' · ' + esc(formatDate(rev.date)) + ' · ' + counts(rev) +
+                (index === 0 ? ' <span class="tec-history-current-badge">Current</span>' : '') +
+              '</div>' +
+            '</div>' +
+            '<div class="tec-history-entry__actions">' +
+              '<button type="button" data-history-diff aria-expanded="false">View changes</button>' +
+              '<button type="button" data-history-version aria-expanded="false">View this version</button>' +
+            '</div>' +
+          '</div>' +
+        '</li>';
+      }
+
+      // Adds the next edits to the list, up to `until` (exclusive).
+      function showUntil(until) {
+        var start = shown;
+        shown = Math.min(until, revisions.length);
+        list.insertAdjacentHTML("beforeend", revisions.slice(start, shown).map(function (rev, i) {
+          return entryHtml(rev, start + i);
+        }).join(""));
+        Array.prototype.slice.call(list.children, start).forEach(function (entry) {
+          var rev = revisions[Number(entry.dataset.index)];
+          entry.querySelector("[data-history-diff]").addEventListener("click", function (event) {
+            toggle(entry, event.currentTarget, function (detail) { showChanges(entry, rev, detail); });
+          });
+          entry.querySelector("[data-history-version]").addEventListener("click", function (event) {
+            toggle(entry, event.currentTarget, function (detail) { showVersion(entry, rev, detail); });
+          });
         });
-        entry.querySelector("[data-history-version]").addEventListener("click", function (event) {
-          toggle(entry, event.currentTarget, function (detail) { showVersion(entry, rev, detail); });
+        root.querySelector(".tec-history-paging__count").textContent =
+          "Showing " + shown + " of " + revisions.length + " edit" + (revisions.length === 1 ? "" : "s");
+        var left = Math.min(PAGE_SIZE, revisions.length - shown);
+        more.textContent = "Show " + left + " older edit" + (left === 1 ? "" : "s");
+        more.hidden = left <= 0;
+        paging.hidden = revisions.length <= PAGE_SIZE;
+      }
+
+      more.addEventListener("click", function () { showUntil(shown + PAGE_SIZE); });
+
+      // A ?rev= link to an older edit shows enough pages to include it.
+      var wantedIndex = -1;
+      if (wantedRev) {
+        revisions.some(function (rev, i) {
+          if (rev.sha.indexOf(wantedRev) === 0) { wantedIndex = i; return true; }
+          return false;
         });
-        if (wantedRev && rev.sha.indexOf(wantedRev) === 0) {
-          entry.classList.add("is-selected");
-          entry.querySelector("[data-history-diff]").click();
-          entry.scrollIntoView({ block: "start" });
-        }
-      });
+      }
+      showUntil(Math.max(PAGE_SIZE, (Math.floor(wantedIndex / PAGE_SIZE) + 1) * PAGE_SIZE));
+      if (wantedIndex >= 0) {
+        var entry = list.children[wantedIndex];
+        entry.classList.add("is-selected");
+        entry.querySelector("[data-history-diff]").click();
+        entry.scrollIntoView({ block: "start" });
+      }
     })
     .catch(function () {
       root.innerHTML =
