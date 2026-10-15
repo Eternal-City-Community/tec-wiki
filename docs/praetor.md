@@ -18,11 +18,12 @@ Praetor is a free, open-source desktop client for The Eternal City. It runs on W
 * Output tabs with your own include/exclude filters
 * Loot and keyword highlighting, so rare drops don't scroll past you
 * Color words shown in their color
+* Whole-line Speech Colors for identifying characters at a glance, with wildcard and variable-based speaker matching
 * Desktop notifications for low health, low fatigue, custom text patterns, and optional alerts from Lua scripts
 * Lua automation modes, with a shared script library you can pull from
 * A session metrics dashboard your automation modes can write to
 * Saved command variables that can be reused from the input, Actions, and Variables sidebar
-* PraetorScript command chains: variables and fallbacks, configurable `;;` pacing, unbusy-aware `&&`, waits, text reactions, notifications, and bounded or counted repeats
+* PraetorScript command chains: variables and fallbacks, configurable `;;` pacing, unbusy-aware `&&`, waits, text reactions, notifications, saved-variable updates, and bounded or counted repeats
 * Live chain status and immediate cancellation from the Automation Bar or with Alt+X
 * Multiple stored accounts, so you can switch accounts without retyping passwords
 * Scrollback search (Ctrl+F) and command-history search (Ctrl+R)
@@ -246,7 +247,7 @@ On later launches, a **Choose an account** screen lists any accounts you've stor
 At startup Praetor also checks GitHub for a newer release and shows a small notice if one is available. To turn this off:
 
 1. Press **Esc**
-2. Choose **Display & Behavior**, then **Settings**
+2. Choose **Behavior**, then **Settings**
 3. Untick **Check for updates on startup**
 4. **Save**
 
@@ -258,7 +259,9 @@ The sidebar on the right shows the minimap, the compass, and your vitals bars (H
 
 The command input sits at the bottom. Press **Esc** to open the menu.
 
-Saved variables can be inserted into typed commands with `${name}` or `${name:fallback}`. PraetorScript also supports configurable `;;` pacing, unbusy-aware `&&`, waits, text reactions, titled notifications, and bounded or exact-count repeats. The Automation Bar below the input shows the active step; while a chain is active, its play control becomes **Stop**. Click it or press **Alt+X** to discard the remaining work. See the [PraetorScript guide](/praetor-guide/#praetorscript) for the complete language.
+Saved variables can be inserted into typed commands with `${name}` or `${name:fallback}`, and created from the input with `/set-variable` or `/set-var`. PraetorScript also supports configurable `;;` pacing, unbusy-aware `&&`, waits, text reactions, titled notifications, variable updates with `$(set-var ...)` and `$(add-var ...)`, and bounded or exact-count repeats. The Automation Bar below the input shows the active step; while a chain is active, its play control becomes **Stop**. Click it or press **Alt+X** to discard the remaining work. See the [PraetorScript guide](/praetor-guide/#praetorscript) for the complete language.
+
+To identify speakers in fast-moving text, **Speech Colors** can tint an eligible character's complete line with any Colorword style. Rules support exact names, `*` and `?` wildcards, saved variables, special styles such as rainbow, and optional Think and OOC matching. Open them under **Esc → Text Parsing and Display → Speech Colors**, or right-click a recognized speech line and choose **Set a speech color**. See [Speech colors](/praetor-guide/#speech-colors) for details.
 
 Anything you type starting with a slash is a slash command, handled by Praetor itself and not sent to the game. A hint appears as you type showing what the command expects. To see them all in the app:
 
@@ -317,6 +320,7 @@ Slash commands are handled by Praetor and never reach the game. The last column 
 | /mode, /sm | <name> [args…] | Start a mode ([Run a mode](/praetor-scripts/#run)) | `/mode disable` or Alt+X stops it |
 | /toggle | <label> | Flip a true/false value in the running mode | Run it again to flip it back |
 | /set | <label> <value> | Set a value in the running mode | Set it again to the old value |
+| /set-variable, /set-var | <name> <value> | Create or replace a persisted command variable | Set it again to the old value |
 | /calc, /rb |  | Open the rank-bonus calculator ([Calculator](/praetor-guide/#calculator)) | Esc closes it |
 | /wiki | [name] | List the wiki bookmarks, or open one in your browser ([Wiki bookmarks](/praetor-guide/#lookups)) | Esc closes the list |
 | /maps | [name] | List the map bookmarks, or open one in your browser ([Map bookmarks](/praetor-guide/#lookups)) | Esc closes the list |

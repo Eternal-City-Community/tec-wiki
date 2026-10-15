@@ -42,7 +42,7 @@ The **All** tab always receives everything. **Custom tabs** filter game text by 
 
 To build a Think/OOC tab:
 
-**1.** Press **Esc**, choose **Display & Behavior**, then **Custom Tabs**.
+**1.** Press **Esc**, choose **Behavior**, then **Custom Tabs**.
 
 **2.** Add a new tab and name it:
 
@@ -110,7 +110,7 @@ get ${weapon}
 ~~~
 
 
-Variables are managed through the sidebar's **Variables** tab or **Esc → Automation → Variables**.
+Variables are managed through the sidebar's **Variables** tab or **Esc → Automation → Variables**. You can also create or replace one from the command input with `/set-variable name value` (or the shorter `/set-var`).
 
 Add a fallback after a colon when a variable might be empty or missing:
 
@@ -139,7 +139,7 @@ stand;;look;;inventory
 
 Praetor sends `stand`, waits for the configured delay, sends `look`, waits again, and then sends `inventory`.
 
-The default delay is 900 milliseconds. Change it under **Esc → Display & Behavior → Settings → ;; chain delay**.
+The default delay is 900 milliseconds. Change it under **Esc → Behavior → Settings → ;; chain delay**.
 
 A single semicolon is ordinary text.
 
@@ -155,7 +155,7 @@ stand&&climb wall&&look
 
 Praetor sends `stand` and waits for a recognized unbusy response. After the configured response delay, it sends `climb wall`. The next unbusy response advances the chain to `look`.
 
-The default response delay is 100 milliseconds. Change it under **Esc → Display & Behavior → Settings → && response delay**.
+The default response delay is 100 milliseconds. Change it under **Esc → Behavior → Settings → && response delay**.
 
 Recognized responses include:
 
@@ -175,7 +175,7 @@ A single ampersand is ordinary text.
 
 #### Control steps: `$()`
 
-A `$()` control step can pause a chain, wait for game text, display a notification, or repeat a command.
+A `$()` control step can pause a chain, wait for game text, display a notification, change a saved variable, or repeat a command.
 
 Each control must occupy a complete chain step.
 
@@ -260,6 +260,38 @@ For example:
 $(notify "${item:sought item} acquired")
 ~~~
 
+
+##### Set a variable
+
+
+~~~
+$(set-var target "scarred bandit")
+~~~
+
+
+`set-var` creates or replaces the same persisted variable used by `${name}`, the Variables editor, `/set-variable`, and Speech Color character patterns. The value can be quoted when it contains spaces, and `""` saves an empty value. Variable names must begin with a letter or underscore and contain only letters, numbers, and underscores.
+
+The change happens when the chain reaches the control step. It is saved immediately, appears in every open Variables editor, and is available to later submissions.
+
+##### Add to a numeric variable
+
+
+~~~
+$(add-var attempts 1)
+~~~
+
+
+`add-var` adds an amount to an existing saved variable. Both its current value and the amount must be finite numbers; the amount may be positive, negative, whole, or decimal. Praetor persists the sum in ordinary decimal notation and updates the Variables UI immediately.
+
+Variable controls can be combined in one chain:
+
+
+~~~
+$(set-var attempts 0);;$(add-var attempts 1)
+~~~
+
+
+This leaves `attempts` set to `1`. If the variable is missing or its current value is not numeric, `add-var` cancels the chain with an error rather than inventing a starting value.
 
 ##### Repeat until successful
 
@@ -363,6 +395,8 @@ For an active chain, the bar shows the current step and what Praetor is doing:
 * `waiting 3s` for `$(wait 3)`; true waits count down in whole seconds
 * `waiting for “text” 30s` for a bounded `wait-for`; the timeout counts down in whole seconds
 * `notifying “title”` for `notify`
+* `setting “name”` for `set-var`
+* `adding to “name”` for `add-var`
 * `repeating “command” (2/5)` for a bounded or counted repeat, or `(2)` for an unlimited repeat
 
 If more than one chain is active, the oldest chain is shown and a `+N` marker reports the others. Any active chain replaces **Play** with **Stop**.
@@ -460,6 +494,7 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 | /mode (/sm) | <name> [args…] | Start a mode |
 | /toggle | &lt;label&gt; | Toggle a mode state value |
 | /set | &lt;label&gt; <value> | Set a mode state value |
+| /set-variable (/set-var) | &lt;name&gt; <value> | Create or replace a saved command variable |
 | /calc (/rb) |  | Rank-bonus calculator |
 | /wiki | [name] | Open a wiki bookmark, or list them |
 | /maps | [name] | Open a map bookmark, or list them |
@@ -474,25 +509,22 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 
 Slash commands are not interpreted inside a multi-line block.
 
+`/set` and `/set-variable` affect different things. `/set` changes a value exposed by the currently running Lua mode. `/set-variable` saves a general command-input variable and works even when no mode is running. Its value is the rest of the command, so spaces are allowed; use `""` to save an empty value. The change is persisted, available to later commands and Speech Color patterns, and appears immediately in every open Variables editor.
+
 ### The Esc menu {#menu}
 
 This is the main entrypoint to all Praetor menus
 
-![Praetor Esc menu with Display and Behavior, Automation, Filters, Tools and References, and Session groups](/assets/wikidot/praetor-guide/praetor-settings-menu.png)
+The items are grouped by purpose:
 
-#### Display & Behavior
+#### Behavior
 
 * Settings: the app's general options, listed below
-* Retro CRT Effects: optional scanline and glow styling for the output pane
-* Highlights: color patterns in the output so drops and keywords stand out
 * Custom Tabs: build your own filtered output tabs
-* Action Sets: your own sidebar buttons, with support for variables and command chains
 * Notifications: desktop alerts for low vitals, text patterns, and opt-in Lua script alerts
+* Retro CRT Effects: optional scanline and glow styling for the output pane
 
 ![Retro CRT Effects editor](/assets/wikidot/praetor-guide/praetor-crt-effects)
-
-
-![Action Sets editor with command buttons](/assets/wikidot/praetor-guide/praetor-action-sets.png)
 
 #### Settings {#settings}
 
@@ -500,7 +532,7 @@ This is the main entrypoint to all Praetor menus
 To change any setting:
 
 1. Press **Esc**
-2. Choose **Display & Behavior**, then **Settings**
+2. Choose **Behavior**, then **Settings**
 3. Change what you need
 4. **Save**
 
@@ -529,15 +561,20 @@ The settings are:
 #### Automation
 
 * Variables: saved name/value pairs used by typed input, Action Set buttons, and /send files; this is the same editor as the sidebar Variables tab
+* Action Sets: your own sidebar buttons, with support for variables and command chains
 * Script Directories: the folders Praetor loads modes from
 * Quick-Cycle Modes: choose the modes Alt+M steps through
 * High-Priority Commands: commands that jump the queue instead of waiting
 * Persistent Data: what your modes have saved, with export and clear
 * Reload Scripts: rescan your script folders for changes
 
+![Action Sets editor with command buttons](/assets/wikidot/praetor-guide/praetor-action-sets.png)
+
 ![Script Directories editor](/assets/wikidot/praetor-guide/praetor-script-directories.png)
 
 **Variables** stores reusable name/value pairs. Add a name and value, then save. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with `${name}` in typed input, Action Set buttons, and **/send** files. Editing variables here or in the sidebar updates the same saved list.
+
+`/set-variable` (or `/set-var`) and the PraetorScript `set-var` and `add-var` controls update this same list. Their changes are persisted and appear in the editor immediately, even if it is already open.
 
 ![Variables editor with count, target, and weapon values](/assets/wikidot/praetor-guide/praetor-variables.png)
 
@@ -566,10 +603,14 @@ retreat
 
 **3.** Click **Save**.
 
-#### Filters {#filters}
+#### Text Parsing and Display
 
+* Highlights: color patterns in the output so drops and keywords stand out
+* Speech Colors: color a character's complete speech lines for quick identification
 * Ignore OOC Accounts: hide OOC chatter from accounts you name
 * Ignore Think Characters: hide think-channel text from characters you name
+
+#### Ignore filters {#filters}
 
 ![Ignore OOC Accounts editor](/assets/wikidot/praetor-guide/praetor-ignore-ooc.png)
 
@@ -589,7 +630,7 @@ Click the placeholder to reveal that one line, or press **Alt+I** to reveal ever
 To ignore someone:
 
 1. Press **Esc**
-2. Choose **Filters**, then **Ignore OOC Accounts** (or **Ignore Think Characters**)
+2. Choose **Text Parsing and Display**, then **Ignore OOC Accounts** (or **Ignore Think Characters**)
 3. Add the name
 4. **Save**
 
@@ -609,13 +650,33 @@ Each of these has its own section further down this page.
 * Logout: return to the account picker without quitting
 * Exit: close Praetor
 
+### Speech colors {#speech-colors}
+
+**Speech Colors** tint an eligible character's entire line, making speakers easy to identify while you scan a fast-moving conversation. They are intended for quick visual identification; the game's own directed-speech display still handles speech aimed at you.
+
+Praetor recognizes ordinary speech in the form `<person> <speech verb>, "<text>"`. It supports the game's various speech verbs rather than requiring the literal word “says.” Think and OOC lines are excluded by default, but each character rule can opt into either or both.
+
+To create a rule:
+
+1. Press **Esc**, choose **Text Parsing and Display**, then **Speech Colors**
+2. Choose **+ Add character** and enter the character name or pattern
+3. Open the color picker, search for a Colorword style, and select it
+4. Optionally turn on **Think** and/or **OOC** for that character
+5. **Save**
+
+Character matching is case-insensitive and covers the speaker's whole name. `*` matches any run of characters and `?` matches one character, so `A * cloak` and `Apul?` are valid. You can also use current saved variables such as `${speaker}` or `${speaker:Apula}`. Variables are resolved whenever a line arrives, so changing one updates the match without editing the rule. A missing variable without a fallback leaves that rule unmatched until the variable is defined.
+
+The scrollable color picker uses the same catalog as Colorwords. Search by part of a name (`crim` finds **Crimson**), or type an exact family name (`red`) to see every color in the Reds family. The list also includes alternating plural styles such as **oranges** and special entries such as **rainbow**. A Colorword appearing inside an already colored speech line keeps its own color.
+
+For a shortcut, right-click any line Praetor recognizes as colorable speech and choose **Set a speech color**. The Speech Colors editor opens with the matched speaker's full name already filled in. Lines that do not match a supported speech form do not show the option.
+
 ### Highlights and notifications {#highlights}
 
 ![Highlights editor with pattern and color controls](/assets/wikidot/praetor-guide/praetor-highlights.png)
 
 **Highlights** make text stand out with a colored background, useful for rare drops and other things you don't want to miss scrolling past. To add one:
 
-**1.** Press **Esc**, choose **Display & Behavior**, then **Highlights**.
+**1.** Press **Esc**, choose **Text Parsing and Display**, then **Highlights**.
 
 **2.** Add a new highlight and type the text to match. It's a case-insensitive substring, not a wildcard:
 
@@ -634,7 +695,7 @@ retalq
 **Notifications** can raise desktop alerts when something happens. Built-in health, fatigue, and text-pattern notifications use the desktop alert. Lua `notify()` calls, when allowed, also show an in-app notice. PraetorScript `$(notify ...)` shows both a desktop alert and an in-app notice and is independent of the Lua permission. To configure notifications:
 
 1. Press **Esc**
-2. Choose **Display & Behavior**, then **Notifications**
+2. Choose **Behavior**, then **Notifications**
 3. Turn on **Allow Script Notifications** if Lua modes should be allowed to send notifications. It is off by default and controls both their desktop alerts and in-app notices; built-in threshold and pattern notifications still work independently
 4. Choose whether notifications play the operating system's default sound
 5. Set a **health-below** threshold (on by default, at 25) or a **fatigue-below** threshold (off by default, at 10)
