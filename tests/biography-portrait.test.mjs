@@ -25,10 +25,10 @@ test("portrait creation is restricted to slug-derived image path", async () => {
 test("portrait creation does not overwrite an existing image", async () => {
   const original = globalThis.fetch;
   let count = 0;
-  globalThis.fetch = async () => { count++; return { status: 200, ok: true }; };
+  globalThis.fetch = async () => { count++; return { status: 200, ok: true, json: async () => ({ sha: "a".repeat(40) }) }; };
   try {
-    assert.equal((await publishPortrait("fake-token", "bio_example", validImage)).status, "exists");
-    assert.equal(count, 1);
+    assert.equal((await publishPortrait("fake-token", "bio_example", validImage)).status, "updated");
+    assert.equal(count, 2);
   } finally { globalThis.fetch = original; }
 });
 
