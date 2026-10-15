@@ -85,6 +85,9 @@ You dart forward, driving a rapid jab into a tall Kelestian scout with your long
 *against prone target:*
 You dart forward, driving a rapid jab into a young brute with your alanti dagger! Dropping your weight over the prone a young brute, you plunge your alanti dagger directly down into his exposed neck!  Critical Hit! Firm thrust to the neck.
 
+*against kneeling target:*
+You dart forward, driving a rapid jab into an old ugly slave with your single-edged knife! Stepping around the kneeling an old ugly slave, you drive a vicious side thrust with your single-edged knife straight into his exposed neck! He suffers a faint wound to his neck.
+
 </div>
 
 ### Dual Daggers Overhead Strike  *dstrike <target>* {#Strike}
