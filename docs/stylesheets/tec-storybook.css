@@ -110,3 +110,16 @@
     max-width:100%;
   }
 }
+
+/* v5: ultrawide sizing — earlier 1100px cap was still the limiting factor. */
+@media(min-width:1300px){
+  .md-typeset .tec-storybook{
+    width:min(100%, 1600px);
+    max-width:1600px;
+    margin-inline:auto;
+  }
+  .md-typeset .tec-storybook__page{
+    width:100%;
+    max-width:115ch;
+  }
+}
