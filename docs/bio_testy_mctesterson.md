@@ -28,3 +28,4 @@ He did stuff in his history. and did some more stuff
 He's super testy if you test his patience. But he's really nice.
 
 ![Character portrait](/assets/uploads/bio_testy_mctesterson.png)
+<!-- Testing biography PR ownership warning -->
