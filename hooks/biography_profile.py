@@ -6,7 +6,8 @@ transformed. Legacy biographies and stored Markdown remain untouched.
 from html import escape
 import re
 
-PORTRAIT = re.compile(r'(?m)^!\\[Character portrait\\]\\((/assets/uploads/bio_[a-z0-9_]+\\.(?:png|jpg|webp))\\)\\s*(r"(?m)^## (Nationality|Appearance|Background & History|Organizations and Affiliations|Additional Details)\s*$")
+PORTRAIT = re.compile(r'(?m)^!\[Character portrait\]\((/assets/uploads/bio_[a-z0-9_]+\.(?:png|jpg|webp))\)\s*$')
+HEADING = re.compile(r"(?m)^## (Nationality|Appearance|Background & History|Organizations and Affiliations|Additional Details)\s*$")
 LABELS = {
     "Nationality": "Nationality",
     "Appearance": "Appearance",
