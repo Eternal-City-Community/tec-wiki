@@ -1,35 +1,62 @@
 name: Protect Player Biographies
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened, ready_for_review]
     branches: [main]
 
 permissions:
   contents: read
+  pull-requests: write
 
 jobs:
   protect-player-biographies:
-    name: Block biography changes via pull requests
+    name: Review player biography changes
     runs-on: ubuntu-latest
     steps:
-      - name: Check out proposed changes
-        uses: actions/checkout@v4
+      - name: Flag biography and portrait changes
+        uses: actions/github-script@v7
         with:
-          fetch-depth: 0
-          persist-credentials: false
-
-      - name: Reject direct changes to player-managed biographies
-        env:
-          BASE_SHA: ${{ github.event.pull_request.base.sha }}
-          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
-        run: |
-          set -euo pipefail
-          git cat-file -e "${BASE_SHA}^{commit}"
-          git cat-file -e "${HEAD_SHA}^{commit}"
-          git diff --name-only --no-renames "$BASE_SHA" "$HEAD_SHA" -- docs/ > /tmp/tec-pr-docs-changed.txt
-          if grep -E '^docs/bio_[a-z0-9_]+\.md$|^docs/assets/uploads/bio_[a-z0-9_]+\.(png|jpg|jpeg|webp)$' /tmp/tec-pr-docs-changed.txt; then
-            echo "::error::Player-managed biography files and portraits cannot be modified through a pull request. Use /edit-bio/ or contact a wiki administrator for a verified exception."
-            exit 1
-          fi
-          echo "No player-managed biography or portrait changes detected."
+          script: |
+            const pr = context.payload.pull_request;
+            const files = await github.paginate(github.rest.pulls.listFiles, {
+              ...context.repo, pull_number: pr.number, per_page: 100
+            });
+            const protectedFile = /^docs\/bio_[a-z0-9_]+\.md$|^docs\/assets\/uploads\/bio_[a-z0-9_]+\.(?:png|jpg|jpeg|webp)$/;
+            const affected = files.filter(f => protectedFile.test(f.filename) ||
+              (f.previous_filename && protectedFile.test(f.previous_filename)));
+            const marker = '<!-- tec-biography-pr-review -->';
+            const comments = await github.paginate(github.rest.issues.listComments, {
+              ...context.repo, issue_number: pr.number, per_page: 100
+            });
+            const existing = comments.find(c => c.user?.type === 'Bot' && c.body?.includes(marker));
+            if (!affected.length) {
+              if (existing) await github.rest.issues.deleteComment({
+                ...context.repo, comment_id: existing.id
+              });
+              core.info('No player biography changes in this PR.');
+              return;
+            }
+            const body = [
+              marker,
+              '⚠️ **Player biography ownership review required**',
+              '',
+              'This pull request changes player-managed biography files or portraits:',
+              ...affected.map(f => '- ' + f.filename),
+              '',
+              '**Maintainers:** Do not merge until you independently verify the character owner authorized these changes, or a wiki administrator explicitly approves an exception. A GitHub account is not proof of in-game character ownership.',
+              '',
+              'Players should normally use [Edit Bio](https://tec-wiki.com/edit-bio/) with their private editing code. Never request or post editing codes in this PR.',
+              '',
+              'This is a review warning, not automatic ownership verification.'
+            ].join('\n');
+            if (existing) {
+              await github.rest.issues.updateComment({
+                ...context.repo, comment_id: existing.id, body
+              });
+            } else {
+              await github.rest.issues.createComment({
+                ...context.repo, issue_number: pr.number, body
+              });
+            }
+            core.warning('Player biography changes require manual ownership review.');
