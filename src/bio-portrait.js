@@ -40,3 +40,62 @@ export async function publishPortrait(token, slug, image) {
   if (response.status !== (existingSha ? 200 : 201)) throw new Error("Unable to publish portrait");
   return { status: existingSha ? "updated" : "created", path: "/assets/uploads/" + file };
 }
+
+/**
+ * Commit portrait and biography reference together. A rejected ref update
+ * leaves no image file on main (unreferenced Git objects are harmless).
+ * The caller must verify the owner's editing code before invoking this.
+ */
+export async function publishPortraitAtomic(token, slug, image, originalMarkdown, expectedSha) {
+  if (!/^bio_[a-z0-9]+(?:_[a-z0-9]+)*$/.test(slug) || slug.length > 74 ||
+      !/^[a-f0-9]{40}$/.test(expectedSha || "") ||
+      typeof originalMarkdown !== "string") throw new Error("Invalid portrait update");
+  const { biographyWithUploadedPortrait } = await import("./bio-validation.js");
+  const path = "docs/assets/uploads/" + slug + "." + image.extension;
+  const publicPath = "/assets/uploads/" + slug + "." + image.extension;
+  const markdown = biographyWithUploadedPortrait(originalMarkdown, slug, publicPath);
+  const headers = { authorization: "Bearer " + token, accept: "application/vnd.github+json",
+    "content-type": "application/json", "user-agent": "TEC-Wiki" };
+  const repoApi = "https://api.github.com/repos/Eternal-City-Community/tec-wiki/";
+  async function request(method, endpoint, body) {
+    const response = await fetch(repoApi + endpoint, {
+      method, headers, ...(body === undefined ? {} : { body: JSON.stringify(body) })
+    });
+    if (!response.ok) {
+      if (response.status === 409 || response.status === 422) return null;
+      throw new Error("GitHub portrait transaction failed");
+    }
+    return response.json();
+  }
+  // Snapshot main, and ensure the biography revision has not changed.
+  const ref = await request("GET", "git/ref/heads/main");
+  const head = ref?.object?.sha;
+  if (!/^[a-f0-9]{40}$/.test(head || "")) throw new Error("Unable to read main");
+  const existing = await request("GET", "contents/docs/" + slug + ".md?ref=" + head);
+  if (!existing || existing.sha !== expectedSha) return { status: "conflict" };
+  const commit = await request("GET", "git/commits/" + head);
+  if (!commit?.tree?.sha) throw new Error("Unable to read repository tree");
+  const blob = await request("POST", "git/blobs", { content: image.base64, encoding: "base64" });
+  if (!blob?.sha) throw new Error("Unable to stage portrait");
+  const entries = [
+    { path, mode: "100644", type: "blob", sha: blob.sha },
+    { path: "docs/" + slug + ".md", mode: "100644", type: "blob", content: markdown }
+  ];
+  // Remove the old image if its extension changed, in the SAME commit.
+  const old = originalMarkdown.match(/^!\[Character portrait\]\(\/assets\/uploads\/(bio_[a-z0-9_]+\.(?:png|jpg|webp))\)$/m);
+  if (old && old[1].startsWith(slug + ".") && old[1] !== slug + "." + image.extension) {
+    const oldPath = "docs/assets/uploads/" + old[1];
+    const oldFile = await request("GET", "contents/" + oldPath + "?ref=" + head);
+    if (oldFile?.sha) entries.push({ path: oldPath, mode: "100644", type: "blob", sha: null });
+  }
+  const tree = await request("POST", "git/trees", { base_tree: commit.tree.sha, tree: entries });
+  if (!tree?.sha) return { status: "conflict" };
+  const next = await request("POST", "git/commits", {
+    message: "Update character portrait " + slug, tree: tree.sha, parents: [head]
+  });
+  if (!next?.sha) return { status: "conflict" };
+  // Non-force update: concurrent commits cannot be silently overwritten.
+  const updated = await request("PATCH", "git/refs/heads/main", { sha: next.sha, force: false });
+  if (!updated) return { status: "conflict" };
+  return { status: "updated", path: publicPath, commit: next.sha };
+}
