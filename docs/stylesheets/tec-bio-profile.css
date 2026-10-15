@@ -1,6 +1,6 @@
 /* Profile presentation for newly submitted character biographies. */
-body:has(.tec-bio-profile) .md-content__inner{max-width:1080px}
-.md-typeset .tec-bio-profile{max-width:940px;margin:1rem 0 1.6rem;overflow:hidden;border:1px solid #928669;border-radius:12px;background:#e2dbba;box-shadow:0 3px 14px #3f301921;color:#352f22;font-size:.78rem;line-height:1.6}
+body:has(.tec-bio-profile) .md-content__inner{max-width:none}
+.md-typeset .tec-bio-profile{width:100%;max-width:none;margin:1rem 0 1.6rem;overflow:hidden;border:1px solid #928669;border-radius:12px;background:#e2dbba;box-shadow:0 3px 14px #3f301921;color:#352f22;font-size:.78rem;line-height:1.6}
 .md-typeset .tec-bio-profile *{box-sizing:border-box}
 .md-typeset .tec-bio-profile__hero{position:relative;padding:1.4rem 1.5rem;border-bottom:1px solid #b9aa83;background:#f6efd3}
 .md-typeset .tec-bio-profile__eyebrow{font-size:.62rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#6c654e}
@@ -59,4 +59,15 @@ body:has(.tec-bio-profile) .md-content__inner{max-width:1080px}
 @media(max-width:680px){
   .md-typeset .tec-bio-profile__content:has(> .tec-bio-profile__portrait){grid-template-columns:1fr}
   .md-typeset .tec-bio-profile__content:has(> .tec-bio-profile__portrait) > .tec-bio-profile__card{grid-column:1/-1}
+}
+
+/* Let biographies use the available desktop reading area instead of a narrow fixed card. */
+@media(min-width:1100px){
+  body:has(.tec-bio-profile) .md-main__inner .md-content{min-width:0;max-width:none}
+  .md-typeset .tec-bio-profile__content:has(> .tec-bio-profile__portrait){
+    grid-template-columns:repeat(2,minmax(0,1fr)) minmax(180px,240px);
+    gap:1.2rem;
+  }
+  .md-typeset .tec-bio-profile__content{gap:1.2rem;padding:1.2rem}
+  .md-typeset .tec-bio-profile__card{padding:1.2rem 1.4rem}
 }
