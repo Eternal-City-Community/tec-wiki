@@ -25,6 +25,8 @@
 
   function altText(path) {
     var name = decodeURIComponent(path.split("/").pop() || "").replace(/\.[a-z0-9]+$/i, "");
+    // Names like "f3847e60d44a1cec725613bf618591bb" or "IMG_2041" say nothing.
+    if (/^[0-9a-f]{12,}$/i.test(name) || /^(img|image|screenshot|dsc|pxl)?[-_ ]?\d+$/i.test(name)) return "Image";
     return name.replace(/[-_]+/g, " ").replace(/[\[\]]/g, "").trim() || "Image";
   }
 
