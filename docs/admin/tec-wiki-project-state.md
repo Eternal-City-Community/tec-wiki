@@ -280,3 +280,10 @@ User-reported issues and fixes on 2026-10-01:
 - Added opt-in `python tools/profile_build.py` to profile MkDocs CPU time without modifying production build behavior.
 - Historical migration audits are manual and read-only. Legacy migration repair/rollback workflows are manual-only to avoid unintended changes and extra Cloudflare deployments.
 - No Wikidot assets or gameplay pages were changed.
+
+### 2026-10-16 intentional red-link audit policy
+
+- Missing wiki pages are **intentional Wikidot-style red links**, not broken content. `docs/assets/data/missing-pages.json` enumerates missing slugs; `docs/javascripts/tec-content.js` styles matching links and sends editors to `/admin/#/collections/pages/new`. Preserve this behavior. Previous migration removed empty placeholder Markdown pages to make red links work.
+- Do not automatically rewrite red links to nearby pages, remove them, or create empty Markdown stubs merely to silence validation. Some are planned biography, combat, lore and hunting-ground pages.
+- `tools/check_wiki_integrity.py` now reports missing wiki-page references separately as informational; checks broken redirects, missing assets, malformed destinations, manifest drift, and existing structural issues as actual findings. `--strict` fails only on actual issues. Validator remains informational until existing legitimate issues are triaged.
+- `tests/test_wiki_integrity.py` checks intentional missing-page behavior, manifest coverage, stale manifest entries, broken assets/redirects, and the red-link editor JavaScript contract. Run with `python -m unittest discover -s tests -p 'test_wiki_integrity.py'`.

@@ -22,7 +22,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Audit wiki integrity (read-only)
         run: python tools/check_wiki_integrity.py --max-report 80
-      - name: Compile Python hooks
+      - name: Test wiki red-link and integrity rules\n        run: python -m unittest discover -s tests -p 'test_wiki_integrity.py'\n      - name: Compile Python hooks
         run: python -m compileall -q hooks
       - name: Check JavaScript syntax
         run: |
