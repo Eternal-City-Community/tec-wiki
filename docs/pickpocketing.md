@@ -244,3 +244,11 @@ As simple as it sounds, you lift a gladius from your target's scabbard.
 [Success: 56, Roll: 5] You reach out to grab hold of an a retalq gladius, but totally miss your mark and nearly fall down.
 
 </div>
+
+### Silent Slip {#Silent-Slip}
+
+*Find out in game (FOIG).* Further details are intentionally left for players to discover in game.
+
+### Silent Draw {#Silent-Draw}
+
+*Find out in game (FOIG).* Further details are intentionally left for players to discover in game.
