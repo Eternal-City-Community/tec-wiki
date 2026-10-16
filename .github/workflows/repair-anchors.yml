@@ -1,10 +1,6 @@
 name: Repair internal anchors
 
 on:
-  push:
-    paths:
-      - "tools/repair_internal_anchors.py"
-      - ".github/workflows/repair-anchors.yml"
   workflow_dispatch:
 
 permissions:

@@ -1,9 +1,7 @@
 name: Organize CMS pages
 
 on:
-  push:
-    paths:
-      - ".github/workflows/organize-cms.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write

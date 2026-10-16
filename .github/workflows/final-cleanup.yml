@@ -1,10 +1,7 @@
 name: Final migration cleanup
 
 on:
-  push:
-    paths:
-      - "tools/final_cleanup.py"
-      - ".github/workflows/final-cleanup.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write

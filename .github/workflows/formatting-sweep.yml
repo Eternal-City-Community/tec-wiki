@@ -1,10 +1,7 @@
 name: Site formatting sweep
 
 on:
-  push:
-    paths:
-      - "tools/fix_formatting_artifacts.py"
-      - ".github/workflows/formatting-sweep.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write

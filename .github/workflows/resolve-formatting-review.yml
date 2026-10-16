@@ -1,10 +1,7 @@
 name: Resolve formatting review
 
 on:
-  push:
-    paths:
-      - "tools/resolve_formatting_review.py"
-      - ".github/workflows/resolve-formatting-review.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write

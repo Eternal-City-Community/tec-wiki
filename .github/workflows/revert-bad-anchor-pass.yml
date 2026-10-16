@@ -1,9 +1,7 @@
 name: Revert unsafe anchor repair
 
 on:
-  push:
-    paths:
-      - ".github/workflows/revert-bad-anchor-pass.yml"
+  workflow_dispatch:
 
 permissions:
   contents: write

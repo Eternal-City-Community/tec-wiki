@@ -2,10 +2,6 @@ name: Prepare pages for CMS
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "tools/add_cms_frontmatter.py"
-      - ".github/workflows/prepare-cms.yml"
 
 permissions:
   contents: write
