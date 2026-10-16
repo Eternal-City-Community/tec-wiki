@@ -637,3 +637,88 @@ body .md-content .md-typeset .tec-storybook .tec-storybook__page h2.tec-storyboo
   line-height:1.35 !important;
   text-align:center !important;
 }
+
+/* Manuscript frame refinement — reference-inspired engraved corners and rules.
+   Scoped to the storybook prototype; no changes to ordinary wiki articles. */
+.md-typeset .tec-storybook {
+  border:5px solid #38220f;
+  box-shadow:
+    0 0 0 2px #cda054,0 0 0 4px #563515,
+    inset 0 0 0 2px #f3d69b,
+    -5px 4px 0 #65401f,0 16px 28px #2014076b;
+}
+.md-typeset .tec-storybook__top {
+  border-bottom:5px double #c59646;
+  box-shadow:inset 0 0 0 2px #b88b45,inset 0 0 0 5px #291a11,inset 0 0 20px #0b0807a8;
+}
+.md-typeset .tec-storybook__sheet {
+  border-left:8px double #805323;
+  border-right:8px double #805323;
+  box-shadow:inset 0 0 0 3px #dfb875,inset 0 0 0 6px #69451e,
+    inset 0 0 34px #7045185e;
+}
+.md-typeset .tec-storybook__sheet:before,
+.md-typeset .tec-storybook__sheet:after {
+  width:clamp(105px,12vw,190px);
+  height:clamp(105px,12vw,190px);
+  opacity:.86;
+  filter:sepia(.55) contrast(1.45) brightness(.76);
+}
+.md-typeset .tec-storybook__sheet:before {top:11px;left:11px}
+.md-typeset .tec-storybook__sheet:after {top:11px;right:11px}
+.md-typeset .tec-storybook__nav {
+  border-top:5px double #92652f;
+  padding-top:2.4rem;
+  box-shadow:inset 0 3px #f6dba6,inset 0 0 0 3px #a67a3d,inset 0 14px 24px #79512a26;
+}
+/* A compact etched ornament above the page dots, like a printer's flourish. */
+.md-typeset .tec-storybook__nav:before {
+  content:"";
+  position:absolute;
+  left:50%;
+  top:.55rem;
+  bottom:auto;
+  width:220px;
+  height:22px;
+  transform:translateX(-50%);
+  background:url("../assets/storybook-divider.svg") center/contain no-repeat;
+  opacity:.85;
+  filter:none;
+  pointer-events:none;
+}
+.md-typeset .tec-storybook__nav:after {
+  width:clamp(65px,8vw,120px);
+  height:clamp(65px,8vw,120px);
+  opacity:.55;
+  filter:sepia(.5) contrast(1.35) brightness(.75);
+}
+/* Heading ornaments are a separate line, not the wiki's colored h2 banner. */
+body .md-content .md-typeset .tec-storybook .tec-storybook__page h2.tec-storybook__chapter-title {
+  position:relative !important;
+  border-bottom:0 !important;
+  padding-bottom:1.7em !important;
+  margin-bottom:1.15em !important;
+}
+body .md-content .md-typeset .tec-storybook .tec-storybook__page h2.tec-storybook__chapter-title:after {
+  content:"";
+  display:block;
+  position:absolute;
+  bottom:0;
+  left:50%;
+  transform:translateX(-50%);
+  width:min(80%,340px);
+  height:24px;
+  background:url("../assets/storybook-divider.svg") center/contain no-repeat;
+  opacity:.83;
+}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook__sheet {border-left-width:4px;border-right-width:4px}
+  .md-typeset .tec-storybook__sheet:before,
+  .md-typeset .tec-storybook__sheet:after {width:74px;height:74px;opacity:.5}
+  .md-typeset .tec-storybook__nav {padding-top:2rem}
+  .md-typeset .tec-storybook__nav:before {width:130px;height:17px;top:.4rem}
+  .md-typeset .tec-storybook__nav:after {width:48px;height:48px;opacity:.35}
+}
+@media print {
+  .md-typeset .tec-storybook__nav:before {display:none}
+}
