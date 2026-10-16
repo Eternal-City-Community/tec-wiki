@@ -1,153 +1,269 @@
-/* Isolated prototype: never style ordinary wiki pages. */
-.md-typeset .tec-storybook{--book-ink:#30291e;--book-gold:#806029;max-width:1050px;margin:1.25rem auto 2rem;color:var(--book-ink)}
-.md-typeset .tec-storybook__top{display:flex;justify-content:space-between;align-items:center;gap:1rem;padding:.75rem 1rem;background:#272c26;color:#f2e2b8;border:1px solid #907447;border-radius:10px 10px 0 0}
-.md-typeset .tec-storybook__counter{font-family:Georgia,serif;font-size:1.05rem;letter-spacing:.04em}
-.md-typeset .tec-storybook__sheet{position:relative;min-height:420px;padding:clamp(1.25rem,4vw,3rem);border:9px solid #725431;border-radius:0 0 12px 12px;box-shadow:inset 0 0 0 2px #caa66b,0 12px 28px #20170940;background:radial-gradient(ellipse at 50% 15%,#fff7dc 0%,#f3e4c2 66%,#e2cba0 100%);color:var(--book-ink)}
-.md-typeset .tec-storybook__sheet:before,.md-typeset .tec-storybook__sheet:after{content:"❧";position:absolute;color:#a78651;font-size:1.6rem;pointer-events:none}
-.md-typeset .tec-storybook__sheet:before{top:.4rem;left:.65rem}
-.md-typeset .tec-storybook__sheet:after{bottom:.4rem;right:.65rem;transform:rotate(180deg)}
-.md-typeset .tec-storybook__page{max-width:72ch;margin:auto;font-family:Georgia,"Times New Roman",serif;font-size:clamp(.9rem,1.15vw,1.05rem);line-height:1.85;overflow-wrap:anywhere}
-.md-typeset .tec-storybook__page[hidden]{display:none!important}
-.md-typeset .tec-storybook__page h2,.md-typeset .tec-storybook__page h3{color:#49381f;font-family:Georgia,serif;border-bottom:1px solid #bfa779;padding-bottom:.4rem}
-.md-typeset .tec-storybook__page p,.md-typeset .tec-storybook__page li{color:#30291e}
-.md-typeset .tec-storybook__page a{color:#6a4b20}
-.md-typeset .tec-storybook__nav{display:flex;align-items:center;justify-content:space-between;gap:.7rem;padding:1rem 0}
-.md-typeset .tec-storybook button{cursor:pointer;background:linear-gradient(#a78347,#765524);color:#fff5da;border:1px solid #6c4b20;border-radius:6px;padding:.55rem .9rem;font:600 .85rem Georgia,serif}
-.md-typeset .tec-storybook button:hover:not(:disabled){filter:brightness(1.1)}
-.md-typeset .tec-storybook button:disabled{opacity:.45;cursor:not-allowed}
-.md-typeset .tec-storybook button:focus-visible,.md-typeset .tec-storybook select:focus-visible{outline:3px solid #246bb0;outline-offset:3px}
-.md-typeset .tec-storybook__nav select{max-width:55%;min-width:0;padding:.5rem;border:1px solid #9d8154;border-radius:5px;background:#f7ebce;color:#352b1d;font-size:.8rem}
-.md-typeset .tec-storybook--all .tec-storybook__page+ .tec-storybook__page{margin-top:2rem;padding-top:2rem;border-top:2px solid #bda16d}
-.md-typeset .tec-storybook-note{padding:.7rem 1rem;border-left:3px solid #93723b;background:#f6e9c9;color:#382e20}
-@media(max-width:700px){.md-typeset .tec-storybook__sheet{padding:1.25rem;border-width:5px;min-height:280px}.md-typeset .tec-storybook__nav{flex-wrap:wrap}.md-typeset .tec-storybook__nav select{order:-1;width:100%;max-width:100%}.md-typeset .tec-storybook__page{font-size:.95rem;line-height:1.65}}
-@media(prefers-reduced-motion:reduce){.md-typeset .tec-storybook{scroll-behavior:auto}}
-@media print{.md-typeset .tec-storybook__top,.md-typeset .tec-storybook__nav{display:none!important}.md-typeset .tec-storybook__page{display:block!important;break-after:page}.md-typeset .tec-storybook__sheet{box-shadow:none;border:0}}
-
-/* Storybook v2: stable reader height, centered folio, and direct page markers. */
-.md-typeset .tec-storybook{width:min(100%,1100px);max-width:1100px;margin:.75rem auto 1.5rem;scroll-margin-top:4rem}
-.md-typeset .tec-storybook__top{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;gap:.75rem;padding:.55rem 1rem}
-.md-typeset .tec-storybook__counter{grid-column:2;display:flex;align-items:center;justify-content:center;gap:.8rem;white-space:nowrap;font-size:1.15rem;font-weight:700}
-.md-typeset .tec-storybook__counter:before,.md-typeset .tec-storybook__counter:after{content:"❧ ───";font-size:1rem;color:#d3b77e;letter-spacing:.04em}
-.md-typeset .tec-storybook__counter:after{transform:scaleX(-1)}
-.md-typeset .tec-storybook__actions{grid-column:3;display:flex;align-items:center;justify-content:flex-end;gap:.6rem;min-width:0}
-.md-typeset .tec-storybook__actions select{min-width:0;max-width:185px;padding:.5rem;border:1px solid #b49762;border-radius:5px;background:#f4e4bd;color:#30291e;font-size:.8rem}
-.md-typeset .tec-storybook__sheet{height:clamp(360px,calc(100dvh - 245px),920px);min-height:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-color:#b69a6c #efdfbb;scrollbar-width:thin}
-.md-typeset .tec-storybook__page{max-width:82ch}
-.md-typeset .tec-storybook__nav{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:1rem;padding:.8rem .15rem}
-.md-typeset .tec-storybook__dots{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:.55rem;min-width:0}
-.md-typeset .tec-storybook__dots[hidden]{display:none}
-.md-typeset .tec-storybook .tec-storybook__dot{width:13px;height:13px;min-width:13px;padding:0;border-radius:50%;border:1px solid #755525;background:#dfcba1;box-shadow:inset 0 1px 2px #6b502844;transition:background .12s,transform .12s}
-.md-typeset .tec-storybook .tec-storybook__dot.is-active{background:#4a5b35;border-color:#273b24;box-shadow:0 0 0 2px #d5b779;transform:scale(1.13)}
-.md-typeset .tec-storybook .tec-storybook__dot:hover{background:#a17a40}
-.md-typeset .tec-storybook--all .tec-storybook__sheet{height:auto;max-height:none;overflow:visible}
-@media(max-width:1000px){
-  .md-typeset .tec-storybook__top{grid-template-columns:1fr;justify-items:center}
-  .md-typeset .tec-storybook__counter,.md-typeset .tec-storybook__actions{grid-column:1}
-  .md-typeset .tec-storybook__counter{grid-row:1}
-  .md-typeset .tec-storybook__actions{grid-row:2;justify-content:center}
-  .md-typeset .tec-storybook__sheet{height:clamp(340px,calc(100dvh - 260px),800px)}
-}
-@media(max-width:600px){
-  .md-typeset .tec-storybook__counter{font-size:1rem}
-  .md-typeset .tec-storybook__counter:before,.md-typeset .tec-storybook__counter:after{content:"❧";font-size:.9rem}
-  .md-typeset .tec-storybook__nav{gap:.4rem}
-  .md-typeset .tec-storybook__dots{gap:.4rem}
-  .md-typeset .tec-storybook .tec-storybook__dot{width:11px;height:11px;min-width:11px}
-  .md-typeset .tec-storybook__sheet{height:clamp(320px,calc(100dvh - 270px),720px)}
-}
-@media print{.md-typeset .tec-storybook__sheet{height:auto!important;overflow:visible!important}}
-
-/* v3: Let the document scroll naturally; no nested scrollbar in paged view. */
-.md-typeset .tec-storybook__sheet{
-  height:auto;
-  min-height:clamp(340px,calc(100dvh - 275px),780px);
-  max-height:none;
-  overflow:visible;
-  overscroll-behavior:auto;
-}
-@media(max-width:1000px){
-  .md-typeset .tec-storybook__sheet{
-    height:auto;
-    min-height:clamp(300px,calc(100dvh - 300px),650px);
-    overflow:visible;
-  }
-}
-@media(max-width:600px){
-  .md-typeset .tec-storybook__sheet{
-    height:auto;
-    min-height:300px;
-    overflow:visible;
-  }
-}
-
-/* v4: stable, centered book width based on available reading area, not chapter length. */
-.md-typeset .tec-storybook{
+/* TEC storybook prototype — isolated to the reader and its test-page note.
+   The site theme, sidebar and ordinary wiki pages are intentionally unchanged. */
+.md-typeset .tec-storybook {
+  --book-ink:#30291e;
+  --book-gold:#8d672e;
+  --book-line:#b58c4c;
   box-sizing:border-box;
   width:100%;
   max-width:1100px;
-  margin-inline:auto;
+  margin:1rem auto 2rem;
+  color:var(--book-ink);
+  border:7px solid #946c39;
+  border-radius:10px;
+  background:
+    radial-gradient(ellipse at 42% 18%,#fff9e9 0%,#f7ebd2 54%,#e8d1a6 100%);
+  box-shadow:inset 0 0 0 2px #d9b778,0 12px 28px #261b1040;
+  position:relative;
+  isolation:isolate;
 }
-.md-typeset .tec-storybook__page{
+@media(min-width:1300px) {
+  body:has(.tec-storybook) .md-content__inner {max-width:none}
+  body:has(.tec-storybook) .md-content {min-width:0;max-width:none}
+  .md-typeset .tec-storybook {max-width:1600px}
+}
+.md-typeset .tec-storybook:before,
+.md-typeset .tec-storybook:after {
+  content:"❦";
+  position:absolute;
+  z-index:1;
+  font-family:Georgia,serif;
+  font-size:2.3rem;
+  line-height:1;
+  color:#a47b40;
+  text-shadow:0 1px #fff5d7;
+  pointer-events:none;
+}
+.md-typeset .tec-storybook:before {top:10px;left:13px}
+.md-typeset .tec-storybook:after {top:10px;right:13px;transform:scaleX(-1)}
+.md-typeset .tec-storybook__top {
+  box-sizing:border-box;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);
+  align-items:center;
+  gap:.8rem;
+  padding:1.1rem clamp(2.5rem,5vw,5rem) .8rem;
+  background:transparent;
+  border:0;
+  border-radius:0;
+  color:#3d2d1a;
+}
+.md-typeset .tec-storybook__counter {
+  grid-column:2;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:.85rem;
+  white-space:nowrap;
+  font-family:Georgia,serif;
+  font-size:1.18rem;
+  font-weight:700;
+  color:#51391e;
+  letter-spacing:.035em;
+}
+.md-typeset .tec-storybook__counter:before,
+.md-typeset .tec-storybook__counter:after {
+  content:"❧ ───";
+  font-family:Georgia,serif;
+  font-size:.9rem;
+  color:#ad8547;
+}
+.md-typeset .tec-storybook__counter:after {transform:scaleX(-1)}
+.md-typeset .tec-storybook__actions {
+  grid-column:3;
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  gap:.5rem;
+  min-width:0;
+}
+.md-typeset .tec-storybook__actions select {
+  min-width:0;
+  max-width:185px;
+  padding:.4rem;
+  background:#f6ead1;
+  border:1px solid #b99b6c;
+  border-radius:4px;
+  color:#3d2d1a;
+  font-size:.8rem;
+}
+.md-typeset .tec-storybook__sheet {
+  box-sizing:border-box;
+  position:relative;
+  padding:clamp(1.4rem,3vw,3.2rem) clamp(1.5rem,5vw,5.5rem);
+  height:auto;
+  min-height:clamp(320px,calc(100dvh - 300px),650px);
+  max-height:none;
+  overflow:visible;
+  background:transparent;
+  border:0;
+  border-radius:0;
+  box-shadow:none;
+  color:var(--book-ink);
+}
+.md-typeset .tec-storybook__sheet:before,
+.md-typeset .tec-storybook__sheet:after {
+  content:"";
+  position:absolute;
+  width:70px;
+  height:70px;
+  opacity:.7;
+  pointer-events:none;
+  background:
+    radial-gradient(circle at 18px 18px,transparent 0 9px,#ad8547 10px 11px,transparent 12px),
+    linear-gradient(135deg,transparent 42%,#ad8547 43% 45%,transparent 46%),
+    linear-gradient(#ad8547,#ad8547) top left/65px 1px no-repeat,
+    linear-gradient(#ad8547,#ad8547) top left/1px 65px no-repeat;
+}
+.md-typeset .tec-storybook__sheet:before {top:0;left:14px}
+.md-typeset .tec-storybook__sheet:after {bottom:0;right:14px;transform:rotate(180deg)}
+.md-typeset .tec-storybook__page {
   box-sizing:border-box;
   width:100%;
   max-width:92ch;
-  margin-inline:auto;
+  margin:0 auto;
+  overflow-wrap:anywhere;
+  font-family:inherit;
+  font-size:inherit;
+  line-height:inherit;
+  letter-spacing:inherit;
 }
-@media(min-width:1300px){
-  body:has(.tec-storybook) .md-content__inner{
-    max-width:none;
-  }
-  body:has(.tec-storybook) .md-content{
-    min-width:0;
-    max-width:none;
-  }
-}
-@media(max-width:700px){
-  .md-typeset .tec-storybook{
-    max-width:100%;
-  }
-  .md-typeset .tec-storybook__page{
-    max-width:100%;
-  }
-}
-
-/* v5: ultrawide sizing — earlier 1100px cap was still the limiting factor. */
-@media(min-width:1300px){
-  .md-typeset .tec-storybook{
-    width:min(100%, 1600px);
-    max-width:1600px;
-    margin-inline:auto;
-  }
-  .md-typeset .tec-storybook__page{
-    width:100%;
-    max-width:115ch;
-  }
-}
-
-/* v6: Match the wiki's article typography; preserve only the book decoration. */
-.md-typeset .tec-storybook__page,
 .md-typeset .tec-storybook__page p,
 .md-typeset .tec-storybook__page li,
-.md-typeset .tec-storybook__page blockquote,
+.md-typeset .tec-storybook__page blockquote {
+  font-family:inherit;
+  font-size:inherit;
+  line-height:inherit;
+  color:var(--book-ink);
+}
 .md-typeset .tec-storybook__page h2,
 .md-typeset .tec-storybook__page h3,
 .md-typeset .tec-storybook__page h4 {
   font-family:inherit;
-  line-height:inherit;
-  letter-spacing:inherit;
+  color:#4d3820;
+  border-bottom:1px solid #cbb48a;
 }
-.md-typeset .tec-storybook__page {
-  font-size:inherit;
-  line-height:inherit;
+.md-typeset .tec-storybook__page a {color:#76501f}
+@media(min-width:1300px) {
+  .md-typeset .tec-storybook__page {max-width:115ch}
 }
-.md-typeset .tec-storybook__page h2,
-.md-typeset .tec-storybook__page h3,
-.md-typeset .tec-storybook__page h4 {
-  font-size:revert-layer;
+/* Invisible pages still occupy the same grid cell so the longest chapter
+   sets a stable parchment height. The content cannot be focused or clicked. */
+.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__sheet {
+  display:grid;
+  grid-template-columns:minmax(0,1fr);
+  align-content:start;
 }
-
-/* All chapters share one grid cell; tallest chapter determines stable book height. */
-.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__sheet { display:grid; grid-template-columns:minmax(0,1fr); }
-.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__page { grid-area:1 / 1; min-width:0; }
-.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__page[hidden] { display:block!important; visibility:hidden; pointer-events:none; }
-.md-typeset .tec-storybook--all .tec-storybook__sheet { display:block; }
+.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__page {
+  grid-area:1 / 1;
+  min-width:0;
+}
+.md-typeset .tec-storybook:not(.tec-storybook--all) .tec-storybook__page[hidden] {
+  display:block!important;
+  visibility:hidden;
+  pointer-events:none;
+}
+.md-typeset .tec-storybook--all .tec-storybook__sheet {display:block}
+.md-typeset .tec-storybook--all .tec-storybook__page + .tec-storybook__page {
+  margin-top:2rem;
+  padding-top:2rem;
+  border-top:1px solid #bda16d;
+}
+.md-typeset .tec-storybook__nav {
+  box-sizing:border-box;
+  display:grid;
+  grid-template-columns:auto minmax(0,1fr) auto;
+  align-items:center;
+  gap:1rem;
+  padding:.7rem clamp(1.2rem,3vw,3rem) 1.2rem;
+  border-top:1px solid #d6bc8e;
+}
+.md-typeset .tec-storybook button {
+  cursor:pointer;
+  border:1px solid #70491d;
+  border-radius:5px;
+  padding:.45rem .8rem;
+  color:#fff3d3;
+  background:linear-gradient(#b28a49,#805821);
+  box-shadow:inset 0 1px #f0d69e,0 2px 3px #5e452a33;
+  font:600 .85rem Georgia,serif;
+}
+.md-typeset .tec-storybook button:hover:not(:disabled) {filter:brightness(1.12)}
+.md-typeset .tec-storybook button:disabled {opacity:.4;cursor:not-allowed}
+.md-typeset .tec-storybook button:focus-visible,
+.md-typeset .tec-storybook select:focus-visible {
+  outline:3px solid #246bb0;
+  outline-offset:3px;
+}
+.md-typeset .tec-storybook__nav > button {
+  width:44px;
+  height:44px;
+  padding:0;
+  font-size:1.7rem;
+  line-height:1;
+}
+.md-typeset .tec-storybook__dots {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:.55rem;
+  min-width:0;
+}
+.md-typeset .tec-storybook__dots[hidden] {display:none}
+.md-typeset .tec-storybook .tec-storybook__dot {
+  box-sizing:border-box;
+  width:13px;
+  height:13px;
+  min-width:13px;
+  padding:0;
+  border:1px solid #76582d;
+  border-radius:50%;
+  background:#f4e6c8;
+  box-shadow:inset 0 1px 2px #60462033;
+}
+.md-typeset .tec-storybook .tec-storybook__dot.is-active {
+  background:#242b24;
+  border-color:#242b24;
+  box-shadow:0 0 0 2px #d6b77c;
+}
+.md-typeset .tec-storybook .tec-storybook__dot:hover {background:#ad884d}
+.md-typeset .tec-storybook-note {
+  padding:.7rem 1rem;
+  border-left:3px solid #93723b;
+  background:#f6e9c9;
+  color:#382e20;
+}
+@media(max-width:1000px) {
+  .md-typeset .tec-storybook__top {
+    grid-template-columns:1fr;
+    justify-items:center;
+    gap:.5rem;
+    padding:1.1rem 2rem .6rem;
+  }
+  .md-typeset .tec-storybook__counter,
+  .md-typeset .tec-storybook__actions {grid-column:1}
+  .md-typeset .tec-storybook__counter {grid-row:1}
+  .md-typeset .tec-storybook__actions {grid-row:2;justify-content:center}
+}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook {max-width:100%;border-width:4px}
+  .md-typeset .tec-storybook__page {max-width:100%}
+  .md-typeset .tec-storybook__sheet {min-height:300px;padding:1.6rem 1.25rem}
+  .md-typeset .tec-storybook__top {padding:1rem 1rem .5rem}
+  .md-typeset .tec-storybook__counter {font-size:1rem;gap:.35rem}
+  .md-typeset .tec-storybook__counter:before,
+  .md-typeset .tec-storybook__counter:after {content:"❧";font-size:.85rem}
+  .md-typeset .tec-storybook__nav {gap:.5rem;padding:.6rem .7rem 1rem}
+  .md-typeset .tec-storybook__nav > button {width:36px;height:38px}
+  .md-typeset .tec-storybook__dots {gap:.45rem}
+  .md-typeset .tec-storybook .tec-storybook__dot {width:11px;height:11px;min-width:11px}
+  .md-typeset .tec-storybook__sheet:before,
+  .md-typeset .tec-storybook__sheet:after {width:38px;height:38px;background-size:38px 1px,1px 38px}
+}
+@media print {
+  .md-typeset .tec-storybook {border:0;box-shadow:none}
+  .md-typeset .tec-storybook__top,.md-typeset .tec-storybook__nav {display:none!important}
+  .md-typeset .tec-storybook__sheet {display:block!important;min-height:0;padding:0}
+  .md-typeset .tec-storybook__page {display:block!important;visibility:visible!important;break-after:page}
+}
