@@ -1,14 +1,10 @@
 name: Audit migration content loss
 
 on:
-  push:
-    paths:
-      - "tools/audit_content_loss.py"
-      - ".github/workflows/audit-content-loss.yml"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   audit:
@@ -22,15 +18,3 @@ jobs:
           python-version: "3.13"
       - name: Compare original import to current pages
         run: python tools/audit_content_loss.py
-      - name: Commit audit report
-        run: |
-          git config user.name "tec-wiki-audit"
-          git config user.email "actions@users.noreply.github.com"
-          git add CONTENT_LOSS_AUDIT.md CONTENT_LOSS_AUDIT.json
-          if git diff --cached --quiet; then
-            echo "No report changes."
-          else
-            git commit -m "Audit migrated pages for content loss"
-            git pull --rebase origin main
-            git push
-          fi
