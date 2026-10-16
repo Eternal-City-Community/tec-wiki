@@ -575,3 +575,39 @@
   .md-typeset .tec-storybook__page {max-width:100%}
   .md-typeset .tec-storybook__sheet {padding-inline:1.15rem}
 }
+
+/* Balanced manuscript typography: CSS rem units previously enlarged body copy
+   too aggressively on this theme; use theme-relative em values instead. */
+.md-typeset .tec-storybook__page,
+.md-typeset .tec-storybook__page p,
+.md-typeset .tec-storybook__page li,
+.md-typeset .tec-storybook__page blockquote {
+  font-size:1em;
+  line-height:1.58;
+}
+.md-typeset .tec-storybook__page {max-width:88ch}
+.md-typeset .tec-storybook__page h2.tec-storybook__chapter-title {
+  font-size:1.65em;
+  line-height:1.25;
+  font-weight:700;
+  font-family:Georgia,serif;
+  color:#5a371a;
+  text-align:center;
+  margin:0 0 1.6em;
+  padding-bottom:.55em;
+  border-bottom:1px solid #b48b52;
+}
+.md-typeset .tec-storybook__sheet {
+  padding-block:clamp(2.25rem,3.2vw,3.75rem);
+  padding-inline:clamp(1.5rem,3.5vw,4rem);
+}
+@media(min-width:1300px) {
+  .md-typeset .tec-storybook__page {max-width:92ch}
+}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook__page,
+  .md-typeset .tec-storybook__page p,
+  .md-typeset .tec-storybook__page li,
+  .md-typeset .tec-storybook__page blockquote {font-size:1em;line-height:1.55}
+  .md-typeset .tec-storybook__sheet {padding:3rem 1.15rem 2rem}
+}
