@@ -3,5 +3,8 @@
   "type": "module",
   "scripts": {
     "test:bio": "node --test tests/*.test.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "4.151.0"
   }
 }
