@@ -34,6 +34,31 @@
     sheet.className = "tec-storybook__sheet";
     sheet.tabIndex = 0;
     sheet.setAttribute("aria-label", "Scrollable storybook page");
+    // Migrated player stories often use a plain-text first line as the chapter
+    // title. Promote it for presentation without editing the source Markdown.
+    // Only do this for later chapters; the introductory page is a preface.
+    pages.forEach((nodes, i) => {
+      if (i === 0 || nodes.some(n => /^H[2-6]$/.test(n.tagName))) return;
+      const first = nodes.find(n => n.nodeType === Node.ELEMENT_NODE);
+      if (!first || first.tagName !== "P") return;
+      const html = first.innerHTML.trim();
+      const text = first.textContent.trim();
+      const lines = html.split(/<br\\s*\\/?>/i);
+      if (!text || text.length > 90 || first.querySelector("img, a, code") || lines.length > 2) return;
+      const title = lines[0].replace(/<[^>]*>/g, "").trim();
+      if (!title || title.length > 75) return;
+      const heading = document.createElement("h2");
+      heading.className = "tec-storybook__chapter-title";
+      heading.textContent = title;
+      if (lines.length > 1 && lines[1].trim()) {
+        first.innerHTML = lines.slice(1).join("<br>");
+        first.before(heading);
+        nodes.splice(nodes.indexOf(first), 0, heading);
+      } else {
+        first.replaceWith(heading);
+        nodes[nodes.indexOf(first)] = heading;
+      }
+    });
     const sections = pages.map((nodes, i) => {
       const page = document.createElement("section");
       page.className = "tec-storybook__page";
