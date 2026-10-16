@@ -301,3 +301,131 @@
  width:50px;height:50px;font-size:2rem;opacity:.5;
  }
 }
+
+/* Illustrated storybook v2 — real botanical SVG ornament, weathered gilt,
+   leather-bound folio heading. Scoped to the existing prototype reader. */
+.md-typeset .tec-storybook {
+  border:6px solid #70471e;
+  border-radius:12px;
+  background:
+    radial-gradient(ellipse at 52% 22%,#fff4d8 0%,#f6e4bf 61%,#dfbf8d 100%);
+  box-shadow:0 0 0 2px #c69a4e,0 0 0 4px #49331c,0 18px 32px #20150b66,
+    inset 0 0 0 3px #dfb66c,inset 0 0 32px #70451e3d;
+}
+.md-typeset .tec-storybook:before,
+.md-typeset .tec-storybook:after {
+  content:none;
+  display:none;
+}
+.md-typeset .tec-storybook__top {
+  min-height:86px;
+  padding:1.15rem clamp(1.4rem,4vw,4rem);
+  background:
+    radial-gradient(ellipse at 38% 10%,#5b4836 0%,transparent 60%),
+    repeating-linear-gradient(127deg,transparent 0 9px,#d0a66a08 10px 11px,transparent 12px 20px),
+    linear-gradient(125deg,#211b17,#3b2e24 49%,#1b1917);
+  border-bottom:4px ridge #b78740;
+  border-radius:5px 5px 0 0;
+  box-shadow:inset 0 0 0 2px #86602c,inset 0 0 24px #0807059c,0 4px 8px #3a241d44;
+  color:#f0d49a;
+}
+.md-typeset .tec-storybook__counter {
+  color:#f1d39a;
+  font-family:Georgia,serif;
+  font-size:clamp(1.25rem,1.65vw,1.8rem);
+  text-shadow:0 2px 2px #000;
+}
+.md-typeset .tec-storybook__counter:before,
+.md-typeset .tec-storybook__counter:after {
+  content:"❧ ───";
+  font-size:clamp(.8rem,1vw,1.15rem);
+  color:#d6a34c;
+  text-shadow:0 1px 1px #090806;
+}
+.md-typeset .tec-storybook__actions select {
+  background:#f7e7c9;
+  border:2px solid #a67937;
+  box-shadow:0 2px 2px #0006;
+  color:#342416;
+}
+.md-typeset .tec-storybook__sheet {
+  padding:clamp(4rem,6vw,7rem) clamp(3rem,7vw,8rem);
+  background:
+    radial-gradient(circle at 15% 25%,#94653413 0 1px,transparent 2px) 0 0/37px 43px,
+    radial-gradient(circle at 65% 78%,#a56e3410 0 1px,transparent 2px) 0 0/53px 49px,
+    repeating-linear-gradient(27deg,#9c6c2d07 0 1px,transparent 1px 6px),
+    radial-gradient(ellipse at 48% 40%,#fff4d9 0%,#f6e4c1 63%,#dfc08f 100%);
+  border-left:3px solid #b98a47;
+  border-right:3px solid #b98a47;
+  box-shadow:inset 0 0 35px #81551d3b,inset 0 0 0 5px #e7c894,inset 0 0 0 7px #ad7e3d;
+}
+.md-typeset .tec-storybook__sheet:before,
+.md-typeset .tec-storybook__sheet:after {
+  content:"";
+  display:block;
+  position:absolute;
+  width:clamp(110px,14vw,230px);
+  height:clamp(110px,14vw,230px);
+  opacity:.82;
+  background:url("../assets/storybook-filigree.svg") center/contain no-repeat;
+  border:0;
+  border-radius:0;
+  text-shadow:none;
+  pointer-events:none;
+  z-index:1;
+}
+.md-typeset .tec-storybook__sheet:before {top:8px;left:8px;bottom:auto;transform:none}
+.md-typeset .tec-storybook__sheet:after {top:8px;right:8px;bottom:auto;transform:scaleX(-1)}
+.md-typeset .tec-storybook__page {position:relative;z-index:2}
+.md-typeset .tec-storybook__page h2,
+.md-typeset .tec-storybook__page h3,
+.md-typeset .tec-storybook__page h4 {
+  font-family:inherit;
+  color:#342416;
+  border-bottom:1px solid #a97b3a;
+  padding-bottom:.5rem;
+}
+.md-typeset .tec-storybook__page > p:first-child:not(:only-child) {
+  margin-top:0;
+}
+.md-typeset .tec-storybook__nav {
+  position:relative;
+  z-index:2;
+  padding:1rem clamp(1.5rem,5vw,5rem) 1.4rem;
+  background:
+    linear-gradient(#b88b4830,#f1dbb144),
+    radial-gradient(ellipse at 50% 10%,#f9e8c8,#e3c48e);
+  border-top:3px double #aa7b3d;
+  box-shadow:inset 0 5px 10px #8b5d2c1c;
+}
+.md-typeset .tec-storybook button {
+  background:linear-gradient(145deg,#cba25b 0%,#926426 45%,#644019 100%);
+  border:2px ridge #d5a65d;
+  box-shadow:inset 0 1px #ffe1a3,0 3px 4px #2b190c70;
+  color:#fff0d0;
+}
+.md-typeset .tec-storybook__nav > button {
+  border-radius:7px;
+  font-size:2rem;
+}
+.md-typeset .tec-storybook .tec-storybook__dot.is-active {
+  background:#27251e;
+  border-color:#201b15;
+}
+@media(max-width:1000px) {
+  .md-typeset .tec-storybook__top {padding:1rem 1.4rem}
+}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook {border-width:4px}
+  .md-typeset .tec-storybook__sheet {padding:4.4rem 1.2rem 3rem}
+  .md-typeset .tec-storybook__sheet:before,
+  .md-typeset .tec-storybook__sheet:after {width:95px;height:95px;opacity:.48}
+  .md-typeset .tec-storybook__counter {font-size:1.15rem}
+  .md-typeset .tec-storybook__nav {padding:.7rem .5rem 1rem}
+}
+@media print {
+  .md-typeset .tec-storybook__top {display:none!important}
+  .md-typeset .tec-storybook__sheet {background:white;box-shadow:none;border:0}
+  .md-typeset .tec-storybook__sheet:before,
+  .md-typeset .tec-storybook__sheet:after {display:none}
+}
