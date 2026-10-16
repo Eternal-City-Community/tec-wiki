@@ -37,6 +37,8 @@ def _page_title(meta, body, fallback):
 
 
 def _children_for(parent_slug, config):
+    if parent_slug in _children_cache:
+        return _children_cache[parent_slug]
     docs_dir = Path(config["docs_dir"])
     children = []
 
@@ -55,6 +57,7 @@ def _children_for(parent_slug, config):
 
     # Wikidot's order="name asc" sorts by page name, not displayed title.
     children.sort(key=lambda item: item[0].lower())
+    _children_cache[parent_slug] = children
     return children
 
 

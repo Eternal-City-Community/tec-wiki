@@ -1,9 +1,13 @@
 """Generate a reader-facing recent wiki changes feed from local Git history."""
 from datetime import datetime, timezone
 import json
+import logging
+import time
 from pathlib import Path
 import re
 import subprocess
+
+log = logging.getLogger("mkdocs.hooks.whats_new")
 
 MAX_DAYS = 90
 EXCLUDED = {"index.md", "whats-new.md", "page-history.md"}
@@ -19,6 +23,7 @@ def _title(path):
     return heading.group(1).strip() if heading else path.stem.replace("-", " ").title()
 
 def on_post_build(config, **kwargs):
+    started = time.perf_counter()
     repo = Path(config["config_file_path"]).resolve().parent
     docs = Path(config["docs_dir"]).resolve()
     site = Path(config["site_dir"]).resolve()
@@ -96,3 +101,4 @@ def on_post_build(config, **kwargs):
         "max_days": MAX_DAYS,
         "entries": entries,
     }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    log.info("What's New: generated %d entries in %.2fs", len(entries), time.perf_counter() - started)

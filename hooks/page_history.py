@@ -4,8 +4,12 @@ Writes site/assets/data/history/<slug>.json for the Page History page, so
 readers never depend on GitHub's rate-limited API.
 """
 import json
+import logging
+import time
 from pathlib import Path
 import subprocess
+
+log = logging.getLogger("mkdocs.hooks.page_history")
 
 EXCLUDED = {"whats-new.md", "page-history.md"}
 # A revision whose diff is larger than this (e.g. the migration import of a
@@ -44,6 +48,7 @@ def _file_patches(body):
 
 
 def on_post_build(config, **kwargs):
+    started = time.perf_counter()
     repo = Path(config["config_file_path"]).resolve().parent
     docs = Path(config["docs_dir"]).resolve()
     out_dir = Path(config["site_dir"]).resolve() / "assets" / "data" / "history"
@@ -92,3 +97,4 @@ def on_post_build(config, **kwargs):
             json.dumps({"page": slug, "revisions": revisions}, ensure_ascii=False) + "\n",
             encoding="utf-8",
         )
+    log.info("Page history: generated %d page histories in %.2fs", len(pages), time.perf_counter() - started)

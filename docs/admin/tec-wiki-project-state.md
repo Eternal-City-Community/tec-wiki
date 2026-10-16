@@ -9,7 +9,7 @@ Future TEC Wiki chats should read this file, inspect the relevant current source
 - Repository: `Eternal-City-Community/tec-wiki`
 - Default branch: `main`
 - Primary wiki source: `docs/`
-- Production site generator: Zensical 0.0.66 in MkDocs-compatibility mode (configuration remains in `mkdocs.yml`)
+- Production site generator: MkDocs Material (`mkdocs build --clean` in `wrangler.jsonc`; configuration in `mkdocs.yml`)
 - Production site: https://tec-wiki.com/
 
 ## Standing Workflow Rules
@@ -254,3 +254,11 @@ User-reported issues and fixes on 2026-10-01:
 - **2026-10-15 player-fiction storybook proof of concept:** User requested a separate, working low-fantasy parchment/gold storybook page using the existing `/journey-rock-valley/` content, **without altering the original** and **without creating 20 individual editor pages**. Added `docs/journey-rock-valley-storybook.md` (`329dcb3`), a single Markdown document copied from the original with its `---` chapter separators; `docs/javascripts/tec-storybook.js` (`d041d82`) turns separators into paged reader panels with Previous/Next, chapter selector, keyboard arrows, all-pages mode, and print-friendly fallback; scoped CSS `docs/stylesheets/tec-storybook.css` (`ea81c2f`); assets registered in `mkdocs.yml` (`570c6aa`). Prototype URL `/journey-rock-valley-storybook/`. **No global visual redesign and no CMS submission form or automatic author pagination implemented.** Review responsive behavior and Cloudflare deployment before extending to other stories. Preserve original story text and page.
 
 - **2026-10-15 storybook visual implementation:** User explicitly requested implementing the illustrated mockup on the **actual** `/journey-rock-valley-storybook/` prototype, not generating another image. Added hand-authored scalable botanical filigree asset `docs/assets/storybook-filigree.svg` (`5e1eeef`), applied dark leather-textured folio header, gold ornaments, weathered parchment and four corner assets to scoped `docs/stylesheets/tec-storybook.css` (`1683093`, `7b22ae5`). No sitewide redesign. Preserve normal wiki body typography, single Markdown source and original `/journey-rock-valley/`, responsive sizing, longest-chapter height stability, no inner scrollbar, chapter select, page dots and All pages mode. **Live browser appearance not yet verified.**
+
+### 2026-10-16 build performance audit
+
+- Production is MkDocs Material, not Zensical; `wrangler.jsonc` runs `mkdocs build --clean`, and `requirements.txt` no longer includes Zensical (Phase 1 commit `8980acc`). Older Zensical descriptions above are historical, not current.
+- Cloudflare rollout history shows Phase 1 deployment ready in approximately 57 seconds; individual earlier builds vary widely.
+- Reviewed all 11 MkDocs hooks. `hooks/page_history.py` reads full Git patch history and `hooks/whats_new.py` reads Git history; these are plausible costs, not yet proven bottlenecks. Keep their output intact.
+- Phase 2 initial low-risk change: cache `TEC_LISTPAGES` parent lookup within a single build to avoid repeated recursive Markdown scans for the same parent; clear cache on every build. Add elapsed-time informational logging for the page-history and What's New post-build hooks so the next Cloudflare log can show actual costs.
+- Do not disable history, navigation, previews, or full clean builds merely for speed; measure before more aggressive changes.
