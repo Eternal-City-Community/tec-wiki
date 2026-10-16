@@ -10,6 +10,7 @@ _children_cache = {}
 
 def on_pre_build(config):
     _children_cache.clear()
+    _children_cache["__built__"] = False
 
 
 def _read_front_matter(path: Path):
@@ -43,28 +44,27 @@ def _page_title(meta, body, fallback):
 
 
 def _children_for(parent_slug, config):
-    if parent_slug in _children_cache:
-        return _children_cache[parent_slug]
-    docs_dir = Path(config["docs_dir"])
-    children = []
-
-    for path in docs_dir.rglob("*.md"):
-        if any(part.startswith(".") for part in path.parts):
-            continue
-
-        meta, body = _read_front_matter(path)
-        if str(meta.get("parent", "")).strip() != parent_slug:
-            continue
-
-        rel = path.relative_to(docs_dir).with_suffix("")
-        slug = rel.as_posix()
-        title = _page_title(meta, body, path.stem)
-        children.append((slug, title))
-
-    # Wikidot's order="name asc" sorts by page name, not displayed title.
-    children.sort(key=lambda item: item[0].lower())
-    _children_cache[parent_slug] = children
-    return children
+    # Build the parent index once rather than walking every Markdown file for
+    # each distinct TEC_LISTPAGES parent. Preserve the existing title and sort rules.
+    if not _children_cache.get("__built__", False):
+        docs_dir = Path(config["docs_dir"])
+        for path in docs_dir.rglob("*.md"):
+            if any(part.startswith(".") for part in path.parts):
+                continue
+            meta, body = _read_front_matter(path)
+            parent = str(meta.get("parent", "")).strip()
+            if not parent:
+                continue
+            rel = path.relative_to(docs_dir).with_suffix("")
+            slug = rel.as_posix()
+            title = _page_title(meta, body, path.stem)
+            _children_cache.setdefault(parent, []).append((slug, title))
+        for parent, children in _children_cache.items():
+            if parent != "__built__":
+                # Wikidot's order="name asc" sorts by slug, not display title.
+                children.sort(key=lambda item: item[0].lower())
+        _children_cache["__built__"] = True
+    return _children_cache.get(parent_slug, [])
 
 
 def on_page_markdown(markdown, page, config, files):

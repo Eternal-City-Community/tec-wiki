@@ -268,3 +268,8 @@ User-reported issues and fixes on 2026-10-01:
 - Preserve full history for What's New and Page History. Both hooks now use `git fetch --unshallow --no-tags --no-write-fetch-head` when the checkout is shallow, avoiding unnecessary tag negotiation and FETCH_HEAD writes while retaining the complete commit/patch history.
 - Added fetch timing to the Page History fallback path. What's New already logs its fetch time.
 - Measure the next Cloudflare deployment before claiming any speedup; network fetch remains a likely variable cost. Avoid shortening history because page revisions must remain complete.
+
+### 2026-10-16 MkDocs page-processing optimization
+
+- `hooks/listpages.py` now indexes front-matter parent relationships in one Markdown directory traversal per build, instead of one traversal per distinct `TEC_LISTPAGES` parent. Preserve the original Markdown list output, title extraction, slug ordering, and empty-index behavior.
+- Cache resets on every `on_pre_build`. Check next Cloudflare log for total MkDocs timing; no performance improvement is claimed until measured.
