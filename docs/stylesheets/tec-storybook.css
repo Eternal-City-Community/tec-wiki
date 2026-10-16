@@ -611,3 +611,29 @@
   .md-typeset .tec-storybook__page blockquote {font-size:1em;line-height:1.55}
   .md-typeset .tec-storybook__sheet {padding:3rem 1.15rem 2rem}
 }
+
+/* Override legacy site-wide h2 banners specifically inside story chapters.
+   The wiki theme supplies green background and uppercase text via h2 rules. */
+body .md-content .md-typeset .tec-storybook .tec-storybook__page h2.tec-storybook__chapter-title {
+  display:block !important;
+  width:auto !important;
+  background:none !important;
+  background-color:transparent !important;
+  background-image:none !important;
+  color:#604020 !important;
+  font-family:Georgia,"Times New Roman",serif !important;
+  font-size:1.55em !important;
+  font-weight:700 !important;
+  font-variant:normal !important;
+  text-transform:none !important;
+  letter-spacing:.035em !important;
+  text-shadow:none !important;
+  box-shadow:none !important;
+  border:0 !important;
+  border-bottom:1px solid #b38a50 !important;
+  border-radius:0 !important;
+  margin:0 0 1.35em !important;
+  padding:0 0 .55em !important;
+  line-height:1.35 !important;
+  text-align:center !important;
+}
