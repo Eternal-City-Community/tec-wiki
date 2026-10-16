@@ -22,7 +22,7 @@ def on_page_markdown(markdown, page, config, files):
         return markdown
     name = page.meta.get("character_name")
     if not isinstance(name, str) or not name.strip():
-        return markdown
+        return _legacy_profile(markdown, page)
     # Limit the transformation to the canonical generated format.
     match = re.match(r"\A# ([^\n]+)\n+", markdown)
     if not match or match.group(1).strip() != name.strip():
@@ -69,4 +69,54 @@ def on_page_markdown(markdown, page, config, files):
             '</section>\n'
         )
     output.append('</div>\n</div>\n')
+    return "\n".join(output)
+
+
+# Render migrated biographies using the same optional-field profile shell.
+LEGACY_PORTRAIT = re.compile(r'(?m)^!\[[^\]\n]*\]\((/assets/[^)\s]+\.(?:gif|png|jpe?g|webp))\)\s*$', re.I)
+
+
+def _legacy_profile(markdown, page):
+    if not re.fullmatch(r"bio_[a-zA-Z0-9_-]+\.md", page.file.src_uri):
+        return markdown
+    match = re.match(r"\A#\s+Bio\s+([^\n]+)\n*", markdown, re.I)
+    if not match:
+        return markdown
+    name = match.group(1).strip()
+    if not name:
+        return markdown
+    body = markdown[match.end():]
+    body = re.sub(r"\A\s*>[ \t]*(?:\n[ \t]*)+", "\n", body, count=1)
+    portrait_match = LEGACY_PORTRAIT.search(body)
+    portrait = portrait_match.group(1) if portrait_match else None
+    if portrait_match:
+        body = body[:portrait_match.start()] + body[portrait_match.end():]
+    body = body.strip()
+    if not body and not portrait:
+        return markdown
+    output = [
+        '<div class="tec-bio-profile tec-bio-profile--legacy" markdown="1">',
+        '<header class="tec-bio-profile__hero">',
+        '<span class="tec-bio-profile__eyebrow">The Eternal City · Character Biography</span>',
+        f'<h1>{escape(name)}</h1>',
+        '<span class="tec-bio-profile__emblem" aria-hidden="true">✦</span>',
+        '</header>',
+        '<div class="tec-bio-profile__content" markdown="1">',
+    ]
+    if portrait:
+        output += [
+            '<aside class="tec-bio-profile__portrait">',
+            f'<img src="{escape(portrait, quote=True)}" alt="Portrait of {escape(name, quote=True)}" loading="lazy">',
+            '</aside>',
+        ]
+    if body:
+        output += [
+            '<section class="tec-bio-profile__card tec-bio-profile__card--legacy" markdown="1">',
+            '<h2>Biography</h2>',
+            '',
+            body,
+            '',
+            '</section>',
+        ]
+    output += ['</div>', '</div>', '']
     return "\n".join(output)
