@@ -43,7 +43,7 @@
       if (!first || first.tagName !== "P") return;
       const html = first.innerHTML.trim();
       const text = first.textContent.trim();
-      const lines = html.split(/<br\\s*\\/?>/i);
+      const lines = html.split(/<br\s*\/?>/i);
       if (!text || text.length > 90 || first.querySelector("img, a, code") || lines.length > 2) return;
       const title = lines[0].replace(/<[^>]*>/g, "").trim();
       if (!title || title.length > 75) return;
