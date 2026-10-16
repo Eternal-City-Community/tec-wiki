@@ -29,5 +29,5 @@ jobs:
           find src docs/javascripts -name '*.js' -type f -print0 | xargs -0 -n1 node --check
       - name: Run biography tests
         run: npm run test:bio
-      - name: Build wiki
-        run: mkdocs build --clean
+      - name: Build wiki with CPU profile
+        run: python tools/profile_build.py
