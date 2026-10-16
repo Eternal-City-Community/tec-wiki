@@ -273,3 +273,10 @@ User-reported issues and fixes on 2026-10-01:
 
 - `hooks/listpages.py` now indexes front-matter parent relationships in one Markdown directory traversal per build, instead of one traversal per distinct `TEC_LISTPAGES` parent. Preserve the original Markdown list output, title extraction, slug ordering, and empty-index behavior.
 - Cache resets on every `on_pre_build`. Check next Cloudflare log for total MkDocs timing; no performance improvement is claimed until measured.
+
+### Phase 1 reliability improvements (2026-10-16)
+
+- Added read-only `tools/check_wiki_integrity.py` to report missing root-relative pages/assets, missing parent slugs, unclosed front matter and duplicate explicit HTML anchors. Validation workflow runs it in informational mode to avoid blocking builds on existing migration findings; use `--strict` after baseline cleanup.
+- Added opt-in `python tools/profile_build.py` to profile MkDocs CPU time without modifying production build behavior.
+- Historical migration audits are manual and read-only. Legacy migration repair/rollback workflows are manual-only to avoid unintended changes and extra Cloudflare deployments.
+- No Wikidot assets or gameplay pages were changed.

@@ -20,6 +20,8 @@ jobs:
           node-version: '24'
       - name: Install site dependencies
         run: pip install -r requirements.txt
+      - name: Audit wiki integrity (read-only)
+        run: python tools/check_wiki_integrity.py --max-report 80
       - name: Compile Python hooks
         run: python -m compileall -q hooks
       - name: Check JavaScript syntax
