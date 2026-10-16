@@ -799,3 +799,48 @@ body .md-content .md-typeset .tec-storybook .tec-storybook__page h2.tec-storyboo
     no-repeat,no-repeat,no-repeat,no-repeat,
     no-repeat,no-repeat,no-repeat,no-repeat,repeat,no-repeat;
 }
+
+
+/* True four-corner botanical L engravings. Artwork carries the border
+   stems; previous plain CSS line segments are deliberately replaced. */
+.md-typeset .tec-storybook__sheet {
+  background-image:
+    url("../assets/storybook-corner-tl.svg"),
+    url("../assets/storybook-corner-tr.svg"),
+    url("../assets/storybook-corner-bl.svg"),
+    url("../assets/storybook-corner-br.svg"),
+    radial-gradient(ellipse at 0% 100%,#88582b35,transparent 37%),
+    radial-gradient(ellipse at 100% 0%,#99652e29,transparent 35%),
+    radial-gradient(ellipse at 8% 7%,#9d713127,transparent 18%),
+    radial-gradient(ellipse at 88% 91%,#a8793426,transparent 23%),
+    repeating-linear-gradient(97deg,transparent 0 3px,#9b67300a 4px 5px,transparent 6px 17px),
+    radial-gradient(ellipse at 52% 40%,#fff1d3 0%,#f2dbb3 67%,#d9b57d 100%);
+  background-size:
+    min(46%,520px) min(46%,430px),
+    min(46%,520px) min(46%,430px),
+    min(46%,520px) min(46%,430px),
+    min(46%,520px) min(46%,430px),
+    auto,auto,auto,auto,auto,auto;
+  background-position:
+    left 15px top 15px,right 15px top 15px,
+    left 15px bottom 15px,right 15px bottom 15px,
+    center,center,center,center,center,center;
+  background-repeat:
+    no-repeat,no-repeat,no-repeat,no-repeat,
+    no-repeat,no-repeat,no-repeat,no-repeat,repeat,no-repeat;
+}
+/* Avoid a second, differently sized corner motif over the new artwork. */
+.md-typeset .tec-storybook__sheet:before,
+.md-typeset .tec-storybook__sheet:after {content:none;display:none}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook__sheet {
+    background-size:
+      45% min(40%,240px),45% min(40%,240px),
+      45% min(40%,240px),45% min(40%,240px),
+      auto,auto,auto,auto,auto,auto;
+    background-position:
+      left 5px top 5px,right 5px top 5px,
+      left 5px bottom 5px,right 5px bottom 5px,
+      center,center,center,center,center,center;
+  }
+}
