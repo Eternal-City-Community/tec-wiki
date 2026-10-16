@@ -39,11 +39,14 @@ def on_post_build(config, **kwargs):
             errors="replace", check=False,
         )
         if shallow.stdout.strip().lower() == "true":
-            subprocess.run(
+            fetch_started = time.perf_counter()
+            fetch = subprocess.run(
                 ["git", "fetch", "--quiet", "--unshallow", "origin", "main"],
                 cwd=repo, capture_output=True, text=True, encoding="utf-8",
                 errors="replace", check=False, timeout=60,
             )
+            log.info("What's New: history fetch completed in %.2fs (exit %d)",
+                     time.perf_counter() - fetch_started, fetch.returncode)
 
         # Use an unmistakable line prefix rather than control-character record
         # separators. Git inserts blank lines around --name-only output, and
