@@ -22,8 +22,8 @@ The art of chopping trees (not currently available) and transforming them into u
 | [Fell Trees](#Fell-Trees) | Easy | Axe | 0 | 0 |
 | [Debark Timber](#Debark-Timber) | Easy | Axe | 0 | 0 |
 | [Rough Square Timber](#Rough-Square-Timber) | Easy | Axe | 0 | 0 |
-| [Timber Markup](#TimberMarkup) | Easy | Chalk | 0 | 0 |
-| [Crosscut Timber](#CrosscutTimber) | Easy | Saw | 0 | 0 |
+| [Timber Markup](#Timber-Markup) | Easy | Chalk | 0 | 0 |
+| [Crosscut Timber](#Crosscut-Timber) | Easy | Saw | 0 | 0 |
 | [Detailed Sawing](#Detailed-Sawing) | Easy | Saw | 0 | 0 |
 | [Planing](#Planing) | Easy | Hand Plane | 0 | 0 |
 | [Lamination](#Lamination) | Easy | Wood Glue, Wood Clamps | 0 | 0 |
