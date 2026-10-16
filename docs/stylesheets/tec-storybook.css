@@ -429,3 +429,27 @@
   .md-typeset .tec-storybook__sheet:before,
   .md-typeset .tec-storybook__sheet:after {display:none}
 }
+
+/* Matching engraved lower corners complete the four-corner book frame. */
+.md-typeset .tec-storybook__nav:before,
+.md-typeset .tec-storybook__nav:after {
+  content:"";
+  position:absolute;
+  width:clamp(90px,11vw,180px);
+  height:clamp(90px,11vw,180px);
+  bottom:0;
+  pointer-events:none;
+  opacity:.78;
+  background:url("../assets/storybook-filigree.svg") center/contain no-repeat;
+}
+.md-typeset .tec-storybook__nav:before {left:5px;transform:scaleY(-1)}
+.md-typeset .tec-storybook__nav:after {right:5px;transform:scale(-1)}
+.md-typeset .tec-storybook__nav > * {position:relative;z-index:1}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook__nav:before,
+  .md-typeset .tec-storybook__nav:after {width:50px;height:50px;opacity:.45}
+}
+@media print {
+  .md-typeset .tec-storybook__nav:before,
+  .md-typeset .tec-storybook__nav:after {display:none}
+}
