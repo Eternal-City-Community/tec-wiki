@@ -5,6 +5,12 @@ import yaml
 
 MARKER_RE = re.compile(r"<!--\s*TEC_LISTPAGES\s+parent=([A-Za-z0-9_-]+)\s*-->")
 
+_children_cache = {}
+
+
+def on_pre_build(config):
+    _children_cache.clear()
+
 
 def _read_front_matter(path: Path):
     text = path.read_text(encoding="utf-8", errors="replace")
