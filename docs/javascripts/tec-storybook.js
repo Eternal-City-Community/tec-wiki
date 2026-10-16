@@ -47,8 +47,12 @@
     nav.setAttribute("aria-label", "Book pages");
     const prev = document.createElement("button"), next = document.createElement("button");
     prev.type = next.type = "button";
-    prev.textContent = "‹ Previous";
-    next.textContent = "Next ›";
+    prev.textContent = "‹";
+    next.textContent = "›";
+    prev.setAttribute("aria-label", "Previous page");
+    next.setAttribute("aria-label", "Next page");
+    prev.title = "Previous page";
+    next.title = "Next page";
     const select = document.createElement("select");
     select.setAttribute("aria-label", "Jump to page");
     pages.forEach((nodes, i) => {
