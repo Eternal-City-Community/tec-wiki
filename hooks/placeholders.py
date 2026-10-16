@@ -58,4 +58,6 @@ def escape_placeholders(markdown):
 
 
 def on_page_markdown(markdown, page, config, files):
+    if "<" not in markdown:
+        return markdown
     return escape_placeholders(markdown)

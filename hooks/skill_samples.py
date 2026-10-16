@@ -20,6 +20,8 @@ def _emphasis(text):
 
 
 def format_samples(markdown):
+    if '<div class="skill-template"' not in markdown:
+        return markdown
     return _SAMPLE.sub(lambda m: m.group(1) + _emphasis(m.group(2)) + m.group(3), markdown)
 
 

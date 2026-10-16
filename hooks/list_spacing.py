@@ -86,4 +86,6 @@ def space_lists(markdown):
 
 
 def on_page_markdown(markdown, page, config, files):
+    if "*" not in markdown:
+        return markdown
     return space_lists(markdown)

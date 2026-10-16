@@ -24,6 +24,8 @@ jobs:
         run: python tools/check_wiki_integrity.py --max-report 80
       - name: Test wiki red-link and integrity rules
         run: python -m unittest discover -s tests -p 'test_wiki_integrity.py'
+      - name: Test Markdown hook fast paths
+        run: python -m unittest discover -s tests -p 'test_hook_fast_paths.py'
       - name: Compile Python hooks
         run: python -m compileall -q hooks
       - name: Check JavaScript syntax

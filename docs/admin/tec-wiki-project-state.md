@@ -287,3 +287,8 @@ User-reported issues and fixes on 2026-10-01:
 - Do not automatically rewrite red links to nearby pages, remove them, or create empty Markdown stubs merely to silence validation. Some are planned biography, combat, lore and hunting-ground pages.
 - `tools/check_wiki_integrity.py` now reports missing wiki-page references separately as informational; checks broken redirects, missing assets, malformed destinations, manifest drift, and existing structural issues as actual findings. `--strict` fails only on actual issues. Validator remains informational until existing legitimate issues are triaged.
 - `tests/test_wiki_integrity.py` checks intentional missing-page behavior, manifest coverage, stale manifest entries, broken assets/redirects, and the red-link editor JavaScript contract. Run with `python -m unittest discover -s tests -p 'test_wiki_integrity.py'`.
+
+### 2026-10-16 Markdown hook fast paths
+
+- Three Markdown hooks now skip work on pages without their relevant marker: skill samples, command placeholders, and star-list spacing. No formatting rules were removed.
+- Added unit tests in `tests/test_hook_fast_paths.py` and included them in validation. These guards may save small amounts of per-page work; benchmark before claiming a speedup. Markdown conversion and search indexing remain the larger measured costs.
