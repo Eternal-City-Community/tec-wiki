@@ -262,3 +262,9 @@ User-reported issues and fixes on 2026-10-01:
 - Reviewed all 11 MkDocs hooks. `hooks/page_history.py` reads full Git patch history and `hooks/whats_new.py` reads Git history; these are plausible costs, not yet proven bottlenecks. Keep their output intact.
 - Phase 2 initial low-risk change: cache `TEC_LISTPAGES` parent lookup within a single build to avoid repeated recursive Markdown scans for the same parent; clear cache on every build. Add elapsed-time informational logging for the page-history and What's New post-build hooks so the next Cloudflare log can show actual costs.
 - Do not disable history, navigation, previews, or full clean builds merely for speed; measure before more aggressive changes.
+
+### 2026-10-16 Git history fetch optimization
+
+- Preserve full history for What's New and Page History. Both hooks now use `git fetch --unshallow --no-tags --no-write-fetch-head` when the checkout is shallow, avoiding unnecessary tag negotiation and FETCH_HEAD writes while retaining the complete commit/patch history.
+- Added fetch timing to the Page History fallback path. What's New already logs its fetch time.
+- Measure the next Cloudflare deployment before claiming any speedup; network fetch remains a likely variable cost. Avoid shortening history because page revisions must remain complete.

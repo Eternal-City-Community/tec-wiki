@@ -41,7 +41,7 @@ def on_post_build(config, **kwargs):
         if shallow.stdout.strip().lower() == "true":
             fetch_started = time.perf_counter()
             fetch = subprocess.run(
-                ["git", "fetch", "--quiet", "--unshallow", "origin", "main"],
+                ["git", "fetch", "--quiet", "--no-tags", "--no-write-fetch-head", "--unshallow", "origin", "main"],
                 cwd=repo, capture_output=True, text=True, encoding="utf-8",
                 errors="replace", check=False, timeout=60,
             )

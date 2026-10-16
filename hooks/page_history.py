@@ -28,7 +28,11 @@ def _git(repo, *args, timeout=None):
 def _ensure_full_history(repo):
     # Cloudflare builds may check out shallow history (see whats_new.py).
     if _git(repo, "rev-parse", "--is-shallow-repository").stdout.strip().lower() == "true":
-        _git(repo, "fetch", "--quiet", "--unshallow", "origin", "main", timeout=60)
+        started = time.perf_counter()
+        result = _git(repo, "fetch", "--quiet", "--no-tags", "--no-write-fetch-head",
+                      "--unshallow", "origin", "main", timeout=60)
+        log.info("Page history: history fetch completed in %.2fs (exit %d)",
+                 time.perf_counter() - started, result.returncode)
 
 
 def _file_patches(body):
