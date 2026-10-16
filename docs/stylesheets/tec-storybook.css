@@ -722,3 +722,50 @@ body .md-content .md-typeset .tec-storybook .tec-storybook__page h2.tec-storyboo
 @media print {
   .md-typeset .tec-storybook__nav:before {display:none}
 }
+
+/* Four independent corner engravings, inset from the book's frame.
+   Each corner ends before the neighboring edge instead of forming a continuous border. */
+.md-typeset .tec-storybook__sheet:before,
+.md-typeset .tec-storybook__sheet:after {
+  width:clamp(88px,10vw,145px);
+  height:clamp(88px,10vw,145px);
+  opacity:.8;
+  background-size:contain;
+}
+.md-typeset .tec-storybook__sheet:before {top:20px;left:20px}
+.md-typeset .tec-storybook__sheet:after {top:20px;right:20px}
+.md-typeset .tec-storybook:before,
+.md-typeset .tec-storybook:after {
+  content:"";
+  display:block;
+  position:absolute;
+  top:auto;
+  bottom:16px;
+  width:clamp(65px,8vw,105px);
+  height:clamp(65px,8vw,105px);
+  background:url("../assets/storybook-filigree.svg") center/contain no-repeat;
+  opacity:.63;
+  filter:sepia(.55) contrast(1.35) brightness(.8);
+  pointer-events:none;
+  z-index:3;
+  font-size:0;
+  text-shadow:none;
+}
+.md-typeset .tec-storybook:before {left:20px;transform:scaleY(-1)}
+.md-typeset .tec-storybook:after {right:20px;transform:scale(-1)}
+/* The lower-right ornament is now provided by the frame, not duplicated in the footer. */
+.md-typeset .tec-storybook__nav:after {content:none;display:none}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook__sheet:before,
+  .md-typeset .tec-storybook__sheet:after {width:65px;height:65px;opacity:.52}
+  .md-typeset .tec-storybook__sheet:before {top:12px;left:12px}
+  .md-typeset .tec-storybook__sheet:after {top:12px;right:12px}
+  .md-typeset .tec-storybook:before,
+  .md-typeset .tec-storybook:after {width:40px;height:40px;bottom:10px;opacity:.4}
+  .md-typeset .tec-storybook:before {left:12px}
+  .md-typeset .tec-storybook:after {right:12px}
+}
+@media print {
+  .md-typeset .tec-storybook:before,
+  .md-typeset .tec-storybook:after {display:none}
+}
