@@ -51,6 +51,11 @@ nav:
 plugins:
   - search
 
+# The navigation is deliberately curated; other pages remain accessible through
+# indexes, internal links, and search. Suppress only expected not-in-nav notices.
+not_in_nav: |
+  **
+
 # TEC internal links intentionally use root-relative URLs such as /skills/.
 # Silence only MkDocs' absolute-link diagnostics; keep broken/missing-link
 # validation and all other build diagnostics enabled.
