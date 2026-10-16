@@ -453,3 +453,84 @@
   .md-typeset .tec-storybook__nav:before,
   .md-typeset .tec-storybook__nav:after {display:none}
 }
+
+/* Visual refinement: bound manuscript rather than a dashboard panel.
+   The reader's existing fixed-to-longest-chapter sizing is unchanged. */
+.md-typeset .tec-storybook {
+  border:4px solid #54351b;
+  border-radius:10px 12px 12px 10px;
+  background:#e9d0a4;
+  box-shadow:
+    -7px 3px 0 #61411f,-10px 6px 0 #b88b4d,
+    0 0 0 2px #c29a58,0 17px 32px #29180770,
+    inset 0 0 0 2px #e2bc77;
+}
+.md-typeset .tec-storybook__top {
+  min-height:75px;
+  border-bottom:5px solid #805523;
+  background:
+    radial-gradient(ellipse at 50% -30%,#7d563460,transparent 67%),
+    repeating-linear-gradient(15deg,transparent 0 3px,#100d0b16 4px 5px,transparent 6px 11px),
+    linear-gradient(115deg,#251b16,#463023 48%,#231913);
+  box-shadow:inset 0 0 0 2px #b7894d,inset 0 0 0 5px #342014,
+    inset 0 0 18px #0e0907,0 3px 5px #42251155;
+}
+.md-typeset .tec-storybook__counter {letter-spacing:.025em}
+.md-typeset .tec-storybook__sheet {
+  /* Keep one constant sheet size across all chapters, but make the
+     shortest chapter feel like a page rather than a blank application. */
+  background:
+    radial-gradient(ellipse at 0% 100%,#88582b35,transparent 37%),
+    radial-gradient(ellipse at 100% 0%,#99652e29,transparent 35%),
+    radial-gradient(ellipse at 8% 7%,#9d713127,transparent 18%),
+    radial-gradient(ellipse at 88% 91%,#a8793426,transparent 23%),
+    repeating-linear-gradient(97deg,transparent 0 3px,#9b67300a 4px 5px,transparent 6px 17px),
+    radial-gradient(ellipse at 52% 40%,#fff1d3 0%,#f2dbb3 67%,#d9b57d 100%);
+  border-left:6px solid #aa7940;
+  border-right:6px solid #aa7940;
+  box-shadow:inset 0 0 0 2px #e4c28b,inset 0 0 0 5px #b8894b,
+    inset 0 0 48px #8555256b;
+  padding-top:clamp(3rem,5vw,5.5rem);
+  padding-bottom:clamp(3rem,5vw,5.5rem);
+}
+.md-typeset .tec-storybook__sheet:before,
+.md-typeset .tec-storybook__sheet:after {
+  width:clamp(85px,10vw,165px);
+  height:clamp(85px,10vw,165px);
+  opacity:.58;
+  filter:sepia(.35) contrast(.92);
+}
+.md-typeset .tec-storybook__page {
+  max-width:82ch;
+}
+@media(min-width:1300px) {
+  .md-typeset .tec-storybook__page {max-width:100ch}
+}
+.md-typeset .tec-storybook__page > :first-child {margin-top:0}
+.md-typeset .tec-storybook__page h2,
+.md-typeset .tec-storybook__page h3,
+.md-typeset .tec-storybook__page h4 {
+  border-bottom:1px solid #ab834f;
+  text-align:center;
+  padding-bottom:.7rem;
+  margin-bottom:1.6rem;
+}
+.md-typeset .tec-storybook__nav {
+  border-top:5px double #aa7840;
+  background:
+    radial-gradient(ellipse at 50% 0%,#fff0d0 0%,#e7c693 82%,#bb8c4d 100%);
+  box-shadow:inset 0 2px #f6dfb5,inset 0 12px 24px #79512a26;
+}
+.md-typeset .tec-storybook__nav:before,
+.md-typeset .tec-storybook__nav:after {
+  width:clamp(55px,7vw,105px);
+  height:clamp(55px,7vw,105px);
+  opacity:.32;
+}
+@media(max-width:700px) {
+  .md-typeset .tec-storybook {box-shadow:0 0 0 1px #b88b4d,0 8px 16px #29180755}
+  .md-typeset .tec-storybook__sheet {padding:3.2rem 1.15rem 2.5rem}
+  .md-typeset .tec-storybook__sheet:before,
+  .md-typeset .tec-storybook__sheet:after {width:72px;height:72px;opacity:.38}
+  .md-typeset .tec-storybook__page {max-width:100%}
+}
