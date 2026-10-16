@@ -21,8 +21,8 @@ A locksmith starting out can assist residents by opening locked containers. More
 | Skill / Action | Difficulty | Apula | Ititia | Fefellus | Admina | Clauditis |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Locksmithing | Easy | 50 | 100 | 80 | 100 | 200 |
-| [Pick Lock - Unlocking](#pick-lock---unlocking) | Easy | 50 | 90 | 65 | 70 | 150 |
-| [Pick Lock - Locking](#pick-lock---locking) | Average | 50 | 90 | 60 | 70 | 150 |
+| [Pick Lock - Unlocking](#pick-lock-unlocking) | Easy | 50 | 90 | 65 | 70 | 150 |
+| [Pick Lock - Locking](#pick-lock-locking) | Average | 50 | 90 | 60 | 70 | 150 |
 | [Study Lock](#study-lock) | Easy | 50 | 90 | 60 | 70 | 150 |
 | [Lock Lore](#lock-lore) | Easy | 50 | 90 | 60 | 70 | 150 |
 | [Unjam Lock](#unjam-lock) | Difficult | 50 | 90 | 65 | 70 | 150 |
