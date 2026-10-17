@@ -6,9 +6,17 @@ category: Wiki & Help
 
 [![Map of Iridine - The Eternal City MUD](/assets/wikidot/files/IridineMapShortest.jpg){.tec-home-banner}](/assets/wikidot/files/Map%20of%20Iridine%20-%20FULL.jpg)
 
-## The Eternal City - A Text Based MUD
+## Welcome to The Eternal City
 
-**The Eternal City** (TEC) is a Text-Based Multi-Player Role-Playing game, based in a Roman-inspired atmosphere. TEC offers **FREE**, as well as **paid** [subscriptions](/account/#AccountSub), and is operated by Three Seas LLC.
+**Within the ancient walls of [Iridine](/city-of-iridine/), every character has a story to tell.**
+
+Welcome to **The Eternal City (TEC)**, a persistent, text-based multiplayer role-playing game (MUD) set in [Midlight](/game-world/), a richly detailed fantasy world inspired by ancient Rome. At its heart stands **[Iridine](/city-of-iridine/)**, the Eternal City—a sprawling metropolis of commerce, politics, faith, and conflict, where opportunity and danger await around every corner.
+
+Across [Midlight](/game-world/), [rival nations](/game-world/#countries) struggle for power, [ancient religions](/religion/) shape the lives of their followers, and the echoes of a mysterious past linger over a world constantly changing. Within Iridine's crowded streets and beyond its walls, warriors seek glory in the arena, merchants build their fortunes, craftsmen perfect their trades, and citizens navigate a society filled with ambition, intrigue, and uncertainty.
+
+Whether you choose the path of a gladiator, legionary, merchant, artisan, explorer, or outlaw, **your character's story is yours to create**. Through immersive roleplay, extensive [character development](/characters/), intricate [combat](/combat-overview/) and [crafting](/skills/) systems, and a dedicated community, TEC offers a living world shaped by the people who inhabit it.
+
+**The Eternal City** is operated by **Three Seas LLC** and offers both **free-to-play access** and optional [paid subscriptions](/account/#AccountSub).
 
 <a href="https://login.eternalcitygame.com/login.php" target="_blank" rel="noopener"><img class="tec-play-now" src="/assets/wikidot/files/TEC%20Play%20Now.png" alt="Play Now"></a>
 
