@@ -175,7 +175,9 @@ Requires 2 momentum and Capable (rank 40) in Rotating Chop.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 22, Roll: 31] You chop the bearded edge of your bone axe into a decaying axeman's guard, levering hard against his weapon grip! He suffers a cut to his left hand. You hook the beard of your finely crafted bone-hafted axe with a fluvitur jawbone blade against a decaying axeman thick shield fashioned from debris, but he braces and keeps hold of the shield!
+
+[Success: 42, Roll: 52] You chop the bearded edge of your bone axe into a rotting axeman's guard, levering hard against his weapon grip! He suffers a cut to his left hand. You hook the beard of your finely crafted bone-hafted axe with a fluvitur jawbone blade over the rim of a rotting axeman heavy shield fashioned from debris, levering it downward to pull the shield from his grip!
 
 </div>
 
@@ -248,7 +250,7 @@ Requires 3 momentum and Learned (rank 30) in Rotating Chop and Head Butt.
 
 <div class="skill-template">
 
-Replace this text with actual in-game output.
+[Success: 5, Roll: 48] You step inside a gladiator's guard with a hacking strike from your dark smoky grey boison axe! She suffers a severe cut to her left hand. Following the axe impact, you snap your forehead forward into a gladiator! She suffers a bruise to her head. a gladiator stumbles backward, momentarily dazed!
 
 </div>
 
