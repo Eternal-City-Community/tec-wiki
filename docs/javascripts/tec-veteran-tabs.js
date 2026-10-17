@@ -194,14 +194,35 @@ TEC.addPageEnhancer("veteran-tabs", function (root, ctx) {
         all[pos].click();
       });
     });
-    // Preserve direct links from the table of contents and external pages.
-    function activateHash() {
-      var hash = decodeURIComponent(location.hash.slice(1));
-      var index = headings.findIndex(function (h) { return h.id === hash || !!h.querySelector('[id="' + hash.replace(/[^a-zA-Z0-9_-]/g, "") + '"]'); });
-      if (index >= 0) bar.children[index].click();
+    // A hidden panel cannot be scrolled to. Reveal it first, then scroll
+    // the visible tabset into view for both TOC clicks and direct URLs.
+    var anchorIds = ["Weapons", "Clothing", "Armor", "Jewelry", "Misc"];
+    function activateHash(scroll) {
+      var hash = decodeURIComponent(window.location.hash.slice(1));
+      var index = anchorIds.indexOf(hash);
+      if (index < 0) return;
+      bar.children[index].click();
+      if (scroll) shell.scrollIntoView({ block: "start" });
     }
-    window.addEventListener("hashchange", activateHash);
-    activateHash();
+    window.addEventListener("hashchange", function () { activateHash(true); });
+    // Handle clicks even if the same hash is already in the URL (no
+    // hashchange event), and reveal the panel before attempting to scroll.
+    root.querySelectorAll('a[href^="#"]').forEach(function (link) {
+      link.addEventListener("click", function (event) {
+        var hash = decodeURIComponent(link.getAttribute("href").slice(1));
+        var index = anchorIds.indexOf(hash);
+        if (index < 0) return;
+        event.preventDefault();
+        bar.children[index].click();
+        if (window.location.hash !== "#" + hash) {
+          window.history.pushState(null, "", "#" + hash);
+        }
+        shell.scrollIntoView({ block: "start", behavior: "instant" });
+      });
+    });
+    window.addEventListener("popstate", function () { activateHash(true); });
+    activateHash(!!window.location.hash);
+
   }
 
   buildVendorTabs();
