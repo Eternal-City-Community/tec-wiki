@@ -292,3 +292,9 @@ User-reported issues and fixes on 2026-10-01:
 
 - Three Markdown hooks now skip work on pages without their relevant marker: skill samples, command placeholders, and star-list spacing. No formatting rules were removed.
 - Added unit tests in `tests/test_hook_fast_paths.py` and included them in validation. These guards may save small amounts of per-page work; benchmark before claiming a speedup. Markdown conversion and search indexing remain the larger measured costs.
+
+### 2026-10-17 Veteran Characters prototype
+
+- Created separate review-only `docs/veteran-characters-prototype.md` at `/veteran-characters-prototype/`.
+- Prototype reuses the current package, retirement and vendor data and rearranges credit purchasing and navigation. Full trainer details remain linked from the official page in this first iteration.
+- Official `docs/veteran-characters.md` was not modified. Await approval before replacing the official layout.
