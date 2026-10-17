@@ -157,167 +157,180 @@ Use those credits to appoint your character:
 
 ##### Weapons Vendor {#Weapons}
 
-| Item | Credit Cost |
-| --- | --- |
-| 1. Bronze dagger | 1 credit |
-| 2. Alanti dagger | 2 credits |
-| 3. Iron dagger | 4 credits |
-| 4. Boison dagger | 15 credits |
-| 5. Retalq dagger | 20 credits |
-| 6. Bronze-tipped spear | 1 credit |
-| 7. Cavalry spear | 2 credits |
-| 8. Iron-tipped spear | 3 credits |
-| 9. Boison-tipped spear | 15 credits |
-| 10. Retalq-tipped spear | 20 credits |
-| 11. Bronze gladius | 2 credits |
-| 12. Alanti gladius | 3 credits |
-| 13. Iron gladius | 4 credits |
-| 14. Boison gladius | 15 credits |
-| 15. Retalq gladius | 20 credits |
-| 16. Light quarterstave with leather grips | 1 credit |
-| 17. Black quarterstave | 3 credits |
-| 18. Oak quarterstave with smooth bronze caps | 4 credits |
-| 19. Altene double mace | 5 credits |
-| 20. Studded leather cestus | 1 credit |
-| 21. Studded leather cestus | 1 credit |
-| 22. Bronze cestus | 2 credits |
-| 23. Bronze cestus | 2 credits |
-| 24. Iron cestus | 4 credits |
-| 25. Iron cestus | 4 credits |
-| 26. Boison cestus | 15 credits |
-| 27. Boison cestus | 15 credits |
-| 28. Bronze trident with tin tines | 1 credit |
-| 29. Bronze trident | 2 credits |
-| 30. Tuchean trident | 3 credits |
-| 31. Iron trident | 4 credits |
-| 32. Long wooden club | 1 credit |
-| 33. War club | 2 credits |
-| 34. Spiked club | 2 credits |
-| 35. Banded club | 3 credits |
-| 36. Blackroot war-club | 4 credits |
-| 37. Iridine long mace | 2 credits |
-| 38. Iron mace | 3 credits |
-| 39. Spiked iron mace | 6 credits |
-| 40. Boison mace | 15 credits |
-| 41. Simple whip of soft leather | 1 credit |
-| 42. Hair whip | 2 credits |
-| 43. Short whip | 3 credits |
-| 44. Scale whip | 4 credits |
-| 45. Bronze axe | 2 credits |
-| 46. Iron axe | 4 credits |
-| 47. Boison axe | 15 credits |
-| 48. Two-handed bronze axe | 2 credits |
-| 49. Two-handed iron axe | 4 credits |
-| 50. Blackroot war-axe | 10 credits |
-| 51. Two-handed boison axe | 15 credits |
-| 52. Short bow | 1 credit |
-| 53. Simple pine short bow | 2 credits |
+| # | Item | Credit Cost |
+| ---: | --- | ---: |
+| 1 | A bronze dagger | 1 credit |
+| 2 | A bronze-tipped spear | 1 credit |
+| 3 | An ash quarterstave | 1 credit |
+| 4 | An oak fangstave | 1 credit |
+| 5 | A right-handed studded leather cestus | 1 credit |
+| 6 | A left-handed studded leather cestus | 1 credit |
+| 7 | A tin trident | 1 credit |
+| 8 | A long wooden club | 1 credit |
+| 9 | A simple whip of soft leather | 1 credit |
+| 10 | A tin axe | 1 credit |
+| 11 | A two-handed tin axe | 1 credit |
+| 12 | An Iridine short bow | 1 credit |
+| 13 | A pouch of 50 sling stones | 1 credit |
+| 14 | An alanti dagger | 2 credits |
+| 15 | A cavalry spear | 2 credits |
+| 16 | A bronze gladius | 2 credits |
+| 17 | A capped oak quarterstave | 2 credits |
+| 18 | A right-handed bronze cestus | 2 credits |
+| 19 | A left-handed bronze cestus | 2 credits |
+| 20 | A bronze trident | 2 credits |
+| 21 | A war club | 2 credits |
+| 22 | A spiked club | 2 credits |
+| 23 | An Iridine long mace | 2 credits |
+| 24 | A hair whip | 2 credits |
+| 25 | A bronze axe | 2 credits |
+| 26 | A two-handed bronze axe | 2 credits |
+| 27 | A simple pine short bow | 2 credits |
+| 28 | A bronze falcata | 2 credits |
+| 29 | A bronze falx | 2 credits |
+| 30 | A bronze chainblade | 2 credits |
+| 31 | A pouch of 50 ceramic sling bullets | 2 credits |
+| 32 | An iron-tipped spear | 3 credits |
+| 33 | An alanti gladius | 3 credits |
+| 34 | A dursc quarterstave | 3 credits |
+| 35 | A Tuchean trident | 3 credits |
+| 36 | A banded club | 3 credits |
+| 37 | An iron mace | 3 credits |
+| 38 | A short whip | 3 credits |
+| 39 | A pouch of 50 iron sling bullets | 3 credits |
+| 40 | An iron dagger | 4 credits |
+| 41 | An iron gladius | 4 credits |
+| 42 | A right-handed iron cestus | 4 credits |
+| 43 | A left-handed iron cestus | 4 credits |
+| 44 | An iron trident | 4 credits |
+| 45 | A Blackroot war-club | 4 credits |
+| 46 | A scale whip | 4 credits |
+| 47 | An iron axe | 4 credits |
+| 48 | A two-handed iron axe | 4 credits |
+| 49 | An iron falcata | 4 credits |
+| 50 | A military sling | 4 credits |
+| 51 | An iron falx | 4 credits |
+| 52 | An iron chainblade | 4 credits |
+| 53 | A spiked iron mace | 6 credits |
+| 54 | An Altene double mace | 15 credits |
+| 55 | A boison dagger | 20 credits |
+| 56 | A boison-tipped spear | 20 credits |
+| 57 | A boison gladius | 20 credits |
+| 58 | A right-handed boison cestus | 20 credits |
+| 59 | A left-handed boison cestus | 20 credits |
+| 60 | A boison trident | 20 credits |
+| 61 | A boison mace | 20 credits |
+| 62 | A boison axe | 20 credits |
+| 63 | A two-handed boison axe | 20 credits |
 
-*Additional custom items will sometimes be in the display case; type and cost vary.*
+*Rotating customized items may also appear in the display case; their availability and prices vary.*
 
 **Note:** Weapon quality can be enhanced at the cost of additional credits. Upon purchasing the item you will see this follow-up prompt: "All base weapons sold here are of average quality (0). You can increase the quality to Good, Great, or Excellent at a cost of 1 credit per step. You may also increase the quality to Superior for 15 credits extra. Enter the number of credits you wish to add to the price to increase the quality of this weapon."
 
 ##### Clothing Vendor {#Clothing}
 
-| Item | Credit Cost |
-| --- | --- |
-| 1. Tunic | 1 credit |
-| 2. Breeches | 1 credit |
-| 3. Pants | 1 credit |
-| 4. Belt | 1 credit |
-| 5. Sandals | 1 credit |
-| 6. Rough sandals made of uncured hide and fastened with an ankl | 1 credit |
-| 7. Sturdy hobnailed sandals | 1 credit |
-| 8. Stola | 1 credit |
-| 9. Shirt | 1 credit |
-| 10. Chiton | 1 credit |
-| 11. Toga | 1 credit |
-| 12. Hat | 1 credit |
-| 13. Wide headband of uncured hide, tied in place with woven gras | 1 credit |
-| 14. Simple hide hat with a short brim | 1 credit |
-| 15. Cloak | 1 credit |
-| 16. Travelling cloak | 1 credit |
-| 17. Robe | 1 credit |
-| 18. Paenula | 1 credit |
-| 19. Sagum | 1 credit |
-| 20. Hooded cloak | 50 credits |
+| # | Item | Credit Cost |
+| ---: | --- | ---: |
+| 1 | A tunic | 1 credit |
+| 2 | Some breeches | 1 credit |
+| 3 | Some pants | 1 credit |
+| 4 | A belt | 1 credit |
+| 5 | Some sandals | 1 credit |
+| 6 | Some rough sandals made of uncured hide and fastened with an | 1 credit |
+| 7 | Some sturdy hobnailed sandals | 1 credit |
+| 8 | A stola | 1 credit |
+| 9 | A shirt | 1 credit |
+| 10 | A chiton | 1 credit |
+| 11 | A toga | 1 credit |
+| 12 | A hat | 1 credit |
+| 13 | A wide headband of uncured hide, tied in place with woven gr | 1 credit |
+| 14 | A simple hide hat with a short brim | 1 credit |
+| 15 | A cloak | 1 credit |
+| 16 | A travelling cloak | 1 credit |
+| 17 | A robe | 1 credit |
+| 18 | A paenula | 1 credit |
+| 19 | A sagum | 1 credit |
 
-*Additional custom items will sometimes be in the display case; type and cost vary.*
+*Rotating customized items may also appear in the display case; their availability and prices vary.*
 
-**Warning:** These items have no options to enhance them. If you buy a hooded cloak, it will be just 'a hooded cloak'.
+**Warning:** These items have no options to enhance them. The descriptions of two items above are truncated in the supplied in-game shop output; verify their full descriptions in game.
 
 ##### Armor Vendor {#Armor}
 
-| Item | Credit Cost |
-| --- | --- |
-| 1. Lorica hamata | 2 credits |
-| 2. Brown leather boots | 1 credit |
-| 3. Black leather boots | 1 credit |
-| 4. Cloth boots | 1 credit |
-| 5. Thick leather boots | 1 credit |
-| 6. Sharkskin boots | 1 credit |
-| 7. Linen belt with a bronze buckle | 1 credit |
-| 8. Leather belt | 1 credit |
-| 9. Leather belt with iron studs | 1 credit |
-| 10. Plain leather shoulder pteryges | 1 credit |
-| 11. Stiff leather pteryges | 1 credit |
-| 12. Cuirass | 1 credit |
-| 13. Muscle cuirass | 2 credits |
-| 14. Mail cuirass | 2 credits |
-| 15. Leather cuirass | 1 credit |
-| 16. Bronze helmet | 1 credit |
-| 17. Leather helm | 1 credit |
-| 18. Pair of armillus | 1 credit |
-| 19. Leather arming jerkin | 1 credit |
-| 20. Left bronze thigh greave | 2 credits |
-| 21. Right bronze thigh greave | 2 credits |
-| 22. Right bronze greave | 2 credits |
-| 23. Left bronze greave | 2 credits |
-| 24. Dull bronze helmet with a featureless faceplate | 30 credits |
-| 25. Iridine wall shield | 5 credits |
-| 26. Long shield | 3 credits |
-| 27. Bronze buckler | 1 credit |
+| # | Item | Credit Cost |
+| ---: | --- | ---: |
+| 1 | Some brown leather boots | 1 credit |
+| 2 | Some black leather boots | 1 credit |
+| 3 | Some cloth boots | 1 credit |
+| 4 | Some thick leather boots | 1 credit |
+| 5 | Some sharkskin boots | 1 credit |
+| 6 | A linen belt with a bronze buckle | 1 credit |
+| 7 | A leather belt | 1 credit |
+| 8 | A leather belt with iron studs | 1 credit |
+| 9 | Some leather shoulder pteryges | 1 credit |
+| 10 | Some stiff leather pteryges | 1 credit |
+| 11 | A cuirass | 1 credit |
+| 12 | A leather cuirass | 1 credit |
+| 13 | A padded leather helmet | 1 credit |
+| 14 | A pair of iron armillus | 1 credit |
+| 15 | A leather arming jerkin | 1 credit |
+| 16 | A bronze buckler | 1 credit |
+| 17 | A lorica hamata | 2 credits |
+| 18 | A muscle cuirass | 2 credits |
+| 19 | A mail cuirass | 2 credits |
+| 20 | A bronze helmet | 2 credits |
+| 21 | Left bronze thigh greave | 2 credits |
+| 22 | Right bronze thigh greave | 2 credits |
+| 23 | A right bronze greave | 2 credits |
+| 24 | A left bronze greave | 2 credits |
+| 25 | A long shield | 3 credits |
+| 26 | A towering oval shield | 4 credits |
+| 27 | An Iridine wall shield | 5 credits |
+| 28 | A lorica squamata | 30 credits |
+| 29 | A dull bronze helmet with a featureless faceplate | 30 credits |
+| 30 | A sooty black helmet with a faceplate | 50 credits |
+| 31 | An iron helmet with a caged faceplate | 60 credits |
+| 32 | An iron helmet with a faceplate | 65 credits |
+| 33 | A boison helmet with a caged faceplate | 80 credits |
+| 34 | A pair of iron gauntlets | 80 credits |
+| 35 | An iron mask | 85 credits |
+| 36 | Some iron intra caligae | 85 credits |
+| 37 | Some iron thigh greaves | 90 credits |
+| 38 | Some iron greaves | 90 credits |
+| 39 | An iron cuirass | 110 credits |
+| 40 | Some iron galeri | 110 credits |
+| 41 | A lorica segmentata | 120 credits |
 
-*Additional custom items will sometimes be in the display case; type and cost vary.*
+*Rotating customized items may also appear in the display case; their availability and prices vary.*
 
 **Note:** Shield quality can be enhanced at the cost of additional credits.
 
 ##### Jewelry Vendor {#Jewelry}
 
-*All items listed below are merely examples of pricing and style. This shop is entirely stocked by custom items.*
-
-| Item | Credit Cost |
-| --- | --- |
-| 1. Necklace of strung amethyst chips (custom / see display case) | 11 credits |
-| 2. Torc of twisted gold (custom / see display case) | 16 credits |
-| 3. Delicate silver bracelet with tiny green tourmaline charms (custom / see display case) | 12 credits |
-| 4. Slender golden bracelet (custom / see display case) | 14 credits |
-| 5. Thin gold necklace with silver accents (custom / see display case) | 15 credits |
-| 6. Smooth silver bracelet bearing silver ornaments (custom / see display case) | 12 credits |
-| 7. Silver ring set with a sardonyx cabochon (custom / see display case) | 9 credits |
-| 8. Silver bracelet with turquoise charms (custom / see display case) | 9 credits |
-| 9. Bronze bracelet with peridot charms (custom / see display case) | 3 credits |
-| 10. Zinc bracelet with malachite charms (custom / see display case) | 3 credits |
-| 11. Bold bronze anklet (custom / see display case) | 3 credits |
-| 12. Zinc anklet with mica charms (custom / see display case) | 3 credits |
-| 13. Bronze anklet with beryl charms (custom / see display case) | 5 credits |
+*This vendor is stocked with rotating custom jewelry. Item styles, availability, and credit costs vary; consult the in-game display case for the current selection.*
 
 ##### Miscellaneous Vendor {#Misc}
 
-| Item | Credit Cost |
-| --- | --- |
-| 1. Knife | 1 credit |
-| 2. Fishing pole | 1 credit |
-| 3. Leather belt hoop | 1 credit |
-| 4. Brass lantern | 1 credit |
-| 5. Bronze lantern crafted into a rose | 2 credits |
-| 6. Bronze lantern crafted into a wolf | 2 credits |
-| 7. Bronze lantern crafted into a lion's head | 2 credits |
-| 8. Bronze lantern crafted into a rearing stallion | 2 credits |
-| 9. Bronze trowel | 2 credits |
-| 10. Timber axe | 1 credit |
-| 11. Ceramic lantern | 1 credit |
-| 12. Large sack | 1 credit |
+| # | Item | Credit Cost |
+| ---: | --- | ---: |
+| 1 | A knife | 1 credit |
+| 2 | A fishing pole | 1 credit |
+| 3 | A leather belt hoop | 1 credit |
+| 4 | A brass lantern | 1 credit |
+| 5 | A timber axe | 1 credit |
+| 6 | A ceramic lantern | 1 credit |
+| 7 | A large sack | 1 credit |
+| 8 | A torch | 1 credit |
+| 9 | A bronze lantern crafted into a rose | 2 credits |
+| 10 | A bronze lantern crafted into a wolf | 2 credits |
+| 11 | A bronze lantern crafted into a lion's head | 2 credits |
+| 12 | A bronze lantern crafted into a rearing stallion | 2 credits |
+| 13 | A bronze trowel | 2 credits |
+| 14 | A backpack | 2 credits |
+| 15 | A polished silver lockpick | 2 credits |
+| 16 | A hooded cloak | 50 credits |
+
+*Rotating customized items may also appear in the display case; their availability and prices vary.*
 
 ### Skill Trainers {#GSPs}
 
