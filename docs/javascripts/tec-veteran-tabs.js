@@ -128,6 +128,83 @@ TEC.addPageEnhancer("veteran-tabs", function (root, ctx) {
     });
   }
 
+  // Vendor headings are h5, while trainer headings are h4. Keep their
+  // existing anchor IDs so direct links to individual shops still work.
+  function buildVendorTabs() {
+    var labels = ["Weapons", "Clothing", "Armor", "Jewelry", "Miscellaneous"];
+    var headings = Array.from(root.querySelectorAll("h5")).filter(function (h) {
+      return labels.some(function (label) { return TEC.headingText(h) === label + " Vendor"; });
+    });
+    if (headings.length !== labels.length) return;
+    var shell = doc.createElement("section");
+    shell.className = "tec-tabs tec-vendor-tabs";
+    var bar = doc.createElement("div");
+    bar.className = "tec-tabs__bar";
+    bar.setAttribute("role", "tablist");
+    bar.setAttribute("aria-label", "Veteran Character vendors");
+    var panels = doc.createElement("div");
+    panels.className = "tec-tabs__panels";
+    headings[0].parentNode.insertBefore(shell, headings[0]);
+    shell.appendChild(bar);
+    shell.appendChild(panels);
+    headings.forEach(function (heading, index) {
+      var button = doc.createElement("button");
+      var panel = doc.createElement("div");
+      var id = "vc-vendor-" + index;
+      button.type = "button";
+      button.className = "tec-tabs__tab";
+      button.id = id + "-tab";
+      button.textContent = labels[index];
+      button.setAttribute("role", "tab");
+      button.setAttribute("aria-controls", id);
+      button.setAttribute("aria-selected", index === 0 ? "true" : "false");
+      button.tabIndex = index === 0 ? 0 : -1;
+      panel.id = id;
+      panel.className = "tec-tabs__panel";
+      panel.setAttribute("role", "tabpanel");
+      panel.setAttribute("aria-labelledby", button.id);
+      panel.hidden = index !== 0;
+      var node = heading;
+      var end = headings[index + 1] || null;
+      while (node && node !== end) {
+        if (node.nodeType === 1 && /^H[1-4]$/.test(node.tagName)) break;
+        var next = node.nextSibling;
+        panel.appendChild(node);
+        node = next;
+      }
+      heading.classList.add("tec-tabs__source-heading");
+      panels.appendChild(panel);
+      bar.appendChild(button);
+      button.addEventListener("click", function () {
+        Array.from(bar.children).forEach(function (tab, i) {
+          var active = i === index;
+          tab.setAttribute("aria-selected", active ? "true" : "false");
+          tab.tabIndex = active ? 0 : -1;
+          panels.children[i].hidden = !active;
+        });
+      });
+      button.addEventListener("keydown", function (event) {
+        var all = Array.from(bar.children);
+        var pos = all.indexOf(button);
+        if (event.key === "ArrowRight") pos = (pos + 1) % all.length;
+        else if (event.key === "ArrowLeft") pos = (pos - 1 + all.length) % all.length;
+        else return;
+        event.preventDefault();
+        all[pos].focus();
+        all[pos].click();
+      });
+    });
+    // Preserve direct links from the table of contents and external pages.
+    function activateHash() {
+      var hash = decodeURIComponent(location.hash.slice(1));
+      var index = headings.findIndex(function (h) { return h.id === hash || !!h.querySelector('[id="' + hash.replace(/[^a-zA-Z0-9_-]/g, "") + '"]'); });
+      if (index >= 0) bar.children[index].click();
+    }
+    window.addEventListener("hashchange", activateHash);
+    activateHash();
+  }
+
+  buildVendorTabs();
   buildTabset(groups[0], 0);
   buildTabset(groups[1], 1);
 });

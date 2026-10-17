@@ -3167,3 +3167,24 @@ body:has([data-md-toggle="search"]:checked) .tec-topnav {
 
 .tec-rules-notice { margin: .85rem 0 1.1rem; padding: .8rem 1rem; border-left: 4px solid #967b38; border-radius: .35rem; background: rgba(171,137,52,.11); }
 .tec-rules-notice p { margin: 0; }
+
+/* Veteran Character vendor inventory: compact item-number column. */
+.md-typeset .tec-vendor-tabs table:not([class]) {
+  width: 100%;
+  min-width: 0;
+  table-layout: auto;
+}
+.md-typeset .tec-vendor-tabs table:not([class]) th:first-child,
+.md-typeset .tec-vendor-tabs table:not([class]) td:first-child {
+  width: 2.5rem;
+  min-width: 2.5rem;
+  max-width: 2.5rem;
+  padding-left: .3rem;
+  padding-right: .3rem;
+  white-space: nowrap;
+}
+.md-typeset .tec-vendor-tabs table:not([class]) th:last-child,
+.md-typeset .tec-vendor-tabs table:not([class]) td:last-child {
+  width: 6rem;
+  white-space: nowrap;
+}

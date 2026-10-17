@@ -250,6 +250,7 @@ Use those credits to appoint your character:
 | 17 | A robe | 1 credit |
 | 18 | A paenula | 1 credit |
 | 19 | A sagum | 1 credit |
+| 20 | A hooded cloak | 50 credits |
 
 *Rotating customized items may also appear in the display case; their availability and prices vary.*
 
@@ -328,7 +329,6 @@ Use those credits to appoint your character:
 | 13 | A bronze trowel | 2 credits |
 | 14 | A backpack | 2 credits |
 | 15 | A polished silver lockpick | 2 credits |
-| 16 | A hooded cloak | 50 credits |
 
 *Rotating customized items may also appear in the display case; their availability and prices vary.*
 
