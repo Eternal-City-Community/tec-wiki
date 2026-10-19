@@ -82,7 +82,7 @@ A rank of **1 signifies the best** in this category.
 Weapon round time with outstanding speed (190+):
 
 | >> | Weapon and Shield | Most Attacks | Lunge and Strike &<br>Stab and Swing | Bash and Jab &<br>Slam and Thrust | Rotating Bash &<br>Basic Attack | Feint |
-| --- | :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | wood spear<br>tin short spear<br>alanti spear<br>alanti short spear<br>retalq spear<br>retalq short spear | with light shield | 1 + MoS | 2 + MoS | 2 + MoS | 2 + MoS | 1 + MoS |
 | retalq short spear | with heavy shield | 1 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
 | boison spear<br>boison short spear<br>iron short spear | with light shield | 2 + MoS | 2 + MoS | 3 + MoS | 2 + MoS | 1 + MoS |
