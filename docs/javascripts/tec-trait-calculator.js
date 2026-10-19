@@ -16,7 +16,7 @@ function renderStatPlanner(picked){
  if(names.has("Night Owl"))mods.Perception+=statTime==="night"?20:-20;
  const base=stat=>{const v=statValues[stat];if(v.raw!=="")return [Number(v.raw),Number(v.raw)];return STAT_TIERS.find(t=>t[0]===v.tier).slice(1)};
  const eff=stat=>base(stat).map(n=>n*(1+mods[stat]/100));
- const show=a=>a.map(n=>String(Math.round(n))).join(a[0]===a[1]?"":"–");
+ const show=a=>a.length===2&&a[0]===a[1]?String(Math.round(a[0])):a.map(n=>String(Math.round(n))).join("–");
  const section=el("section","tt-stat-planner"),toggle=el("button","tt-stat-toggle","Character Stats & Bonuses "+(statExpanded?"▴":"▾"));
  toggle.type="button";toggle.setAttribute("aria-expanded",String(statExpanded));toggle.addEventListener("click",()=>{statExpanded=!statExpanded;render()});section.append(toggle);
  if(!statExpanded)return section;
