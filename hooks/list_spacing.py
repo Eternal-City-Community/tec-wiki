@@ -8,9 +8,10 @@ Python-Markdown only starts a list after a blank line, so
 
 would run together as one paragraph. Pages (and the editor preview, which
 follows CommonMark) expect a list there, so a blank line is added before a
-`* ` line that follows paragraph text. Numbered lines are left alone: a list
-would be renumbered from 1, and map legends continue their numbering across
-sections (`24. Trainer`), so they stay as plain numbered lines.
+bullet line (`* `, `- ` or `+ `) that follows paragraph text. Numbered lines
+are left alone: a list would be renumbered from 1, and map legends continue
+their numbering across sections (`24. Trainer`), so they stay as plain
+numbered lines.
 
 Left untouched: front matter, fenced code, tables, headings, quotes, indented
 lines, lines inside HTML blocks that are not marked `markdown`, and lines that
@@ -18,7 +19,8 @@ continue a list already started in the same block.
 """
 import re
 
-_ITEM = re.compile(r"^ {0,3}\* +\S")
+_ITEM = re.compile(r"^ {0,3}[*+-] +\S")
+_ANY_ITEM = re.compile(r"^ {0,3}[*+-] +\S", re.M)
 _FENCE = re.compile(r"^(```|~~~)")
 # A line that opens or closes a block-level HTML element.
 _BLOCK_TAG = re.compile(
@@ -86,6 +88,6 @@ def space_lists(markdown):
 
 
 def on_page_markdown(markdown, page, config, files):
-    if "*" not in markdown:
+    if not _ANY_ITEM.search(markdown):
         return markdown
     return space_lists(markdown)

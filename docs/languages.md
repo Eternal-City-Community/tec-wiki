@@ -43,14 +43,14 @@ Learning a language is not *(mechanically)* difficult, but it can be a long and 
 
 1. **Approach the desk attendant:** Once inside the library, type `app desk` to approach the library attendant.
 2. **Ask about your language of choice**
-   - Ask the attendant about "languages" to learn what is offered. Or, tell him the name of the language you would like to study and he will escort you to a language tutor.
-   - The Library only teaches the "cultured" languages of Midlight, and you may learn about others during the course of your gameplay.
-   - Only 1 person can learn from a tutor at a time; it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
+    - Ask the attendant about "languages" to learn what is offered. Or, tell him the name of the language you would like to study and he will escort you to a language tutor.
+    - The Library only teaches the "cultured" languages of Midlight, and you may learn about others during the course of your gameplay.
+    - Only 1 person can learn from a tutor at a time; it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
 3. **Study with your tutor:** When you are with your language tutor, they will say a phrase and you will need to repeat it using the `echo <tutor>` command to earn language SP. With enough practice, you will gain enough proficiency to rank up in the language.
-   - Skill point gain for languages is **unlike** other [skills](/skills/). You will automatically increase 1 rank in a language after you have earned 1 skill point for that practice.
-   - Reaching rank 50 means you are fluent in the language.
+    - Skill point gain for languages is **unlike** other [skills](/skills/). You will automatically increase 1 rank in a language after you have earned 1 skill point for that practice.
+    - Reaching rank 50 means you are fluent in the language.
 4. **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
-   - You can only attempt to **learn** from any tutor **20 times a *(real-life)* day**. After that, they'll inform you that they've taught you all they can for the day and escort you out.
+    - You can only attempt to **learn** from any tutor **20 times a *(real-life)* day**. After that, they'll inform you that they've taught you all they can for the day and escort you out.
 
 #### Mastering Languages {#Success}
 
@@ -95,11 +95,11 @@ Within the [Town of Rock Valley](/town-of-rock-valley/) lives the **Blackroot la
 Once outside the tutor's door:
 
 1. **Knock on the door to enter.**
-   - Only 1 person can learn from a tutor at a time; it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
+    - Only 1 person can learn from a tutor at a time; it's possible the language tutor is busy with someone else and you would need to come back later or select another language.
 2. **Study with your tutor:** When you are with a tutor, echo what he says (`echo man`). If you are successful, and with enough practice, you will gain some proficiency in the language.
-   - Skill point gain for languages is unlike other skills. You will automatically rank up in languages after you have earned 1 skill point from your practice.
+    - Skill point gain for languages is unlike other skills. You will automatically rank up in languages after you have earned 1 skill point from your practice.
 3. **Depart:** Your tutor will conclude your lesson after you have had 20 lessons that *(real-life)* day. If you would like to leave early, tell your tutor **"Let me out"** or **"I'm ready to leave"**.
-   - You can only have 20 total lessons per day, regardless of which language you are studying.
+    - You can only have 20 total lessons per day, regardless of which language you are studying.
 
 ### Monlon - Kelestian Healer {#Kelestian}
 Within the [Monlon Battlefield](/monlon-battlefield/) resides a happy [Kelestian](/kelestia/) healer who speaks the **Kelestian language** as she heals, allowing you to [glean](/skills/#glean) certain amounts each day. 

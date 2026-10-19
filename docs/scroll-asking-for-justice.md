@@ -58,4 +58,4 @@ One more verse and I think this is finished,
 Hand these words out to every child, woman and man.
 To the high born and senate we plant this seed,
 The truth behind office, the corruption and greed.
-- Written in anonymity, to escape being arrested -
+\- Written in anonymity, to escape being arrested -

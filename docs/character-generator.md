@@ -803,7 +803,7 @@ Hit <return> to continue...
 [Back To Top](#)
 
 Because of your nation choice, you automatically have the following advantages:
-  - Trait: Citizenship
+  \- Trait: Citizenship
 
 Hit <return> to continue...
 
