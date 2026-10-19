@@ -1,0 +1,26 @@
+name: Benchmark TEC Git History
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  benchmark:
+    # Run automatically for the initial benchmark commit; otherwise opt-in only.
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[benchmark-git]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout baseline (shallow)
+        uses: actions/checkout@v4
+        with:
+          path: baseline
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Checkout filtered candidate (shallow)
+        uses: actions/checkout@v4
+        with:
+          path: filtered
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Compare full-history and blob-filtered history retrieval
+        run: python baseline/tools/benchmark_git_history.py baseline filtered
