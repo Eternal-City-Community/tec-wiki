@@ -1,0 +1,23 @@
+name: Benchmark TEC MkDocs Search
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  benchmark:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.head_commit.message, '[benchmark-mkdocs]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - name: Install site dependencies
+        run: pip install -r requirements.txt
+      - name: Compare MkDocs builds with and without search indexing
+        run: python tools/benchmark_mkdocs_search.py
