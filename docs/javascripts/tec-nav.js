@@ -128,7 +128,7 @@ function initTecTopNav() {
         '<a href="/admin/#/workflow">Review Workflow</a>' +
         '<a href="/admin/#/media">Media Library</a>' +
         link("Editing Help","browser-editing") +
-        '<a href="' + repo + '/commits/main">Recent changes</a>' +
+        link("Recent changes","whats-new") +
         '<a href="' + repo + '/issues">Report a problem</a>' +
         fly("Maintainer Tools", "", [
           '<a href="' + repo + '/blob/main/docs/javascripts/tec-nav.js">Edit top menu</a>',
