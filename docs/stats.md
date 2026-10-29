@@ -1,6 +1,6 @@
 ---
-title: "Stats"
-category: "Reference"
+title: Stats
+category: Reference
 parent: character-generator
 ---
 
@@ -241,6 +241,7 @@ A character will gain attribute increases slowly by using her skills and actions
 * You feel as if you are moving a little quicker. ([Speed](#Speed))
 * You feel as if you are able to put more power into the movement. ([Strength](#Strength))
 * You feel as if your confidence has improved. ([Willpower](#Willpower))
+* You feel a burst of confidence. ([Willpower](#Willpower))
 
 
 
