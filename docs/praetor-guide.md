@@ -78,19 +78,15 @@ The **All** view always receives everything. **Filtered text views** use your ow
 | `*` | any run of characters, including none | `You hit the*rat` | You hit the rat, You hit the giant rat | You hit a rat |
 | `?` | exactly one character | `?at` | rat, cat, hat | at |
 
-To build a Think/OOC view:
+#### Create and place a filtered text view
+
+This example creates a **Think/OOC** view, then places it in a sidebar. The same steps work for any filtered text view.
 
 **1.** Press **Esc**, choose **Layout & display**, then **View Library**.
 
-**2.** Choose the character that owns the view, add a filtered text view, and name it:
+**2.** Choose the character that owns the view. Enter **Think/OOC** under **New filtered text view**, then use **+** to create it.
 
-
-~~~
-Think/OOC
-~~~
-
-
-**3.** Add these three include patterns, one per rule:
+**3.** Under **Rules**, choose **+ Add rule** three times and enter these include patterns, one per rule:
 
 
 ~~~
@@ -100,9 +96,23 @@ You think aloud
 ~~~
 
 
-**4.** Open **Arrange layout** and drag **Think/OOC** from that character's Bench into **Main tabs** or a sidebar. View and layout changes save immediately.
+![View Library editing a Think/OOC filtered text view with three match rules](/assets/wikidot/praetor-guide/praetor-view-library-rules.png)
 
-To build a Combat/Skills view:
+Every rule starts active and uses **matches**. Change a rule to **excludes** when matching lines should be kept out of the view. **Route command echoes** also lets an exclude-only view receive commands you send.
+
+**4.** Close the View Library, then open **Layout & display → Arrange layout**. A newly created view starts on that character's **Bench**.
+
+![Layout editor showing the new Think/OOC view on the Bench](/assets/wikidot/praetor-guide/praetor-view-layout-bench.png)
+
+**5.** Drag **Think/OOC** from the Bench into **Main tabs** or a sidebar. The placement bar shows where it will land. If you choose a sidebar, set the view's height there.
+
+![Layout editor showing Think/OOC placed in Sidebar 2](/assets/wikidot/praetor-guide/praetor-view-layout-placed.png)
+
+**6.** Close the layout editor. View rules and placement save immediately; the new view begins routing matching lines as soon as they arrive.
+
+![Think and OOC output routed into the new sidebar view](/assets/wikidot/praetor-guide/praetor-layout-filtered-text-sidebar.png)
+
+For another example, build a **Combat/Skills** view:
 
 **1.** In **View Library** again, add a filtered text view and name it:
 
@@ -600,6 +610,8 @@ Slash commands are not interpreted inside a multi-line block.
 
 The Esc menu is Praetor's main navigation. Its top row provides quick actions for **Character**, **Mode**, **Play a script**, **Send a file**, and **Reload scripts**. **Find a setting** searches every menu entry's name and explanation.
 
+![Praetor Esc menu with quick actions, search, and grouped settings](/assets/wikidot/praetor-guide/praetor-menu.png)
+
 The remaining entries are grouped by purpose and display their scope:
 
 | Section | Entries |
@@ -625,6 +637,8 @@ The old single Settings screen is now divided by purpose:
 * **Layout & display → Text & display settings**: Colorwords, wound highlighting, map and compass scale, desktop output text size, and the mobile-web display controls.
 * **Notifications & logs → Logging**: session transcript logging, application-log retention, and log path.
 * **Application → Application settings**: Hide IP addresses and Check for updates on startup.
+
+![Input behavior screen inside the grouped Esc menu](/assets/wikidot/praetor-guide/praetor-settings.png)
 
 **Colorwords** finds recognized color names in game text and renders each word in an approximation of that color. It does not recolor the whole line; use Speech colors for that.
 
@@ -760,6 +774,8 @@ retalq
 **4.** Reorder rules to set their precedence, then click **Save**. You can toggle a highlight off or delete it at any time. Highlights belong to the active character profile.
 
 **Notifications** can raise local desktop or browser alerts and can send selected alerts to a Discord channel through a webhook. Open **Esc → Notifications & logs → Notifications**.
+
+![Notification settings with separate health, fatigue, string, and Discord controls](/assets/wikidot/praetor-guide/praetor-notifications.png)
 
 Health, Fatigue, and every String match have their own controls:
 
