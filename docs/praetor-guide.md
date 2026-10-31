@@ -7,7 +7,7 @@ parent: praetor
 # Praetor Guide
 
 
-This page covers using the desktop app once it's installed. For installing it, and for a quick reference of every shortcut and slash command, see [Praetor](/praetor/).
+This page covers the desktop and web interfaces once Praetor is running. For installing the desktop app, and for a quick reference of every shortcut and slash command, see [Praetor](/praetor/).
 
 [TOC]
 
@@ -15,44 +15,78 @@ This page covers using the desktop app once it's installed. For installing it, a
 
 ![Praetor desktop interface with numbered layout callouts](/assets/wikidot/praetor-guide/praetor-layout-callouts.png)
 
-The numbered legend below matches the callouts in the picture.
+The picture shows the default desktop arrangement. The numbered legend below matches its callouts, but most views can now be moved.
 
 1. **Status bar**: your vitals, a lighting readout (click it to check the light level), and whether you're connected.
-2. **Tab bar**: **All** is always there, plus any custom tabs you've set up and a **Metrics** tab. See Tabs below.
-3. **Output pane**: game text scrolls here. The mouse wheel and PgUp/PgDn scroll it, and a burst of incoming text keeps following the bottom unless you've scrolled up to read back.
-4. **Minimap**: rooms as colored squares. White lines are open passages, black lines are walls, brighter squares are better-lit rooms.
-5. **Compass**: green arrows are exits you can take right now. The center dot carries up/down markers when a room has them.
-6. **Vitals**: Health, Fatigue, Encumbrance, and Satiation. Click one to check your exact condition.
-7. **Actions, Modes, and Variables tabs**: **Actions** holds your own button sets (set them up under **Action Sets** in the Esc menu). **Modes** lists the loaded automation modes. **Variables** manages saved values you can insert into typed commands and Action buttons. Changes made here are the same ones shown under **Automation**, then **Variables**, in the Esc menu.
-8. **Command input**: where you type to the game. A **hint line** appears just above it while you type a slash command, showing what the command expects.
-9. **Automation Bar**: PraetorScript status fills the left side, while the play and current-mode buttons stay fixed on the right. The play button starts a play script (see Play scripts below), and the button beside it shows the running mode. Click it to switch. While a PraetorScript chain is active, the play button is replaced by a **Stop** button that discards the rest of the chain.
+2. **Main tab bar**: **All** is fixed first. Any other built-in or filtered text view placed in **Main tabs** appears here.
+3. **Output pane**: the selected text view scrolls here. The mouse wheel and PgUp/PgDn scroll it, and incoming text keeps following the bottom unless you've scrolled up.
+4. **Map view**: rooms as colored squares. White lines are open passages, black lines are walls, and brighter squares are better-lit rooms.
+5. **Compass view**: green arrows are exits you can take right now. The center dot carries up/down markers when a room has them.
+6. **Vitals view**: Health, Fatigue, Encumbrance, and Satiation. Click one to check your exact condition.
+7. **Action Sets, Modes, and Variables views**: Action Sets holds your command buttons, Modes controls Lua automation, and Variables edits reusable command values.
+8. **Command input**: where you type to the game. A hint line appears above it while you type a slash command.
+9. **Automation Bar**: PraetorScript status fills the left side. The character profile, play-script, and current-mode controls stay on the right. While a PraetorScript chain is active, **Play** becomes **Stop**.
 
-Regions 4 to 7 together are the **sidebar**. **Alt+S** hides or shows it. Right-click the output for a Copy/Paste menu. Ctrl+C copies a selection and Ctrl+V pastes into the input.
+Right-click the output for Copy and Paste. Ctrl+C copies a selection and Ctrl+V pastes into the input.
 
-### Tabs {#tabs}
+#### Arrange views and sidebars
 
-The **All** tab always receives everything. **Custom tabs** filter game text by your own include and exclude rules. A line appears in a tab if it matches any include rule and no exclude rule. Rules are case-insensitive substrings, with two wildcards:
+Open **Esc → Layout & display → Arrange layout**. Every display item is a **view**. The built-in views are **All**, **Metrics**, **Map**, **Compass**, **Vitals**, **Action Sets**, **Modes**, and **Variables**. A **Debug** view is available only when the client itself is running in debug mode. Your filtered text views appear by name and are labeled **Type: Filtered text**. Internal IDs are never shown.
+
+A view can occupy exactly one destination:
+
+* **Main tabs** puts it in the tab row above the output. All cannot be moved away from here.
+* A **sidebar** stacks it in that sidebar. You can add any number of named left or right sidebars and choose each one's order, width, view order, and view heights.
+* The **Bench** holds views that are not currently displayed. It is a searchable, independently scrolling column on the right of the editor.
+
+Drag a view to move it. A highlighted placement bar shows the exact insertion point, and every change saves immediately for the active character. Removing a view from a destination returns it to the Bench. Deleting a sidebar also returns all of that sidebar's views to the Bench in their existing order.
+
+**Alt+S** turns all sidebars on or off for the active character. Each sidebar also has an explicit arrow button. A collapsed sidebar becomes a 30-pixel title rail and does not render its views; expand it with the same button. When the window is too narrow to preserve the main area, Praetor temporarily collapses outer sidebars and shows a toast explaining what happened. Manual collapse state is saved; responsive collapse is temporary.
+
+At widths below 900 pixels, the interface moves map navigation and **Actions / Modes / Menu** into a bottom dock, allows the status bar to scroll, and stacks responsive settings screens. praetor-web also follows the mobile browser's visible viewport as the software keyboard opens and respects safe-area insets. You can preview most width-dependent choices by resizing the desktop window, although browser permission, software-keyboard, and safe-area behavior still require a phone or tablet. The broader mobile-first interface is planned for 0.7.0.
+
+### Character profiles {#character-profiles}
+
+Praetor starts each login or restart on the global **Default** profile. Default is both the safe state before a character is selected and the template for new character profiles.
+
+Open **Esc → Character → Manage character profiles** to add, rename, or delete profiles. Give each character:
+
+* a unique profile name;
+* the TEC account used to reach that character picker; and
+* the positive character number shown in that account's picker.
+
+Character numbers only need to be unique within an account. Default cannot be renamed or deleted. Deleting another profile asks for confirmation and removes its layout, character overrides, and character-scoped Lua data.
+
+With **Automatically follow play and sleep commands** enabled, Praetor changes profiles after these commands are successfully sent:
+
+* `play 1` selects character number 1 for the logged-in account.
+* `play`, followed by `1`, does the same. Another intervening command cancels the pending choice.
+* `sleep` returns to Default.
+
+This detection also works when those game commands come from a PraetorScript chain or from Lua's `praetor_script()` function. Turn the option off when you want `play` and `sleep` to leave the active profile alone.
+
+The character button on the Automation Bar is a lightweight picker. A bare **/character** opens the full Character menu. **/character "Marcus Aurelius"** switches by profile name, and **/character global** returns to Default. Selecting the profile that is already active does nothing. A successful switch always opens that profile's **All** tab and may require stopping active Lua or play-script automation first.
+
+Variables, filtered views, Action Sets, the selected Action Set, Quick-Cycle Modes, High-Priority Commands, Highlights, layout placement, and long-term Lua data follow the active profile. New characters copy Default's variables and receive its starting configuration, then character-specific edits stay separate. Action Sets, Quick-Cycle Modes, and High-Priority Commands continue to inherit Default until you customize them for that character.
+
+### Views and tabs {#tabs}
+
+The **All** view always receives everything. **Filtered text views** use your own include and exclude rules. A line appears if it matches any active include rule and no active exclude rule. Rules are case-insensitive substrings, with two wildcards:
 
 | Wildcard | Stands for | Example rule | Matches | Doesn't match |
 | --- | --- | --- | --- | --- |
 | `*` | any run of characters, including none | `You hit the*rat` | You hit the rat, You hit the giant rat | You hit a rat |
 | `?` | exactly one character | `?at` | rat, cat, hat | at |
 
-![Custom Tabs editor with include and exclude rules](/assets/wikidot/praetor-guide/praetor-custom-tabs.png)
+#### Create and place a filtered text view
 
-To build a Think/OOC tab:
+This example creates a **Think/OOC** view, then places it in a sidebar. The same steps work for any filtered text view.
 
-**1.** Press **Esc**, choose **Behavior**, then **Custom Tabs**.
+**1.** Press **Esc**, choose **Layout & display**, then **View Library**.
 
-**2.** Add a new tab and name it:
+**2.** Choose the character that owns the view. Enter **Think/OOC** under **New filtered text view**, then use **+** to create it.
 
-
-~~~
-Think/OOC
-~~~
-
-
-**3.** Add these three include patterns, one per rule:
+**3.** Under **Rules**, choose **+ Add rule** three times and enter these include patterns, one per rule:
 
 
 ~~~
@@ -62,11 +96,25 @@ You think aloud
 ~~~
 
 
-**4.** Click **Save**.
+![View Library editing a Think/OOC filtered text view with three match rules](/assets/wikidot/praetor-guide/praetor-view-library-rules.png)
 
-To build a Combat/Skills tab:
+Every rule starts active and uses **matches**. Change a rule to **excludes** when matching lines should be kept out of the view. **Route command echoes** also lets an exclude-only view receive commands you send.
 
-**1.** In **Custom Tabs** again, add a new tab and name it:
+**4.** Close the View Library, then open **Layout & display → Arrange layout**. A newly created view starts on that character's **Bench**.
+
+![Layout editor showing the new Think/OOC view on the Bench](/assets/wikidot/praetor-guide/praetor-view-layout-bench.png)
+
+**5.** Drag **Think/OOC** from the Bench into **Main tabs** or a sidebar. The placement bar shows where it will land. If you choose a sidebar, set the view's height there.
+
+![Layout editor showing Think/OOC placed in Sidebar 2](/assets/wikidot/praetor-guide/praetor-view-layout-placed.png)
+
+**6.** Close the layout editor. View rules and placement save immediately; the new view begins routing matching lines as soon as they arrive.
+
+![Think and OOC output routed into the new sidebar view](/assets/wikidot/praetor-guide/praetor-layout-filtered-text-sidebar.png)
+
+For another example, build a **Combat/Skills** view:
+
+**1.** In **View Library** again, add a filtered text view and name it:
 
 
 ~~~
@@ -85,17 +133,19 @@ is no longer stunned
 ~~~
 
 
-**3.** Click **Save**.
+**3.** Open **Arrange layout** and place it in Main tabs or a sidebar.
 
-An exclude-only tab (no active include rules) can opt in to showing the commands you send, via that tab's own **Route command echoes (exclude-only tabs)** checkbox. Otherwise it would catch every echoed command, since an exclude-only tab matches everything not explicitly excluded.
+An exclude-only view (no active include rules) can opt in to showing the commands you send with **Route command echoes**. Otherwise it would catch every echoed command, since an exclude-only view matches everything not explicitly excluded.
 
-The **Metrics** tab is a session dashboard: kills, actions, session duration, and any metrics a running mode declares, plus a history of past sessions.
+The View Library is global: its left column lists every character's filtered views and shows whether each is in Main tabs, a named sidebar, the Bench, or unplaced. Editing still applies to the character selected in the editor. New views begin on that character's Bench.
 
-**Tab** and **Shift+Tab** cycle tabs. **Alt+1** through **Alt+9** and **Alt+0** jump straight to a tab (0 is the tenth).
+The **Metrics** view is a session dashboard: kills, actions, session duration, and any metrics a running mode declares, plus a history of past sessions.
+
+When Metrics or a filtered text view is placed in Main tabs, **Tab** and **Shift+Tab** cycle the main tabs. **Alt+1** through **Alt+9** and **Alt+0** jump straight to a tab (0 is the tenth).
 
 ### PraetorScript {#praetorscript}
 
-Beginning with **Praetor 0.5.0**, single-line command input and Action Set buttons support **PraetorScript**, a lightweight language for combining commands, saved values, timing, and reactions to game text.
+Single-line command input and Action Set buttons support **PraetorScript**, a lightweight language for combining commands, saved values, live character vitals, timing, and reactions to game text.
 
 PraetorScript is intended for short command sequences. It does not replace Lua modes or **/play** scripts.
 
@@ -110,7 +160,7 @@ get ${weapon}
 ~~~
 
 
-Variables are managed through the sidebar's **Variables** tab or **Esc → Automation → Variables**. You can also create or replace one from the command input with `/set-variable name value` (or the shorter `/set-var`).
+Variables are managed through the **Variables** view or **Esc → Input & commands → Variables**. You can also create or replace one from the command input with `/set-variable name value` (or the shorter `/set-var`). Variables belong to the active character profile.
 
 Add a fallback after a colon when a variable might be empty or missing:
 
@@ -127,6 +177,40 @@ Variable names are case-sensitive. Values and fallbacks are inserted once and ar
 
 An unknown variable without a fallback rejects the entire submission before anything is sent.
 
+#### Live values: `my.*`
+
+PraetorScript also exposes four read-only values from the game's live status updates:
+
+| Value | Current percentage |
+| --- | --- |
+| `my.health` | Health |
+| `my.fatigue` | Fatigue |
+| `my.encumbrance` | Encumbrance |
+| `my.satiation` | Satiation |
+
+Use `${my.health}` anywhere ordinary PraetorScript interpolation is accepted. Unlike a saved variable, a `my.*` value is resolved when that step executes, so a later step sees the latest status:
+
+
+~~~
+$(notify "Vitals" "Health ${my.health}, fatigue ${my.fatigue}")
+$(set-var last_health ${my.health})
+~~~
+
+
+Live interpolation also works in game commands, `wait` durations, `wait-for` timeouts, repeat commands and limits, and `add-var` amounts. A fallback such as `${my.health:unknown}` is used until Praetor has observed that value. Saved variables do not recursively turn into live references.
+
+For `wait-for`, `until`, and `cancel-on`, use a bare `my.*` comparison with `==`, `!=`, `<`, `<=`, `>`, or `>=`:
+
+
+~~~
+$(wait-for my.health >= 75 timeout 30)
+$(repeat "rest" until my.fatigue <= 20)
+$(repeat "advance" until "You arrive" cancel-on my.health <= 25 max 10)
+~~~
+
+
+These conditions are rechecked whenever Praetor receives a new status update. The right side must be numeric, but it may come from a saved or live value, such as `my.health >= ${safe_health:75}`.
+
 #### Fixed delays: `;;`
 
 Separate commands with `;;` to send them in order using the configured chain delay:
@@ -139,7 +223,7 @@ stand;;look;;inventory
 
 Praetor sends `stand`, waits for the configured delay, sends `look`, waits again, and then sends `inventory`.
 
-The default delay is 900 milliseconds. Change it under **Esc → Behavior → Settings → ;; chain delay**.
+The default delay is 900 milliseconds. Change it under **Esc → Input & commands → Input behavior → ;; chain delay**.
 
 A single semicolon is ordinary text.
 
@@ -155,7 +239,7 @@ stand&&climb wall&&look
 
 Praetor sends `stand` and waits for a recognized unbusy response. After the configured response delay, it sends `climb wall`. The next unbusy response advances the chain to `look`.
 
-The default response delay is 100 milliseconds. Change it under **Esc → Behavior → Settings → && response delay**.
+The default response delay is 100 milliseconds. Change it under **Esc → Input & commands → Input behavior → && response delay**.
 
 Recognized responses include:
 
@@ -241,7 +325,7 @@ look;;$(notify "Finished looking")
 ~~~
 
 
-`notify` displays a Praetor notification and requests an operating-system desktop notification, then continues the chain.
+`notify` displays an in-app notice, requests the available desktop or browser notification, and uses the script Discord destination when it is enabled, then continues the chain. It is not gated by the Lua-script notification permission.
 
 Pass two quoted strings to give the notification a custom title:
 
@@ -454,6 +538,16 @@ Pending chains are also discarded when the connection closes or is replaced.
 
 Plain **Enter** sends the input line to the game. **Up** and **Down** recall earlier commands from your history, when the caret sits on the input's first or last line.
 
+TEC's leading double quote remains ordinary game input for targeted speech. For example, this is sent to the game exactly as written rather than being consumed by Praetor:
+
+
+~~~
+"apula Good morning
+~~~
+
+
+Only a slash in the first non-whitespace position begins a Praetor slash command. An unknown slash command produces visible feedback instead of silently disappearing.
+
 **Ctrl+R** opens reverse history search, readline-style: type to filter, **Ctrl+R** again steps to an older match, **Enter** sends the match, **Esc** cancels.
 
 **Tab** completes a slash command when the hint line is showing a suggestion.
@@ -488,18 +582,19 @@ Anything you type starting with a slash is handled by Praetor itself and never r
 
 | Command | Arguments | Description |
 | --- | --- | --- |
-| /help |  | Search game help; show input syntax, key bindings, and commands |
-| /guide |  | Open the getting-started window and Praetor wiki links |
-| /list |  | Browse the loaded modes |
+| /help |  | Open **Tools & help → Help** for game search, syntax, keys, and commands |
+| /guide |  | Open **Application → Getting started** and Praetor wiki links |
+| /list |  | Open **Automation → Switch mode** to browse loaded modes |
+| /character | [name\|global] | Open the Character menu, select a profile by name, or return to Default |
 | /mode (/sm) | <name> [args…] | Start a mode |
 | /toggle | &lt;label&gt; | Toggle a mode state value |
 | /set | &lt;label&gt; <value> | Set a mode state value |
 | /set-variable (/set-var) | &lt;name&gt; <value> | Create or replace a saved command variable |
-| /calc (/rb) |  | Rank-bonus calculator |
-| /wiki | [name] | Open a wiki bookmark, or list them |
-| /maps | [name] | Open a map bookmark, or list them |
-| /kudos | [name] [message] | Kudos menu, add a favorite, or queue one |
-| /notes | [add\|open\|delete\|list] [title] | Notepad |
+| /calc (/rb) |  | Open **Tools & help → Rank-bonus calculator** |
+| /wiki | [name] | Open **Tools & help → Wiki bookmarks**, or open one by name |
+| /maps (/map) | [name] | Open **Tools & help → Map bookmarks**, or open one by name |
+| /kudos | [name] [message] | Open **Tools & help → Kudos**, add a favorite, or queue one |
+| /notes | [add\|open\|delete\|list] [title] | Open **Tools & help → Notes** or act on a note |
 | /send |  | Pick a text file, expand saved variables, and send it to the game |
 | /play |  | Pick a script and perform it |
 | /pause |  | Hold the running performance |
@@ -513,86 +608,59 @@ Slash commands are not interpreted inside a multi-line block.
 
 ### The Esc menu {#menu}
 
-This is the main entrypoint to all Praetor menus
+The Esc menu is Praetor's main navigation. Its top row provides quick actions for **Character**, **Mode**, **Play a script**, **Send a file**, and **Reload scripts**. **Find a setting** searches every menu entry's name and explanation.
 
-The items are grouped by purpose:
+![Praetor Esc menu with quick actions, search, and grouped settings](/assets/wikidot/praetor-guide/praetor-menu.png)
 
-#### Behavior
+The remaining entries are grouped by purpose and display their scope:
 
-* Settings: the app's general options, listed below
-* Custom Tabs: build your own filtered output tabs
-* Notifications: desktop alerts for low vitals, text patterns, and opt-in Lua script alerts
-* Retro CRT Effects: optional scanline and glow styling for the output pane
+| Section | Entries |
+| --- | --- |
+| **Character** | Switch character; Manage character profiles |
+| **Layout & display** | Arrange layout; View Library; Text & display settings; Highlights; Speech colors; Ignored OOC accounts; Ignored Think characters |
+| **Input & commands** | Input behavior; Variables; Action sets; High-priority commands |
+| **Automation** | Switch mode; Quick-cycle modes; Script Manager; Reload scripts; Long-term script data |
+| **Notifications & logs** | Notifications; Logging |
+| **Themes** | Retro CRT effects |
+| **Tools & help** | Notes; Kudos; Rank-bonus calculator; Wiki bookmarks; Map bookmarks; Help |
+| **Application** | Application settings; Getting started |
 
-![Retro CRT Effects editor](/assets/wikidot/praetor-guide/praetor-crt-effects)
+**Current character** entries follow the active character profile. **All characters** entries are shared globally. **This device** entries affect the current desktop or browser device, and **Praetor server** entries affect the running backend.
+
+Logout and **Quit Praetor** are at the bottom of the desktop menu. The web client instead offers **Disconnect shared game** and **Sign out of web UI**. The full Theme Manager is planned for Praetor 0.7.0; 0.6.0 puts Retro CRT effects in its eventual home.
 
 #### Settings {#settings}
 
+The old single Settings screen is now divided by purpose:
 
-To change any setting:
+* **Input & commands → Input behavior**: typed and script command echo, input spellcheck, Retain Input After Send, `;;` and `&&` delays, and numpad navigation.
+* **Layout & display → Text & display settings**: Colorwords, wound highlighting, map and compass scale, desktop output text size, and the mobile-web display controls.
+* **Notifications & logs → Logging**: session transcript logging, application-log retention, and log path.
+* **Application → Application settings**: Hide IP addresses and Check for updates on startup.
 
-1. Press **Esc**
-2. Choose **Behavior**, then **Settings**
-3. Change what you need
-4. **Save**
+![Input behavior screen inside the grouped Esc menu](/assets/wikidot/praetor-guide/praetor-settings.png)
 
-![General Settings showing command timing, minimap zoom, compass scale, and other behavior controls](/assets/wikidot/praetor-guide/praetor-settings.png)
+**Colorwords** finds recognized color names in game text and renders each word in an approximation of that color. It does not recolor the whole line; use Speech colors for that.
 
-The settings are:
+On the web client, the display screen also controls whether the mobile Actions/Modes/Menu row and tab selector are shown, whether map and compass hide while the command input is active, whether the first command letter is lowercased, and the mobile output text size.
 
-* **Output text size**: pick a font size for the output pane
-* **Minimap Scale (Zoom)**: zoom level for the minimap
-* **Compass scale**: zoom level for the compass
-* **GUI sidebar width (px)**: width of the desktop sidebar in pixels
-* **GUI map height (px)**: height of the minimap area in pixels
-* **Color words**: render color names (crimson, azure, and so on) in an approximation of that color
-* **Echo typed commands**: show commands you type in the output, as italic text
-* **Echo script commands**: show commands a running mode sends, as italic text
-* **Hide IP addresses**: replace real IP addresses in game text with consistent fake ones, for example when streaming
-* **Input spellcheck**: spellcheck the command input
-* **Retain Input After Send**: keep the sent text selected in the input instead of clearing it
-* **;; chain delay (ms)**: pacing delay between commands separated by `;;` (default 900ms)
-* **&& response delay (ms)**: delay after an unbusy response before advancing an `&&` chain or repeat (default 100ms)
-* **Numpad navigation**: Only when NumLock is off, Always, or Never (see Moving around above)
-* **Check for updates on startup**: check GitHub for a newer release when Praetor starts
-* **Session transcript logging**: record timestamped game text to a log file
-* **Log path**: where session transcripts are written (blank means the default)
+#### Variables, action sets, and command priority
 
-#### Automation
+**Variables** stores reusable name/value pairs. Open it under **Input & commands**, or place the Variables view in a tab or sidebar. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with `${name}` in typed input, Action Set buttons, and **/send** files. Variables belong to the active character profile.
 
-* Variables: saved name/value pairs used by typed input, Action Set buttons, and /send files; this is the same editor as the sidebar Variables tab
-* Action Sets: your own sidebar buttons, with support for variables and command chains
-* Script Directories: the folders Praetor loads modes from
-* Quick-Cycle Modes: choose the modes Alt+M steps through
-* High-Priority Commands: commands that jump the queue instead of waiting
-* Persistent Data: what your modes have saved, with export and clear
-* Reload Scripts: rescan your script folders for changes
-
-![Action Sets editor with command buttons](/assets/wikidot/praetor-guide/praetor-action-sets.png)
-
-![Script Directories editor](/assets/wikidot/praetor-guide/praetor-script-directories.png)
-
-**Variables** stores reusable name/value pairs. Add a name and value, then save. Names must begin with a letter or underscore and can contain only letters, numbers, and underscores. Use them with `${name}` in typed input, Action Set buttons, and **/send** files. Editing variables here or in the sidebar updates the same saved list.
-
-`/set-variable` (or `/set-var`) and the PraetorScript `set-var` and `add-var` controls update this same list. Their changes are persisted and appear in the editor immediately, even if it is already open.
+`/set-variable` (or `/set-var`) and PraetorScript's `set-var` and `add-var` controls update the same list. Lua modes can use `variables.get` and `variables.set`. Every change is persisted and appears in an already-open editor immediately.
 
 ![Variables editor with count, target, and weapon values](/assets/wikidot/praetor-guide/praetor-variables.png)
 
-**Quick-Cycle Modes** lets **Alt+M** step through a chosen set of modes:
+**Action sets** are character-aware collections of command buttons. New character profiles inherit Default's sets until customized. A shared set keeps the same underlying identity so edits can apply everywhere it is used; copying a set creates an independent one. Buttons add or remove columns as the containing sidebar changes width.
 
-1. Press **Esc**
-2. Choose **Automation**, then **Quick-Cycle Modes**
-3. Toggle the modes you want in the cycle
-4. **Save**. Alt+M now advances through them in list order
+![Action Sets editor with command buttons](/assets/wikidot/praetor-guide/praetor-action-sets.png)
 
-![High-Priority Commands editor](/assets/wikidot/praetor-guide/praetor-priority-commands.png)
+**Quick-cycle modes** lets **Alt+M** step through a chosen list. Open **Automation → Quick-cycle modes**, toggle the modes, and save. A new profile inherits Default's list until you customize it.
 
+**High-priority commands** jump ahead of normal queued commands while preserving their order relative to other priority commands. Duplicate commands already waiting are dropped. If the queue is full, an incoming priority command replaces the newest normal command; if every queued command is already high priority, the incoming command is dropped.
 
-**High-Priority Commands** jump ahead of normal queued commands while preserving their order relative to other priority commands. Duplicate commands already waiting in the queue are dropped. If the queue is full, an incoming priority command replaces the newest normal command; if the queue contains only priority commands, the incoming command is dropped.
-
-**1.** Press **Esc**, choose **Automation**, then **High-Priority Commands**.
-
-**2.** Add the exact command text, one per entry:
+Open **Input & commands → High-priority commands**, add the exact command text, one per entry, and save:
 
 
 ~~~
@@ -601,14 +669,45 @@ retreat
 ~~~
 
 
-**3.** Click **Save**.
+![High-Priority Commands editor](/assets/wikidot/praetor-guide/praetor-priority-commands.png)
 
-#### Text Parsing and Display
+#### Wound highlighting
 
-* Highlights: color patterns in the output so drops and keywords stand out
-* Speech Colors: color a character's complete speech lines for quick identification
-* Ignore OOC Accounts: hide OOC chatter from accounts you name
-* Ignore Think Characters: hide think-channel text from characters you name
+Open **Layout & display → Text & display settings** and enable **Highlight wounds**. Choose a color family for cuts, bruises/fractures, punctures/wounds, and burns. Severity selects the shade automatically, with the highest levels bolded.
+
+Praetor 0.6.0 recognizes the verified combat catalogue and an observed subset of character-inspection descriptions, including `His right arm is badly scratched` and `Her face is completely black and blue`. The inspection mapping is provisional. Unknown, plural, treated, bleeding, and incomplete healer strings are deliberately left unchanged rather than guessed.
+
+TEC uses different wound wording in three contexts: the combat result when damage is dealt, the description seen when casually looking at a character, and the more detailed examination shown to a healer.
+
+The combat-result catalogue is:
+
+| Severity | Cuts | Bruises / fractures | Punctures / wounds | Burns |
+| --- | --- | --- | --- | --- |
+| 1 | `shallow cut` | `small bruise` | `faint wound` | `minor burn` |
+| 2 | `cut` | `bruise` | `puncture` | `burn` |
+| 3 | `deep cut` | `ugly bruise` | `deep puncture` | `moderate burn` |
+| 4 | `severe cut` | `major bruise` | `severe puncture` | `severe burn` |
+| 5 | `devastating cut` | `fracture` | `gaping wound` | **Not yet verified** |
+
+Retained game logs verify this provisional character-inspection catalogue:
+
+| Severity | Cuts | Bruises | Punctures | Burns |
+| --- | --- | --- | --- | --- |
+| 1 | `is scratched` | `is bruised` | `is punctured` | **Not yet verified** |
+| 2 | `is badly scratched` | `has a large bruise` | `is badly punctured` | **Not yet verified** |
+| 3 | `is slashed` | `has a large black bruise` | `is pierced` | **Not yet verified** |
+| 4 | `is slashed open` | `is badly bruised` | **Not yet verified** | **Not yet verified** |
+| 5 | **Not yet verified** | `is completely black and blue` | **Not yet verified** | **Not yet verified** |
+
+Those inspection severity numbers preserve the observed least-to-most-serious order but still need controlled confirmation. One retained healer log confirms this combined form without establishing a complete treatment catalogue:
+
+
+~~~
+His right shoulder has a large black bruise. It is not bleeding. There are some broken bones. His right shoulder is absolutely filthy. This part needs new bandages. There are no stitches on this part.
+~~~
+
+
+Additional game logs or primary wiki references are still needed for every unverified slot, fracture inspection text, and the full healer vocabulary for bleeding, cleanliness, bandages, splints, stitches, cuts, bruises, punctures, and burns.
 
 #### Ignore filters {#filters}
 
@@ -630,25 +729,11 @@ Click the placeholder to reveal that one line, or press **Alt+I** to reveal ever
 To ignore someone:
 
 1. Press **Esc**
-2. Choose **Text Parsing and Display**, then **Ignore OOC Accounts** (or **Ignore Think Characters**)
+2. Choose **Layout & display**, then **Ignored OOC accounts** (or **Ignored Think characters**)
 3. Add the name
 4. **Save**
 
-#### Tools & References
-
-* Kudos: favorite names and queued kudos messages
-* Rank-Bonus Calculator: rank-bonus and training-cost math
-* Wiki Bookmarks: open a TEC wiki page in your browser
-* Map Bookmarks: open a TEC map page in your browser
-* Notes: the notepad
-* Help: game-help search, input syntax, key bindings, and slash commands
-
-Each of these has its own section further down this page.
-
-#### Session
-
-* Logout: return to the account picker without quitting
-* Exit: close Praetor
+The ignore lists are shared across all character profiles.
 
 ### Speech colors {#speech-colors}
 
@@ -658,7 +743,7 @@ Praetor recognizes ordinary speech in the form `<person> <speech verb>, "<text>"
 
 To create a rule:
 
-1. Press **Esc**, choose **Text Parsing and Display**, then **Speech Colors**
+1. Press **Esc**, choose **Layout & display**, then **Speech colors**
 2. Choose **+ Add character** and enter the character name or pattern
 3. Open the color picker, search for a Colorword style, and select it
 4. Optionally turn on **Think** and/or **OOC** for that character
@@ -672,13 +757,11 @@ For a shortcut, right-click any line Praetor recognizes as colorable speech and 
 
 ### Highlights and notifications {#highlights}
 
-![Highlights editor with pattern and color controls](/assets/wikidot/praetor-guide/praetor-highlights.png)
-
 **Highlights** make text stand out with a colored background, useful for rare drops and other things you don't want to miss scrolling past. To add one:
 
-**1.** Press **Esc**, choose **Text Parsing and Display**, then **Highlights**.
+**1.** Press **Esc**, choose **Layout & display**, then **Highlights**. The screen states which character profile you are editing.
 
-**2.** Add a new highlight and type the text to match. It's a case-insensitive substring, not a wildcard:
+**2.** Add a new highlight and type the text to match. Matching is case-insensitive; `*` matches any run of characters, `?` matches one character, and saved variables such as `${loot}` are expanded live:
 
 
 ~~~
@@ -686,23 +769,33 @@ retalq
 ~~~
 
 
-**3.** It's created in the **gold** style by default. Cycle its style between **red**, **gold**, **green**, and **blue**.
+**3.** It starts in the **gold** style. Use the same searchable Colorword picker as Speech colors to choose another style.
 
-**4.** Click **Save**. You can toggle a highlight off, or delete it, at any time.
+**4.** Reorder rules to set their precedence, then click **Save**. You can toggle a highlight off or delete it at any time. Highlights belong to the active character profile.
 
-![Desktop Notifications editor with script permission, sound, vital thresholds, and text patterns](/assets/wikidot/praetor-guide/praetor-notifications.png)
+**Notifications** can raise local desktop or browser alerts and can send selected alerts to a Discord channel through a webhook. Open **Esc → Notifications & logs → Notifications**.
 
-**Notifications** can raise desktop alerts when something happens. Built-in health, fatigue, and text-pattern notifications use the desktop alert. Lua `notify()` calls, when allowed, also show an in-app notice. PraetorScript `$(notify ...)` shows both a desktop alert and an in-app notice and is independent of the Lua permission. To configure notifications:
+![Notification settings with separate health, fatigue, string, and Discord controls](/assets/wikidot/praetor-guide/praetor-notifications.png)
 
-1. Press **Esc**
-2. Choose **Behavior**, then **Notifications**
-3. Turn on **Allow Script Notifications** if Lua modes should be allowed to send notifications. It is off by default and controls both their desktop alerts and in-app notices; built-in threshold and pattern notifications still work independently
-4. Choose whether notifications play the operating system's default sound
-5. Set a **health-below** threshold (on by default, at 25) or a **fatigue-below** threshold (off by default, at 10)
-6. Add your own **text patterns**: text to match, plus an optional notification title and message. Matching is case-insensitive; `*` matches any run of characters and `?` matches one character
-7. **Save**
+Health, Fatigue, and every String match have their own controls:
 
-If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Praetor uses the matching game text.
+* **Enable** or disable that rule.
+* For Health and Fatigue, choose the percentage threshold.
+* Choose **Focused or unfocused** or **Only while unfocused**.
+* Turn the operating system's default **Sound** on or off.
+* Send to **Desktop**, **Discord**, **Both**, or **Neither**.
+
+Health starts enabled below 25%. Fatigue starts disabled with a 10% threshold. Both initially use local desktop or browser delivery without sound.
+
+String rules also have their own match, title, and message. Matching is case-insensitive; `*` matches any run of characters and `?` matches one character. Saved variables work in all three fields. If a title resolves empty, Praetor uses **Alert**. If a message resolves empty, Praetor uses the matching game text. An unresolved variable suppresses that notification and produces a rate-limited warning.
+
+Lua `notify()` calls are controlled separately by **Enable script notifications**, **Sound**, and **Also send to Discord**. This permission starts off. PraetorScript `$(notify ...)` is independent of the Lua permission and always creates an in-app notice plus the available local notification; it also uses the script Discord destination when configured.
+
+For Discord delivery, create a webhook for the destination Discord channel, turn on **Enable Discord delivery**, paste its official `https://discord.com/api/webhooks/...` or `https://discordapp.com/api/webhooks/...` URL, and choose **Save and send test**. The field is password-masked, webhook tokens are never written to logs or returned errors, and Discord mentions are suppressed. Discord webhooks post to channels, not directly to an individual user's private messages.
+
+In praetor-web, choose **Enable on this browser** on every device that should receive browser notifications. Browser permission and the focused/unfocused check are evaluated separately on each device.
+
+Save after making changes.
 
 ### Search {#search}
 
@@ -714,7 +807,7 @@ If a pattern title is blank, Praetor uses **Alert**. If its message is blank, Pr
 
 ![Praetor Notes list](/assets/wikidot/praetor-guide/praetor-notes.png)
 
-The notepad keeps freeform notes: plans, backstory, who owes you what. Open it with **/notes**, or from the Esc menu under **Tools & References**.
+The notepad keeps freeform notes: plans, backstory, who owes you what. Open it with **/notes**, or from **Tools & help → Notes**.
 
 | Command | What it does |
 | --- | --- |
@@ -855,13 +948,13 @@ Give it a bookmark's name to open that page in your browser:
 ~~~
 
 
-The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmarks**.
+The same list is under **Tools & help → Wiki bookmarks**.
 
 #### Map bookmarks
 
 ![Map Bookmarks browser grouped by region](/assets/wikidot/praetor-guide/praetor-maps.png)
 
-**/maps** on its own lists this wiki's maps by region: Iridine, The Steps, Invex River Delta, Salinae Swamp, Eastern Grasslands, Rock Valley, Franlius, Monlon, Seld, and Cullaiden Island. Each region expands to its individual maps. Give it a map's name to open that map in your browser, for example the Sewers and Sea Caves map:
+**/maps** (or **/map**) on its own lists this wiki's maps by region: Iridine, The Steps, Invex River Delta, Salinae Swamp, Eastern Grasslands, Rock Valley, Franlius, Monlon, Seld, and Cullaiden Island. Each region expands to its individual maps. Give it a map's name to open that map in your browser, for example the Sewers and Sea Caves map:
 
 
 ~~~
@@ -869,7 +962,7 @@ The same list is in the Esc menu under **Tools & References**, as **Wiki Bookmar
 ~~~
 
 
-The same list is under **Tools & References**, as **Map Bookmarks**.
+The same list is under **Tools & help → Map bookmarks**.
 
 #### Calculator {#calculator}
 
@@ -894,13 +987,13 @@ The training-cost section shows the Basics and Subskill rank changes and the cos
 
 #### Help
 
-**/help** opens the same window as **Help** under **Tools & References** in the Esc menu. At the top, enter a game-help topic and choose **Search** to send `?topic` to the game, or choose **Open TEC Wiki** to open the wiki in your browser. The window also documents input syntax, key bindings, and every slash command.
+**/help** opens **Tools & help → Help**. At the top, enter a game-help topic and choose **Search** to send `?topic` to the game, or choose **Open TEC Wiki** to open the wiki in your browser. The screen also documents input syntax, key bindings, and every slash command.
 
-**/guide** opens the getting-started window, with a short Praetor overview and links to this guide and the scripting documentation.
+**/guide** opens **Application → Getting started**, with a short Praetor overview and links to this guide and the scripting documentation.
 
 ### Logs and data {#logs}
 
-Session transcripts are turned on or off with the **Session transcript logging** setting and moved with the **Log path** setting. They're written to:
+Session transcripts are turned on or off under **Notifications & logs → Logging** with **Session transcript logging** and moved with **Log path**. **Retain application logs** controls whether old app logs survive the next launch. Session transcripts are written to:
 
 
 ~~~
@@ -916,13 +1009,17 @@ The app log (startup, connection, and error detail, not a copy of the game text)
 ~~~
 
 
-![Persistent Data browser with export and clear controls](/assets/wikidot/praetor-guide/praetor-persistent-data.png)
+![Long-term Script Data browser with export and clear controls](/assets/wikidot/praetor-guide/praetor-persistent-data.png)
 
-To see what your modes have saved between sessions:
+**Long-term script data** is for accumulated records such as maps, observations, and lifetime statistics. Player-visible preferences and resumable workflow inputs belong in Variables instead; ordinary private mode state clears when the mode changes.
+
+To see what modes have accumulated for the active character:
 
 1. Press **Esc**
-2. Choose **Automation**, then **Persistent Data**
+2. Choose **Automation**, then **Long-term script data**
 3. Export selected keys, or clear them
+
+This data follows the active character profile. Default uses the authenticated account's namespace.
 
 Exports land in:
 
