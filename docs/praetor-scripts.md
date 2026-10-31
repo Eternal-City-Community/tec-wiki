@@ -23,42 +23,23 @@ Not every file in a scripts folder is a mode. Files whose names start with **lib
 
 ### Install the shared scripts
 
-The shared library lives on GitHub as **praetor-scripts** and is published as numbered releases.
+The shared library lives on GitHub as **praetor-scripts**. Praetor 0.6.0 can install and update it directly:
 
-**1.** Open the [latest praetor-scripts release](https://github.com/cyber-godzilla/praetor-scripts/releases/latest) and, under **Assets**, download the zip.
+1. Press **Esc**, choose **Automation**, then **Script Manager**.
+2. Choose **Add praetor-scripts**.
+3. The source installs **disabled** and **Restricted**. Review the source, then choose **Enable** and confirm the Restricted permissions.
 
-![GitHub release with the versioned praetor-scripts ZIP listed first under Assets](/assets/wikidot/praetor-scripts/praetor-scripts-release.png)
+Praetor follows the highest stable version tag. If a repository has no stable semantic-version tag, it follows that repository's default branch instead. The built-in Git client means this works even when the computer does not have a separate `git` command installed.
 
-**2.** Unzip it somewhere that won't move. The folder will be named after the version, for example:
+The suggested praetor-scripts source checks for updates in the background at startup. A startup check only reports that an update is available; it never installs one. Other repositories can opt in with **Check at startup**.
 
+To update, choose **Check for updates**. When no Lua mode is active, that one button temporarily unloads the source, downloads and validates the update, reloads the scripts, and restores the source's previous enabled state. A failed update rolls back to the working checkout. You do not need to disable, update, reload, and re-enable it yourself.
 
-~~~
-~/praetor-scripts-v0.1.1             (macOS and Linux)
-Documents\praetor-scripts-v0.1.1     (Windows)
-~~~
+Script Manager also accepts other anonymously readable **HTTPS Git repository** URLs. Authentication, private repositories, ZIP sources, and prerelease tracking are not supported in 0.6.0.
 
+#### Local script directories
 
-Check that the unzipped folder contains **macro.lua** directly, not another folder inside it.
-
-**3.** In Praetor, press **Esc**, choose **Automation**, then **Script Directories**. Click **Browse…**, pick the folder, then **Save**. Closing without saving discards it.
-
-**4.** Press **Esc** again, choose **Automation**, then **Reload Scripts**. The modes are now loaded.
-
-#### Fallback: the latest unreleased copy
-
-If you want changes that haven't made it into a release yet, open the [repository page](https://github.com/cyber-godzilla/praetor-scripts), click the green **Code** button, then **Download ZIP**. Unzip and add the folder exactly as above.
-
-#### Updating
-
-Download the newer release's zip, replace the folder's contents, then **Reload Scripts**. If you know git, clone the repository instead and pull to update:
-
-
-~~~
-git clone https://github.com/cyber-godzilla/praetor-scripts.git ~/praetor-scripts
-~~~
-
-
-Keep your own scripts in a separate folder so an update never overwrites them. The default folder is fine for that:
+Keep your own scripts in a local directory so a managed update can never overwrite them. The default directory is:
 
 
 ~~~
@@ -73,6 +54,16 @@ On Windows that is:
 C:\Users\<you>\.config\praetor\scripts\
 ~~~
 
+
+In **Script Manager → Local directories**, add or browse to a folder, reorder it if needed, and choose **Save directories**. Saving reloads the available modes. Existing local directories remain fully Trusted for compatibility, so only add code you trust.
+
+#### Restricted and Trusted sources
+
+Every managed source starts **Restricted** and runs in its own isolated Lua environment. It receives Praetor's documented automation APIs plus Lua's base, table, string, math, and coroutine libraries. It can load Lua helpers only from its own managed checkout. It cannot access files, processes, environment variables, debugging APIs, dynamic loaders, native modules, or another source's libraries.
+
+You can explicitly choose **Make Trusted…** for code you have reviewed. Trusted sources receive the legacy full Lua environment, including `os`, `io`, `debug`, and normal `package.path` imports, and can act with Praetor's permissions. Changing trust or enablement rebuilds the Lua runtime transactionally. If a mode is active, Praetor asks before stopping it.
+
+Restricted code can still send game commands through Praetor's automation functions. Restricted means isolated from the computer and other script sources; it does not mean the script cannot play the game for you.
 
 ### Run a mode {#run}
 
@@ -89,7 +80,7 @@ As you type the mode's name, the hint line above the input shows that mode's arg
 
 ![The Praetor input hint showing loot arguments, completion handoffs, and its description](/assets/wikidot/praetor-scripts/praetor-mode-hint.png)
 
-**/list** opens a **Switch Mode** window that shows every loaded mode with its description. Use it to browse what you have. Clicking a mode there starts it with no arguments, so for anything that takes arguments, use **/mode** and the hint line instead.
+**/list** opens **Automation → Switch mode**, which shows every loaded mode with its description. Use it to browse what you have. Clicking a mode there starts it with no arguments, so for anything that takes arguments, use **/mode** and the hint line instead.
 
 ![Switch Mode window showing each loaded mode's arguments, completion support, and description](/assets/wikidot/praetor-scripts/praetor-mode-select.png)
 
@@ -104,11 +95,11 @@ To stop the running mode:
 **Alt+M** steps through a short list of modes you choose, useful for the ones you switch between often. To pick them:
 
 1. Press **Esc**
-2. Choose **Automation**, then **Quick-Cycle Modes**
+2. Choose **Automation**, then **Quick-cycle modes**
 3. Toggle the modes you want in the cycle
 4. **Save**
 
-To watch what a running mode is doing, turn on the **Echo script commands** setting (Esc, **Display & Behavior**, **Settings**). Every command the mode sends then shows in the output in italics.
+To watch what a running mode is doing, turn on **Echo script commands** under **Esc → Input & commands → Input behavior**. Every command the mode sends then shows in the output in italics.
 
 #### Completion handoffs
 
@@ -118,9 +109,10 @@ Modes that run to completion can start another mode or send one final game comma
 ~~~
 /mode loot bronze|alanti after_mode:wagon romulus
 /mode wagon romulus after_do:look in wagon
+/mode idle after_ps:stand&&climb wall;;look
 ~~~
 
-The first `after_mode:` or `after_do:` token begins the handoff payload, so it and every later token belong to the handoff. `after_mode:` treats its value as the next mode and passes the remaining tokens to that mode. `after_do:` joins its value and the remaining tokens into one game command, disables automation, then sends it.
+The first `after_mode:`, `after_do:`, or `after_ps:` token begins the handoff payload, so it and every later token belong to the handoff. `after_mode:` treats the first value as the next mode and passes the remaining tokens to that mode. `after_do:` joins the payload into one game command, disables automation, then sends it. `after_ps:` joins the payload into one PraetorScript expression and runs it after disabling automation.
 
 Because the next mode receives the remaining tokens, mode handoffs can nest:
 
@@ -130,7 +122,7 @@ Because the next mode receives the remaining tokens, mode handoffs can nest:
 ~~~
 
 
-Not every mode supports completion handoffs. The hint line and Switch Mode window show **[after_&lt;mode|do&gt;:&lt;mode|command&gt;]** when one does. The older `after:<mode>` spelling remains available for compatibility, but it can pass only a mode name, not arguments for the target mode.
+Not every mode supports completion handoffs. The hint line and Switch mode screen show **[after_&lt;mode|do|ps&gt;:&lt;mode|command|praetorscript&gt;]** when one does. The older `after:<mode>` spelling remains available for compatibility, but it can pass only a mode name, not arguments for the target mode.
 
 ### Five modes to learn from
 
@@ -147,7 +139,7 @@ The shared library has a few dozen modes. These five cover the patterns the rest
 ~~~
 
 
-What it shows you: a single reaction that matches one phrase from the game (**Fatigue: 100%**), a timer set with **set_interval**, a notification with **notify**, and the **lib_after** library that implements completion handoffs. Lua notifications appear only when **Allow Script Notifications** is enabled under **Esc → Display & Behavior → Notifications**.
+What it shows you: a single reaction that matches one phrase from the game (**Fatigue: 100%**), a timer set with **set_interval**, a notification with **notify**, and the **lib_after** library that implements completion handoffs. Lua notifications appear only when **Enable script notifications** is on under **Esc → Notifications & logs → Notifications**.
 
 #### wagon
 
@@ -258,13 +250,13 @@ For the game side of macros and targeting, see [Macros](/macros/) and [Macros an
 
 | Symptom | Likely cause | Fix |
 | --- | --- | --- |
-| mode not in the mode list | folder not added, or Reload Scripts not run | add the folder under **Script Directories** (Esc menu, **Automation**), then **Reload Scripts** |
+| mode not in the mode list | source disabled, local folder not added, or scripts not reloaded | check the source under **Automation → Script Manager**, then use the **Reload scripts** quick action |
 | "unknown mode" | typo, or the file is a `lib_*.lua` helper (it never appears in the list and there's no reason to start one) | check the list with `/list` (names are matched regardless of case) |
 | combat mode starts but nothing attacks | `@macro` entries missing on this character | see the [macro table](#macros) above, and watch for the game answering "I don't understand" to `at1` |
 | an expected action does not happen | a Lua callback hit the 2-second limit or raised an error | check the app log; Praetor aborts that callback but leaves the mode running |
-| error when reloading | a `lib_*.lua` file it needs is missing, or the ZIP was unzipped one folder too deep | the folder must contain `macro.lua` directly |
+| error when reloading | a required `lib_*.lua` file is missing, or the managed checkout failed validation | check Script Manager and the app log; managed updates roll back automatically |
 | commands keep going after you stop it | the queue is still draining | `/mode disable`, then Alt+X |
-| changes to a script do nothing | it wasn't reloaded | **Reload Scripts** (Esc menu, **Automation**). This also clears cached libraries |
+| changes to a script do nothing | it wasn't reloaded | use the **Reload scripts** quick action. This also clears cached libraries |
 
 The app log is at:
 
@@ -287,7 +279,7 @@ Copy the mode file from the shared folder into your own scripts folder under a n
 ~~~
 
 
-**Reload Scripts** after saving any change. Reloading clears cached libraries and immediately refreshes changed, added, and removed mode names, descriptions, and input hints.
+Use the **Reload scripts** quick action after saving any change. Reloading clears cached libraries and immediately refreshes changed, added, and removed mode names, descriptions, and input hints.
 
 **Change the attack rotation.** In **macro.lua**, the rotation is a plain list near the top of the file:
 
@@ -370,13 +362,13 @@ Reading it top to bottom:
 * **M.hidden** hides the mode from input hints when true. It can still be run by name and still appears in the Switch Mode window.
 * **on_start** runs when the mode is activated, and gets the words you typed after the mode name as a list of arguments.
 * **on_stop** runs when you switch away.
-* **reactions** is a list of match and action pairs. A match is a plain substring of the game text, or a pattern where `*` matches any run of characters and `?` matches one character. A list of strings matches if any of them does. When a line matches, the action runs with that line as its argument.
+* **reactions** is a list of match and action pairs. A match is a case-sensitive substring, or a pattern where `*` matches any run of characters and `?` matches one character. Put `^` at the start or `$` at the end to anchor that edge of the line; use both for a whole-line match. A list of strings matches if any of them does. When a line matches, the action runs with that line as its argument.
 * **send** queues a command for the game.
 * **return M** at the end hands the finished mode to Praetor.
 
 A reaction can also take two optional fields. **condition** is a function returning true or false that gates whether the action fires, useful for checking your health or your own state before acting. **delay** is a number of milliseconds to wait before the action runs. Neither is needed above.
 
-Save the file in your scripts folder, **Reload Scripts**, then:
+Save the file in your scripts folder, choose **Reload scripts**, then:
 
 
 ~~~
@@ -405,7 +397,21 @@ state.set('waves', state.get('waves') + 1)
 ~~~
 
 
-State is scoped to the current mode and clears when you switch modes, unless you mark a key with **state.persist**, which keeps it across switches and app restarts. Timers started with **set_interval** or **set_timeout** are canceled automatically when the mode stops, so there's nothing to clean up in **on_stop**.
+State is scoped to the current mode and normally clears when you switch modes. Timers started with **set_interval** or **set_timeout** are canceled automatically when the mode stops, so there's nothing to clean up in **on_stop**.
+
+Use `state.persist(key)` only for accumulated long-term records such as observations, discovered map data, or lifetime statistics. Persistent data follows the active character profile and appears under **Automation → Long-term script data**. `state.unpersist(key)` removes a legacy persistent key during a migration.
+
+Player-visible preferences and resumable workflow inputs belong in the active character's Variables instead:
+
+
+~~~
+local weapon = variables.get('weapon') or 'gladius'
+variables.set('weapon', weapon)
+send('wield ' .. weapon)
+~~~
+
+
+`variables.get(name)` returns a string or `nil`. `variables.set(name, value)` validates and saves the string before Lua continues. These are the same values shown in the Variables view and expanded by `${name}` in PraetorScript.
 
 ### Run PraetorScript from a mode
 
@@ -432,7 +438,7 @@ This uses the same parser, executor, Stop control, and Automation Bar status as 
 * Matching is plain text, not a regular expression, and a reaction's Lua only runs when its match actually matches a line.
 * Matching is case-sensitive.
 * The first reaction that matches a line wins. Later reactions in the list are not checked.
-* **Reload Scripts** clears cached libraries, so an edit to a **lib_** file only takes effect after a reload.
+* **Reload scripts** clears cached libraries, so an edit to a **lib_** file only takes effect after a reload.
 
 ### Learn more
 
