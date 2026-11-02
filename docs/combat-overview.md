@@ -1,6 +1,6 @@
 ---
-title: "Combat Overview"
-category: "Skills & Combat"
+title: Combat Overview
+category: Skills & Combat
 parent: combat
 ---
 
@@ -122,6 +122,18 @@ Only applies to humanoids.
 | ~ Attacks | jab | chop | swat | jab (-20) | slash |
 | ~ Attacks | jab | chop | swat | slash | jab (-10) |
 
+#### Encumbrance penalties
+| Encumbrance level | Pounds | Penalty per Pound | Strength | Stand up RT | Fatigue Loss % |
+| --- | --- | --- | --- | --- | --- |
+| No load to speak of | 0-9 | None | Below Average | 1+MoS | 100% |
+| Light load | 10-22 | None | Below Average | 1-2+MoS | 100% |
+| Moderate load | 22.5-44 | None | Below Average | 2-5+MoS | 100% |
+| Significant load | 45-66 | -1 Offense/-2 Defense | Below Average | 5-7+MoS | 100% |
+| Heavy load | 67-88 | -1 Offense/-2 Defense | Below Average | 7-10+MoS | 200% |
+| Very heavily encumbered | 89-106 | -1 Offense/-2 Defense | Below Average | 10-12+MoS | 200% |
+| Extremely encumbered and having difficulty moving | 106.5-123 | -1 Offense/-2 Defense | Below Average | 12-14+MoS | 200% |
+| Carrying about all that you can, and can barely move | 124-131.5 | -1 Offense/-2 Defense | Below Average | 14-15+MoS | 200% |
+| Overloaded, and about to collapse under the weight | 132-152 | -1 Offense/-2 Defense | Below Average | 15-17+MoS | 200% |
 
 [Back to Top](#)
 
