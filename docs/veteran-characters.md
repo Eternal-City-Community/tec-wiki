@@ -17,7 +17,7 @@ Veteran Character **(VC) Packages** are meant to encourage players to pursue mul
 
 A VC package includes [General Skill Points (GSPs)](/skills/#GSP) to learn [Skills](/skills/), [in-game money](/wealth/), attribute points redeemable on [Stat](/stats/) increases, and credits for **items**, **skill slots** and more.
 
-> **Hooded cloaks and masks are ILLEGAL in the city limits. If you buy a hood or mask in the Veteran Character lobby, DO NOT WALK EAST after leaving the the lobby. Veteran characters start off just west of the Phoenix Guard checkpoint. You will get it confiscated and hit with a very long jailtime.**
+**Hooded cloaks and masks are ILLEGAL in the city limits. If you buy a hood or mask in the Veteran Character lobby, DO NOT WALK EAST after leaving the the lobby. Veteran characters start off just west of the Phoenix Guard checkpoint. You will get it confiscated and hit with a very long jailtime.**
 
 * [Obtaining a VC](#Overview)
 * [Retiring an Existing Character](#Retire)
