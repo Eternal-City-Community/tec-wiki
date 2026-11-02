@@ -1,6 +1,6 @@
 ---
-title: "Veteran Characters"
-category: "Reference"
+title: Veteran Characters
+category: Reference
 parent: character-generator
 ---
 
@@ -16,6 +16,8 @@ parent: character-generator
 Veteran Character **(VC) Packages** are meant to encourage players to pursue multiple and diverse character experiences by alleviating some of the difficulty of starting a new character. Each package includes GSP to train skills, credits which can be spent on both standard and custom items, a modest amount of money in their bank account, and attribute points redeemable on attribute increases. The more expensive packages include a free makeover in addition to these perks.
 
 A VC package includes [General Skill Points (GSPs)](/skills/#GSP) to learn [Skills](/skills/), [in-game money](/wealth/), attribute points redeemable on [Stat](/stats/) increases, and credits for **items**, **skill slots** and more.
+
+> **Hooded cloaks and masks are ILLEGAL in the city limits. If you buy a hood or mask in the Veteran Character lobby, DO NOT WALK EAST after leaving the the lobby. Veteran characters start off just west of the Phoenix Guard checkpoint. You will get it confiscated and hit with a very long jailtime.**
 
 * [Obtaining a VC](#Overview)
 * [Retiring an Existing Character](#Retire)
@@ -252,6 +254,8 @@ Use those credits to appoint your character:
 | 19 | A sagum | 1 credit |
 | 20 | A hooded cloak | 50 credits |
 
+> **Hooded cloaks and masks are ILLEGAL in the city limits. If you buy a hood or mask in the Veteran Character lobby, DO NOT WALK EAST after leaving the the lobby. Veteran characters start off just west of the Phoenix Guard checkpoint. You will get it confiscated and hit with a very long jailtime.**
+
 *Rotating customized items may also appear in the display case; their availability and prices vary.*
 
 **Warning:** These items have no options to enhance them. The descriptions of two items above are truncated in the supplied in-game shop output; verify their full descriptions in game.
@@ -303,6 +307,8 @@ Use those credits to appoint your character:
 | 41 | A lorica segmentata | 120 credits |
 
 *Rotating customized items may also appear in the display case; their availability and prices vary.*
+
+> **Hooded cloaks and masks are ILLEGAL in the city limits. If you buy a hood or mask in the Veteran Character lobby, DO NOT WALK EAST after leaving the the lobby. Veteran characters start off just west of the Phoenix Guard checkpoint. You will get it confiscated and hit with a very long jailtime.**
 
 **Note:** Shield quality can be enhanced at the cost of additional credits.
 
