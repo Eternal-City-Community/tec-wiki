@@ -1,6 +1,6 @@
 ---
-title: "Hg Filinius Villa"
-category: "World & Maps"
+title: Hg Filinius Villa
+category: World & Maps
 parent: hunting-grounds
 ---
 
@@ -14,7 +14,7 @@ Following a tragic masked party, Turrinio Filinius' estate has fallen into disar
 
 This hunting area is best suited for **mid-to-high level fighters** and is located near the [Village of Seld](/village-of-seld/).
 
-**Suggested [@mtarg](/macros-and-targeting/)**: **raider|looter|plunderer|marauder**
+**Suggested [@mtarg](/macros-and-targeting/)**: ** marauder|plunderer|looter|ruffian|rogue**
 
 
 #### Highlights
