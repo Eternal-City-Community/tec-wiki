@@ -1,5 +1,5 @@
 ---
-title: Basic Forestry
+title: Basic Woodworking
 category: Reference
 parent: skills
 ---
