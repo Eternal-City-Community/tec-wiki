@@ -233,7 +233,8 @@ none
 
 <div class="skill-template">
 
-none
+A tough Kelestian raider swings the blade of his sharpened tin falx over his head, chopping at you, but fails to hit. You cross the reinforced flats of your alanti dagger and alanti dagger, channeling the force of a tough Kelestian raider's sharpened tin falx down and away!
+
 
 </div>
 
